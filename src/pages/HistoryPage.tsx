@@ -1,14 +1,17 @@
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 import { Badge, Button, Table } from 'react-bootstrap';
 import { bandOf } from '../engine/score';
 import { clearHistory, loadHistory } from '../hooks/store';
 
 export default function HistoryPage() {
   const [entries, setEntries] = useState(loadHistory);
+  const titleRef = useRef<HTMLHeadingElement>(null);
   return (
     <div className="col-12 col-lg-8 mx-auto">
       <div className="d-flex justify-content-between align-items-center mb-3">
-        <h1 className="h3 mb-0">History</h1>
+        <h1 ref={titleRef} tabIndex={-1} className="h3 mb-0">
+          History
+        </h1>
         {entries.length > 0 && (
           <Button
             variant="outline-danger"
@@ -16,6 +19,8 @@ export default function HistoryPage() {
             onClick={() => {
               clearHistory();
               setEntries([]);
+              // The button disappears with the entries: keep the focus on the page.
+              titleRef.current?.focus();
             }}
           >
             Clear history

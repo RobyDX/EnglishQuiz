@@ -53,7 +53,7 @@ Dettagli e quote in `07-contenuti.md`. Per ogni livello: scrivere i lotti per ti
 - [ ] Verifica offline
 
 ## Fase 6 – Rifinitura
-- [ ] Accessibilità (tastiera, aria-live)
+- [x] Accessibilità (tastiera, aria-live): skip link, livelli con frecce, focus mai perso, regione `role="status"` unica in QuizPage (vedi `04-ui-ux.md`)
 - [ ] Verifica responsive 360 px / 768 px / 1440 px (anche barra sticky)
 - [ ] (Opzionale) Export/Import JSON della cronologia
 - [ ] (Opzionale) Messaggio quando un livello ha meno domande di quelle richieste

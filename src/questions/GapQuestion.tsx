@@ -14,11 +14,20 @@ export default function GapQuestion({ question: q, answer, onChange, disabled, o
     <>
       {q.type === 'word-bank' && (
         <p className="mb-2">
-          {q.bank.map((w) => (
-            <Badge key={w} bg={values.includes(w) ? 'secondary' : 'info'} text="dark" className="me-1 fs-6 fw-normal">
-              {w}
-            </Badge>
-          ))}
+          {q.bank.map((w) => {
+            const used = values.includes(w);
+            return (
+              <Badge
+                key={w}
+                bg={used ? 'secondary' : 'info'}
+                text="dark"
+                className={`me-1 fs-6 fw-normal ${used ? 'text-decoration-line-through' : ''}`}
+              >
+                {w}
+                {used && <span className="visually-hidden"> (used)</span>}
+              </Badge>
+            );
+          })}
         </p>
       )}
       <div className="gap-text">
