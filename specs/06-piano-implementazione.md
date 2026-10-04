@@ -39,8 +39,9 @@ Dettagli e quote in `07-contenuti.md`. Per ogni livello: scrivere i lotti per ti
 - [ ] B1 – 2000 domande
 - [ ] B2 – 2000 domande
 - [ ] C1 – 2000 domande
-- [ ] C2 – 2000 domande (116/2000)
+- [x] C2 – 2000 domande (2000/2000, quote di `07-contenuti.md` rispettate per ogni tipologia; argomenti tra 6,4% e 13,2%)
   - [x] Lotto 1: +100 domande distribuite in proporzione alle quote di `07-contenuti.md` (mc 20, fb 18, tr 15, es 13, ec 13, rm 8, mp 8, tf 5); testi di lettura 165–200 parole
+  - [x] Lotto 2: +1884 domande (mc 353, fb 345, tr 283, es 250, ec 250, mp 155, rm 155, tf 93); testi di lettura 169–204 parole. Restano sotto le 150 parole i 4 testi brevi del set di prova (c2-rm-001/002, c2-tf-001/002)
 
 ## Fase 5 – PWA
 - [x] Manifest + icone
