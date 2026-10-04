@@ -43,6 +43,141 @@
           "answer": true
         }
       ]
+    },
+    {
+      "id": "c2-tf-003",
+      "type": "true-false",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says the brain was once thought to 'switch off', memories are 'reorganised as they are stored', some nap studies 'have proved difficult to repeat', and few scientists dispute that lack of sleep impairs learning.",
+      "passage": "For much of the twentieth century, sleep was regarded as little more than a period of rest during which the brain more or less switched off. That assumption has since been overturned. Researchers now argue that the sleeping brain is remarkably busy, sorting through the experiences of the day and deciding which to keep. During deep sleep, it appears, recently formed memories are replayed and gradually transferred to longer-term storage, while less useful information is allowed to fade. The process is not a simple recording, however. Memories seem to be reorganised as they are stored, which may explain why people sometimes wake with a fresh solution to a problem that baffled them the night before. Not every claim in this field is settled. Some studies that reported dramatic improvements in learning after a nap have proved difficult to repeat, and critics warn against overstating results from small groups of volunteers. What few scientists now dispute is that a persistent lack of sleep impairs both concentration and the ability to learn, a finding with obvious implications for students who sacrifice rest in order to revise.",
+      "statements": [
+        {
+          "text": "Scientists in the twentieth century generally saw sleep as an active period for the brain.",
+          "answer": false
+        },
+        {
+          "text": "Memories are stored during sleep in exactly the form in which they were experienced.",
+          "answer": false
+        },
+        {
+          "text": "Some research results on napping have been hard to reproduce.",
+          "answer": true
+        },
+        {
+          "text": "There is broad agreement that long-term lack of sleep harms learning.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "c2-tf-004",
+      "type": "true-false",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text mentions companies 'eager to display their environmental credentials', says honeybee numbers are 'in no danger of collapse', that most wild bees 'live alone', and that researchers suggest cities 'cap the number of hives'.",
+      "passage": "Rooftop hives have become a familiar sight in many European cities, promoted by companies eager to display their environmental credentials. At first glance, the trend seems wholly positive: honeybees are in decline in parts of the countryside, so giving them a home among office blocks sounds like a sensible remedy. Ecologists, however, are increasingly sceptical. The honeybee is a managed, domesticated species, and its numbers are in no danger of collapse. The insects that are genuinely under threat are the hundreds of species of wild bee, most of which live alone rather than in colonies. When too many hives are placed in a small area, honeybees compete with these wild species for a limited supply of flowers, and may even spread disease to them. Some researchers therefore suggest that cities should cap the number of hives and invest instead in planting a wider variety of flowering plants, which benefit all pollinators. A rooftop hive, they argue, can easily become a symbol of concern for nature rather than a meaningful contribution to protecting it.",
+      "statements": [
+        {
+          "text": "Some companies keep rooftop hives partly to improve their public image.",
+          "answer": true
+        },
+        {
+          "text": "Ecologists believe that honeybees are at serious risk of disappearing.",
+          "answer": false
+        },
+        {
+          "text": "Most species of wild bee live in large colonies.",
+          "answer": false
+        },
+        {
+          "text": "Some researchers propose limiting the number of hives in cities.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "c2-tf-005",
+      "type": "true-false",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says the difference 'hardly mattered' before trains, towns changed 'not without resistance', some clocks 'displayed two minute hands', and standard time became law only in 1880, after the railways.",
+      "passage": "Before the arrival of the railways, every town in Britain kept its own time, set by the position of the sun. Noon in Bristol fell roughly ten minutes later than noon in London, a difference that hardly mattered when a journey between the two took several days. Fast trains changed that. Timetables became almost impossible to read when each station followed its own clock, and the risk of collisions on single-track lines made confusion potentially deadly. One by one, the railway companies adopted London time for their operations, and many towns soon followed, though not without resistance. Some local authorities saw the change as an attack on their independence, and for years a number of public clocks displayed two minute hands, one showing local time and one showing railway time. It was not until 1880 that a single standard time became law across the whole of Great Britain. By then, of course, most people had long since stopped caring what the sun was doing at midday.",
+      "statements": [
+        {
+          "text": "Differences in local time caused few problems before the railways.",
+          "answer": true
+        },
+        {
+          "text": "Every town accepted railway time immediately.",
+          "answer": false
+        },
+        {
+          "text": "Some public clocks showed two different times.",
+          "answer": true
+        },
+        {
+          "text": "A single national time became law before the first railways were built.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "c2-tf-006",
+      "type": "true-false",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says open offices were 'sold' to encourage collaboration, face-to-face interaction 'fell by around two thirds', the open office is not 'doomed', and it is 'considerably cheaper' than private rooms.",
+      "passage": "Open-plan offices were sold to employers as a way to encourage spontaneous conversation and collaboration. Remove the walls, the argument went, and ideas would flow freely between colleagues who would otherwise never speak. The evidence for this claim has turned out to be surprisingly thin. One frequently cited study, which tracked employees before and after their company moved to an open layout, found that face-to-face interaction actually fell by around two thirds, while the number of emails rose sharply. Faced with constant noise and the feeling of being watched, workers seemed to retreat behind headphones and screens. None of this means that the open office is doomed. Its defenders point out that it is considerably cheaper than giving everyone a private room, and that some teams genuinely thrive on the buzz of a shared space. A growing number of firms now favour a compromise: open areas for group work, combined with quiet rooms that anyone can book when they need to concentrate. Whether this hybrid will deliver the promised creativity remains to be seen.",
+      "statements": [
+        {
+          "text": "Open-plan offices were promoted as a way to increase collaboration.",
+          "answer": true
+        },
+        {
+          "text": "The study found that employees talked to each other more after the move.",
+          "answer": false
+        },
+        {
+          "text": "The writer believes that open-plan offices will soon disappear.",
+          "answer": false
+        },
+        {
+          "text": "Open offices cost less than giving every employee a private room.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "c2-tf-007",
+      "type": "true-false",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says a strong placebo response can make a useful medicine 'look ineffective', expensive-looking pills work better, patients can benefit when 'told openly' the pill is sugar, and placebos do not 'heal broken bones'.",
+      "passage": "The placebo effect, in which patients improve after receiving a treatment with no active ingredient, has long been treated as a nuisance by medical researchers. New drugs must outperform a dummy pill in clinical trials, and a strong placebo response can make a genuinely useful medicine look ineffective. Yet a number of scientists have begun to view the phenomenon as worthy of study in its own right. Their experiments suggest that the context of treatment matters a great deal: expensive-looking pills tend to work better than cheap ones, and injections tend to outperform tablets, even when all of them are inactive. More surprisingly, some trials have found that patients can benefit even when they are told openly that the pill they are taking contains nothing but sugar. The effect is not unlimited. Placebos do not shrink tumours or heal broken bones, and their influence appears strongest on symptoms such as pain and fatigue, which are shaped partly by the way the brain interprets signals from the body. Understanding why may help doctors make better use of the treatments that do work.",
+      "statements": [
+        {
+          "text": "A strong placebo response can make it harder to show that a new drug works.",
+          "answer": true
+        },
+        {
+          "text": "Cheap-looking pills usually produce a stronger placebo effect.",
+          "answer": false
+        },
+        {
+          "text": "In some trials, patients improved even though they knew the pill was inactive.",
+          "answer": true
+        },
+        {
+          "text": "Placebos have been shown to heal serious physical injuries.",
+          "answer": false
+        }
+      ]
     }
   ]
 }

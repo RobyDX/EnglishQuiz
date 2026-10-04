@@ -59,6 +59,310 @@
           "correct": 1
         }
       ]
+    },
+    {
+      "id": "c2-rm-003",
+      "type": "reading-mc",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "The large stall had 'more visitors but far fewer sales'; people are 'haunted by the thought that a better option was left'; and the consensus is that choice is a problem 'mainly when' certain conditions apply.",
+      "passage": "Common sense suggests that the more options we have, the happier we will be. A shopper faced with forty varieties of jam ought, in theory, to be better served than one offered only six. Yet a body of research beginning in the late 1990s challenged this assumption. In one widely discussed experiment, a stall displaying a large selection of products attracted more visitors but generated far fewer sales than a stall with a small selection. The proposed explanation was that abundant choice can be paralysing: when the alternatives are numerous and similar, deciding becomes effortful, and the fear of choosing badly leads people to avoid choosing at all. Even those who do decide may end up less satisfied, haunted by the thought that a better option was left on the shelf. Later attempts to replicate these findings, however, produced mixed results, and a large review concluded that the average effect of extra choice was close to zero. The consensus now is more nuanced. Too much choice appears to be a problem mainly when people lack clear preferences, when the options are hard to compare, or when they are under time pressure.",
+      "items": [
+        {
+          "q": "What happened at the stall with the large selection?",
+          "options": [
+            "It attracted fewer visitors and made fewer sales.",
+            "It attracted more visitors but made fewer sales.",
+            "It attracted more visitors and made more sales."
+          ],
+          "correct": 1
+        },
+        {
+          "q": "Why might people who do choose still feel dissatisfied?",
+          "options": [
+            "They worry that they missed a better option.",
+            "They paid too much for the product.",
+            "They were pressured by the seller."
+          ],
+          "correct": 0
+        },
+        {
+          "q": "What is the current view of this research?",
+          "options": [
+            "Extra choice always makes people unhappy.",
+            "The original findings have been fully confirmed.",
+            "Too much choice causes problems mainly in certain conditions."
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": "c2-rm-004",
+      "type": "reading-mc",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "Translators respond 'with a weary smile'; errors are 'harder to spot' because the output 'reads so naturally'; and translators now spend 'more time checking and refining machine output'.",
+      "passage": "Machine translation has improved so rapidly in recent years that some observers have predicted the end of the translation profession. Professional translators tend to respond with a weary smile. Software, they point out, is now extremely good at producing fluent sentences, and for routine documents such as product manuals it can save enormous amounts of time. Fluency, however, is not the same as accuracy. A machine may render a legal clause in perfectly smooth prose while quietly reversing its meaning, and because the output reads so naturally, such errors are harder to spot than the clumsy mistakes of older systems. Literary texts pose a different difficulty. A novelist's choice of a slightly unusual word, or a pun that works only in the original language, demands an interpretive decision that no statistical model can make on the author's behalf. What has changed is the nature of the work. Many translators now spend less time translating from scratch and more time checking and refining machine output, a task some find tedious and others regard as a welcome way of handling larger volumes. Few expect the human role to vanish; most expect it to keep shifting.",
+      "items": [
+        {
+          "q": "How do professional translators usually react to predictions that their job will disappear?",
+          "options": [
+            "With panic",
+            "With tired amusement",
+            "With enthusiasm"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "Why are errors in modern machine translation particularly risky?",
+          "options": [
+            "They are extremely frequent.",
+            "They occur only in literary texts.",
+            "The fluent style makes them hard to notice."
+          ],
+          "correct": 2
+        },
+        {
+          "q": "How has translators' work changed?",
+          "options": [
+            "They now spend more time checking machine output.",
+            "They have stopped working on manuals.",
+            "They translate only literary texts."
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": "c2-rm-005",
+      "type": "reading-mc",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "Asphalt and concrete 'absorb sunlight … and release it slowly'; many new trees 'have died before reaching maturity'; and maintenance is 'far less photogenic' than a mayor planting a tree.",
+      "passage": "On a hot summer afternoon, the temperature in a treeless city street can be several degrees higher than in a nearby park. This so-called urban heat island effect is caused largely by materials such as asphalt and concrete, which absorb sunlight during the day and release it slowly at night. Trees counter the effect in two ways: their canopies shade the ground, and they release water vapour through their leaves, which cools the surrounding air. As heatwaves become more frequent, many city authorities have announced ambitious tree-planting targets. Planting, however, is the easy part. A young tree in a narrow pavement pit, surrounded by compacted soil and exposed to pollution, may struggle to survive its first few years, and in some programmes a significant proportion of new trees have died before reaching maturity. Experts therefore argue that targets should be measured not by the number of saplings put in the ground but by the area of canopy that is still growing a decade later. That shift would require long-term budgets for watering and maintenance, which are far less photogenic than a mayor holding a spade.",
+      "items": [
+        {
+          "q": "What mainly causes the urban heat island effect?",
+          "options": [
+            "Exhaust fumes from cars",
+            "Materials that store heat and release it later",
+            "A lack of wind between buildings"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "What problem with tree-planting programmes does the text describe?",
+          "options": [
+            "Many young trees die before they mature.",
+            "Trees make streets too dark.",
+            "Residents object to new trees."
+          ],
+          "correct": 0
+        },
+        {
+          "q": "What does the final sentence suggest?",
+          "options": [
+            "Mayors should not plant trees themselves.",
+            "Maintenance attracts less publicity than planting.",
+            "Watering trees is too expensive to be worthwhile."
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": "c2-rm-006",
+      "type": "reading-mc",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "Museums claimed to be 'the best guardians'; tracing how an object left 'can require painstaking research'; and curators see restitution as 'an opportunity to build lasting partnerships'.",
+      "passage": "Few debates in the museum world are as charged as the one over restitution: the return of objects acquired during periods of colonial rule to the countries from which they were taken. For decades, many major institutions argued that they were the best guardians of such treasures, able to conserve them expertly and to display them to millions of visitors from around the world. Critics replied that this reasoning conveniently ignored how the objects had been obtained, often through looting, coercion or deeply unequal deals. In recent years the balance of opinion has shifted noticeably. Several museums have returned items, sometimes after years of negotiation, and some governments have changed laws that previously prevented national collections from giving anything away. The process is rarely straightforward. Establishing exactly how an object left its place of origin can require painstaking research, and disputes can arise over who the rightful recipient is when borders and communities have changed. Nevertheless, a growing number of curators now see restitution less as a loss than as an opportunity to build lasting partnerships with the places where their collections began.",
+      "items": [
+        {
+          "q": "What argument did museums traditionally use to keep these objects?",
+          "options": [
+            "They had paid a fair price for them.",
+            "They could care for and display them best.",
+            "The objects had no value in their countries of origin."
+          ],
+          "correct": 1
+        },
+        {
+          "q": "Why can restitution be complicated?",
+          "options": [
+            "The history of an object may be difficult to trace.",
+            "Most objects are too fragile to move.",
+            "Visitors are opposed to returns."
+          ],
+          "correct": 0
+        },
+        {
+          "q": "How do many curators now view restitution?",
+          "options": [
+            "As a threat to their collections",
+            "As a simple legal formality",
+            "As a chance to build new relationships"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": "c2-rm-007",
+      "type": "reading-mc",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "Slower writing 'forced them to summarise'; benefits 'may depend on how the tools are used'; and some ministries now 'restore handwriting lessons' in early primary school.",
+      "passage": "As keyboards and touchscreens have spread into classrooms, a number of schools have reduced the time devoted to teaching handwriting, and a few have dropped joined-up writing altogether. The decision seems practical: most adults now type far more than they write by hand. Some psychologists, however, urge caution. Studies in which students took lecture notes either on laptops or with pen and paper have suggested that those writing by hand remembered the underlying ideas better, possibly because their slower speed forced them to summarise rather than copy word for word. Other research on young children has linked practice in forming letters by hand with faster progress in learning to read. Neither finding is beyond dispute, and researchers caution that the benefits may depend on how the tools are used rather than on the tools themselves; a student who summarises carefully on a laptop may gain just as much. Still, the evidence has been strong enough to persuade some education ministries to restore handwriting lessons, at least in the early years of primary school, while continuing to teach typing alongside them.",
+      "items": [
+        {
+          "q": "According to the studies, why might students who write by hand understand ideas better?",
+          "options": [
+            "Paper is less distracting than a screen.",
+            "Writing slowly makes them summarise.",
+            "They attend more lectures."
+          ],
+          "correct": 1
+        },
+        {
+          "q": "What caution do researchers give?",
+          "options": [
+            "The benefit may depend on how a tool is used.",
+            "Laptops damage children's eyesight.",
+            "Handwriting slows down reading."
+          ],
+          "correct": 0
+        },
+        {
+          "q": "What have some education ministries decided?",
+          "options": [
+            "To ban laptops from schools",
+            "To stop teaching typing",
+            "To bring back handwriting lessons for young pupils"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": "c2-rm-008",
+      "type": "reading-mc",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "The bubbles show 'the composition of the atmosphere'; past levels 'never approached the levels measured in the air today'; and older ice may explain 'a puzzling change in the rhythm of the ice ages'.",
+      "passage": "Buried within the ice sheets of Antarctica and Greenland lies one of the most detailed records of the planet's past climate. Each year, snow falls on the surface and is gradually compressed into ice by the weight of later snowfall, trapping tiny bubbles of air as it does so. By drilling deep cores and analysing these bubbles, scientists can measure the composition of the atmosphere as it was hundreds of thousands of years ago. The chemistry of the ice itself reveals past temperatures, while layers of ash record volcanic eruptions that occurred long before any written history. The picture that emerges is striking. Over the period covered by the oldest cores, levels of carbon dioxide rose and fell in step with the cycle of ice ages, but they never approached the levels measured in the air today. The work is slow and costly; a single deep core can take several seasons to extract in some of the harshest conditions on Earth. Researchers are now searching for sites containing ice more than a million years old, hoping to understand a puzzling change in the rhythm of the ice ages that took place around that time.",
+      "items": [
+        {
+          "q": "What do the air bubbles in the ice allow scientists to study?",
+          "options": [
+            "The amount of snow that fell each year",
+            "The composition of the ancient atmosphere",
+            "The speed at which ice sheets move"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "What does the text say about carbon dioxide levels today?",
+          "options": [
+            "They are higher than at any point in the oldest cores.",
+            "They match the peak of the last ice age.",
+            "They are falling in step with the ice-age cycle."
+          ],
+          "correct": 0
+        },
+        {
+          "q": "Why are researchers looking for even older ice?",
+          "options": [
+            "To find evidence of early humans",
+            "To make drilling cheaper",
+            "To explain a change in the pattern of ice ages"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": "c2-rm-009",
+      "type": "reading-mc",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "Daniel's voice was 'not quite steady' because he was making 'the same effort' as his mother; she 'did not care in the least' about the staff; and the newspaper 'gave her hands something to do'.",
+      "passage": "Margaret had promised herself that she would not cry at the station, and for most of the morning the promise held. She checked the tickets twice, reminded her son that his grandmother expected a proper letter rather than a hurried message, and pretended to be absorbed in the departures board. It was only when the guard raised his whistle that her composure began to fail. Daniel, who at nineteen considered himself far beyond such scenes, leaned out of the window and said something about the weather in a voice that was not quite steady. She realised, with a mixture of tenderness and amusement, that he was making exactly the same effort as she was, and doing it no better. The train moved off. Margaret stood on the platform long after it had disappeared, aware that the station staff were glancing at her, and found that she did not care in the least. On the way home she bought a newspaper she had no intention of reading, simply because it gave her hands something to do. Only when she reached her kitchen and saw his coffee cup, still unwashed by the sink, did she finally allow herself to sit down and weep.",
+      "items": [
+        {
+          "q": "Why did Daniel talk about the weather?",
+          "options": [
+            "He was worried about the journey.",
+            "He was trying to hide his emotions.",
+            "He wanted to avoid talking about money."
+          ],
+          "correct": 1
+        },
+        {
+          "q": "How did Margaret feel about the station staff watching her?",
+          "options": [
+            "Embarrassed",
+            "Angry",
+            "Indifferent"
+          ],
+          "correct": 2
+        },
+        {
+          "q": "Why did she buy a newspaper?",
+          "options": [
+            "To keep her hands busy",
+            "To read on the way home",
+            "To send to her son"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": "c2-rm-010",
+      "type": "reading-mc",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "Productivity 'held steady or even improved'; firms 'volunteered' and may be 'unusually motivated'; and the question is now 'how, for whom and at whose expense'.",
+      "passage": "Proposals for a four-day working week have moved from the margins of political debate into the mainstream. Supporters cite a series of trials in which companies reduced hours without cutting pay and reported that productivity held steady or even improved, while staff reported less stress and fewer sick days. Sceptics are not entirely persuaded. Many of the participating firms volunteered for the trials, they note, and businesses that expect a policy to succeed may be unusually motivated to make it work. The results may therefore say little about how a typical company would cope if a shorter week were imposed by law. There are also sectors where the arithmetic is harder. A hospital or a school cannot simply close on Fridays; it must either hire more staff or reorganise shifts, both of which carry costs. Advocates respond that the model need not be uniform and that flexibility is the point: some organisations might stagger days off, while others might shorten each day instead. What seems clear is that the question is no longer whether working time can be reduced, but how, for whom and at whose expense.",
+      "items": [
+        {
+          "q": "What did companies in the trials generally report?",
+          "options": [
+            "Productivity fell sharply.",
+            "Productivity stayed the same or improved.",
+            "Staff took more sick days."
+          ],
+          "correct": 1
+        },
+        {
+          "q": "Why do sceptics doubt the trial results?",
+          "options": [
+            "The firms chose to take part and may have been biased.",
+            "The trials were too short.",
+            "The data were collected by the government."
+          ],
+          "correct": 0
+        },
+        {
+          "q": "According to the text, what is now the main question?",
+          "options": [
+            "Whether shorter hours are possible at all",
+            "Which country first had the idea",
+            "How shorter hours can be introduced and who pays"
+          ],
+          "correct": 2
+        }
+      ]
     }
   ]
 }

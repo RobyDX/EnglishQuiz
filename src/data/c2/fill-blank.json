@@ -37,6 +37,347 @@
           "for"
         ]
       ]
+    },
+    {
+      "id": "c2-fb-003",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "cleft-sentences",
+      "prompt": "Complete the sentence.",
+      "explanation": "In cleft sentences with 'All … did', use 'was' + base form: All she did was smile.",
+      "wrongReasons": {
+        "is": "The action happened in the past (did), so the verb is 'was'.",
+        "to": "'to' alone leaves the sentence without a verb; the pattern is 'All I did was + base form'."
+      },
+      "text": "All I did ___ ask a simple question, and she walked out.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-004",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "subjunctive",
+      "prompt": "Complete the sentence.",
+      "explanation": "After 'recommend/suggest/insist that', use the base form (or 'should' + base form): She suggested that he stop.",
+      "wrongReasons": {
+        "stops": "After 'recommended that' formal English uses the base form, with no -s.",
+        "stopped": "The subjunctive is always the base form; 'stopped' is not used here.",
+        "to stop": "'recommend that' is followed by a clause with the base form, not by 'to'."
+      },
+      "text": "The doctor recommended that he ___ smoking at once.",
+      "answers": [
+        [
+          "stop",
+          "should stop"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-005",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "Complete the sentence.",
+      "explanation": "After 'Not only' at the start of a sentence, put the auxiliary before the subject: Not only did he apologise, but he also paid.",
+      "wrongReasons": {
+        "does": "The race happened in the past (broke), so use 'did'.",
+        "had": "'had' would need a past participle (had she won), but the verb here is 'win'."
+      },
+      "text": "Not only ___ she win the race, but she also broke the national record.",
+      "answers": [
+        [
+          "did"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-006",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "Complete the sentence.",
+      "explanation": "After negative phrases such as 'Under no circumstances' at the start, use inversion: Under no circumstances should you open this door.",
+      "wrongReasons": {
+        "is": "'visitors' is plural, so the verb must be 'are'.",
+        "be": "'be' is the base form; the inverted verb must be a full form: are visitors allowed."
+      },
+      "text": "Under no circumstances ___ visitors allowed to feed the animals.",
+      "answers": [
+        [
+          "are",
+          "were"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-007",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Inverted third conditional: Had + subject + past participle, … would have + past participle: Had she asked, I would have helped.",
+      "wrongReasons": {
+        "will": "This is about an unreal past situation, so 'will have' is not possible in the result clause.",
+        "had": "'had have' is wrong; the result clause needs 'would/could/might' + have + past participle."
+      },
+      "text": "Had I known about the traffic, I ___ have left much earlier.",
+      "answers": [
+        [
+          "would",
+          "could",
+          "might"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-008",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "collocations",
+      "prompt": "Complete the sentence.",
+      "explanation": "A law or rule 'comes into force' (or 'comes into effect') when it starts to apply.",
+      "wrongReasons": {
+        "power": "'come into power' is used for governments or leaders, not laws.",
+        "action": "'come into action' is not used for laws; we say 'come into force'."
+      },
+      "text": "The new regulations will come into ___ next January.",
+      "answers": [
+        [
+          "force",
+          "effect"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-009",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Up in the air' means not yet decided: Our holiday plans are still up in the air.",
+      "wrongReasons": {
+        "sky": "The idiom is fixed: 'up in the air', never 'up in the sky'.",
+        "clouds": "'Have your head in the clouds' means to be a dreamer; this idiom uses 'air'."
+      },
+      "text": "I can't give you a final answer yet; the whole plan is still up in the ___.",
+      "answers": [
+        [
+          "air"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-010",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'is said/believed/thought + to have + past participle' for an earlier action: He is thought to have escaped.",
+      "wrongReasons": {
+        "to": "'to left' is impossible; for a past action use the perfect infinitive 'to have left'.",
+        "having": "After 'is believed' use a to-infinitive, not the -ing form.",
+        "to had": "After 'to' always use the base form 'have', not 'had'."
+      },
+      "text": "The suspect is believed ___ left the country last week.",
+      "answers": [
+        [
+          "to have"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-011",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Without which' means 'if this had not existed or happened': She had a map, without which she would have got lost.",
+      "wrongReasons": {
+        "despite": "'despite which' would mean the research did not help, but the sentence says it was necessary.",
+        "with": "'with which' cannot express the idea 'if it had not invested'."
+      },
+      "text": "The firm invested heavily in research, ___ which it would never have overtaken its rivals.",
+      "answers": [
+        [
+          "without"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-012",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "A 'stalemate', 'deadlock' or 'impasse' is a situation in which neither side can make progress.",
+      "wrongReasons": {
+        "stop": "'reach a stop' is not natural here; use 'stalemate', 'deadlock' or 'impasse'.",
+        "block": "'reach a block' is not idiomatic; the word is 'deadlock'."
+      },
+      "text": "The negotiations reached a ___ when neither side would make any concessions.",
+      "answers": [
+        [
+          "stalemate",
+          "deadlock",
+          "standstill",
+          "impasse"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-013",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Hammer out' (or 'thrash out') means to reach an agreement after long discussion: They hammered out a deal.",
+      "wrongReasons": {
+        "knock": "'knock out' means to make someone unconscious or eliminate them from a competition.",
+        "make": "'make out' means to see or understand something with difficulty, not to reach an agreement."
+      },
+      "text": "The negotiators will have to ___ out a compromise that both sides can accept.",
+      "answers": [
+        [
+          "hammer",
+          "thrash",
+          "work"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-014",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "cleft-sentences",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'It was … that' to emphasise one part of a past sentence: It was Tom who called.",
+      "wrongReasons": {
+        "is": "The event happened last night (kept), so the cleft uses 'was'.",
+        "were": "In 'It was … that' sentences, 'It' always takes a singular verb."
+      },
+      "text": "It ___ the noise, not the heat, that kept me awake last night.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-015",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "Complete the sentence.",
+      "explanation": "After 'Rarely' at the start, put the auxiliary before the subject: Rarely have I seen such a view.",
+      "wrongReasons": {
+        "have": "The subject is 'such a talented young player' (singular), so use 'has'.",
+        "did": "'did' would need the base form 'emerge', but the verb here is 'emerged'."
+      },
+      "text": "Rarely ___ such a talented young player emerged from the local league.",
+      "answers": [
+        [
+          "has"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-016",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "subjunctive",
+      "prompt": "Complete the sentence.",
+      "explanation": "'If need be' is a fixed phrase with the old subjunctive 'be'; it means 'if necessary'.",
+      "wrongReasons": {
+        "is": "'If need be' is a fixed expression that keeps the subjunctive form 'be'.",
+        "arises": "We can say 'if the need arises', but the short fixed phrase is 'if need be'."
+      },
+      "text": "If need ___, we can always postpone the launch by a week.",
+      "answers": [
+        [
+          "be"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-017",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "'But for' + noun means 'if it had not been for': But for your help, I would have failed.",
+      "wrongReasons": {
+        "without": "'but without' is not a phrase; 'but for' already means 'without'.",
+        "of": "The fixed expression is 'but for', not 'but of'."
+      },
+      "text": "But ___ the goalkeeper, we would have lost by five goals.",
+      "answers": [
+        [
+          "for"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-018",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "collocations",
+      "prompt": "Complete the sentence.",
+      "explanation": "A 'vested interest' is a personal reason, often financial, for wanting something to happen.",
+      "wrongReasons": {
+        "invested": "The fixed phrase is 'vested interest', not 'invested interest'.",
+        "vast": "'vast interest' would mean a lot of curiosity; it does not suggest personal gain."
+      },
+      "text": "He has a ___ interest in the outcome, since his company stands to gain millions.",
+      "answers": [
+        [
+          "vested",
+          "financial",
+          "personal"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-019",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "A 'compelling' or 'cogent' argument is so clear and logical that it convinces people.",
+      "wrongReasons": {
+        "compulsive": "'compulsive' describes behaviour that is hard to stop, not an argument that convinces.",
+        "convinced": "'convinced' describes a person who is sure; an argument is 'convincing'."
+      },
+      "text": "Her argument was so ___ that even her fiercest critics had to accept it.",
+      "answers": [
+        [
+          "compelling",
+          "cogent",
+          "convincing",
+          "persuasive"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-020",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "register",
+      "prompt": "Complete the sentence.",
+      "explanation": "The formal pattern is 'be requested (not) to + base form': Guests are requested not to use the pool after 10 p.m.",
+      "wrongReasons": {
+        "to not": "In formal notices 'not' comes before 'to': requested not to smoke.",
+        "don't": "After 'requested' use a to-infinitive: 'not to smoke'."
+      },
+      "text": "Passengers are kindly requested ___ smoke anywhere on board.",
+      "answers": [
+        [
+          "not to"
+        ]
+      ]
     }
   ]
 }

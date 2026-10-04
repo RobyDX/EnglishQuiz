@@ -41,6 +41,406 @@
         "explicit"
       ],
       "correct": 1
+    },
+    {
+      "id": "c2-mc-003",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "collocations",
+      "prompt": "The scandal has ___ a long shadow over the whole campaign.",
+      "explanation": "'Cast a shadow over' something is a fixed collocation meaning to make it less happy or successful: The bad news cast a shadow over the party.",
+      "wrongReasons": {
+        "0": "'Throw a shadow' describes light physically making a shadow; the figurative phrase uses 'cast'.",
+        "1": "'Lay' does not combine with 'shadow' in this figurative meaning.",
+        "3": "'Put a shadow over' is not a natural collocation in English."
+      },
+      "options": [
+        "thrown",
+        "laid",
+        "cast",
+        "put"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c2-mc-004",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "His ___ remarks about the rival company landed him in court for defamation.",
+      "explanation": "'Disparaging' means suggesting that someone or something has little value: disparaging comments about a colleague.",
+      "wrongReasons": {
+        "1": "'Discerning' means showing good judgement, which would not lead to a defamation case.",
+        "2": "'Dispassionate' means calm and not influenced by emotion, so the remarks would not be insulting.",
+        "3": "'Disarming' means making people feel friendly and less suspicious."
+      },
+      "options": [
+        "disparaging",
+        "discerning",
+        "dispassionate",
+        "disarming"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c2-mc-005",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "subjunctive",
+      "prompt": "The board insisted that the director ___ immediately.",
+      "explanation": "After 'insist/demand/suggest that', formal English uses the subjunctive, the base form for every subject: They insisted that he resign.",
+      "wrongReasons": {
+        "0": "'resigns' is the ordinary present tense; after 'insisted that' formal English uses the base form without -s.",
+        "2": "'resigned' would report a past fact, not the demand the board made.",
+        "3": "'would resign' expresses a prediction, not a demand."
+      },
+      "options": [
+        "resigns",
+        "resign",
+        "resigned",
+        "would resign"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c2-mc-006",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "After months of negotiation, both sides finally agreed to bury the ___.",
+      "explanation": "'Bury the hatchet' is an idiom meaning to stop arguing and become friendly again.",
+      "wrongReasons": {
+        "0": "An axe is similar to a hatchet, but the idiom is fixed: 'bury the hatchet'.",
+        "2": "'sword' is not part of this idiom; people 'cross swords' when they argue.",
+        "3": "'knife' does not appear in this idiom; 'twist the knife' means to make a bad situation worse."
+      },
+      "options": [
+        "axe",
+        "hatchet",
+        "sword",
+        "knife"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c2-mc-007",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a written report: 'We will ___ to complete the project by May.'",
+      "explanation": "'Endeavour' is a formal verb meaning 'try hard': We shall endeavour to reply within five days.",
+      "wrongReasons": {
+        "0": "'have a go' is informal spoken English, and it is followed by 'at', not 'to'.",
+        "2": "'give it a shot' is a casual idiom, too informal for a report.",
+        "3": "'have a crack' is very informal, almost slang."
+      },
+      "options": [
+        "have a go",
+        "endeavour",
+        "give it a shot",
+        "have a crack"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c2-mc-008",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "linkers",
+      "prompt": "The plan is ambitious; ___, it is not beyond our reach.",
+      "explanation": "'Nonetheless' means 'in spite of what was just said' and can start a new clause: It was hard; nonetheless, we finished.",
+      "wrongReasons": {
+        "0": "'notwithstanding' is normally a preposition before a noun (notwithstanding the cost), not a linker at the start of a clause.",
+        "1": "'albeit' introduces a short phrase without a verb (ambitious, albeit risky), not a full clause.",
+        "2": "'whereas' joins two contrasting facts inside one sentence; it cannot follow a semicolon and a comma like this."
+      },
+      "options": [
+        "notwithstanding",
+        "albeit",
+        "whereas",
+        "nonetheless"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c2-mc-009",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "The minister's ___ reply gave journalists nothing they could quote.",
+      "explanation": "'Evasive' means avoiding a direct answer: an evasive reply.",
+      "wrongReasons": {
+        "0": "'effusive' means expressing feelings with great enthusiasm, which would give plenty to quote.",
+        "2": "'emphatic' means forceful and clear, the opposite of giving nothing away.",
+        "3": "'exhaustive' means complete and detailed, so it would contain a lot of material."
+      },
+      "options": [
+        "effusive",
+        "evasive",
+        "emphatic",
+        "exhaustive"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c2-mc-010",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "collocations",
+      "prompt": "The company went to great ___ to protect its customers' data.",
+      "explanation": "'Go to great lengths' is a fixed phrase meaning to try very hard: She went to great lengths to help us.",
+      "wrongReasons": {
+        "0": "We 'make great efforts', but we do not 'go to great efforts'.",
+        "1": "'Extent' is used in 'to a great extent' (= largely), not after 'go to great'.",
+        "3": "We 'take measures', but 'go to great measures' is not standard English."
+      },
+      "options": [
+        "efforts",
+        "extents",
+        "lengths",
+        "measures"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c2-mc-011",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "cleft-sentences",
+      "prompt": "It was not until the results came out ___ we realised how serious the problem was.",
+      "explanation": "The pattern 'It was not until X that…' uses 'that' to introduce the main clause: It was not until midnight that he arrived.",
+      "wrongReasons": {
+        "0": "'when' is a common mistake; the cleft pattern 'It was not until … that' needs 'that'.",
+        "2": "'then' is an adverb of time and cannot link the two parts of a cleft sentence.",
+        "3": "'which' refers back to a noun, but no noun is being described here."
+      },
+      "options": [
+        "when",
+        "that",
+        "then",
+        "which"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c2-mc-012",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "phrasal-verbs",
+      "prompt": "The deal ___ at the last minute when the investors withdrew.",
+      "explanation": "'Fall through' means that a plan or deal fails to happen: The sale of the house fell through.",
+      "wrongReasons": {
+        "0": "'fall out' means to argue with someone, so it is used about people, not deals.",
+        "1": "'fall back' means to move backwards or retreat.",
+        "2": "'fall behind' means to fail to keep up with a schedule or with other people."
+      },
+      "options": [
+        "fell out",
+        "fell back",
+        "fell behind",
+        "fell through"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c2-mc-013",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "Despite his ___ manner, he was in fact deeply anxious about the outcome.",
+      "explanation": "'Nonchalant' means appearing calm and relaxed; 'Despite' needs a contrast: Despite her nonchalant smile, she was terrified.",
+      "wrongReasons": {
+        "0": "'frantic' means wildly worried, so there would be no contrast with 'deeply anxious'.",
+        "2": "'fretful' means visibly worried, which does not contrast with 'anxious'.",
+        "3": "'agitated' means nervous and upset, so 'Despite' would make no sense."
+      },
+      "options": [
+        "frantic",
+        "nonchalant",
+        "fretful",
+        "agitated"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c2-mc-014",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "Let's not discuss the price yet; we shouldn't put the cart before the ___.",
+      "explanation": "'Put the cart before the horse' means to do things in the wrong order.",
+      "wrongReasons": {
+        "1": "'donkey' is not part of this fixed idiom.",
+        "2": "'driver' does not appear in the idiom; the image is of an animal pulling a cart.",
+        "3": "A wheel is part of the cart itself, so the image would make no sense."
+      },
+      "options": [
+        "horse",
+        "donkey",
+        "driver",
+        "wheel"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c2-mc-015",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "subjunctive",
+      "prompt": "It is vital that every passenger ___ a valid ticket at all times.",
+      "explanation": "After 'It is vital/essential/important that', formal English uses the base form (or 'should' + base form): It is essential that she be informed.",
+      "wrongReasons": {
+        "0": "'carried' is a past form; this sentence states a present requirement.",
+        "2": "'will carry' is a prediction, but the sentence expresses necessity.",
+        "3": "'has carried' describes a completed action, but the rule is about what must always happen."
+      },
+      "options": [
+        "carried",
+        "carry",
+        "will carry",
+        "has carried"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c2-mc-016",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "The inspection found the safety procedures to be ___: several basic checks were missing altogether.",
+      "explanation": "'Deficient' means lacking something or not good enough: a diet deficient in vitamins.",
+      "wrongReasons": {
+        "0": "'defiant' means openly refusing to obey, which describes people, not procedures.",
+        "1": "'deferential' means showing respect to someone.",
+        "3": "'definitive' means final and authoritative, which contradicts 'checks were missing'."
+      },
+      "options": [
+        "defiant",
+        "deferential",
+        "deficient",
+        "definitive"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c2-mc-017",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "collocations",
+      "prompt": "With the favourite injured, the result of the final seemed a ___ conclusion.",
+      "explanation": "A 'foregone conclusion' is a result that is certain before it happens.",
+      "wrongReasons": {
+        "0": "'forthcoming' means about to happen or willing to give information; it does not form this phrase.",
+        "2": "'foremost' means most important or leading.",
+        "3": "'forthright' means direct and honest in what you say."
+      },
+      "options": [
+        "forthcoming",
+        "foregone",
+        "foremost",
+        "forthright"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c2-mc-018",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "linkers",
+      "prompt": "The rescue team worked through the night ___ any survivors be left behind.",
+      "explanation": "Formal 'lest' means 'to avoid the risk that' and takes the base form or 'should': He spoke quietly lest he wake the baby.",
+      "wrongReasons": {
+        "0": "'unless' means 'if … not', which gives the wrong meaning and cannot be followed by 'be' here.",
+        "1": "'so that' needs a modal and a negative: so that no survivors would be left behind.",
+        "3": "'in case' is followed by an ordinary verb form (in case anyone was left), not by the base form 'be'."
+      },
+      "options": [
+        "unless",
+        "so that",
+        "lest",
+        "in case"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c2-mc-019",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "The two accounts of the accident are ___: they cannot both be true.",
+      "explanation": "'Irreconcilable' describes facts or ideas so different that they cannot both be accepted.",
+      "wrongReasons": {
+        "0": "'irrevocable' means impossible to change or cancel, like a final decision.",
+        "1": "'irrepressible' means full of energy and impossible to control.",
+        "2": "'irreproachable' means so good that it cannot be criticised."
+      },
+      "options": [
+        "irrevocable",
+        "irrepressible",
+        "irreproachable",
+        "irreconcilable"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c2-mc-020",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "The new manager wants changes, but she is careful not to rock the ___ in her first month.",
+      "explanation": "'Rock the boat' means to cause trouble by trying to change a situation that is stable.",
+      "wrongReasons": {
+        "1": "'ship' is not used in this fixed idiom.",
+        "2": "'rock the cradle' simply means to move a baby's bed gently.",
+        "3": "'chair' does not appear in this idiom."
+      },
+      "options": [
+        "boat",
+        "ship",
+        "cradle",
+        "chair"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c2-mc-021",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "phrasal-verbs",
+      "prompt": "We need to ___ the remaining details before we sign the contract.",
+      "explanation": "'Iron out' means to solve the small remaining problems: They ironed out the details of the deal.",
+      "wrongReasons": {
+        "0": "'smooth over' means to make an argument seem less serious, not to solve practical details.",
+        "2": "'brush up (on)' means to improve a skill you had before.",
+        "3": "'weed through' is not standard; we say 'weed out', meaning to remove unwanted things."
+      },
+      "options": [
+        "smooth over",
+        "iron out",
+        "brush up",
+        "weed through"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c2-mc-022",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "register",
+      "prompt": "Choose the appropriate ending for a formal letter of complaint: 'I look forward to ___.'",
+      "explanation": "'I look forward to hearing from you at your earliest convenience' is a standard formal closing; 'to' here is followed by the -ing form.",
+      "wrongReasons": {
+        "0": "After 'look forward to' we need the -ing form: 'hearing', not 'hear'.",
+        "1": "'catch up' is informal and means to meet a friend and talk.",
+        "3": "'answer back' means to reply rudely, and the phrase is not formal."
+      },
+      "options": [
+        "hear from you soon",
+        "catch up soon",
+        "hearing from you at your earliest convenience",
+        "your speedy answer back"
+      ],
+      "correct": 2
     }
   ]
 }
