@@ -37,7 +37,8 @@ Dettagli e quote in `07-contenuti.md`. Per ogni livello: scrivere i lotti per ti
 - [ ] A1 – 2000 domande
 - [ ] A2 – 2000 domande
 - [ ] B1 – 2000 domande
-- [ ] B2 – 2000 domande
+- [x] B2 – 2000 domande (2000/2000, quote di `07-contenuti.md` rispettate per ogni tipologia; argomenti tra 6,1% e 11,8%, tranne `frequency` al 2,8%)
+  - [x] Lotto 1: +1972 domande (mc 218, vf 163, fb 213, vc 163, wb 98, pw 133, wo 98, tr 148, es 148, ec 163, mp 113, sc 83, rm 133, tf 98); testi di lettura 102–132 parole. Restano sotto le 80 parole i testi brevi del set di prova
 - [x] C1 – 2000 domande (2000/2000, quote di `07-contenuti.md` rispettate per ogni tipologia; argomenti tra 5,3% e 13,2%)
   - [x] Lotto 1: +1978 domande (mc 263, vf 148, fb 263, vc 148, pw 133, tr 233, es 198, ec 198, mp 133, rm 163, tf 98); testi di lettura 179–212 parole. Restano sotto le 150 parole i 4 testi brevi del set di prova (c1-rm-001/002, c1-tf-001/002)
 - [x] C2 – 2000 domande (2000/2000, quote di `07-contenuti.md` rispettate per ogni tipologia; argomenti tra 6,4% e 13,2%)

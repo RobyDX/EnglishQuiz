@@ -35,6 +35,2904 @@
         "She suggested taking a taxi.",
         "She suggested I take a taxi."
       ]
+    },
+    {
+      "id": "b2-ec-003",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Third conditional (past situations): if + past perfect, would have + past participle. Example: If I had seen him, I would have said hello.",
+      "wrongReasons": {
+        "if she had left earlier, she would caught the train": "After 'would' you need 'have' + past participle: 'would have caught'.",
+        "if she had left earlier, she will have caught the train": "'will have' is not used in the result clause of a third conditional. Use 'would have caught'."
+      },
+      "wrong": "If she had left earlier, she would catch the train.",
+      "solutions": [
+        "If she had left earlier, she would have caught the train.",
+        "If she had left earlier she would have caught the train.",
+        "If she had left earlier, she'd have caught the train.",
+        "If she had left earlier she'd have caught the train."
+      ]
+    },
+    {
+      "id": "b2-ec-004",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Unless' already means 'if not', so the verb after it is positive. Example: Unless you hurry, you'll be late.",
+      "wrongReasons": {
+        "unless you don't book in advance, you will not get a table": "This still has a double negative: 'unless' + 'don't'. Remove 'don't'.",
+        "unless you booked in advance, you won't get a table": "This is a first conditional about the future, so use the present simple after 'unless': 'unless you book'."
+      },
+      "wrong": "Unless you don't book in advance, you won't get a table.",
+      "solutions": [
+        "Unless you book in advance, you won't get a table.",
+        "Unless you book in advance you will not get a table.",
+        "Unless you book in advance you won't get a table.",
+        "Unless you book in advance, you will not get a table.",
+        "If you don't book in advance, you won't get a table.",
+        "If you do not book in advance you will not get a table.",
+        "If you do not book in advance you won't get a table.",
+        "If you do not book in advance, you will not get a table.",
+        "If you do not book in advance, you won't get a table.",
+        "If you don't book in advance you will not get a table.",
+        "If you don't book in advance you won't get a table.",
+        "If you don't book in advance, you will not get a table."
+      ]
+    },
+    {
+      "id": "b2-ec-005",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In a first conditional, use the present simple after 'if', even for the future. Example: If it rains tomorrow, we'll stay at home.",
+      "wrongReasons": {
+        "if the weather would be fine tomorrow, we'll have the picnic in the park": "'would' cannot follow 'if' here. Use the present simple: 'if the weather is fine'.",
+        "if the weather was fine tomorrow, we'll have the picnic in the park": "Do not mix a past form with 'will'. For a real future possibility, use 'is': 'if the weather is fine'."
+      },
+      "wrong": "If the weather will be fine tomorrow, we'll have the picnic in the park.",
+      "solutions": [
+        "If the weather is fine tomorrow, we'll have the picnic in the park.",
+        "If the weather is fine tomorrow we will have the picnic in the park.",
+        "If the weather is fine tomorrow we'll have the picnic in the park.",
+        "If the weather is fine tomorrow, we will have the picnic in the park."
+      ]
+    },
+    {
+      "id": "b2-ec-006",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Mixed conditional: a past condition (if + past perfect) with a present result (would + verb). Example: If I had saved money, I would be rich now.",
+      "wrongReasons": {
+        "if i took that job in berlin last year, i would have lived in germany now": "The condition is still wrong: 'last year' needs the past perfect 'had taken'. The result is about now, so 'would live' is correct.",
+        "if i had took that job in berlin last year, i would live in germany now": "The past participle of 'take' is 'taken', not 'took': 'had taken'."
+      },
+      "wrong": "If I took that job in Berlin last year, I would live in Germany now.",
+      "solutions": [
+        "If I had taken that job in Berlin last year, I would live in Germany now.",
+        "If I had taken that job in Berlin last year I would live in Germany now.",
+        "If I had taken that job in Berlin last year, I'd live in Germany now.",
+        "If I had taken that job in Berlin last year I'd live in Germany now.",
+        "If I had taken that job in Berlin last year, I would be living in Germany now.",
+        "If I had taken that job in Berlin last year I would be living in Germany now.",
+        "If I had taken that job in Berlin last year, I'd be living in Germany now.",
+        "If I had taken that job in Berlin last year I'd be living in Germany now."
+      ]
+    },
+    {
+      "id": "b2-ec-007",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After 'provided (that)', use a present form for the future, just like after 'if'. Example: Provided that it is ready, we'll send it.",
+      "wrongReasons": {
+        "provided that the contract would be signed today, work can begin on monday": "'would' is not used after 'provided that'. Use the present passive: 'is signed'.",
+        "provided that the contract is sign today, work can begin on monday": "The passive needs the past participle: 'is signed', not 'is sign'."
+      },
+      "wrong": "Provided that the contract will be signed today, work can begin on Monday.",
+      "solutions": [
+        "Provided that the contract is signed today, work can begin on Monday.",
+        "Provided that the contract is signed today work can begin on Monday.",
+        "Provided the contract is signed today, work can begin on Monday.",
+        "Provided the contract is signed today work can begin on Monday."
+      ]
+    },
+    {
+      "id": "b2-ec-008",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In an inverted third conditional, 'Had' + subject + past participle replaces 'If I had...'. Example: Had we left earlier, we would have arrived on time.",
+      "wrongReasons": {
+        "had i know about the delay, i would have taken a later flight": "'Had' needs the past participle 'known', not the base form 'know'.",
+        "if i knew about the delay, i would have taken a later flight": "The past simple 'knew' refers to the present. For a past situation use the past perfect: 'If I had known'."
+      },
+      "wrong": "Had I knew about the delay, I would have taken a later flight.",
+      "solutions": [
+        "Had I known about the delay, I would have taken a later flight.",
+        "Had I known about the delay I would have taken a later flight.",
+        "Had I known about the delay, I'd have taken a later flight.",
+        "Had I known about the delay I'd have taken a later flight.",
+        "If I had known about the delay, I would have taken a later flight.",
+        "If I had known about the delay I would have taken a later flight.",
+        "If I had known about the delay, I'd have taken a later flight.",
+        "If I had known about the delay I'd have taken a later flight."
+      ]
+    },
+    {
+      "id": "b2-ec-009",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'would' is a modal verb, so it is followed by the base form without 'to'. Example: If I were you, I would call him.",
+      "wrongReasons": {
+        "if i were you, i would apologising to her before the meeting": "After 'would' use the base form 'apologise', not the -ing form.",
+        "if i were you, i would to apologised to her before the meeting": "Remove 'to' and use the base form: 'would apologise'."
+      },
+      "wrong": "If I were you, I would to apologise to her before the meeting.",
+      "solutions": [
+        "If I were you, I would apologise to her before the meeting.",
+        "If I were you I would apologise to her before the meeting.",
+        "If I were you, I'd apologise to her before the meeting.",
+        "If I were you I'd apologise to her before the meeting.",
+        "If I were you, I would apologize to her before the meeting.",
+        "If I were you I would apologize to her before the meeting.",
+        "If I were you, I'd apologize to her before the meeting.",
+        "If I were you I'd apologize to her before the meeting."
+      ]
+    },
+    {
+      "id": "b2-ec-010",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In the if-clause of a third conditional, use the past perfect, never 'would have'. Example: She would have come if she hadn't been ill.",
+      "wrongReasons": {
+        "we would have won the match if our goalkeeper wasn't injured": "'wasn't' refers to the present or general time. The match is in the past, so use 'hadn't been injured'.",
+        "we would have won the match if our goalkeeper didn't been injured": "'did' cannot be used with 'been'. Use the past perfect: 'hadn't been injured'."
+      },
+      "wrong": "We would have won the match if our goalkeeper wouldn't have been injured.",
+      "solutions": [
+        "We would have won the match if our goalkeeper hadn't been injured.",
+        "We would have won the match if our goalkeeper had not been injured."
+      ]
+    },
+    {
+      "id": "b2-ec-011",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Second conditional (imaginary situations): if + past simple, would + base form. Example: If I had a boat, I would sail around the world.",
+      "wrongReasons": {
+        "what would you do if you would win the lottery": "'would' is used in the result clause, not after 'if'. Use the past simple: 'if you won'.",
+        "what would you do if you win the lottery": "With 'would' in the result clause, the if-clause needs the past simple: 'if you won'."
+      },
+      "wrong": "What would you do if you will win the lottery?",
+      "solutions": [
+        "What would you do if you won the lottery?"
+      ]
+    },
+    {
+      "id": "b2-ec-012",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'As long as' works like 'if', so it takes the present simple for the future. Example: You can borrow it as long as you return it tomorrow.",
+      "wrongReasons": {
+        "as long as you would keep the receipt, you can return the jacket": "'would' is not used after 'as long as'. Use the present simple: 'you keep'.",
+        "as long as you kept the receipt, you can return the jacket": "This is a real future condition, so the present simple is needed: 'as long as you keep'."
+      },
+      "wrong": "As long as you will keep the receipt, you can return the jacket.",
+      "solutions": [
+        "As long as you keep the receipt, you can return the jacket.",
+        "As long as you keep the receipt you can return the jacket."
+      ]
+    },
+    {
+      "id": "b2-ec-013",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The accident is in the past, so the result clause needs 'would have' + past participle. Example: If he had driven slowly, he would never have crashed.",
+      "wrongReasons": {
+        "if the bridge had been repaired last year, the accident would never happened": "After 'would' you need 'have' + past participle: 'would never have happened'.",
+        "if the bridge had been repaired last year, the accident will never have happened": "Use 'would', not 'will', in the result clause of a third conditional."
+      },
+      "wrong": "If the bridge had been repaired last year, the accident would never happen.",
+      "solutions": [
+        "If the bridge had been repaired last year, the accident would never have happened.",
+        "If the bridge had been repaired last year the accident would never have happened.",
+        "If the bridge had been repaired last year, the accident would have never happened.",
+        "If the bridge had been repaired last year the accident would have never happened."
+      ]
+    },
+    {
+      "id": "b2-ec-014",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For an imaginary past situation, the if-clause needs the past perfect. Example: If it hadn't snowed, the school wouldn't have closed.",
+      "wrongReasons": {
+        "if it didn't rain so heavily last night, the river wouldn't flood": "Both events are in the past ('last night'), so use 'hadn't rained' and 'wouldn't have flooded'.",
+        "if it hasn't rained so heavily last night, the river wouldn't have flooded": "The present perfect cannot be used with 'last night'. Use the past perfect: 'hadn't rained'."
+      },
+      "wrong": "If it didn't rain so heavily last night, the river wouldn't have flooded.",
+      "solutions": [
+        "If it hadn't rained so heavily last night, the river wouldn't have flooded.",
+        "If it had not rained so heavily last night the river would not have flooded.",
+        "If it had not rained so heavily last night the river wouldn't have flooded.",
+        "If it had not rained so heavily last night, the river would not have flooded.",
+        "If it had not rained so heavily last night, the river wouldn't have flooded.",
+        "If it hadn't rained so heavily last night the river would not have flooded.",
+        "If it hadn't rained so heavily last night the river wouldn't have flooded.",
+        "If it hadn't rained so heavily last night, the river would not have flooded."
+      ]
+    },
+    {
+      "id": "b2-ec-015",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Supposing' works like 'if'. With a past verb (imaginary situation) the result uses 'would'. Example: Supposing you won a prize, what would you buy?",
+      "wrongReasons": {
+        "supposing you lost your passport abroad, what you would do": "In a direct question the auxiliary comes before the subject: 'what would you do?'.",
+        "supposing you lost your passport abroad, what would you did": "After 'would' use the base form 'do', not 'did'."
+      },
+      "wrong": "Supposing you lost your passport abroad, what will you do?",
+      "solutions": [
+        "Supposing you lost your passport abroad, what would you do?",
+        "Supposing you lost your passport abroad what would you do?",
+        "Supposing you lose your passport abroad, what will you do?",
+        "Supposing you lose your passport abroad what will you do?"
+      ]
+    },
+    {
+      "id": "b2-ec-016",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For an unreal present situation, use the past simple after 'if' ('were' or 'was'). Example: If I were older, I could drive.",
+      "wrongReasons": {
+        "if i would be taller, i could join the basketball team": "'would' cannot be used in the if-clause. Use 'were' or 'was'.",
+        "if i be taller, i could join the basketball team": "'be' is not a correct verb form here. Use the past form: 'if I were taller'."
+      },
+      "wrong": "If I am taller, I could join the basketball team.",
+      "solutions": [
+        "If I were taller, I could join the basketball team.",
+        "If I were taller I could join the basketball team.",
+        "If I was taller, I could join the basketball team.",
+        "If I was taller I could join the basketball team."
+      ]
+    },
+    {
+      "id": "b2-ec-017",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'tell' needs a person as object (told me/us); 'say' does not (said that). Example: He said that he was busy. / He told me that he was busy.",
+      "wrongReasons": {
+        "she told to me that she was tired of waiting": "'tell' takes the person directly, without 'to': 'she told me'.",
+        "she said me that she was tired of waiting": "'say' cannot be followed directly by a person. Use 'she said that' or 'she told me that'."
+      },
+      "wrong": "She told that she was tired of waiting.",
+      "solutions": [
+        "She said that she was tired of waiting.",
+        "She said she was tired of waiting.",
+        "She told me that she was tired of waiting.",
+        "She told us that she was tired of waiting.",
+        "She told him that she was tired of waiting.",
+        "She told her that she was tired of waiting.",
+        "She told them that she was tired of waiting.",
+        "She told me she was tired of waiting.",
+        "She told us she was tired of waiting.",
+        "She told him she was tired of waiting.",
+        "She told her she was tired of waiting.",
+        "She told them she was tired of waiting."
+      ]
+    },
+    {
+      "id": "b2-ec-018",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Reported questions use normal statement word order, without 'do/did'. Example: She asked me what I wanted.",
+      "wrongReasons": {
+        "he asked me where do i live": "Reported questions do not use question word order or 'do'. Write 'where I lived'.",
+        "he asked me where i did live": "Do not add 'did' in a reported question. Use the past simple: 'where I lived'."
+      },
+      "wrong": "He asked me where did I live.",
+      "solutions": [
+        "He asked me where I lived.",
+        "He asked me where I live."
+      ]
+    },
+    {
+      "id": "b2-ec-019",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In reported speech about the past, 'can' usually changes to 'could'. Example: She asked if I could help her.",
+      "wrongReasons": {
+        "last month the manager asked if could we finish the report by the following friday": "Reported questions keep statement word order: 'if we could', not 'if could we'.",
+        "last month the manager asked if we can to finish the report by the following friday": "The tense is still wrong and modal verbs never take 'to'. Use 'if we could finish'."
+      },
+      "wrong": "Last month the manager asked if we can finish the report by the following Friday.",
+      "solutions": [
+        "Last month the manager asked if we could finish the report by the following Friday.",
+        "Last month the manager asked whether we could finish the report by the following Friday."
+      ]
+    },
+    {
+      "id": "b2-ec-020",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Reported advice and orders use object + (not) to-infinitive. Example: She told me not to worry.",
+      "wrongReasons": {
+        "the doctor advised me to don't drink coffee late at night": "'don't' cannot follow 'to'. The negative infinitive is 'not to drink'.",
+        "the doctor advised me not drink coffee late at night": "You need 'to' after 'not': 'advised me not to drink'."
+      },
+      "wrong": "The doctor advised me don't drink coffee late at night.",
+      "solutions": [
+        "The doctor advised me not to drink coffee late at night."
+      ]
+    },
+    {
+      "id": "b2-ec-021",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Reported yes/no questions use 'if' or 'whether', not 'that'. Example: He asked if I was ready.",
+      "wrongReasons": {
+        "she asked me had i seen her keys": "Reported questions do not use question word order. Use 'if I had seen'.",
+        "she asked me what i had seen her keys": "'what' is for wh-questions. A yes/no question is reported with 'if' or 'whether'."
+      },
+      "wrong": "She asked me that I had seen her keys.",
+      "solutions": [
+        "She asked me if I had seen her keys.",
+        "She asked me whether I had seen her keys."
+      ]
+    },
+    {
+      "id": "b2-ec-022",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use 'tell + person' or 'say (to + person)'. 'say' is never followed directly by a person. Example: She told me she was hungry.",
+      "wrongReasons": {
+        "tom told to me he would call back later": "'tell' takes the person directly, without 'to': 'told me'.",
+        "tom said me that he would call back later": "The problem is still 'said me'. Use 'told me' or 'said to me'."
+      },
+      "wrong": "Tom said me he would call back later.",
+      "solutions": [
+        "Tom told me he would call back later.",
+        "Tom told me that he would call back later.",
+        "Tom told me he'd call back later.",
+        "Tom told me that he'd call back later.",
+        "Tom said he would call back later.",
+        "Tom said that he would call back later.",
+        "Tom said he'd call back later.",
+        "Tom said that he'd call back later.",
+        "Tom said to me he would call back later.",
+        "Tom said to me that he would call back later."
+      ]
+    },
+    {
+      "id": "b2-ec-023",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'warn' in reported speech: warn + object + (not) to-infinitive. Example: They warned us not to swim there.",
+      "wrongReasons": {
+        "the guide warned us to not touching the paintings": "After 'to' use the base form 'touch', and the normal order is 'not to touch'.",
+        "the guide warned us don't touch the paintings": "Imperatives change to 'not to' + verb in reported speech: 'warned us not to touch'."
+      },
+      "wrong": "The guide warned us not touching the paintings.",
+      "solutions": [
+        "The guide warned us not to touch the paintings."
+      ]
+    },
+    {
+      "id": "b2-ec-024",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In reported speech after a past reporting verb, 'will' becomes 'would'. Example: He said he would phone me.",
+      "wrongReasons": {
+        "yesterday anna said she would sent the invitations the next day": "After 'would' use the base form 'send', not 'sent'.",
+        "yesterday anna said she sends the invitations the next day": "The present simple does not fit a future plan reported in the past. Use 'would send'."
+      },
+      "wrong": "Yesterday Anna said she will send the invitations the next day.",
+      "solutions": [
+        "Yesterday Anna said she would send the invitations the next day.",
+        "Yesterday Anna said that she would send the invitations the next day.",
+        "Yesterday Anna said she'd send the invitations the next day.",
+        "Yesterday Anna said that she'd send the invitations the next day."
+      ]
+    },
+    {
+      "id": "b2-ec-025",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Reported questions use statement word order and no 'do/does'. Example: She asked what time the train left.",
+      "wrongReasons": {
+        "he wanted to know what time did the museum open": "Do not use 'did' in a reported question. Write 'what time the museum opened'.",
+        "he wanted to know what time the museum does open": "'does' is not needed in a reported question. Use 'opened' (or 'opens')."
+      },
+      "wrong": "He wanted to know what time does the museum open.",
+      "solutions": [
+        "He wanted to know what time the museum opened.",
+        "He wanted to know what time the museum opens."
+      ]
+    },
+    {
+      "id": "b2-ec-026",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'order' + object + to-infinitive (base form after 'to'). Example: The teacher ordered us to sit down.",
+      "wrongReasons": {
+        "the police officer ordered the driver get out of the car": "'order someone' needs 'to' before the verb: 'ordered the driver to get out'.",
+        "the police officer ordered to the driver to get out of the car": "'order' takes the person directly, without 'to': 'ordered the driver'."
+      },
+      "wrong": "The police officer ordered the driver to getting out of the car.",
+      "solutions": [
+        "The police officer ordered the driver to get out of the car."
+      ]
+    },
+    {
+      "id": "b2-ec-027",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The reporting verb 'deny' is followed by an -ing form or a that-clause, not a to-infinitive. Example: She denied taking the money.",
+      "wrongReasons": {
+        "my brother denied to have broken the window": "'deny' never takes a to-infinitive. Use 'denied having broken' or 'denied breaking'.",
+        "my brother denied break the window": "After 'deny' use the -ing form: 'denied breaking'."
+      },
+      "wrong": "My brother denied to break the window.",
+      "solutions": [
+        "My brother denied breaking the window.",
+        "My brother denied having broken the window.",
+        "My brother denied that he had broken the window.",
+        "My brother denied that he broke the window."
+      ]
+    },
+    {
+      "id": "b2-ec-028",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After a preposition such as 'for', use the -ing form. Example: He apologised for forgetting my birthday.",
+      "wrongReasons": {
+        "she apologised to be late for the interview": "'apologise' needs 'for' + -ing: 'apologised for being late'.",
+        "she apologised for be late for the interview": "After the preposition 'for' use the -ing form 'being', not the base form."
+      },
+      "wrong": "She apologised for to be late for the interview.",
+      "solutions": [
+        "She apologised for being late for the interview.",
+        "She apologized for being late for the interview."
+      ]
+    },
+    {
+      "id": "b2-ec-029",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'explain' cannot take the person directly; use 'explain (something) to someone'. Example: She explained to me how it worked.",
+      "wrongReasons": {
+        "the teacher explained us why the experiment failed": "The problem is still 'explained us'. Use 'explained to us'.",
+        "the teacher explained for us why the experiment had failed": "The correct preposition after 'explain' is 'to', not 'for'."
+      },
+      "wrong": "The teacher explained us why the experiment had failed.",
+      "solutions": [
+        "The teacher explained to us why the experiment had failed.",
+        "The teacher explained why the experiment had failed.",
+        "The teacher explained to us why the experiment failed.",
+        "The teacher explained why the experiment failed."
+      ]
+    },
+    {
+      "id": "b2-ec-030",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After a past reporting verb, the present perfect moves back to the past perfect. Example: She said she had finished the book.",
+      "wrongReasons": {
+        "last week mark told me he had lose his wallet the day before": "The past perfect needs the past participle: 'had lost'.",
+        "last week mark told me he has lose his wallet the day before": "'has lose' is wrong twice: use the past perfect with the participle, 'had lost'."
+      },
+      "wrong": "Last week Mark told me he has lost his wallet the day before.",
+      "solutions": [
+        "Last week Mark told me he had lost his wallet the day before.",
+        "Last week Mark told me that he had lost his wallet the day before.",
+        "Last week Mark told me he'd lost his wallet the day before.",
+        "Last week Mark told me that he'd lost his wallet the day before.",
+        "Last week Mark told me he lost his wallet the day before.",
+        "Last week Mark told me that he lost his wallet the day before."
+      ]
+    },
+    {
+      "id": "b2-ec-031",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The passive is 'be' + past participle. The past participle of 'build' is 'built'. Example: The bridge was built in 1990.",
+      "wrongReasons": {
+        "the new hospital was builded in less than two years": "'build' is irregular: the past participle is 'built', not 'builded'.",
+        "the new hospital built in less than two years": "Without 'was' the sentence is active, as if the hospital built something. Use 'was built'."
+      },
+      "wrong": "The new hospital was build in less than two years.",
+      "solutions": [
+        "The new hospital was built in less than two years."
+      ]
+    },
+    {
+      "id": "b2-ec-032",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The future passive is 'will be' + past participle. Example: The winner will be chosen tomorrow.",
+      "wrongReasons": {
+        "the results will be announce next monday": "After 'will be' you need the past participle 'announced'.",
+        "the results will being announced next monday": "After 'will' use the base form 'be', not 'being'."
+      },
+      "wrong": "The results will announced next Monday.",
+      "solutions": [
+        "The results will be announced next Monday."
+      ]
+    },
+    {
+      "id": "b2-ec-033",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The present continuous passive is 'is/are being' + past participle. Example: My car is being fixed this week.",
+      "wrongReasons": {
+        "the bridge is repairing at the moment, so use the other road": "This is active: it says the bridge is repairing something. Use the passive 'is being repaired'.",
+        "the bridge is been repaired at the moment, so use the other road": "The continuous passive uses 'being', not 'been': 'is being repaired'."
+      },
+      "wrong": "The bridge is being repair at the moment, so use the other road.",
+      "solutions": [
+        "The bridge is being repaired at the moment, so use the other road.",
+        "The bridge is being repaired at the moment so use the other road."
+      ]
+    },
+    {
+      "id": "b2-ec-034",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The present perfect passive is 'has/have been' + past participle. Example: The letter has just been sent.",
+      "wrongReasons": {
+        "the suspect has just arrested by the police": "Without 'been' this is active. The passive needs 'has just been arrested'.",
+        "the suspect has just been arresting by the police": "The passive uses the past participle 'arrested', not the -ing form."
+      },
+      "wrong": "The suspect has just been arrest by the police.",
+      "solutions": [
+        "The suspect has just been arrested by the police."
+      ]
+    },
+    {
+      "id": "b2-ec-035",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The passive needs the past participle. 'speak - spoke - spoken'. Example: French is spoken in Canada.",
+      "wrongReasons": {
+        "english is speaking in many countries around the world": "'is speaking' is active (English is doing the speaking). Use the passive 'is spoken'.",
+        "english is spoked in many countries around the world": "'speak' is irregular: the past participle is 'spoken', not 'spoked'."
+      },
+      "wrong": "English is spoke in many countries around the world.",
+      "solutions": [
+        "English is spoken in many countries around the world."
+      ]
+    },
+    {
+      "id": "b2-ec-036",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Passive = 'be' + past participle. 'steal - stole - stolen'. Example: Her bag was stolen on the train.",
+      "wrongReasons": {
+        "my car was stealed while i was at the cinema": "'steal' is irregular: the past participle is 'stolen'.",
+        "my car stole while i was at the cinema": "This is active, as if the car stole something. Use the passive 'was stolen'."
+      },
+      "wrong": "My car was stole while I was at the cinema.",
+      "solutions": [
+        "My car was stolen while I was at the cinema."
+      ]
+    },
+    {
+      "id": "b2-ec-037",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The causative is 'have/get + object + past participle' when someone does a service for you. Example: We had our windows cleaned.",
+      "wrongReasons": {
+        "i had cut my hair yesterday": "This past perfect means you cut your hair yourself. For a service use 'had my hair cut'.",
+        "i had my hair cutted yesterday": "'cut' is irregular: the past participle is 'cut', not 'cutted'."
+      },
+      "wrong": "I had my hair cutting yesterday.",
+      "solutions": [
+        "I had my hair cut yesterday.",
+        "I got my hair cut yesterday."
+      ]
+    },
+    {
+      "id": "b2-ec-038",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For a past action after 'is believed/said/thought', use 'to have been' + past participle. Example: The castle is thought to have been built in 1200.",
+      "wrongReasons": {
+        "the painting is believed to painted in the 1600s": "After 'to' you need a verb form: 'to have been painted' for a past passive action.",
+        "the painting is believed to have painted in the 1600s": "'to have painted' is active (the painting painted something). Add 'been': 'to have been painted'."
+      },
+      "wrong": "The painting is believed to be painted in the 1600s.",
+      "solutions": [
+        "The painting is believed to have been painted in the 1600s."
+      ]
+    },
+    {
+      "id": "b2-ec-039",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The impersonal passive is 'It is said/believed/thought that...'. Example: It is said that the hotel is haunted.",
+      "wrongReasons": {
+        "it is saying that the company is losing money": "The impersonal structure is passive: 'It is said', not 'It is saying'.",
+        "it said that the company is losing money": "'It said' needs a real speaker (like a report). For general opinion use 'It is said that'."
+      },
+      "wrong": "It is say that the company is losing money.",
+      "solutions": [
+        "It is said that the company is losing money."
+      ]
+    },
+    {
+      "id": "b2-ec-040",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "A modal passive is modal + 'be' + past participle. Example: The form must be completed in pen.",
+      "wrongReasons": {
+        "the documents must be signing by both parties": "The passive needs the past participle 'signed', not the -ing form.",
+        "the documents must signed by both parties": "You need 'be' after the modal: 'must be signed'."
+      },
+      "wrong": "The documents must be sign by both parties.",
+      "solutions": [
+        "The documents must be signed by both parties."
+      ]
+    },
+    {
+      "id": "b2-ec-041",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The past continuous passive is 'was/were being' + past participle. Example: The room was being cleaned when I arrived.",
+      "wrongReasons": {
+        "the letters were delivering when the storm started": "This is active, as if the letters were delivering something. Use 'were being delivered'.",
+        "the letters were been delivered when the storm started": "The continuous passive uses 'being': 'were being delivered'."
+      },
+      "wrong": "The letters were being deliver when the storm started.",
+      "solutions": [
+        "The letters were being delivered when the storm started."
+      ]
+    },
+    {
+      "id": "b2-ec-042",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The past perfect passive is 'had been' + past participle. Example: The tickets had been sold before we arrived.",
+      "wrongReasons": {
+        "the road had being closed before the snow started": "After 'had' use the past participle 'been', not 'being'.",
+        "the road had been close before the snow started": "The passive needs the past participle 'closed', not the base form."
+      },
+      "wrong": "The road had been closing before the snow started.",
+      "solutions": [
+        "The road had been closed before the snow started."
+      ]
+    },
+    {
+      "id": "b2-ec-043",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The 'going to' passive is 'going to be' + past participle. Example: The old school is going to be knocked down.",
+      "wrongReasons": {
+        "our kitchen is going to be paint next week": "After 'be' the passive needs the past participle 'painted'.",
+        "our kitchen is going to painting next week": "After 'going to' you need 'be' + past participle: 'going to be painted'."
+      },
+      "wrong": "Our kitchen is going to painted next week.",
+      "solutions": [
+        "Our kitchen is going to be painted next week."
+      ]
+    },
+    {
+      "id": "b2-ec-044",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Active 'make someone do' becomes passive 'be made to do' (with 'to'). Example: We were made to wait for an hour.",
+      "wrongReasons": {
+        "the children were made tidying their rooms before dinner": "In the passive, 'made' is followed by a to-infinitive: 'were made to tidy'.",
+        "the children were make to tidy their rooms before dinner": "The passive needs the past participle 'made', not 'make'."
+      },
+      "wrong": "The children were made tidy their rooms before dinner.",
+      "solutions": [
+        "The children were made to tidy their rooms before dinner."
+      ]
+    },
+    {
+      "id": "b2-ec-045",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use 'who' or 'that' for people and 'which' for things. Example: The man who called you is my uncle.",
+      "wrongReasons": {
+        "the woman whom lives next door is a famous pianist": "'whom' is an object pronoun. Here the woman is the subject of 'lives', so use 'who'.",
+        "the woman whose lives next door is a famous pianist": "'whose' shows possession (whose car). Here you need the subject pronoun 'who'."
+      },
+      "wrong": "The woman which lives next door is a famous pianist.",
+      "solutions": [
+        "The woman who lives next door is a famous pianist.",
+        "The woman that lives next door is a famous pianist."
+      ]
+    },
+    {
+      "id": "b2-ec-046",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use 'whose' + noun for possession in a relative clause. Example: I know a girl whose father is a pilot.",
+      "wrongReasons": {
+        "that's the man who's car was stolen last week": "'who's' means 'who is'. The possessive form is 'whose'.",
+        "that's the man which car was stolen last week": "'which' is for things and does not show possession. Use 'whose car'."
+      },
+      "wrong": "That's the man who his car was stolen last week.",
+      "solutions": [
+        "That's the man whose car was stolen last week.",
+        "That is the man whose car was stolen last week."
+      ]
+    },
+    {
+      "id": "b2-ec-047",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'that' cannot be used in an extra-information clause (between commas); use 'which' for things. Example: My car, which is very old, still runs well.",
+      "wrongReasons": {
+        "paris, who is the capital of france, attracts millions of tourists": "'who' is for people. For a city use 'which'.",
+        "paris which is the capital of france attracts millions of tourists": "This extra information about a unique place needs commas: 'Paris, which is..., attracts'."
+      },
+      "wrong": "Paris, that is the capital of France, attracts millions of tourists.",
+      "solutions": [
+        "Paris, which is the capital of France, attracts millions of tourists."
+      ]
+    },
+    {
+      "id": "b2-ec-048",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'where' already means 'in which', so do not add another preposition. Example: That's the café where we met.",
+      "wrongReasons": {
+        "this is the hotel where we stayed at last summer": "'where' already contains the preposition. Do not add 'at' or 'in' after the verb.",
+        "this is the hotel which we stayed last summer": "With 'which' you need the preposition: 'which we stayed in' (or use 'where')."
+      },
+      "wrong": "This is the hotel where we stayed in last summer.",
+      "solutions": [
+        "This is the hotel where we stayed last summer.",
+        "This is the hotel which we stayed in last summer.",
+        "This is the hotel that we stayed in last summer.",
+        "This is the hotel we stayed in last summer.",
+        "This is the hotel in which we stayed last summer."
+      ]
+    },
+    {
+      "id": "b2-ec-049",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'what' is not a relative pronoun after a noun. Use 'that' or 'which', or leave it out when it is the object. Example: The film (that) we saw was great.",
+      "wrongReasons": {
+        "the book whom i borrowed from the library is overdue": "'whom' is only for people. For a book use 'that' or 'which'.",
+        "the book who i borrowed from the library is overdue": "'who' refers to people, not things. Use 'that' or 'which'."
+      },
+      "wrong": "The book what I borrowed from the library is overdue.",
+      "solutions": [
+        "The book that I borrowed from the library is overdue.",
+        "The book which I borrowed from the library is overdue.",
+        "The book I borrowed from the library is overdue."
+      ]
+    },
+    {
+      "id": "b2-ec-050",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The relative pronoun replaces the subject, so do not repeat it with 'he/she/it'. Example: My aunt, who lives in Rome, is a nurse.",
+      "wrongReasons": {
+        "my grandfather, that fought in the war, rarely talks about it": "'that' cannot introduce an extra-information clause between commas. Use 'who'.",
+        "my grandfather who he fought in the war rarely talks about it": "'he' is still there. 'who' is already the subject, so remove 'he' (and keep the commas)."
+      },
+      "wrong": "My grandfather, who he fought in the war, rarely talks about it.",
+      "solutions": [
+        "My grandfather, who fought in the war, rarely talks about it."
+      ]
+    },
+    {
+      "id": "b2-ec-051",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After 'the reason', use 'why' or 'that' (or nothing), not 'because'. Example: The reason why I called is to say thank you.",
+      "wrongReasons": {
+        "the reason which she left is still a mystery": "'which' cannot follow 'the reason' like this. Use 'why' or 'that'.",
+        "the reason of why she left is still a mystery": "Do not add 'of'. Use 'the reason why she left'."
+      },
+      "wrong": "The reason because she left is still a mystery.",
+      "solutions": [
+        "The reason why she left is still a mystery.",
+        "The reason that she left is still a mystery.",
+        "The reason she left is still a mystery."
+      ]
+    },
+    {
+      "id": "b2-ec-052",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Directly after a preposition, use 'whom' for people (not 'who' or 'that'). Example: The person to whom I spoke was very kind.",
+      "wrongReasons": {
+        "the scientist to that the prize was awarded gave a short speech": "'that' can never follow a preposition. Use 'to whom'.",
+        "the scientist to which the prize was awarded gave a short speech": "'which' is for things. For a person after a preposition use 'whom'."
+      },
+      "wrong": "The scientist to who the prize was awarded gave a short speech.",
+      "solutions": [
+        "The scientist to whom the prize was awarded gave a short speech.",
+        "The scientist who the prize was awarded to gave a short speech.",
+        "The scientist whom the prize was awarded to gave a short speech.",
+        "The scientist that the prize was awarded to gave a short speech.",
+        "The scientist the prize was awarded to gave a short speech."
+      ]
+    },
+    {
+      "id": "b2-ec-053",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "To comment on a whole clause, use ', which'. 'that' is not possible after a comma. Example: She passed the exam, which pleased her parents.",
+      "wrongReasons": {
+        "he failed his driving test three times, what surprised everyone": "'what' cannot refer back to a clause. Use ', which surprised everyone'.",
+        "he failed his driving test three times, who surprised everyone": "'who' is for people. To refer to the whole situation, use 'which'."
+      },
+      "wrong": "He failed his driving test three times, that surprised everyone.",
+      "solutions": [
+        "He failed his driving test three times, which surprised everyone."
+      ]
+    },
+    {
+      "id": "b2-ec-054",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After a relative clause, the main verb follows directly; do not repeat the subject with 'it'. Example: The town where I live is quiet.",
+      "wrongReasons": {
+        "the village which i grew up has changed a lot": "With 'which' you need the preposition: 'which I grew up in' (or use 'where').",
+        "the village where i grew up in has changed a lot": "'where' already means 'in which', so do not add 'in'."
+      },
+      "wrong": "The village where I grew up it has changed a lot.",
+      "solutions": [
+        "The village where I grew up has changed a lot.",
+        "The village I grew up in has changed a lot.",
+        "The village that I grew up in has changed a lot.",
+        "The village which I grew up in has changed a lot.",
+        "The village in which I grew up has changed a lot."
+      ]
+    },
+    {
+      "id": "b2-ec-055",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After a preposition use 'which' (things) or 'whom' (people), never 'that'. Or put the preposition at the end. Example: The team for which she plays won.",
+      "wrongReasons": {
+        "the company for who i work has offices in five countries": "'who' is for people. A company after a preposition takes 'which'.",
+        "the company for what i work has offices in five countries": "'what' is not a relative pronoun after a noun. Use 'for which'."
+      },
+      "wrong": "The company for that I work has offices in five countries.",
+      "solutions": [
+        "The company for which I work has offices in five countries.",
+        "The company that I work for has offices in five countries.",
+        "The company which I work for has offices in five countries.",
+        "The company I work for has offices in five countries."
+      ]
+    },
+    {
+      "id": "b2-ec-056",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The relative pronoun is already the object, so do not add 'it' at the end. Example: This is the key that I lost.",
+      "wrongReasons": {
+        "is this the phone what you were looking for": "'what' cannot follow a noun as a relative pronoun. Use 'that' or 'which'.",
+        "is this the phone that you were looking it": "'look for' needs its preposition, and 'it' repeats the object. Write 'that you were looking for'."
+      },
+      "wrong": "Is this the phone that you were looking for it?",
+      "solutions": [
+        "Is this the phone that you were looking for?",
+        "Is this the phone which you were looking for?",
+        "Is this the phone you were looking for?"
+      ]
+    },
+    {
+      "id": "b2-ec-057",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The verb in a relative clause agrees with the noun the pronoun refers to. Example: He's the one who knows the answer.",
+      "wrongReasons": {
+        "she's the only person whom understands me": "'whom' is an object pronoun; here you need the subject 'who'. The verb also needs -s.",
+        "she's the only person who understanding me": "A relative clause needs a full verb: 'who understands me'."
+      },
+      "wrong": "She's the only person who understand me.",
+      "solutions": [
+        "She's the only person who understands me.",
+        "She is the only person who understands me.",
+        "She's the only person that understands me.",
+        "She is the only person that understands me."
+      ]
+    },
+    {
+      "id": "b2-ec-058",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'visit' takes a direct object, so use 'which' (not 'where'). 'where' means 'in/at which'. Example: The city, which we visited in May, was lovely.",
+      "wrongReasons": {
+        "the museum, that we visited yesterday, has a fantastic dinosaur collection": "'that' is not used in extra-information clauses (between commas). Use 'which'.",
+        "the museum, who we visited yesterday, has a fantastic dinosaur collection": "'who' is for people. For a museum use 'which'."
+      },
+      "wrong": "The museum, where we visited yesterday, has a fantastic dinosaur collection.",
+      "solutions": [
+        "The museum, which we visited yesterday, has a fantastic dinosaur collection.",
+        "The museum, where we went yesterday, has a fantastic dinosaur collection."
+      ]
+    },
+    {
+      "id": "b2-ec-059",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For a present wish about ability, use 'wish + could'. Example: I wish I could play the guitar.",
+      "wrongReasons": {
+        "i wish i would speak japanese": "We do not use 'would' to wish about our own abilities. Use 'could'.",
+        "i wish i will speak japanese": "'will' is not used after 'wish'. Use 'could speak'."
+      },
+      "wrong": "I wish I can speak Japanese.",
+      "solutions": [
+        "I wish I could speak Japanese."
+      ]
+    },
+    {
+      "id": "b2-ec-060",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "To express regret about the past, use 'wish + past perfect'. Example: I wish I had stayed at home.",
+      "wrongReasons": {
+        "i wish i haven't eaten so much at the party last night": "The present perfect cannot go with 'last night'. Use 'hadn't eaten'.",
+        "i wish i wouldn't have eaten so much at the party last night": "'would have' is not used after 'wish' for past regrets. Use 'hadn't eaten'."
+      },
+      "wrong": "I wish I didn't eat so much at the party last night.",
+      "solutions": [
+        "I wish I hadn't eaten so much at the party last night.",
+        "I wish I had not eaten so much at the party last night."
+      ]
+    },
+    {
+      "id": "b2-ec-061",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'If only' + past simple expresses a strong wish about the present. Example: If only I had more money!",
+      "wrongReasons": {
+        "if only i would know her phone number": "'would' is not used with a state verb like 'know' here. Use 'knew'.",
+        "if only i had know her phone number": "'had' needs the past participle 'known'; but for a present wish, simply use 'knew'."
+      },
+      "wrong": "If only I know her phone number!",
+      "solutions": [
+        "If only I knew her phone number!"
+      ]
+    },
+    {
+      "id": "b2-ec-062",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use 'wish + would' to complain about other people's annoying behaviour. Example: I wish he would stop interrupting me.",
+      "wrongReasons": {
+        "i wish my neighbours stop playing loud music at night": "After 'wish' we do not use the present simple. Use 'would stop'.",
+        "i wish my neighbours would stopped playing loud music at night": "After 'would' use the base form 'stop'."
+      },
+      "wrong": "I wish my neighbours will stop playing loud music at night.",
+      "solutions": [
+        "I wish my neighbours would stop playing loud music at night.",
+        "I wish my neighbors would stop playing loud music at night."
+      ]
+    },
+    {
+      "id": "b2-ec-063",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For a present wish, use 'wish + past simple'. Example: He wishes he lived by the sea.",
+      "wrongReasons": {
+        "she wishes she would have more free time": "Do not use 'would' to wish about your own situation. Use 'had'.",
+        "she wish she had more free time": "With 'she', the verb 'wish' needs -es: 'she wishes'."
+      },
+      "wrong": "She wishes she has more free time.",
+      "solutions": [
+        "She wishes she had more free time."
+      ]
+    },
+    {
+      "id": "b2-ec-064",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For past regrets, use 'wish + past perfect', not 'would have'. Example: She wishes she had taken the job.",
+      "wrongReasons": {
+        "i wish i studied harder for my exams last year": "The past simple after 'wish' refers to the present. For 'last year' use 'had studied'.",
+        "i wish i have studied harder for my exams last year": "The present perfect is not used after 'wish'. Use 'had studied'."
+      },
+      "wrong": "I wish I would have studied harder for my exams last year.",
+      "solutions": [
+        "I wish I had studied harder for my exams last year.",
+        "I wish I'd studied harder for my exams last year."
+      ]
+    },
+    {
+      "id": "b2-ec-065",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'If only' + past perfect expresses regret about the past. Example: If only I had listened to you!",
+      "wrongReasons": {
+        "if only we haven't missed the last bus yesterday": "The present perfect does not go with 'yesterday'. Use 'hadn't missed'.",
+        "if only we wouldn't have missed the last bus yesterday": "'would have' is not used after 'if only'. Use 'hadn't missed'."
+      },
+      "wrong": "If only we didn't miss the last bus yesterday!",
+      "solutions": [
+        "If only we hadn't missed the last bus yesterday!",
+        "If only we had not missed the last bus yesterday!"
+      ]
+    },
+    {
+      "id": "b2-ec-066",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After 'wish', move the present back one tense: 'are coming' becomes 'were coming'. Example: I wish she were staying longer.",
+      "wrongReasons": {
+        "i wish you will come with us to the concert tonight": "'will' is not used after 'wish'. Use 'were coming' or 'could come'.",
+        "i wish you was coming with us to the concert tonight": "With 'you' the past form of 'be' is always 'were'."
+      },
+      "wrong": "I wish you are coming with us to the concert tonight.",
+      "solutions": [
+        "I wish you were coming with us to the concert tonight.",
+        "I wish you could come with us to the concert tonight."
+      ]
+    },
+    {
+      "id": "b2-ec-067",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "A present wish uses the past form of 'be' ('were' or 'was'). Example: I wish I weren't so tired.",
+      "wrongReasons": {
+        "i wish i wouldn't be so nervous before job interviews": "Do not use 'would' to wish about your own feelings. Use 'weren't' or 'wasn't'.",
+        "i wish i don't be so nervous before job interviews": "'don't be' is not possible here. Use the past form: 'weren't'."
+      },
+      "wrong": "I wish I am not so nervous before job interviews.",
+      "solutions": [
+        "I wish I weren't so nervous before job interviews.",
+        "I wish I were not so nervous before job interviews.",
+        "I wish I wasn't so nervous before job interviews.",
+        "I wish I was not so nervous before job interviews."
+      ]
+    },
+    {
+      "id": "b2-ec-068",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For a wish about your own ability, use 'could' or 'were/was able to', not 'would'. Example: I wish I could fly.",
+      "wrongReasons": {
+        "he wishes he can afford a bigger flat": "After 'wish', 'can' moves back to 'could'.",
+        "he wishes he will be able to afford a bigger flat": "'will' is not used after 'wish'. Use 'could afford'."
+      },
+      "wrong": "He wishes he would be able to afford a bigger flat.",
+      "solutions": [
+        "He wishes he could afford a bigger flat.",
+        "He wishes he were able to afford a bigger flat.",
+        "He wishes he was able to afford a bigger flat."
+      ]
+    },
+    {
+      "id": "b2-ec-069",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'would rather' + another person takes the past simple, even for the present or future. Example: I'd rather you came tomorrow.",
+      "wrongReasons": {
+        "i'd rather you won't tell anyone about this": "'will' is not used after 'would rather + person'. Use 'didn't tell'.",
+        "i'd rather you not to tell anyone about this": "Do not use 'to' here. Use 'you didn't tell'."
+      },
+      "wrong": "I'd rather you don't tell anyone about this.",
+      "solutions": [
+        "I'd rather you didn't tell anyone about this.",
+        "I'd rather you did not tell anyone about this.",
+        "I would rather you didn't tell anyone about this.",
+        "I would rather you did not tell anyone about this."
+      ]
+    },
+    {
+      "id": "b2-ec-070",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'If only' + past perfect ('had' + past participle) for past regrets; do not add 'have'. Example: If only we had left earlier.",
+      "wrongReasons": {
+        "if only i have listened to your advice": "The present perfect is not used after 'if only'. Use 'had listened'.",
+        "if only i had listen to your advice": "After 'had' you need the past participle 'listened'."
+      },
+      "wrong": "If only I had have listened to your advice.",
+      "solutions": [
+        "If only I had listened to your advice.",
+        "If only I'd listened to your advice."
+      ]
+    },
+    {
+      "id": "b2-ec-071",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'It's (high) time' + subject + past simple means something should happen now. Example: It's time you went to bed.",
+      "wrongReasons": {
+        "it's high time we will leave for the airport": "'will' is not used after 'it's high time'. Use the past simple 'left'.",
+        "it's high time we had left for the airport": "Use the past simple, not the past perfect: 'it's high time we left'."
+      },
+      "wrong": "It's high time we leave for the airport.",
+      "solutions": [
+        "It's high time we left for the airport.",
+        "It is high time we left for the airport.",
+        "It's high time for us to leave for the airport.",
+        "It is high time for us to leave for the airport."
+      ]
+    },
+    {
+      "id": "b2-ec-072",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use 'must' when you are sure something is true and 'can't' when you are sure it is not true. Example: He can't be hungry; he has just eaten.",
+      "wrongReasons": {
+        "she mustn't be at home now; her car isn't in the driveway": "'mustn't' means 'it is not allowed'. For a negative deduction use 'can't'.",
+        "she doesn't have to be at home now; her car isn't in the driveway": "'doesn't have to' means 'it isn't necessary'. For a deduction use 'can't be'."
+      },
+      "wrong": "She must be at home now; her car isn't in the driveway.",
+      "solutions": [
+        "She can't be at home now; her car isn't in the driveway.",
+        "She can't be at home now; her car is not in the driveway.",
+        "She cannot be at home now; her car is not in the driveway.",
+        "She cannot be at home now; her car isn't in the driveway.",
+        "She couldn't be at home now; her car isn't in the driveway.",
+        "She could not be at home now; her car is not in the driveway.",
+        "She could not be at home now; her car isn't in the driveway.",
+        "She couldn't be at home now; her car is not in the driveway."
+      ]
+    },
+    {
+      "id": "b2-ec-073",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'mustn't' means something is forbidden; 'don't have to' / 'needn't' mean it is not necessary. Example: You don't have to come if you're busy.",
+      "wrongReasons": {
+        "you haven't to pay for the tickets because they're free": "'have to' makes its negative with 'do': 'don't have to'.",
+        "you don't must pay for the tickets because they're free": "'must' never uses 'do'. Use 'don't have to' or 'needn't'."
+      },
+      "wrong": "You mustn't pay for the tickets because they're free.",
+      "solutions": [
+        "You don't have to pay for the tickets because they're free.",
+        "You do not have to pay for the tickets because they are free.",
+        "You do not have to pay for the tickets because they're free.",
+        "You don't have to pay for the tickets because they are free.",
+        "You needn't pay for the tickets because they're free.",
+        "You need not pay for the tickets because they are free.",
+        "You need not pay for the tickets because they're free.",
+        "You needn't pay for the tickets because they are free.",
+        "You don't need to pay for the tickets because they're free.",
+        "You do not need to pay for the tickets because they are free.",
+        "You do not need to pay for the tickets because they're free.",
+        "You don't need to pay for the tickets because they are free."
+      ]
+    },
+    {
+      "id": "b2-ec-074",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Past deduction uses modal + 'have' + past participle. 'forget - forgot - forgotten'. Example: She can't have seen us.",
+      "wrongReasons": {
+        "he can't have forget about the meeting; i reminded him this morning": "After 'have' you need the past participle 'forgotten'.",
+        "he can't forgot about the meeting; i reminded him this morning": "A past deduction needs 'have' + past participle: 'can't have forgotten'."
+      },
+      "wrong": "He can't have forgot about the meeting; I reminded him this morning.",
+      "solutions": [
+        "He can't have forgotten about the meeting; I reminded him this morning.",
+        "He cannot have forgotten about the meeting; I reminded him this morning.",
+        "He couldn't have forgotten about the meeting; I reminded him this morning.",
+        "He could not have forgotten about the meeting; I reminded him this morning."
+      ]
+    },
+    {
+      "id": "b2-ec-075",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "To criticise a past action, use 'should have' + past participle. Example: You should have told me earlier.",
+      "wrongReasons": {
+        "you should have call me when you arrived": "After 'have' you need the past participle 'called'.",
+        "you should to have called me when you arrived": "'should' is a modal verb, so it is never followed by 'to'."
+      },
+      "wrong": "You should called me when you arrived.",
+      "solutions": [
+        "You should have called me when you arrived."
+      ]
+    },
+    {
+      "id": "b2-ec-076",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Past possibility uses 'might/may/could have' + past participle. 'take - took - taken'. Example: He might have missed the bus.",
+      "wrongReasons": {
+        "they might took the wrong train": "A modal is followed by the base form; for the past, use 'have' + past participle: 'might have taken'.",
+        "they might have take the wrong train": "After 'have' use the past participle 'taken', not the base form."
+      },
+      "wrong": "They might have took the wrong train.",
+      "solutions": [
+        "They might have taken the wrong train."
+      ]
+    },
+    {
+      "id": "b2-ec-077",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "As a modal, 'needn't' is followed by the base form without 'to'. 'don't need' takes 'to'. Example: You needn't wait for me.",
+      "wrongReasons": {
+        "we don't need hurry; the film doesn't start until nine": "'don't need' is an ordinary verb, so it needs 'to': 'don't need to hurry'.",
+        "we needn't hurrying; the film doesn't start until nine": "After 'needn't' use the base form 'hurry'."
+      },
+      "wrong": "We needn't to hurry; the film doesn't start until nine.",
+      "solutions": [
+        "We needn't hurry; the film doesn't start until nine.",
+        "We need not hurry; the film does not start until nine.",
+        "We need not hurry; the film doesn't start until nine.",
+        "We needn't hurry; the film does not start until nine.",
+        "We don't need to hurry; the film doesn't start until nine.",
+        "We do not need to hurry; the film does not start until nine.",
+        "We do not need to hurry; the film doesn't start until nine.",
+        "We don't need to hurry; the film does not start until nine."
+      ]
+    },
+    {
+      "id": "b2-ec-078",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For general ability in the past, use 'could' (or 'was able to'). Example: My grandmother could speak four languages.",
+      "wrongReasons": {
+        "when i was a child, i could to swim across the lake": "'could' is a modal verb, so it is not followed by 'to'.",
+        "when i was a child, i can swam across the lake": "Change the modal, not the main verb: 'could swim'."
+      },
+      "wrong": "When I was a child, I can swim across the lake.",
+      "solutions": [
+        "When I was a child, I could swim across the lake.",
+        "When I was a child I could swim across the lake.",
+        "When I was a child, I was able to swim across the lake.",
+        "When I was a child I was able to swim across the lake."
+      ]
+    },
+    {
+      "id": "b2-ec-079",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'had better' is followed by the base form without 'to'. Example: We'd better leave now.",
+      "wrongReasons": {
+        "you had better wearing a helmet when you ride that bike": "After 'had better' use the base form 'wear', not the -ing form.",
+        "you would better wear a helmet when you ride that bike": "The expression is 'had better' ('d better), not 'would better'."
+      },
+      "wrong": "You had better to wear a helmet when you ride that bike.",
+      "solutions": [
+        "You had better wear a helmet when you ride that bike.",
+        "You'd better wear a helmet when you ride that bike."
+      ]
+    },
+    {
+      "id": "b2-ec-080",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'must' and 'must not' are followed by the base form without 'to'. Example: You must not park here.",
+      "wrongReasons": {
+        "visitors don't must take photographs inside the gallery": "'must' does not use 'do' for its negative. Use 'must not' or 'mustn't'.",
+        "visitors must not taking photographs inside the gallery": "After a modal use the base form 'take'."
+      },
+      "wrong": "Visitors must not to take photographs inside the gallery.",
+      "solutions": [
+        "Visitors must not take photographs inside the gallery.",
+        "Visitors mustn't take photographs inside the gallery."
+      ]
+    },
+    {
+      "id": "b2-ec-081",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "To be sure about a past event, use 'must have' + past participle. Example: She must have left early.",
+      "wrongReasons": {
+        "the road is wet, so it must had rained last night": "After a modal use 'have', not 'had': 'must have rained'.",
+        "the road is wet, so it must rained last night": "A past deduction needs 'have' + past participle: 'must have rained'."
+      },
+      "wrong": "The road is wet, so it must rain last night.",
+      "solutions": [
+        "The road is wet, so it must have rained last night.",
+        "The road is wet so it must have rained last night."
+      ]
+    },
+    {
+      "id": "b2-ec-082",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Two modals cannot go together. For future ability use 'will be able to'. Example: Will you be able to help me tomorrow?",
+      "wrongReasons": {
+        "will you able to come to my party on saturday": "You need 'be' before 'able': 'will you be able to come'.",
+        "will you could come to my party on saturday": "'will' and 'could' are both modals and cannot be used together."
+      },
+      "wrong": "Will you can come to my party on Saturday?",
+      "solutions": [
+        "Will you be able to come to my party on Saturday?",
+        "Can you come to my party on Saturday?"
+      ]
+    },
+    {
+      "id": "b2-ec-083",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'ought to' is followed by the base form of the verb. Example: You ought to see a doctor.",
+      "wrongReasons": {
+        "you ought return the book to the library by friday": "'ought' always needs 'to': 'ought to return'.",
+        "you ought to returned the book to the library by friday": "After 'ought to' use the base form 'return', not the past form."
+      },
+      "wrong": "You ought to returning the book to the library by Friday.",
+      "solutions": [
+        "You ought to return the book to the library by Friday."
+      ]
+    },
+    {
+      "id": "b2-ec-084",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'must' has no past form; for past obligation use 'had to' (question: 'Did you have to...?'). Example: Did you have to work last weekend?",
+      "wrongReasons": {
+        "did you had to wear a uniform at your old school": "After 'did' use the base form 'have', not 'had'.",
+        "must you wear a uniform at your old school": "'must' refers to the present. For the past, use 'Did you have to'."
+      },
+      "wrong": "Did you must wear a uniform at your old school?",
+      "solutions": [
+        "Did you have to wear a uniform at your old school?"
+      ]
+    },
+    {
+      "id": "b2-ec-085",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Look up' means to search for information in a book or online; 'look after' means to take care of someone. Example: I looked up the address online.",
+      "wrongReasons": {
+        "could you look after the word in the dictionary for me": "'Look after' means to take care of a person or thing, not to search for information. Use 'look up'."
+      },
+      "wrong": "Could you look after the word in the dictionary for me?",
+      "solutions": [
+        "Could you look up the word in the dictionary for me?",
+        "Could you look the word up in the dictionary for me?"
+      ]
+    },
+    {
+      "id": "b2-ec-086",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Put up with' (= tolerate) is a three-part phrasal verb and needs 'with' before the object. Example: I can't put up with his rudeness.",
+      "wrongReasons": {
+        "i can't put up the noise from the building site any longer": "'Put up' without 'with' means to build or to give someone a bed; to mean 'tolerate' you need 'put up with'.",
+        "i can't put up to the noise from the building site any longer": "The preposition is 'with', not 'to': 'put up with' something."
+      },
+      "wrong": "I can't put up the noise from the building site any longer.",
+      "solutions": [
+        "I can't put up with the noise from the building site any longer.",
+        "I cannot put up with the noise from the building site any longer."
+      ]
+    },
+    {
+      "id": "b2-ec-087",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Turn down' means to refuse an offer or request; 'turn off' is for machines and lights. Example: She turned down the invitation.",
+      "wrongReasons": {
+        "he turned the job offer off because the salary was too low": "'Turn off' is used for lights, taps and machines; to refuse an offer we say 'turn down'.",
+        "he turned the job offer out because the salary was too low": "'Turn out' means to produce or to have a particular result; it does not mean 'refuse'."
+      },
+      "wrong": "He turned the job offer off because the salary was too low.",
+      "solutions": [
+        "He turned the job offer down because the salary was too low.",
+        "He turned down the job offer because the salary was too low."
+      ]
+    },
+    {
+      "id": "b2-ec-088",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "When a machine or vehicle stops working, it 'breaks down'. Example: The lift broke down again this morning.",
+      "wrongReasons": {
+        "our car broke out on the motorway, so we called a mechanic": "'Break out' is used for wars, fires or diseases that start suddenly, not for cars that stop working.",
+        "our car broke off on the motorway, so we called a mechanic": "'Break off' means to separate a piece from something or to end a relationship; a car that stops working 'breaks down'."
+      },
+      "wrong": "Our car broke out on the motorway, so we called a mechanic.",
+      "solutions": [
+        "Our car broke down on the motorway, so we called a mechanic."
+      ]
+    },
+    {
+      "id": "b2-ec-089",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Look into' means to investigate or examine a problem. Example: The council is looking into our complaint.",
+      "wrongReasons": {
+        "the insurance company is looking up my claim": "'Look up' means to find information in a reference source; to investigate a problem, use 'look into'.",
+        "the insurance company is looking after my claim": "'Look after' means to take care of someone; it does not mean 'investigate'."
+      },
+      "wrong": "The insurance company is looking up my claim.",
+      "solutions": [
+        "The insurance company is looking into my claim."
+      ]
+    },
+    {
+      "id": "b2-ec-090",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Bring up' (transitive) means to raise a child; 'grow up' (intransitive) is what the child does. Example: I grew up in Wales because my grandparents brought me up there.",
+      "wrongReasons": {
+        "my aunt grew me up after my parents moved abroad": "'Grow up' has no object: a child grows up. The adult who raises the child 'brings them up'.",
+        "my aunt brought up me after my parents moved abroad": "With a pronoun object, the pronoun goes between the verb and the particle: 'brought me up'."
+      },
+      "wrong": "My aunt grew me up after my parents moved abroad.",
+      "solutions": [
+        "My aunt brought me up after my parents moved abroad.",
+        "My aunt raised me after my parents moved abroad."
+      ]
+    },
+    {
+      "id": "b2-ec-091",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "With separable phrasal verbs, an object pronoun must go between the verb and the particle. Example: I'll pick you up at eight.",
+      "wrongReasons": {
+        "can you pick up me from the station at six": "A pronoun object cannot follow the particle: say 'pick me up', not 'pick up me'.",
+        "can you pick me from the station at six": "Without 'up', 'pick' means to choose; to collect someone by car, you need 'pick up'."
+      },
+      "wrong": "Can you pick up me from the station at six?",
+      "solutions": [
+        "Can you pick me up from the station at six?"
+      ]
+    },
+    {
+      "id": "b2-ec-092",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Run out of' something means to have none left. Example: The printer has run out of paper.",
+      "wrongReasons": {
+        "we have run out from milk, so i'll go to the shop": "The phrasal verb is 'run out of', not 'run out from'.",
+        "we have run off milk, so i'll go to the shop": "'Run off' means to leave quickly or escape; when you have none left, you have 'run out of' it."
+      },
+      "wrong": "We have run out from milk, so I'll go to the shop.",
+      "solutions": [
+        "We have run out of milk, so I'll go to the shop.",
+        "We've run out of milk, so I'll go to the shop.",
+        "We have run out of milk, so I will go to the shop.",
+        "We've run out of milk, so I will go to the shop."
+      ]
+    },
+    {
+      "id": "b2-ec-093",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Find out' means to discover a fact or piece of information. Example: Did you find out who sent the flowers?",
+      "wrongReasons": {
+        "i need to find up what time the museum opens": "There is no phrasal verb 'find up'; to discover information, use 'find out'.",
+        "i need to find about what time the museum opens": "'Find' needs the particle 'out' here: 'find out' what time something happens."
+      },
+      "wrong": "I need to find up what time the museum opens.",
+      "solutions": [
+        "I need to find out what time the museum opens."
+      ]
+    },
+    {
+      "id": "b2-ec-094",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "You 'fill in' or 'fill out' a form, meaning you write the information it asks for. Example: Fill in your name and address.",
+      "wrongReasons": {
+        "please fill on this form and return it to reception": "The particle is wrong: we 'fill in' or 'fill out' a form, never 'fill on'.",
+        "please fill up this form and return it to reception": "'Fill up' means to make something completely full, like a glass or a tank, not to complete a form."
+      },
+      "wrong": "Please fill on this form and return it to reception.",
+      "solutions": [
+        "Please fill in this form and return it to reception.",
+        "Please fill out this form and return it to reception.",
+        "Please fill this form in and return it to reception.",
+        "Please fill this form out and return it to reception."
+      ]
+    },
+    {
+      "id": "b2-ec-095",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Get over' means to recover from an illness or a bad experience and takes a direct object, with no preposition. Example: He never got over the shock.",
+      "wrongReasons": {
+        "my brother still hasn't got over from his food poisoning": "'Get over' is followed directly by its object; do not add 'from'.",
+        "my brother still hasn't got over of his food poisoning": "No preposition follows 'get over': you get over an illness, not 'get over of' it."
+      },
+      "wrong": "My brother still hasn't got over from his food poisoning.",
+      "solutions": [
+        "My brother still hasn't got over his food poisoning.",
+        "My brother still has not got over his food poisoning.",
+        "My brother still hasn't gotten over his food poisoning.",
+        "My brother still has not gotten over his food poisoning."
+      ]
+    },
+    {
+      "id": "b2-ec-096",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "When an alarm or bomb starts ringing or explodes, it 'goes off'. Example: My alarm clock went off at six.",
+      "wrongReasons": {
+        "the fire alarm went out during the exam": "'Go out' is used for lights and fires that stop burning; an alarm that starts ringing 'goes off'.",
+        "the fire alarm went on during the exam": "'Go on' means to continue; an alarm that suddenly starts ringing 'goes off'."
+      },
+      "wrong": "The fire alarm went out during the exam.",
+      "solutions": [
+        "The fire alarm went off during the exam."
+      ]
+    },
+    {
+      "id": "b2-ec-097",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Come across' means to find something by chance. Example: I came across a great café near the river.",
+      "wrongReasons": {
+        "while cleaning the attic, i came over some old letters from my grandfather": "'Come over' means to visit someone's home; to find something by chance, use 'come across'.",
+        "while cleaning the attic, i came up some old letters from my grandfather": "'Come up' means to be mentioned or to happen; it cannot take an object meaning 'find'."
+      },
+      "wrong": "While cleaning the attic, I came over some old letters from my grandfather.",
+      "solutions": [
+        "While cleaning the attic, I came across some old letters from my grandfather."
+      ]
+    },
+    {
+      "id": "b2-ec-098",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Set off' or 'set out' means to start a journey. Example: They set off early to avoid the traffic.",
+      "wrongReasons": {
+        "we set up for the coast at dawn": "'Set up' means to start a business or prepare equipment, not to begin a journey.",
+        "we set on for the coast at dawn": "'Set on' is not used for journeys; to start a trip, say 'set off' or 'set out'."
+      },
+      "wrong": "We set up for the coast at dawn.",
+      "solutions": [
+        "We set off for the coast at dawn.",
+        "We set out for the coast at dawn."
+      ]
+    },
+    {
+      "id": "b2-ec-099",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use 'despite' without 'of', or 'in spite of' with 'of'. Example: Despite the cold, we swam in the lake.",
+      "wrongReasons": {
+        "despite of all the warnings, the climbers continued towards the summit": "'Despite' is never followed by 'of'; say 'despite' or 'in spite of'.",
+        "in spite all the warnings, the climbers continued towards the summit": "'In spite' needs 'of' after it: 'in spite of all the warnings'."
+      },
+      "wrong": "Despite of all the warnings, the climbers continued towards the summit.",
+      "solutions": [
+        "Despite all the warnings, the climbers continued towards the summit.",
+        "In spite of all the warnings, the climbers continued towards the summit."
+      ]
+    },
+    {
+      "id": "b2-ec-100",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use only one linker to show contrast between two clauses: 'although' or 'but', not both. Example: Although it was late, we kept working.",
+      "wrongReasons": {
+        "although the tickets were expensive, but we bought them anyway": "'Although' and 'but' both show contrast, so using both in one sentence is incorrect. Keep only one.",
+        "although the tickets were expensive, however we bought them anyway": "'However' cannot join two clauses after 'although'; just remove the second linker."
+      },
+      "wrong": "Although the tickets were expensive, but we bought them anyway.",
+      "solutions": [
+        "Although the tickets were expensive, we bought them anyway.",
+        "The tickets were expensive, but we bought them anyway."
+      ]
+    },
+    {
+      "id": "b2-ec-101",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Despite' is followed by a noun or -ing form, not by a full clause; before a clause use 'although'. Example: Despite feeling ill, he went to work.",
+      "wrongReasons": {
+        "despite she trained hard, she lost the final": "'Despite' cannot be followed by subject + verb. Use 'although she trained' or 'despite training'.",
+        "despite of she trained hard, she lost the final": "'Despite' never takes 'of', and it still cannot introduce a full clause."
+      },
+      "wrong": "Despite she trained hard, she lost the final.",
+      "solutions": [
+        "Although she trained hard, she lost the final.",
+        "Even though she trained hard, she lost the final.",
+        "Though she trained hard, she lost the final.",
+        "Despite training hard, she lost the final.",
+        "In spite of training hard, she lost the final.",
+        "Despite the fact that she trained hard, she lost the final.",
+        "In spite of the fact that she trained hard, she lost the final."
+      ]
+    },
+    {
+      "id": "b2-ec-102",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Unless' already means 'if not', so the verb after it is positive. Example: We'll be late unless we hurry.",
+      "wrongReasons": {
+        "you won't pass the driving test unless you don't practise more": "'Unless' means 'if not', so 'unless you don't' is a double negative. Use 'unless you practise'.",
+        "you won't pass the driving test unless you will practise more": "After 'unless' we use the present simple, not 'will', even for the future."
+      },
+      "wrong": "You won't pass the driving test unless you don't practise more.",
+      "solutions": [
+        "You won't pass the driving test unless you practise more.",
+        "You will not pass the driving test unless you practise more.",
+        "You won't pass the driving test unless you practice more.",
+        "You will not pass the driving test unless you practice more.",
+        "You won't pass the driving test if you don't practise more.",
+        "You will not pass the driving test if you do not practise more.",
+        "You won't pass the driving test if you do not practise more.",
+        "You will not pass the driving test if you don't practise more.",
+        "You won't pass the driving test if you don't practice more.",
+        "You will not pass the driving test if you don't practice more."
+      ]
+    },
+    {
+      "id": "b2-ec-103",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After 'in case' we use the present simple to talk about a possible future situation. Example: Take some water in case you get thirsty.",
+      "wrongReasons": {
+        "take a jacket in case it will get cold later": "Do not use 'will' after 'in case'; use the present simple: 'in case it gets cold'.",
+        "take a jacket in case it would get cold later": "'Would' is not used after 'in case' with an imperative; use the present simple 'gets'."
+      },
+      "wrong": "Take a jacket in case it will get cold later.",
+      "solutions": [
+        "Take a jacket in case it gets cold later."
+      ]
+    },
+    {
+      "id": "b2-ec-104",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Due to' and 'because of' are followed by a noun phrase; 'because', 'as' and 'since' are followed by a clause. Example: Because of the snow, the school closed.",
+      "wrongReasons": {
+        "due to the train was late, we missed the start of the film": "'Due to' must be followed by a noun, not by a subject and verb. Use 'because the train was late'.",
+        "because of the train was late, we missed the start of the film": "'Because of' also needs a noun phrase; before a full clause use just 'because'."
+      },
+      "wrong": "Due to the train was late, we missed the start of the film.",
+      "solutions": [
+        "Because the train was late, we missed the start of the film.",
+        "As the train was late, we missed the start of the film.",
+        "Since the train was late, we missed the start of the film.",
+        "Due to the late train, we missed the start of the film.",
+        "Because of the late train, we missed the start of the film.",
+        "Due to the train being late, we missed the start of the film.",
+        "Due to the fact that the train was late, we missed the start of the film."
+      ]
+    },
+    {
+      "id": "b2-ec-105",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "When 'as well as' is followed by a verb, the verb takes the -ing form. Example: As well as singing, he plays the guitar.",
+      "wrongReasons": {
+        "as well as to manage the team, she handles the budget": "After 'as well as' at the start of a sentence, use the -ing form: 'as well as managing'.",
+        "as well as manage the team, she handles the budget": "The base form cannot follow 'as well as' here; use the -ing form 'managing'."
+      },
+      "wrong": "As well as to manage the team, she handles the budget.",
+      "solutions": [
+        "As well as managing the team, she handles the budget."
+      ]
+    },
+    {
+      "id": "b2-ec-106",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The fixed linker for introducing a contrasting point is 'on the other hand'. Example: The flat is small. On the other hand, it is very cheap.",
+      "wrongReasons": {
+        "on the other side, the new job pays much better": "The fixed expression is 'on the other hand', not 'on the other side'.",
+        "in the other hand, the new job pays much better": "The preposition is 'on', not 'in': 'on the other hand'."
+      },
+      "wrong": "On the other side, the new job pays much better.",
+      "solutions": [
+        "On the other hand, the new job pays much better."
+      ]
+    },
+    {
+      "id": "b2-ec-107",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'So that' is followed by a clause (subject + verb); 'so as to' and 'in order to' are followed by an infinitive. Example: She whispered so that nobody would hear.",
+      "wrongReasons": {
+        "we left early so that to avoid the traffic": "'So that' needs a subject and verb after it; with an infinitive use 'so as to' or 'in order to'.",
+        "we left early in order for avoid the traffic": "'In order for' needs a noun and 'to': simply use 'in order to avoid'."
+      },
+      "wrong": "We left early so that to avoid the traffic.",
+      "solutions": [
+        "We left early so as to avoid the traffic.",
+        "We left early in order to avoid the traffic.",
+        "We left early to avoid the traffic.",
+        "We left early so that we could avoid the traffic.",
+        "We left early so that we would avoid the traffic."
+      ]
+    },
+    {
+      "id": "b2-ec-108",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The linker meaning 'except for' is 'apart from'. Example: Apart from Sam, everyone came to the party.",
+      "wrongReasons": {
+        "apart of the price, there was nothing wrong with the hotel": "The preposition after 'apart' is 'from', not 'of'.",
+        "a part from the price, there was nothing wrong with the hotel": "'Apart' is written as one word; 'a part' means a piece of something."
+      },
+      "wrong": "Apart of the price, there was nothing wrong with the hotel.",
+      "solutions": [
+        "Apart from the price, there was nothing wrong with the hotel.",
+        "Aside from the price, there was nothing wrong with the hotel."
+      ]
+    },
+    {
+      "id": "b2-ec-109",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Neither' always pairs with 'nor', just as 'either' pairs with 'or'. Example: Neither Tom nor Ann was at home.",
+      "wrongReasons": {
+        "neither the manager or his assistant knew the answer": "'Neither' must be followed by 'nor', not 'or'.",
+        "neither the manager and his assistant knew the answer": "'And' cannot pair with 'neither'; the correct pair is 'neither ... nor'."
+      },
+      "wrong": "Neither the manager or his assistant knew the answer.",
+      "solutions": [
+        "Neither the manager nor his assistant knew the answer."
+      ]
+    },
+    {
+      "id": "b2-ec-110",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Besides' (= in addition to) is a preposition and is followed directly by a noun or -ing form. Example: Besides teaching, she writes novels.",
+      "wrongReasons": {
+        "besides of being cheap, the flat is close to the station": "'Besides' is not followed by 'of'; say 'besides being cheap'.",
+        "besides to be cheap, the flat is close to the station": "After 'besides' use the -ing form, not the to-infinitive."
+      },
+      "wrong": "Besides of being cheap, the flat is close to the station.",
+      "solutions": [
+        "Besides being cheap, the flat is close to the station.",
+        "As well as being cheap, the flat is close to the station.",
+        "Apart from being cheap, the flat is close to the station.",
+        "In addition to being cheap, the flat is close to the station."
+      ]
+    },
+    {
+      "id": "b2-ec-111",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use 'moreover' or 'furthermore' to add another positive point; 'nevertheless' introduces a contrast. Example: The car is fast. Moreover, it uses little fuel.",
+      "wrongReasons": {
+        "the hotel was in a perfect location. nevertheless, the staff were friendly and helpful": "'Nevertheless' shows contrast, but here the second point adds to the first. Use 'moreover' or 'in addition'.",
+        "the hotel was in a perfect location. however, the staff were friendly and helpful": "'However' also shows contrast; two positive points need an adding linker like 'moreover'."
+      },
+      "wrong": "The hotel was in a perfect location. Nevertheless, the staff were friendly and helpful.",
+      "solutions": [
+        "The hotel was in a perfect location. Moreover, the staff were friendly and helpful.",
+        "The hotel was in a perfect location. Furthermore, the staff were friendly and helpful.",
+        "The hotel was in a perfect location. In addition, the staff were friendly and helpful.",
+        "The hotel was in a perfect location. What is more, the staff were friendly and helpful.",
+        "The hotel was in a perfect location. What's more, the staff were friendly and helpful.",
+        "The hotel was in a perfect location. Also, the staff were friendly and helpful.",
+        "The hotel was in a perfect location. Besides, the staff were friendly and helpful."
+      ]
+    },
+    {
+      "id": "b2-ec-112",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In 'look forward to', 'to' is a preposition, so it is followed by the -ing form. Example: We look forward to hearing from you.",
+      "wrongReasons": {
+        "i'm looking forward to see you next week": "'To' in 'look forward to' is a preposition, so use the -ing form: 'to seeing'.",
+        "i'm looking forward see you next week": "'Look forward' needs 'to' and then an -ing form: 'look forward to seeing'."
+      },
+      "wrong": "I'm looking forward to see you next week.",
+      "solutions": [
+        "I'm looking forward to seeing you next week.",
+        "I am looking forward to seeing you next week."
+      ]
+    },
+    {
+      "id": "b2-ec-113",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Avoid' is followed by the -ing form, not the to-infinitive. Example: She avoids driving at night.",
+      "wrongReasons": {
+        "he avoided to answer the journalist's question": "'Avoid' takes the -ing form: 'avoided answering'.",
+        "he avoided answer the journalist's question": "The base form cannot follow 'avoid'; use 'answering'."
+      },
+      "wrong": "He avoided to answer the journalist's question.",
+      "solutions": [
+        "He avoided answering the journalist's question."
+      ]
+    },
+    {
+      "id": "b2-ec-114",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Decide' is followed by the to-infinitive. Example: We decided to stay at home.",
+      "wrongReasons": {
+        "they decided going to the coast for the weekend": "'Decide' takes the to-infinitive, not the -ing form: 'decided to go'.",
+        "they decided to going to the coast for the weekend": "After 'decided to', use the base form 'go', not 'going'."
+      },
+      "wrong": "They decided going to the coast for the weekend.",
+      "solutions": [
+        "They decided to go to the coast for the weekend."
+      ]
+    },
+    {
+      "id": "b2-ec-115",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In the active, 'make' + object is followed by the bare infinitive (without 'to'). Example: The film made me cry.",
+      "wrongReasons": {
+        "my parents made me to practise the piano every day": "After 'make someone', use the infinitive without 'to': 'made me practise'.",
+        "my parents made me practising the piano every day": "'Make' + object is not followed by the -ing form; use the bare infinitive 'practise'."
+      },
+      "wrong": "My parents made me to practise the piano every day.",
+      "solutions": [
+        "My parents made me practise the piano every day.",
+        "My parents made me practice the piano every day."
+      ]
+    },
+    {
+      "id": "b2-ec-116",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Mind' is followed by the -ing form. Example: Do you mind waiting a moment?",
+      "wrongReasons": {
+        "would you mind to close the window": "'Mind' takes the -ing form: 'Would you mind closing...?'",
+        "would you mind close the window": "The base form cannot follow 'mind'; use 'closing'."
+      },
+      "wrong": "Would you mind to close the window?",
+      "solutions": [
+        "Would you mind closing the window?"
+      ]
+    },
+    {
+      "id": "b2-ec-117",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Remember to do' is for a future duty; 'remember doing' is a memory of the past. Example: Remember to post the letter.",
+      "wrongReasons": {
+        "please remember locking the door when you leave": "'Remember + -ing' refers to a memory of a past action. For something you must do later, use 'remember to lock'.",
+        "please remember lock the door when you leave": "'Remember' needs 'to' before the infinitive here: 'remember to lock'."
+      },
+      "wrong": "Please remember locking the door when you leave.",
+      "solutions": [
+        "Please remember to lock the door when you leave."
+      ]
+    },
+    {
+      "id": "b2-ec-118",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Stop doing' means to finish a habit; 'stop to do' means to stop one activity in order to do another. Example: He stopped eating meat last year.",
+      "wrongReasons": {
+        "she stopped to smoke ten years ago and feels much healthier now": "'Stopped to smoke' means she paused in order to smoke. To say she quit the habit, use 'stopped smoking'.",
+        "she stopped smoke ten years ago and feels much healthier now": "'Stop' cannot be followed by the base form; use 'stopped smoking'."
+      },
+      "wrong": "She stopped to smoke ten years ago and feels much healthier now.",
+      "solutions": [
+        "She stopped smoking ten years ago and feels much healthier now."
+      ]
+    },
+    {
+      "id": "b2-ec-119",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Advise' + object is followed by the to-infinitive; the negative is 'not to'. Example: She advised me not to wait.",
+      "wrongReasons": {
+        "the doctor advised him not eating so much salt": "After 'advise someone', use the to-infinitive: 'advised him not to eat'.",
+        "the doctor advised him to don't eat so much salt": "The negative infinitive is 'not to eat', not 'to don't eat'."
+      },
+      "wrong": "The doctor advised him not eating so much salt.",
+      "solutions": [
+        "The doctor advised him not to eat so much salt."
+      ]
+    },
+    {
+      "id": "b2-ec-120",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Afford' is followed by the to-infinitive. Example: We can't afford to waste time.",
+      "wrongReasons": {
+        "i can't afford buying a new car this year": "'Afford' takes the to-infinitive, not the -ing form: 'afford to buy'.",
+        "i can't afford buy a new car this year": "You need 'to' before the verb: 'afford to buy'."
+      },
+      "wrong": "I can't afford buying a new car this year.",
+      "solutions": [
+        "I can't afford to buy a new car this year.",
+        "I cannot afford to buy a new car this year."
+      ]
+    },
+    {
+      "id": "b2-ec-121",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The expression 'it's no use' is followed by the -ing form. Example: It's no use crying about it now.",
+      "wrongReasons": {
+        "it's no use to complain about the weather": "'It's no use' is followed by an -ing form: 'no use complaining'.",
+        "it's no use complain about the weather": "The base form cannot follow 'it's no use'; use 'complaining'."
+      },
+      "wrong": "It's no use to complain about the weather.",
+      "solutions": [
+        "It's no use complaining about the weather.",
+        "It is no use complaining about the weather."
+      ]
+    },
+    {
+      "id": "b2-ec-122",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Let' + object is followed by the bare infinitive (without 'to'). Example: My boss let me go home early.",
+      "wrongReasons": {
+        "our teacher let us to leave early on friday": "After 'let someone', do not use 'to': 'let us leave'.",
+        "our teacher let us leaving early on friday": "'Let' + object is not followed by the -ing form; use the base form 'leave'."
+      },
+      "wrong": "Our teacher let us to leave early on Friday.",
+      "solutions": [
+        "Our teacher let us leave early on Friday."
+      ]
+    },
+    {
+      "id": "b2-ec-123",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In 'be used to' (= be accustomed to), 'to' is a preposition, so it is followed by the -ing form. Example: She is used to working late.",
+      "wrongReasons": {
+        "i'm used to get up at six now, so the early shift is easy for me": "'Be used to' means 'be accustomed to' and needs the -ing form: 'used to getting up'.",
+        "i'm use to get up at six now, so the early shift is easy for me": "The expression is 'be used to' with '-ed', followed by the -ing form 'getting'."
+      },
+      "wrong": "I'm used to get up at six now, so the early shift is easy for me.",
+      "solutions": [
+        "I'm used to getting up at six now, so the early shift is easy for me.",
+        "I am used to getting up at six now, so the early shift is easy for me."
+      ]
+    },
+    {
+      "id": "b2-ec-124",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Admit' is followed by the -ing form (or 'to' + -ing), never by the to-infinitive. Example: She admitted breaking the vase.",
+      "wrongReasons": {
+        "the student admitted to copy his friend's homework": "'Admit' does not take the to-infinitive. Say 'admitted copying' or 'admitted to copying'.",
+        "the student admitted copy his friend's homework": "The base form cannot follow 'admit'; use 'copying'."
+      },
+      "wrong": "The student admitted to copy his friend's homework.",
+      "solutions": [
+        "The student admitted copying his friend's homework.",
+        "The student admitted to copying his friend's homework.",
+        "The student admitted having copied his friend's homework.",
+        "The student admitted to having copied his friend's homework.",
+        "The student admitted that he had copied his friend's homework.",
+        "The student admitted that he copied his friend's homework.",
+        "The student admitted he had copied his friend's homework.",
+        "The student admitted he copied his friend's homework."
+      ]
+    },
+    {
+      "id": "b2-ec-125",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Consider' is followed by the -ing form. Example: Have you considered changing jobs?",
+      "wrongReasons": {
+        "we're considering to move to a smaller flat": "'Consider' takes the -ing form, not the to-infinitive: 'considering moving'.",
+        "we're considering about moving to a smaller flat": "'Consider' takes a direct object; do not add 'about'."
+      },
+      "wrong": "We're considering to move to a smaller flat.",
+      "solutions": [
+        "We're considering moving to a smaller flat.",
+        "We are considering moving to a smaller flat."
+      ]
+    },
+    {
+      "id": "b2-ec-126",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use the past perfect for an action that happened before another past action. Example: When we got to the cinema, the film had started.",
+      "wrongReasons": {
+        "when i arrived at the station, the train already left": "The train left before I arrived, so use the past perfect: 'had already left'.",
+        "when i arrived at the station, the train has already left": "The present perfect does not fit a past story; use the past perfect 'had left'."
+      },
+      "wrong": "When I arrived at the station, the train already left.",
+      "solutions": [
+        "When I arrived at the station, the train had already left."
+      ]
+    },
+    {
+      "id": "b2-ec-127",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use the past continuous for a longer background action and the past simple for a short action that interrupts it. Example: I was cooking when the lights went out.",
+      "wrongReasons": {
+        "i was having a shower when the phone was ringing": "The phone ringing interrupted the shower, so it needs the past simple: 'rang'.",
+        "i was having a shower when the phone has rung": "The present perfect cannot describe a single event in a past story; use 'rang'."
+      },
+      "wrong": "I was having a shower when the phone was ringing.",
+      "solutions": [
+        "I was having a shower when the phone rang."
+      ]
+    },
+    {
+      "id": "b2-ec-128",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'By the time' + past simple is followed by the past perfect for the earlier action. Example: By the time I woke up, everyone had left.",
+      "wrongReasons": {
+        "by the time the firefighters arrived, the house burned down": "The house was destroyed before the firefighters arrived, so use the past perfect: 'had burned down'.",
+        "by the time the firefighters arrived, the house has burned down": "The present perfect does not fit a past narrative; use 'had burned down'."
+      },
+      "wrong": "By the time the firefighters arrived, the house burned down.",
+      "solutions": [
+        "By the time the firefighters arrived, the house had burned down.",
+        "By the time the firefighters arrived, the house had burnt down."
+      ]
+    },
+    {
+      "id": "b2-ec-129",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "State verbs such as 'know', 'believe' and 'own' are not normally used in continuous tenses. Example: I knew her name.",
+      "wrongReasons": {
+        "he was knowing the answer, but he didn't say anything": "'Know' is a state verb, so it is not used in the past continuous. Use 'knew'.",
+        "he has known the answer, but he didn't say anything": "The present perfect does not match 'didn't say'; use the past simple 'knew'."
+      },
+      "wrong": "He was knowing the answer, but he didn't say anything.",
+      "solutions": [
+        "He knew the answer, but he didn't say anything.",
+        "He knew the answer, but he did not say anything."
+      ]
+    },
+    {
+      "id": "b2-ec-130",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use the past perfect continuous for an activity that continued up to a moment in the past and explains a result. Example: He was tired because he had been running.",
+      "wrongReasons": {
+        "her eyes were red because she has been crying": "The story is in the past, so the earlier activity needs the past perfect continuous: 'had been crying'.",
+        "her eyes were red because she has cried": "The present perfect does not fit a past situation; use 'had been crying'."
+      },
+      "wrong": "Her eyes were red because she has been crying.",
+      "solutions": [
+        "Her eyes were red because she had been crying."
+      ]
+    },
+    {
+      "id": "b2-ec-131",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use the past perfect for a change that happened before a past moment. Example: The town looked different because they had built a new road.",
+      "wrongReasons": {
+        "i didn't recognise my old classmate because he has changed so much": "The change happened before the meeting in the past, so use the past perfect: 'had changed'.",
+        "i didn't recognise my old classmate because he was changing so much": "The past continuous suggests the change was in progress at that moment; the change was already complete, so use 'had changed'."
+      },
+      "wrong": "I didn't recognise my old classmate because he has changed so much.",
+      "solutions": [
+        "I didn't recognise my old classmate because he had changed so much.",
+        "I did not recognise my old classmate because he had changed so much.",
+        "I didn't recognize my old classmate because he had changed so much.",
+        "I did not recognize my old classmate because he had changed so much."
+      ]
+    },
+    {
+      "id": "b2-ec-132",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use the past simple for a single, complete event in the past. Example: Last week I found a wallet in the street.",
+      "wrongReasons": {
+        "yesterday i was meeting an old friend by chance in the supermarket": "Meeting someone by chance is a short, complete event, so use the past simple: 'met'.",
+        "yesterday i had met an old friend by chance in the supermarket": "The past perfect needs another past event to come after it; here a simple 'met' is correct."
+      },
+      "wrong": "Yesterday I was meeting an old friend by chance in the supermarket.",
+      "solutions": [
+        "Yesterday I met an old friend by chance in the supermarket."
+      ]
+    },
+    {
+      "id": "b2-ec-133",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use the past continuous for an action that was in progress when something else happened. Example: We were watching TV when the storm began.",
+      "wrongReasons": {
+        "i slept when the earthquake started, so i didn't feel anything": "Sleeping was in progress when the earthquake started, so use the past continuous: 'was sleeping'.",
+        "i had slept when the earthquake started, so i didn't feel anything": "'Had slept' means the sleep was finished before the earthquake; use 'was sleeping'."
+      },
+      "wrong": "I slept when the earthquake started, so I didn't feel anything.",
+      "solutions": [
+        "I was sleeping when the earthquake started, so I didn't feel anything.",
+        "I was sleeping when the earthquake started, so I did not feel anything.",
+        "I was asleep when the earthquake started, so I didn't feel anything.",
+        "I was asleep when the earthquake started, so I did not feel anything."
+      ]
+    },
+    {
+      "id": "b2-ec-134",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After 'It was the first time', use the past perfect. Example: It was the first time she had seen snow.",
+      "wrongReasons": {
+        "it was the first time i ever flew in a plane": "'It was the first time' is followed by the past perfect: 'had ever flown'.",
+        "it was the first time i have ever flown in a plane": "With 'It was' (past), use the past perfect 'had flown', not the present perfect."
+      },
+      "wrong": "It was the first time I ever flew in a plane.",
+      "solutions": [
+        "It was the first time I had ever flown in a plane.",
+        "It was the first time I had ever flown on a plane."
+      ]
+    },
+    {
+      "id": "b2-ec-135",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use the past simple for actions that happen one after another in a story; 'realise' is a state verb and is rarely continuous. Example: When he saw her face, he understood.",
+      "wrongReasons": {
+        "as soon as she opened the envelope, she was realising it was bad news": "Realising happened immediately after opening, as a single event, so use the past simple: 'realised'.",
+        "as soon as she opened the envelope, she had realised it was bad news": "The past perfect would mean she realised before opening it; use 'realised'."
+      },
+      "wrong": "As soon as she opened the envelope, she was realising it was bad news.",
+      "solutions": [
+        "As soon as she opened the envelope, she realised it was bad news.",
+        "As soon as she opened the envelope, she realized it was bad news."
+      ]
+    },
+    {
+      "id": "b2-ec-136",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use the past simple for the single past event that comes after the past perfect action. Example: She had worked there for years when she retired.",
+      "wrongReasons": {
+        "we had lived in leeds for ten years when we were moving to bristol": "Moving was a single, complete event, so use the past simple: 'moved'.",
+        "we had lived in leeds for ten years when we have moved to bristol": "The present perfect cannot be used for a finished past event; use 'moved'."
+      },
+      "wrong": "We had lived in Leeds for ten years when we were moving to Bristol.",
+      "solutions": [
+        "We had lived in Leeds for ten years when we moved to Bristol."
+      ]
+    },
+    {
+      "id": "b2-ec-137",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In a past story, use the past simple (or past perfect) after 'before', not the present perfect. Example: We left before the rain started.",
+      "wrongReasons": {
+        "the thieves escaped before the police has arrived": "The present perfect does not fit a past story; use 'arrived' or 'had arrived'.",
+        "the thieves escaped before the police was arriving": "'Police' takes a plural verb, and a single arrival needs the past simple 'arrived'."
+      },
+      "wrong": "The thieves escaped before the police has arrived.",
+      "solutions": [
+        "The thieves escaped before the police arrived.",
+        "The thieves escaped before the police had arrived."
+      ]
+    },
+    {
+      "id": "b2-ec-138",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Used to' for past habits is followed by the base form of the verb. Example: We used to live by the sea.",
+      "wrongReasons": {
+        "he used to playing tennis every saturday when he was young": "'Used to' (past habit) takes the base form: 'used to play'.",
+        "he use to playing tennis every saturday when he was young": "The past habit form is 'used to' + base form: 'used to play'."
+      },
+      "wrong": "He used to playing tennis every Saturday when he was young.",
+      "solutions": [
+        "He used to play tennis every Saturday when he was young.",
+        "He would play tennis every Saturday when he was young.",
+        "He played tennis every Saturday when he was young."
+      ]
+    },
+    {
+      "id": "b2-ec-139",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In time clauses after 'when', 'as soon as' or 'before', use the present simple for the future. Example: I'll call you when I get home.",
+      "wrongReasons": {
+        "i will tell her when i will see her tomorrow": "Do not use 'will' after 'when' in a time clause; use the present simple: 'when I see her'.",
+        "i will tell her when i would see her tomorrow": "'Would' is also wrong in a future time clause; use the present simple 'see'."
+      },
+      "wrong": "I will tell her when I will see her tomorrow.",
+      "solutions": [
+        "I will tell her when I see her tomorrow.",
+        "I'll tell her when I see her tomorrow."
+      ]
+    },
+    {
+      "id": "b2-ec-140",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use the future continuous for an action that will be in progress at a specific time in the future. Example: At nine tomorrow, I'll be taking my exam.",
+      "wrongReasons": {
+        "this time next week i will lie on a beach in greece": "'This time next week' needs an action in progress, so use the future continuous: 'will be lying'.",
+        "this time next week i will lying on a beach in greece": "The future continuous needs 'be': 'will be lying'."
+      },
+      "wrong": "This time next week I will lie on a beach in Greece.",
+      "solutions": [
+        "This time next week I will be lying on a beach in Greece.",
+        "This time next week I'll be lying on a beach in Greece."
+      ]
+    },
+    {
+      "id": "b2-ec-141",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Be going to' is followed by the base form of the verb. Example: She's going to start a new course.",
+      "wrongReasons": {
+        "i'm going to visiting my cousin in madrid next month": "After 'going to' for a plan, use the base form: 'going to visit'.",
+        "i'm going visit my cousin in madrid next month": "You need 'to' between 'going' and the verb: 'going to visit'."
+      },
+      "wrong": "I'm going to visiting my cousin in Madrid next month.",
+      "solutions": [
+        "I'm going to visit my cousin in Madrid next month.",
+        "I am going to visit my cousin in Madrid next month.",
+        "I'm visiting my cousin in Madrid next month.",
+        "I am visiting my cousin in Madrid next month."
+      ]
+    },
+    {
+      "id": "b2-ec-142",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After 'when' in a future time clause, use the present simple or present perfect, not 'will'. Example: We'll start when everyone arrives.",
+      "wrongReasons": {
+        "shall we go out when the rain will stop": "'Will' is not used after 'when' in a time clause; say 'when the rain stops'.",
+        "shall we go out when the rain stopped": "The past simple does not refer to the future here; use 'stops'."
+      },
+      "wrong": "Shall we go out when the rain will stop?",
+      "solutions": [
+        "Shall we go out when the rain stops?",
+        "Shall we go out when the rain has stopped?"
+      ]
+    },
+    {
+      "id": "b2-ec-143",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After 'until' we use the present simple to refer to the future. Example: Stay here until I come back.",
+      "wrongReasons": {
+        "we'll wait here until the taxi will come": "Do not use 'will' after 'until'; use the present simple: 'until the taxi comes'.",
+        "we'll wait here until the taxi is coming": "The present continuous is not used after 'until' for a single future event; use 'comes'."
+      },
+      "wrong": "We'll wait here until the taxi will come.",
+      "solutions": [
+        "We'll wait here until the taxi comes.",
+        "We will wait here until the taxi comes."
+      ]
+    },
+    {
+      "id": "b2-ec-144",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The future perfect active is 'will have' + past participle, for an action complete before a future time. Example: By Friday, I will have finished the report.",
+      "wrongReasons": {
+        "by the time you get here, i will have been cooked dinner": "'Will have been cooked' is passive, but 'I' did the cooking; use the active 'will have cooked'.",
+        "by the time you get here, i will be cooked dinner": "'Will be cooked' is passive and does not show completion; use 'will have cooked'."
+      },
+      "wrong": "By the time you get here, I will have been cooked dinner.",
+      "solutions": [
+        "By the time you get here, I will have cooked dinner.",
+        "By the time you get here, I'll have cooked dinner."
+      ]
+    },
+    {
+      "id": "b2-ec-145",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use the future perfect (continuous) to say how long an action will have lasted at a future point. Example: Next year we will have been living here for a decade.",
+      "wrongReasons": {
+        "in june, i will be working for this company for twenty years": "With 'for twenty years' up to a future point, use the future perfect continuous: 'will have been working'.",
+        "in june, i will work for this company for twenty years": "'Will work' does not show duration up to a point; use 'will have been working'."
+      },
+      "wrong": "In June, I will be working for this company for twenty years.",
+      "solutions": [
+        "In June, I will have been working for this company for twenty years.",
+        "In June, I'll have been working for this company for twenty years.",
+        "In June, I will have worked for this company for twenty years.",
+        "In June, I'll have worked for this company for twenty years."
+      ]
+    },
+    {
+      "id": "b2-ec-146",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Be about to' (= going to happen very soon) is followed by the base form. Example: Hurry, the show is about to begin.",
+      "wrongReasons": {
+        "the conference is about to starting, so please take your seats": "'Be about to' takes the base form: 'is about to start'.",
+        "the conference is about starting, so please take your seats": "The structure needs 'to' + base form: 'about to start'."
+      },
+      "wrong": "The conference is about to starting, so please take your seats.",
+      "solutions": [
+        "The conference is about to start, so please take your seats."
+      ]
+    },
+    {
+      "id": "b2-ec-147",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use 'will' for promises and offers. Example: I'll help you with your bags.",
+      "wrongReasons": {
+        "i promise i call you as soon as i land": "A promise about the future needs 'will': 'I promise I'll call you'.",
+        "i promise i am calling you as soon as i land": "The present continuous is for arrangements, not promises; use 'will call'."
+      },
+      "wrong": "I promise I call you as soon as I land.",
+      "solutions": [
+        "I promise I will call you as soon as I land.",
+        "I promise I'll call you as soon as I land.",
+        "I promise to call you as soon as I land."
+      ]
+    },
+    {
+      "id": "b2-ec-148",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Be due to' + base form is used for something planned or expected at a certain time. Example: The plane is due to land at five.",
+      "wrongReasons": {
+        "the new hospital is due opening in the spring": "'Be due' is followed by the to-infinitive: 'is due to open'.",
+        "the new hospital is due open in the spring": "You need 'to' after 'due': 'due to open'."
+      },
+      "wrong": "The new hospital is due opening in the spring.",
+      "solutions": [
+        "The new hospital is due to open in the spring."
+      ]
+    },
+    {
+      "id": "b2-ec-149",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Will' is a modal verb and is followed by the base form without 'to'. Example: The shop will close soon.",
+      "wrongReasons": {
+        "hurry up! the bus will to leave in two minutes": "'Will' is never followed by 'to'; say 'will leave'.",
+        "hurry up! the bus will leaving in two minutes": "After 'will', use the base form 'leave', not the -ing form."
+      },
+      "wrong": "Hurry up! The bus will to leave in two minutes.",
+      "solutions": [
+        "Hurry up! The bus will leave in two minutes.",
+        "Hurry up! The bus leaves in two minutes.",
+        "Hurry up! The bus is leaving in two minutes.",
+        "Hurry up! The bus is going to leave in two minutes."
+      ]
+    },
+    {
+      "id": "b2-ec-150",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The future continuous is 'will be' + -ing and is often used to ask politely about plans. Example: Will you be staying for dinner?",
+      "wrongReasons": {
+        "will you be use the car this evening? i need to go to the gym": "After 'will be' you need the -ing form: 'will you be using'.",
+        "will you be used the car this evening? i need to go to the gym": "'Will be used' is passive; to ask about someone's plans, use 'will be using'."
+      },
+      "wrong": "Will you be use the car this evening? I need to go to the gym.",
+      "solutions": [
+        "Will you be using the car this evening? I need to go to the gym.",
+        "Will you use the car this evening? I need to go to the gym.",
+        "Are you using the car this evening? I need to go to the gym.",
+        "Are you going to use the car this evening? I need to go to the gym."
+      ]
+    },
+    {
+      "id": "b2-ec-151",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For predictions, use 'will' or 'be going to'; the present continuous is for personal arrangements. Example: Experts say prices will rise next year.",
+      "wrongReasons": {
+        "the forecast says it is snowing tomorrow": "The weather is a prediction, not an arrangement, so use 'will snow' or 'is going to snow'.",
+        "the forecast says it snows tomorrow": "The present simple is for timetables, not weather predictions; use 'will snow'."
+      },
+      "wrong": "The forecast says it is snowing tomorrow.",
+      "solutions": [
+        "The forecast says it will snow tomorrow.",
+        "The forecast says it'll snow tomorrow.",
+        "The forecast says it is going to snow tomorrow.",
+        "The forecast says it's going to snow tomorrow.",
+        "The forecast says it will be snowing tomorrow.",
+        "The forecast says it'll be snowing tomorrow."
+      ]
+    },
+    {
+      "id": "b2-ec-152",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The collocation is 'do someone a favour'. Example: Could you do me a favour and feed the cat?",
+      "wrongReasons": {
+        "can you make me a favour and carry this box": "We 'do' a favour, not 'make' it.",
+        "can you give me a favour and carry this box": "'Give' does not collocate with 'favour' here; the fixed phrase is 'do me a favour'."
+      },
+      "wrong": "Can you make me a favour and carry this box?",
+      "solutions": [
+        "Can you do me a favour and carry this box?",
+        "Can you do me a favor and carry this box?"
+      ]
+    },
+    {
+      "id": "b2-ec-153",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The collocation is 'make a phone call'. Example: She made three calls this morning.",
+      "wrongReasons": {
+        "i have to do a phone call before the meeting starts": "We 'make' a phone call, not 'do' one.",
+        "i have to give a phone call before the meeting starts": "In standard English we 'make' a phone call; 'give a call' is only used in informal phrases like 'give me a call'."
+      },
+      "wrong": "I have to do a phone call before the meeting starts.",
+      "solutions": [
+        "I have to make a phone call before the meeting starts."
+      ]
+    },
+    {
+      "id": "b2-ec-154",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The collocation is 'make a mistake'. Example: Everyone makes mistakes when learning.",
+      "wrongReasons": {
+        "the new cashier did two mistakes on his first day": "We 'make' mistakes, not 'do' them.",
+        "the new cashier took two mistakes on his first day": "'Take' does not collocate with 'mistake'; use 'made'."
+      },
+      "wrong": "The new cashier did two mistakes on his first day.",
+      "solutions": [
+        "The new cashier made two mistakes on his first day."
+      ]
+    },
+    {
+      "id": "b2-ec-155",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Rise' (rose, risen) has no object; 'raise' (raised) needs an object. Example: Prices rose, so the company raised its salaries.",
+      "wrongReasons": {
+        "the price of petrol has raised sharply this year": "'Raise' needs an object (someone raises prices). Prices go up by themselves, so use 'has risen'.",
+        "the price of petrol has rose sharply this year": "'Rose' is the past simple; after 'has' you need the past participle 'risen'."
+      },
+      "wrong": "The price of petrol has raised sharply this year.",
+      "solutions": [
+        "The price of petrol has risen sharply this year.",
+        "The price of petrol has gone up sharply this year."
+      ]
+    },
+    {
+      "id": "b2-ec-156",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "You 'lend' something to someone; you 'borrow' something from someone. Example: Can I borrow your pen? / Can you lend me your pen?",
+      "wrongReasons": {
+        "could you borrow me your umbrella": "'Borrow' means to take something from someone; when you ask someone to give it, use 'lend'.",
+        "could you borrow to me your umbrella": "Adding 'to' does not fix it: 'borrow' means take, so use 'lend me'."
+      },
+      "wrong": "Could you borrow me your umbrella?",
+      "solutions": [
+        "Could you lend me your umbrella?",
+        "Could I borrow your umbrella?"
+      ]
+    },
+    {
+      "id": "b2-ec-157",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adjectives in -ing describe what causes a feeling; -ed adjectives describe how a person feels. Example: The lecture was boring, so I was bored.",
+      "wrongReasons": {
+        "the film was so bored that i fell asleep": "The film causes the feeling, so use the -ing adjective: 'boring'.",
+        "the film was so boredom that i fell asleep": "'Boredom' is a noun; after 'so' you need the adjective 'boring'."
+      },
+      "wrong": "The film was so bored that I fell asleep.",
+      "solutions": [
+        "The film was so boring that I fell asleep."
+      ]
+    },
+    {
+      "id": "b2-ec-158",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Affect' is a verb with a direct object; 'effect' is a noun used in 'have an effect on'. Example: Stress affects sleep. / Stress has an effect on sleep.",
+      "wrongReasons": {
+        "lack of sleep can affect on your memory": "'Affect' takes a direct object with no preposition: 'can affect your memory'.",
+        "lack of sleep can effect on your memory": "'Effect' is normally a noun; use the verb 'affect' or 'have an effect on'."
+      },
+      "wrong": "Lack of sleep can affect on your memory.",
+      "solutions": [
+        "Lack of sleep can affect your memory.",
+        "Lack of sleep can have an effect on your memory."
+      ]
+    },
+    {
+      "id": "b2-ec-159",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Sensitive' means easily upset or affected by feelings; 'sensible' means practical and reasonable. Example: He's sensitive about his age.",
+      "wrongReasons": {
+        "she is very sensible and cries at sad films": "'Sensible' means practical and wise; a person who cries easily is 'sensitive'.",
+        "she is very sensitivity and cries at sad films": "'Sensitivity' is a noun; after 'very' you need the adjective 'sensitive'."
+      },
+      "wrong": "She is very sensible and cries at sad films.",
+      "solutions": [
+        "She is very sensitive and cries at sad films."
+      ]
+    },
+    {
+      "id": "b2-ec-160",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Research' is uncountable (no 'a/an') and collocates with 'do', 'carry out' or 'conduct'. Example: They did research into sleep.",
+      "wrongReasons": {
+        "the scientist made an important research on climate": "'Research' is uncountable, so it cannot take 'an', and we 'do' or 'carry out' research rather than 'make' it.",
+        "the scientist made important researches on climate": "'Research' has no plural form in standard use, and the verb should be 'did' or 'carried out'."
+      },
+      "wrong": "The scientist made an important research on climate.",
+      "solutions": [
+        "The scientist did important research on climate.",
+        "The scientist carried out important research on climate.",
+        "The scientist conducted important research on climate.",
+        "The scientist did some important research on climate."
+      ]
+    },
+    {
+      "id": "b2-ec-161",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Remind someone to do something' means to help them not forget; 'remember' has no person object here. Example: Remind me to call Mum.",
+      "wrongReasons": {
+        "can you remember me to buy some bread on the way home": "When you ask another person to make you remember, use 'remind me', not 'remember me'.",
+        "can you remember to me to buy some bread on the way home": "Adding 'to' does not work; the verb with a person object is 'remind'."
+      },
+      "wrong": "Can you remember me to buy some bread on the way home?",
+      "solutions": [
+        "Can you remind me to buy some bread on the way home?"
+      ]
+    },
+    {
+      "id": "b2-ec-162",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Travel' is usually an uncountable noun for the general activity; for one visit somewhere, use 'trip' or 'journey'. Example: Our trip to Rome was wonderful.",
+      "wrongReasons": {
+        "our travel to peru was the best holiday of my life": "'Travel' describes travelling in general; for one particular visit, say 'our trip'.",
+        "our travelling to peru was the best holiday of my life": "'Travelling' is also the general activity; a single holiday visit is a 'trip'."
+      },
+      "wrong": "Our travel to Peru was the best holiday of my life.",
+      "solutions": [
+        "Our trip to Peru was the best holiday of my life.",
+        "Our journey to Peru was the best holiday of my life."
+      ]
+    },
+    {
+      "id": "b2-ec-163",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The collocation is 'pay attention to'. Example: Please pay attention to the safety rules.",
+      "wrongReasons": {
+        "the teacher asked us to put attention to the instructions": "We 'pay' attention, not 'put' it.",
+        "the teacher asked us to make attention to the instructions": "'Make' does not collocate with 'attention'; use 'pay attention'."
+      },
+      "wrong": "The teacher asked us to put attention to the instructions.",
+      "solutions": [
+        "The teacher asked us to pay attention to the instructions."
+      ]
+    },
+    {
+      "id": "b2-ec-164",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The collocation is 'break a record'; you 'beat' a person or team. Example: She broke the national record.",
+      "wrongReasons": {
+        "he won the race and beat the world record": "We 'break' a record; 'beat' is used for opponents.",
+        "he won the race and won the world record": "You cannot 'win' a record; the collocation is 'break a record'."
+      },
+      "wrong": "He won the race and beat the world record.",
+      "solutions": [
+        "He won the race and broke the world record."
+      ]
+    },
+    {
+      "id": "b2-ec-165",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "An 'employer' gives people jobs; an 'employee' works for an employer. Example: The bank has 300 employees.",
+      "wrongReasons": {
+        "the company has hired fifty new employers this year": "'Employers' are the people or companies who hire; the people hired are 'employees'.",
+        "the company has hired fifty new employes this year": "The spelling is 'employees', with a double 'e'."
+      },
+      "wrong": "The company has hired fifty new employers this year.",
+      "solutions": [
+        "The company has hired fifty new employees this year.",
+        "The company has hired fifty new members of staff this year.",
+        "The company has hired fifty new workers this year.",
+        "The company has hired fifty new staff this year."
+      ]
     }
   ]
 }

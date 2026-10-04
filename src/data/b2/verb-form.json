@@ -43,6 +43,3429 @@
         "will"
       ],
       "correct": 1
+    },
+    {
+      "id": "b2-vf-003",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If I had known you were vegetarian, I ___ a different dish last night.",
+      "explanation": "Third conditional: if + past perfect, would have + past participle. If I had known, I would have cooked something else.",
+      "wrongReasons": {
+        "0": "'would cook' talks about the present or future, but 'last night' is in the past.",
+        "2": "'had cooked' belongs in the if-clause, not in the result clause.",
+        "3": "'will have cooked' is the future perfect and is not used for an unreal past result."
+      },
+      "verb": "cook",
+      "options": [
+        "would cook",
+        "would have cooked",
+        "had cooked",
+        "will have cooked"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-004",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If the bus ___ on time, we wouldn't have missed the start of the concert.",
+      "explanation": "In a third conditional the if-clause uses the past perfect: If the bus had come on time, we wouldn't have missed it.",
+      "wrongReasons": {
+        "1": "The past simple is for unreal present situations; this is about a past event, so use the past perfect.",
+        "2": "We do not normally use 'would' in the if-clause of a conditional.",
+        "3": "The present perfect cannot be used in a third conditional."
+      },
+      "verb": "come",
+      "options": [
+        "had come",
+        "came",
+        "would have come",
+        "has come"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-005",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If she ___ more confidence in herself, she would apply for the manager's job.",
+      "explanation": "Second conditional: if + past simple, would + base form, for unreal present situations. If she had more time, she would help.",
+      "wrongReasons": {
+        "0": "With 'has' the result would need 'will', not 'would'.",
+        "2": "'had had' is for the past and would need 'would have applied' in the result.",
+        "3": "'would' is not used in the if-clause of a second conditional."
+      },
+      "verb": "have",
+      "options": [
+        "has",
+        "had",
+        "had had",
+        "would have"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-006",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Unless you ___ the form by Friday, your application will not be accepted.",
+      "explanation": "'Unless' means 'if not' and takes the present simple when talking about the future: Unless you hurry, you'll miss the bus.",
+      "wrongReasons": {
+        "0": "After 'unless' we use the present simple for the future, not 'will'.",
+        "1": "'Unless' already means 'if not', so a negative verb gives the wrong meaning.",
+        "3": "The past simple does not match 'will' in the main clause."
+      },
+      "verb": "sign",
+      "options": [
+        "will sign",
+        "don't sign",
+        "sign",
+        "signed"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-007",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If you heat ice, it ___.",
+      "explanation": "Zero conditional: if + present simple, present simple, for facts that are always true. If you heat water to 100°C, it boils.",
+      "wrongReasons": {
+        "0": "This is a general scientific fact, so it is a zero conditional, not an imaginary situation.",
+        "2": "The past simple does not fit a general truth in the present.",
+        "3": "The present perfect is not used to state what always happens."
+      },
+      "verb": "melt",
+      "options": [
+        "would melt",
+        "melts",
+        "melted",
+        "has melted"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-008",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If I ___ you, I would talk to the landlord before signing anything.",
+      "explanation": "We give advice with 'If I were you, I would...'. If I were you, I would take the job.",
+      "wrongReasons": {
+        "0": "'If I am you' is impossible; giving advice with 'would' needs the unreal form 'were'.",
+        "1": "'had been' refers to the past and would need 'would have talked'.",
+        "3": "'would' does not go in the if-clause."
+      },
+      "verb": "be",
+      "options": [
+        "am",
+        "had been",
+        "were",
+        "would be"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-009",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If he had taken the job in Berlin, he ___ in Germany now.",
+      "explanation": "Mixed conditional: a past condition (had + past participle) with a present result (would + verb). If he had studied, he would be a doctor now.",
+      "wrongReasons": {
+        "1": "'now' shows a present result, so 'would have lived' (a past result) does not fit.",
+        "2": "'will' is for real future situations, but this one is imaginary.",
+        "3": "The past perfect belongs in the if-clause, not the result."
+      },
+      "verb": "live",
+      "options": [
+        "would be living",
+        "would have lived",
+        "will be living",
+        "had lived"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-010",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If I weren't so afraid of flying, I ___ to Australia with my friends last year.",
+      "explanation": "Mixed conditional: a present situation (weren't) with a past result (would have gone). If I weren't so shy, I would have spoken to her yesterday.",
+      "wrongReasons": {
+        "0": "'last year' is in the past, so the result needs 'would have + past participle'.",
+        "1": "The past perfect is used in the if-clause, not in the result clause.",
+        "2": "The past simple states a real fact, but this trip never happened."
+      },
+      "verb": "go",
+      "options": [
+        "would go",
+        "had gone",
+        "went",
+        "would have gone"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-011",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "We'll miss the train unless we ___ now.",
+      "explanation": "After 'unless' (= if not) use the present simple for the future: We'll be late unless we take a taxi.",
+      "wrongReasons": {
+        "0": "'will' is not used after 'unless' to talk about the future.",
+        "2": "The past simple does not match the real future situation in this sentence.",
+        "3": "'unless' already contains the idea of 'not', so a negative verb is wrong here."
+      },
+      "verb": "leave",
+      "options": [
+        "will leave",
+        "leave",
+        "left",
+        "don't leave"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-012",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Provided that the weather ___ good, the festival will take place in the park.",
+      "explanation": "'Provided that' works like 'if' and takes the present simple for the future: Provided that you pay on time, there's no extra fee.",
+      "wrongReasons": {
+        "0": "After 'provided that' we use the present simple, not 'will', for a future condition.",
+        "1": "The past simple would suit an imaginary situation with 'would', not 'will'.",
+        "3": "'would' does not belong in the condition clause."
+      },
+      "verb": "stay",
+      "options": [
+        "will stay",
+        "stayed",
+        "stays",
+        "would stay"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-013",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If the engineers had checked the bridge properly, the accident ___.",
+      "explanation": "Third conditional result: would (not) have + past participle. If we had left earlier, we wouldn't have been late.",
+      "wrongReasons": {
+        "0": "The accident is in the past, so we need 'wouldn't have + past participle'.",
+        "1": "The past perfect is for the if-clause, not the result clause.",
+        "3": "'won't have' is the future perfect and does not fit an unreal past."
+      },
+      "verb": "not happen",
+      "options": [
+        "wouldn't happen",
+        "hadn't happened",
+        "wouldn't have happened",
+        "won't have happened"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-014",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If you ___ the red button, the machine stops immediately.",
+      "explanation": "Zero conditional for things that always happen: if + present simple, present simple. If you mix red and blue, you get purple.",
+      "wrongReasons": {
+        "1": "With the past simple the result would need 'would stop'.",
+        "2": "'will' is not used in the if-clause.",
+        "3": "'would' is not used in the if-clause of a zero conditional."
+      },
+      "verb": "press",
+      "options": [
+        "press",
+        "pressed",
+        "will press",
+        "would press"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-015",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Supposing you ___ the lottery, what would you do with the money?",
+      "explanation": "'Supposing' works like 'if' in a second conditional: Supposing you lost your job, what would you do?",
+      "wrongReasons": {
+        "0": "The question uses 'would', so the condition must be in the past simple to show it is imaginary.",
+        "1": "'had won' is for the past and would need 'would have done'.",
+        "3": "'would' does not go in the condition clause after 'supposing'."
+      },
+      "verb": "win",
+      "options": [
+        "win",
+        "had won",
+        "won",
+        "would win"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-016",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "I would have called you if my phone ___ out of battery.",
+      "explanation": "Third conditional: the if-clause uses the past perfect. I would have come if I hadn't been ill.",
+      "wrongReasons": {
+        "0": "The past simple is for unreal present situations; the call is in the past.",
+        "1": "'would' belongs in the result clause, not after 'if'.",
+        "3": "The present perfect is not used in a third conditional."
+      },
+      "verb": "not run",
+      "options": [
+        "didn't run",
+        "wouldn't have run",
+        "hadn't run",
+        "hasn't run"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-017",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If it ___ tomorrow, we will hold the meeting online.",
+      "explanation": "First conditional: if + present simple, will + verb. If it rains tomorrow, we will stay at home.",
+      "wrongReasons": {
+        "0": "In a first conditional, the if-clause uses the present simple, not 'will'.",
+        "1": "The past simple would need 'would' in the result clause.",
+        "2": "'would' never goes in this if-clause."
+      },
+      "verb": "snow",
+      "options": [
+        "will snow",
+        "snowed",
+        "would snow",
+        "snows"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-018",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Had the referee seen the foul, he ___ a penalty.",
+      "explanation": "'Had + subject + past participle' is a formal third conditional without 'if'. Had I known, I would have helped.",
+      "wrongReasons": {
+        "0": "'Had the referee seen' refers to the past, so the result needs 'would have given'.",
+        "2": "The past perfect is already in the first clause; the result needs 'would have'.",
+        "3": "The past simple says it really happened, but he did not see the foul."
+      },
+      "verb": "give",
+      "options": [
+        "would give",
+        "would have given",
+        "had given",
+        "gave"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-019",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If our team ___ the final next week, the whole city will celebrate.",
+      "explanation": "Use the present simple after 'if' to talk about a real future possibility: If she passes, she will go to university.",
+      "wrongReasons": {
+        "1": "Do not use 'will' after 'if' in a first conditional.",
+        "2": "The past simple would make the result 'would celebrate'.",
+        "3": "'would' is not used in this if-clause."
+      },
+      "verb": "win",
+      "options": [
+        "wins",
+        "will win",
+        "won",
+        "would win"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-020",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "As long as you ___ your homework first, you can go to the cinema tonight.",
+      "explanation": "'As long as' means 'only if' and takes the present simple: You can borrow my bike as long as you return it.",
+      "wrongReasons": {
+        "0": "'as long as' is followed by the present simple, not 'will', for the future.",
+        "2": "'would' does not go after 'as long as' in a real condition.",
+        "3": "The past simple does not match the real future situation with 'can'."
+      },
+      "verb": "finish",
+      "options": [
+        "will finish",
+        "finish",
+        "would finish",
+        "finished"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-021",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If I had saved more money when I was younger, I ___ worried about paying the rent now.",
+      "explanation": "Mixed conditional: past condition + present result. If I had learned to drive, I wouldn't need the bus now.",
+      "wrongReasons": {
+        "1": "'now' shows the result is in the present, so use 'would + base form'.",
+        "2": "'won't' is for real future results, but this situation is imaginary.",
+        "3": "The past perfect is used in the if-clause, not in the result."
+      },
+      "verb": "not be",
+      "options": [
+        "wouldn't be",
+        "wouldn't have been",
+        "won't be",
+        "hadn't been"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-022",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "In case it ___, take an umbrella with you.",
+      "explanation": "'In case' + present simple means 'because it is possible that': Take some water in case you get thirsty.",
+      "wrongReasons": {
+        "0": "After 'in case' we use the present simple, not 'will'.",
+        "1": "'would' does not follow 'in case' in a real future situation.",
+        "2": "The past simple does not match the instruction about the future."
+      },
+      "verb": "rain",
+      "options": [
+        "will rain",
+        "would rain",
+        "rained",
+        "rains"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-023",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If the museum ___ on Mondays, we would visit it today, but it's closed.",
+      "explanation": "Second conditional for unreal present situations: if + past simple, would + verb. If the shop opened on Sundays, I would go there today.",
+      "wrongReasons": {
+        "0": "The present simple suits a real condition, but 'would' and 'it's closed' show this is imaginary.",
+        "1": "The past perfect is for the past, but 'today' shows the present.",
+        "3": "'would' is not used in the if-clause."
+      },
+      "verb": "open",
+      "options": [
+        "opens",
+        "had opened",
+        "opened",
+        "would open"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-024",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish I ___ so much cake at the party last night.",
+      "explanation": "Use wish + past perfect to regret something in the past. I wish I hadn't said that.",
+      "wrongReasons": {
+        "1": "For regrets about the past, 'wish' needs the past perfect, not the past simple.",
+        "2": "'wish + would' is for complaints about other people's behaviour, not past regrets.",
+        "3": "The present perfect is not used after 'wish'."
+      },
+      "verb": "not eat",
+      "options": [
+        "hadn't eaten",
+        "didn't eat",
+        "wouldn't eat",
+        "haven't eaten"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-025",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "She wishes she ___ closer to her office; the commute takes two hours.",
+      "explanation": "Use wish + past simple for an unreal present situation. I wish I had a bigger flat.",
+      "wrongReasons": {
+        "1": "After 'wish' a present situation moves back to the past simple.",
+        "2": "We do not use 'would' after 'wish' when the subject is the same person.",
+        "3": "The past perfect is for regrets about the past, but the long commute is now."
+      },
+      "verb": "live",
+      "options": [
+        "lived",
+        "lives",
+        "would live",
+        "had lived"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-026",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish my neighbours ___ their music so loud every night.",
+      "explanation": "Use wish + would to complain about someone else's annoying behaviour. I wish you wouldn't leave your shoes there.",
+      "wrongReasons": {
+        "0": "The present simple is not used after 'wish'.",
+        "1": "The past perfect refers to one past event, not an annoying habit that continues.",
+        "2": "'will' is never used after 'wish'."
+      },
+      "verb": "not play",
+      "options": [
+        "don't play",
+        "hadn't played",
+        "won't play",
+        "wouldn't play"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-027",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "If only I ___ the answer to her question yesterday!",
+      "explanation": "'If only' + past perfect expresses a strong regret about the past. If only I had listened to you!",
+      "wrongReasons": {
+        "0": "'yesterday' shows a past regret, so the past perfect is needed.",
+        "1": "The present simple is not used after 'if only'.",
+        "3": "'would' is not used for regrets about the past."
+      },
+      "verb": "know",
+      "options": [
+        "knew",
+        "know",
+        "had known",
+        "would know"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-028",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish I ___ a car; then I wouldn't need to take the bus.",
+      "explanation": "Wish + past simple talks about the present: I wish I had more free time.",
+      "wrongReasons": {
+        "0": "After 'wish' the present situation needs the past simple, not the present.",
+        "1": "We do not use 'would' after 'I wish I'.",
+        "2": "'had had' is a past regret, but the sentence is about now."
+      },
+      "verb": "have",
+      "options": [
+        "have",
+        "would have",
+        "had had",
+        "had"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-029",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish you ___ interrupting me when I'm speaking.",
+      "explanation": "Wish + would + verb shows that someone's behaviour annoys us: I wish he would stop shouting.",
+      "wrongReasons": {
+        "1": "'will' is not used after 'wish'.",
+        "2": "The past perfect is a regret about the past, not a request about present behaviour.",
+        "3": "The present continuous is not used after 'wish'."
+      },
+      "verb": "stop",
+      "options": [
+        "would stop",
+        "will stop",
+        "had stopped",
+        "are stopping"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-030",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "If only the sun ___ out! We've been waiting all day to go to the beach.",
+      "explanation": "Use 'if only' + would for something we want to change but cannot control. If only the bus would arrive!",
+      "wrongReasons": {
+        "0": "The present simple is not used after 'if only'.",
+        "2": "'will' is not used after 'if only'.",
+        "3": "The past perfect would be a regret about the past, but we are still waiting."
+      },
+      "verb": "come",
+      "options": [
+        "comes",
+        "would come",
+        "will come",
+        "had come"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-031",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "My grandfather wishes he ___ harder at school when he was a boy.",
+      "explanation": "Wish + past perfect for regrets about the past: She wishes she had travelled more when she was young.",
+      "wrongReasons": {
+        "0": "'when he was a boy' is the past, so the regret needs the past perfect.",
+        "1": "'would' is not used for regrets about the past.",
+        "2": "The present perfect is not used after 'wish'."
+      },
+      "verb": "study",
+      "options": [
+        "studied",
+        "would study",
+        "has studied",
+        "had studied"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-032",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish I ___ work tomorrow; I'd love a day off.",
+      "explanation": "Wish + past simple can describe an unwanted present or future situation: I wish I didn't have to get up early tomorrow.",
+      "wrongReasons": {
+        "0": "After 'wish' the verb moves back one tense: don't have to becomes didn't have to.",
+        "1": "We do not use 'would' after 'I wish I'.",
+        "2": "The past perfect is for past regrets, but tomorrow is in the future."
+      },
+      "verb": "not have to",
+      "options": [
+        "don't have to",
+        "wouldn't have to",
+        "hadn't had to",
+        "didn't have to"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-033",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Do you ever wish you ___ in a different century?",
+      "explanation": "Use wish + past perfect for something in the past that cannot change: I wish I had been born in the countryside.",
+      "wrongReasons": {
+        "0": "Being born is a finished past event, so 'wish' needs the past perfect.",
+        "1": "'would' does not work for a past event like birth.",
+        "3": "The present simple is not used after 'wish'."
+      },
+      "verb": "be born",
+      "options": [
+        "were born",
+        "would be born",
+        "had been born",
+        "are born"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-034",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "We wish we ___ the house before prices went up.",
+      "explanation": "Wish + past perfect expresses regret about the past: They wish they had sold their car earlier.",
+      "wrongReasons": {
+        "1": "The regret is about the past, so we need the past perfect, not the past simple.",
+        "2": "'would' is not used for things we regret not doing in the past.",
+        "3": "The present perfect cannot follow 'wish'."
+      },
+      "verb": "buy",
+      "options": [
+        "had bought",
+        "bought",
+        "would buy",
+        "have bought"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-035",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish it ___ so cold in here; can someone close the window?",
+      "explanation": "Wish + past simple ('were' is common for 'be') describes an unreal present: I wish it weren't raining.",
+      "wrongReasons": {
+        "1": "The present simple is not used after 'wish'.",
+        "2": "'would' is not normally used after 'wish' for states like being cold.",
+        "3": "The past perfect is for the past, but the cold room is a present problem."
+      },
+      "verb": "not be",
+      "options": [
+        "weren't",
+        "isn't",
+        "wouldn't be",
+        "hadn't been"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-036",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "She wishes her boss ___ her more responsibility in the future.",
+      "explanation": "Use wish + would when we want another person to act differently: I wish my brother would help more at home.",
+      "wrongReasons": {
+        "0": "The present simple is not used after 'wish'.",
+        "1": "'will' does not follow 'wish'.",
+        "2": "The present continuous is not used after 'wish'."
+      },
+      "verb": "give",
+      "options": [
+        "gives",
+        "will give",
+        "is giving",
+        "would give"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-037",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "If only I ___ my passport at home — now we can't check in!",
+      "explanation": "'If only' + past perfect is used for a past mistake we regret: If only I hadn't lost my keys!",
+      "wrongReasons": {
+        "0": "Leaving the passport happened before now, so the past perfect is needed.",
+        "1": "'would' is for annoying habits, not a single past mistake.",
+        "3": "The present perfect does not follow 'if only'."
+      },
+      "verb": "not leave",
+      "options": [
+        "didn't leave",
+        "wouldn't leave",
+        "hadn't left",
+        "haven't left"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-038",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish I ___ what to say to make her feel better.",
+      "explanation": "Wish + past simple describes an unreal present: I wish I knew her phone number.",
+      "wrongReasons": {
+        "0": "After 'wish' a present situation needs the past simple.",
+        "1": "We do not use 'would' after 'I wish I' for a present state.",
+        "3": "The present perfect is not used after 'wish'."
+      },
+      "verb": "know",
+      "options": [
+        "know",
+        "would know",
+        "knew",
+        "have known"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-039",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "The children wish their parents ___ them stay up later.",
+      "explanation": "Use wish + would + verb to show we want someone else to change: I wish my teacher would give us less homework.",
+      "wrongReasons": {
+        "1": "'will' is never used after 'wish'.",
+        "2": "'lets' is the present simple, which does not follow 'wish', and it does not agree with 'parents'.",
+        "3": "The present continuous does not follow 'wish'."
+      },
+      "verb": "let",
+      "options": [
+        "would let",
+        "will let",
+        "lets",
+        "are letting"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-040",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "If only we ___ more time; our flight leaves in an hour.",
+      "explanation": "'If only' + past simple expresses a strong wish about the present: If only I had more money.",
+      "wrongReasons": {
+        "0": "The present simple is not used after 'if only'.",
+        "1": "'will' does not follow 'if only'.",
+        "2": "'would' is not used after 'if only we' for a present state."
+      },
+      "verb": "have",
+      "options": [
+        "have",
+        "will have",
+        "would have",
+        "had"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-041",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "He wishes he ___ that rude comment to his colleague yesterday.",
+      "explanation": "Wish + past perfect expresses regret for a past action: I wish I hadn't shouted at him.",
+      "wrongReasons": {
+        "0": "'yesterday' shows a past regret, so the past perfect is needed.",
+        "1": "'would' is not used for regrets about the past.",
+        "3": "The present simple is not used after 'wish'."
+      },
+      "verb": "not make",
+      "options": [
+        "didn't make",
+        "wouldn't make",
+        "hadn't made",
+        "doesn't make"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-042",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish you ___ me earlier that the concert had been cancelled.",
+      "explanation": "Use wish + past perfect when you are sorry something did not happen: I wish you had invited me.",
+      "wrongReasons": {
+        "1": "Telling happened in the past, so the regret needs the past perfect.",
+        "2": "'would' is for present annoying habits, not past events.",
+        "3": "The present perfect is not used after 'wish'."
+      },
+      "verb": "tell",
+      "options": [
+        "had told",
+        "told",
+        "would tell",
+        "have told"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-043",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Sometimes I wish I ___ a bit taller so I could reach the top shelf.",
+      "explanation": "Wish + past simple ('were' for 'be') describes an unreal present: I wish I were better at maths.",
+      "wrongReasons": {
+        "0": "The present simple is not used after 'wish'.",
+        "2": "'would' is not used after 'I wish I' for a state.",
+        "3": "The past perfect is for the past, but my height is a present fact."
+      },
+      "verb": "be",
+      "options": [
+        "am",
+        "were",
+        "would be",
+        "had been"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-044",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "She said that she ___ the report the previous day.",
+      "explanation": "In reported speech, a past action usually moves back to the past perfect. 'I finished it yesterday' → She said she had finished it the day before.",
+      "wrongReasons": {
+        "0": "'the previous day' shows reported speech, so the present perfect moves back to the past perfect.",
+        "1": "The present simple does not fit an action that was completed the day before.",
+        "2": "'will finish' is about the future, but the action happened the previous day."
+      },
+      "verb": "finish",
+      "options": [
+        "has finished",
+        "finishes",
+        "will finish",
+        "had finished"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-045",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "He told me he ___ me the next week.",
+      "explanation": "In reported speech 'will' usually becomes 'would'. 'I'll help you' → He said he would help me.",
+      "wrongReasons": {
+        "0": "After a past reporting verb with 'the next week', 'will' changes to 'would'.",
+        "1": "The present simple does not show the future promise from the past.",
+        "2": "The present perfect is about something already done, not a promise."
+      },
+      "verb": "call",
+      "options": [
+        "will call",
+        "calls",
+        "has called",
+        "would call"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-046",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "The guide warned us ___ the animals.",
+      "explanation": "Reported orders and warnings use verb + object + (not) to + verb: She told me not to worry.",
+      "wrongReasons": {
+        "0": "'warn' is followed by object + (not) to + verb, not an imperative.",
+        "1": "'warn somebody' needs the infinitive with 'to', not the -ing form.",
+        "2": "After 'to' we need the base form, and 'not' normally goes before 'to'."
+      },
+      "verb": "not feed",
+      "options": [
+        "don't feed",
+        "not feeding",
+        "to not feeding",
+        "not to feed"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-047",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "My manager asked me whether I ___ the client yet.",
+      "explanation": "Reported questions use statement word order and move tenses back. 'Have you called him?' → She asked if I had called him.",
+      "wrongReasons": {
+        "0": "After the past verb 'asked', the present perfect moves back to the past perfect.",
+        "2": "Reported questions use normal statement order, not an auxiliary like 'did'.",
+        "3": "'contacts' does not agree with 'I' and does not fit 'yet'."
+      },
+      "verb": "contact",
+      "options": [
+        "have contacted",
+        "had contacted",
+        "did contact",
+        "contacts"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-048",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Maria asked me where I ___ my holiday the summer before.",
+      "explanation": "In reported wh-questions, keep statement order and move the tense back: 'Where did you go?' → He asked where I had gone.",
+      "wrongReasons": {
+        "0": "Reported questions do not use question word order or 'did'.",
+        "2": "'the summer before' shows the tense must move back to the past perfect.",
+        "3": "The present simple does not fit a holiday in the past."
+      },
+      "verb": "spend",
+      "options": [
+        "did I spend",
+        "had spent",
+        "have spent",
+        "spend"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-049",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "The teacher told the students ___ their phones during the exam.",
+      "explanation": "Reported commands: tell + object + to + verb. 'Sit down!' → She told us to sit down.",
+      "wrongReasons": {
+        "0": "'tell somebody' is followed by 'to + verb' in reported orders.",
+        "1": "After 'told + object' we use the infinitive, not the -ing form.",
+        "3": "'told them that they switch off' is not correct; for an order use 'told them to switch off'."
+      },
+      "verb": "switch off",
+      "options": [
+        "switch off",
+        "switching off",
+        "to switch off",
+        "that they switch off"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-050",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "He admitted ___ the money from the drawer.",
+      "explanation": "Reporting verbs like admit, deny and suggest are followed by -ing: She admitted breaking the vase.",
+      "wrongReasons": {
+        "0": "'admit' is followed by the -ing form, not the infinitive.",
+        "1": "After 'admit' the base form alone is not possible.",
+        "2": "'admitted took' puts two finite verbs together without a link."
+      },
+      "verb": "take",
+      "options": [
+        "to take",
+        "take",
+        "took",
+        "taking"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-051",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "She suggested ___ a taxi because it was getting late.",
+      "explanation": "'suggest' + -ing reports a proposal: He suggested going to the beach.",
+      "wrongReasons": {
+        "1": "'suggest' is never followed by the to-infinitive.",
+        "2": "After 'suggest' the bare base form needs a subject, e.g. 'suggested we get'.",
+        "3": "Two past verbs cannot follow each other like this without 'that' and a subject."
+      },
+      "verb": "get",
+      "options": [
+        "getting",
+        "to get",
+        "get",
+        "got"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-052",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Jack said he ___ to Rome twice before.",
+      "explanation": "The present perfect in direct speech becomes the past perfect: 'I've been there' → She said she had been there.",
+      "wrongReasons": {
+        "1": "'before' and the past verb 'said' need the past perfect in reported speech.",
+        "2": "'was to Rome' is not correct for experience; we say 'had been to'.",
+        "3": "'would be' refers to the future, not a past experience."
+      },
+      "verb": "be",
+      "options": [
+        "had been",
+        "has been",
+        "was",
+        "would be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-053",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "They asked us if we ___ help with the bags.",
+      "explanation": "Reported yes/no questions: asked + if/whether + statement order, with the tense moved back. 'Are you hungry?' → She asked if I was hungry.",
+      "wrongReasons": {
+        "0": "Reported yes/no questions use 'if' + statement order, without 'did'.",
+        "1": "'needs' does not agree with 'we'.",
+        "2": "'need' is a state verb and is not normally used in the continuous."
+      },
+      "verb": "need",
+      "options": [
+        "did we need",
+        "needs",
+        "were needing",
+        "needed"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-054",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "The doctor advised him ___ smoking immediately.",
+      "explanation": "advise + object + to + verb: She advised me to see a lawyer.",
+      "wrongReasons": {
+        "0": "With an object ('him'), 'advise' is followed by the to-infinitive.",
+        "2": "'advise somebody' needs 'to' before the verb.",
+        "3": "A second past verb cannot follow 'advised him' directly."
+      },
+      "verb": "give up",
+      "options": [
+        "giving up",
+        "to give up",
+        "give up",
+        "gave up"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-055",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "\"I can't come tonight,\" Anna said. → Anna said she ___ come that night.",
+      "explanation": "In reported speech 'can' usually becomes 'could' and 'can't' becomes 'couldn't': 'I can swim' → He said he could swim.",
+      "wrongReasons": {
+        "0": "'could' changes the meaning: Anna said she can NOT come.",
+        "1": "'couldn't have' is about the past, but she is talking about that night.",
+        "2": "'can have' is not a correct way to report 'can't'."
+      },
+      "verb": "can",
+      "options": [
+        "could",
+        "couldn't have",
+        "can have",
+        "couldn't"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-056",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "The police officer asked the driver how fast he ___.",
+      "explanation": "Reported questions keep statement word order: 'How fast were you going?' → She asked how fast he had been going.",
+      "wrongReasons": {
+        "0": "Reported questions use statement order (he had), not question order.",
+        "2": "After the past verb 'asked', the present perfect continuous moves back.",
+        "3": "The present simple does not describe the driver's speed at that moment."
+      },
+      "verb": "go",
+      "options": [
+        "had he been going",
+        "had been going",
+        "has been going",
+        "goes"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-057",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "My sister reminded me ___ the plants while she was away.",
+      "explanation": "remind + object + to + verb: He reminded me to buy milk.",
+      "wrongReasons": {
+        "0": "'remind somebody' is followed by the to-infinitive.",
+        "1": "After 'reminded me' we need 'to' before the verb.",
+        "3": "'that' must be followed by a subject and a verb, e.g. 'that I should water'."
+      },
+      "verb": "water",
+      "options": [
+        "watering",
+        "water",
+        "to water",
+        "that water"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-058",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "He denied ___ the window, but we all saw him do it.",
+      "explanation": "'deny' + -ing reports that someone says they did not do something: She denied stealing the phone.",
+      "wrongReasons": {
+        "0": "'deny' takes the -ing form, not the infinitive.",
+        "1": "The bare base form cannot follow 'deny'.",
+        "3": "'that' needs a subject: 'denied that he broke'."
+      },
+      "verb": "break",
+      "options": [
+        "to break",
+        "break",
+        "breaking",
+        "that broke"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-059",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "\"We are moving to Canada,\" they told us. → They told us they ___ to Canada.",
+      "explanation": "The present continuous in direct speech becomes the past continuous: 'I'm working' → He said he was working.",
+      "wrongReasons": {
+        "0": "'had moved' means the move was finished, but they were still planning it.",
+        "2": "'would have moved' is a conditional form and changes the meaning.",
+        "3": "'moves' does not agree with 'they' and does not move the tense back."
+      },
+      "verb": "move",
+      "options": [
+        "had moved",
+        "were moving",
+        "would have moved",
+        "moves"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-060",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "She asked me ___ her with her suitcase.",
+      "explanation": "Reported requests: ask + object + to + verb. 'Can you open the door?' → She asked me to open the door.",
+      "wrongReasons": {
+        "0": "When 'ask' means request, use object + to-infinitive, not -ing.",
+        "1": "After 'asked me' we need 'to' before the verb.",
+        "2": "'asked me that I help' is not correct; use 'asked me to help'."
+      },
+      "verb": "help",
+      "options": [
+        "helping",
+        "help",
+        "that I help",
+        "to help"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-061",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "The spokesperson explained that the flight ___ because of a technical problem earlier that morning.",
+      "explanation": "Reported speech moves the tense back, and the passive keeps 'been': 'It has been delayed' → They said it had been delayed.",
+      "wrongReasons": {
+        "0": "'earlier that morning' and the past verb 'explained' need the past perfect.",
+        "1": "The flight did not cancel anything; it needs the passive form.",
+        "3": "The past continuous suggests an action in progress, which does not fit here."
+      },
+      "verb": "cancel",
+      "options": [
+        "has been cancelled",
+        "had cancelled",
+        "had been cancelled",
+        "was cancelling"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-062",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "He apologised for ___ late to the meeting.",
+      "explanation": "apologise for + -ing: She apologised for forgetting my birthday.",
+      "wrongReasons": {
+        "1": "After the preposition 'for' we use the -ing form.",
+        "2": "A preposition cannot be followed by the base form.",
+        "3": "A past form cannot follow the preposition 'for'."
+      },
+      "verb": "arrive",
+      "options": [
+        "arriving",
+        "to arrive",
+        "arrive",
+        "arrived"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-063",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "The receptionist asked us what time we ___ to check out the next morning.",
+      "explanation": "Reported wh-questions use statement order and backshift: 'What time do you want breakfast?' → She asked what time we wanted breakfast.",
+      "wrongReasons": {
+        "1": "Reported questions do not use question order or 'did'.",
+        "2": "After the past verb 'asked', the present tense usually moves back.",
+        "3": "'will' should change to 'would', and 'want' here is a present wish."
+      },
+      "verb": "want",
+      "options": [
+        "wanted",
+        "did we want",
+        "want",
+        "will want"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-064",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The new bridge ___ by the end of next year.",
+      "explanation": "Future perfect passive: will have been + past participle. The work will have been finished by May.",
+      "wrongReasons": {
+        "1": "The bridge cannot complete anything itself; we need the passive.",
+        "2": "The present simple does not fit 'by the end of next year'.",
+        "3": "The present perfect is about now, not a future deadline."
+      },
+      "verb": "complete",
+      "options": [
+        "will have been completed",
+        "will have completed",
+        "is completed",
+        "has been completed"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-065",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "My car ___ at the moment, so I'm taking the bus.",
+      "explanation": "Present continuous passive: am/is/are being + past participle. The road is being cleaned now.",
+      "wrongReasons": {
+        "1": "The car does not repair anything; use the passive.",
+        "2": "This is active and means the car repaired something.",
+        "3": "'at the moment' needs a present form, not the past."
+      },
+      "verb": "repair",
+      "options": [
+        "is being repaired",
+        "is repairing",
+        "has repaired",
+        "was repaired"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-066",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The suspect ___ to have left the country last night.",
+      "explanation": "Impersonal passive: subject + is believed/said/thought + to have + past participle. She is thought to have moved abroad.",
+      "wrongReasons": {
+        "0": "The suspect is not the one who believes; people believe this about him.",
+        "1": "'believe' is a state verb and is not normally used in the continuous.",
+        "2": "The active present perfect gives the wrong meaning."
+      },
+      "verb": "believe",
+      "options": [
+        "believes",
+        "is believing",
+        "has believed",
+        "is believed"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-067",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "I had my hair ___ yesterday.",
+      "explanation": "have/get + object + past participle means someone does it for us: I had my car washed.",
+      "wrongReasons": {
+        "1": "'have something done' needs the past participle, not the -ing form.",
+        "2": "'have something done' does not use the to-infinitive.",
+        "3": "The present simple cannot follow 'had my hair'."
+      },
+      "verb": "cut",
+      "options": [
+        "cut",
+        "cutting",
+        "to cut",
+        "cuts"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-068",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The castle ___ in the twelfth century and is now a museum.",
+      "explanation": "Past simple passive: was/were + past participle, often with a past time. The church was built in 1850.",
+      "wrongReasons": {
+        "0": "The castle did not build anything; we need the passive.",
+        "1": "The present perfect does not go with a finished past time like 'the twelfth century'.",
+        "3": "This is active and the past perfect is not needed."
+      },
+      "verb": "build",
+      "options": [
+        "built",
+        "has been built",
+        "was built",
+        "had built"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-069",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "All the tickets ___ by the time we got to the box office.",
+      "explanation": "Past perfect passive: had been + past participle, for something done before another past event. The room had been cleaned before we arrived.",
+      "wrongReasons": {
+        "0": "The story is in the past, so we need the past perfect, not the present perfect.",
+        "1": "The past continuous does not show that the sale was finished.",
+        "2": "The present simple does not fit a past story."
+      },
+      "verb": "sell",
+      "options": [
+        "have been sold",
+        "were selling",
+        "are sold",
+        "had been sold"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-070",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Our house ___ when we arrived, so the workers asked us to wait outside.",
+      "explanation": "Past continuous passive: was/were being + past participle, for something in progress in the past. The road was being repaired when we drove past.",
+      "wrongReasons": {
+        "1": "The house cannot paint; the passive is needed.",
+        "2": "The story is in the past, so the present continuous does not fit.",
+        "3": "This is active and in the wrong tense."
+      },
+      "verb": "paint",
+      "options": [
+        "was being painted",
+        "was painting",
+        "is being painted",
+        "has painted"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-071",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "It ___ that the new law will come into force in January.",
+      "explanation": "Impersonal passive: It is expected/said/believed that... It is said that the house is haunted.",
+      "wrongReasons": {
+        "1": "'It expects' is active and makes no sense here; use the impersonal passive.",
+        "2": "The continuous active form does not express a general belief.",
+        "3": "The active present perfect is not used in this structure."
+      },
+      "verb": "expect",
+      "options": [
+        "is expected",
+        "expects",
+        "is expecting",
+        "has expected"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-072",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This report must ___ before Friday.",
+      "explanation": "Modal passive: modal + be + past participle. The form should be signed today.",
+      "wrongReasons": {
+        "1": "The report cannot send anything; after a modal use 'be + past participle'.",
+        "2": "After 'must' we need the base form 'be', not 'been'.",
+        "3": "A modal is not followed by the -ing form."
+      },
+      "verb": "send",
+      "options": [
+        "be sent",
+        "send",
+        "been sent",
+        "being sent"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-073",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The thief ___ by a security guard as he was leaving the shop.",
+      "explanation": "Past simple passive with 'by' shows who did the action: The window was broken by a ball.",
+      "wrongReasons": {
+        "0": "With 'by a security guard', the thief receives the action, so we need the passive.",
+        "1": "The present perfect does not fit a story with 'as he was leaving'.",
+        "3": "The thief was not catching anyone; the passive is needed."
+      },
+      "verb": "catch",
+      "options": [
+        "caught",
+        "has been caught",
+        "was caught",
+        "was catching"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-074",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Thousands of new trees ___ in the park since last spring.",
+      "explanation": "Present perfect passive: have/has been + past participle, often with since/for. Many houses have been built since 2020.",
+      "wrongReasons": {
+        "0": "'since last spring' needs the present perfect, not the past simple.",
+        "2": "Trees cannot plant; use the passive.",
+        "3": "The present simple does not go with 'since'."
+      },
+      "verb": "plant",
+      "options": [
+        "were planted",
+        "have been planted",
+        "have planted",
+        "are planted"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-075",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "I don't like ___ what to do by people I hardly know.",
+      "explanation": "Passive -ing form: being + past participle. She hates being interrupted.",
+      "wrongReasons": {
+        "0": "With 'by people', I receive the action, so we need the passive -ing form.",
+        "1": "After 'like' the bare form 'be told' is not correct.",
+        "3": "'like' cannot be followed directly by a past participle."
+      },
+      "verb": "tell",
+      "options": [
+        "telling",
+        "be told",
+        "being told",
+        "told"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-076",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The results ___ online next Monday.",
+      "explanation": "Future passive: will be + past participle. The winners will be announced tomorrow.",
+      "wrongReasons": {
+        "0": "The results cannot publish anything; use the passive.",
+        "2": "This is active and suggests the results are doing the action.",
+        "3": "'next Monday' is in the future, so the present perfect does not fit."
+      },
+      "verb": "publish",
+      "options": [
+        "will publish",
+        "will be published",
+        "are publishing",
+        "have been published"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-077",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Smoking ___ in all restaurants in the country since 2010.",
+      "explanation": "Present perfect passive with 'since': has/have been + past participle. The road has been closed since Monday.",
+      "wrongReasons": {
+        "0": "'since 2010' needs the present perfect, not the past simple.",
+        "2": "The present simple does not go with 'since'.",
+        "3": "Smoking did not ban anything; use the passive."
+      },
+      "verb": "ban",
+      "options": [
+        "was banned",
+        "has been banned",
+        "is banned",
+        "has banned"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-078",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "She's getting her new kitchen ___ next week.",
+      "explanation": "get + object + past participle means we pay someone to do it: We're getting the roof repaired.",
+      "wrongReasons": {
+        "0": "'get something done' needs the past participle, not the base form.",
+        "1": "'get + object + -ing' has a different meaning; here someone does the job for her.",
+        "3": "'get something done' does not use the to-infinitive."
+      },
+      "verb": "install",
+      "options": [
+        "install",
+        "installing",
+        "installed",
+        "to install"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-079",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The patient ___ by three different doctors before anyone found the problem.",
+      "explanation": "Past perfect passive shows an earlier past action done to the subject: The letter had been opened before I got it.",
+      "wrongReasons": {
+        "0": "The patient did not examine anyone; use the passive.",
+        "1": "This is active and in the wrong tense.",
+        "2": "The story is in the past ('found'), so use the past perfect."
+      },
+      "verb": "examine",
+      "options": [
+        "had examined",
+        "was examining",
+        "has been examined",
+        "had been examined"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-080",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "He ___ to be the richest man in the village.",
+      "explanation": "Impersonal passive: subject + is said/believed + to + verb. She is said to be very kind.",
+      "wrongReasons": {
+        "0": "He is not the speaker; other people say this about him.",
+        "2": "The continuous active form does not express general opinion.",
+        "3": "The active present perfect changes the meaning completely."
+      },
+      "verb": "say",
+      "options": [
+        "says",
+        "is said",
+        "is saying",
+        "has said"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-081",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The windows need ___; they're really dirty.",
+      "explanation": "need + -ing has a passive meaning: The car needs washing (= needs to be washed).",
+      "wrongReasons": {
+        "0": "After 'need' we cannot use the bare base form.",
+        "1": "'need' is not followed directly by a past participle in standard English.",
+        "2": "'The windows need to clean' means the windows will do the cleaning."
+      },
+      "verb": "clean",
+      "options": [
+        "clean",
+        "cleaned",
+        "to clean",
+        "cleaning"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-082",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Hundreds of emails ___ every day by our customer service team.",
+      "explanation": "Present simple passive for regular actions: am/is/are + past participle. The office is cleaned every evening.",
+      "wrongReasons": {
+        "1": "The emails do not answer anything; we need the passive.",
+        "2": "This is active and suggests the emails are writing replies.",
+        "3": "The active present perfect does not fit 'every day'."
+      },
+      "verb": "answer",
+      "options": [
+        "are answered",
+        "answer",
+        "are answering",
+        "have answered"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-083",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The novel ___ into more than forty languages so far.",
+      "explanation": "Present perfect passive with 'so far': has/have been + past participle. Two million copies have been sold so far.",
+      "wrongReasons": {
+        "0": "'so far' needs the present perfect, not the past simple.",
+        "2": "A novel cannot translate; use the passive.",
+        "3": "This is active and suggests the novel is doing the work."
+      },
+      "verb": "translate",
+      "options": [
+        "was translated",
+        "has been translated",
+        "has translated",
+        "is translating"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-084",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "You ___ tired after such a long flight. Sit down and relax.",
+      "explanation": "'must + verb' shows we are almost sure something is true now: She must be at home; her car is outside.",
+      "wrongReasons": {
+        "0": "'can't be' means it is impossible, but after a long flight tiredness is very likely.",
+        "1": "'must have been' is about the past, but the person is tired now.",
+        "3": "'mustn't' expresses prohibition, not deduction."
+      },
+      "verb": "be",
+      "options": [
+        "can't be",
+        "must have been",
+        "must be",
+        "mustn't be"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-085",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "She ___ the message; otherwise she would have replied by now.",
+      "explanation": "can't have + past participle shows we are sure something did not happen: He can't have seen me; he didn't wave.",
+      "wrongReasons": {
+        "0": "'mustn't have' is not used for negative deductions; we say 'can't have'.",
+        "2": "'can't read' means she is not able to read, which is not the point.",
+        "3": "'shouldn't have' criticises a past action, it is not a deduction."
+      },
+      "verb": "read",
+      "options": [
+        "mustn't have read",
+        "can't have read",
+        "can't read",
+        "shouldn't have read"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-086",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "The lights are off. They ___ to bed already.",
+      "explanation": "must have + past participle shows we are almost sure about the past: The ground is wet; it must have rained.",
+      "wrongReasons": {
+        "0": "'must go' is an obligation or a present deduction, not a deduction about a past action.",
+        "1": "The lights are off, so it is likely, not impossible, that they went to bed.",
+        "3": "'should go' is advice, not a deduction about the past."
+      },
+      "verb": "go",
+      "options": [
+        "must go",
+        "can't have gone",
+        "must have gone",
+        "should go"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-087",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "You ___ a ticket for the museum; entry is free for students.",
+      "explanation": "'don't have to' means it is not necessary: You don't have to come, but you can if you want.",
+      "wrongReasons": {
+        "0": "'mustn't' means it is forbidden, but buying a ticket is allowed, just not necessary.",
+        "1": "'must buy' says it is necessary, but entry is free.",
+        "3": "'can't buy' means it is impossible, which is not the meaning here."
+      },
+      "verb": "buy",
+      "options": [
+        "mustn't buy",
+        "must buy",
+        "don't have to buy",
+        "can't buy"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-088",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "You ___ me you were coming! I would have cooked dinner.",
+      "explanation": "should have + past participle criticises something that did not happen: You should have called me.",
+      "wrongReasons": {
+        "0": "The visit has already happened, so we need 'should have + past participle'.",
+        "2": "'must have told' is a deduction, but the speaker knows they were not told.",
+        "3": "'can't have told' is a deduction, not a complaint about the past."
+      },
+      "verb": "tell",
+      "options": [
+        "should tell",
+        "should have told",
+        "must have told",
+        "can't have told"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-089",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "I'm not sure where Lisa is. She ___ in the library, or maybe she's gone home.",
+      "explanation": "might/may/could + verb show a present possibility: He might be in the kitchen.",
+      "wrongReasons": {
+        "0": "'must' shows certainty, but the speaker is not sure.",
+        "1": "'can't be' says it is impossible, but the library is one possibility.",
+        "3": "'mustn't' expresses prohibition, not possibility."
+      },
+      "verb": "be",
+      "options": [
+        "must be",
+        "can't be",
+        "might be",
+        "mustn't be"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-090",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "That ___ Paul you saw at the station; he's on holiday in Spain this week.",
+      "explanation": "can't have been shows something in the past was impossible: It can't have been Anna; she was with me.",
+      "wrongReasons": {
+        "0": "'must have been' shows certainty that it was Paul, but he is in Spain.",
+        "2": "'mustn't have' is not used for deductions about the past.",
+        "3": "'can't be' is about now, but the sighting was in the past."
+      },
+      "verb": "be",
+      "options": [
+        "must have been",
+        "can't have been",
+        "mustn't have been",
+        "can't be"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-091",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "We ___; the train doesn't leave for another hour.",
+      "explanation": "'don't need to' means something is not necessary: You don't need to bring food; there's a café.",
+      "wrongReasons": {
+        "0": "'mustn't' means hurrying is forbidden, but it is only unnecessary.",
+        "1": "'needn't have hurried' is about the past, but we are talking about now.",
+        "2": "'need to hurry' means it is necessary, which contradicts the extra hour."
+      },
+      "verb": "hurry",
+      "options": [
+        "mustn't hurry",
+        "needn't have hurried",
+        "need to hurry",
+        "don't need to hurry"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-092",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "When I was younger, I ___ run ten kilometres without stopping.",
+      "explanation": "'could' expresses general ability in the past: My grandmother could speak four languages.",
+      "wrongReasons": {
+        "1": "'can' is present, but 'when I was younger' is in the past.",
+        "2": "'could have' is for something possible in the past that did not happen.",
+        "3": "The present perfect does not go with 'when I was younger'."
+      },
+      "verb": "can",
+      "options": [
+        "could",
+        "can",
+        "could have",
+        "have been able to"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-093",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Despite the storm, the pilot ___ land the plane safely.",
+      "explanation": "Use 'was/were able to' for one particular achievement in the past: After hours of trying, we were able to open the door.",
+      "wrongReasons": {
+        "0": "For one specific success in the past, we use 'was able to' or 'managed to', not 'could'.",
+        "2": "'can' is present, but the landing happened in the past.",
+        "3": "The present perfect does not fit a single finished event in the past."
+      },
+      "verb": "be able to",
+      "options": [
+        "could",
+        "was able to",
+        "can",
+        "has been able to"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-094",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "You ___ wear a helmet when you ride a motorbike; it's the law.",
+      "explanation": "'have to' expresses an obligation, often from a rule or law: You have to show your passport at the border.",
+      "wrongReasons": {
+        "0": "'don't have to' means it is not necessary, but the law requires it.",
+        "2": "'had to' is the past, but this is a general rule now.",
+        "3": "The -ing form cannot be the main verb after 'you'."
+      },
+      "verb": "have to",
+      "options": [
+        "don't have to",
+        "have to",
+        "had to",
+        "having to"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-095",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "You ___ your phone during the exam; it's strictly forbidden.",
+      "explanation": "'mustn't' expresses prohibition: You mustn't park here.",
+      "wrongReasons": {
+        "0": "'don't have to' means it is optional, but here it is forbidden.",
+        "2": "'must use' is an obligation, the opposite of the meaning.",
+        "3": "'needn't' means it is unnecessary, not forbidden."
+      },
+      "verb": "use",
+      "options": [
+        "don't have to use",
+        "mustn't use",
+        "must use",
+        "needn't use"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-096",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "We ___ a taxi; the hotel was only five minutes' walk away, so it was a waste of money.",
+      "explanation": "needn't have + past participle means we did something that was not necessary: You needn't have brought a gift.",
+      "wrongReasons": {
+        "0": "'mustn't have' is not used to talk about unnecessary past actions.",
+        "2": "'needn't take' is about the present or future, but we took the taxi in the past.",
+        "3": "'can't have taken' is a deduction, but we know we took a taxi."
+      },
+      "verb": "take",
+      "options": [
+        "mustn't have taken",
+        "needn't have taken",
+        "needn't take",
+        "can't have taken"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-097",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Someone ___ the door open; the cat got out during the night.",
+      "explanation": "must have + past participle is a confident guess about the past: She must have forgotten our meeting.",
+      "wrongReasons": {
+        "0": "'must leave' is an obligation about now, not a deduction about the night.",
+        "1": "The cat got out, so it is very likely, not impossible, that the door was open.",
+        "3": "'should leave' gives advice, which does not fit."
+      },
+      "verb": "leave",
+      "options": [
+        "must leave",
+        "can't have left",
+        "must have left",
+        "should leave"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-098",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "He ___ at work today; I saw him at the gym ten minutes ago.",
+      "explanation": "can't + verb shows we are sure something is not true now: That can't be the right answer; it's too high.",
+      "wrongReasons": {
+        "0": "'must be' shows we think it is true, but the gym sighting shows the opposite.",
+        "1": "'mustn't' is for prohibition, not negative deduction.",
+        "3": "'needn't' is about necessity, not about what is logically possible."
+      },
+      "verb": "be",
+      "options": [
+        "must be",
+        "mustn't be",
+        "can't be",
+        "needn't be"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-099",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "If you feel ill, you ___ a doctor as soon as possible.",
+      "explanation": "'should + verb' gives advice: You should drink more water.",
+      "wrongReasons": {
+        "1": "'should have seen' criticises the past, but this is advice for now.",
+        "2": "'mustn't' forbids the action, the opposite of the advice.",
+        "3": "'needn't' says it is unnecessary, which contradicts 'as soon as possible'."
+      },
+      "verb": "see",
+      "options": [
+        "should see",
+        "should have seen",
+        "mustn't see",
+        "needn't see"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-100",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Take an umbrella; it ___ later this afternoon.",
+      "explanation": "might/may + verb shows a future possibility: I might go to the party on Saturday.",
+      "wrongReasons": {
+        "0": "'must' shows certainty or obligation, but rain is only possible.",
+        "2": "'might have rained' is about the past, but the afternoon is in the future.",
+        "3": "'can't rain' says rain is impossible, so an umbrella would not be needed."
+      },
+      "verb": "rain",
+      "options": [
+        "must rain",
+        "might rain",
+        "might have rained",
+        "can't rain"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-101",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Jane looks delighted. She ___ her driving test.",
+      "explanation": "must have + past participle: a strong deduction about the past from present evidence. He looks tired; he must have worked late.",
+      "wrongReasons": {
+        "0": "'must pass' expresses obligation, not a deduction about the past.",
+        "1": "Her happy face suggests the opposite.",
+        "2": "'mustn't have' is not used for deductions."
+      },
+      "verb": "pass",
+      "options": [
+        "must pass",
+        "can't have passed",
+        "mustn't have passed",
+        "must have passed"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-102",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "The car broke down, so we ___ walk the last five miles.",
+      "explanation": "'had to' is the past of both 'must' and 'have to': We had to wait for an hour.",
+      "wrongReasons": {
+        "0": "'have to' is present, but the breakdown was in the past.",
+        "1": "The present perfect does not fit a finished past story.",
+        "3": "The past perfect is not needed; this is the main event of the story."
+      },
+      "verb": "have to",
+      "options": [
+        "have to",
+        "have had to",
+        "had to",
+        "had had to"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-103",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "You ___ worry about the dog; my neighbour will feed it while we're away.",
+      "explanation": "'needn't + verb' means it is not necessary: You needn't wait for me.",
+      "wrongReasons": {
+        "0": "Positive 'need' as a modal is not used like this; the meaning is 'it is not necessary'.",
+        "2": "'needn't have' needs a past participle and refers to the past.",
+        "3": "The past form does not fit advice about now."
+      },
+      "verb": "need",
+      "options": [
+        "need",
+        "needn't",
+        "needn't have",
+        "needed"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-104",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "While I ___ dinner, the power suddenly went off.",
+      "explanation": "Use the past continuous for a longer action interrupted by a shorter one: While I was reading, the phone rang.",
+      "wrongReasons": {
+        "1": "The past simple does not show the longer action that was interrupted.",
+        "2": "The past perfect means dinner was finished before, but 'while' shows it was in progress.",
+        "3": "The present continuous does not fit a story in the past."
+      },
+      "verb": "cook",
+      "options": [
+        "was cooking",
+        "cooked",
+        "had cooked",
+        "am cooking"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-105",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "She ___ for three hours when the rescue team finally found her.",
+      "explanation": "Past perfect continuous: had been + -ing, for an action that continued up to a past moment. They had been walking for hours when it got dark.",
+      "wrongReasons": {
+        "0": "'for three hours' before another past event needs the past perfect continuous.",
+        "1": "The present perfect continuous connects to now, but this story is in the past.",
+        "2": "The past simple does not show that the waiting continued up to the moment she was found."
+      },
+      "verb": "wait",
+      "options": [
+        "was waiting",
+        "has been waiting",
+        "waited",
+        "had been waiting"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-106",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "He couldn't get into the flat because he ___ his keys at the office.",
+      "explanation": "Use the past perfect for an action that happened before another past moment: I couldn't pay because I had forgotten my wallet.",
+      "wrongReasons": {
+        "0": "The present perfect does not fit a story in the past.",
+        "2": "The past continuous suggests an action in progress, not a finished earlier action.",
+        "3": "The present simple does not fit a past situation."
+      },
+      "verb": "leave",
+      "options": [
+        "has left",
+        "had left",
+        "was leaving",
+        "leaves"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-107",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "The phone rang just as I ___ out of the door.",
+      "explanation": "The past continuous shows an action in progress when something else happened: I was getting into the car when I heard a noise.",
+      "wrongReasons": {
+        "0": "The present perfect does not fit a past story.",
+        "1": "The present continuous does not match the past verb 'rang'.",
+        "3": "'walks' does not agree with 'I' and is not a past form."
+      },
+      "verb": "walk",
+      "options": [
+        "have walked",
+        "am walking",
+        "was walking",
+        "walks"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-108",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "It ___ all night, and the streets were still wet in the morning.",
+      "explanation": "The past perfect continuous explains a past result: The grass was wet because it had been raining.",
+      "wrongReasons": {
+        "1": "The story is in the past ('were'), so the present perfect continuous does not fit.",
+        "2": "'rain' cannot be passive.",
+        "3": "The present simple does not fit a past story."
+      },
+      "verb": "rain",
+      "options": [
+        "had been raining",
+        "has been raining",
+        "was rained",
+        "rains"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-109",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "When I arrived at the party, most of the guests ___ home.",
+      "explanation": "Use the past perfect for an action finished before another past action: When we got to the station, the train had left.",
+      "wrongReasons": {
+        "0": "The present perfect does not fit a past story.",
+        "2": "'goes' does not agree with 'guests' and is not a past form.",
+        "3": "This form is present and singular, so it fits neither the time nor the subject."
+      },
+      "verb": "go",
+      "options": [
+        "have gone",
+        "had gone",
+        "goes",
+        "has been going"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-110",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "We ___ along the beach when we saw a dolphin jump out of the water.",
+      "explanation": "The past continuous sets the background scene in a story: We were driving home when we saw the accident.",
+      "wrongReasons": {
+        "0": "The present perfect does not fit a story with 'saw'.",
+        "1": "The present simple does not fit a past story.",
+        "3": "The present continuous does not match the past verb 'saw'."
+      },
+      "verb": "walk",
+      "options": [
+        "have walked",
+        "walk",
+        "were walking",
+        "are walking"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-111",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "By the time the firefighters arrived, the fire ___ most of the building.",
+      "explanation": "'By the time' + past simple is usually followed by the past perfect: By the time I woke up, everyone had left.",
+      "wrongReasons": {
+        "0": "'By the time' shows the damage was already complete, so the past perfect is needed.",
+        "1": "The present perfect does not fit a past story.",
+        "2": "The fire did the destroying, so the passive is wrong here."
+      },
+      "verb": "destroy",
+      "options": [
+        "destroyed",
+        "has destroyed",
+        "was destroyed",
+        "had destroyed"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-112",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "He was exhausted because he ___ in the garden all afternoon.",
+      "explanation": "The past perfect continuous explains why someone felt a certain way in the past: Her hands were dirty because she had been painting.",
+      "wrongReasons": {
+        "1": "The present perfect continuous does not match 'was exhausted'.",
+        "2": "The present simple does not explain a past situation.",
+        "3": "The present continuous does not fit a past story."
+      },
+      "verb": "work",
+      "options": [
+        "had been working",
+        "has been working",
+        "works",
+        "is working"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-113",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "I recognised the woman immediately; I ___ her before at a conference.",
+      "explanation": "The past perfect shows an earlier past experience: I knew the city well because I had lived there.",
+      "wrongReasons": {
+        "0": "The present perfect does not fit after the past verb 'recognised'.",
+        "1": "The past continuous does not show a completed earlier event.",
+        "3": "The present simple does not fit a past event."
+      },
+      "verb": "meet",
+      "options": [
+        "have met",
+        "was meeting",
+        "had met",
+        "meet"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-114",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "The children ___ football in the garden when it started to hail.",
+      "explanation": "Past continuous for the interrupted activity, past simple for the interruption: We were having lunch when the guests arrived.",
+      "wrongReasons": {
+        "0": "The past simple does not show the background activity that was interrupted.",
+        "2": "The present perfect does not fit a past story.",
+        "3": "This is passive, but the children were doing the action."
+      },
+      "verb": "play",
+      "options": [
+        "played",
+        "were playing",
+        "have played",
+        "had been played"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-115",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "The thief ___ through the back window while the family were having dinner.",
+      "explanation": "Use the past simple for a short completed action during a longer one: Someone knocked while I was sleeping.",
+      "wrongReasons": {
+        "1": "The present perfect does not fit a past story.",
+        "2": "This is passive, but the thief did the action.",
+        "3": "The present simple does not fit a past story."
+      },
+      "verb": "climb",
+      "options": [
+        "climbed",
+        "has climbed",
+        "had been climbed",
+        "climbs"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-116",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Sarah ___ in Paris for ten years before she moved to London.",
+      "explanation": "Use the past perfect for a period before another past event: He had worked there for five years before he left.",
+      "wrongReasons": {
+        "0": "The present perfect does not fit a story about the past.",
+        "1": "The present continuous does not fit a past period.",
+        "3": "The present simple does not fit a past period."
+      },
+      "verb": "live",
+      "options": [
+        "has lived",
+        "is living",
+        "had lived",
+        "lives"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-117",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Her eyes were red because she ___.",
+      "explanation": "The past perfect continuous explains visible results in the past: He was out of breath because he had been running.",
+      "wrongReasons": {
+        "1": "The present perfect continuous does not match 'were red'.",
+        "2": "The present simple does not explain a past situation.",
+        "3": "The present continuous does not fit a past description."
+      },
+      "verb": "cry",
+      "options": [
+        "had been crying",
+        "has been crying",
+        "cries",
+        "is crying"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-118",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "We ___ for about an hour when the car broke down.",
+      "explanation": "Past perfect continuous with 'for' shows how long something continued before a past event: I had been studying for two hours when you called.",
+      "wrongReasons": {
+        "0": "The present perfect continuous does not fit a story with 'broke down'.",
+        "1": "The past simple does not show that the driving continued for an hour up to the breakdown.",
+        "2": "The present continuous does not fit a past story."
+      },
+      "verb": "drive",
+      "options": [
+        "have been driving",
+        "drove",
+        "are driving",
+        "had been driving"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-119",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "I didn't go to the cinema with them because I ___ the film already.",
+      "explanation": "Use the past perfect for an earlier experience in a past story: She didn't want to eat because she had already had lunch.",
+      "wrongReasons": {
+        "1": "The present perfect does not fit after 'didn't go'.",
+        "2": "The past continuous does not show a completed earlier experience.",
+        "3": "The present simple does not fit a past reason."
+      },
+      "verb": "see",
+      "options": [
+        "had seen",
+        "have seen",
+        "was seeing",
+        "see"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-120",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "While my parents ___ abroad, I looked after their house.",
+      "explanation": "Use the past continuous with 'while' for a longer background activity: While she was studying abroad, she learned Spanish.",
+      "wrongReasons": {
+        "0": "The present perfect does not fit a past story.",
+        "1": "The present continuous does not match 'looked after'.",
+        "3": "This is passive, but the parents did the travelling."
+      },
+      "verb": "travel",
+      "options": [
+        "have travelled",
+        "are travelling",
+        "were travelling",
+        "had been travelled"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-121",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Most people in the town ___ when the earthquake hit at three in the morning.",
+      "explanation": "Use the past continuous for an action in progress at a past moment: At midnight I was still working.",
+      "wrongReasons": {
+        "0": "The past simple suggests they went to sleep after the earthquake, not that they were asleep.",
+        "2": "The present perfect does not fit a past event.",
+        "3": "The present simple does not fit a past story."
+      },
+      "verb": "sleep",
+      "options": [
+        "slept",
+        "were sleeping",
+        "have slept",
+        "sleep"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-122",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "When the police arrived, the robbers ___ — there was nobody left in the bank.",
+      "explanation": "The past perfect shows that one action was finished before another past action: When I got home, the guests had left.",
+      "wrongReasons": {
+        "0": "The present perfect does not fit a past story.",
+        "2": "'escape' is not used in the passive like this.",
+        "3": "The present simple does not fit a past story."
+      },
+      "verb": "escape",
+      "options": [
+        "have escaped",
+        "had escaped",
+        "were escaped",
+        "escape"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-123",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "I ___ a shower when the doorbell rang, so I didn't hear it at first.",
+      "explanation": "Use the past continuous for the activity in progress when something interrupted it: I was washing up when the lights went out.",
+      "wrongReasons": {
+        "0": "The past simple suggests the shower started after the doorbell rang.",
+        "1": "The present perfect does not fit a past story.",
+        "2": "The present continuous does not match 'rang'."
+      },
+      "verb": "have",
+      "options": [
+        "had",
+        "have had",
+        "am having",
+        "was having"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-124",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "He ___ for the company for only two months when he was promoted.",
+      "explanation": "Use the past perfect continuous to say how long something had continued before a past event: She had been teaching for a year when she got the award.",
+      "wrongReasons": {
+        "0": "The present perfect continuous does not match 'was promoted'.",
+        "2": "'work' is not passive here; he did the working.",
+        "3": "The present simple does not fit a past story."
+      },
+      "verb": "work",
+      "options": [
+        "has been working",
+        "had been working",
+        "was worked",
+        "works"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-125",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Look at those dark clouds! It ___.",
+      "explanation": "Use 'going to' for predictions based on what we can see now: Be careful, you're going to fall!",
+      "wrongReasons": {
+        "0": "The past simple does not fit a prediction about what will happen soon.",
+        "2": "The present perfect talks about something already finished, not a prediction.",
+        "3": "The present simple is for habits and facts, not predictions based on evidence."
+      },
+      "verb": "rain",
+      "options": [
+        "rained",
+        "is going to rain",
+        "has rained",
+        "rains"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-126",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This time next week, I ___ on a beach in Greece.",
+      "explanation": "Future continuous: will be + -ing, for an action in progress at a future time. At 8 p.m. tomorrow, I'll be watching the match.",
+      "wrongReasons": {
+        "1": "'This time next week' needs an action in progress, so use the future continuous.",
+        "2": "The present simple does not fit an action in progress in the future.",
+        "3": "The future perfect shows completion, not an ongoing activity."
+      },
+      "verb": "lie",
+      "options": [
+        "will be lying",
+        "will lie",
+        "lie",
+        "will have lain"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-127",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "According to the timetable, the next train ___ at 7.45.",
+      "explanation": "Use the present simple for timetables and schedules: The film starts at 9 p.m.",
+      "wrongReasons": {
+        "0": "The past simple refers to a departure that has already happened.",
+        "1": "The present perfect says the train is already gone, not when it departs.",
+        "2": "The past perfect does not fit a timetable."
+      },
+      "verb": "leave",
+      "options": [
+        "left",
+        "has left",
+        "had left",
+        "leaves"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-128",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "By the time you get home, I ___ dinner.",
+      "explanation": "Future perfect: will have + past participle, for actions completed before a future time. By Friday, I will have finished the project.",
+      "wrongReasons": {
+        "0": "'By the time' shows the action will be complete before then, so use the future perfect.",
+        "2": "The present simple does not show completion before a future moment.",
+        "3": "The present continuous does not show the action will be finished."
+      },
+      "verb": "make",
+      "options": [
+        "will make",
+        "will have made",
+        "make",
+        "am making"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-129",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "I ___ my grandparents this weekend — I've already bought the train tickets.",
+      "explanation": "Use the present continuous for fixed future arrangements: We're meeting Tom on Saturday.",
+      "wrongReasons": {
+        "1": "The present perfect says the visit is already over, but it is this weekend.",
+        "2": "The present simple is for timetables, not personal arrangements.",
+        "3": "The past simple does not fit 'this weekend' in the future."
+      },
+      "verb": "visit",
+      "options": [
+        "am visiting",
+        "have visited",
+        "visit",
+        "visited"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-130",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Don't worry about the heavy box — I ___ you carry it.",
+      "explanation": "Use 'will' for offers and decisions made at the moment of speaking: I'll open the door for you.",
+      "wrongReasons": {
+        "0": "The present continuous is for arrangements, not offers made at the moment of speaking.",
+        "2": "The present simple is not used for spontaneous offers.",
+        "3": "The past simple does not fit an offer about the next moment."
+      },
+      "verb": "help",
+      "options": [
+        "am helping",
+        "'ll help",
+        "help",
+        "helped"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-131",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "By next June, they ___ married for twenty-five years.",
+      "explanation": "Future perfect with 'for' shows the length of time up to a future point: By May, I will have lived here for ten years.",
+      "wrongReasons": {
+        "0": "'By next June' plus a period of time needs the future perfect.",
+        "2": "The present simple does not fit a future point in time.",
+        "3": "The present perfect does not reach to a future time like 'next June'."
+      },
+      "verb": "be",
+      "options": [
+        "will be",
+        "will have been",
+        "are",
+        "have been"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-132",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Don't call me at nine; I ___ my weekly yoga class then.",
+      "explanation": "The future continuous describes what will be happening at a future moment: Don't come at six; I'll be cooking.",
+      "wrongReasons": {
+        "1": "The future perfect means the class will be over, but it is in progress at nine.",
+        "2": "The present perfect does not refer to a future time.",
+        "3": "The past simple does not fit a future time."
+      },
+      "verb": "do",
+      "options": [
+        "will be doing",
+        "will have done",
+        "have done",
+        "did"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-133",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "When I ___ my exams, I'll go on holiday.",
+      "explanation": "After when, as soon as, before and after, use a present tense for the future: I'll call you when I arrive.",
+      "wrongReasons": {
+        "0": "After time words like 'when' we use a present tense, not 'will', for the future.",
+        "1": "'would' does not fit this real future plan.",
+        "3": "The past simple does not fit a future plan with 'I'll'."
+      },
+      "verb": "finish",
+      "options": [
+        "will finish",
+        "would finish",
+        "finish",
+        "finished"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-134",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "She ___ her thesis by the end of the month, if all goes well.",
+      "explanation": "Use the future perfect with 'by + time': I will have read the book by Monday.",
+      "wrongReasons": {
+        "1": "The present simple does not show completion before a future deadline.",
+        "2": "The present perfect refers to now, not to a future deadline.",
+        "3": "The past simple does not fit a future deadline."
+      },
+      "verb": "complete",
+      "options": [
+        "will have completed",
+        "completes",
+        "has completed",
+        "completed"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-135",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "I think robots ___ most of our housework in the future.",
+      "explanation": "Use 'will' for predictions based on opinion, often after 'I think': I think it will be a great year.",
+      "wrongReasons": {
+        "0": "The present continuous is for arrangements, not general predictions about the far future.",
+        "1": "The past simple does not fit 'in the future'.",
+        "2": "The present perfect does not fit a prediction about the future."
+      },
+      "verb": "do",
+      "options": [
+        "are doing",
+        "did",
+        "have done",
+        "will do"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-136",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "I've decided: I ___ for a new job next month.",
+      "explanation": "Use 'going to' for intentions and plans already decided: I'm going to learn Japanese next year.",
+      "wrongReasons": {
+        "0": "The present simple is not used for personal plans.",
+        "1": "The past simple does not fit 'next month'.",
+        "3": "The present perfect says it is already done, not a plan."
+      },
+      "verb": "apply",
+      "options": [
+        "apply",
+        "applied",
+        "am going to apply",
+        "have applied"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-137",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Next year, my parents ___ for the same company for thirty years.",
+      "explanation": "Future perfect with 'for': will have + past participle. In July, she will have taught here for twenty years.",
+      "wrongReasons": {
+        "0": "The future simple does not show the length of time up to a future point.",
+        "1": "The present simple does not show duration up to a future time.",
+        "2": "The present continuous does not show thirty years of work completed by next year."
+      },
+      "verb": "work",
+      "options": [
+        "will work",
+        "work",
+        "are working",
+        "will have worked"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-138",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "\"The phone's ringing.\" \"I ___ it.\"",
+      "explanation": "Use 'will' for instant decisions: \"There's someone at the door.\" \"I'll go.\"",
+      "wrongReasons": {
+        "1": "The present simple is not used for a decision made at the moment of speaking.",
+        "2": "The past simple does not fit an immediate decision.",
+        "3": "The present perfect says it is already done."
+      },
+      "verb": "get",
+      "options": [
+        "'ll get",
+        "get",
+        "got",
+        "have got"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-139",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "As soon as the results ___, we will let you know.",
+      "explanation": "After 'as soon as' use a present tense for the future: I'll text you as soon as I get there.",
+      "wrongReasons": {
+        "1": "After 'as soon as' we use the present simple, not 'will', for the future.",
+        "2": "'would' does not fit this real future situation.",
+        "3": "The past simple does not match 'we will let you know'."
+      },
+      "verb": "arrive",
+      "options": [
+        "arrive",
+        "will arrive",
+        "would arrive",
+        "arrived"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-140",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Sorry, I can't come to dinner on Saturday; I ___ my cousin's wedding.",
+      "explanation": "Use the present continuous for arrangements in your diary: I'm seeing the dentist on Monday.",
+      "wrongReasons": {
+        "0": "The present simple is not used for personal arrangements.",
+        "2": "The past simple does not fit 'on Saturday' in the future.",
+        "3": "The present perfect says the wedding is already over."
+      },
+      "verb": "attend",
+      "options": [
+        "attend",
+        "am attending",
+        "attended",
+        "have attended"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-141",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "If the trend continues, the population of the city ___ by 2040.",
+      "explanation": "Use the future perfect for a change completed before a future date: Prices will have risen by next year.",
+      "wrongReasons": {
+        "0": "The present simple does not show a change completed by a future date.",
+        "1": "The present perfect says it has already happened.",
+        "2": "The present continuous does not go with 'by 2040'."
+      },
+      "verb": "double",
+      "options": [
+        "doubles",
+        "has doubled",
+        "is doubling",
+        "will have doubled"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-142",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Don't phone after ten; we ___ to bed by then.",
+      "explanation": "'by then' often goes with the future perfect: By midnight, everyone will have left.",
+      "wrongReasons": {
+        "0": "'by then' shows completion before a time, so use the future perfect.",
+        "1": "The present simple does not show completion before a future time.",
+        "3": "The present perfect refers to now, not to ten o'clock tonight."
+      },
+      "verb": "go",
+      "options": [
+        "'ll go",
+        "go",
+        "'ll have gone",
+        "have gone"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-143",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "I promise I ___ anyone your secret.",
+      "explanation": "Use 'will/won't' for promises: I promise I won't be late.",
+      "wrongReasons": {
+        "1": "Promises about the future use 'will', not the present simple.",
+        "2": "The present perfect is about the past, but a promise is about the future.",
+        "3": "The past continuous does not fit a promise."
+      },
+      "verb": "not tell",
+      "options": [
+        "won't tell",
+        "don't tell",
+        "haven't told",
+        "wasn't telling"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-144",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "I ___ you as soon as I land in Tokyo.",
+      "explanation": "Use 'will' in the main clause and a present tense after 'as soon as': I'll call you as soon as I hear anything.",
+      "wrongReasons": {
+        "0": "The present simple is not used for a promise in the main clause.",
+        "1": "The present continuous is for arrangements, not promises tied to 'as soon as'.",
+        "2": "The past simple does not fit a future action."
+      },
+      "verb": "text",
+      "options": [
+        "text",
+        "am texting",
+        "texted",
+        "'ll text"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-145",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "At this time tomorrow, we ___ over the Atlantic.",
+      "explanation": "Future continuous for an action in progress at a future moment: At noon tomorrow, I'll be sitting an exam.",
+      "wrongReasons": {
+        "0": "The future perfect shows the flight finished, but we will be in the air.",
+        "1": "The present simple does not show an action in progress.",
+        "2": "The past simple does not fit 'tomorrow'."
+      },
+      "verb": "fly",
+      "options": [
+        "will have flown",
+        "fly",
+        "flew",
+        "will be flying"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-146",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "I'm really looking forward to ___ you next week.",
+      "explanation": "'look forward to' + -ing: We're looking forward to meeting you.",
+      "wrongReasons": {
+        "0": "In 'look forward to', 'to' is a preposition, so it needs the -ing form.",
+        "1": "'look forward' is followed by 'to + -ing', not another 'to'.",
+        "3": "A past form cannot follow the preposition 'to'."
+      },
+      "verb": "see",
+      "options": [
+        "see",
+        "to see",
+        "seeing",
+        "saw"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-147",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "She managed ___ the problem without any help.",
+      "explanation": "'manage' + to-infinitive: He managed to fix the bike.",
+      "wrongReasons": {
+        "0": "'manage' is followed by the to-infinitive, not -ing.",
+        "1": "'manage' needs 'to' before the verb.",
+        "2": "Two past verbs cannot follow each other directly."
+      },
+      "verb": "solve",
+      "options": [
+        "solving",
+        "solve",
+        "solved",
+        "to solve"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-148",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Would you mind ___ the window? It's freezing.",
+      "explanation": "'Would you mind' + -ing is a polite request: Would you mind waiting a moment?",
+      "wrongReasons": {
+        "0": "'mind' is followed by the -ing form, not the infinitive.",
+        "2": "'mind' cannot be followed by the base form.",
+        "3": "'Would you mind closed' is not grammatical."
+      },
+      "verb": "close",
+      "options": [
+        "to close",
+        "closing",
+        "close",
+        "closed"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-149",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "I'll never forget ___ the Northern Lights for the first time.",
+      "explanation": "'forget + -ing' is about a past memory: I'll never forget meeting my favourite singer.",
+      "wrongReasons": {
+        "0": "'forget to do' means not remembering to do something, not a memory of the past.",
+        "2": "The base form cannot follow 'forget'.",
+        "3": "A past form cannot follow 'forget' directly."
+      },
+      "verb": "see",
+      "options": [
+        "to see",
+        "seeing",
+        "see",
+        "saw"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-150",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Remember ___ the door when you leave.",
+      "explanation": "'remember + to-infinitive' is about a future duty: Remember to call your mother.",
+      "wrongReasons": {
+        "0": "'remember + -ing' is about a past memory, but this is something to do in the future.",
+        "1": "'remember' needs 'to' before the verb here.",
+        "2": "A past form cannot follow 'remember' in this instruction."
+      },
+      "verb": "lock",
+      "options": [
+        "locking",
+        "lock",
+        "locked",
+        "to lock"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-151",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "After driving for four hours, we stopped ___ something to eat.",
+      "explanation": "'stop + to-infinitive' means stop in order to do something: She stopped to tie her shoe.",
+      "wrongReasons": {
+        "0": "'stop + -ing' means to quit an activity; here we stopped in order to eat.",
+        "1": "The base form cannot follow 'stopped' here.",
+        "2": "A past form cannot follow 'stopped' directly."
+      },
+      "verb": "get",
+      "options": [
+        "getting",
+        "get",
+        "got",
+        "to get"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-152",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "My boss made me ___ the whole report again.",
+      "explanation": "make + object + base form: The teacher made us repeat the exercise.",
+      "wrongReasons": {
+        "0": "'make somebody' is followed by the base form without 'to' in the active.",
+        "1": "'make somebody' is not followed by the -ing form.",
+        "2": "'made me written' is not correct; the past participle does not fit here."
+      },
+      "verb": "write",
+      "options": [
+        "to write",
+        "writing",
+        "written",
+        "write"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-153",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "I can't afford ___ my laptop this year.",
+      "explanation": "'can't afford' + to-infinitive: We can't afford to go on holiday.",
+      "wrongReasons": {
+        "0": "'afford' takes the to-infinitive, not the -ing form.",
+        "1": "'afford' needs 'to' before the verb.",
+        "2": "A past form cannot follow 'afford'."
+      },
+      "verb": "replace",
+      "options": [
+        "replacing",
+        "replace",
+        "replaced",
+        "to replace"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-154",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "She avoided ___ eye contact with the interviewer.",
+      "explanation": "'avoid' + -ing: He avoided answering the question.",
+      "wrongReasons": {
+        "1": "'avoid' is followed by the -ing form, never the infinitive.",
+        "2": "The base form cannot follow 'avoid'.",
+        "3": "A past form cannot follow 'avoided'."
+      },
+      "verb": "make",
+      "options": [
+        "making",
+        "to make",
+        "make",
+        "made"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-155",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "I regret ___ you that your application has been unsuccessful.",
+      "explanation": "'regret to + verb' is a formal way to give bad news: We regret to announce that the flight is cancelled.",
+      "wrongReasons": {
+        "1": "'regret + -ing' means being sorry about a past action; formal bad news uses 'regret to'.",
+        "2": "'regret' needs 'to' before the verb here.",
+        "3": "A past form cannot follow 'regret' directly."
+      },
+      "verb": "inform",
+      "options": [
+        "to inform",
+        "informing",
+        "inform",
+        "informed"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-vf-156",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "He's used to ___ up early because he's a baker.",
+      "explanation": "'be used to + -ing' means something is normal for you: I'm used to working at night.",
+      "wrongReasons": {
+        "0": "In 'be used to', 'to' is a preposition, so it needs -ing.",
+        "1": "A past form cannot follow 'to' here.",
+        "2": "'used to have got' is not correct after 'be used to'."
+      },
+      "verb": "get",
+      "options": [
+        "get",
+        "got",
+        "have got",
+        "getting"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-157",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "My parents let me ___ to the festival with my friends.",
+      "explanation": "let + object + base form: My teacher let us leave early.",
+      "wrongReasons": {
+        "0": "'let somebody' is followed by the base form without 'to'.",
+        "1": "'let somebody' is not followed by the -ing form.",
+        "3": "A past form cannot follow 'let me'."
+      },
+      "verb": "go",
+      "options": [
+        "to go",
+        "going",
+        "go",
+        "went"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-158",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "The film was so boring that I couldn't help ___ asleep.",
+      "explanation": "'can't help + -ing' means you cannot stop yourself: I couldn't help laughing.",
+      "wrongReasons": {
+        "0": "'can't help' meaning 'can't stop yourself' is followed by -ing.",
+        "1": "The base form cannot follow 'couldn't help' with this meaning.",
+        "2": "A past form cannot follow 'help' here."
+      },
+      "verb": "fall",
+      "options": [
+        "to fall",
+        "fall",
+        "fell",
+        "falling"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-159",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "We're thinking of ___ to Portugal next summer.",
+      "explanation": "Preposition + -ing: She's thinking of changing jobs.",
+      "wrongReasons": {
+        "0": "After the preposition 'of' we use the -ing form.",
+        "1": "A preposition cannot be followed by the base form.",
+        "3": "A past form cannot follow a preposition."
+      },
+      "verb": "move",
+      "options": [
+        "to move",
+        "move",
+        "moving",
+        "moved"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-160",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "It's no use ___ to him; he never listens.",
+      "explanation": "'It's no use + -ing' means it is pointless: It's no use crying about it.",
+      "wrongReasons": {
+        "0": "'It's no use' is followed by the -ing form.",
+        "1": "The base form cannot follow 'It's no use'.",
+        "2": "A past form cannot follow 'It's no use'."
+      },
+      "verb": "talk",
+      "options": [
+        "to talk",
+        "talk",
+        "talked",
+        "talking"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-vf-161",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "She persuaded her brother ___ the course.",
+      "explanation": "persuade + object + to-infinitive: He persuaded me to stay.",
+      "wrongReasons": {
+        "0": "'persuade somebody' is followed by the to-infinitive.",
+        "2": "'persuade somebody' needs 'to' before the verb.",
+        "3": "A past form cannot follow 'persuaded her brother'."
+      },
+      "verb": "join",
+      "options": [
+        "joining",
+        "to join",
+        "join",
+        "joined"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-162",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "I'd rather ___ at home tonight than go out.",
+      "explanation": "'would rather + base form' shows preference: I'd rather walk than take the bus.",
+      "wrongReasons": {
+        "0": "'would rather' is followed by the base form without 'to'.",
+        "1": "'would rather' is not followed by -ing.",
+        "3": "'I'd rather stayed' is wrong; the past form is only used with a different subject, e.g. 'I'd rather you stayed'."
+      },
+      "verb": "stay",
+      "options": [
+        "to stay",
+        "staying",
+        "stay",
+        "stayed"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-163",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Do you fancy ___ for a walk after lunch?",
+      "explanation": "'fancy + -ing' means to want to do something: Do you fancy watching a film?",
+      "wrongReasons": {
+        "0": "'fancy' is followed by the -ing form, not the infinitive.",
+        "1": "The base form cannot follow 'fancy'.",
+        "3": "A past form cannot follow 'fancy'."
+      },
+      "verb": "go",
+      "options": [
+        "to go",
+        "go",
+        "going",
+        "went"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-164",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "The teacher encouraged us ___ questions.",
+      "explanation": "encourage + object + to-infinitive: My parents encouraged me to travel.",
+      "wrongReasons": {
+        "0": "'encourage somebody' is followed by the to-infinitive.",
+        "1": "'encourage somebody' needs 'to' before the verb.",
+        "3": "A past form cannot follow 'encouraged us'."
+      },
+      "verb": "ask",
+      "options": [
+        "asking",
+        "ask",
+        "to ask",
+        "asked"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-vf-165",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "It's worth ___ the museum if you have time.",
+      "explanation": "'be worth + -ing' means it is a good idea: The book is worth reading.",
+      "wrongReasons": {
+        "1": "'It's worth' is followed by the -ing form.",
+        "2": "The base form cannot follow 'worth'.",
+        "3": "A past form cannot follow 'worth' here."
+      },
+      "verb": "visit",
+      "options": [
+        "visiting",
+        "to visit",
+        "visit",
+        "visited"
+      ],
+      "correct": 0
     }
   ]
 }
