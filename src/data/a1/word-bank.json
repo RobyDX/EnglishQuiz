@@ -112,6 +112,4101 @@
       "answers": [
         "his"
       ]
+    },
+    {
+      "id": "a1-wb-006",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "You ___ my best friend.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use \"are\" with you: You are.",
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "is": "\"is\" is used with he, she and it."
+      }
+    },
+    {
+      "id": "a1-wb-007",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "bank": [
+        "in",
+        "on",
+        "at"
+      ],
+      "text": "My birthday is ___ May.",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Use \"in\" with months: in May.",
+      "wrongReasons": {
+        "on": "\"on\" is used with days and dates, such as on Monday.",
+        "at": "\"at\" is used with clock times, such as at six."
+      }
+    },
+    {
+      "id": "a1-wb-008",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "bank": [
+        "my",
+        "your",
+        "his"
+      ],
+      "text": "I have a cat. ___ cat is black.",
+      "answers": [
+        "my"
+      ],
+      "explanation": "\"I\" becomes \"my\": my cat.",
+      "wrongReasons": {
+        "your": "\"your\" belongs to \"you\", not to \"I\".",
+        "his": "\"his\" belongs to a man, not to \"I\"."
+      }
+    },
+    {
+      "id": "a1-wb-009",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "He eats ___ orange every day.",
+      "answers": [
+        "an"
+      ],
+      "explanation": "Use \"an\" before a vowel sound: an orange.",
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"orange\" starts with a vowel sound.",
+        "the": "\"the\" points to one known thing. Here the orange is any orange."
+      }
+    },
+    {
+      "id": "a1-wb-010",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ five students in the room.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use \"are\" with plural nouns: There are five students.",
+      "wrongReasons": {
+        "is": "\"is\" is for one thing. \"five students\" is plural.",
+        "am": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-wb-011",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: The girls are from Spain.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "The girls ___ from Spain.",
+      "answers": [
+        "are"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "is": "\"is\" is only for he, she, it and one person or thing. With \"the girls\" we use \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-012",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: My father is in the classroom.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "My father ___ in the classroom.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"my father\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-013",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"am\" with I. Example: I am kind.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "I ___ kind.",
+      "answers": [
+        "am"
+      ],
+      "wrongReasons": {
+        "is": "\"is\" is only for he, she, it and one person or thing. With \"I\" we use \"am\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"I\" we use \"am\"."
+      }
+    },
+    {
+      "id": "a1-wb-014",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Kate is tired.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "Kate ___ tired.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Kate\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-015",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Leo is hot.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "Leo ___ hot.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Leo\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-016",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Sam is from Brazil.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "Sam ___ from Brazil.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Sam\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-017",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Our teacher is at work.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "Our teacher ___ at work.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"our teacher\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-018",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Kate is in the kitchen.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "Kate ___ in the kitchen.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Kate\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-019",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: My mother is funny.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "My mother ___ funny.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"my mother\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-020",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Kate is sad.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "Kate ___ sad.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Kate\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-021",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Omar is in bed.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "Omar ___ in bed.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Omar\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-022",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: The dog is hungry.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "The dog ___ hungry.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"the dog\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-023",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: My father is at work.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "My father ___ at work.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"my father\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-024",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Omar is ready.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "Omar ___ ready.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Omar\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-wb-025",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: Tom and Anna are at work.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "Tom and Anna ___ at work.",
+      "answers": [
+        "are"
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "is": "\"is\" is only for he, she, it and one person or thing. With \"Tom and Anna\" we use \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-026",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"the\" for something already mentioned: I have a book... The book is small.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "I have a book and a chair. ___ book is small.",
+      "answers": [
+        "the"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is for something new. The book was already mentioned, so we use \"the\".",
+        "an": "\"an\" is for something new before a vowel sound. The book was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-wb-027",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a\" before a consonant sound: a cat.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "He has ___ cat.",
+      "answers": [
+        "a"
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"cat\" starts with a consonant sound, so we say \"a cat\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any cat, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-wb-028",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"an\" before a vowel sound: an artist.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "I can see ___ artist.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"artist\" starts with a vowel sound, so we say \"an artist\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any artist, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-wb-029",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"the\" for something already mentioned: I have a artist... The artist is new.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "I have an artist and a one-hour lesson. ___ artist is new.",
+      "answers": [
+        "the"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is for something new. The artist was already mentioned, so we use \"the\".",
+        "an": "\"an\" is for something new before a vowel sound. The artist was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-wb-030",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"an\" before a vowel sound: an eagle.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "There is ___ eagle on the table.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"eagle\" starts with a vowel sound, so we say \"an eagle\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any eagle, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-wb-031",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a\" before a consonant sound: a pen.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "This is ___ pen.",
+      "answers": [
+        "a"
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"pen\" starts with a consonant sound, so we say \"a pen\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any pen, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-wb-032",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"an\" before a vowel sound: an owl.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "She wants ___ owl.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"owl\" starts with a vowel sound, so we say \"an owl\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any owl, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-wb-033",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"an\" before a vowel sound: an island.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "There is ___ island on the table.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"island\" starts with a vowel sound, so we say \"an island\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any island, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-wb-034",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"the\" for something already mentioned: I have a umbrella... The umbrella is nice.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "I have an umbrella and a bird. ___ umbrella is nice.",
+      "answers": [
+        "the"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is for something new. The umbrella was already mentioned, so we use \"the\".",
+        "an": "\"an\" is for something new before a vowel sound. The umbrella was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-wb-035",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"an\" before a vowel sound: an apple.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "He has ___ apple.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"apple\" starts with a vowel sound, so we say \"an apple\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any apple, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-wb-036",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"the\" when there is only one: the sun.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "Plants need ___ sun and water.",
+      "answers": [
+        "the"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" means any one thing. There is only one sun, so we use \"the\".",
+        "an": "\"an\" means any one thing and is used before a vowel sound. There is only one sun, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-wb-037",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"the\" when there is only one: the world.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "Anna wants to see ___ world.",
+      "answers": [
+        "the"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" means any one thing. There is only one world, so we use \"the\".",
+        "an": "\"an\" means any one thing and is used before a vowel sound. There is only one world, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-wb-038",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a\" before a consonant sound: a book.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "Is that ___ book?",
+      "answers": [
+        "a"
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"book\" starts with a consonant sound, so we say \"a book\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any book, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-wb-039",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a\" before a consonant sound: a school.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "Is that ___ school?",
+      "answers": [
+        "a"
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"school\" starts with a consonant sound, so we say \"a school\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any school, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-wb-040",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"an\" before a vowel sound: an ant.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "He has ___ ant.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"ant\" starts with a vowel sound, so we say \"an ant\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any ant, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-wb-041",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a\" before a consonant sound: a cat.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "She wants ___ cat.",
+      "answers": [
+        "a"
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"cat\" starts with a consonant sound, so we say \"a cat\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any cat, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-wb-042",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a\" before a consonant sound: a teacher.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "This is ___ teacher.",
+      "answers": [
+        "a"
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"teacher\" starts with a consonant sound, so we say \"a teacher\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any teacher, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-wb-043",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"the\" when there is only one: the earth.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "We live on ___ Earth.",
+      "answers": [
+        "the"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" means any one thing. There is only one earth, so we use \"the\".",
+        "an": "\"an\" means any one thing and is used before a vowel sound. There is only one earth, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-wb-044",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"an\" before a vowel sound: an engineer.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "I can see ___ engineer.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"engineer\" starts with a vowel sound, so we say \"an engineer\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any engineer, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-wb-045",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"an\" before a vowel sound: an egg.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "He has ___ egg.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"egg\" starts with a vowel sound, so we say \"an egg\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any egg, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-wb-046",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"an\" before a vowel sound: an ant.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "I can see ___ ant.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"ant\" starts with a vowel sound, so we say \"an ant\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any ant, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-wb-047",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a\" before a consonant sound: a car.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "This is ___ car.",
+      "answers": [
+        "a"
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"car\" starts with a consonant sound, so we say \"a car\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any car, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-wb-048",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"the\" when there is only one: the sun.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "In summer ___ sun comes up early.",
+      "answers": [
+        "the"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" means any one thing. There is only one sun, so we use \"the\".",
+        "an": "\"an\" means any one thing and is used before a vowel sound. There is only one sun, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-wb-049",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"He\" instead of Jack: Jack → he.",
+      "bank": [
+        "He",
+        "We",
+        "She"
+      ],
+      "text": "Jack is at home. ___ is very happy.",
+      "answers": [
+        "He"
+      ],
+      "wrongReasons": {
+        "we": "\"We\" is for the speaker and other people, but Jack is one boy or man.",
+        "she": "\"She\" is for one girl or woman, but Jack is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-050",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"He\" instead of Mr Brown: Mr Brown → he.",
+      "bank": [
+        "We",
+        "He",
+        "It"
+      ],
+      "text": "Mr Brown is at home. ___ is very good.",
+      "answers": [
+        "He"
+      ],
+      "wrongReasons": {
+        "we": "\"We\" is for the speaker and other people, but Mr Brown is one boy or man.",
+        "it": "\"It\" is for a thing or an animal, but Mr Brown is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-051",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"them\" instead of Ben and Lucy after the verb: Ben and Lucy → them.",
+      "bank": [
+        "her",
+        "them",
+        "him"
+      ],
+      "text": "Ben and Lucy are nice. I like ___.",
+      "answers": [
+        "them"
+      ],
+      "wrongReasons": {
+        "her": "\"her\" is for one girl or woman, but Ben and Lucy is more than one person or thing.",
+        "him": "\"him\" is for one boy or man, but Ben and Lucy is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-wb-052",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"It\" instead of the bag: the bag → it.",
+      "bank": [
+        "She",
+        "We",
+        "It"
+      ],
+      "text": "The bag is at home. ___ is very clean.",
+      "answers": [
+        "It"
+      ],
+      "wrongReasons": {
+        "she": "\"She\" is for one girl or woman, but the bag is a thing or an animal.",
+        "we": "\"We\" is for the speaker and other people, but the bag is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-wb-053",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"She\" instead of Anna: Anna → she.",
+      "bank": [
+        "She",
+        "He",
+        "We"
+      ],
+      "text": "Anna is at home. ___ is very happy.",
+      "answers": [
+        "She"
+      ],
+      "wrongReasons": {
+        "he": "\"He\" is for one boy or man, but Anna is one girl or woman.",
+        "we": "\"We\" is for the speaker and other people, but Anna is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-wb-054",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"He\" instead of Ben: Ben → he.",
+      "bank": [
+        "He",
+        "We",
+        "They"
+      ],
+      "text": "Ben is at home. ___ is very tired.",
+      "answers": [
+        "He"
+      ],
+      "wrongReasons": {
+        "we": "\"We\" is for the speaker and other people, but Ben is one boy or man.",
+        "they": "\"They\" is for more than one person or thing, but Ben is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-055",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"He\" instead of my uncle: my uncle → he.",
+      "bank": [
+        "It",
+        "He",
+        "We"
+      ],
+      "text": "My uncle is at home. ___ is very tired.",
+      "answers": [
+        "He"
+      ],
+      "wrongReasons": {
+        "it": "\"It\" is for a thing or an animal, but my uncle is one boy or man.",
+        "we": "\"We\" is for the speaker and other people, but my uncle is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-056",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"He\" instead of Mr Brown: Mr Brown → he.",
+      "bank": [
+        "He",
+        "She",
+        "We"
+      ],
+      "text": "Mr Brown is at home. ___ is very kind.",
+      "answers": [
+        "He"
+      ],
+      "wrongReasons": {
+        "she": "\"She\" is for one girl or woman, but Mr Brown is one boy or man.",
+        "we": "\"We\" is for the speaker and other people, but Mr Brown is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-057",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"They\" instead of the children: the children → they.",
+      "bank": [
+        "It",
+        "He",
+        "They"
+      ],
+      "text": "The children are at home. ___ are very tired.",
+      "answers": [
+        "They"
+      ],
+      "wrongReasons": {
+        "it": "\"It\" is for a thing or an animal, but the children is more than one person or thing.",
+        "he": "\"He\" is for one boy or man, but the children is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-wb-058",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"it\" instead of the horse after the verb: the horse → it.",
+      "bank": [
+        "it",
+        "him",
+        "her"
+      ],
+      "text": "The horse is nice. I like ___.",
+      "answers": [
+        "it"
+      ],
+      "wrongReasons": {
+        "him": "\"him\" is for one boy or man, but the horse is a thing or an animal.",
+        "her": "\"her\" is for one girl or woman, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-wb-059",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"He\" instead of Sam: Sam → he.",
+      "bank": [
+        "We",
+        "He",
+        "She"
+      ],
+      "text": "Sam is at home. ___ is very kind.",
+      "answers": [
+        "He"
+      ],
+      "wrongReasons": {
+        "we": "\"We\" is for the speaker and other people, but Sam is one boy or man.",
+        "she": "\"She\" is for one girl or woman, but Sam is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-060",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"it\" instead of the house after the verb: the house → it.",
+      "bank": [
+        "it",
+        "him",
+        "her"
+      ],
+      "text": "The house is nice. I like ___.",
+      "answers": [
+        "it"
+      ],
+      "wrongReasons": {
+        "him": "\"him\" is for one boy or man, but the house is a thing or an animal.",
+        "her": "\"her\" is for one girl or woman, but the house is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-wb-061",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"She\" instead of Zoe: Zoe → she.",
+      "bank": [
+        "It",
+        "She",
+        "We"
+      ],
+      "text": "Zoe is at home. ___ is very tired.",
+      "answers": [
+        "She"
+      ],
+      "wrongReasons": {
+        "it": "\"It\" is for a thing or an animal, but Zoe is one girl or woman.",
+        "we": "\"We\" is for the speaker and other people, but Zoe is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-wb-062",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"She\" instead of Mrs Green: Mrs Green → she.",
+      "bank": [
+        "It",
+        "She",
+        "He"
+      ],
+      "text": "Mrs Green is at home. ___ is very good.",
+      "answers": [
+        "She"
+      ],
+      "wrongReasons": {
+        "it": "\"It\" is for a thing or an animal, but Mrs Green is one girl or woman.",
+        "he": "\"He\" is for one boy or man, but Mrs Green is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-wb-063",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"her\" instead of Lucy after the verb: Lucy → her.",
+      "bank": [
+        "her",
+        "them",
+        "it"
+      ],
+      "text": "Lucy is nice. I like ___.",
+      "answers": [
+        "her"
+      ],
+      "wrongReasons": {
+        "them": "\"them\" is for more than one person or thing, but Lucy is one girl or woman.",
+        "it": "\"it\" is for a thing or an animal, but Lucy is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-wb-064",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"them\" instead of the boys after the verb: the boys → them.",
+      "bank": [
+        "it",
+        "us",
+        "them"
+      ],
+      "text": "The boys are nice. I like ___.",
+      "answers": [
+        "them"
+      ],
+      "wrongReasons": {
+        "it": "\"it\" is for a thing or an animal, but the boys is more than one person or thing.",
+        "us": "\"us\" is for the speaker and other people, but the boys is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-wb-065",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"her\" instead of Mia after the verb: Mia → her.",
+      "bank": [
+        "her",
+        "them",
+        "it"
+      ],
+      "text": "Mia is nice. I like ___.",
+      "answers": [
+        "her"
+      ],
+      "wrongReasons": {
+        "them": "\"them\" is for more than one person or thing, but Mia is one girl or woman.",
+        "it": "\"it\" is for a thing or an animal, but Mia is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-wb-066",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"They\" instead of Tom and Anna: Tom and Anna → they.",
+      "bank": [
+        "He",
+        "It",
+        "They"
+      ],
+      "text": "Tom and Anna are at home. ___ are very busy.",
+      "answers": [
+        "They"
+      ],
+      "wrongReasons": {
+        "he": "\"He\" is for one boy or man, but Tom and Anna is more than one person or thing.",
+        "it": "\"It\" is for a thing or an animal, but Tom and Anna is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-wb-067",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"He\" instead of Tom: Tom → he.",
+      "bank": [
+        "He",
+        "It",
+        "She"
+      ],
+      "text": "Tom is at home. ___ is very nice.",
+      "answers": [
+        "He"
+      ],
+      "wrongReasons": {
+        "it": "\"It\" is for a thing or an animal, but Tom is one boy or man.",
+        "she": "\"She\" is for one girl or woman, but Tom is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-068",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"She\" instead of Mia: Mia → she.",
+      "bank": [
+        "We",
+        "It",
+        "She"
+      ],
+      "text": "Mia is at home. ___ is very happy.",
+      "answers": [
+        "She"
+      ],
+      "wrongReasons": {
+        "we": "\"We\" is for the speaker and other people, but Mia is one girl or woman.",
+        "it": "\"It\" is for a thing or an animal, but Mia is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-wb-069",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"his\" for one boy or man: Mr Brown loves his hat.",
+      "bank": [
+        "their",
+        "his",
+        "our"
+      ],
+      "text": "Mr Brown loves ___ hat.",
+      "answers": [
+        "his"
+      ],
+      "wrongReasons": {
+        "their": "\"their\" is for more than one person or thing, but Mr Brown is one boy or man.",
+        "our": "\"our\" is for the speaker and other people, but Mr Brown is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-070",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"its\" for a thing or an animal: The bird likes its house.",
+      "bank": [
+        "their",
+        "his",
+        "its"
+      ],
+      "text": "The bird likes ___ house.",
+      "answers": [
+        "its"
+      ],
+      "wrongReasons": {
+        "their": "\"their\" is for more than one person or thing, but the bird is a thing or an animal.",
+        "his": "\"his\" is for one boy or man, but the bird is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-wb-071",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"his\" for one boy or man: Sam visits his cousin.",
+      "bank": [
+        "its",
+        "his",
+        "our"
+      ],
+      "text": "Sam visits ___ cousin.",
+      "answers": [
+        "his"
+      ],
+      "wrongReasons": {
+        "its": "\"its\" is for a thing or an animal, but Sam is one boy or man.",
+        "our": "\"our\" is for the speaker and other people, but Sam is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-072",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"her\" for one girl or woman: Zoe helps her friend.",
+      "bank": [
+        "my",
+        "its",
+        "her"
+      ],
+      "text": "Zoe helps ___ friend.",
+      "answers": [
+        "her"
+      ],
+      "wrongReasons": {
+        "my": "\"my\" is for the speaker, but Zoe is one girl or woman.",
+        "its": "\"its\" is for a thing or an animal, but Zoe is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-wb-073",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"their\" for more than one person or thing: Ben and Lucy find their book.",
+      "bank": [
+        "their",
+        "his",
+        "its"
+      ],
+      "text": "Ben and Lucy find ___ book.",
+      "answers": [
+        "their"
+      ],
+      "wrongReasons": {
+        "his": "\"his\" is for one boy or man, but Ben and Lucy is more than one person or thing.",
+        "its": "\"its\" is for a thing or an animal, but Ben and Lucy is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-wb-074",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"his\" for one boy or man: Our teacher Mr Smith helps his teacher.",
+      "bank": [
+        "its",
+        "his",
+        "my"
+      ],
+      "text": "Our teacher Mr Smith helps ___ teacher.",
+      "answers": [
+        "his"
+      ],
+      "wrongReasons": {
+        "its": "\"its\" is for a thing or an animal, but our teacher Mr Smith is one boy or man.",
+        "my": "\"my\" is for the speaker, but our teacher Mr Smith is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-075",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"its\" for a thing or an animal: The bird has its bed.",
+      "bank": [
+        "its",
+        "your",
+        "her"
+      ],
+      "text": "The bird has ___ bed.",
+      "answers": [
+        "its"
+      ],
+      "wrongReasons": {
+        "your": "\"your\" is for the person you talk to, but the bird is a thing or an animal.",
+        "her": "\"her\" is for one girl or woman, but the bird is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-wb-076",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"his\" for one boy or man: Ben loses his house.",
+      "bank": [
+        "your",
+        "his",
+        "their"
+      ],
+      "text": "Ben loses ___ house.",
+      "answers": [
+        "his"
+      ],
+      "wrongReasons": {
+        "your": "\"your\" is for the person you talk to, but Ben is one boy or man.",
+        "their": "\"their\" is for more than one person or thing, but Ben is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-077",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"its\" for a thing or an animal: The horse loves its toy.",
+      "bank": [
+        "its",
+        "their",
+        "her"
+      ],
+      "text": "The horse loves ___ toy.",
+      "answers": [
+        "its"
+      ],
+      "wrongReasons": {
+        "their": "\"their\" is for more than one person or thing, but the horse is a thing or an animal.",
+        "her": "\"her\" is for one girl or woman, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-wb-078",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"her\" for one girl or woman: My aunt has her shoes.",
+      "bank": [
+        "his",
+        "her",
+        "their"
+      ],
+      "text": "My aunt has ___ shoes.",
+      "answers": [
+        "her"
+      ],
+      "wrongReasons": {
+        "his": "\"his\" is for one boy or man, but my aunt is one girl or woman.",
+        "their": "\"their\" is for more than one person or thing, but my aunt is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-wb-079",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"their\" for more than one person or thing: My friends lose their phone.",
+      "bank": [
+        "their",
+        "its",
+        "my"
+      ],
+      "text": "My friends lose ___ phone.",
+      "answers": [
+        "their"
+      ],
+      "wrongReasons": {
+        "its": "\"its\" is for a thing or an animal, but my friends is more than one person or thing.",
+        "my": "\"my\" is for the speaker, but my friends is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-wb-080",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"his\" for one boy or man: Paul helps his friend.",
+      "bank": [
+        "their",
+        "our",
+        "his"
+      ],
+      "text": "Paul helps ___ friend.",
+      "answers": [
+        "his"
+      ],
+      "wrongReasons": {
+        "their": "\"their\" is for more than one person or thing, but Paul is one boy or man.",
+        "our": "\"our\" is for the speaker and other people, but Paul is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-081",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"her\" for one girl or woman: My mother calls her friend.",
+      "bank": [
+        "my",
+        "her",
+        "your"
+      ],
+      "text": "My mother calls ___ friend.",
+      "answers": [
+        "her"
+      ],
+      "wrongReasons": {
+        "my": "\"my\" is for the speaker, but my mother is one girl or woman.",
+        "your": "\"your\" is for the person you talk to, but my mother is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-wb-082",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"their\" for more than one person or thing: Ben and Lucy call their cousin.",
+      "bank": [
+        "our",
+        "their",
+        "your"
+      ],
+      "text": "Ben and Lucy call ___ cousin.",
+      "answers": [
+        "their"
+      ],
+      "wrongReasons": {
+        "our": "\"our\" is for the speaker and other people, but Ben and Lucy is more than one person or thing.",
+        "your": "\"your\" is for the person you talk to, but Ben and Lucy is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-wb-083",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"her\" for one girl or woman: Zoe loves her bag.",
+      "bank": [
+        "its",
+        "her",
+        "my"
+      ],
+      "text": "Zoe loves ___ bag.",
+      "answers": [
+        "her"
+      ],
+      "wrongReasons": {
+        "its": "\"its\" is for a thing or an animal, but Zoe is one girl or woman.",
+        "my": "\"my\" is for the speaker, but Zoe is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-wb-084",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"their\" for more than one person or thing: The children like their house.",
+      "bank": [
+        "their",
+        "her",
+        "its"
+      ],
+      "text": "The children like ___ house.",
+      "answers": [
+        "their"
+      ],
+      "wrongReasons": {
+        "her": "\"her\" is for one girl or woman, but the children is more than one person or thing.",
+        "its": "\"its\" is for a thing or an animal, but the children is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-wb-085",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"his\" for one boy or man: My brother loves his keys.",
+      "bank": [
+        "her",
+        "its",
+        "his"
+      ],
+      "text": "My brother loves ___ keys.",
+      "answers": [
+        "his"
+      ],
+      "wrongReasons": {
+        "her": "\"her\" is for one girl or woman, but my brother is one boy or man.",
+        "its": "\"its\" is for a thing or an animal, but my brother is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-086",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"his\" for one boy or man: Jack has his dog.",
+      "bank": [
+        "its",
+        "his",
+        "our"
+      ],
+      "text": "Jack has ___ dog.",
+      "answers": [
+        "his"
+      ],
+      "wrongReasons": {
+        "its": "\"its\" is for a thing or an animal, but Jack is one boy or man.",
+        "our": "\"our\" is for the speaker and other people, but Jack is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-087",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"their\" for more than one person or thing: The girls call their teacher.",
+      "bank": [
+        "your",
+        "their",
+        "his"
+      ],
+      "text": "The girls call ___ teacher.",
+      "answers": [
+        "their"
+      ],
+      "wrongReasons": {
+        "your": "\"your\" is for the person you talk to, but the girls is more than one person or thing.",
+        "his": "\"his\" is for one boy or man, but the girls is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-wb-088",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"their\" for more than one person or thing: Tom and Anna lose their car.",
+      "bank": [
+        "their",
+        "our",
+        "its"
+      ],
+      "text": "Tom and Anna lose ___ car.",
+      "answers": [
+        "their"
+      ],
+      "wrongReasons": {
+        "our": "\"our\" is for the speaker and other people, but Tom and Anna is more than one person or thing.",
+        "its": "\"its\" is for a thing or an animal, but Tom and Anna is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-wb-089",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"his\" for one boy or man: Mr Brown helps his teacher.",
+      "bank": [
+        "our",
+        "his",
+        "its"
+      ],
+      "text": "Mr Brown helps ___ teacher.",
+      "answers": [
+        "his"
+      ],
+      "wrongReasons": {
+        "our": "\"our\" is for the speaker and other people, but Mr Brown is one boy or man.",
+        "its": "\"its\" is for a thing or an animal, but Mr Brown is one boy or man."
+      }
+    },
+    {
+      "id": "a1-wb-090",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"her\" for one girl or woman: Mrs Green calls her neighbour.",
+      "bank": [
+        "his",
+        "our",
+        "her"
+      ],
+      "text": "Mrs Green calls ___ neighbour.",
+      "answers": [
+        "her"
+      ],
+      "wrongReasons": {
+        "his": "\"his\" is for one boy or man, but Mrs Green is one girl or woman.",
+        "our": "\"our\" is for the speaker and other people, but Mrs Green is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-wb-091",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"next to\" means beside: the book is next to the window.",
+      "bank": [
+        "in",
+        "next to",
+        "under"
+      ],
+      "text": "The book is ___ the window. (= beside the window)",
+      "answers": [
+        "next to"
+      ],
+      "wrongReasons": {
+        "in": "\"in\" means inside something. Here the book is beside the window.",
+        "under": "\"under\" means below something. Here the book is beside the window."
+      }
+    },
+    {
+      "id": "a1-wb-092",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"under\" means below: the ball is under the desk.",
+      "bank": [
+        "under",
+        "next to",
+        "in"
+      ],
+      "text": "The ball is ___ the desk. (= below the desk)",
+      "answers": [
+        "under"
+      ],
+      "wrongReasons": {
+        "next to": "\"next to\" means beside something. Here the ball is below the desk.",
+        "in": "\"in\" means inside something. Here the ball is below the desk."
+      }
+    },
+    {
+      "id": "a1-wb-093",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"on\" with a day or a date: I have a meeting on Sunday morning.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "I have a meeting ___ Sunday morning.",
+      "answers": [
+        "on"
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"Sunday morning\" is a day or a date, so we use \"on\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"Sunday morning\" is a day or a date, so we use \"on\"."
+      }
+    },
+    {
+      "id": "a1-wb-094",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"next to\" means beside: the ball is next to the house.",
+      "bank": [
+        "next to",
+        "on",
+        "in front of"
+      ],
+      "text": "The ball is ___ the house. (= beside the house)",
+      "answers": [
+        "next to"
+      ],
+      "wrongReasons": {
+        "on": "\"on\" means touching the top of a surface. Here the ball is beside the house.",
+        "in front of": "\"in front of\" means at the front of something. Here the ball is beside the house."
+      }
+    },
+    {
+      "id": "a1-wb-095",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"at\" with a clock time or a fixed time of the day: I call my friend at bedtime.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "I call my friend ___ bedtime.",
+      "answers": [
+        "at"
+      ],
+      "wrongReasons": {
+        "on": "\"on\" is used with days and dates. \"bedtime\" is a clock time or a fixed time of the day, so we use \"at\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"bedtime\" is a clock time or a fixed time of the day, so we use \"at\"."
+      }
+    },
+    {
+      "id": "a1-wb-096",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"in\" means inside: the pen is in the bag.",
+      "bank": [
+        "on",
+        "next to",
+        "in"
+      ],
+      "text": "The pen is ___ the bag. (= inside the bag)",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "on": "\"on\" means touching the top of a surface. Here the pen is inside the bag.",
+        "next to": "\"next to\" means beside something. Here the pen is inside the bag."
+      }
+    },
+    {
+      "id": "a1-wb-097",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"next to\" means beside: the bag is next to the lamp.",
+      "bank": [
+        "next to",
+        "under",
+        "on"
+      ],
+      "text": "The bag is ___ the lamp. (= beside the lamp)",
+      "answers": [
+        "next to"
+      ],
+      "wrongReasons": {
+        "under": "\"under\" means below something. Here the bag is beside the lamp.",
+        "on": "\"on\" means touching the top of a surface. Here the bag is beside the lamp."
+      }
+    },
+    {
+      "id": "a1-wb-098",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: We play tennis in autumn.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "We play tennis ___ autumn.",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"autumn\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "on": "\"on\" is used with days and dates. \"autumn\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-wb-099",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: He gets up in winter.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "He gets up ___ winter.",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"winter\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "on": "\"on\" is used with days and dates. \"winter\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-wb-100",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"in\" means inside: the bag is in the garden.",
+      "bank": [
+        "under",
+        "in",
+        "next to"
+      ],
+      "text": "The bag is ___ the garden. (= inside the garden)",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "under": "\"under\" means below something. Here the bag is inside the garden.",
+        "next to": "\"next to\" means beside something. Here the bag is inside the garden."
+      }
+    },
+    {
+      "id": "a1-wb-101",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"at\" with a clock time or a fixed time of the day: We play tennis at noon.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "We play tennis ___ noon.",
+      "answers": [
+        "at"
+      ],
+      "wrongReasons": {
+        "on": "\"on\" is used with days and dates. \"noon\" is a clock time or a fixed time of the day, so we use \"at\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"noon\" is a clock time or a fixed time of the day, so we use \"at\"."
+      }
+    },
+    {
+      "id": "a1-wb-102",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"on\" with a day or a date: He gets up on Saturday.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "He gets up ___ Saturday.",
+      "answers": [
+        "on"
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"Saturday\" is a day or a date, so we use \"on\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"Saturday\" is a day or a date, so we use \"on\"."
+      }
+    },
+    {
+      "id": "a1-wb-103",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"next to\" means beside: the cat is next to the lamp.",
+      "bank": [
+        "under",
+        "on",
+        "next to"
+      ],
+      "text": "The cat is ___ the lamp. (= beside the lamp)",
+      "answers": [
+        "next to"
+      ],
+      "wrongReasons": {
+        "under": "\"under\" means below something. Here the cat is beside the lamp.",
+        "on": "\"on\" means touching the top of a surface. Here the cat is beside the lamp."
+      }
+    },
+    {
+      "id": "a1-wb-104",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"on\" with a day or a date: She goes to the park on Tuesday.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "She goes to the park ___ Tuesday.",
+      "answers": [
+        "on"
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"Tuesday\" is a day or a date, so we use \"on\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"Tuesday\" is a day or a date, so we use \"on\"."
+      }
+    },
+    {
+      "id": "a1-wb-105",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"on\" means on top of: the cup is on the shelf.",
+      "bank": [
+        "in",
+        "on",
+        "in front of"
+      ],
+      "text": "The cup is ___ the shelf. (= on top of the shelf)",
+      "answers": [
+        "on"
+      ],
+      "wrongReasons": {
+        "in": "\"in\" means inside something. Here the cup is on top of the shelf.",
+        "in front of": "\"in front of\" means at the front of something. Here the cup is on top of the shelf."
+      }
+    },
+    {
+      "id": "a1-wb-106",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"on\" with a day or a date: He gets up on Thursday afternoon.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "He gets up ___ Thursday afternoon.",
+      "answers": [
+        "on"
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"Thursday afternoon\" is a day or a date, so we use \"on\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"Thursday afternoon\" is a day or a date, so we use \"on\"."
+      }
+    },
+    {
+      "id": "a1-wb-107",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"in\" means inside: the bike is in the kitchen.",
+      "bank": [
+        "next to",
+        "on",
+        "in"
+      ],
+      "text": "The bike is ___ the kitchen. (= inside the kitchen)",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "next to": "\"next to\" means beside something. Here the bike is inside the kitchen.",
+        "on": "\"on\" means touching the top of a surface. Here the bike is inside the kitchen."
+      }
+    },
+    {
+      "id": "a1-wb-108",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"on\" means on top of: the dog is on the bed.",
+      "bank": [
+        "in front of",
+        "behind",
+        "on"
+      ],
+      "text": "The dog is ___ the bed. (= on top of the bed)",
+      "answers": [
+        "on"
+      ],
+      "wrongReasons": {
+        "in front of": "\"in front of\" means at the front of something. Here the dog is on top of the bed.",
+        "behind": "\"behind\" means at the back of something. Here the dog is on top of the bed."
+      }
+    },
+    {
+      "id": "a1-wb-109",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: I call my friend in the afternoon.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "I call my friend ___ the afternoon.",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"the afternoon\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "on": "\"on\" is used with days and dates. \"the afternoon\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-wb-110",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"on\" means on top of: the phone is on the floor.",
+      "bank": [
+        "under",
+        "in",
+        "on"
+      ],
+      "text": "The phone is ___ the floor. (= on top of the floor)",
+      "answers": [
+        "on"
+      ],
+      "wrongReasons": {
+        "under": "\"under\" means below something. Here the phone is on top of the floor.",
+        "in": "\"in\" means inside something. Here the phone is on top of the floor."
+      }
+    },
+    {
+      "id": "a1-wb-111",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"in\" means inside: the apple is in the room.",
+      "bank": [
+        "in",
+        "under",
+        "behind"
+      ],
+      "text": "The apple is ___ the room. (= inside the room)",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "under": "\"under\" means below something. Here the apple is inside the room.",
+        "behind": "\"behind\" means at the back of something. Here the apple is inside the room."
+      }
+    },
+    {
+      "id": "a1-wb-112",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"in\" means inside: the ball is in the cup.",
+      "bank": [
+        "on",
+        "behind",
+        "in"
+      ],
+      "text": "The ball is ___ the cup. (= inside the cup)",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "on": "\"on\" means touching the top of a surface. Here the ball is inside the cup.",
+        "behind": "\"behind\" means at the back of something. Here the ball is inside the cup."
+      }
+    },
+    {
+      "id": "a1-wb-113",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"in front of\" means at the front of: the phone is in front of the bus.",
+      "bank": [
+        "on",
+        "behind",
+        "in front of"
+      ],
+      "text": "The phone is ___ the bus. (= at the front of the bus)",
+      "answers": [
+        "in front of"
+      ],
+      "wrongReasons": {
+        "on": "\"on\" means touching the top of a surface. Here the phone is at the front of the bus.",
+        "behind": "\"behind\" means at the back of something. Here the phone is at the front of the bus."
+      }
+    },
+    {
+      "id": "a1-wb-114",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: I call my friend in December.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "I call my friend ___ December.",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"December\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "on": "\"on\" is used with days and dates. \"December\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-wb-115",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"at\" with a clock time or a fixed time of the day: The shop opens at midnight.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "The shop opens ___ midnight.",
+      "answers": [
+        "at"
+      ],
+      "wrongReasons": {
+        "on": "\"on\" is used with days and dates. \"midnight\" is a clock time or a fixed time of the day, so we use \"at\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"midnight\" is a clock time or a fixed time of the day, so we use \"at\"."
+      }
+    },
+    {
+      "id": "a1-wb-116",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: I have a meeting in summer.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "I have a meeting ___ summer.",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"summer\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "on": "\"on\" is used with days and dates. \"summer\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-wb-117",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: They have a party in the afternoon.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "They have a party ___ the afternoon.",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"the afternoon\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "on": "\"on\" is used with days and dates. \"the afternoon\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-wb-118",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"behind\" means at the back of: the dog is behind the door.",
+      "bank": [
+        "under",
+        "on",
+        "behind"
+      ],
+      "text": "The dog is ___ the door. (= at the back of the door)",
+      "answers": [
+        "behind"
+      ],
+      "wrongReasons": {
+        "under": "\"under\" means below something. Here the dog is at the back of the door.",
+        "on": "\"on\" means touching the top of a surface. Here the dog is at the back of the door."
+      }
+    },
+    {
+      "id": "a1-wb-119",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a dog in the garden.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ a dog in the garden.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-120",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There are\" with plural nouns: There are three apples in the bag.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ three apples in the bag.",
+      "answers": [
+        "are"
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-121",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There are\" with plural nouns: There are two pens in my bag.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ two pens in my bag.",
+      "answers": [
+        "are"
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-122",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a school in my street.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ a school in my street.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-123",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is some salt on the table.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ some salt on the table.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-124",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is some money in my bag.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ some money in my bag.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-125",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is some tea in the cup.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ some tea in the cup.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-126",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There are\" with plural nouns: There are ten pens in the box.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ ten pens in the box.",
+      "answers": [
+        "are"
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-127",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a market in the town.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ a market in the town.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-128",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is an egg in the box.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ an egg in the box.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-129",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a mirror in the bathroom.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ a mirror in the bathroom.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-130",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There are\" with plural nouns: There are two windows in my room.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ two windows in my room.",
+      "answers": [
+        "are"
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-131",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a garden behind the house.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ a garden behind the house.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-132",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a shop at the corner.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ a shop at the corner.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-133",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There are\" with plural nouns: There are six boys on the bus.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ six boys on the bus.",
+      "answers": [
+        "are"
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-134",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a book on the desk.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ a book on the desk.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-135",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a cup on the table.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ a cup on the table.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "am": "\"am\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-wb-136",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Lily learns.",
+      "bank": [
+        "learn",
+        "learns",
+        "learning"
+      ],
+      "text": "Lily usually ___ French.",
+      "answers": [
+        "learns"
+      ],
+      "wrongReasons": {
+        "learn": "\"learn\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Lily\".",
+        "learning": "\"learning\" needs \"is\" before it. A routine uses the present simple: \"learns\"."
+      }
+    },
+    {
+      "id": "a1-wb-137",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: my mother plays.",
+      "bank": [
+        "play",
+        "plays",
+        "playing"
+      ],
+      "text": "My mother ___ tennis on Sundays.",
+      "answers": [
+        "plays"
+      ],
+      "wrongReasons": {
+        "play": "\"play\" is the base form. It is used with I, you, we, they and plural subjects, not with \"my mother\".",
+        "playing": "\"playing\" needs \"is\" before it. A routine uses the present simple: \"plays\"."
+      }
+    },
+    {
+      "id": "a1-wb-138",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Kate drinks.",
+      "bank": [
+        "drink",
+        "drinks",
+        "drinking"
+      ],
+      "text": "Kate always ___ milk.",
+      "answers": [
+        "drinks"
+      ],
+      "wrongReasons": {
+        "drink": "\"drink\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Kate\".",
+        "drinking": "\"drinking\" needs \"is\" before it. A routine uses the present simple: \"drinks\"."
+      }
+    },
+    {
+      "id": "a1-wb-139",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Emma reads.",
+      "bank": [
+        "read",
+        "reads",
+        "reading"
+      ],
+      "text": "Emma ___ a book every evening.",
+      "answers": [
+        "reads"
+      ],
+      "wrongReasons": {
+        "read": "\"read\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Emma\".",
+        "reading": "\"reading\" needs \"is\" before it. A routine uses the present simple: \"reads\"."
+      }
+    },
+    {
+      "id": "a1-wb-140",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: the girls drink.",
+      "bank": [
+        "drink",
+        "drinks",
+        "drinking"
+      ],
+      "text": "The girls usually ___ milk.",
+      "answers": [
+        "drink"
+      ],
+      "wrongReasons": {
+        "drinks": "\"drinks\" is for he, she, it and one person or thing. With \"the girls\" we use the base form \"drink\".",
+        "drinking": "\"drinking\" needs \"are\" before it. A routine uses the present simple: \"drink\"."
+      }
+    },
+    {
+      "id": "a1-wb-141",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Eva plays.",
+      "bank": [
+        "play",
+        "plays",
+        "playing"
+      ],
+      "text": "Eva ___ the guitar every morning.",
+      "answers": [
+        "plays"
+      ],
+      "wrongReasons": {
+        "play": "\"play\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Eva\".",
+        "playing": "\"playing\" needs \"is\" before it. A routine uses the present simple: \"plays\"."
+      }
+    },
+    {
+      "id": "a1-wb-142",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Anna buys.",
+      "bank": [
+        "buy",
+        "buys",
+        "buying"
+      ],
+      "text": "Anna usually ___ fruit at the market.",
+      "answers": [
+        "buys"
+      ],
+      "wrongReasons": {
+        "buy": "\"buy\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Anna\".",
+        "buying": "\"buying\" needs \"is\" before it. A routine uses the present simple: \"buys\"."
+      }
+    },
+    {
+      "id": "a1-wb-143",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Emma eats.",
+      "bank": [
+        "eat",
+        "eats",
+        "eating"
+      ],
+      "text": "Emma ___ breakfast on Sundays.",
+      "answers": [
+        "eats"
+      ],
+      "wrongReasons": {
+        "eat": "\"eat\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Emma\".",
+        "eating": "\"eating\" needs \"is\" before it. A routine uses the present simple: \"eats\"."
+      }
+    },
+    {
+      "id": "a1-wb-144",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: the children wait.",
+      "bank": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "text": "The children often ___ for the bus.",
+      "answers": [
+        "wait"
+      ],
+      "wrongReasons": {
+        "waits": "\"waits\" is for he, she, it and one person or thing. With \"the children\" we use the base form \"wait\".",
+        "waiting": "\"waiting\" needs \"are\" before it. A routine uses the present simple: \"wait\"."
+      }
+    },
+    {
+      "id": "a1-wb-145",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: the children open.",
+      "bank": [
+        "open",
+        "opens",
+        "opening"
+      ],
+      "text": "The children often ___ the door.",
+      "answers": [
+        "open"
+      ],
+      "wrongReasons": {
+        "opens": "\"opens\" is for he, she, it and one person or thing. With \"the children\" we use the base form \"open\".",
+        "opening": "\"opening\" needs \"are\" before it. A routine uses the present simple: \"open\"."
+      }
+    },
+    {
+      "id": "a1-wb-146",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Dan needs.",
+      "bank": [
+        "need",
+        "needs",
+        "does need"
+      ],
+      "text": "Dan ___ a new bag every day.",
+      "answers": [
+        "needs"
+      ],
+      "wrongReasons": {
+        "need": "\"need\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Dan\".",
+        "does need": "\"does need\" is used in questions and negatives. A positive sentence uses \"needs\"."
+      }
+    },
+    {
+      "id": "a1-wb-147",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Rosa reads.",
+      "bank": [
+        "read",
+        "reads",
+        "reading"
+      ],
+      "text": "Rosa often ___ the newspaper.",
+      "answers": [
+        "reads"
+      ],
+      "wrongReasons": {
+        "read": "\"read\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Rosa\".",
+        "reading": "\"reading\" needs \"is\" before it. A routine uses the present simple: \"reads\"."
+      }
+    },
+    {
+      "id": "a1-wb-148",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: The boys have long hair.",
+      "bank": [
+        "have",
+        "has",
+        "having"
+      ],
+      "text": "The boys ___ long hair.",
+      "answers": [
+        "have"
+      ],
+      "wrongReasons": {
+        "has": "\"has\" is only for he, she, it and one person. \"the boys\" needs \"have\".",
+        "having": "We do not use \"having\" like this to show what somebody owns. Use \"have\"."
+      }
+    },
+    {
+      "id": "a1-wb-149",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"has\" with he, she, it and one person: Mia has a good friend.",
+      "bank": [
+        "have",
+        "has",
+        "having"
+      ],
+      "text": "Mia ___ a good friend.",
+      "answers": [
+        "has"
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Mia\" needs \"has\".",
+        "having": "We do not use \"having\" like this to show what somebody owns. Use \"has\"."
+      }
+    },
+    {
+      "id": "a1-wb-150",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: Tom and Anna have a small garden.",
+      "bank": [
+        "have",
+        "has",
+        "having"
+      ],
+      "text": "Tom and Anna ___ a small garden.",
+      "answers": [
+        "have"
+      ],
+      "wrongReasons": {
+        "has": "\"has\" is only for he, she, it and one person. \"Tom and Anna\" needs \"have\".",
+        "having": "We do not use \"having\" like this to show what somebody owns. Use \"have\"."
+      }
+    },
+    {
+      "id": "a1-wb-151",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"has\" with he, she, it and one person: Sara has a nice teacher.",
+      "bank": [
+        "have",
+        "has",
+        "having"
+      ],
+      "text": "Sara ___ a nice teacher.",
+      "answers": [
+        "has"
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Sara\" needs \"has\".",
+        "having": "We do not use \"having\" like this to show what somebody owns. Use \"has\"."
+      }
+    },
+    {
+      "id": "a1-wb-152",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"has\" with he, she, it and one person: Tom has three cats.",
+      "bank": [
+        "have",
+        "has",
+        "having"
+      ],
+      "text": "Tom ___ three cats.",
+      "answers": [
+        "has"
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Tom\" needs \"has\".",
+        "having": "We do not use \"having\" like this to show what somebody owns. Use \"has\"."
+      }
+    },
+    {
+      "id": "a1-wb-153",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"has\" with he, she, it and one person: He has two good friends.",
+      "bank": [
+        "have",
+        "has",
+        "having"
+      ],
+      "text": "He ___ two good friends.",
+      "answers": [
+        "has"
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"he\" needs \"has\".",
+        "having": "We do not use \"having\" like this to show what somebody owns. Use \"has\"."
+      }
+    },
+    {
+      "id": "a1-wb-154",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: Ben and Lucy have a good friend.",
+      "bank": [
+        "have",
+        "has",
+        "having"
+      ],
+      "text": "Ben and Lucy ___ a good friend.",
+      "answers": [
+        "have"
+      ],
+      "wrongReasons": {
+        "has": "\"has\" is only for he, she, it and one person. \"Ben and Lucy\" needs \"have\".",
+        "having": "We do not use \"having\" like this to show what somebody owns. Use \"have\"."
+      }
+    },
+    {
+      "id": "a1-wb-155",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"has\" with he, she, it and one person: Sam has a sister.",
+      "bank": [
+        "have",
+        "has",
+        "having"
+      ],
+      "text": "Sam ___ a sister.",
+      "answers": [
+        "has"
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Sam\" needs \"has\".",
+        "having": "We do not use \"having\" like this to show what somebody owns. Use \"has\"."
+      }
+    },
+    {
+      "id": "a1-wb-156",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"has\" with he, she, it and one person: My brother has a funny hat.",
+      "bank": [
+        "have",
+        "has",
+        "having"
+      ],
+      "text": "My brother ___ a funny hat.",
+      "answers": [
+        "has"
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"my brother\" needs \"has\".",
+        "having": "We do not use \"having\" like this to show what somebody owns. Use \"has\"."
+      }
+    },
+    {
+      "id": "a1-wb-157",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"has\" with he, she, it and one person: Dan has a good friend.",
+      "bank": [
+        "have",
+        "has",
+        "having"
+      ],
+      "text": "Dan ___ a good friend.",
+      "answers": [
+        "has"
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Dan\" needs \"has\".",
+        "having": "We do not use \"having\" like this to show what somebody owns. Use \"has\"."
+      }
+    },
+    {
+      "id": "a1-wb-158",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Who asks about a person: Who is that man?",
+      "bank": [
+        "Where",
+        "Who",
+        "Why"
+      ],
+      "text": "___ is that man? — He is my father.",
+      "answers": [
+        "Who"
+      ],
+      "wrongReasons": {
+        "where": "\"Where\" asks about a place, but the answer \"He is my father.\" is a person.",
+        "why": "\"Why\" asks about a reason, but the answer \"He is my father.\" is a person."
+      }
+    },
+    {
+      "id": "a1-wb-159",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "When asks about a time: When is the lesson?",
+      "bank": [
+        "Why",
+        "Where",
+        "When"
+      ],
+      "text": "___ is the lesson? — On Monday.",
+      "answers": [
+        "When"
+      ],
+      "wrongReasons": {
+        "why": "\"Why\" asks about a reason, but the answer \"On Monday.\" is a time.",
+        "where": "\"Where\" asks about a place, but the answer \"On Monday.\" is a time."
+      }
+    },
+    {
+      "id": "a1-wb-160",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Who asks about a person: Who cooks dinner at home?",
+      "bank": [
+        "Who",
+        "When",
+        "What"
+      ],
+      "text": "___ cooks dinner at home? — My mother.",
+      "answers": [
+        "Who"
+      ],
+      "wrongReasons": {
+        "when": "\"When\" asks about a time, but the answer \"My mother.\" is a person.",
+        "what": "\"What\" asks about a thing, but the answer \"My mother.\" is a person."
+      }
+    },
+    {
+      "id": "a1-wb-161",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Where asks about a place: Where is the station?",
+      "bank": [
+        "When",
+        "What",
+        "Where"
+      ],
+      "text": "___ is the station? — Next to the bank.",
+      "answers": [
+        "Where"
+      ],
+      "wrongReasons": {
+        "when": "\"When\" asks about a time, but the answer \"Next to the bank.\" is a place.",
+        "what": "\"What\" asks about a thing, but the answer \"Next to the bank.\" is a place."
+      }
+    },
+    {
+      "id": "a1-wb-162",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "When asks about a time: When does the shop close?",
+      "bank": [
+        "Why",
+        "What",
+        "When"
+      ],
+      "text": "___ does the shop close? — At six.",
+      "answers": [
+        "When"
+      ],
+      "wrongReasons": {
+        "why": "\"Why\" asks about a reason, but the answer \"At six.\" is a time.",
+        "what": "\"What\" asks about a thing, but the answer \"At six.\" is a time."
+      }
+    },
+    {
+      "id": "a1-wb-163",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Who asks about a person: Who is your best friend?",
+      "bank": [
+        "Who",
+        "Where",
+        "What"
+      ],
+      "text": "___ is your best friend? — Anna.",
+      "answers": [
+        "Who"
+      ],
+      "wrongReasons": {
+        "where": "\"Where\" asks about a place, but the answer \"Anna.\" is a person.",
+        "what": "\"What\" asks about a thing, but the answer \"Anna.\" is a person."
+      }
+    },
+    {
+      "id": "a1-wb-164",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Who asks about a person: Who is she?",
+      "bank": [
+        "What",
+        "Why",
+        "Who"
+      ],
+      "text": "___ is she? — She is my sister.",
+      "answers": [
+        "Who"
+      ],
+      "wrongReasons": {
+        "what": "\"What\" asks about a thing, but the answer \"She is my sister.\" is a person.",
+        "why": "\"Why\" asks about a reason, but the answer \"She is my sister.\" is a person."
+      }
+    },
+    {
+      "id": "a1-wb-165",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "When asks about a time: When do you have lunch?",
+      "bank": [
+        "Why",
+        "When",
+        "Where"
+      ],
+      "text": "___ do you have lunch? — At one o'clock.",
+      "answers": [
+        "When"
+      ],
+      "wrongReasons": {
+        "why": "\"Why\" asks about a reason, but the answer \"At one o'clock.\" is a time.",
+        "where": "\"Where\" asks about a place, but the answer \"At one o'clock.\" is a time."
+      }
+    },
+    {
+      "id": "a1-wb-166",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Why asks about a reason: Why are you happy?",
+      "bank": [
+        "Why",
+        "Where",
+        "When"
+      ],
+      "text": "___ are you happy? — Because it is my birthday.",
+      "answers": [
+        "Why"
+      ],
+      "wrongReasons": {
+        "where": "\"Where\" asks about a place, but the answer \"Because it is my birthday.\" is a reason.",
+        "when": "\"When\" asks about a time, but the answer \"Because it is my birthday.\" is a reason."
+      }
+    },
+    {
+      "id": "a1-wb-167",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "When asks about a time: When is your birthday?",
+      "bank": [
+        "When",
+        "Who",
+        "Why"
+      ],
+      "text": "___ is your birthday? — On 5 May.",
+      "answers": [
+        "When"
+      ],
+      "wrongReasons": {
+        "who": "\"Who\" asks about a person, but the answer \"On 5 May.\" is a time.",
+        "why": "\"Why\" asks about a reason, but the answer \"On 5 May.\" is a time."
+      }
+    },
+    {
+      "id": "a1-wb-168",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "What asks about a thing: What do you eat for breakfast?",
+      "bank": [
+        "What",
+        "Where",
+        "Why"
+      ],
+      "text": "___ do you eat for breakfast? — Bread and milk.",
+      "answers": [
+        "What"
+      ],
+      "wrongReasons": {
+        "where": "\"Where\" asks about a place, but the answer \"Bread and milk.\" is a thing.",
+        "why": "\"Why\" asks about a reason, but the answer \"Bread and milk.\" is a thing."
+      }
+    },
+    {
+      "id": "a1-wb-169",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "When asks about a time: When do you get up?",
+      "bank": [
+        "Where",
+        "Why",
+        "When"
+      ],
+      "text": "___ do you get up? — At seven.",
+      "answers": [
+        "When"
+      ],
+      "wrongReasons": {
+        "where": "\"Where\" asks about a place, but the answer \"At seven.\" is a time.",
+        "why": "\"Why\" asks about a reason, but the answer \"At seven.\" is a time."
+      }
+    },
+    {
+      "id": "a1-wb-170",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "What asks about a thing: What is your name?",
+      "bank": [
+        "When",
+        "Why",
+        "What"
+      ],
+      "text": "___ is your name? — Paul.",
+      "answers": [
+        "What"
+      ],
+      "wrongReasons": {
+        "when": "\"When\" asks about a time, but the answer \"Paul.\" is a thing.",
+        "why": "\"Why\" asks about a reason, but the answer \"Paul.\" is a thing."
+      }
+    },
+    {
+      "id": "a1-wb-171",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Why asks about a reason: Why is he late?",
+      "bank": [
+        "Where",
+        "Why",
+        "What"
+      ],
+      "text": "___ is he late? — Because the bus is late.",
+      "answers": [
+        "Why"
+      ],
+      "wrongReasons": {
+        "where": "\"Where\" asks about a place, but the answer \"Because the bus is late.\" is a reason.",
+        "what": "\"What\" asks about a thing, but the answer \"Because the bus is late.\" is a reason."
+      }
+    },
+    {
+      "id": "a1-wb-172",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Why asks about a reason: Why do you study English?",
+      "bank": [
+        "When",
+        "Why",
+        "Where"
+      ],
+      "text": "___ do you study English? — Because I like it.",
+      "answers": [
+        "Why"
+      ],
+      "wrongReasons": {
+        "when": "\"When\" asks about a time, but the answer \"Because I like it.\" is a reason.",
+        "where": "\"Where\" asks about a place, but the answer \"Because I like it.\" is a reason."
+      }
+    },
+    {
+      "id": "a1-wb-173",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In the present simple negative use doesn't + base verb: Maya doesn't speak French.",
+      "bank": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "text": "Maya ___ speak French.",
+      "answers": [
+        "doesn't"
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"Maya\" needs \"doesn't\".",
+        "isn't": "\"isn't\" goes with \"to be\" or an -ing verb, not with the base verb \"speak\". Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-wb-174",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In the present simple negative use don't + base verb: My parents don't make tea.",
+      "bank": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "text": "My parents ___ make tea.",
+      "answers": [
+        "don't"
+      ],
+      "wrongReasons": {
+        "doesn't": "\"doesn't\" is only for he, she, it and one person. \"my parents\" needs \"don't\".",
+        "isn't": "\"isn't\" goes with \"to be\" or an -ing verb, not with the base verb \"make\". Use \"don't\"."
+      }
+    },
+    {
+      "id": "a1-wb-175",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In the present simple negative use doesn't + base verb: Our teacher doesn't use a computer.",
+      "bank": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "text": "Our teacher ___ use a computer.",
+      "answers": [
+        "doesn't"
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"our teacher\" needs \"doesn't\".",
+        "isn't": "\"isn't\" goes with \"to be\" or an -ing verb, not with the base verb \"use\". Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-wb-176",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In the present simple negative use doesn't + base verb: My sister doesn't want some water.",
+      "bank": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "text": "My sister ___ want some water.",
+      "answers": [
+        "doesn't"
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"my sister\" needs \"doesn't\".",
+        "isn't": "\"isn't\" goes with \"to be\" or an -ing verb, not with the base verb \"want\". Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-wb-177",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In the present simple negative use don't + base verb: Sam and I don't clean the kitchen.",
+      "bank": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "text": "Sam and I ___ clean the kitchen.",
+      "answers": [
+        "don't"
+      ],
+      "wrongReasons": {
+        "doesn't": "\"doesn't\" is only for he, she, it and one person. \"Sam and I\" needs \"don't\".",
+        "isn't": "\"isn't\" goes with \"to be\" or an -ing verb, not with the base verb \"clean\". Use \"don't\"."
+      }
+    },
+    {
+      "id": "a1-wb-178",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In the present simple negative use doesn't + base verb: Lucy doesn't love chocolate.",
+      "bank": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "text": "Lucy ___ love chocolate.",
+      "answers": [
+        "doesn't"
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"Lucy\" needs \"doesn't\".",
+        "isn't": "\"isn't\" goes with \"to be\" or an -ing verb, not with the base verb \"love\". Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-wb-179",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In the present simple negative use doesn't + base verb: He doesn't jump on the bed.",
+      "bank": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "text": "He ___ jump on the bed.",
+      "answers": [
+        "doesn't"
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"he\" needs \"doesn't\".",
+        "isn't": "\"isn't\" goes with \"to be\" or an -ing verb, not with the base verb \"jump\". Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-wb-180",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In the present simple negative use don't + base verb: We don't study English.",
+      "bank": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "text": "We ___ study English.",
+      "answers": [
+        "don't"
+      ],
+      "wrongReasons": {
+        "doesn't": "\"doesn't\" is only for he, she, it and one person. \"we\" needs \"don't\".",
+        "isn't": "\"isn't\" goes with \"to be\" or an -ing verb, not with the base verb \"study\". Use \"don't\"."
+      }
+    },
+    {
+      "id": "a1-wb-181",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In the present simple negative use doesn't + base verb: Mark doesn't work in an office.",
+      "bank": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "text": "Mark ___ work in an office.",
+      "answers": [
+        "doesn't"
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"Mark\" needs \"doesn't\".",
+        "isn't": "\"isn't\" goes with \"to be\" or an -ing verb, not with the base verb \"work\". Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-wb-182",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In the present simple negative use doesn't + base verb: Nina doesn't want a new phone.",
+      "bank": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "text": "Nina ___ want a new phone.",
+      "answers": [
+        "doesn't"
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"Nina\" needs \"doesn't\".",
+        "isn't": "\"isn't\" goes with \"to be\" or an -ing verb, not with the base verb \"want\". Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-wb-183",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Most nouns just add -s: egg → eggs.",
+      "bank": [
+        "egg",
+        "egges",
+        "eggs"
+      ],
+      "text": "We can see three ___. (egg)",
+      "answers": [
+        "eggs"
+      ],
+      "wrongReasons": {
+        "egg": "\"egg\" is singular. After a number or \"many\" we need the plural: eggs.",
+        "egges": "\"egg\" does not take -es. Just add -s: eggs."
+      }
+    },
+    {
+      "id": "a1-wb-184",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After a vowel + y we just add -s: holiday → holidays.",
+      "bank": [
+        "holidays",
+        "holidayes",
+        "holiday"
+      ],
+      "text": "We can see three ___. (holiday)",
+      "answers": [
+        "holidays"
+      ],
+      "wrongReasons": {
+        "holidayes": "\"holiday\" does not take -es. Just add -s: holidays.",
+        "holiday": "\"holiday\" is singular. After a number or \"many\" we need the plural: holidays."
+      }
+    },
+    {
+      "id": "a1-wb-185",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: shelf → shelves.",
+      "bank": [
+        "shelfs",
+        "shelves",
+        "shelf"
+      ],
+      "text": "We can see three ___. (shelf)",
+      "answers": [
+        "shelves"
+      ],
+      "wrongReasons": {
+        "shelfs": "\"shelf\" changes to -ves in the plural: shelves.",
+        "shelf": "\"shelf\" is singular. After a number or \"many\" we need the plural: shelves."
+      }
+    },
+    {
+      "id": "a1-wb-186",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Most nouns just add -s: hand → hands.",
+      "bank": [
+        "hands",
+        "hand",
+        "handes"
+      ],
+      "text": "We can see three ___. (hand)",
+      "answers": [
+        "hands"
+      ],
+      "wrongReasons": {
+        "hand": "\"hand\" is singular. After a number or \"many\" we need the plural: hands.",
+        "handes": "\"hand\" does not take -es. Just add -s: hands."
+      }
+    },
+    {
+      "id": "a1-wb-187",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Most nouns just add -s: chair → chairs.",
+      "bank": [
+        "chaires",
+        "chair",
+        "chairs"
+      ],
+      "text": "We can see three ___. (chair)",
+      "answers": [
+        "chairs"
+      ],
+      "wrongReasons": {
+        "chaires": "\"chair\" does not take -es. Just add -s: chairs.",
+        "chair": "\"chair\" is singular. After a number or \"many\" we need the plural: chairs."
+      }
+    },
+    {
+      "id": "a1-wb-188",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Most nouns just add -s: car → cars.",
+      "bank": [
+        "cares",
+        "car",
+        "cars"
+      ],
+      "text": "We can see three ___. (car)",
+      "answers": [
+        "cars"
+      ],
+      "wrongReasons": {
+        "cares": "\"car\" does not take -es. Just add -s: cars.",
+        "car": "\"car\" is singular. After a number or \"many\" we need the plural: cars."
+      }
+    },
+    {
+      "id": "a1-wb-189",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"tooth\" is irregular. The plural is \"teeth\".",
+      "bank": [
+        "tooths",
+        "teeth",
+        "toothes"
+      ],
+      "text": "We can see three ___. (tooth)",
+      "answers": [
+        "teeth"
+      ],
+      "wrongReasons": {
+        "tooths": "\"tooth\" is irregular: the plural is \"teeth\", not \"tooths\".",
+        "toothes": "\"tooth\" has an irregular plural. It is \"teeth\"."
+      }
+    },
+    {
+      "id": "a1-wb-190",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Most nouns just add -s: cat → cats.",
+      "bank": [
+        "cats",
+        "cat",
+        "cates"
+      ],
+      "text": "We can see three ___. (cat)",
+      "answers": [
+        "cats"
+      ],
+      "wrongReasons": {
+        "cat": "\"cat\" is singular. After a number or \"many\" we need the plural: cats.",
+        "cates": "\"cat\" does not take -es. Just add -s: cats."
+      }
+    },
+    {
+      "id": "a1-wb-191",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"mouse\" is irregular. The plural is \"mice\".",
+      "bank": [
+        "mousees",
+        "mice",
+        "mouses"
+      ],
+      "text": "We can see three ___. (mouse)",
+      "answers": [
+        "mice"
+      ],
+      "wrongReasons": {
+        "mousees": "\"mouse\" has an irregular plural. It is \"mice\".",
+        "mouses": "\"mouse\" is irregular: the plural is \"mice\", not \"mouses\"."
+      }
+    },
+    {
+      "id": "a1-wb-192",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After a consonant + y, change y to -ies: baby → babies.",
+      "bank": [
+        "babyes",
+        "babies",
+        "babys"
+      ],
+      "text": "We can see three ___. (baby)",
+      "answers": [
+        "babies"
+      ],
+      "wrongReasons": {
+        "babyes": "The ending -yes is wrong. After a consonant + y use -ies: babies.",
+        "babys": "After a consonant + y, change y to -ies, not just add -s: babies."
+      }
+    },
+    {
+      "id": "a1-wb-193",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: class → classes.",
+      "bank": [
+        "classies",
+        "classes",
+        "classs"
+      ],
+      "text": "We can see three ___. (class)",
+      "answers": [
+        "classes"
+      ],
+      "wrongReasons": {
+        "classies": "-ies is only for nouns ending in a consonant + y. \"class\" adds -es: classes.",
+        "classs": "Nouns like \"class\" add -es, not just -s: classes."
+      }
+    },
+    {
+      "id": "a1-wb-194",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Most nouns just add -s: phone → phones.",
+      "bank": [
+        "phone",
+        "phones",
+        "phonees"
+      ],
+      "text": "We can see three ___. (phone)",
+      "answers": [
+        "phones"
+      ],
+      "wrongReasons": {
+        "phone": "\"phone\" is singular. After a number or \"many\" we need the plural: phones.",
+        "phonees": "\"phone\" does not take -es. Just add -s: phones."
+      }
+    },
+    {
+      "id": "a1-wb-195",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Most nouns just add -s: table → tables.",
+      "bank": [
+        "table",
+        "tablees",
+        "tables"
+      ],
+      "text": "We can see three ___. (table)",
+      "answers": [
+        "tables"
+      ],
+      "wrongReasons": {
+        "table": "\"table\" is singular. After a number or \"many\" we need the plural: tables.",
+        "tablees": "\"table\" does not take -es. Just add -s: tables."
+      }
+    },
+    {
+      "id": "a1-wb-196",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: glass → glasses.",
+      "bank": [
+        "glassies",
+        "glasss",
+        "glasses"
+      ],
+      "text": "We can see three ___. (glass)",
+      "answers": [
+        "glasses"
+      ],
+      "wrongReasons": {
+        "glassies": "-ies is only for nouns ending in a consonant + y. \"glass\" adds -es: glasses.",
+        "glasss": "Nouns like \"glass\" add -es, not just -s: glasses."
+      }
+    },
+    {
+      "id": "a1-wb-197",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: wolf → wolves.",
+      "bank": [
+        "wolfs",
+        "wolf",
+        "wolves"
+      ],
+      "text": "We can see three ___. (wolf)",
+      "answers": [
+        "wolves"
+      ],
+      "wrongReasons": {
+        "wolfs": "\"wolf\" changes to -ves in the plural: wolves.",
+        "wolf": "\"wolf\" is singular. After a number or \"many\" we need the plural: wolves."
+      }
+    },
+    {
+      "id": "a1-wb-198",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Most nouns just add -s: house → houses.",
+      "bank": [
+        "house",
+        "housees",
+        "houses"
+      ],
+      "text": "We can see three ___. (house)",
+      "answers": [
+        "houses"
+      ],
+      "wrongReasons": {
+        "house": "\"house\" is singular. After a number or \"many\" we need the plural: houses.",
+        "housees": "\"house\" does not take -es. Just add -s: houses."
+      }
+    },
+    {
+      "id": "a1-wb-199",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After a consonant + y, change y to -ies: party → parties.",
+      "bank": [
+        "partys",
+        "partyes",
+        "parties"
+      ],
+      "text": "We can see three ___. (party)",
+      "answers": [
+        "parties"
+      ],
+      "wrongReasons": {
+        "partys": "After a consonant + y, change y to -ies, not just add -s: parties.",
+        "partyes": "The ending -yes is wrong. After a consonant + y use -ies: parties."
+      }
+    },
+    {
+      "id": "a1-wb-200",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Most nouns just add -s: flower → flowers.",
+      "bank": [
+        "floweres",
+        "flower",
+        "flowers"
+      ],
+      "text": "We can see three ___. (flower)",
+      "answers": [
+        "flowers"
+      ],
+      "wrongReasons": {
+        "floweres": "\"flower\" does not take -es. Just add -s: flowers.",
+        "flower": "\"flower\" is singular. After a number or \"many\" we need the plural: flowers."
+      }
     }
   ]
 }

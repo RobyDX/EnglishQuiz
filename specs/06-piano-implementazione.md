@@ -34,7 +34,7 @@ Ordine: multiple-choice → verb-form → fill-blank → verb-conjugate → word
 Dettagli e quote in `07-contenuti.md`. Per ogni livello: scrivere i lotti per tipologia, validare, revisionare a campione.
 - [x] Infrastruttura: `src/data/index.ts`, `data.test.ts` (schema, duplicati, inglese, quote con `CHECK_QUOTAS=1`)
 - [x] Set di prova: 178 domande (A1 46, A2 36, B1 30, B2 28, C1 22, C2 16), tutte le tipologie coperte. Da espandere a 2000 per livello.
-- [ ] A1 – 2000 domande
+- [x] A1 – 2000 domande (2000/2000, quote di `07-contenuti.md` rispettate per ogni tipologia; argomenti tra 5,0% e 9,0%, tranne `reading` 6,8% e pochi argomenti residui del set di prova)
 - [ ] A2 – 2000 domande
 - [x] B1 – 2000 domande (2000/2000, quote di `07-contenuti.md` rispettate per ogni tipologia; argomenti tra 5,0% e 10,8%, tranne `frequency` 2,7%, `collocations` 1,6% e `grammar` 0,8%, che sono argomenti stretti di pochi tipi)
   - [x] Lotto 1: +1970 domande (mc 213, vf 163, fb 213, vc 183, wb 98, pw 133, wo 113, tr 133, es 133, ec 133, mp 98, oo 48, sc 98, rm 113, tf 98); testi di lettura 85–145 parole

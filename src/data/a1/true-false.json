@@ -70,6 +70,3042 @@
           "answer": false
         }
       ]
+    },
+    {
+      "id": "a1-tf-004",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "passage": "Mia is ten years old. She has a small brown dog called Max. Every morning she walks with Max in the park. In the evening Max sleeps on her bed.",
+      "statements": [
+        {
+          "text": "Mia is eleven years old.",
+          "answer": false
+        },
+        {
+          "text": "Max is a small dog.",
+          "answer": true
+        },
+        {
+          "text": "Max sleeps on the sofa.",
+          "answer": false
+        }
+      ],
+      "explanation": "The text says: \"ten years old\", \"a small brown dog\", \"sleeps on her bed\"."
+    },
+    {
+      "id": "a1-tf-005",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "passage": "We live in a small house near the sea. There are three rooms and a garden. My sister and I play in the garden after school. We do not have a car, so we walk to school.",
+      "statements": [
+        {
+          "text": "The house is near the sea.",
+          "answer": true
+        },
+        {
+          "text": "They have a car.",
+          "answer": false
+        },
+        {
+          "text": "The children play in the garden.",
+          "answer": true
+        }
+      ],
+      "explanation": "The text says: \"near the sea\", \"do not have a car\", \"play in the garden\"."
+    },
+    {
+      "id": "a1-tf-006",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "passage": "Ben works in a restaurant. He starts at ten in the morning. He makes pasta and salad. On Sundays he does not work, and he plays tennis with his father.",
+      "statements": [
+        {
+          "text": "Ben works in a shop.",
+          "answer": false
+        },
+        {
+          "text": "He works on Sundays.",
+          "answer": false
+        },
+        {
+          "text": "He plays tennis with his father.",
+          "answer": true
+        }
+      ],
+      "explanation": "The text says: \"in a restaurant\", \"does not work\" on Sundays, \"plays tennis with his father\"."
+    },
+    {
+      "id": "a1-tf-007",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I have a grey cat\", \"I am from Italy\", \"I like cycling and swimming\".",
+      "passage": "My name is Paul. I am fourteen years old. I am from Italy. I live in a small house with my brother and my father. I have a grey cat. I like cycling and swimming.",
+      "statements": [
+        {
+          "text": "Paul has a black cat.",
+          "answer": false
+        },
+        {
+          "text": "Paul is from Italy.",
+          "answer": true
+        },
+        {
+          "text": "Paul likes music.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-008",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The school is in front of the library\", \"there is a hospital, a café and a park\", \"There are two shops in the main street\".",
+      "passage": "Jack lives in a small town. In the town there is a hospital, a café and a park. The hospital is next to the bakery. The school is in front of the library. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "The school is in front of the library.",
+          "answer": true
+        },
+        {
+          "text": "There is a museum in the town.",
+          "answer": false
+        },
+        {
+          "text": "There are five shops in the main street.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-009",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I like dancing and swimming\", \"I am from Brazil\", \"with my sister and my mother\".",
+      "passage": "My name is Mia. I am ten years old. I am from Brazil. I live in a small house with my sister and my mother. I have a yellow dog. I like dancing and swimming.",
+      "statements": [
+        {
+          "text": "Mia likes drawing.",
+          "answer": false
+        },
+        {
+          "text": "Mia is from Brazil.",
+          "answer": true
+        },
+        {
+          "text": "Mia lives with her sister and her mother.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-010",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a brown table\", \"There are five rooms in the house\", \"My room is next to the kitchen\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a brown table and five chairs. My room is next to the kitchen. We have a small garden. In the garden there is a little pond.",
+      "statements": [
+        {
+          "text": "The kitchen table is white.",
+          "answer": false
+        },
+        {
+          "text": "The house has four rooms.",
+          "answer": false
+        },
+        {
+          "text": "The narrator's room is next to the kitchen.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-011",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am from Ireland\", \"I like music and dancing\", \"with my grandmother and my sister\".",
+      "passage": "My name is Nina. I am fifteen years old. I am from Ireland. I live in a small house with my grandmother and my sister. I have a black rabbit. I like music and dancing.",
+      "statements": [
+        {
+          "text": "Nina is from Ireland.",
+          "answer": true
+        },
+        {
+          "text": "Nina likes tennis.",
+          "answer": false
+        },
+        {
+          "text": "Nina lives with her grandmother and her sister.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-012",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a library, a museum and a café\", \"The bakery is in front of the station\", \"There are five shops in the main street\".",
+      "passage": "Eva lives in a small town. In the town there is a library, a museum and a café. The library is next to the school. The bakery is in front of the station. There are five shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a hospital in the town.",
+          "answer": false
+        },
+        {
+          "text": "The bakery is in front of the station.",
+          "answer": true
+        },
+        {
+          "text": "There are two shops in the main street.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-013",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am from Mexico\", \"I am ten years old\", \"with my father and my grandfather\".",
+      "passage": "My name is Rosa. I am ten years old. I am from Mexico. I live in a small house with my father and my grandfather. I have a yellow horse. I like swimming and reading.",
+      "statements": [
+        {
+          "text": "Rosa is from Mexico.",
+          "answer": true
+        },
+        {
+          "text": "Rosa is thirteen years old.",
+          "answer": false
+        },
+        {
+          "text": "Rosa lives with her father and her sister.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-014",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a old garden\", \"There are two rooms in the house\", \"there is a grey table\".",
+      "passage": "Our house is in a quiet street. There are two rooms in the house. In the kitchen there is a grey table and four chairs. My room is upstairs. We have a old garden. In the garden there is a little pond.",
+      "statements": [
+        {
+          "text": "The garden is small.",
+          "answer": false
+        },
+        {
+          "text": "The house has three rooms.",
+          "answer": false
+        },
+        {
+          "text": "The kitchen table is grey.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-015",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a big garden\", \"four chairs\", \"there is a grey table\".",
+      "passage": "Our house is in a quiet street. There are four rooms in the house. In the kitchen there is a grey table and four chairs. My room is upstairs. We have a big garden. In the garden there is an old tree.",
+      "statements": [
+        {
+          "text": "The garden is big.",
+          "answer": true
+        },
+        {
+          "text": "There are two chairs in the kitchen.",
+          "answer": false
+        },
+        {
+          "text": "The kitchen table is white.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-016",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The market is in front of the museum\", \"there is a station, a café and a school\", \"The station is next to the hospital\".",
+      "passage": "Ravi lives in a small town. In the town there is a station, a café and a school. The station is next to the hospital. The market is in front of the museum. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "The market is behind the museum.",
+          "answer": false
+        },
+        {
+          "text": "There is a café in the town.",
+          "answer": true
+        },
+        {
+          "text": "The station is next to the market.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-017",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My room is on the second floor\", \"three chairs\", \"There are four rooms in the house\".",
+      "passage": "Our house is in a quiet street. There are four rooms in the house. In the kitchen there is a brown table and three chairs. My room is on the second floor. We have a big garden. In the garden there is a small swing.",
+      "statements": [
+        {
+          "text": "The narrator's room is at the back of the house.",
+          "answer": false
+        },
+        {
+          "text": "There are three chairs in the kitchen.",
+          "answer": true
+        },
+        {
+          "text": "The house has four rooms.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-018",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am thirteen years old\", \"with my grandmother and my sister\", \"I have a white cat\".",
+      "passage": "My name is Ravi. I am thirteen years old. I am from Italy. I live in a small house with my grandmother and my sister. I have a white cat. I like dancing and reading.",
+      "statements": [
+        {
+          "text": "Ravi is thirteen years old.",
+          "answer": true
+        },
+        {
+          "text": "Ravi lives with his grandmother and his sister.",
+          "answer": true
+        },
+        {
+          "text": "Ravi has a brown cat.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-019",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I like cycling and tennis\", \"I have a white rabbit\", \"I am thirteen years old\".",
+      "passage": "My name is Ben. I am thirteen years old. I am from Spain. I live in a small house with my grandfather and my brother. I have a white rabbit. I like cycling and tennis.",
+      "statements": [
+        {
+          "text": "Ben likes cycling.",
+          "answer": true
+        },
+        {
+          "text": "Ben has a brown rabbit.",
+          "answer": false
+        },
+        {
+          "text": "Ben is fourteen years old.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-020",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a café, a bank and a station\", \"The library is in front of the museum\", \"There are two shops in the main street\".",
+      "passage": "Omar lives in a small town. In the town there is a café, a bank and a station. The café is next to the hospital. The library is in front of the museum. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a bank in the town.",
+          "answer": true
+        },
+        {
+          "text": "The library is behind the museum.",
+          "answer": false
+        },
+        {
+          "text": "There are four shops in the main street.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-021",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The park is in front of the station\", \"There are two shops in the main street\", \"The library is next to the bank\".",
+      "passage": "Mark lives in a small town. In the town there is a library, a market and a bakery. The library is next to the bank. The park is in front of the station. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "The park is in front of the station.",
+          "answer": true
+        },
+        {
+          "text": "There are four shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The library is next to the bank.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-022",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My room is at the back of the house\", \"there is a white table\", \"four chairs\".",
+      "passage": "Our house is in a quiet street. There are three rooms in the house. In the kitchen there is a white table and four chairs. My room is at the back of the house. We have a new garden. In the garden there is a small swing.",
+      "statements": [
+        {
+          "text": "The narrator's room is at the back of the house.",
+          "answer": true
+        },
+        {
+          "text": "The kitchen table is black.",
+          "answer": false
+        },
+        {
+          "text": "There are two chairs in the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-023",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are three shops in the main street\", \"there is a park, a library and a station\", \"The museum is in front of the bank\".",
+      "passage": "Dan lives in a small town. In the town there is a park, a library and a station. The park is next to the school. The museum is in front of the bank. There are three shops in the main street.",
+      "statements": [
+        {
+          "text": "There are three shops in the main street.",
+          "answer": true
+        },
+        {
+          "text": "There is a café in the town.",
+          "answer": false
+        },
+        {
+          "text": "The museum is in front of the bank.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-024",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are three shops in the main street\", \"The museum is in front of the hospital\", \"there is a school, a café and a bakery\".",
+      "passage": "Eva lives in a small town. In the town there is a school, a café and a bakery. The school is next to the station. The museum is in front of the hospital. There are three shops in the main street.",
+      "statements": [
+        {
+          "text": "There are five shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The museum is behind the hospital.",
+          "answer": false
+        },
+        {
+          "text": "There is a café in the town.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-025",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My room is upstairs\", \"five chairs\", \"We have a new garden\".",
+      "passage": "Our house is in a quiet street. There are four rooms in the house. In the kitchen there is a white table and five chairs. My room is upstairs. We have a new garden. In the garden there is an old tree.",
+      "statements": [
+        {
+          "text": "The narrator's room is upstairs.",
+          "answer": true
+        },
+        {
+          "text": "There are two chairs in the kitchen.",
+          "answer": false
+        },
+        {
+          "text": "The garden is new.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-026",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am twelve years old\", \"with my sister and my father\", \"I am from Canada\".",
+      "passage": "My name is Leo. I am twelve years old. I am from Canada. I live in a small house with my sister and my father. I have a yellow rabbit. I like dancing and cycling.",
+      "statements": [
+        {
+          "text": "Leo is fourteen years old.",
+          "answer": false
+        },
+        {
+          "text": "Leo lives with his sister and his father.",
+          "answer": true
+        },
+        {
+          "text": "Leo is from Mexico.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-027",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a big garden\", \"There are three rooms in the house\", \"four chairs\".",
+      "passage": "Our house is in a quiet street. There are three rooms in the house. In the kitchen there is a black table and four chairs. My room is on the second floor. We have a big garden. In the garden there is a small swing.",
+      "statements": [
+        {
+          "text": "The garden is small.",
+          "answer": false
+        },
+        {
+          "text": "The house has three rooms.",
+          "answer": true
+        },
+        {
+          "text": "There are five chairs in the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-028",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I like cycling and tennis\", \"I am ten years old\", \"with my sister and my father\".",
+      "passage": "My name is Emma. I am ten years old. I am from Mexico. I live in a small house with my sister and my father. I have a orange horse. I like cycling and tennis.",
+      "statements": [
+        {
+          "text": "Emma likes cycling.",
+          "answer": true
+        },
+        {
+          "text": "Emma is twelve years old.",
+          "answer": false
+        },
+        {
+          "text": "Emma lives with her sister and her father.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-029",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are two shops in the main street\", \"The bank is in front of the park\", \"there is a library, a station and a hospital\".",
+      "passage": "Kate lives in a small town. In the town there is a library, a station and a hospital. The library is next to the school. The bank is in front of the park. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "There are three shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The bank is in front of the park.",
+          "answer": true
+        },
+        {
+          "text": "There is a station in the town.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-030",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The bank is in front of the bakery\", \"The market is next to the school\", \"there is a market, a café and a museum\".",
+      "passage": "Ivan lives in a small town. In the town there is a market, a café and a museum. The market is next to the school. The bank is in front of the bakery. There are four shops in the main street.",
+      "statements": [
+        {
+          "text": "The bank is behind the bakery.",
+          "answer": false
+        },
+        {
+          "text": "The market is next to the bank.",
+          "answer": false
+        },
+        {
+          "text": "There is a café in the town.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-031",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The bakery is next to the hospital\", \"The café is in front of the station\", \"There are four shops in the main street\".",
+      "passage": "Anna lives in a small town. In the town there is a bakery, a school and a park. The bakery is next to the hospital. The café is in front of the station. There are four shops in the main street.",
+      "statements": [
+        {
+          "text": "The bakery is next to the hospital.",
+          "answer": true
+        },
+        {
+          "text": "The café is in front of the station.",
+          "answer": true
+        },
+        {
+          "text": "There are five shops in the main street.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-032",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My room is on the second floor\", \"We have a old garden\", \"five chairs\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a black table and five chairs. My room is on the second floor. We have a old garden. In the garden there is a red table.",
+      "statements": [
+        {
+          "text": "The narrator's room is at the back of the house.",
+          "answer": false
+        },
+        {
+          "text": "The garden is old.",
+          "answer": true
+        },
+        {
+          "text": "There are two chairs in the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-033",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My room is at the back of the house\", \"There are five rooms in the house\", \"We have a big garden\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a orange table and four chairs. My room is at the back of the house. We have a big garden. In the garden there is a red table.",
+      "statements": [
+        {
+          "text": "The narrator's room is at the back of the house.",
+          "answer": true
+        },
+        {
+          "text": "The house has three rooms.",
+          "answer": false
+        },
+        {
+          "text": "The garden is old.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-034",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My room is next to the kitchen\", \"There are two rooms in the house\", \"five chairs\".",
+      "passage": "Our house is in a quiet street. There are two rooms in the house. In the kitchen there is a yellow table and five chairs. My room is next to the kitchen. We have a old garden. In the garden there are many flowers.",
+      "statements": [
+        {
+          "text": "The narrator's room is on the second floor.",
+          "answer": false
+        },
+        {
+          "text": "The house has two rooms.",
+          "answer": true
+        },
+        {
+          "text": "There are three chairs in the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-035",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"three chairs\", \"There are four rooms in the house\", \"there is a brown table\".",
+      "passage": "Our house is in a quiet street. There are four rooms in the house. In the kitchen there is a brown table and three chairs. My room is upstairs. We have a old garden. In the garden there is a red table.",
+      "statements": [
+        {
+          "text": "There are three chairs in the kitchen.",
+          "answer": true
+        },
+        {
+          "text": "The house has three rooms.",
+          "answer": false
+        },
+        {
+          "text": "The kitchen table is brown.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-036",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My room is at the back of the house\", \"five chairs\", \"there is a grey table\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a grey table and five chairs. My room is at the back of the house. We have a new garden. In the garden there is an old tree.",
+      "statements": [
+        {
+          "text": "The narrator's room is at the back of the house.",
+          "answer": true
+        },
+        {
+          "text": "There are three chairs in the kitchen.",
+          "answer": false
+        },
+        {
+          "text": "The kitchen table is yellow.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-037",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are two rooms in the house\", \"four chairs\", \"there is a brown table\".",
+      "passage": "Our house is in a quiet street. There are two rooms in the house. In the kitchen there is a brown table and four chairs. My room is upstairs. We have a small garden. In the garden there is a red table.",
+      "statements": [
+        {
+          "text": "The house has five rooms.",
+          "answer": false
+        },
+        {
+          "text": "There are four chairs in the kitchen.",
+          "answer": true
+        },
+        {
+          "text": "The kitchen table is black.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-038",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are two rooms in the house\", \"My room is next to the kitchen\", \"five chairs\".",
+      "passage": "Our house is in a quiet street. There are two rooms in the house. In the kitchen there is a yellow table and five chairs. My room is next to the kitchen. We have a old garden. In the garden there is a red table.",
+      "statements": [
+        {
+          "text": "The house has two rooms.",
+          "answer": true
+        },
+        {
+          "text": "The narrator's room is on the second floor.",
+          "answer": false
+        },
+        {
+          "text": "There are five chairs in the kitchen.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-039",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The station is next to the bakery\", \"There are four shops in the main street\", \"there is a station, a museum and a bank\".",
+      "passage": "Emma lives in a small town. In the town there is a station, a museum and a bank. The station is next to the bakery. The park is in front of the hospital. There are four shops in the main street.",
+      "statements": [
+        {
+          "text": "The station is next to the bakery.",
+          "answer": true
+        },
+        {
+          "text": "There are three shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "There is a market in the town.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-040",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The bank is next to the library\", \"there is a bank, a school and a park\", \"There are two shops in the main street\".",
+      "passage": "Hugo lives in a small town. In the town there is a bank, a school and a park. The bank is next to the library. The café is in front of the bakery. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "The bank is next to the bakery.",
+          "answer": false
+        },
+        {
+          "text": "There is a station in the town.",
+          "answer": false
+        },
+        {
+          "text": "There are two shops in the main street.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-041",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The hospital is next to the museum\", \"The market is in front of the station\", \"There are four shops in the main street\".",
+      "passage": "Ravi lives in a small town. In the town there is a hospital, a café and a park. The hospital is next to the museum. The market is in front of the station. There are four shops in the main street.",
+      "statements": [
+        {
+          "text": "The hospital is next to the museum.",
+          "answer": true
+        },
+        {
+          "text": "The market is behind the station.",
+          "answer": false
+        },
+        {
+          "text": "There are two shops in the main street.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-042",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a big garden\", \"four chairs\", \"My room is next to the kitchen\".",
+      "passage": "Our house is in a quiet street. There are four rooms in the house. In the kitchen there is a orange table and four chairs. My room is next to the kitchen. We have a big garden. In the garden there are many flowers.",
+      "statements": [
+        {
+          "text": "The garden is big.",
+          "answer": true
+        },
+        {
+          "text": "There are four chairs in the kitchen.",
+          "answer": true
+        },
+        {
+          "text": "The narrator's room is upstairs.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-043",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am from Canada\", \"with my grandmother and my father\", \"I am fifteen years old\".",
+      "passage": "My name is Ivan. I am fifteen years old. I am from Canada. I live in a small house with my grandmother and my father. I have a orange rabbit. I like dancing and cooking.",
+      "statements": [
+        {
+          "text": "Ivan is from Canada.",
+          "answer": true
+        },
+        {
+          "text": "Ivan lives with his grandmother and his mother.",
+          "answer": false
+        },
+        {
+          "text": "Ivan is fifteen years old.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-044",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are three shops in the main street\", \"The bank is in front of the park\", \"The museum is next to the hospital\".",
+      "passage": "Rosa lives in a small town. In the town there is a museum, a bakery and a station. The museum is next to the hospital. The bank is in front of the park. There are three shops in the main street.",
+      "statements": [
+        {
+          "text": "There are two shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The bank is in front of the park.",
+          "answer": true
+        },
+        {
+          "text": "The museum is next to the station.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-045",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are two shops in the main street\", \"The museum is in front of the hospital\", \"The bank is next to the station\".",
+      "passage": "Maya lives in a small town. In the town there is a bank, a café and a school. The bank is next to the station. The museum is in front of the hospital. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "There are three shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The museum is in front of the hospital.",
+          "answer": true
+        },
+        {
+          "text": "The bank is next to the station.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-046",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a school, a market and a bank\", \"The school is next to the bakery\", \"The café is in front of the station\".",
+      "passage": "Ivan lives in a small town. In the town there is a school, a market and a bank. The school is next to the bakery. The café is in front of the station. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a market in the town.",
+          "answer": true
+        },
+        {
+          "text": "The school is next to the café.",
+          "answer": false
+        },
+        {
+          "text": "The café is behind the station.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-047",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a café, a park and a station\", \"The school is in front of the bank\", \"There are two shops in the main street\".",
+      "passage": "Rosa lives in a small town. In the town there is a café, a park and a station. The café is next to the museum. The school is in front of the bank. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a market in the town.",
+          "answer": false
+        },
+        {
+          "text": "The school is in front of the bank.",
+          "answer": true
+        },
+        {
+          "text": "There are five shops in the main street.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-048",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The station is in front of the library\", \"There are three shops in the main street\", \"there is a school, a park and a bakery\".",
+      "passage": "Ben lives in a small town. In the town there is a school, a park and a bakery. The school is next to the bank. The station is in front of the library. There are three shops in the main street.",
+      "statements": [
+        {
+          "text": "The station is behind the library.",
+          "answer": false
+        },
+        {
+          "text": "There are three shops in the main street.",
+          "answer": true
+        },
+        {
+          "text": "There is a café in the town.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-049",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am eleven years old\", \"I have a brown rabbit\", \"I am from Spain\".",
+      "passage": "My name is Zoe. I am eleven years old. I am from Spain. I live in a small house with my mother and my sister. I have a brown rabbit. I like music and reading.",
+      "statements": [
+        {
+          "text": "Zoe is eleven years old.",
+          "answer": true
+        },
+        {
+          "text": "Zoe has a white rabbit.",
+          "answer": false
+        },
+        {
+          "text": "Zoe is from Brazil.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-050",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The market is in front of the hospital\", \"There are two shops in the main street\", \"there is a station, a bank and a museum\".",
+      "passage": "Emma lives in a small town. In the town there is a station, a bank and a museum. The station is next to the library. The market is in front of the hospital. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "The market is in front of the hospital.",
+          "answer": true
+        },
+        {
+          "text": "There are three shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "There is a school in the town.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-051",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am from Brazil\", \"I like reading and tennis\", \"I have a brown bird\".",
+      "passage": "My name is Emma. I am thirteen years old. I am from Brazil. I live in a small house with my grandfather and my sister. I have a brown bird. I like reading and tennis.",
+      "statements": [
+        {
+          "text": "Emma is from Italy.",
+          "answer": false
+        },
+        {
+          "text": "Emma likes swimming.",
+          "answer": false
+        },
+        {
+          "text": "Emma has a brown bird.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-052",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am fourteen years old\", \"with my grandfather and my brother\", \"I am from Mexico\".",
+      "passage": "My name is Sara. I am fourteen years old. I am from Mexico. I live in a small house with my grandfather and my brother. I have a white bird. I like reading and dancing.",
+      "statements": [
+        {
+          "text": "Sara is fourteen years old.",
+          "answer": true
+        },
+        {
+          "text": "Sara lives with her grandfather and her mother.",
+          "answer": false
+        },
+        {
+          "text": "Sara is from Mexico.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-053",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a station, a park and a bank\", \"The station is next to the café\", \"The library is in front of the museum\".",
+      "passage": "Emma lives in a small town. In the town there is a station, a park and a bank. The station is next to the café. The library is in front of the museum. There are four shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a bakery in the town.",
+          "answer": false
+        },
+        {
+          "text": "The station is next to the café.",
+          "answer": true
+        },
+        {
+          "text": "The library is behind the museum.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-054",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a black table\", \"My room is at the back of the house\", \"We have a old garden\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a black table and four chairs. My room is at the back of the house. We have a old garden. In the garden there is an old tree.",
+      "statements": [
+        {
+          "text": "The kitchen table is yellow.",
+          "answer": false
+        },
+        {
+          "text": "The narrator's room is next to the kitchen.",
+          "answer": false
+        },
+        {
+          "text": "The garden is old.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-055",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I have a orange horse\", \"I like tennis and drawing\", \"with my brother and my sister\".",
+      "passage": "My name is Dan. I am ten years old. I am from Italy. I live in a small house with my brother and my sister. I have a orange horse. I like tennis and drawing.",
+      "statements": [
+        {
+          "text": "Dan has a black horse.",
+          "answer": false
+        },
+        {
+          "text": "Dan likes tennis.",
+          "answer": true
+        },
+        {
+          "text": "Dan lives with his brother and his sister.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-056",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a school, a hospital and a bank\", \"The station is in front of the museum\", \"The school is next to the park\".",
+      "passage": "Maya lives in a small town. In the town there is a school, a hospital and a bank. The school is next to the park. The station is in front of the museum. There are five shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a hospital in the town.",
+          "answer": true
+        },
+        {
+          "text": "The station is behind the museum.",
+          "answer": false
+        },
+        {
+          "text": "The school is next to the park.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-057",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I like cycling and reading\", \"I am from Japan\", \"I am ten years old\".",
+      "passage": "My name is Hugo. I am ten years old. I am from Japan. I live in a small house with my grandfather and my sister. I have a brown cat. I like cycling and reading.",
+      "statements": [
+        {
+          "text": "Hugo likes tennis.",
+          "answer": false
+        },
+        {
+          "text": "Hugo is from Italy.",
+          "answer": false
+        },
+        {
+          "text": "Hugo is ten years old.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-058",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a big garden\", \"There are three rooms in the house\", \"three chairs\".",
+      "passage": "Our house is in a quiet street. There are three rooms in the house. In the kitchen there is a black table and three chairs. My room is upstairs. We have a big garden. In the garden there are many flowers.",
+      "statements": [
+        {
+          "text": "The garden is big.",
+          "answer": true
+        },
+        {
+          "text": "The house has two rooms.",
+          "answer": false
+        },
+        {
+          "text": "There are two chairs in the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-059",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am from Italy\", \"I like dancing and tennis\", \"I have a white horse\".",
+      "passage": "My name is Sam. I am thirteen years old. I am from Italy. I live in a small house with my sister and my mother. I have a white horse. I like dancing and tennis.",
+      "statements": [
+        {
+          "text": "Sam is from Mexico.",
+          "answer": false
+        },
+        {
+          "text": "Sam likes dancing.",
+          "answer": true
+        },
+        {
+          "text": "Sam has a brown horse.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-060",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The library is in front of the park\", \"The bank is next to the hospital\", \"There are three shops in the main street\".",
+      "passage": "Lucy lives in a small town. In the town there is a bank, a museum and a school. The bank is next to the hospital. The library is in front of the park. There are three shops in the main street.",
+      "statements": [
+        {
+          "text": "The library is in front of the park.",
+          "answer": true
+        },
+        {
+          "text": "The bank is next to the park.",
+          "answer": false
+        },
+        {
+          "text": "There are two shops in the main street.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-061",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with my grandfather and my grandmother\", \"I like cooking and reading\", \"I am from Spain\".",
+      "passage": "My name is Maya. I am thirteen years old. I am from Spain. I live in a small house with my grandfather and my grandmother. I have a yellow cat. I like cooking and reading.",
+      "statements": [
+        {
+          "text": "Maya lives with her grandfather and her father.",
+          "answer": false
+        },
+        {
+          "text": "Maya likes swimming.",
+          "answer": false
+        },
+        {
+          "text": "Maya is from Spain.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-062",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I like football and dancing\", \"I am from Brazil\", \"I have a white dog\".",
+      "passage": "My name is Hugo. I am twelve years old. I am from Brazil. I live in a small house with my mother and my father. I have a white dog. I like football and dancing.",
+      "statements": [
+        {
+          "text": "Hugo likes music.",
+          "answer": false
+        },
+        {
+          "text": "Hugo is from Brazil.",
+          "answer": true
+        },
+        {
+          "text": "Hugo has a white dog.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-063",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a museum, a bank and a hospital\", \"There are five shops in the main street\", \"The museum is next to the station\".",
+      "passage": "Anna lives in a small town. In the town there is a museum, a bank and a hospital. The museum is next to the station. The park is in front of the café. There are five shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a bakery in the town.",
+          "answer": false
+        },
+        {
+          "text": "There are three shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The museum is next to the station.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-064",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My room is upstairs\", \"We have a old garden\", \"There are two rooms in the house\".",
+      "passage": "Our house is in a quiet street. There are two rooms in the house. In the kitchen there is a white table and four chairs. My room is upstairs. We have a old garden. In the garden there are many flowers.",
+      "statements": [
+        {
+          "text": "The narrator's room is upstairs.",
+          "answer": true
+        },
+        {
+          "text": "The garden is new.",
+          "answer": false
+        },
+        {
+          "text": "The house has two rooms.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-065",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with my father and my mother\", \"I have a orange fish\", \"I am from Japan\".",
+      "passage": "My name is Omar. I am twelve years old. I am from Japan. I live in a small house with my father and my mother. I have a orange fish. I like tennis and music.",
+      "statements": [
+        {
+          "text": "Omar lives with his father and his sister.",
+          "answer": false
+        },
+        {
+          "text": "Omar has a white fish.",
+          "answer": false
+        },
+        {
+          "text": "Omar is from Japan.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-066",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The school is next to the bank\", \"There are two shops in the main street\", \"The hospital is in front of the market\".",
+      "passage": "Sam lives in a small town. In the town there is a school, a library and a museum. The school is next to the bank. The hospital is in front of the market. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "The school is next to the market.",
+          "answer": false
+        },
+        {
+          "text": "There are two shops in the main street.",
+          "answer": true
+        },
+        {
+          "text": "The hospital is in front of the market.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-067",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a park, a station and a museum\", \"There are two shops in the main street\", \"The school is in front of the café\".",
+      "passage": "Ivan lives in a small town. In the town there is a park, a station and a museum. The park is next to the bakery. The school is in front of the café. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a station in the town.",
+          "answer": true
+        },
+        {
+          "text": "There are five shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The school is in front of the café.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-068",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The hospital is in front of the station\", \"There are two shops in the main street\", \"The museum is next to the school\".",
+      "passage": "Tom lives in a small town. In the town there is a museum, a bank and a park. The museum is next to the school. The hospital is in front of the station. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "The hospital is behind the station.",
+          "answer": false
+        },
+        {
+          "text": "There are two shops in the main street.",
+          "answer": true
+        },
+        {
+          "text": "The museum is next to the hospital.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-069",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The school is in front of the bakery\", \"there is a hospital, a bank and a café\", \"There are two shops in the main street\".",
+      "passage": "Mia lives in a small town. In the town there is a hospital, a bank and a café. The hospital is next to the station. The school is in front of the bakery. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "The school is behind the bakery.",
+          "answer": false
+        },
+        {
+          "text": "There is a bank in the town.",
+          "answer": true
+        },
+        {
+          "text": "There are four shops in the main street.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-070",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with my grandfather and my sister\", \"I am thirteen years old\", \"I like cycling and tennis\".",
+      "passage": "My name is Paul. I am thirteen years old. I am from Brazil. I live in a small house with my grandfather and my sister. I have a yellow dog. I like cycling and tennis.",
+      "statements": [
+        {
+          "text": "Paul lives with his grandfather and his sister.",
+          "answer": true
+        },
+        {
+          "text": "Paul is fourteen years old.",
+          "answer": false
+        },
+        {
+          "text": "Paul likes dancing.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-071",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a grey table\", \"My room is upstairs\", \"five chairs\".",
+      "passage": "Our house is in a quiet street. There are four rooms in the house. In the kitchen there is a grey table and five chairs. My room is upstairs. We have a old garden. In the garden there is a red table.",
+      "statements": [
+        {
+          "text": "The kitchen table is orange.",
+          "answer": false
+        },
+        {
+          "text": "The narrator's room is on the second floor.",
+          "answer": false
+        },
+        {
+          "text": "There are five chairs in the kitchen.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-072",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are five shops in the main street\", \"The park is next to the library\", \"there is a park, a museum and a bank\".",
+      "passage": "Anna lives in a small town. In the town there is a park, a museum and a bank. The park is next to the library. The café is in front of the market. There are five shops in the main street.",
+      "statements": [
+        {
+          "text": "There are five shops in the main street.",
+          "answer": true
+        },
+        {
+          "text": "The park is next to the library.",
+          "answer": true
+        },
+        {
+          "text": "There is a school in the town.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-073",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am fifteen years old\", \"I like cooking and drawing\", \"I am from Spain\".",
+      "passage": "My name is Eva. I am fifteen years old. I am from Spain. I live in a small house with my grandfather and my mother. I have a brown cat. I like cooking and drawing.",
+      "statements": [
+        {
+          "text": "Eva is seventeen years old.",
+          "answer": false
+        },
+        {
+          "text": "Eva likes cooking.",
+          "answer": true
+        },
+        {
+          "text": "Eva is from Australia.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-074",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a new garden\", \"There are five rooms in the house\", \"there is a white table\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a white table and two chairs. My room is next to the kitchen. We have a new garden. In the garden there is an old tree.",
+      "statements": [
+        {
+          "text": "The garden is new.",
+          "answer": true
+        },
+        {
+          "text": "The house has five rooms.",
+          "answer": true
+        },
+        {
+          "text": "The kitchen table is brown.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-075",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a new garden\", \"My room is upstairs\", \"three chairs\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a grey table and three chairs. My room is upstairs. We have a new garden. In the garden there is an old tree.",
+      "statements": [
+        {
+          "text": "The garden is small.",
+          "answer": false
+        },
+        {
+          "text": "The narrator's room is upstairs.",
+          "answer": true
+        },
+        {
+          "text": "There are five chairs in the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-076",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with my grandfather and my mother\", \"I am from Poland\", \"I like tennis and music\".",
+      "passage": "My name is Zoe. I am fourteen years old. I am from Poland. I live in a small house with my grandfather and my mother. I have a black bird. I like tennis and music.",
+      "statements": [
+        {
+          "text": "Zoe lives with her grandfather and her father.",
+          "answer": false
+        },
+        {
+          "text": "Zoe is from Australia.",
+          "answer": false
+        },
+        {
+          "text": "Zoe likes tennis.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-077",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a white table\", \"My room is next to the kitchen\", \"three chairs\".",
+      "passage": "Our house is in a quiet street. There are three rooms in the house. In the kitchen there is a white table and three chairs. My room is next to the kitchen. We have a small garden. In the garden there is an old tree.",
+      "statements": [
+        {
+          "text": "The kitchen table is brown.",
+          "answer": false
+        },
+        {
+          "text": "The narrator's room is upstairs.",
+          "answer": false
+        },
+        {
+          "text": "There are three chairs in the kitchen.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-078",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The station is next to the library\", \"The bank is in front of the bakery\", \"There are five shops in the main street\".",
+      "passage": "Leo lives in a small town. In the town there is a station, a café and a school. The station is next to the library. The bank is in front of the bakery. There are five shops in the main street.",
+      "statements": [
+        {
+          "text": "The station is next to the bakery.",
+          "answer": false
+        },
+        {
+          "text": "The bank is in front of the bakery.",
+          "answer": true
+        },
+        {
+          "text": "There are five shops in the main street.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-079",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The bakery is next to the market\", \"there is a bakery, a museum and a hospital\", \"There are two shops in the main street\".",
+      "passage": "Maya lives in a small town. In the town there is a bakery, a museum and a hospital. The bakery is next to the market. The park is in front of the school. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "The bakery is next to the market.",
+          "answer": true
+        },
+        {
+          "text": "There is a café in the town.",
+          "answer": false
+        },
+        {
+          "text": "There are two shops in the main street.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-080",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I have a brown rabbit\", \"with my grandfather and my father\", \"I am from Australia\".",
+      "passage": "My name is Emma. I am nine years old. I am from Australia. I live in a small house with my grandfather and my father. I have a brown rabbit. I like football and reading.",
+      "statements": [
+        {
+          "text": "Emma has a yellow rabbit.",
+          "answer": false
+        },
+        {
+          "text": "Emma lives with her grandfather and her father.",
+          "answer": true
+        },
+        {
+          "text": "Emma is from Australia.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-081",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am nine years old\", \"I have a brown rabbit\", \"I like dancing and swimming\".",
+      "passage": "My name is Zoe. I am nine years old. I am from Kenya. I live in a small house with my brother and my father. I have a brown rabbit. I like dancing and swimming.",
+      "statements": [
+        {
+          "text": "Zoe is nine years old.",
+          "answer": true
+        },
+        {
+          "text": "Zoe has a orange rabbit.",
+          "answer": false
+        },
+        {
+          "text": "Zoe likes football.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-082",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a small garden\", \"four chairs\", \"There are four rooms in the house\".",
+      "passage": "Our house is in a quiet street. There are four rooms in the house. In the kitchen there is a yellow table and four chairs. My room is on the second floor. We have a small garden. In the garden there is a little pond.",
+      "statements": [
+        {
+          "text": "The garden is old.",
+          "answer": false
+        },
+        {
+          "text": "There are four chairs in the kitchen.",
+          "answer": true
+        },
+        {
+          "text": "The house has four rooms.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-083",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a bank, a hospital and a café\", \"The bank is next to the museum\", \"The bakery is in front of the school\".",
+      "passage": "Sara lives in a small town. In the town there is a bank, a hospital and a café. The bank is next to the museum. The bakery is in front of the school. There are five shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a park in the town.",
+          "answer": false
+        },
+        {
+          "text": "The bank is next to the café.",
+          "answer": false
+        },
+        {
+          "text": "The bakery is in front of the school.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-084",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are five shops in the main street\", \"there is a bakery, a bank and a library\", \"The bakery is next to the school\".",
+      "passage": "Ivan lives in a small town. In the town there is a bakery, a bank and a library. The bakery is next to the school. The station is in front of the park. There are five shops in the main street.",
+      "statements": [
+        {
+          "text": "There are five shops in the main street.",
+          "answer": true
+        },
+        {
+          "text": "There is a market in the town.",
+          "answer": false
+        },
+        {
+          "text": "The bakery is next to the library.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-085",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are four rooms in the house\", \"My room is upstairs\", \"four chairs\".",
+      "passage": "Our house is in a quiet street. There are four rooms in the house. In the kitchen there is a grey table and four chairs. My room is upstairs. We have a small garden. In the garden there is a little pond.",
+      "statements": [
+        {
+          "text": "The house has two rooms.",
+          "answer": false
+        },
+        {
+          "text": "The narrator's room is upstairs.",
+          "answer": true
+        },
+        {
+          "text": "There are two chairs in the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-086",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I have a grey fish\", \"I am from Mexico\", \"I am thirteen years old\".",
+      "passage": "My name is Emma. I am thirteen years old. I am from Mexico. I live in a small house with my sister and my mother. I have a grey fish. I like dancing and reading.",
+      "statements": [
+        {
+          "text": "Emma has a grey fish.",
+          "answer": true
+        },
+        {
+          "text": "Emma is from Spain.",
+          "answer": false
+        },
+        {
+          "text": "Emma is fifteen years old.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-087",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with my brother and my grandfather\", \"I like cycling and swimming\", \"I am thirteen years old\".",
+      "passage": "My name is Eva. I am thirteen years old. I am from Australia. I live in a small house with my brother and my grandfather. I have a white dog. I like cycling and swimming.",
+      "statements": [
+        {
+          "text": "Eva lives with her brother and her father.",
+          "answer": false
+        },
+        {
+          "text": "Eva likes cycling.",
+          "answer": true
+        },
+        {
+          "text": "Eva is fifteen years old.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-088",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a bank, a museum and a school\", \"There are five shops in the main street\", \"The bank is next to the library\".",
+      "passage": "Ivan lives in a small town. In the town there is a bank, a museum and a school. The bank is next to the library. The park is in front of the station. There are five shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a museum in the town.",
+          "answer": true
+        },
+        {
+          "text": "There are three shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The bank is next to the library.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-089",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am from Mexico\", \"I am eleven years old\", \"I have a grey cat\".",
+      "passage": "My name is Zoe. I am eleven years old. I am from Mexico. I live in a small house with my mother and my brother. I have a grey cat. I like football and drawing.",
+      "statements": [
+        {
+          "text": "Zoe is from Italy.",
+          "answer": false
+        },
+        {
+          "text": "Zoe is eleven years old.",
+          "answer": true
+        },
+        {
+          "text": "Zoe has a orange cat.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-090",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are three shops in the main street\", \"The station is in front of the café\", \"there is a school, a museum and a bakery\".",
+      "passage": "Tom lives in a small town. In the town there is a school, a museum and a bakery. The school is next to the market. The station is in front of the café. There are three shops in the main street.",
+      "statements": [
+        {
+          "text": "There are five shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The station is behind the café.",
+          "answer": false
+        },
+        {
+          "text": "There is a museum in the town.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-091",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I have a brown bird\", \"with my mother and my father\", \"I like cycling and cooking\".",
+      "passage": "My name is Kate. I am twelve years old. I am from Japan. I live in a small house with my mother and my father. I have a brown bird. I like cycling and cooking.",
+      "statements": [
+        {
+          "text": "Kate has a grey bird.",
+          "answer": false
+        },
+        {
+          "text": "Kate lives with her mother and her father.",
+          "answer": true
+        },
+        {
+          "text": "Kate likes tennis.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-092",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The market is next to the park\", \"there is a market, a café and a library\", \"There are four shops in the main street\".",
+      "passage": "Sam lives in a small town. In the town there is a market, a café and a library. The market is next to the park. The station is in front of the hospital. There are four shops in the main street.",
+      "statements": [
+        {
+          "text": "The market is next to the park.",
+          "answer": true
+        },
+        {
+          "text": "There is a café in the town.",
+          "answer": true
+        },
+        {
+          "text": "There are two shops in the main street.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-093",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The station is next to the park\", \"there is a station, a museum and a library\", \"There are three shops in the main street\".",
+      "passage": "Dan lives in a small town. In the town there is a station, a museum and a library. The station is next to the park. The bank is in front of the hospital. There are three shops in the main street.",
+      "statements": [
+        {
+          "text": "The station is next to the hospital.",
+          "answer": false
+        },
+        {
+          "text": "There is a school in the town.",
+          "answer": false
+        },
+        {
+          "text": "There are three shops in the main street.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-094",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a white table\", \"There are two rooms in the house\", \"three chairs\".",
+      "passage": "Our house is in a quiet street. There are two rooms in the house. In the kitchen there is a white table and three chairs. My room is next to the kitchen. We have a big garden. In the garden there is a red table.",
+      "statements": [
+        {
+          "text": "The kitchen table is white.",
+          "answer": true
+        },
+        {
+          "text": "The house has four rooms.",
+          "answer": false
+        },
+        {
+          "text": "There are three chairs in the kitchen.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-095",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am ten years old\", \"I like swimming and music\", \"I am from Mexico\".",
+      "passage": "My name is Sara. I am ten years old. I am from Mexico. I live in a small house with my grandmother and my grandfather. I have a yellow horse. I like swimming and music.",
+      "statements": [
+        {
+          "text": "Sara is twelve years old.",
+          "answer": false
+        },
+        {
+          "text": "Sara likes swimming.",
+          "answer": true
+        },
+        {
+          "text": "Sara is from Mexico.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-096",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"three chairs\", \"There are five rooms in the house\", \"We have a new garden\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a grey table and three chairs. My room is upstairs. We have a new garden. In the garden there is a little pond.",
+      "statements": [
+        {
+          "text": "There are three chairs in the kitchen.",
+          "answer": true
+        },
+        {
+          "text": "The house has four rooms.",
+          "answer": false
+        },
+        {
+          "text": "The garden is big.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-097",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I like football and dancing\", \"I am nine years old\", \"with my grandfather and my grandmother\".",
+      "passage": "My name is Dan. I am nine years old. I am from Ireland. I live in a small house with my grandfather and my grandmother. I have a grey rabbit. I like football and dancing.",
+      "statements": [
+        {
+          "text": "Dan likes reading.",
+          "answer": false
+        },
+        {
+          "text": "Dan is nine years old.",
+          "answer": true
+        },
+        {
+          "text": "Dan lives with his grandfather and his grandmother.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-098",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are five rooms in the house\", \"there is a white table\", \"four chairs\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a white table and four chairs. My room is next to the kitchen. We have a old garden. In the garden there are many flowers.",
+      "statements": [
+        {
+          "text": "The house has five rooms.",
+          "answer": true
+        },
+        {
+          "text": "The kitchen table is orange.",
+          "answer": false
+        },
+        {
+          "text": "There are four chairs in the kitchen.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-099",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My room is on the second floor\", \"there is a white table\", \"We have a big garden\".",
+      "passage": "Our house is in a quiet street. There are three rooms in the house. In the kitchen there is a white table and four chairs. My room is on the second floor. We have a big garden. In the garden there is an old tree.",
+      "statements": [
+        {
+          "text": "The narrator's room is on the second floor.",
+          "answer": true
+        },
+        {
+          "text": "The kitchen table is grey.",
+          "answer": false
+        },
+        {
+          "text": "The garden is big.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-100",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a park, a hospital and a bank\", \"The park is next to the bakery\", \"There are three shops in the main street\".",
+      "passage": "Ravi lives in a small town. In the town there is a park, a hospital and a bank. The park is next to the bakery. The café is in front of the school. There are three shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a station in the town.",
+          "answer": false
+        },
+        {
+          "text": "The park is next to the bakery.",
+          "answer": true
+        },
+        {
+          "text": "There are three shops in the main street.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-101",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I have a white fish\", \"I am from Spain\", \"I like tennis and dancing\".",
+      "passage": "My name is Mia. I am thirteen years old. I am from Spain. I live in a small house with my sister and my brother. I have a white fish. I like tennis and dancing.",
+      "statements": [
+        {
+          "text": "Mia has a white fish.",
+          "answer": true
+        },
+        {
+          "text": "Mia is from Spain.",
+          "answer": true
+        },
+        {
+          "text": "Mia likes football.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-102",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I have a black bird\", \"I like cooking and football\", \"I am from Italy\".",
+      "passage": "My name is Ravi. I am ten years old. I am from Italy. I live in a small house with my grandmother and my sister. I have a black bird. I like cooking and football.",
+      "statements": [
+        {
+          "text": "Ravi has a black bird.",
+          "answer": true
+        },
+        {
+          "text": "Ravi likes dancing.",
+          "answer": false
+        },
+        {
+          "text": "Ravi is from Italy.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-103",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are five rooms in the house\", \"five chairs\", \"We have a big garden\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a orange table and five chairs. My room is upstairs. We have a big garden. In the garden there is a little pond.",
+      "statements": [
+        {
+          "text": "The house has four rooms.",
+          "answer": false
+        },
+        {
+          "text": "There are three chairs in the kitchen.",
+          "answer": false
+        },
+        {
+          "text": "The garden is big.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-104",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with my grandfather and my mother\", \"I am from Mexico\", \"I am nine years old\".",
+      "passage": "My name is Nina. I am nine years old. I am from Mexico. I live in a small house with my grandfather and my mother. I have a brown bird. I like cooking and reading.",
+      "statements": [
+        {
+          "text": "Nina lives with her grandfather and her brother.",
+          "answer": false
+        },
+        {
+          "text": "Nina is from Mexico.",
+          "answer": true
+        },
+        {
+          "text": "Nina is nine years old.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-105",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a old garden\", \"There are five rooms in the house\", \"there is a brown table\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a brown table and two chairs. My room is upstairs. We have a old garden. In the garden there is a red table.",
+      "statements": [
+        {
+          "text": "The garden is old.",
+          "answer": true
+        },
+        {
+          "text": "The house has three rooms.",
+          "answer": false
+        },
+        {
+          "text": "The kitchen table is brown.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-106",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I have a white fish\", \"I am from Australia\", \"I am ten years old\".",
+      "passage": "My name is Hugo. I am ten years old. I am from Australia. I live in a small house with my sister and my mother. I have a white fish. I like cooking and dancing.",
+      "statements": [
+        {
+          "text": "Hugo has a white fish.",
+          "answer": true
+        },
+        {
+          "text": "Hugo is from Poland.",
+          "answer": false
+        },
+        {
+          "text": "Hugo is thirteen years old.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-107",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with my mother and my brother\", \"I like cycling and drawing\", \"I have a grey dog\".",
+      "passage": "My name is Ravi. I am nine years old. I am from Mexico. I live in a small house with my mother and my brother. I have a grey dog. I like cycling and drawing.",
+      "statements": [
+        {
+          "text": "Ravi lives with his mother and his brother.",
+          "answer": true
+        },
+        {
+          "text": "Ravi likes cycling.",
+          "answer": true
+        },
+        {
+          "text": "Ravi has a black dog.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-108",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am from Canada\", \"with my father and my grandmother\", \"I have a orange cat\".",
+      "passage": "My name is Rosa. I am thirteen years old. I am from Canada. I live in a small house with my father and my grandmother. I have a orange cat. I like dancing and tennis.",
+      "statements": [
+        {
+          "text": "Rosa is from Poland.",
+          "answer": false
+        },
+        {
+          "text": "Rosa lives with her father and her mother.",
+          "answer": false
+        },
+        {
+          "text": "Rosa has a orange cat.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-109",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a new garden\", \"three chairs\", \"There are five rooms in the house\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a brown table and three chairs. My room is next to the kitchen. We have a new garden. In the garden there are many flowers.",
+      "statements": [
+        {
+          "text": "The garden is new.",
+          "answer": true
+        },
+        {
+          "text": "There are three chairs in the kitchen.",
+          "answer": true
+        },
+        {
+          "text": "The house has two rooms.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-110",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are four rooms in the house\", \"We have a small garden\", \"there is a orange table\".",
+      "passage": "Our house is in a quiet street. There are four rooms in the house. In the kitchen there is a orange table and two chairs. My room is next to the kitchen. We have a small garden. In the garden there is a little pond.",
+      "statements": [
+        {
+          "text": "The house has four rooms.",
+          "answer": true
+        },
+        {
+          "text": "The garden is new.",
+          "answer": false
+        },
+        {
+          "text": "The kitchen table is orange.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-111",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with my mother and my grandfather\", \"I am thirteen years old\", \"I like drawing and tennis\".",
+      "passage": "My name is Lucy. I am thirteen years old. I am from Poland. I live in a small house with my mother and my grandfather. I have a white rabbit. I like drawing and tennis.",
+      "statements": [
+        {
+          "text": "Lucy lives with her mother and her father.",
+          "answer": false
+        },
+        {
+          "text": "Lucy is thirteen years old.",
+          "answer": true
+        },
+        {
+          "text": "Lucy likes cycling.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-112",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are two rooms in the house\", \"We have a new garden\", \"My room is on the second floor\".",
+      "passage": "Our house is in a quiet street. There are two rooms in the house. In the kitchen there is a brown table and two chairs. My room is on the second floor. We have a new garden. In the garden there is a little pond.",
+      "statements": [
+        {
+          "text": "The house has two rooms.",
+          "answer": true
+        },
+        {
+          "text": "The garden is big.",
+          "answer": false
+        },
+        {
+          "text": "The narrator's room is upstairs.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-113",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with my sister and my brother\", \"I like drawing and football\", \"I am from Japan\".",
+      "passage": "My name is Ravi. I am eleven years old. I am from Japan. I live in a small house with my sister and my brother. I have a white horse. I like drawing and football.",
+      "statements": [
+        {
+          "text": "Ravi lives with his sister and his brother.",
+          "answer": true
+        },
+        {
+          "text": "Ravi likes drawing.",
+          "answer": true
+        },
+        {
+          "text": "Ravi is from Poland.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-114",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I like drawing and cooking\", \"I have a yellow rabbit\", \"I am nine years old\".",
+      "passage": "My name is Dan. I am nine years old. I am from Kenya. I live in a small house with my grandfather and my mother. I have a yellow rabbit. I like drawing and cooking.",
+      "statements": [
+        {
+          "text": "Dan likes drawing.",
+          "answer": true
+        },
+        {
+          "text": "Dan has a yellow rabbit.",
+          "answer": true
+        },
+        {
+          "text": "Dan is eleven years old.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-115",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The market is in front of the café\", \"The park is next to the hospital\", \"there is a park, a museum and a bank\".",
+      "passage": "Ravi lives in a small town. In the town there is a park, a museum and a bank. The park is next to the hospital. The market is in front of the café. There are four shops in the main street.",
+      "statements": [
+        {
+          "text": "The market is behind the café.",
+          "answer": false
+        },
+        {
+          "text": "The park is next to the café.",
+          "answer": false
+        },
+        {
+          "text": "There is a museum in the town.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-116",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"five chairs\", \"My room is on the second floor\", \"there is a white table\".",
+      "passage": "Our house is in a quiet street. There are three rooms in the house. In the kitchen there is a white table and five chairs. My room is on the second floor. We have a old garden. In the garden there is a small swing.",
+      "statements": [
+        {
+          "text": "There are two chairs in the kitchen.",
+          "answer": false
+        },
+        {
+          "text": "The narrator's room is on the second floor.",
+          "answer": true
+        },
+        {
+          "text": "The kitchen table is white.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-117",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I like swimming and dancing\", \"I am from Kenya\", \"I am fourteen years old\".",
+      "passage": "My name is Anna. I am fourteen years old. I am from Kenya. I live in a small house with my brother and my grandmother. I have a orange bird. I like swimming and dancing.",
+      "statements": [
+        {
+          "text": "Anna likes swimming.",
+          "answer": true
+        },
+        {
+          "text": "Anna is from Kenya.",
+          "answer": true
+        },
+        {
+          "text": "Anna is fifteen years old.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-118",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a small garden\", \"My room is next to the kitchen\", \"there is a black table\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a black table and four chairs. My room is next to the kitchen. We have a small garden. In the garden there are many flowers.",
+      "statements": [
+        {
+          "text": "The garden is old.",
+          "answer": false
+        },
+        {
+          "text": "The narrator's room is at the back of the house.",
+          "answer": false
+        },
+        {
+          "text": "The kitchen table is black.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-119",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I have a orange cat\", \"I like dancing and music\", \"with my brother and my grandmother\".",
+      "passage": "My name is Zoe. I am fifteen years old. I am from Kenya. I live in a small house with my brother and my grandmother. I have a orange cat. I like dancing and music.",
+      "statements": [
+        {
+          "text": "Zoe has a black cat.",
+          "answer": false
+        },
+        {
+          "text": "Zoe likes dancing.",
+          "answer": true
+        },
+        {
+          "text": "Zoe lives with her brother and her grandmother.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-120",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are three shops in the main street\", \"The station is in front of the school\", \"there is a park, a bank and a hospital\".",
+      "passage": "Lily lives in a small town. In the town there is a park, a bank and a hospital. The park is next to the bakery. The station is in front of the school. There are three shops in the main street.",
+      "statements": [
+        {
+          "text": "There are two shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The station is in front of the school.",
+          "answer": true
+        },
+        {
+          "text": "There is a bank in the town.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-121",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a park, a café and a library\", \"The market is in front of the bank\", \"There are five shops in the main street\".",
+      "passage": "Lucy lives in a small town. In the town there is a park, a café and a library. The park is next to the hospital. The market is in front of the bank. There are five shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a café in the town.",
+          "answer": true
+        },
+        {
+          "text": "The market is behind the bank.",
+          "answer": false
+        },
+        {
+          "text": "There are five shops in the main street.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-122",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The hospital is in front of the library\", \"The bakery is next to the bank\", \"There are two shops in the main street\".",
+      "passage": "Sara lives in a small town. In the town there is a bakery, a station and a market. The bakery is next to the bank. The hospital is in front of the library. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "The hospital is in front of the library.",
+          "answer": true
+        },
+        {
+          "text": "The bakery is next to the station.",
+          "answer": false
+        },
+        {
+          "text": "There are two shops in the main street.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-123",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a brown table\", \"We have a big garden\", \"My room is on the second floor\".",
+      "passage": "Our house is in a quiet street. There are four rooms in the house. In the kitchen there is a brown table and five chairs. My room is on the second floor. We have a big garden. In the garden there are many flowers.",
+      "statements": [
+        {
+          "text": "The kitchen table is brown.",
+          "answer": true
+        },
+        {
+          "text": "The garden is big.",
+          "answer": true
+        },
+        {
+          "text": "The narrator's room is next to the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-124",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"five chairs\", \"There are three rooms in the house\", \"We have a old garden\".",
+      "passage": "Our house is in a quiet street. There are three rooms in the house. In the kitchen there is a yellow table and five chairs. My room is at the back of the house. We have a old garden. In the garden there are many flowers.",
+      "statements": [
+        {
+          "text": "There are three chairs in the kitchen.",
+          "answer": false
+        },
+        {
+          "text": "The house has two rooms.",
+          "answer": false
+        },
+        {
+          "text": "The garden is old.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-125",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am thirteen years old\", \"I am from Japan\", \"I like music and dancing\".",
+      "passage": "My name is Rosa. I am thirteen years old. I am from Japan. I live in a small house with my grandfather and my mother. I have a black fish. I like music and dancing.",
+      "statements": [
+        {
+          "text": "Rosa is thirteen years old.",
+          "answer": true
+        },
+        {
+          "text": "Rosa is from Mexico.",
+          "answer": false
+        },
+        {
+          "text": "Rosa likes music.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-126",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a yellow table\", \"My room is next to the kitchen\", \"two chairs\".",
+      "passage": "Our house is in a quiet street. There are three rooms in the house. In the kitchen there is a yellow table and two chairs. My room is next to the kitchen. We have a old garden. In the garden there is a red table.",
+      "statements": [
+        {
+          "text": "The kitchen table is white.",
+          "answer": false
+        },
+        {
+          "text": "The narrator's room is next to the kitchen.",
+          "answer": true
+        },
+        {
+          "text": "There are three chairs in the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-127",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am fourteen years old\", \"I have a brown rabbit\", \"I am from Brazil\".",
+      "passage": "My name is Lucy. I am fourteen years old. I am from Brazil. I live in a small house with my grandfather and my brother. I have a brown rabbit. I like tennis and football.",
+      "statements": [
+        {
+          "text": "Lucy is fifteen years old.",
+          "answer": false
+        },
+        {
+          "text": "Lucy has a brown rabbit.",
+          "answer": true
+        },
+        {
+          "text": "Lucy is from Canada.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-128",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"four chairs\", \"There are five rooms in the house\", \"My room is at the back of the house\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a yellow table and four chairs. My room is at the back of the house. We have a new garden. In the garden there are many flowers.",
+      "statements": [
+        {
+          "text": "There are four chairs in the kitchen.",
+          "answer": true
+        },
+        {
+          "text": "The house has three rooms.",
+          "answer": false
+        },
+        {
+          "text": "The narrator's room is at the back of the house.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-129",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are two rooms in the house\", \"two chairs\", \"My room is upstairs\".",
+      "passage": "Our house is in a quiet street. There are two rooms in the house. In the kitchen there is a brown table and two chairs. My room is upstairs. We have a small garden. In the garden there is a little pond.",
+      "statements": [
+        {
+          "text": "The house has two rooms.",
+          "answer": true
+        },
+        {
+          "text": "There are two chairs in the kitchen.",
+          "answer": true
+        },
+        {
+          "text": "The narrator's room is next to the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-130",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I like swimming and tennis\", \"I am from Japan\", \"with my father and my brother\".",
+      "passage": "My name is Omar. I am fifteen years old. I am from Japan. I live in a small house with my father and my brother. I have a black rabbit. I like swimming and tennis.",
+      "statements": [
+        {
+          "text": "Omar likes reading.",
+          "answer": false
+        },
+        {
+          "text": "Omar is from Japan.",
+          "answer": true
+        },
+        {
+          "text": "Omar lives with his father and his brother.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-131",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My room is next to the kitchen\", \"two chairs\", \"There are four rooms in the house\".",
+      "passage": "Our house is in a quiet street. There are four rooms in the house. In the kitchen there is a yellow table and two chairs. My room is next to the kitchen. We have a new garden. In the garden there is an old tree.",
+      "statements": [
+        {
+          "text": "The narrator's room is on the second floor.",
+          "answer": false
+        },
+        {
+          "text": "There are two chairs in the kitchen.",
+          "answer": true
+        },
+        {
+          "text": "The house has three rooms.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-132",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are two rooms in the house\", \"We have a old garden\", \"there is a orange table\".",
+      "passage": "Our house is in a quiet street. There are two rooms in the house. In the kitchen there is a orange table and two chairs. My room is upstairs. We have a old garden. In the garden there are many flowers.",
+      "statements": [
+        {
+          "text": "The house has two rooms.",
+          "answer": true
+        },
+        {
+          "text": "The garden is old.",
+          "answer": true
+        },
+        {
+          "text": "The kitchen table is black.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-133",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"We have a old garden\", \"There are five rooms in the house\", \"four chairs\".",
+      "passage": "Our house is in a quiet street. There are five rooms in the house. In the kitchen there is a black table and four chairs. My room is on the second floor. We have a old garden. In the garden there is a little pond.",
+      "statements": [
+        {
+          "text": "The garden is old.",
+          "answer": true
+        },
+        {
+          "text": "The house has three rooms.",
+          "answer": false
+        },
+        {
+          "text": "There are four chairs in the kitchen.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-134",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"there is a park, a hospital and a school\", \"The park is next to the bakery\", \"The bank is in front of the library\".",
+      "passage": "Dan lives in a small town. In the town there is a park, a hospital and a school. The park is next to the bakery. The bank is in front of the library. There are two shops in the main street.",
+      "statements": [
+        {
+          "text": "There is a hospital in the town.",
+          "answer": true
+        },
+        {
+          "text": "The park is next to the bakery.",
+          "answer": true
+        },
+        {
+          "text": "The bank is behind the library.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-135",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I have a orange rabbit\", \"I like cycling and tennis\", \"with my mother and my brother\".",
+      "passage": "My name is Omar. I am fifteen years old. I am from Ireland. I live in a small house with my mother and my brother. I have a orange rabbit. I like cycling and tennis.",
+      "statements": [
+        {
+          "text": "Omar has a orange rabbit.",
+          "answer": true
+        },
+        {
+          "text": "Omar likes cycling.",
+          "answer": true
+        },
+        {
+          "text": "Omar lives with his mother and his grandfather.",
+          "answer": false
+        }
+      ]
     }
   ]
 }
