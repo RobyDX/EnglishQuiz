@@ -39,6 +39,277 @@
       ],
       "wrongIndex": 4,
       "fix": "did I"
+    },
+    {
+      "id": "c2-es-003",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "subjunctive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'demand/insist/suggest that', formal English uses the base form with no -s: They demanded that she leave.",
+      "tokens": [
+        "The",
+        "committee",
+        "demanded",
+        "that",
+        "he",
+        "resigns",
+        "immediately"
+      ],
+      "wrongIndex": 5,
+      "fix": "resign"
+    },
+    {
+      "id": "c2-es-004",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'Seldom' at the start of a sentence, put the auxiliary before the subject: Seldom have we seen such dedication.",
+      "tokens": [
+        "Seldom",
+        "we",
+        "have",
+        "seen",
+        "such",
+        "dedication",
+        "from",
+        "a",
+        "new",
+        "team"
+      ],
+      "wrongIndex": 1,
+      "fix": "have we"
+    },
+    {
+      "id": "c2-es-005",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "collocations",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We make a contribution 'to' something: He made a major contribution to science.",
+      "tokens": [
+        "She",
+        "made",
+        "a",
+        "significant",
+        "contribution",
+        "in",
+        "the",
+        "debate"
+      ],
+      "wrongIndex": 5,
+      "fix": "to"
+    },
+    {
+      "id": "c2-es-006",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For a past action after 'is thought', use the perfect passive infinitive: It is thought to have been built by the Romans.",
+      "tokens": [
+        "The",
+        "bridge",
+        "is",
+        "thought",
+        "to",
+        "be",
+        "built",
+        "by",
+        "the",
+        "Romans"
+      ],
+      "wrongIndex": 5,
+      "fix": "have been"
+    },
+    {
+      "id": "c2-es-007",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "cleft-sentences",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "When the focus is a singular noun, a 'What' cleft takes a singular verb: What I miss is the sea.",
+      "tokens": [
+        "What",
+        "surprised",
+        "me",
+        "most",
+        "were",
+        "the",
+        "silence",
+        "in",
+        "the",
+        "room"
+      ],
+      "wrongIndex": 4,
+      "fix": "was"
+    },
+    {
+      "id": "c2-es-008",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In an inverted third conditional, 'Had' is followed by the past participle: Had I known, I would have come.",
+      "tokens": [
+        "Had",
+        "I",
+        "knew",
+        "the",
+        "truth,",
+        "I",
+        "would",
+        "have",
+        "acted",
+        "differently"
+      ],
+      "wrongIndex": 2,
+      "fix": "known"
+    },
+    {
+      "id": "c2-es-009",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The verb 'affect' means to have an influence on; the verb 'effect' means to bring about: effect a change.",
+      "tokens": [
+        "The",
+        "new",
+        "policy",
+        "will",
+        "effect",
+        "thousands",
+        "of",
+        "workers"
+      ],
+      "wrongIndex": 4,
+      "fix": "affect"
+    },
+    {
+      "id": "c2-es-010",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Hardly … when' and 'No sooner … than' are fixed pairs: Hardly had we sat down when the lights went out.",
+      "tokens": [
+        "Hardly",
+        "had",
+        "we",
+        "arrived",
+        "than",
+        "it",
+        "started",
+        "to",
+        "rain"
+      ],
+      "wrongIndex": 4,
+      "fix": "when"
+    },
+    {
+      "id": "c2-es-011",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "subjunctive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'I'd rather' + another subject, use the past simple for the present or future: I'd rather you stayed.",
+      "tokens": [
+        "I'd",
+        "rather",
+        "you",
+        "don't",
+        "tell",
+        "anyone",
+        "about",
+        "this"
+      ],
+      "wrongIndex": 3,
+      "fix": "didn't"
+    },
+    {
+      "id": "c2-es-012",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The idiom is 'beat around (or about) the bush', always singular: Stop beating around the bush.",
+      "tokens": [
+        "Let's",
+        "stop",
+        "beating",
+        "around",
+        "the",
+        "bushes",
+        "and",
+        "decide"
+      ],
+      "wrongIndex": 4,
+      "fix": "bush"
+    },
+    {
+      "id": "c2-es-013",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After passive reporting verbs like 'is expected' or 'is due', use a to-infinitive; for a passive action, 'to be' + past participle: The film is expected to be released in May.",
+      "tokens": [
+        "The",
+        "results",
+        "are",
+        "expected",
+        "being",
+        "announced",
+        "tomorrow",
+        "morning"
+      ],
+      "wrongIndex": 4,
+      "fix": "to be"
+    },
+    {
+      "id": "c2-es-014",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The fixed phrase is 'on the spur of the moment', meaning suddenly, without planning.",
+      "tokens": [
+        "The",
+        "decision",
+        "was",
+        "taken",
+        "in",
+        "the",
+        "spur",
+        "of",
+        "the",
+        "moment"
+      ],
+      "wrongIndex": 4,
+      "fix": "on"
+    },
+    {
+      "id": "c2-es-015",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Carry out' means to do or complete a plan or task: The tests were carried out last week.",
+      "tokens": [
+        "The",
+        "plan",
+        "was",
+        "carried",
+        "down",
+        "without",
+        "any",
+        "serious",
+        "problems"
+      ],
+      "wrongIndex": 4,
+      "fix": "out"
     }
   ]
 }

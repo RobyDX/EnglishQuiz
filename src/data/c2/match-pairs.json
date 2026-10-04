@@ -53,6 +53,214 @@
           "right": "a misleading clue"
         }
       ]
+    },
+    {
+      "id": "c2-mp-003",
+      "type": "match-pairs",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "Match each idiom about how people act with its meaning.",
+      "explanation": "These idioms describe ways of acting; their meanings cannot be guessed from the separate words.",
+      "pairs": [
+        {
+          "left": "to bite the bullet",
+          "right": "to accept something unpleasant bravely"
+        },
+        {
+          "left": "to cut corners",
+          "right": "to do something cheaply or badly to save time"
+        },
+        {
+          "left": "to sit on the fence",
+          "right": "to avoid taking sides"
+        },
+        {
+          "left": "to jump the gun",
+          "right": "to act too soon"
+        }
+      ]
+    },
+    {
+      "id": "c2-mp-004",
+      "type": "match-pairs",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "Match each adjective with its meaning.",
+      "explanation": "These adjectives describe character: a gregarious person loves company, a taciturn one says little.",
+      "pairs": [
+        {
+          "left": "gregarious",
+          "right": "enjoying the company of others"
+        },
+        {
+          "left": "taciturn",
+          "right": "saying very little"
+        },
+        {
+          "left": "obstinate",
+          "right": "refusing to change your mind"
+        },
+        {
+          "left": "magnanimous",
+          "right": "generous towards a rival or someone who has hurt you"
+        }
+      ]
+    },
+    {
+      "id": "c2-mp-005",
+      "type": "match-pairs",
+      "level": "C2",
+      "topic": "register",
+      "prompt": "Match each formal verb with its everyday equivalent.",
+      "explanation": "Formal writing often uses longer verbs of Latin origin where everyday English uses short ones: commence = start.",
+      "pairs": [
+        {
+          "left": "commence",
+          "right": "start"
+        },
+        {
+          "left": "terminate",
+          "right": "end"
+        },
+        {
+          "left": "ascertain",
+          "right": "find out"
+        },
+        {
+          "left": "endeavour",
+          "right": "try"
+        }
+      ]
+    },
+    {
+      "id": "c2-mp-006",
+      "type": "match-pairs",
+      "level": "C2",
+      "topic": "phrasal-verbs",
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "Phrasal verbs often have meanings that are different from their parts: to stave off a crisis means to delay it.",
+      "pairs": [
+        {
+          "left": "to gloss over",
+          "right": "to treat something as unimportant to avoid discussing it"
+        },
+        {
+          "left": "to stave off",
+          "right": "to stop something bad from happening for a time"
+        },
+        {
+          "left": "to fob off",
+          "right": "to persuade someone to accept something inferior"
+        },
+        {
+          "left": "to egg on",
+          "right": "to encourage someone to do something unwise"
+        }
+      ]
+    },
+    {
+      "id": "c2-mp-007",
+      "type": "match-pairs",
+      "level": "C2",
+      "topic": "collocations",
+      "prompt": "Match each adjective with the noun it most naturally goes with.",
+      "explanation": "Collocations are word partners: a sweeping generalisation, a staunch supporter, a flagrant violation, a scathing review.",
+      "pairs": [
+        {
+          "left": "sweeping",
+          "right": "generalisation"
+        },
+        {
+          "left": "staunch",
+          "right": "supporter"
+        },
+        {
+          "left": "flagrant",
+          "right": "violation"
+        },
+        {
+          "left": "scathing",
+          "right": "review"
+        }
+      ]
+    },
+    {
+      "id": "c2-mp-008",
+      "type": "match-pairs",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "Match each verb of speaking with its meaning.",
+      "explanation": "Verbs of speaking show how something is said: to mumble is quiet and unclear, to rant is angry and long.",
+      "pairs": [
+        {
+          "left": "to mumble",
+          "right": "to speak quietly and unclearly"
+        },
+        {
+          "left": "to rant",
+          "right": "to speak angrily and at length"
+        },
+        {
+          "left": "to concede",
+          "right": "to admit unwillingly that something is true"
+        },
+        {
+          "left": "to insinuate",
+          "right": "to suggest something unpleasant indirectly"
+        }
+      ]
+    },
+    {
+      "id": "c2-mp-009",
+      "type": "match-pairs",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "Match each animal idiom with its meaning.",
+      "explanation": "Many English idioms use animals with a figurative meaning: a white elephant is a costly, useless possession.",
+      "pairs": [
+        {
+          "left": "a dark horse",
+          "right": "someone with hidden talents"
+        },
+        {
+          "left": "a white elephant",
+          "right": "an expensive but useless possession"
+        },
+        {
+          "left": "a wild goose chase",
+          "right": "a hopeless search"
+        },
+        {
+          "left": "the lion's share",
+          "right": "the largest part"
+        }
+      ]
+    },
+    {
+      "id": "c2-mp-010",
+      "type": "match-pairs",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "Match each word with its meaning. Be careful: the words look similar.",
+      "explanation": "Some word pairs look alike but differ in meaning: ingenious (clever) vs ingenuous (innocent), credible (believable) vs credulous (too trusting).",
+      "pairs": [
+        {
+          "left": "ingenious",
+          "right": "clever and original"
+        },
+        {
+          "left": "ingenuous",
+          "right": "innocent and too trusting"
+        },
+        {
+          "left": "credible",
+          "right": "able to be believed"
+        },
+        {
+          "left": "credulous",
+          "right": "too ready to believe things"
+        }
+      ]
     }
   ]
 }

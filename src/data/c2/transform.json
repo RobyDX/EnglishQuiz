@@ -29,6 +29,240 @@
       "solutions": [
         "did I realise"
       ]
+    },
+    {
+      "id": "c2-tr-003",
+      "type": "transform",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "'No sooner had + subject + past participle … than' means 'as soon as': No sooner had I sat down than the phone rang.",
+      "original": "As soon as he arrived, the problems started.",
+      "keyword": "SOONER",
+      "template": "No ___ than the problems started.",
+      "solutions": [
+        "sooner had he arrived"
+      ]
+    },
+    {
+      "id": "c2-tr-004",
+      "type": "transform",
+      "level": "C2",
+      "topic": "subjunctive",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "'Suggest' is followed by (that) + subject + base form, or by the -ing form: She suggested I apply.",
+      "original": "'You should apply for the job,' she said to me.",
+      "keyword": "SUGGESTED",
+      "template": "She ___ for the job.",
+      "solutions": [
+        "suggested that I apply",
+        "suggested I apply",
+        "suggested that I should apply",
+        "suggested I should apply",
+        "suggested applying",
+        "suggested my applying"
+      ]
+    },
+    {
+      "id": "c2-tr-005",
+      "type": "transform",
+      "level": "C2",
+      "topic": "cleft-sentences",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A 'What' cleft sentence puts the important information at the end: What I need is a rest.",
+      "original": "Her rudeness annoyed me most.",
+      "keyword": "WHAT",
+      "template": "___ her rudeness.",
+      "solutions": [
+        "What annoyed me most was",
+        "What annoyed me the most was"
+      ]
+    },
+    {
+      "id": "c2-tr-006",
+      "type": "transform",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "'A bitter pill to swallow' is something unpleasant that you have to accept.",
+      "original": "Selling the family house was a very hard thing for her to accept.",
+      "keyword": "PILL",
+      "template": "Selling the family house was a bitter ___ swallow.",
+      "solutions": [
+        "pill for her to",
+        "pill to"
+      ]
+    },
+    {
+      "id": "c2-tr-007",
+      "type": "transform",
+      "level": "C2",
+      "topic": "passive",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "For a past action after 'is said', use the perfect passive infinitive: The house is said to have been sold.",
+      "original": "People say that the castle was built in the twelfth century.",
+      "keyword": "SAID",
+      "template": "The castle ___ built in the twelfth century.",
+      "solutions": [
+        "is said to have been"
+      ]
+    },
+    {
+      "id": "c2-tr-008",
+      "type": "transform",
+      "level": "C2",
+      "topic": "conditionals",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "In formal English 'Should + subject + base form' can replace 'If': Should you have any questions, contact us.",
+      "original": "If you happen to need any help, just call me.",
+      "keyword": "SHOULD",
+      "template": "___ any help, just call me.",
+      "solutions": [
+        "Should you need"
+      ]
+    },
+    {
+      "id": "c2-tr-009",
+      "type": "transform",
+      "level": "C2",
+      "topic": "linkers",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "'Adjective + as + subject + verb' is a formal way to express contrast: Tired as she was, she kept working.",
+      "original": "Although he is very rich, he lives modestly.",
+      "keyword": "AS",
+      "template": "Rich ___, he lives modestly.",
+      "solutions": [
+        "as he is",
+        "as he may be"
+      ]
+    },
+    {
+      "id": "c2-tr-010",
+      "type": "transform",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "'Hit the roof' means to become very angry suddenly.",
+      "original": "The manager became extremely angry when he heard the news.",
+      "keyword": "ROOF",
+      "template": "The manager ___ when he heard the news.",
+      "solutions": [
+        "hit the roof",
+        "went through the roof"
+      ]
+    },
+    {
+      "id": "c2-tr-011",
+      "type": "transform",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "After 'On no account' at the start, put the modal before the subject: On no account should you tell her.",
+      "original": "You must not open this door at any time.",
+      "keyword": "ACCOUNT",
+      "template": "On ___ this door.",
+      "solutions": [
+        "no account must you open",
+        "no account should you open"
+      ]
+    },
+    {
+      "id": "c2-tr-012",
+      "type": "transform",
+      "level": "C2",
+      "topic": "subjunctive",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "'It's high time' + subject + past simple says that something should already be happening: It's high time you went to bed.",
+      "original": "We should really start thinking about the future now.",
+      "keyword": "HIGH",
+      "template": "It's ___ thinking about the future.",
+      "solutions": [
+        "high time we started",
+        "high time that we started"
+      ]
+    },
+    {
+      "id": "c2-tr-013",
+      "type": "transform",
+      "level": "C2",
+      "topic": "collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "'There is no basis for' something means that no facts support it.",
+      "original": "The rumours were completely untrue.",
+      "keyword": "BASIS",
+      "template": "There ___ the rumours.",
+      "solutions": [
+        "was no basis for",
+        "was absolutely no basis for",
+        "was no basis whatsoever for",
+        "was no basis at all for"
+      ]
+    },
+    {
+      "id": "c2-tr-014",
+      "type": "transform",
+      "level": "C2",
+      "topic": "cleft-sentences",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Use 'It was + person + who/that' to emphasise who did something: It was Anna who found the key.",
+      "original": "Tom broke the window, not Sam.",
+      "keyword": "IT",
+      "template": "___ broke the window, not Sam.",
+      "solutions": [
+        "It was Tom who",
+        "It was Tom that"
+      ]
+    },
+    {
+      "id": "c2-tr-015",
+      "type": "transform",
+      "level": "C2",
+      "topic": "conditionals",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A mixed conditional links a past condition to a present result: If I had studied medicine, I would be a doctor now.",
+      "original": "I didn't take the job, so I'm not living in Paris now.",
+      "keyword": "WOULD",
+      "template": "If I had taken the job, ___ in Paris now.",
+      "solutions": [
+        "I would be living",
+        "I'd be living",
+        "I would live",
+        "I'd live"
+      ]
+    },
+    {
+      "id": "c2-tr-016",
+      "type": "transform",
+      "level": "C2",
+      "topic": "register",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Formal English often uses 'be unable to' instead of 'cannot': We are unable to accept late entries.",
+      "original": "We regret that we cannot refund your ticket.",
+      "keyword": "UNABLE",
+      "template": "We regret ___ your ticket.",
+      "solutions": [
+        "that we are unable to refund",
+        "we are unable to refund",
+        "being unable to refund"
+      ]
+    },
+    {
+      "id": "c2-tr-017",
+      "type": "transform",
+      "level": "C2",
+      "topic": "linkers",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "'Owing to' + noun phrase means 'because of': The match was cancelled owing to the rain.",
+      "original": "The project failed because there was not enough funding.",
+      "keyword": "OWING",
+      "template": "The project failed ___ funding.",
+      "solutions": [
+        "owing to a lack of",
+        "owing to lack of",
+        "owing to insufficient",
+        "owing to a shortage of",
+        "owing to inadequate"
+      ]
     }
   ]
 }

@@ -33,6 +33,214 @@
         "Were I you, I would accept the offer.",
         "If I were you, I would accept the offer."
       ]
+    },
+    {
+      "id": "c2-ec-003",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "subjunctive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "A demand after 'insist that' uses the subjunctive (base form) or 'should' + base form: She insisted that he be told.",
+      "wrongReasons": {
+        "the lawyer insisted that his client is released at once": "This is a demand, not a fact, so formal English uses 'be' after 'insisted that'.",
+        "the lawyer insisted that his client was released at once": "'was released' reports a fact; a demand needs 'be released' or 'should be released'."
+      },
+      "wrong": "The lawyer insisted that his client is released at once.",
+      "solutions": [
+        "The lawyer insisted that his client be released at once.",
+        "The lawyer insisted that his client should be released at once."
+      ]
+    },
+    {
+      "id": "c2-ec-004",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After 'Only when' + clause at the start, the main clause needs inversion: Only when he left did I relax.",
+      "wrongReasons": {
+        "only when the lights went out we noticed the smell of smoke": "After 'Only when …' the main clause must be inverted: did we notice.",
+        "only when the lights went out did we noticed the smell of smoke": "After 'did', use the base form 'notice', not 'noticed'."
+      },
+      "wrong": "Only when the lights went out we noticed the smell of smoke.",
+      "solutions": [
+        "Only when the lights went out did we notice the smell of smoke."
+      ]
+    },
+    {
+      "id": "c2-ec-005",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "cleft-sentences",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In an 'It was … that' cleft, when the focus is a phrase like 'in 2010', use 'that': It was in Rome that they met.",
+      "wrongReasons": {
+        "it was in 2010 when the company was founded": "When the focus is a phrase with 'in', the cleft needs 'that', not 'when'."
+      },
+      "wrong": "It was in 2010 when the company was founded.",
+      "solutions": [
+        "It was in 2010 that the company was founded."
+      ]
+    },
+    {
+      "id": "c2-ec-006",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In the third conditional, the if-clause uses the past perfect, not 'would have': If she had called, I would have answered.",
+      "wrongReasons": {
+        "if i would have known, i would have helped you": "'would have' is not used in the if-clause; use the past perfect: If I had known.",
+        "if i knew, i would have helped you": "'knew' refers to the present; for the past use 'had known'."
+      },
+      "wrong": "If I would have known, I would have helped you.",
+      "solutions": [
+        "If I had known, I would have helped you.",
+        "Had I known, I would have helped you."
+      ]
+    },
+    {
+      "id": "c2-ec-007",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "passive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For a past action after 'is said', use the perfect infinitive: He is said to have left.",
+      "wrongReasons": {
+        "she is said to be won the award twice": "'to be won' is passive and makes no sense here; use 'to have won'.",
+        "she is said to has won the award twice": "After 'to' use the base form 'have', not 'has'."
+      },
+      "wrong": "She is said to be won the award twice.",
+      "solutions": [
+        "She is said to have won the award twice."
+      ]
+    },
+    {
+      "id": "c2-ec-008",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "collocations",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'On the verge of' is followed by a noun or an -ing form: on the verge of tears, on the verge of leaving.",
+      "wrongReasons": {
+        "the company is on the verge to collapse": "'On the verge of' is followed by a noun or -ing form, not 'to' + verb."
+      },
+      "wrong": "The company is on the verge to collapse.",
+      "solutions": [
+        "The company is on the verge of collapse.",
+        "The company is on the verge of collapsing."
+      ]
+    },
+    {
+      "id": "c2-ec-009",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "linkers",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Much as' already expresses contrast (= although), so the main clause does not need 'but': Much as I like her, I disagree.",
+      "wrongReasons": {
+        "much as i admire his work, but i cannot support his ideas": "'Much as' already expresses contrast, so do not add 'but' in the main clause."
+      },
+      "wrong": "Much as I admire his work, but I cannot support his ideas.",
+      "solutions": [
+        "Much as I admire his work, I cannot support his ideas."
+      ]
+    },
+    {
+      "id": "c2-ec-010",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Elicit' is a verb meaning to draw out a reaction or information; 'illicit' is an adjective meaning illegal.",
+      "wrongReasons": {
+        "the teacher tried to illicit a response from the shy student": "'illicit' is an adjective meaning illegal; the verb meaning 'draw out' is 'elicit'."
+      },
+      "wrong": "The teacher tried to illicit a response from the shy student.",
+      "solutions": [
+        "The teacher tried to elicit a response from the shy student."
+      ]
+    },
+    {
+      "id": "c2-ec-011",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In time clauses about the future, use the present simple after 'when': We'll decide when we get there.",
+      "wrongReasons": {
+        "we'll cross that bridge when we will come to it": "After 'when' referring to the future, use the present simple: when we come to it."
+      },
+      "wrong": "We'll cross that bridge when we will come to it.",
+      "solutions": [
+        "We'll cross that bridge when we come to it.",
+        "We will cross that bridge when we come to it."
+      ]
+    },
+    {
+      "id": "c2-ec-012",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After 'So' + adjective at the start, the verb comes before the subject: So strong was the wind that trees fell.",
+      "wrongReasons": {
+        "so difficult the exam was that half the students failed": "After 'So difficult' at the start, put the verb before the subject: was the exam."
+      },
+      "wrong": "So difficult the exam was that half the students failed.",
+      "solutions": [
+        "So difficult was the exam that half the students failed."
+      ]
+    },
+    {
+      "id": "c2-ec-013",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "subjunctive",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For a present situation we would like to be different, use 'wish' + past simple ('were' for all persons): I wish it were summer.",
+      "wrongReasons": {
+        "i wish you would be here with us now": "'wish … would' is for annoying habits or wanted changes; for a present state use 'were'.",
+        "i wish you are here with us now": "After 'wish' the verb moves back in time: 'are' becomes 'were'."
+      },
+      "wrong": "I wish you would be here with us now.",
+      "solutions": [
+        "I wish you were here with us now.",
+        "I wish you were with us here now."
+      ]
+    },
+    {
+      "id": "c2-ec-014",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "register",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The negative infinitive is 'not to + base form', which is the usual form in formal notices: Visitors are asked not to touch the exhibits.",
+      "wrongReasons": {
+        "we kindly ask you to don't use your phone during the performance": "'don't' cannot follow 'to'; the negative infinitive is 'not to use'.",
+        "we kindly ask you to not use your phone during the performance": "In formal notices 'not' goes before 'to': ask you not to use."
+      },
+      "wrong": "We kindly ask you to don't use your phone during the performance.",
+      "solutions": [
+        "We kindly ask you not to use your phone during the performance."
+      ]
+    },
+    {
+      "id": "c2-ec-015",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "phrasal-verbs",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Look down on' someone means to think you are better than them: She looks down on anyone without a degree.",
+      "wrongReasons": {
+        "he's always looking down at people who earn less than him": "'look down at' just means to look towards a lower place; the phrasal verb for feeling superior is 'look down on'."
+      },
+      "wrong": "He's always looking down at people who earn less than him.",
+      "solutions": [
+        "He's always looking down on people who earn less than him.",
+        "He is always looking down on people who earn less than him.",
+        "He's always looking down on people who earn less than he does."
+      ]
     }
   ]
 }
