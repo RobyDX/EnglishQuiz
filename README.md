@@ -12,7 +12,7 @@ npm install
 npm run dev       # dev server (or run dev.bat from the repository root)
 npm test          # unit + UI tests (Vitest)
 npm run lint      # type-check (tsc --noEmit)
-npm run build     # production build -> ../build
+npm run build     # production build -> ../build (or run build.bat from the repository root)
 npm run preview   # serve ../build locally
 npm run icons     # regenerate the app icons (British flag + "English Quiz")
 ```
