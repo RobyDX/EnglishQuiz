@@ -72,6 +72,2778 @@
       "answers": [
         "never"
       ]
+    },
+    {
+      "id": "a2-wb-004",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Regular verbs add -ed (or -d): dance → danced. Example: Leo danced at the party last year.",
+      "bank": [
+        "was dance",
+        "danceed",
+        "danced"
+      ],
+      "text": "Leo ___ at the party last year.",
+      "answers": [
+        "danced"
+      ],
+      "wrongReasons": {
+        "danceed": "Verbs ending in -e just add -d: danced.",
+        "was dance": "\"was\" cannot go before the base verb \"dance\". For a finished action we use \"danced\"."
+      }
+    },
+    {
+      "id": "a2-wb-005",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"feel\" is irregular: the past simple is \"felt\". Example: Paul felt very tired two days ago.",
+      "bank": [
+        "felt",
+        "feel",
+        "feels"
+      ],
+      "text": "Paul ___ very tired two days ago.",
+      "answers": [
+        "felt"
+      ],
+      "wrongReasons": {
+        "feels": "\"feels\" is the present simple. \"two days ago\" shows the past, so we use \"felt\".",
+        "feel": "\"feel\" is the base form. \"two days ago\" shows the past, so we use \"felt\"."
+      }
+    },
+    {
+      "id": "a2-wb-006",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"go\" is irregular: the past simple is \"went\". Example: Ben went to the cinema last night.",
+      "bank": [
+        "goed",
+        "goes",
+        "went"
+      ],
+      "text": "Ben ___ to the cinema last night.",
+      "answers": [
+        "went"
+      ],
+      "wrongReasons": {
+        "goed": "\"go\" is irregular. The past is \"went\", not \"goed\".",
+        "goes": "\"goes\" is the present simple. \"last night\" shows the past, so we use \"went\"."
+      }
+    },
+    {
+      "id": "a2-wb-007",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Regular verbs add -ed (or -d): play → played. Example: Mark played tennis last summer.",
+      "bank": [
+        "played",
+        "plays",
+        "play"
+      ],
+      "text": "Mark ___ tennis last summer.",
+      "answers": [
+        "played"
+      ],
+      "wrongReasons": {
+        "plays": "\"plays\" is the present simple. \"last summer\" shows the past, so we use \"played\".",
+        "play": "\"play\" is the base form. \"last summer\" shows the past, so we use \"played\"."
+      }
+    },
+    {
+      "id": "a2-wb-008",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"drive\" is irregular: the past simple is \"drove\". Example: We drove to the beach last summer.",
+      "bank": [
+        "were drive",
+        "drived",
+        "drove"
+      ],
+      "text": "We ___ to the beach last summer.",
+      "answers": [
+        "drove"
+      ],
+      "wrongReasons": {
+        "were drive": "\"were\" cannot go before the base verb \"drive\". For a finished action we use \"drove\".",
+        "drived": "\"drive\" is irregular. The past is \"drove\", not \"drived\"."
+      }
+    },
+    {
+      "id": "a2-wb-009",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"leave\" is irregular: the past simple is \"left\". Example: Ben left home at eight this morning.",
+      "bank": [
+        "leaved",
+        "leave",
+        "left"
+      ],
+      "text": "Ben ___ home at eight this morning.",
+      "answers": [
+        "left"
+      ],
+      "wrongReasons": {
+        "leaved": "\"leave\" is irregular. The past is \"left\", not \"leaved\".",
+        "leave": "\"leave\" is the base form. \"this morning\" shows the past, so we use \"left\"."
+      }
+    },
+    {
+      "id": "a2-wb-010",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"find\" is irregular: the past simple is \"found\". Example: Tom and Anna found a wallet last summer.",
+      "bank": [
+        "found",
+        "were find",
+        "finded"
+      ],
+      "text": "Tom and Anna ___ a wallet last summer.",
+      "answers": [
+        "found"
+      ],
+      "wrongReasons": {
+        "finded": "\"find\" is irregular. The past is \"found\", not \"finded\".",
+        "were find": "\"were\" cannot go before the base verb \"find\". For a finished action we use \"found\"."
+      }
+    },
+    {
+      "id": "a2-wb-011",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Regular verbs add -ed (or -d): work → worked. Example: Kate worked in a shop two days ago.",
+      "bank": [
+        "works",
+        "worked",
+        "was work"
+      ],
+      "text": "Kate ___ in a shop two days ago.",
+      "answers": [
+        "worked"
+      ],
+      "wrongReasons": {
+        "was work": "\"was\" cannot go before the base verb \"work\". For a finished action we use \"worked\".",
+        "works": "\"works\" is the present simple. \"two days ago\" shows the past, so we use \"worked\"."
+      }
+    },
+    {
+      "id": "a2-wb-012",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After didn't use the base verb: The boys didn't have a big lunch.",
+      "bank": [
+        "to have",
+        "had",
+        "have"
+      ],
+      "text": "The boys didn't ___ (have) a big lunch last night.",
+      "answers": [
+        "have"
+      ],
+      "wrongReasons": {
+        "to have": "After \"didn't\" we do not use \"to\". We use the base form: have.",
+        "had": "After \"didn't\" the verb stays in the base form: have, not \"had\"."
+      }
+    },
+    {
+      "id": "a2-wb-013",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In the past negative use didn't + base verb: Lucy didn't need some help.",
+      "bank": [
+        "wasn't",
+        "no",
+        "didn't"
+      ],
+      "text": "Lucy ___ need some help last night.",
+      "answers": [
+        "didn't"
+      ],
+      "wrongReasons": {
+        "no": "\"no\" cannot make a verb negative. We use \"didn't\".",
+        "wasn't": "\"wasn't\" is used with \"be\", not before the base verb \"need\". We use \"didn't\"."
+      }
+    },
+    {
+      "id": "a2-wb-014",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Past questions use Did + subject + base verb: Did my friends know the answer?",
+      "bank": [
+        "Were",
+        "Did",
+        "Does"
+      ],
+      "text": "___ my friends know the answer last year?",
+      "answers": [
+        "Did"
+      ],
+      "wrongReasons": {
+        "does": "\"Does\" is the present and does not agree with \"my friends\". For the past we use \"Did\".",
+        "were": "\"Were\" is used with \"be\", not before the base verb \"know\". We use \"Did\"."
+      }
+    },
+    {
+      "id": "a2-wb-015",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After didn't use the base verb: Nina didn't come to my party.",
+      "bank": [
+        "come",
+        "comes",
+        "came"
+      ],
+      "text": "Nina didn't ___ (come) to my party last week.",
+      "answers": [
+        "come"
+      ],
+      "wrongReasons": {
+        "comes": "After \"didn't\" the verb has no -s: come.",
+        "came": "After \"didn't\" the verb stays in the base form: come, not \"came\"."
+      }
+    },
+    {
+      "id": "a2-wb-016",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After didn't use the base verb: Our teacher didn't plan a trip.",
+      "bank": [
+        "planned",
+        "plan",
+        "plans"
+      ],
+      "text": "Our teacher didn't ___ (plan) a trip yesterday.",
+      "answers": [
+        "plan"
+      ],
+      "wrongReasons": {
+        "plans": "After \"didn't\" the verb has no -s: plan.",
+        "planned": "After \"didn't\" the verb stays in the base form: plan, not \"planned\"."
+      }
+    },
+    {
+      "id": "a2-wb-017",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After Did use the base verb: Did Emma plan a trip?",
+      "bank": [
+        "plans",
+        "to plan",
+        "plan"
+      ],
+      "text": "Did Emma ___ (plan) a trip last week?",
+      "answers": [
+        "plan"
+      ],
+      "wrongReasons": {
+        "to plan": "After \"Did\" we do not use \"to\". We use the base form: plan.",
+        "plans": "After \"Did\" the verb has no -s: plan."
+      }
+    },
+    {
+      "id": "a2-wb-018",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After Did use the base verb: Did she love the song?",
+      "bank": [
+        "loved",
+        "love",
+        "loves"
+      ],
+      "text": "Did she ___ (love) the song in 2019?",
+      "answers": [
+        "love"
+      ],
+      "wrongReasons": {
+        "loved": "After \"Did\" the verb stays in the base form: love, not \"loved\".",
+        "loves": "After \"Did\" the verb has no -s: love."
+      }
+    },
+    {
+      "id": "a2-wb-019",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After didn't use the base verb: Leo didn't drink orange juice.",
+      "bank": [
+        "drinks",
+        "drink",
+        "drank"
+      ],
+      "text": "Leo didn't ___ (drink) orange juice last week.",
+      "answers": [
+        "drink"
+      ],
+      "wrongReasons": {
+        "drinks": "After \"didn't\" the verb has no -s: drink.",
+        "drank": "After \"didn't\" the verb stays in the base form: drink, not \"drank\"."
+      }
+    },
+    {
+      "id": "a2-wb-020",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After Did use the base verb: Did Lily come to my party?",
+      "bank": [
+        "come",
+        "comes",
+        "to come"
+      ],
+      "text": "Did Lily ___ (come) to my party yesterday?",
+      "answers": [
+        "come"
+      ],
+      "wrongReasons": {
+        "to come": "After \"Did\" we do not use \"to\". We use the base form: come.",
+        "comes": "After \"Did\" the verb has no -s: come."
+      }
+    },
+    {
+      "id": "a2-wb-021",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After didn't use the base verb: He didn't buy a new phone.",
+      "bank": [
+        "buy",
+        "buys",
+        "bought"
+      ],
+      "text": "He didn't ___ (buy) a new phone last week.",
+      "answers": [
+        "buy"
+      ],
+      "wrongReasons": {
+        "buys": "After \"didn't\" the verb has no -s: buy.",
+        "bought": "After \"didn't\" the verb stays in the base form: buy, not \"bought\"."
+      }
+    },
+    {
+      "id": "a2-wb-022",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "was-were",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In questions \"was/were\" comes before the subject: Was Rosa hungry yesterday?",
+      "bank": [
+        "Is",
+        "Were",
+        "Was"
+      ],
+      "text": "___ Rosa hungry yesterday?",
+      "answers": [
+        "Was"
+      ],
+      "wrongReasons": {
+        "is": "\"Is\" is the present. \"yesterday\" shows the past, so we use \"Was\".",
+        "were": "\"Were\" is used with you, we, they and more than one person or thing. With \"Rosa\" we use \"was\"."
+      }
+    },
+    {
+      "id": "a2-wb-023",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "was-were",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In questions \"was/were\" comes before the subject: Was Ben hungry this morning?",
+      "bank": [
+        "Was",
+        "Is",
+        "Were"
+      ],
+      "text": "___ Ben hungry this morning?",
+      "answers": [
+        "Was"
+      ],
+      "wrongReasons": {
+        "is": "\"Is\" is the present. \"this morning\" shows the past, so we use \"Was\".",
+        "were": "\"Were\" is used with you, we, they and more than one person or thing. With \"Ben\" we use \"was\"."
+      }
+    },
+    {
+      "id": "a2-wb-024",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "was-were",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The negative of \"was/were\" is \"wasn't/weren't\": Emma wasn't tired last week.",
+      "bank": [
+        "isn't",
+        "wasn't",
+        "didn't"
+      ],
+      "text": "Emma ___ tired last week.",
+      "answers": [
+        "wasn't"
+      ],
+      "wrongReasons": {
+        "isn't": "\"isn't\" is the present. \"last week\" shows the past, so we use \"wasn't\".",
+        "didn't": "\"didn't\" is used before a base verb, not with \"be\". We say \"wasn't\"."
+      }
+    },
+    {
+      "id": "a2-wb-025",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "was-were",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In questions \"was/were\" comes before the subject: Was Sam at the beach on Monday?",
+      "bank": [
+        "Is",
+        "Was",
+        "Were"
+      ],
+      "text": "___ Sam at the beach on Monday?",
+      "answers": [
+        "Was"
+      ],
+      "wrongReasons": {
+        "were": "\"Were\" is used with you, we, they and more than one person or thing. With \"Sam\" we use \"was\".",
+        "is": "\"Is\" is the present. \"on Monday\" shows the past, so we use \"Was\"."
+      }
+    },
+    {
+      "id": "a2-wb-026",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "was-were",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The past of \"be\": was with I, he, she, it; were with you, we, they. Example: My parents were at the cinema last week.",
+      "bank": [
+        "be",
+        "were",
+        "was"
+      ],
+      "text": "My parents ___ at the cinema last week.",
+      "answers": [
+        "were"
+      ],
+      "wrongReasons": {
+        "be": "\"be\" alone cannot be the verb here. In the past we use \"were\".",
+        "was": "\"was\" is used with I, he, she, it and one person or thing. With \"my parents\" we use \"were\"."
+      }
+    },
+    {
+      "id": "a2-wb-027",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "was-were",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The past of \"be\": was with I, he, she, it; were with you, we, they. Example: Nina was ill on Monday.",
+      "bank": [
+        "been",
+        "is",
+        "was"
+      ],
+      "text": "Nina ___ ill on Monday.",
+      "answers": [
+        "was"
+      ],
+      "wrongReasons": {
+        "is": "\"is\" is the present of \"be\". \"on Monday\" shows the past, so we use \"was\".",
+        "been": "\"been\" needs \"have\" or \"has\" before it. For a simple past sentence we use \"was\"."
+      }
+    },
+    {
+      "id": "a2-wb-028",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "was-were",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In questions \"was/were\" comes before the subject: Was Mark late for class on Monday?",
+      "bank": [
+        "Did",
+        "Was",
+        "Is"
+      ],
+      "text": "___ Mark late for class on Monday?",
+      "answers": [
+        "Was"
+      ],
+      "wrongReasons": {
+        "is": "\"Is\" is the present. \"on Monday\" shows the past, so we use \"Was\".",
+        "did": "\"Did\" is used before a base verb, not with \"be\". We say \"Was Mark...?\"."
+      }
+    },
+    {
+      "id": "a2-wb-029",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "was-were",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In questions \"was/were\" comes before the subject: Was I ill last summer?",
+      "bank": [
+        "Was",
+        "Did",
+        "Were"
+      ],
+      "text": "___ I ill last summer?",
+      "answers": [
+        "Was"
+      ],
+      "wrongReasons": {
+        "were": "\"Were\" is used with you, we, they and more than one person or thing. With \"I\" we use \"was\".",
+        "did": "\"Did\" is used before a base verb, not with \"be\". We say \"Was I...?\"."
+      }
+    },
+    {
+      "id": "a2-wb-030",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "was-were",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The past of \"be\": was with I, he, she, it; were with you, we, they. Example: Tom was happy last summer.",
+      "bank": [
+        "be",
+        "is",
+        "was"
+      ],
+      "text": "Tom ___ happy last summer.",
+      "answers": [
+        "was"
+      ],
+      "wrongReasons": {
+        "is": "\"is\" is the present of \"be\". \"last summer\" shows the past, so we use \"was\".",
+        "be": "\"be\" alone cannot be the verb here. In the past we use \"was\"."
+      }
+    },
+    {
+      "id": "a2-wb-031",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "was-were",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The past of \"be\": was with I, he, she, it; were with you, we, they. Example: Zoe was late for class this morning.",
+      "bank": [
+        "be",
+        "were",
+        "was"
+      ],
+      "text": "Zoe ___ late for class this morning.",
+      "answers": [
+        "was"
+      ],
+      "wrongReasons": {
+        "be": "\"be\" alone cannot be the verb here. In the past we use \"was\".",
+        "were": "\"were\" is used with you, we, they and more than one person or thing. With \"Zoe\" we use \"was\"."
+      }
+    },
+    {
+      "id": "a2-wb-032",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "was-were",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The past of \"be\": was with I, he, she, it; were with you, we, they. Example: He was at home two days ago.",
+      "bank": [
+        "been",
+        "was",
+        "be"
+      ],
+      "text": "He ___ at home two days ago.",
+      "answers": [
+        "was"
+      ],
+      "wrongReasons": {
+        "be": "\"be\" alone cannot be the verb here. In the past we use \"was\".",
+        "been": "\"been\" needs \"have\" or \"has\" before it. For a simple past sentence we use \"was\"."
+      }
+    },
+    {
+      "id": "a2-wb-033",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Short adjectives add -er: warmer than. Example: This morning is warmer than last night.",
+      "bank": [
+        "more warm",
+        "warmer",
+        "warmest"
+      ],
+      "text": "This morning is ___ than last night.",
+      "answers": [
+        "warmer"
+      ],
+      "wrongReasons": {
+        "warmest": "\"warmest\" is the superlative, used with \"the\" for three or more things. For two things use \"warmer\".",
+        "more warm": "\"warm\" is a short adjective. Short adjectives add -er, not \"more\": warmer."
+      }
+    },
+    {
+      "id": "a2-wb-034",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Long adjectives use \"more\": more crowded than. Example: This book is more crowded than that book.",
+      "bank": [
+        "most crowded",
+        "crowded",
+        "more crowded"
+      ],
+      "text": "This book is ___ than that book.",
+      "answers": [
+        "more crowded"
+      ],
+      "wrongReasons": {
+        "crowded": "We compare two things, so the adjective needs the comparative form: \"more crowded\" than.",
+        "most crowded": "\"most crowded\" is the superlative, used with \"the\" for three or more things. For two things use \"more crowded\"."
+      }
+    },
+    {
+      "id": "a2-wb-035",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Short adjectives add -er: colder than. Example: Today is colder than yesterday.",
+      "bank": [
+        "cold",
+        "colder",
+        "coldest"
+      ],
+      "text": "Today is ___ than yesterday.",
+      "answers": [
+        "colder"
+      ],
+      "wrongReasons": {
+        "coldest": "\"coldest\" is the superlative, used with \"the\" for three or more things. For two things use \"colder\".",
+        "cold": "We compare two things, so the adjective needs the comparative form: \"colder\" than."
+      }
+    },
+    {
+      "id": "a2-wb-036",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Short adjectives add -er: older than. Example: The blue shirt is older than the green shirt.",
+      "bank": [
+        "old",
+        "more old",
+        "older"
+      ],
+      "text": "The blue shirt is ___ than the green shirt.",
+      "answers": [
+        "older"
+      ],
+      "wrongReasons": {
+        "old": "We compare two things, so the adjective needs the comparative form: \"older\" than.",
+        "more old": "\"old\" is a short adjective. Short adjectives add -er, not \"more\": older."
+      }
+    },
+    {
+      "id": "a2-wb-037",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Short adjectives add -er: faster than. Example: Jack is faster than Paul.",
+      "bank": [
+        "faster",
+        "fastest",
+        "more fast"
+      ],
+      "text": "Jack is ___ than Paul.",
+      "answers": [
+        "faster"
+      ],
+      "wrongReasons": {
+        "fastest": "\"fastest\" is the superlative, used with \"the\" for three or more things. For two things use \"faster\".",
+        "more fast": "\"fast\" is a short adjective. Short adjectives add -er, not \"more\": faster."
+      }
+    },
+    {
+      "id": "a2-wb-038",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Short adjectives add -er: newer than. Example: The red car is newer than the blue car.",
+      "bank": [
+        "newer",
+        "newest",
+        "more new"
+      ],
+      "text": "The red car is ___ than the blue car.",
+      "answers": [
+        "newer"
+      ],
+      "wrongReasons": {
+        "more new": "\"new\" is a short adjective. Short adjectives add -er, not \"more\": newer.",
+        "newest": "\"newest\" is the superlative, used with \"the\" for three or more things. For two things use \"newer\"."
+      }
+    },
+    {
+      "id": "a2-wb-039",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Change -y to -ier: happier than. Example: Zoe is happier than Leo.",
+      "bank": [
+        "happyer",
+        "happier",
+        "more happy"
+      ],
+      "text": "Zoe is ___ than Leo.",
+      "answers": [
+        "happier"
+      ],
+      "wrongReasons": {
+        "happyer": "After a consonant + y, change y to -ier: happier.",
+        "more happy": "\"happy\" is a short adjective. Short adjectives add -er, not \"more\": happier."
+      }
+    },
+    {
+      "id": "a2-wb-040",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Long adjectives use \"more\": more famous than. Example: This road is more famous than that road.",
+      "bank": [
+        "most famous",
+        "more famous",
+        "famouser"
+      ],
+      "text": "This road is ___ than that road.",
+      "answers": [
+        "more famous"
+      ],
+      "wrongReasons": {
+        "famouser": "\"famous\" is a long adjective. Long adjectives use \"more\": more famous.",
+        "most famous": "\"most famous\" is the superlative, used with \"the\" for three or more things. For two things use \"more famous\"."
+      }
+    },
+    {
+      "id": "a2-wb-041",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "superlatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Double the last consonant and add -est: the biggest. Use \"the\" + superlative for the best of three or more.",
+      "bank": [
+        "biggest",
+        "bigger",
+        "most big"
+      ],
+      "text": "This is the ___ restaurant in the city.",
+      "answers": [
+        "biggest"
+      ],
+      "wrongReasons": {
+        "bigger": "\"bigger\" is the comparative, used with \"than\". For the best of a group use \"the biggest\".",
+        "most big": "\"big\" is a short adjective. Short adjectives add -est, not \"most\": biggest."
+      }
+    },
+    {
+      "id": "a2-wb-042",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "superlatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Short adjectives add -est: the fastest. Use \"the\" + superlative for the best of three or more.",
+      "bank": [
+        "fastest",
+        "most fast",
+        "fast"
+      ],
+      "text": "Paul is the ___ boy in the group.",
+      "answers": [
+        "fastest"
+      ],
+      "wrongReasons": {
+        "most fast": "\"fast\" is a short adjective. Short adjectives add -est, not \"most\": fastest.",
+        "fast": "After \"the\" for the best of a group we need the superlative: \"fastest\"."
+      }
+    },
+    {
+      "id": "a2-wb-043",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "superlatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Long adjectives use \"most\": the most dangerous. Use \"the\" + superlative for the best of three or more.",
+      "bank": [
+        "dangerous",
+        "most dangerous",
+        "dangerousest"
+      ],
+      "text": "This is the ___ street in the town.",
+      "answers": [
+        "most dangerous"
+      ],
+      "wrongReasons": {
+        "dangerous": "After \"the\" for the best of a group we need the superlative: \"most dangerous\".",
+        "dangerousest": "\"dangerous\" is a long adjective. Long adjectives use \"most\": most dangerous."
+      }
+    },
+    {
+      "id": "a2-wb-044",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "superlatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Short adjectives add -est: the tallest. Use \"the\" + superlative for the best of three or more.",
+      "bank": [
+        "tallest",
+        "most tall",
+        "tall"
+      ],
+      "text": "Ivan is the ___ boy in the group.",
+      "answers": [
+        "tallest"
+      ],
+      "wrongReasons": {
+        "tall": "After \"the\" for the best of a group we need the superlative: \"tallest\".",
+        "most tall": "\"tall\" is a short adjective. Short adjectives add -est, not \"most\": tallest."
+      }
+    },
+    {
+      "id": "a2-wb-045",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "superlatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Short adjectives add -est: the cleanest. Use \"the\" + superlative for the best of three or more.",
+      "bank": [
+        "cleaner",
+        "cleanest",
+        "clean"
+      ],
+      "text": "This is the ___ restaurant in the village.",
+      "answers": [
+        "cleanest"
+      ],
+      "wrongReasons": {
+        "clean": "After \"the\" for the best of a group we need the superlative: \"cleanest\".",
+        "cleaner": "\"cleaner\" is the comparative, used with \"than\". For the best of a group use \"the cleanest\"."
+      }
+    },
+    {
+      "id": "a2-wb-046",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "superlatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Short adjectives add -est: the smallest. Use \"the\" + superlative for the best of three or more.",
+      "bank": [
+        "most small",
+        "small",
+        "smallest"
+      ],
+      "text": "This is the ___ street in the city.",
+      "answers": [
+        "smallest"
+      ],
+      "wrongReasons": {
+        "most small": "\"small\" is a short adjective. Short adjectives add -est, not \"most\": smallest.",
+        "small": "After \"the\" for the best of a group we need the superlative: \"smallest\"."
+      }
+    },
+    {
+      "id": "a2-wb-047",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "superlatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Long adjectives use \"most\": the most difficult. Use \"the\" + superlative for the best of three or more.",
+      "bank": [
+        "most difficult",
+        "difficultest",
+        "more difficult"
+      ],
+      "text": "This is the ___ hotel in the town.",
+      "answers": [
+        "most difficult"
+      ],
+      "wrongReasons": {
+        "more difficult": "\"more difficult\" is the comparative, used with \"than\". For the best of a group use \"the most difficult\".",
+        "difficultest": "\"difficult\" is a long adjective. Long adjectives use \"most\": most difficult."
+      }
+    },
+    {
+      "id": "a2-wb-048",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "superlatives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Change -y to -iest: the happiest. Use \"the\" + superlative for the best of three or more.",
+      "bank": [
+        "happiest",
+        "happyest",
+        "happier"
+      ],
+      "text": "Hugo is the ___ boy in the class.",
+      "answers": [
+        "happiest"
+      ],
+      "wrongReasons": {
+        "happier": "\"happier\" is the comparative, used with \"than\". For the best of a group use \"the happiest\".",
+        "happyest": "After a consonant + y, change y to -iest: happiest."
+      }
+    },
+    {
+      "id": "a2-wb-049",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "going-to",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use be + going to + base verb for plans: Sam is going to sing in a choir on Saturday.",
+      "bank": [
+        "is go to",
+        "is going to",
+        "is going"
+      ],
+      "text": "Sam ___ sing in a choir on Saturday.",
+      "answers": [
+        "is going to"
+      ],
+      "wrongReasons": {
+        "is go to": "We use \"going to\" for plans, not \"go to\": is going to sing.",
+        "is going": "After \"going\" we need \"to\" before the verb: is going to sing."
+      }
+    },
+    {
+      "id": "a2-wb-050",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "going-to",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use be + going to + base verb for plans: Ben is going to visit a friend this evening.",
+      "bank": [
+        "is going",
+        "is going to",
+        "is go to"
+      ],
+      "text": "Ben ___ visit a friend this evening.",
+      "answers": [
+        "is going to"
+      ],
+      "wrongReasons": {
+        "is going": "After \"going\" we need \"to\" before the verb: is going to visit.",
+        "is go to": "We use \"going to\" for plans, not \"go to\": is going to visit."
+      }
+    },
+    {
+      "id": "a2-wb-051",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "going-to",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use be + going to + base verb for plans: We are going to clean the kitchen next year.",
+      "bank": [
+        "are go to",
+        "go to",
+        "are going to"
+      ],
+      "text": "We ___ clean the kitchen next year.",
+      "answers": [
+        "are going to"
+      ],
+      "wrongReasons": {
+        "go to": "A plan needs \"be + going to\". \"go to\" is not the future form.",
+        "are go to": "We use \"going to\" for plans, not \"go to\": are going to clean."
+      }
+    },
+    {
+      "id": "a2-wb-052",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "going-to",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use be + going to + base verb for plans: Sam is going to sing songs this weekend.",
+      "bank": [
+        "goes to",
+        "is going to",
+        "is going"
+      ],
+      "text": "Sam ___ sing songs this weekend.",
+      "answers": [
+        "is going to"
+      ],
+      "wrongReasons": {
+        "is going": "After \"going\" we need \"to\" before the verb: is going to sing.",
+        "goes to": "A plan needs \"be + going to\". \"goes to\" is not the future form."
+      }
+    },
+    {
+      "id": "a2-wb-053",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "going-to",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use be + going to + base verb for plans: My father is going to wash the dishes next week.",
+      "bank": [
+        "is going to",
+        "are going to",
+        "goes to"
+      ],
+      "text": "My father ___ wash the dishes next week.",
+      "answers": [
+        "is going to"
+      ],
+      "wrongReasons": {
+        "goes to": "A plan needs \"be + going to\". \"goes to\" is not the future form.",
+        "are going to": "With \"my father\" we use \"is\", not \"are\": is going to."
+      }
+    },
+    {
+      "id": "a2-wb-054",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "going-to",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use be + going to + base verb for plans: Ben is going to play the guitar this weekend.",
+      "bank": [
+        "goes to",
+        "is going to",
+        "is going"
+      ],
+      "text": "Ben ___ play the guitar this weekend.",
+      "answers": [
+        "is going to"
+      ],
+      "wrongReasons": {
+        "goes to": "A plan needs \"be + going to\". \"goes to\" is not the future form.",
+        "is going": "After \"going\" we need \"to\" before the verb: is going to play."
+      }
+    },
+    {
+      "id": "a2-wb-055",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "going-to",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use be + going to + base verb for plans: Tom is going to fix old bikes next week.",
+      "bank": [
+        "is going",
+        "is go to",
+        "is going to"
+      ],
+      "text": "Tom ___ fix old bikes next week.",
+      "answers": [
+        "is going to"
+      ],
+      "wrongReasons": {
+        "is go to": "We use \"going to\" for plans, not \"go to\": is going to fix.",
+        "is going": "After \"going\" we need \"to\" before the verb: is going to fix."
+      }
+    },
+    {
+      "id": "a2-wb-056",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"many\" with plural countable nouns in questions: How many shoes?",
+      "bank": [
+        "a little",
+        "many",
+        "a"
+      ],
+      "text": "How ___ shoes do you need?",
+      "answers": [
+        "many"
+      ],
+      "wrongReasons": {
+        "a little": "\"a little\" is used with uncountable nouns. \"shoes\" is countable.",
+        "a": "\"a\" is used with one thing. \"shoes\" is plural."
+      }
+    },
+    {
+      "id": "a2-wb-057",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"too many\" with plural countable nouns: too many bananas.",
+      "bank": [
+        "much",
+        "a little",
+        "many"
+      ],
+      "text": "There are too ___ bananas in the bag.",
+      "answers": [
+        "many"
+      ],
+      "wrongReasons": {
+        "much": "\"much\" is used with uncountable nouns. \"bananas\" is countable.",
+        "a little": "\"a little\" is used with uncountable nouns. \"bananas\" is countable."
+      }
+    },
+    {
+      "id": "a2-wb-058",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a little\" for a small amount of an uncountable noun: a little snow.",
+      "bank": [
+        "a few",
+        "a little",
+        "much"
+      ],
+      "text": "We have only ___ snow.",
+      "answers": [
+        "a little"
+      ],
+      "wrongReasons": {
+        "a few": "\"a few\" is used with plural countable nouns, not with \"snow\".",
+        "much": "\"much\" does not go after \"only\". For a small amount we say \"a little\"."
+      }
+    },
+    {
+      "id": "a2-wb-059",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a few\" for a small number of plural countable nouns: a few books.",
+      "bank": [
+        "a few",
+        "much",
+        "many"
+      ],
+      "text": "We have only ___ books.",
+      "answers": [
+        "a few"
+      ],
+      "wrongReasons": {
+        "many": "\"many\" does not go after \"only\". For a small number we say \"a few\".",
+        "much": "\"much\" is used with uncountable nouns. \"books\" is countable."
+      }
+    },
+    {
+      "id": "a2-wb-060",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"too much\" with uncountable nouns: too much fruit.",
+      "bank": [
+        "much",
+        "a",
+        "many"
+      ],
+      "text": "There is too ___ fruit in the soup.",
+      "answers": [
+        "much"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" cannot be used with an uncountable noun like \"fruit\".",
+        "many": "\"many\" is used with countable nouns. \"fruit\" is uncountable."
+      }
+    },
+    {
+      "id": "a2-wb-061",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a few\" for a small number of plural countable nouns: a few pens.",
+      "bank": [
+        "much",
+        "a few",
+        "many"
+      ],
+      "text": "We have only ___ pens.",
+      "answers": [
+        "a few"
+      ],
+      "wrongReasons": {
+        "many": "\"many\" does not go after \"only\". For a small number we say \"a few\".",
+        "much": "\"much\" is used with uncountable nouns. \"pens\" is countable."
+      }
+    },
+    {
+      "id": "a2-wb-062",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"much\" with uncountable nouns in questions: How much pasta?",
+      "bank": [
+        "much",
+        "many",
+        "a"
+      ],
+      "text": "How ___ pasta do you need?",
+      "answers": [
+        "much"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used with one countable thing. \"pasta\" is uncountable.",
+        "many": "\"many\" is used with countable nouns. \"pasta\" is uncountable."
+      }
+    },
+    {
+      "id": "a2-wb-063",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"too many\" with plural countable nouns: too many tickets.",
+      "bank": [
+        "much",
+        "a little",
+        "many"
+      ],
+      "text": "There are too ___ tickets in the bag.",
+      "answers": [
+        "many"
+      ],
+      "wrongReasons": {
+        "a little": "\"a little\" is used with uncountable nouns. \"tickets\" is countable.",
+        "much": "\"much\" is used with uncountable nouns. \"tickets\" is countable."
+      }
+    },
+    {
+      "id": "a2-wb-064",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"much\" with uncountable nouns in questions: How much milk?",
+      "bank": [
+        "many",
+        "much",
+        "a few"
+      ],
+      "text": "How ___ milk do you need?",
+      "answers": [
+        "much"
+      ],
+      "wrongReasons": {
+        "many": "\"many\" is used with countable nouns. \"milk\" is uncountable.",
+        "a few": "\"a few\" is used with plural countable nouns, not with \"milk\"."
+      }
+    },
+    {
+      "id": "a2-wb-065",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"many\" with plural countable nouns in questions: How many bottles?",
+      "bank": [
+        "a",
+        "a little",
+        "many"
+      ],
+      "text": "How ___ bottles do you need?",
+      "answers": [
+        "many"
+      ],
+      "wrongReasons": {
+        "a little": "\"a little\" is used with uncountable nouns. \"bottles\" is countable.",
+        "a": "\"a\" is used with one thing. \"bottles\" is plural."
+      }
+    },
+    {
+      "id": "a2-wb-066",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a little\" for a small amount of an uncountable noun: a little rain.",
+      "bank": [
+        "many",
+        "a few",
+        "a little"
+      ],
+      "text": "We have only ___ rain.",
+      "answers": [
+        "a little"
+      ],
+      "wrongReasons": {
+        "a few": "\"a few\" is used with plural countable nouns, not with \"rain\".",
+        "many": "\"many\" is used with countable nouns. \"rain\" is uncountable."
+      }
+    },
+    {
+      "id": "a2-wb-067",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a few\" for a small number of plural countable nouns: a few cars.",
+      "bank": [
+        "a few",
+        "a little",
+        "much"
+      ],
+      "text": "We have only ___ cars.",
+      "answers": [
+        "a few"
+      ],
+      "wrongReasons": {
+        "a little": "\"a little\" is used with uncountable nouns. \"cars\" is countable.",
+        "much": "\"much\" is used with uncountable nouns. \"cars\" is countable."
+      }
+    },
+    {
+      "id": "a2-wb-068",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"many\" with plural countable nouns in questions: How many tickets?",
+      "bank": [
+        "much",
+        "many",
+        "a"
+      ],
+      "text": "How ___ tickets do you need?",
+      "answers": [
+        "many"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used with one thing. \"tickets\" is plural.",
+        "much": "\"much\" is used with uncountable nouns. \"tickets\" is countable."
+      }
+    },
+    {
+      "id": "a2-wb-069",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"many\" with plural countable nouns in questions: How many students?",
+      "bank": [
+        "many",
+        "a little",
+        "a"
+      ],
+      "text": "How ___ students do you need?",
+      "answers": [
+        "many"
+      ],
+      "wrongReasons": {
+        "a little": "\"a little\" is used with uncountable nouns. \"students\" is countable.",
+        "a": "\"a\" is used with one thing. \"students\" is plural."
+      }
+    },
+    {
+      "id": "a2-wb-070",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"too much\" with uncountable nouns: too much coffee.",
+      "bank": [
+        "much",
+        "many",
+        "a"
+      ],
+      "text": "There is too ___ coffee in the soup.",
+      "answers": [
+        "much"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" cannot be used with an uncountable noun like \"coffee\".",
+        "many": "\"many\" is used with countable nouns. \"coffee\" is uncountable."
+      }
+    },
+    {
+      "id": "a2-wb-071",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"many\" with plural countable nouns in questions: How many sandwiches?",
+      "bank": [
+        "many",
+        "much",
+        "a little"
+      ],
+      "text": "How ___ sandwiches do you need?",
+      "answers": [
+        "many"
+      ],
+      "wrongReasons": {
+        "a little": "\"a little\" is used with uncountable nouns. \"sandwiches\" is countable.",
+        "much": "\"much\" is used with uncountable nouns. \"sandwiches\" is countable."
+      }
+    },
+    {
+      "id": "a2-wb-072",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"a few\" for a small number of plural countable nouns: a few cups.",
+      "bank": [
+        "many",
+        "a little",
+        "a few"
+      ],
+      "text": "We have only ___ cups.",
+      "answers": [
+        "a few"
+      ],
+      "wrongReasons": {
+        "a little": "\"a little\" is used with uncountable nouns. \"cups\" is countable.",
+        "many": "\"many\" does not go after \"only\". For a small number we say \"a few\"."
+      }
+    },
+    {
+      "id": "a2-wb-073",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"much\" with uncountable nouns in questions: How much coffee?",
+      "bank": [
+        "a",
+        "much",
+        "a few"
+      ],
+      "text": "How ___ coffee do you need?",
+      "answers": [
+        "much"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used with one countable thing. \"coffee\" is uncountable.",
+        "a few": "\"a few\" is used with plural countable nouns, not with \"coffee\"."
+      }
+    },
+    {
+      "id": "a2-wb-074",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"some\" in positive sentences: There are some bananas on the table.",
+      "bank": [
+        "any",
+        "a",
+        "some"
+      ],
+      "text": "There are ___ bananas on the table.",
+      "answers": [
+        "some"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used with one countable thing, but \"bananas\" is plural.",
+        "any": "\"any\" is normally used in negatives and questions. This is a positive sentence, so we use \"some\"."
+      }
+    },
+    {
+      "id": "a2-wb-075",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"any\" in questions: Are there any oranges on the table?",
+      "bank": [
+        "some",
+        "a",
+        "any"
+      ],
+      "text": "Are there ___ oranges on the table?",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "some": "\"some\" is not usual in questions. We use \"any\" to ask if something exists.",
+        "a": "\"a\" is used with one countable thing, but \"oranges\" is plural."
+      }
+    },
+    {
+      "id": "a2-wb-076",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"some\" in positive sentences: There is some traffic in the cupboard.",
+      "bank": [
+        "some",
+        "any",
+        "a"
+      ],
+      "text": "There is ___ traffic in the cupboard.",
+      "answers": [
+        "some"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" cannot be used with an uncountable noun like \"traffic\".",
+        "any": "\"any\" is normally used in negatives and questions. This is a positive sentence, so we use \"some\"."
+      }
+    },
+    {
+      "id": "a2-wb-077",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"any\" in questions: Is there any pasta on the shelf?",
+      "bank": [
+        "a",
+        "some",
+        "any"
+      ],
+      "text": "Is there ___ pasta on the shelf?",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "some": "\"some\" is not usual in questions. We use \"any\" to ask if something exists.",
+        "a": "\"a\" cannot be used with an uncountable noun like \"pasta\"."
+      }
+    },
+    {
+      "id": "a2-wb-078",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"any\" in questions: Is there any homework in the kitchen?",
+      "bank": [
+        "any",
+        "some",
+        "a"
+      ],
+      "text": "Is there ___ homework in the kitchen?",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "some": "\"some\" is not usual in questions. We use \"any\" to ask if something exists.",
+        "a": "\"a\" cannot be used with an uncountable noun like \"homework\"."
+      }
+    },
+    {
+      "id": "a2-wb-079",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"any\" in negative sentences: There isn't any milk in the cupboard.",
+      "bank": [
+        "a",
+        "some",
+        "any"
+      ],
+      "text": "There isn't ___ milk in the cupboard.",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" cannot be used with an uncountable noun like \"milk\".",
+        "some": "\"some\" is normally used in positive sentences. In negatives we use \"any\"."
+      }
+    },
+    {
+      "id": "a2-wb-080",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"some\" in positive sentences: There are some tickets on the shelf.",
+      "bank": [
+        "any",
+        "some",
+        "a"
+      ],
+      "text": "There are ___ tickets on the shelf.",
+      "answers": [
+        "some"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used with one countable thing, but \"tickets\" is plural.",
+        "any": "\"any\" is normally used in negatives and questions. This is a positive sentence, so we use \"some\"."
+      }
+    },
+    {
+      "id": "a2-wb-081",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"any\" in negative sentences: There isn't any coffee in the fridge.",
+      "bank": [
+        "some",
+        "a",
+        "any"
+      ],
+      "text": "There isn't ___ coffee in the fridge.",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "some": "\"some\" is normally used in positive sentences. In negatives we use \"any\".",
+        "a": "\"a\" cannot be used with an uncountable noun like \"coffee\"."
+      }
+    },
+    {
+      "id": "a2-wb-082",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"some\" in offers and requests: Would you like some snow?",
+      "bank": [
+        "a",
+        "any",
+        "some"
+      ],
+      "text": "Would you like ___ snow?",
+      "answers": [
+        "some"
+      ],
+      "wrongReasons": {
+        "any": "\"any\" is not used in offers. We say \"Would you like some...?\"",
+        "a": "\"a\" cannot be used with an uncountable noun like \"snow\"."
+      }
+    },
+    {
+      "id": "a2-wb-083",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"any\" in questions: Are there any cars in the fridge?",
+      "bank": [
+        "a",
+        "some",
+        "any"
+      ],
+      "text": "Are there ___ cars in the fridge?",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used with one countable thing, but \"cars\" is plural.",
+        "some": "\"some\" is not usual in questions. We use \"any\" to ask if something exists."
+      }
+    },
+    {
+      "id": "a2-wb-084",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"any\" in negative sentences: There aren't any bananas in the shop.",
+      "bank": [
+        "some",
+        "any",
+        "a"
+      ],
+      "text": "There aren't ___ bananas in the shop.",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "some": "\"some\" is normally used in positive sentences. In negatives we use \"any\".",
+        "a": "\"a\" is used with one countable thing, but \"bananas\" is plural."
+      }
+    },
+    {
+      "id": "a2-wb-085",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"any\" in negative sentences: There aren't any friends in the box.",
+      "bank": [
+        "any",
+        "some",
+        "a"
+      ],
+      "text": "There aren't ___ friends in the box.",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used with one countable thing, but \"friends\" is plural.",
+        "some": "\"some\" is normally used in positive sentences. In negatives we use \"any\"."
+      }
+    },
+    {
+      "id": "a2-wb-086",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"any\" in questions: Is there any bread on the shelf?",
+      "bank": [
+        "some",
+        "a",
+        "any"
+      ],
+      "text": "Is there ___ bread on the shelf?",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" cannot be used with an uncountable noun like \"bread\".",
+        "some": "\"some\" is not usual in questions. We use \"any\" to ask if something exists."
+      }
+    },
+    {
+      "id": "a2-wb-087",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"some\" in offers and requests: Would you like some flowers?",
+      "bank": [
+        "a",
+        "some",
+        "any"
+      ],
+      "text": "Would you like ___ flowers?",
+      "answers": [
+        "some"
+      ],
+      "wrongReasons": {
+        "any": "\"any\" is not used in offers. We say \"Would you like some...?\"",
+        "a": "\"a\" is used with one countable thing, but \"flowers\" is plural."
+      }
+    },
+    {
+      "id": "a2-wb-088",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"any\" in questions: Is there any juice in my bag?",
+      "bank": [
+        "a",
+        "any",
+        "some"
+      ],
+      "text": "Is there ___ juice in my bag?",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "some": "\"some\" is not usual in questions. We use \"any\" to ask if something exists.",
+        "a": "\"a\" cannot be used with an uncountable noun like \"juice\"."
+      }
+    },
+    {
+      "id": "a2-wb-089",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"some\" in offers and requests: Would you like some rice?",
+      "bank": [
+        "a",
+        "some",
+        "any"
+      ],
+      "text": "Would you like ___ rice?",
+      "answers": [
+        "some"
+      ],
+      "wrongReasons": {
+        "a": "\"a\" cannot be used with an uncountable noun like \"rice\".",
+        "any": "\"any\" is not used in offers. We say \"Would you like some...?\""
+      }
+    },
+    {
+      "id": "a2-wb-090",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"some\" in offers and requests: Would you like some pasta?",
+      "bank": [
+        "some",
+        "any",
+        "a"
+      ],
+      "text": "Would you like ___ pasta?",
+      "answers": [
+        "some"
+      ],
+      "wrongReasons": {
+        "any": "\"any\" is not used in offers. We say \"Would you like some...?\"",
+        "a": "\"a\" cannot be used with an uncountable noun like \"pasta\"."
+      }
+    },
+    {
+      "id": "a2-wb-091",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"any\" in negative sentences: There isn't any fruit in the shop.",
+      "bank": [
+        "a",
+        "any",
+        "some"
+      ],
+      "text": "There isn't ___ fruit in the shop.",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "some": "\"some\" is normally used in positive sentences. In negatives we use \"any\".",
+        "a": "\"a\" cannot be used with an uncountable noun like \"fruit\"."
+      }
+    },
+    {
+      "id": "a2-wb-092",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"sometimes\" means about 40% of the time. Adverbs of frequency go before the main verb: My sister sometimes walks to work.",
+      "bank": [
+        "usually",
+        "never",
+        "sometimes"
+      ],
+      "text": "My sister ___ walks to work. (40% of the time)",
+      "answers": [
+        "sometimes"
+      ],
+      "wrongReasons": {
+        "never": "\"never\" means about 0% of the time, but the sentence says 40%.",
+        "usually": "\"usually\" means about 80% of the time, but the sentence says 40%."
+      }
+    },
+    {
+      "id": "a2-wb-093",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"always\" means about 100% of the time. Adverbs of frequency go before the main verb: Dan always works in a shop.",
+      "bank": [
+        "sometimes",
+        "usually",
+        "always"
+      ],
+      "text": "Dan ___ works in a shop. (100% of the time)",
+      "answers": [
+        "always"
+      ],
+      "wrongReasons": {
+        "usually": "\"usually\" means about 80% of the time, but the sentence says 100%.",
+        "sometimes": "\"sometimes\" means about 40% of the time, but the sentence says 100%."
+      }
+    },
+    {
+      "id": "a2-wb-094",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"always\" means about 100% of the time. Adverbs of frequency go before the main verb: Tom and Anna always watch TV.",
+      "bank": [
+        "always",
+        "rarely",
+        "sometimes"
+      ],
+      "text": "Tom and Anna ___ watch TV. (100% of the time)",
+      "answers": [
+        "always"
+      ],
+      "wrongReasons": {
+        "rarely": "\"rarely\" means about 10% of the time, but the sentence says 100%.",
+        "sometimes": "\"sometimes\" means about 40% of the time, but the sentence says 100%."
+      }
+    },
+    {
+      "id": "a2-wb-095",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"often\" means about 60% of the time. Adverbs of frequency go before the main verb: Kate often cleans the kitchen.",
+      "bank": [
+        "often",
+        "never",
+        "rarely"
+      ],
+      "text": "Kate ___ cleans the kitchen. (60% of the time)",
+      "answers": [
+        "often"
+      ],
+      "wrongReasons": {
+        "rarely": "\"rarely\" means about 10% of the time, but the sentence says 60%.",
+        "never": "\"never\" means about 0% of the time, but the sentence says 60%."
+      }
+    },
+    {
+      "id": "a2-wb-096",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"rarely\" means about 10% of the time. Adverbs of frequency go before the main verb: Anna rarely rides a bike.",
+      "bank": [
+        "sometimes",
+        "rarely",
+        "never"
+      ],
+      "text": "Anna ___ rides a bike. (10% of the time)",
+      "answers": [
+        "rarely"
+      ],
+      "wrongReasons": {
+        "never": "\"never\" means about 0% of the time, but the sentence says 10%.",
+        "sometimes": "\"sometimes\" means about 40% of the time, but the sentence says 10%."
+      }
+    },
+    {
+      "id": "a2-wb-097",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"never\" means about 0% of the time. Adverbs of frequency go before the main verb: She never listens to music.",
+      "bank": [
+        "sometimes",
+        "always",
+        "never"
+      ],
+      "text": "She ___ listens to music. (0% of the time)",
+      "answers": [
+        "never"
+      ],
+      "wrongReasons": {
+        "sometimes": "\"sometimes\" means about 40% of the time, but the sentence says 0%.",
+        "always": "\"always\" means about 100% of the time, but the sentence says 0%."
+      }
+    },
+    {
+      "id": "a2-wb-098",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"often\" means about 60% of the time. Adverbs of frequency go before the main verb: Hugo often walks to work.",
+      "bank": [
+        "rarely",
+        "often",
+        "always"
+      ],
+      "text": "Hugo ___ walks to work. (60% of the time)",
+      "answers": [
+        "often"
+      ],
+      "wrongReasons": {
+        "rarely": "\"rarely\" means about 10% of the time, but the sentence says 60%.",
+        "always": "\"always\" means about 100% of the time, but the sentence says 60%."
+      }
+    },
+    {
+      "id": "a2-wb-099",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"rarely\" means about 10% of the time. Adverbs of frequency go before the main verb: Tom and Anna rarely call a friend.",
+      "bank": [
+        "usually",
+        "rarely",
+        "never"
+      ],
+      "text": "Tom and Anna ___ call a friend. (10% of the time)",
+      "answers": [
+        "rarely"
+      ],
+      "wrongReasons": {
+        "usually": "\"usually\" means about 80% of the time, but the sentence says 10%.",
+        "never": "\"never\" means about 0% of the time, but the sentence says 10%."
+      }
+    },
+    {
+      "id": "a2-wb-100",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"must\" (or \"have to\") for a strong rule or need: Students must wear a uniform at our school. It is the rule.",
+      "bank": [
+        "mustn't",
+        "can't",
+        "must"
+      ],
+      "text": "Students ___ wear a uniform at our school. It is the rule.",
+      "answers": [
+        "must"
+      ],
+      "wrongReasons": {
+        "mustn't": "\"mustn't\" is used for something that is forbidden, but this sentence is about a rule or something necessary.",
+        "can't": "\"can't\" is used for inability or something that is not allowed, but this sentence is about a rule or something necessary."
+      }
+    },
+    {
+      "id": "a2-wb-101",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"mustn't\" for something that is forbidden: You mustn't smoke in the hospital. It is against the rules.",
+      "bank": [
+        "must",
+        "mustn't",
+        "shouldn't"
+      ],
+      "text": "You ___ smoke in the hospital. It is against the rules.",
+      "answers": [
+        "mustn't"
+      ],
+      "wrongReasons": {
+        "shouldn't": "\"shouldn't\" is used for advice against something, but this sentence is about something forbidden.",
+        "must": "\"must\" is used for a strong rule or need, but this sentence is about something forbidden."
+      }
+    },
+    {
+      "id": "a2-wb-102",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"can't\" for inability or something that is not allowed: I can't swim. I am afraid of the water.",
+      "bank": [
+        "should",
+        "shouldn't",
+        "can't"
+      ],
+      "text": "I ___ swim. I am afraid of the water.",
+      "answers": [
+        "can't"
+      ],
+      "wrongReasons": {
+        "shouldn't": "\"shouldn't\" is used for advice against something, but this sentence is about inability or something not allowed.",
+        "should": "\"should\" is used for advice, but this sentence is about inability or something not allowed."
+      }
+    },
+    {
+      "id": "a2-wb-103",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"can't\" for inability or something that is not allowed: Tom can't come to the party tonight. He is ill.",
+      "bank": [
+        "mustn't",
+        "can",
+        "can't"
+      ],
+      "text": "Tom ___ come to the party tonight. He is ill.",
+      "answers": [
+        "can't"
+      ],
+      "wrongReasons": {
+        "mustn't": "\"mustn't\" is used for something that is forbidden, but this sentence is about inability or something not allowed.",
+        "can": "\"can\" is used for ability or permission, but this sentence is about inability or something not allowed."
+      }
+    },
+    {
+      "id": "a2-wb-104",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"can\" for ability or permission: Anna can speak three languages. She is very clever.",
+      "bank": [
+        "can",
+        "can't",
+        "mustn't"
+      ],
+      "text": "Anna ___ speak three languages. She is very clever.",
+      "answers": [
+        "can"
+      ],
+      "wrongReasons": {
+        "mustn't": "\"mustn't\" is used for something that is forbidden, but this sentence is about ability.",
+        "can't": "\"can't\" is used for inability or something that is not allowed, but this sentence is about ability."
+      }
+    },
+    {
+      "id": "a2-wb-105",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"don't have to\" for something that is not necessary: It is Sunday, so I don't have to get up early. I can stay in bed.",
+      "bank": [
+        "can",
+        "don't have to",
+        "have to"
+      ],
+      "text": "It is Sunday, so I ___ get up early. I can stay in bed.",
+      "answers": [
+        "don't have to"
+      ],
+      "wrongReasons": {
+        "can": "\"can\" is used for ability or permission, but this sentence is about something not necessary.",
+        "have to": "\"have to\" is used for something that is necessary, but this sentence is about something not necessary."
+      }
+    },
+    {
+      "id": "a2-wb-106",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"don't have to\" for something that is not necessary: We don't have to hurry. We have lots of time.",
+      "bank": [
+        "don't have to",
+        "must",
+        "shouldn't"
+      ],
+      "text": "We ___ hurry. We have lots of time.",
+      "answers": [
+        "don't have to"
+      ],
+      "wrongReasons": {
+        "shouldn't": "\"shouldn't\" is used for advice against something, but this sentence is about something not necessary.",
+        "must": "\"must\" is used for a strong rule or need, but this sentence is about something not necessary."
+      }
+    },
+    {
+      "id": "a2-wb-107",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"should\" for advice: My friend has a headache. She should take an aspirin. It is a good idea.",
+      "bank": [
+        "should",
+        "don't have to",
+        "have to"
+      ],
+      "text": "My friend has a headache. She ___ take an aspirin. It is a good idea.",
+      "answers": [
+        "should"
+      ],
+      "wrongReasons": {
+        "have to": "\"have to\" is used for something that is necessary, but this sentence is about advice.",
+        "don't have to": "\"don't have to\" is used for something that is not necessary, but this sentence is about advice."
+      }
+    },
+    {
+      "id": "a2-wb-108",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"shouldn't\" for advice against something: He shouldn't drive so fast. It is not a good idea.",
+      "bank": [
+        "must",
+        "shouldn't",
+        "mustn't"
+      ],
+      "text": "He ___ drive so fast. It is not a good idea.",
+      "answers": [
+        "shouldn't"
+      ],
+      "wrongReasons": {
+        "must": "\"must\" is used for a strong rule or need, but this sentence is about advice against something.",
+        "mustn't": "\"mustn't\" is used for something that is forbidden, but this sentence is about advice against something."
+      }
+    },
+    {
+      "id": "a2-wb-109",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"mustn't\" for something that is forbidden: Visitors mustn't touch the pictures in the museum. It is forbidden.",
+      "bank": [
+        "mustn't",
+        "can't",
+        "have to"
+      ],
+      "text": "Visitors ___ touch the pictures in the museum. It is forbidden.",
+      "answers": [
+        "mustn't"
+      ],
+      "wrongReasons": {
+        "can't": "\"can't\" is used for inability or something that is not allowed, but this sentence is about something forbidden.",
+        "have to": "\"have to\" is used for something that is necessary, but this sentence is about something forbidden."
+      }
+    },
+    {
+      "id": "a2-wb-110",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"shouldn't\" for advice against something: You shouldn't eat so many sweets. It is bad for your teeth. That is my advice.",
+      "bank": [
+        "shouldn't",
+        "should",
+        "don't have to"
+      ],
+      "text": "You ___ eat so many sweets. It is bad for your teeth. That is my advice.",
+      "answers": [
+        "shouldn't"
+      ],
+      "wrongReasons": {
+        "don't have to": "\"don't have to\" is used for something that is not necessary, but this sentence is about advice against something.",
+        "should": "\"should\" is used for advice, but this sentence is about advice against something."
+      }
+    },
+    {
+      "id": "a2-wb-111",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"mustn't\" for something that is forbidden: You mustn't use your phone in the exam. It is forbidden.",
+      "bank": [
+        "don't have to",
+        "must",
+        "mustn't"
+      ],
+      "text": "You ___ use your phone in the exam. It is forbidden.",
+      "answers": [
+        "mustn't"
+      ],
+      "wrongReasons": {
+        "don't have to": "\"don't have to\" is used for something that is not necessary, but this sentence is about something forbidden.",
+        "must": "\"must\" is used for a strong rule or need, but this sentence is about something forbidden."
+      }
+    },
+    {
+      "id": "a2-wb-112",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"during\" for something that is happening (during the film): He talked during the meeting.",
+      "bank": [
+        "ago",
+        "for",
+        "during"
+      ],
+      "text": "He talked ___ the meeting.",
+      "answers": [
+        "during"
+      ],
+      "wrongReasons": {
+        "for": "\"for\" is used for a length of time (for two hours). Here we need \"during\" (something that is happening (during the film)).",
+        "ago": "\"ago\" is used for a time back from now (two days ago). Here we need \"during\" (something that is happening (during the film))."
+      }
+    },
+    {
+      "id": "a2-wb-113",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"during\" for something that is happening (during the film): the filmhey ate popcorn during T.",
+      "bank": [
+        "during",
+        "for",
+        "ago"
+      ],
+      "text": "the filmhey ate popcorn ___ T.",
+      "answers": [
+        "during"
+      ],
+      "wrongReasons": {
+        "ago": "\"ago\" is used for a time back from now (two days ago). Here we need \"during\" (something that is happening (during the film)).",
+        "for": "\"for\" is used for a length of time (for two hours). Here we need \"during\" (something that is happening (during the film))."
+      }
+    },
+    {
+      "id": "a2-wb-114",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"into\" means from outside to inside something: The dog went into the house.",
+      "bank": [
+        "up",
+        "through",
+        "into"
+      ],
+      "text": "The dog went ___ the house. (= from outside to inside the house)",
+      "answers": [
+        "into"
+      ],
+      "wrongReasons": {
+        "through": "\"through\" means in one side and out of the other side of something, not \"from outside to inside\".",
+        "up": "\"up\" means to a higher place on something, not \"from outside to inside\"."
+      }
+    },
+    {
+      "id": "a2-wb-115",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"ago\" for a time back from now (two days ago): She called me a week ago.",
+      "bank": [
+        "ago",
+        "for",
+        "since"
+      ],
+      "text": "She called me a week ___.",
+      "answers": [
+        "ago"
+      ],
+      "wrongReasons": {
+        "since": "\"since\" is used for a starting point in time (since Monday). Here we need \"ago\" (a time back from now (two days ago)).",
+        "for": "\"for\" is used for a length of time (for two hours). Here we need \"ago\" (a time back from now (two days ago))."
+      }
+    },
+    {
+      "id": "a2-wb-116",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"along\" means in the same direction as something: My sister ran along the road.",
+      "bank": [
+        "up",
+        "across",
+        "along"
+      ],
+      "text": "My sister ran ___ the road. (= in the same direction as the road)",
+      "answers": [
+        "along"
+      ],
+      "wrongReasons": {
+        "across": "\"across\" means from one side to the other side of something, not \"in the same direction as\".",
+        "up": "\"up\" means to a higher place on something, not \"in the same direction as\"."
+      }
+    },
+    {
+      "id": "a2-wb-117",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"during\" for something that is happening (during the film): I fell asleep during the holidays.",
+      "bank": [
+        "ago",
+        "for",
+        "during"
+      ],
+      "text": "I fell asleep ___ the holidays.",
+      "answers": [
+        "during"
+      ],
+      "wrongReasons": {
+        "ago": "\"ago\" is used for a time back from now (two days ago). Here we need \"during\" (something that is happening (during the film)).",
+        "for": "\"for\" is used for a length of time (for two hours). Here we need \"during\" (something that is happening (during the film))."
+      }
+    },
+    {
+      "id": "a2-wb-118",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"across\" means from one side to the other side of something: The children walked across the river.",
+      "bank": [
+        "out of",
+        "across",
+        "into"
+      ],
+      "text": "The children walked ___ the river. (= from one side to the other side of the river)",
+      "answers": [
+        "across"
+      ],
+      "wrongReasons": {
+        "out of": "\"out of\" means from inside to outside something, not \"from one side to the other side of\".",
+        "into": "\"into\" means from outside to inside something, not \"from one side to the other side of\"."
+      }
+    },
+    {
+      "id": "a2-wb-119",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"for\" for a length of time (for two hours): He worked there for three days.",
+      "bank": [
+        "ago",
+        "since",
+        "for"
+      ],
+      "text": "He worked there ___ three days.",
+      "answers": [
+        "for"
+      ],
+      "wrongReasons": {
+        "since": "\"since\" is used for a starting point in time (since Monday). Here we need \"for\" (a length of time (for two hours)).",
+        "ago": "\"ago\" is used for a time back from now (two days ago). Here we need \"for\" (a length of time (for two hours))."
+      }
+    },
+    {
+      "id": "a2-wb-120",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"down\" means to a lower place on something: The old man walked down the mountain.",
+      "bank": [
+        "into",
+        "down",
+        "out of"
+      ],
+      "text": "The old man walked ___ the mountain. (= to a lower place on the mountain)",
+      "answers": [
+        "down"
+      ],
+      "wrongReasons": {
+        "into": "\"into\" means from outside to inside something, not \"to a lower place on\".",
+        "out of": "\"out of\" means from inside to outside something, not \"to a lower place on\"."
+      }
+    },
+    {
+      "id": "a2-wb-121",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"during\" for something that is happening (during the film): He talked during the night.",
+      "bank": [
+        "for",
+        "since",
+        "during"
+      ],
+      "text": "He talked ___ the night.",
+      "answers": [
+        "during"
+      ],
+      "wrongReasons": {
+        "for": "\"for\" is used for a length of time (for two hours). Here we need \"during\" (something that is happening (during the film)).",
+        "since": "\"since\" is used for a starting point in time (since Monday). Here we need \"during\" (something that is happening (during the film))."
+      }
+    },
+    {
+      "id": "a2-wb-122",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"into\" means from outside to inside something: My sister ran into the car.",
+      "bank": [
+        "down",
+        "into",
+        "along"
+      ],
+      "text": "My sister ran ___ the car. (= from outside to inside the car)",
+      "answers": [
+        "into"
+      ],
+      "wrongReasons": {
+        "along": "\"along\" means in the same direction as something, not \"from outside to inside\".",
+        "down": "\"down\" means to a lower place on something, not \"from outside to inside\"."
+      }
+    },
+    {
+      "id": "a2-wb-123",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"ago\" for a time back from now (two days ago): a monthhey moved here T ago.",
+      "bank": [
+        "ago",
+        "since",
+        "during"
+      ],
+      "text": "a monthhey moved here T ___.",
+      "answers": [
+        "ago"
+      ],
+      "wrongReasons": {
+        "during": "\"during\" is used for something that is happening (during the film). Here we need \"ago\" (a time back from now (two days ago)).",
+        "since": "\"since\" is used for a starting point in time (since Monday). Here we need \"ago\" (a time back from now (two days ago))."
+      }
+    },
+    {
+      "id": "a2-wb-124",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"across\" means from one side to the other side of something: Anna walked across the bridge.",
+      "bank": [
+        "across",
+        "along",
+        "out of"
+      ],
+      "text": "Anna walked ___ the bridge. (= from one side to the other side of the bridge)",
+      "answers": [
+        "across"
+      ],
+      "wrongReasons": {
+        "out of": "\"out of\" means from inside to outside something, not \"from one side to the other side of\".",
+        "along": "\"along\" means in the same direction as something, not \"from one side to the other side of\"."
+      }
+    },
+    {
+      "id": "a2-wb-125",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"out of\" means from inside to outside something: Anna walked out of the house.",
+      "bank": [
+        "across",
+        "along",
+        "out of"
+      ],
+      "text": "Anna walked ___ the house. (= from inside to outside the house)",
+      "answers": [
+        "out of"
+      ],
+      "wrongReasons": {
+        "across": "\"across\" means from one side to the other side of something, not \"from inside to outside\".",
+        "along": "\"along\" means in the same direction as something, not \"from inside to outside\"."
+      }
+    },
+    {
+      "id": "a2-wb-126",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"along\" means in the same direction as something: Tom drove along the beach.",
+      "bank": [
+        "across",
+        "along",
+        "out of"
+      ],
+      "text": "Tom drove ___ the beach. (= in the same direction as the beach)",
+      "answers": [
+        "along"
+      ],
+      "wrongReasons": {
+        "out of": "\"out of\" means from inside to outside something, not \"in the same direction as\".",
+        "across": "\"across\" means from one side to the other side of something, not \"in the same direction as\"."
+      }
+    },
+    {
+      "id": "a2-wb-127",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use \"ago\" for a time back from now (two days ago): We went to Rome ten minutes ago.",
+      "bank": [
+        "for",
+        "since",
+        "ago"
+      ],
+      "text": "We went to Rome ten minutes ___.",
+      "answers": [
+        "ago"
+      ],
+      "wrongReasons": {
+        "since": "\"since\" is used for a starting point in time (since Monday). Here we need \"ago\" (a time back from now (two days ago)).",
+        "for": "\"for\" is used for a length of time (for two hours). Here we need \"ago\" (a time back from now (two days ago))."
+      }
+    },
+    {
+      "id": "a2-wb-128",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Jack reads.",
+      "bank": [
+        "read",
+        "reads",
+        "reading"
+      ],
+      "text": "Jack often ___ a book.",
+      "answers": [
+        "reads"
+      ],
+      "wrongReasons": {
+        "read": "\"read\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Jack\".",
+        "reading": "\"reading\" needs \"is\" before it. A routine uses the present simple: \"reads\"."
+      }
+    },
+    {
+      "id": "a2-wb-129",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: Sam and I drink.",
+      "bank": [
+        "drink",
+        "drinks",
+        "drinking"
+      ],
+      "text": "Sam and I sometimes ___ tea.",
+      "answers": [
+        "drink"
+      ],
+      "wrongReasons": {
+        "drinks": "\"drinks\" is for he, she, it and one person or thing. With \"Sam and I\" we use the base form \"drink\".",
+        "drinking": "\"drinking\" needs \"are\" before it. A routine uses the present simple: \"drink\"."
+      }
+    },
+    {
+      "id": "a2-wb-130",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: you fix.",
+      "bank": [
+        "fix",
+        "fixes",
+        "fixing"
+      ],
+      "text": "You ___ old bikes every week.",
+      "answers": [
+        "fix"
+      ],
+      "wrongReasons": {
+        "fixes": "\"fixes\" is for he, she, it and one person or thing. With \"you\" we use the base form \"fix\".",
+        "fixing": "\"fixing\" needs \"are\" before it. A routine uses the present simple: \"fix\"."
+      }
+    },
+    {
+      "id": "a2-wb-131",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Omar cooks.",
+      "bank": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "text": "Omar ___ dinner every evening.",
+      "answers": [
+        "cooks"
+      ],
+      "wrongReasons": {
+        "cook": "\"cook\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Omar\".",
+        "cooking": "\"cooking\" needs \"is\" before it. A routine uses the present simple: \"cooks\"."
+      }
+    },
+    {
+      "id": "a2-wb-132",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: our teacher writes.",
+      "bank": [
+        "write",
+        "writes",
+        "writing"
+      ],
+      "text": "Our teacher always ___ emails.",
+      "answers": [
+        "writes"
+      ],
+      "wrongReasons": {
+        "write": "\"write\" is the base form. It is used with I, you, we, they and plural subjects, not with \"our teacher\".",
+        "writing": "\"writing\" needs \"is\" before it. A routine uses the present simple: \"writes\"."
+      }
+    },
+    {
+      "id": "a2-wb-133",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: the children make.",
+      "bank": [
+        "make",
+        "makes",
+        "making"
+      ],
+      "text": "The children usually ___ a cake.",
+      "answers": [
+        "make"
+      ],
+      "wrongReasons": {
+        "makes": "\"makes\" is for he, she, it and one person or thing. With \"the children\" we use the base form \"make\".",
+        "making": "\"making\" needs \"are\" before it. A routine uses the present simple: \"make\"."
+      }
+    },
+    {
+      "id": "a2-wb-134",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: Ben and Lucy wash.",
+      "bank": [
+        "wash",
+        "washes",
+        "washing"
+      ],
+      "text": "Ben and Lucy ___ the dishes every morning.",
+      "answers": [
+        "wash"
+      ],
+      "wrongReasons": {
+        "washes": "\"washes\" is for he, she, it and one person or thing. With \"Ben and Lucy\" we use the base form \"wash\".",
+        "washing": "\"washing\" needs \"are\" before it. A routine uses the present simple: \"wash\"."
+      }
+    },
+    {
+      "id": "a2-wb-135",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: my parents work.",
+      "bank": [
+        "work",
+        "works",
+        "working"
+      ],
+      "text": "My parents always ___ in a hospital.",
+      "answers": [
+        "work"
+      ],
+      "wrongReasons": {
+        "works": "\"works\" is for he, she, it and one person or thing. With \"my parents\" we use the base form \"work\".",
+        "working": "\"working\" needs \"are\" before it. A routine uses the present simple: \"work\"."
+      }
     }
   ]
 }

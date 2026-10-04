@@ -59,6 +59,2888 @@
       "correctPositions": [
         1
       ]
+    },
+    {
+      "id": "a2-pw-004",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Kate always watches a film.",
+      "word": "always",
+      "tokens": [
+        "Kate",
+        "watches",
+        "a",
+        "film"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-005",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Lily rarely finishes work.",
+      "word": "rarely",
+      "tokens": [
+        "Lily",
+        "finishes",
+        "work"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-006",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Dan usually goes to school by bus.",
+      "word": "usually",
+      "tokens": [
+        "Dan",
+        "goes",
+        "to",
+        "school",
+        "by",
+        "bus"
+      ],
+      "correctPositions": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-007",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: He must sometimes drive to work.",
+      "word": "sometimes",
+      "tokens": [
+        "He",
+        "must",
+        "drive",
+        "to",
+        "work"
+      ],
+      "correctPositions": [
+        2,
+        0,
+        5
+      ]
+    },
+    {
+      "id": "a2-pw-008",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Mia can usually love chocolate.",
+      "word": "usually",
+      "tokens": [
+        "Mia",
+        "can",
+        "love",
+        "chocolate"
+      ],
+      "correctPositions": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-009",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Sam and I can always run to the shop.",
+      "word": "always",
+      "tokens": [
+        "Sam and I",
+        "can",
+        "run",
+        "to",
+        "the",
+        "shop"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-010",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Mark rarely washes the car.",
+      "word": "rarely",
+      "tokens": [
+        "Mark",
+        "washes",
+        "the",
+        "car"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-011",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Ivan never buys bread.",
+      "word": "never",
+      "tokens": [
+        "Ivan",
+        "buys",
+        "bread"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-012",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Tom and Anna rarely go to school by bus.",
+      "word": "rarely",
+      "tokens": [
+        "Tom and Anna",
+        "go",
+        "to",
+        "school",
+        "by",
+        "bus"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-013",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: My parents often listen to music.",
+      "word": "often",
+      "tokens": [
+        "My parents",
+        "listen",
+        "to",
+        "music"
+      ],
+      "correctPositions": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-014",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Paul must never like pizza.",
+      "word": "never",
+      "tokens": [
+        "Paul",
+        "must",
+        "like",
+        "pizza"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-015",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: I am rarely on time.",
+      "word": "rarely",
+      "tokens": [
+        "I",
+        "am",
+        "on",
+        "time"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-016",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Our teacher is sometimes at home.",
+      "word": "sometimes",
+      "tokens": [
+        "Our teacher",
+        "is",
+        "at",
+        "home"
+      ],
+      "correctPositions": [
+        2,
+        0,
+        4
+      ]
+    },
+    {
+      "id": "a2-pw-017",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Sam never swims in a pool.",
+      "word": "never",
+      "tokens": [
+        "Sam",
+        "swims",
+        "in",
+        "a",
+        "pool"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-018",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: He rarely plays football with friends.",
+      "word": "rarely",
+      "tokens": [
+        "He",
+        "plays",
+        "football",
+        "with",
+        "friends"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-019",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Eva usually rides a bike.",
+      "word": "usually",
+      "tokens": [
+        "Eva",
+        "rides",
+        "a",
+        "bike"
+      ],
+      "correctPositions": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-020",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Ben never sings in a choir.",
+      "word": "never",
+      "tokens": [
+        "Ben",
+        "sings",
+        "in",
+        "a",
+        "choir"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-021",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Omar sometimes wants some water.",
+      "word": "sometimes",
+      "tokens": [
+        "Omar",
+        "wants",
+        "some",
+        "water"
+      ],
+      "correctPositions": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "id": "a2-pw-022",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Lily rarely writes emails.",
+      "word": "rarely",
+      "tokens": [
+        "Lily",
+        "writes",
+        "emails"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-023",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Ben is often tired.",
+      "word": "often",
+      "tokens": [
+        "Ben",
+        "is",
+        "tired"
+      ],
+      "correctPositions": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-024",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Ben always cooks rice.",
+      "word": "always",
+      "tokens": [
+        "Ben",
+        "cooks",
+        "rice"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-025",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Lily must usually jump on the bed.",
+      "word": "usually",
+      "tokens": [
+        "Lily",
+        "must",
+        "jump",
+        "on",
+        "the",
+        "bed"
+      ],
+      "correctPositions": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-026",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Ben and Lucy never work in a hospital.",
+      "word": "never",
+      "tokens": [
+        "Ben and Lucy",
+        "work",
+        "in",
+        "a",
+        "hospital"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-027",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Anna is often busy.",
+      "word": "often",
+      "tokens": [
+        "Anna",
+        "is",
+        "busy"
+      ],
+      "correctPositions": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-028",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Rosa often washes the car.",
+      "word": "often",
+      "tokens": [
+        "Rosa",
+        "washes",
+        "the",
+        "car"
+      ],
+      "correctPositions": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-029",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Ben and Lucy usually drink milk.",
+      "word": "usually",
+      "tokens": [
+        "Ben and Lucy",
+        "drink",
+        "milk"
+      ],
+      "correctPositions": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-030",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Tom usually waits for the bus.",
+      "word": "usually",
+      "tokens": [
+        "Tom",
+        "waits",
+        "for",
+        "the",
+        "bus"
+      ],
+      "correctPositions": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-031",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Sara should sometimes wait for the bus.",
+      "word": "sometimes",
+      "tokens": [
+        "Sara",
+        "should",
+        "wait",
+        "for",
+        "the",
+        "bus"
+      ],
+      "correctPositions": [
+        2,
+        0,
+        6
+      ]
+    },
+    {
+      "id": "a2-pw-032",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: You are usually happy.",
+      "word": "usually",
+      "tokens": [
+        "You",
+        "are",
+        "happy"
+      ],
+      "correctPositions": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-033",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Sara rarely reads a book.",
+      "word": "rarely",
+      "tokens": [
+        "Sara",
+        "reads",
+        "a",
+        "book"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-034",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: The girls are always on time.",
+      "word": "always",
+      "tokens": [
+        "The girls",
+        "are",
+        "on",
+        "time"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-035",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Lily rarely sings in a choir.",
+      "word": "rarely",
+      "tokens": [
+        "Lily",
+        "sings",
+        "in",
+        "a",
+        "choir"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-036",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Nina rarely buys bread.",
+      "word": "rarely",
+      "tokens": [
+        "Nina",
+        "buys",
+        "bread"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-037",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Paul should never live near the sea.",
+      "word": "never",
+      "tokens": [
+        "Paul",
+        "should",
+        "live",
+        "near",
+        "the",
+        "sea"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-038",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Hugo never needs a new bag.",
+      "word": "never",
+      "tokens": [
+        "Hugo",
+        "needs",
+        "a",
+        "new",
+        "bag"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-039",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: My brother is never happy.",
+      "word": "never",
+      "tokens": [
+        "My brother",
+        "is",
+        "happy"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-040",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Anna must rarely make a cake.",
+      "word": "rarely",
+      "tokens": [
+        "Anna",
+        "must",
+        "make",
+        "a",
+        "cake"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-041",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Ravi must never play the guitar.",
+      "word": "never",
+      "tokens": [
+        "Ravi",
+        "must",
+        "play",
+        "the",
+        "guitar"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-042",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Tom is rarely ready.",
+      "word": "rarely",
+      "tokens": [
+        "Tom",
+        "is",
+        "ready"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-043",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: My sister usually asks questions.",
+      "word": "usually",
+      "tokens": [
+        "My sister",
+        "asks",
+        "questions"
+      ],
+      "correctPositions": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-044",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: We should usually live in a small town.",
+      "word": "usually",
+      "tokens": [
+        "We",
+        "should",
+        "live",
+        "in",
+        "a",
+        "small",
+        "town"
+      ],
+      "correctPositions": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-045",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Lily is always happy.",
+      "word": "always",
+      "tokens": [
+        "Lily",
+        "is",
+        "happy"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-046",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Sam must usually sing songs.",
+      "word": "usually",
+      "tokens": [
+        "Sam",
+        "must",
+        "sing",
+        "songs"
+      ],
+      "correctPositions": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": "a2-pw-047",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: Hugo always drives a bus.",
+      "word": "always",
+      "tokens": [
+        "Hugo",
+        "drives",
+        "a",
+        "bus"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "a2-pw-048",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb, but after \"be\" and after modals: My friends are never at home.",
+      "word": "never",
+      "tokens": [
+        "My friends",
+        "are",
+        "at",
+        "home"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-049",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Zoe must not listen to music.",
+      "word": "not",
+      "tokens": [
+        "Zoe",
+        "must",
+        "listen",
+        "to",
+        "music"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-050",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Dan can not ask questions.",
+      "word": "not",
+      "tokens": [
+        "Dan",
+        "can",
+        "ask",
+        "questions"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-051",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Maya can not drive a bus.",
+      "word": "not",
+      "tokens": [
+        "Maya",
+        "can",
+        "drive",
+        "a",
+        "bus"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-052",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: You should not speak French.",
+      "word": "not",
+      "tokens": [
+        "You",
+        "should",
+        "speak",
+        "French"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-053",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Zoe should not want a new phone.",
+      "word": "not",
+      "tokens": [
+        "Zoe",
+        "should",
+        "want",
+        "a",
+        "new",
+        "phone"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-054",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: The children should not know the answer.",
+      "word": "not",
+      "tokens": [
+        "The children",
+        "should",
+        "know",
+        "the",
+        "answer"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-055",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Mark must not know the answer.",
+      "word": "not",
+      "tokens": [
+        "Mark",
+        "must",
+        "know",
+        "the",
+        "answer"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-056",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Paul should not want a new phone.",
+      "word": "not",
+      "tokens": [
+        "Paul",
+        "should",
+        "want",
+        "a",
+        "new",
+        "phone"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-057",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Paul should not call a friend.",
+      "word": "not",
+      "tokens": [
+        "Paul",
+        "should",
+        "call",
+        "a",
+        "friend"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-058",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Ben and Lucy can not help the teacher.",
+      "word": "not",
+      "tokens": [
+        "Ben and Lucy",
+        "can",
+        "help",
+        "the",
+        "teacher"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-059",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Ivan should not play football with friends.",
+      "word": "not",
+      "tokens": [
+        "Ivan",
+        "should",
+        "play",
+        "football",
+        "with",
+        "friends"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-060",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Kate should not love music.",
+      "word": "not",
+      "tokens": [
+        "Kate",
+        "should",
+        "love",
+        "music"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-061",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: My brother must not help the teacher.",
+      "word": "not",
+      "tokens": [
+        "My brother",
+        "must",
+        "help",
+        "the",
+        "teacher"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-062",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Sara can not paint pictures.",
+      "word": "not",
+      "tokens": [
+        "Sara",
+        "can",
+        "paint",
+        "pictures"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-063",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: The girls must not walk to work.",
+      "word": "not",
+      "tokens": [
+        "The girls",
+        "must",
+        "walk",
+        "to",
+        "work"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-064",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: You must not eat an apple.",
+      "word": "not",
+      "tokens": [
+        "You",
+        "must",
+        "eat",
+        "an",
+        "apple"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-065",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: I can not sleep on the sofa.",
+      "word": "not",
+      "tokens": [
+        "I",
+        "can",
+        "sleep",
+        "on",
+        "the",
+        "sofa"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-066",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: My friends should not want some water.",
+      "word": "not",
+      "tokens": [
+        "My friends",
+        "should",
+        "want",
+        "some",
+        "water"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-067",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: My brother can not swim in the sea.",
+      "word": "not",
+      "tokens": [
+        "My brother",
+        "can",
+        "swim",
+        "in",
+        "the",
+        "sea"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-068",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: My father can not cook rice.",
+      "word": "not",
+      "tokens": [
+        "My father",
+        "can",
+        "cook",
+        "rice"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-069",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: The boys must not sleep on the sofa.",
+      "word": "not",
+      "tokens": [
+        "The boys",
+        "must",
+        "sleep",
+        "on",
+        "the",
+        "sofa"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-070",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Kate can not watch TV.",
+      "word": "not",
+      "tokens": [
+        "Kate",
+        "can",
+        "watch",
+        "TV"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-071",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: She can not walk in the park.",
+      "word": "not",
+      "tokens": [
+        "She",
+        "can",
+        "walk",
+        "in",
+        "the",
+        "park"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-072",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: The boys can not drive to work.",
+      "word": "not",
+      "tokens": [
+        "The boys",
+        "can",
+        "drive",
+        "to",
+        "work"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-073",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Maya should not wash the car.",
+      "word": "not",
+      "tokens": [
+        "Maya",
+        "should",
+        "wash",
+        "the",
+        "car"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-074",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: Tom must not drink milk.",
+      "word": "not",
+      "tokens": [
+        "Tom",
+        "must",
+        "drink",
+        "milk"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-075",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"not\" goes after the modal verb: My friends can not need a new bag.",
+      "word": "not",
+      "tokens": [
+        "My friends",
+        "can",
+        "need",
+        "a",
+        "new",
+        "bag"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-076",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": Maya did not wear a red dress.",
+      "word": "not",
+      "tokens": [
+        "Maya",
+        "did",
+        "wear",
+        "a",
+        "red",
+        "dress"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-077",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": My mother did not know the answer.",
+      "word": "not",
+      "tokens": [
+        "My mother",
+        "did",
+        "know",
+        "the",
+        "answer"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-078",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Lily ever ride a horse?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Lily",
+        "ride",
+        "a",
+        "horse",
+        "yesterday"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-079",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Jack ever know the answer?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Jack",
+        "know",
+        "the",
+        "answer",
+        "last",
+        "year"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-080",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did our teacher ever have a big lunch?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "our teacher",
+        "have",
+        "a",
+        "big",
+        "lunch",
+        "two",
+        "days",
+        "ago"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-081",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": Lily did not watch a film.",
+      "word": "not",
+      "tokens": [
+        "Lily",
+        "did",
+        "watch",
+        "a",
+        "film"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-082",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": You did not help a friend.",
+      "word": "not",
+      "tokens": [
+        "You",
+        "did",
+        "help",
+        "a",
+        "friend"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-083",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": The boys did not sing a song.",
+      "word": "not",
+      "tokens": [
+        "The boys",
+        "did",
+        "sing",
+        "a",
+        "song"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-084",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": Dan did not send a letter.",
+      "word": "not",
+      "tokens": [
+        "Dan",
+        "did",
+        "send",
+        "a",
+        "letter"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-085",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Omar ever find a wallet?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Omar",
+        "find",
+        "a",
+        "wallet",
+        "last",
+        "year"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-086",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Omar ever decide to stay at home?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Omar",
+        "decide",
+        "to",
+        "stay",
+        "at",
+        "home",
+        "in",
+        "2019"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-087",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": Paul did not know the answer.",
+      "word": "not",
+      "tokens": [
+        "Paul",
+        "did",
+        "know",
+        "the",
+        "answer"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-088",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did he ever think about the problem?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "he",
+        "think",
+        "about",
+        "the",
+        "problem",
+        "last",
+        "night"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-089",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Emma ever stay at a hotel?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Emma",
+        "stay",
+        "at",
+        "a",
+        "hotel",
+        "last",
+        "year"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-090",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Lily ever send a letter?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Lily",
+        "send",
+        "a",
+        "letter",
+        "last",
+        "year"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-091",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": They did not work in a shop.",
+      "word": "not",
+      "tokens": [
+        "They",
+        "did",
+        "work",
+        "in",
+        "a",
+        "shop"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-092",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Mark ever send a letter?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Mark",
+        "send",
+        "a",
+        "letter",
+        "two",
+        "days",
+        "ago"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-093",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Lucy ever walk to the park?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Lucy",
+        "walk",
+        "to",
+        "the",
+        "park",
+        "in",
+        "2019"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-094",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did the children ever ask a question?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "the children",
+        "ask",
+        "a",
+        "question",
+        "this",
+        "morning"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-095",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Ben ever sit on the sofa?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Ben",
+        "sit",
+        "on",
+        "the",
+        "sofa",
+        "in",
+        "2019"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-096",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": Tom did not clean the kitchen.",
+      "word": "not",
+      "tokens": [
+        "Tom",
+        "did",
+        "clean",
+        "the",
+        "kitchen"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-097",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Anna ever think about the problem?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Anna",
+        "think",
+        "about",
+        "the",
+        "problem",
+        "last",
+        "weekend"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-098",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did my brother ever arrive at the station?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "my brother",
+        "arrive",
+        "at",
+        "the",
+        "station",
+        "last",
+        "night"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-099",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": My parents did not build a small house.",
+      "word": "not",
+      "tokens": [
+        "My parents",
+        "did",
+        "build",
+        "a",
+        "small",
+        "house"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-100",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Ben and Lucy ever drink orange juice?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Ben and Lucy",
+        "drink",
+        "orange",
+        "juice",
+        "two",
+        "days",
+        "ago"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-101",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Paul ever hear a strange noise?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Paul",
+        "hear",
+        "a",
+        "strange",
+        "noise",
+        "yesterday"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-102",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": Leo did not ride a horse.",
+      "word": "not",
+      "tokens": [
+        "Leo",
+        "did",
+        "ride",
+        "a",
+        "horse"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-103",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a past negative \"not\" goes after \"did\": Sara did not speak to the manager.",
+      "word": "not",
+      "tokens": [
+        "Sara",
+        "did",
+        "speak",
+        "to",
+        "the",
+        "manager"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-104",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Zoe ever speak to the manager?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Zoe",
+        "speak",
+        "to",
+        "the",
+        "manager",
+        "yesterday"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-105",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a question \"ever\" goes after the subject: Did Mark ever lose the keys?",
+      "word": "ever",
+      "tokens": [
+        "Did",
+        "Mark",
+        "lose",
+        "the",
+        "keys",
+        "last",
+        "night"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-106",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"far\" makes a comparison stronger and goes before the comparative: Paul is far thinner than Lily.",
+      "word": "far",
+      "tokens": [
+        "Paul",
+        "is",
+        "thinner",
+        "than",
+        "Lily"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-107",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"far\" makes a comparison stronger and goes before the comparative: Zoe is far stronger than Jack.",
+      "word": "far",
+      "tokens": [
+        "Zoe",
+        "is",
+        "stronger",
+        "than",
+        "Jack"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-108",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: The red car is much bigger than the blue car.",
+      "word": "much",
+      "tokens": [
+        "The red car",
+        "is",
+        "bigger",
+        "than",
+        "the",
+        "blue",
+        "car"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-109",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: This road is much bigger than that road.",
+      "word": "much",
+      "tokens": [
+        "This road",
+        "is",
+        "bigger",
+        "than",
+        "that",
+        "road"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-110",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"far\" makes a comparison stronger and goes before the comparative: The red car is far cleaner than the blue car.",
+      "word": "far",
+      "tokens": [
+        "The red car",
+        "is",
+        "cleaner",
+        "than",
+        "the",
+        "blue",
+        "car"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-111",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: My phone is much easier than your phone.",
+      "word": "much",
+      "tokens": [
+        "My phone",
+        "is",
+        "easier",
+        "than",
+        "your",
+        "phone"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-112",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"far\" makes a comparison stronger and goes before the comparative: This book is far more interesting than that book.",
+      "word": "far",
+      "tokens": [
+        "This book",
+        "is",
+        "more",
+        "interesting",
+        "than",
+        "that",
+        "book"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-113",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: My phone is much later than your phone.",
+      "word": "much",
+      "tokens": [
+        "My phone",
+        "is",
+        "later",
+        "than",
+        "your",
+        "phone"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-114",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"far\" makes a comparison stronger and goes before the comparative: Anna is far kinder than Leo.",
+      "word": "far",
+      "tokens": [
+        "Anna",
+        "is",
+        "kinder",
+        "than",
+        "Leo"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-115",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"far\" makes a comparison stronger and goes before the comparative: This book is far bigger than that book.",
+      "word": "far",
+      "tokens": [
+        "This book",
+        "is",
+        "bigger",
+        "than",
+        "that",
+        "book"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-116",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: Our house is much nicer than their house.",
+      "word": "much",
+      "tokens": [
+        "Our house",
+        "is",
+        "nicer",
+        "than",
+        "their",
+        "house"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-117",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: My phone is much wider than your phone.",
+      "word": "much",
+      "tokens": [
+        "My phone",
+        "is",
+        "wider",
+        "than",
+        "your",
+        "phone"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-118",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: Nina is much more patient than Omar.",
+      "word": "much",
+      "tokens": [
+        "Nina",
+        "is",
+        "more",
+        "patient",
+        "than",
+        "Omar"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-119",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: This shop is much wider than that shop.",
+      "word": "much",
+      "tokens": [
+        "This shop",
+        "is",
+        "wider",
+        "than",
+        "that",
+        "shop"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-120",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: My room is much cheaper than your room.",
+      "word": "much",
+      "tokens": [
+        "My room",
+        "is",
+        "cheaper",
+        "than",
+        "your",
+        "room"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-121",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"far\" makes a comparison stronger and goes before the comparative: Nina is far more patient than Tom.",
+      "word": "far",
+      "tokens": [
+        "Nina",
+        "is",
+        "more",
+        "patient",
+        "than",
+        "Tom"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-122",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: This film is much quieter than that film.",
+      "word": "much",
+      "tokens": [
+        "This film",
+        "is",
+        "quieter",
+        "than",
+        "that",
+        "film"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-123",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: This shop is much more difficult than that shop.",
+      "word": "much",
+      "tokens": [
+        "This shop",
+        "is",
+        "more",
+        "difficult",
+        "than",
+        "that",
+        "shop"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-124",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"far\" makes a comparison stronger and goes before the comparative: This film is far more famous than that film.",
+      "word": "far",
+      "tokens": [
+        "This film",
+        "is",
+        "more",
+        "famous",
+        "than",
+        "that",
+        "film"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-125",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "\"much\" makes a comparison stronger and goes before the comparative: The red car is much worse than the blue car.",
+      "word": "much",
+      "tokens": [
+        "The red car",
+        "is",
+        "worse",
+        "than",
+        "the",
+        "blue",
+        "car"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-126",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In negative sentences \"any\" goes before the noun: There aren't any tomatoes in my bag.",
+      "word": "any",
+      "tokens": [
+        "There",
+        "aren't",
+        "tomatoes",
+        "in",
+        "my",
+        "bag"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-127",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Are there any biscuits in my bag?",
+      "word": "any",
+      "tokens": [
+        "Are",
+        "there",
+        "biscuits",
+        "in",
+        "my",
+        "bag"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-128",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In negative sentences \"any\" goes before the noun: There aren't any shoes in the fridge.",
+      "word": "any",
+      "tokens": [
+        "There",
+        "aren't",
+        "shoes",
+        "in",
+        "the",
+        "fridge"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-129",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In negative sentences \"any\" goes before the noun: There aren't any bags on the shelf.",
+      "word": "any",
+      "tokens": [
+        "There",
+        "aren't",
+        "bags",
+        "on",
+        "the",
+        "shelf"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-130",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In negative sentences \"any\" goes before the noun: There isn't any salad on the shelf.",
+      "word": "any",
+      "tokens": [
+        "There",
+        "isn't",
+        "salad",
+        "on",
+        "the",
+        "shelf"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-131",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Are there any cups on the table?",
+      "word": "any",
+      "tokens": [
+        "Are",
+        "there",
+        "cups",
+        "on",
+        "the",
+        "table"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-132",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In negative sentences \"any\" goes before the noun: There isn't any music on the shelf.",
+      "word": "any",
+      "tokens": [
+        "There",
+        "isn't",
+        "music",
+        "on",
+        "the",
+        "shelf"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-133",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In negative sentences \"any\" goes before the noun: There isn't any juice in the kitchen.",
+      "word": "any",
+      "tokens": [
+        "There",
+        "isn't",
+        "juice",
+        "in",
+        "the",
+        "kitchen"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-134",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In positive sentences \"some\" goes before the noun: There is some salt in my bag.",
+      "word": "some",
+      "tokens": [
+        "There",
+        "is",
+        "salt",
+        "in",
+        "my",
+        "bag"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-135",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In positive sentences \"some\" goes before the noun: There is some money on the shelf.",
+      "word": "some",
+      "tokens": [
+        "There",
+        "is",
+        "money",
+        "on",
+        "the",
+        "shelf"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-136",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Are there any friends in the kitchen?",
+      "word": "any",
+      "tokens": [
+        "Are",
+        "there",
+        "friends",
+        "in",
+        "the",
+        "kitchen"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-137",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Are there any cars on the table?",
+      "word": "any",
+      "tokens": [
+        "Are",
+        "there",
+        "cars",
+        "on",
+        "the",
+        "table"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-138",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Are there any pens in the kitchen?",
+      "word": "any",
+      "tokens": [
+        "Are",
+        "there",
+        "pens",
+        "in",
+        "the",
+        "kitchen"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-139",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Is there any music in the fridge?",
+      "word": "any",
+      "tokens": [
+        "Is",
+        "there",
+        "music",
+        "in",
+        "the",
+        "fridge"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-140",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Are there any oranges on the table?",
+      "word": "any",
+      "tokens": [
+        "Are",
+        "there",
+        "oranges",
+        "on",
+        "the",
+        "table"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-141",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Are there any apples in the kitchen?",
+      "word": "any",
+      "tokens": [
+        "Are",
+        "there",
+        "apples",
+        "in",
+        "the",
+        "kitchen"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-142",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In negative sentences \"any\" goes before the noun: There isn't any tea in my bag.",
+      "word": "any",
+      "tokens": [
+        "There",
+        "isn't",
+        "tea",
+        "in",
+        "my",
+        "bag"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-143",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Is there any money in the kitchen?",
+      "word": "any",
+      "tokens": [
+        "Is",
+        "there",
+        "money",
+        "in",
+        "the",
+        "kitchen"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-144",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Are there any students in the kitchen?",
+      "word": "any",
+      "tokens": [
+        "Are",
+        "there",
+        "students",
+        "in",
+        "the",
+        "kitchen"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-145",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In negative sentences \"any\" goes before the noun: There isn't any coffee in the kitchen.",
+      "word": "any",
+      "tokens": [
+        "There",
+        "isn't",
+        "coffee",
+        "in",
+        "the",
+        "kitchen"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-146",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Are there any cups on the shelf?",
+      "word": "any",
+      "tokens": [
+        "Are",
+        "there",
+        "cups",
+        "on",
+        "the",
+        "shelf"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-147",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In positive sentences \"some\" goes before the noun: There are some eggs in my bag.",
+      "word": "some",
+      "tokens": [
+        "There",
+        "are",
+        "eggs",
+        "in",
+        "my",
+        "bag"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-148",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In negative sentences \"any\" goes before the noun: There isn't any cheese in the kitchen.",
+      "word": "any",
+      "tokens": [
+        "There",
+        "isn't",
+        "cheese",
+        "in",
+        "the",
+        "kitchen"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-149",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In negative sentences \"any\" goes before the noun: There aren't any bottles in the kitchen.",
+      "word": "any",
+      "tokens": [
+        "There",
+        "aren't",
+        "bottles",
+        "in",
+        "the",
+        "kitchen"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "a2-pw-150",
+      "type": "place-word",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions \"any\" goes before the noun: Are there any chairs on the table?",
+      "word": "any",
+      "tokens": [
+        "Are",
+        "there",
+        "chairs",
+        "on",
+        "the",
+        "table"
+      ],
+      "correctPositions": [
+        2
+      ]
     }
   ]
 }
