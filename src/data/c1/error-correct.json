@@ -9,6 +9,10 @@
       "topic": "inversion",
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'Hardly' use inversion with the past perfect: Hardly had I left.",
+      "wrongReasons": {
+        "hardly i had left the office when it started to snow": "After 'Hardly' at the start, the auxiliary 'had' must come before the subject: Hardly had I left.",
+        "hardly had i left the office when it was snowing": "Keep the pattern 'Hardly had I left ... when it started to snow'. Only the word order of the first part needs to change."
+      },
       "wrong": "Hardly I had left the office when it started to snow.",
       "solutions": [
         "Hardly had I left the office when it started to snow."
@@ -21,6 +25,10 @@
       "topic": "conditionals",
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In an inverted third conditional, use 'Had + subject + past participle': Had I known.",
+      "wrongReasons": {
+        "had i would known, i would have helped": "In an inverted conditional, 'Had' replaces 'If' and is followed by the subject and a past participle. We do not add 'would': Had I known.",
+        "if i had known, i would have helped": "This sentence is correct in meaning, but the task is to use the inverted form 'Had I known'."
+      },
       "wrong": "Had I would known, I would have helped.",
       "solutions": [
         "Had I known, I would have helped."

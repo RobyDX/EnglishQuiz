@@ -21,8 +21,12 @@ export default function AboutPage() {
     <div className="col-12 col-lg-8 mx-auto">
       <h1 className="h3">About</h1>
       <p>
-        EnglishQuiz helps you practise English at six CEFR levels (A1–C2). Each quiz mixes different kinds of exercises. When an answer is
+        English Quiz helps you practise English at six CEFR levels (A1–C2). Each quiz mixes different kinds of exercises. When an answer is
         wrong, you see why and the rule behind it.
+      </p>
+      <h2 className="h5">The author</h2>
+      <p>
+        English Quiz is made by <strong>Roberto Nacchia</strong>, also known as <strong>RobyDx</strong>.
       </p>
       <h2 className="h5">Use it offline</h2>
       <p>

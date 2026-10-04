@@ -30,7 +30,24 @@ const SEEN_MAX = 100;
 export const loadPrefs = (): Prefs => ({ questionCount: 10, ...read<Partial<Prefs>>('eq.prefs', {}) });
 export const savePrefs = (p: Prefs) => write('eq.prefs', p);
 
-export const loadHistory = (): HistoryEntry[] => read<HistoryEntry[]>('eq.history', []);
+/**
+ * Older versions saved some quizzes twice (same result, a few ms apart): such duplicates are ignored.
+ * The list is ordered from the most recent to the oldest.
+ */
+export function loadHistory(): HistoryEntry[] {
+  const out: HistoryEntry[] = [];
+  for (const e of read<HistoryEntry[]>('eq.history', [])) {
+    const prev = out[out.length - 1];
+    const duplicate =
+      prev &&
+      prev.level === e.level &&
+      prev.total === e.total &&
+      prev.correct === e.correct &&
+      Math.abs(new Date(prev.date).getTime() - new Date(e.date).getTime()) < 2000;
+    if (!duplicate) out.push(e);
+  }
+  return out;
+}
 export function addHistory(entry: HistoryEntry) {
   write('eq.history', [entry, ...loadHistory()].slice(0, HISTORY_MAX));
 }

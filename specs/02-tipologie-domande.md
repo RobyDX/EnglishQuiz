@@ -17,7 +17,10 @@ Ogni tipologia ha: **scopo**, **interazione UI**, **schema JSON**, **regola di c
 - Tutto il testo (prompt, opzioni, `explanation`, `wrongReasons`) è **in inglese**.
 - `explanation` = la **regola** grammaticale/lessicale in 1–2 frasi, con un esempio corretto.
 - `wrongReasons` (chiave = indice dell'opzione, per i tipi a scelta) = **perché quella risposta specifica è sbagliata**. Se manca, l'app mostra "Your answer doesn't match the rule below." seguito dalla regola.
-- Tipi con testo libero (`fill-blank`, `verb-conjugate`, `error-correct`, `transform`, `word-order`): `wrongReasons` usa come chiave la risposta errata frequente normalizzata (es. `"goed": "'go' is irregular: the past is 'went', not 'goed'."`).
+- **`word-bank`**: ogni parola del riquadro che non è la risposta giusta **deve** avere una spiegazione propria (obbligatorio, verificato dai test). Chiave = la parola (`"the"`), oppure `"<n° spazio da 0>:<parola>"` (es. `"0:are"`) quando la stessa parola è sbagliata per motivi diversi in spazi diversi. La chiave per spazio ha la precedenza. Esempio per *I saw ___ elephant*: `a` → "used before a consonant sound…", `the` → "used for something specific both people already know…". Quando più spazi sono sbagliati, le spiegazioni si mostrano tutte.
+- **`fill-blank`, `verb-conjugate`, `error-correct`** (testo libero): `wrongReasons` è obbligatorio con almeno uno degli errori tipici; chiave = risposta errata normalizzata (minuscolo, senza punteggiatura finale), per i gap anche `"<n° spazio>:<risposta>"` (es. `"goed": "'go' is irregular: the past is 'went', not 'goed'."`).
+- **`transform`, `word-order`, `place-word`, `error-spot`**: `wrongReasons` opzionale (chiave = risposta normalizzata o indice).
+- **Fallback** (quando non c'è una spiegazione scritta per la risposta data), sempre legato alla risposta: scelta → `"X" does not fit here.`; gap → `"X" does not fit in gap n.`; error-spot → `"X" is correct in this sentence. The mistake is "Y".`; true/false → `Statement n is true/false according to the text.`; reading → `Question n: the text supports "Y".`; match → `"left" matches "right", not "X".`; poi sempre la regola.
 
 Risposta data dall'utente = `A` (tipo specifico). Domanda non risposta = errata.
 

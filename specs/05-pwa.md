@@ -6,8 +6,8 @@ Installabile su Android/iOS/desktop, avvio offline, aggiornamenti controllati.
 ## Web App Manifest (generato da `vite-plugin-pwa`)
 ```json
 {
-  "name": "EnglishQuiz",
-  "short_name": "EnglishQuiz",
+  "name": "English Quiz",
+  "short_name": "English Quiz",
   "description": "English exercises by CEFR level",
   "lang": "en",
   "start_url": ".",

@@ -1,5 +1,5 @@
 import { Alert, Badge, Card } from 'react-bootstrap';
-import { formatAnswer, formatSolution, isAnswered, wrongReasonFor } from '../engine/rules';
+import { explainWrong, formatAnswer, formatSolution, isAnswered } from '../engine/rules';
 import { QuestionBody } from '../questions/registry';
 import type { Question } from '../types';
 
@@ -61,7 +61,7 @@ export default function QuestionCard({ index, question: q, answer, onChange, sub
             </p>
             {!empty && (
               <p className="mb-1">
-                <strong>Why it&apos;s wrong:</strong> {wrongReasonFor(q, answer) ?? "Your answer doesn't match the rule below."}
+                <strong>Why it&apos;s wrong:</strong> {explainWrong(q, answer)}
               </p>
             )}
             <p className="mb-0">

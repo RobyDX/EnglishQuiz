@@ -9,6 +9,10 @@
       "topic": "inversion",
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'Little' at the start of a sentence, use inversion with 'did': Little did he know.",
+      "wrongReasons": {
+        "little he knew that his life was about to change": "After 'Little' at the start of a sentence, we need inversion with an auxiliary: Little did he know.",
+        "little knew he that his life was about to change": "Use an auxiliary: 'did he know', not 'knew he'."
+      },
       "wrong": "Little he knew that his life was about to change.",
       "solutions": [
         "Little did he know that his life was about to change."
@@ -21,6 +25,9 @@
       "topic": "conditionals",
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Inverted second conditional: 'Were I you' (no 'to be' after 'Were I').",
+      "wrongReasons": {
+        "were i to be you, i would accept the offer": "'Were I to' is used with other verbs (Were I to leave...). With 'be' we say 'Were I you' or 'If I were you'."
+      },
       "wrong": "Were I to be you, I would accept the offer.",
       "solutions": [
         "Were I you, I would accept the offer.",

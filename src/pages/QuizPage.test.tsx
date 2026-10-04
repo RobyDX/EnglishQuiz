@@ -1,3 +1,4 @@
+import { StrictMode } from 'react';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import { cleanup, render, screen, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
@@ -32,14 +33,17 @@ vi.mock('../data', () => ({ loadLevel: () => Promise.resolve(pool) }));
 
 import QuizPage from './QuizPage';
 
-function renderQuiz() {
+function renderQuiz(strict = false) {
+  const Wrapper = strict ? StrictMode : ({ children }: { children: React.ReactNode }) => <>{children}</>;
   return render(
+    <Wrapper>
     <MemoryRouter initialEntries={['/quiz/A1?n=5']}>
       <Routes>
         <Route path="/" element={<p>home</p>} />
         <Route path="/quiz/:level" element={<QuizPage />} />
       </Routes>
-    </MemoryRouter>,
+    </MemoryRouter>
+    </Wrapper>,
   );
 }
 
@@ -47,6 +51,21 @@ beforeEach(() => localStorage.clear());
 afterEach(cleanup);
 
 describe('QuizPage', () => {
+  it('has a sticky progress bar with a button that scrolls to the end of the page', async () => {
+    const user = userEvent.setup();
+    const scrollTo = vi.spyOn(window, 'scrollTo').mockImplementation(() => {});
+    renderQuiz();
+    await screen.findByRole('button', { name: 'Check answers' });
+
+    expect(screen.getByText('0 / 2 answered').closest('.quiz-bar')).toBeInTheDocument();
+    await user.click(screen.getByRole('button', { name: 'Go to the end of the page' }));
+    expect(scrollTo).toHaveBeenCalledWith(expect.objectContaining({ behavior: 'smooth' }));
+
+    await user.click(screen.getByLabelText('are'));
+    expect(screen.getByText('1 / 2 answered')).toBeInTheDocument();
+    scrollTo.mockRestore();
+  });
+
   it('scores the answers and explains a wrong one in English', async () => {
     const user = userEvent.setup();
     renderQuiz();
@@ -103,5 +122,16 @@ describe('QuizPage', () => {
     expect(screen.queryByRole('status')).not.toBeInTheDocument();
     expect(screen.getByLabelText('Gap 1')).toHaveValue('');
     expect(screen.getByRole('button', { name: 'Check answers' })).toBeInTheDocument();
+  });
+
+  it('saves a quiz in the history only once, even in StrictMode and on double click', async () => {
+    const user = userEvent.setup();
+    renderQuiz(true);
+    await screen.findByRole('button', { name: 'Check answers' });
+    await user.click(screen.getByLabelText('are'));
+    await user.type(screen.getByLabelText('Gap 1'), 'am');
+    await user.dblClick(screen.getByRole('button', { name: 'Check answers' }));
+    await screen.findByRole('status');
+    expect(JSON.parse(localStorage.getItem('eq.history') ?? '[]')).toHaveLength(1);
   });
 });

@@ -52,7 +52,7 @@ Dentro ogni livello, le domande sono distribuite sugli argomenti elencati in `02
 2. Una sola risposta corretta (o tutte le varianti valide elencate).
 3. Nessun duplicato: stesso `prompt`/frase non ripetuto nel livello (test automatico su testo normalizzato).
 4. Lessico e grammatica coerenti col livello CEFR; testi di lettura: A1–A2 40–70 parole, B1–B2 80–150, C1–C2 150–250.
-5. **Tutto in inglese** (domande, opzioni, spiegazioni), nessuna parola italiana. `explanation` (la regola con esempio, 1–2 frasi in inglese semplice, adatto al livello) presente sul **100%** delle domande. `wrongReasons` presente almeno per i distrattori principali di tutte le domande a scelta (`multiple-choice`, `verb-form`, `sentence-choice`, `odd-one-out`, `error-spot`) e per gli errori tipici delle domande a testo libero.
+5. **Tutto in inglese** (domande, opzioni, spiegazioni), nessuna parola italiana. `explanation` (la regola con esempio, 1–2 frasi in inglese semplice, adatto al livello) presente sul **100%** delle domande. `wrongReasons` **obbligatorio e diverso per ogni risposta sbagliata**: ogni opzione errata di `multiple-choice`, `verb-form`, `sentence-choice`; ogni parola errata del riquadro di `word-bank` (per ogni spazio); almeno gli errori tipici di `fill-blank`, `verb-conjugate`, `error-correct`. Una spiegazione che vale per una sola risposta sbagliata non va riusata per le altre (es. con *a / an / the*, spiegare separatamente perché `a` e perché `the` non vanno bene).
 6. Distrattori plausibili, posizione della risposta corretta distribuita (non sempre la prima: lo shuffle a runtime è comunque obbligatorio).
 
 ## Validazione automatica (`src/data/data.test.ts`)
@@ -61,6 +61,7 @@ Dentro ogni livello, le domande sono distribuite sugli argomenti elencati in `02
 - conteggio per livello ≥ 2000 e per tipologia ≥ 90% della quota;
 - nessun prompt duplicato nel livello;
 - quota `topic` entro il 5–20%;
+- `wrongReasons` completi: una voce per ogni distrattore delle domande a scelta e per ogni parola errata (per spazio) di `word-bank`; almeno una voce per `fill-blank`, `verb-conjugate`, `error-correct`;
 - `explanation` non vuota su ogni domanda; chiavi di `wrongReasons` valide (indici esistenti, mai la risposta corretta); controllo euristico di assenza di parole italiane comuni (es. "il", "della", "perché", "che");
 - ogni `place-word`: `correctPositions` valide; ogni `word-order`: le parole in `words` ricompongono una delle `solutions`.
 

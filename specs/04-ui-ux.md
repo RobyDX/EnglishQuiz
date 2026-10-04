@@ -8,9 +8,9 @@ Grafica con **Bootstrap 5**, approccio **mobile-first**. Tema chiaro con support
 | `#/` | HomePage | Scelta livello, numero domande, pulsante "Start" |
 | `#/quiz/:level` | QuizPage | Domande, pulsante "Check answers", risultato |
 | `#/history` | HistoryPage | Ultimi risultati, pulsante "Clear history" |
-| `#/about` | AboutPage | Info, versione, come installare l'app |
+| `#/about` | AboutPage | Info sull'app, autore (Roberto Nacchia, detto RobyDx), versione, come installare l'app |
 
-Navbar sticky con titolo "EnglishQuiz" e link Home / History / About (collassa in hamburger su mobile).
+Navbar sticky con titolo "English Quiz" (scritto con lo spazio) e link Home / History / About (collassa in hamburger su mobile).
 
 ## HomePage
 - 6 card/pulsanti livello in griglia: `row-cols-2 row-cols-md-3`, ognuna con codice (A1), nome ("Beginner") e breve descrizione.
@@ -29,9 +29,9 @@ Navbar sticky con titolo "EnglishQuiz" e link Home / History / About (collassa i
 ## QuizPage
 **Layout**: `container` con `col-12 col-lg-8 mx-auto`.
 
-1. Header: livello, barra di progresso `progress` (domande risposte / totale).
+1. **Barra livello/progresso sempre visibile** (`position: sticky` subito sotto la navbar, che è anch'essa fissa): livello, "n / totale answered", barra `progress`. **A destra, un pulsante "↓ End"** che scorre fino alla fine della pagina (dove sono i pulsanti di invio). L'altezza della navbar è letta a runtime (`--navbar-height`).
 2. Elenco di `card`, una per domanda: numero, consegna, componente della tipologia.
-3. Barra azioni in fondo (sticky-bottom su mobile):
+3. Barra azioni **alla fine dell'elenco di domande, non fissa (niente sticky)**: l'utente deve scorrere fino in fondo per inviare. I pulsanti non restano visibili durante la compilazione:
    - **Check answers** (primario, in `answering`) – chiede conferma se mancano risposte (modal Bootstrap).
    - Dopo l'invio: **Show correct answers** (secondario, toggle), **Try again**, **New quiz**, **Change level**.
 4. **ScoreCard** in cima dopo l'invio (scroll automatico): `"7 / 10 correct – 70%"`, progress bar colorata, messaggio di fascia. Region `aria-live="polite"`.
@@ -70,7 +70,7 @@ Nessuno scroll orizzontale a 360 px. Font base 16 px (evita lo zoom automatico d
 Per ogni domanda errata o vuota, subito dopo "Check answers", sotto la domanda compare un riquadro `alert-danger` (o `alert-warning` se vuota) con, in quest'ordine:
 1. **Your answer:** la risposta dell'utente (o "No answer").
 2. **Correct answer:** la risposta corretta.
-3. **Why it's wrong:** `wrongReasons` per la risposta data; se assente, il testo "Your answer doesn't match the rule below."
+3. **Why it's wrong:** la spiegazione scritta per **quella specifica risposta** (`wrongReasons`: ogni parola/opzione sbagliata ha il suo motivo); se manca, il fallback legato alla risposta (vedi `02-tipologie-domande.md`).
 4. **Rule:** `explanation` della domanda, con esempio.
 
 Per le domande corrette si mostra solo ✓ Correct. "Show correct answers" mostra Correct answer + Rule per **tutte** le domande, anche quelle giuste.

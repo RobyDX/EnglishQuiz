@@ -94,14 +94,24 @@ describe('question data', () => {
           break;
         case 'fill-blank':
         case 'verb-conjugate':
+          expect(Object.keys(q.wrongReasons ?? {}).length, `${id}: add wrongReasons for typical mistakes`).toBeGreaterThan(0);
           expect(q.text, id).toContain('___');
           expect(q.answers.length, id).toBe(countGaps(q.text));
           q.answers.forEach((a) => expect(a.length, id).toBeGreaterThan(0));
           break;
-        case 'word-bank':
+        case 'word-bank': {
           expect(q.answers.length, id).toBe(countGaps(q.text));
           q.answers.forEach((a) => expect(q.bank, id).toContain(a));
+          // every wrong word, in every gap, must have its own explanation (key `word` or `<gap>:word`)
+          const reasons = Object.fromEntries(Object.entries(q.wrongReasons ?? {}).map(([k, v]) => [k.toLowerCase(), v]));
+          q.answers.forEach((ans, gap) => {
+            for (const w of q.bank) {
+              if (w === ans) continue;
+              expect(reasons[`${gap}:${w.toLowerCase()}`] ?? reasons[w.toLowerCase()], `${id}: no wrongReason for "${w}" in gap ${gap + 1}`).toBeTruthy();
+            }
+          });
           break;
+        }
         case 'place-word':
           q.correctPositions.forEach((p) => {
             expect(p, id).toBeGreaterThanOrEqual(0);
@@ -119,6 +129,7 @@ describe('question data', () => {
           expect(q.fix, id).toBeTruthy();
           break;
         case 'error-correct':
+          expect(Object.keys(q.wrongReasons ?? {}).length, `${id}: add wrongReasons for typical mistakes`).toBeGreaterThan(0);
           expect(q.wrong, id).toBeTruthy();
           expect(q.solutions.length, id).toBeGreaterThan(0);
           break;

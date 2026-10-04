@@ -35,8 +35,8 @@ export default function HistoryPage() {
             </tr>
           </thead>
           <tbody>
-            {entries.map((e) => (
-              <tr key={e.date}>
+            {entries.map((e, i) => (
+              <tr key={`${e.date}-${i}`}>
                 <td>{new Date(e.date).toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short' })}</td>
                 <td>{e.level}</td>
                 <td>

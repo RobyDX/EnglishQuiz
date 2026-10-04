@@ -9,11 +9,16 @@
       "topic": "much-many",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "'Many' goes with plural countable nouns (chairs).",
+      "wrongReasons": {
+        "much": "'much' is used with uncountable nouns like water or money. 'Chairs' is a plural countable noun, so we use 'many'.",
+        "some": "'some' is normally used in positive sentences. This sentence is negative (aren't), so 'some' does not fit.",
+        "little": "'little' is used with uncountable nouns. 'Chairs' is countable."
+      },
       "bank": [
         "much",
         "many",
         "some",
-        "any"
+        "little"
       ],
       "text": "There aren't ___ chairs in the room.",
       "answers": [
@@ -27,6 +32,14 @@
       "topic": "prepositions",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "Use 'to' after verbs of movement and 'on' with days of the week.",
+      "wrongReasons": {
+        "0:at": "After a verb of movement like 'goes' we use 'to' for the destination, not 'at'.",
+        "0:in": "'in' means inside a place. After 'goes' we use 'to' for the destination.",
+        "0:on": "'on' is used with days and surfaces. For the destination after 'goes' we use 'to'.",
+        "1:at": "'at' is used with exact times (at six o'clock). With days of the week we use 'on'.",
+        "1:in": "'in' is used with months, years and parts of the day (in the morning). With days of the week we use 'on'.",
+        "1:to": "'to' shows direction or destination. With days of the week we use 'on'."
+      },
       "bank": [
         "at",
         "in",
@@ -46,6 +59,10 @@
       "topic": "frequency",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "'Never' means 0% of the time. It fits with someone who is a vegetarian.",
+      "wrongReasons": {
+        "always": "'always' means 100% of the time. A vegetarian does not eat meat, so this does not make sense.",
+        "sometimes": "'sometimes' means part of the time. A vegetarian never eats meat."
+      },
       "bank": [
         "always",
         "never",

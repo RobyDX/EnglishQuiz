@@ -9,6 +9,10 @@
       "topic": "inversion",
       "prompt": "Complete the sentence.",
       "explanation": "After 'So' + adjective at the start, the verb comes before the subject: So loud was the noise.",
+      "wrongReasons": {
+        "loudly": "After 'So' we need an adjective (loud) because it describes the noun 'noise'. 'Loudly' is an adverb.",
+        "louder": "'louder' is a comparative form. Here we need the basic adjective after 'So'."
+      },
       "text": "So ___ was the noise that we could not hear each other.",
       "answers": [
         [

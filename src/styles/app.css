@@ -58,12 +58,23 @@ body {
   min-height: 38px;
 }
 
-.action-bar {
+/* Level / progress bar: always visible, just below the sticky navbar. */
+:root {
+  --navbar-height: 56px;
+}
+.quiz-bar {
   position: sticky;
-  bottom: 0;
+  top: var(--navbar-height);
+  z-index: 1010;
   background: var(--bs-body-bg);
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--bs-border-color);
+}
+
+/* Actions sit at the end of the page: the user must scroll down to submit. */
+.action-bar {
   border-top: 1px solid var(--bs-border-color);
-  z-index: 5;
+  margin-top: 1rem;
 }
 
 .feedback p {

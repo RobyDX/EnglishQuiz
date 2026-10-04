@@ -14,8 +14,8 @@ export default defineConfig({
       registerType: 'prompt',
       includeAssets: ['favicon.svg'],
       manifest: {
-        name: 'EnglishQuiz',
-        short_name: 'EnglishQuiz',
+        name: 'English Quiz',
+        short_name: 'English Quiz',
         description: 'English exercises by CEFR level',
         lang: 'en',
         start_url: '.',

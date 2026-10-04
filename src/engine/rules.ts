@@ -169,7 +169,21 @@ export function formatSolution(q: Question): string {
   }
 }
 
-/** Keys to look up in `wrongReasons` for the given answer. */
+type GapQuestionLike = Extract<Question, { type: 'fill-blank' | 'verb-conjugate' | 'word-bank' }>;
+
+/** Indexes of the gaps that were filled in but wrongly. */
+function wrongGapIndexes(q: GapQuestionLike, a: unknown): number[] {
+  const v = strs(a);
+  const wrong: number[] = [];
+  for (let i = 0; i < countGaps(q.text); i++) {
+    if (!v[i] || v[i].trim() === '') continue;
+    const accepted = q.type === 'word-bank' ? [q.answers[i]] : q.answers[i];
+    if (!accepted.map(normalize).includes(normalize(v[i]))) wrong.push(i);
+  }
+  return wrong;
+}
+
+/** Keys to look up in `wrongReasons` for the given answer (non-gap types). */
 function wrongKeys(q: Question, a: unknown): string[] {
   switch (q.type) {
     case 'multiple-choice':
@@ -179,10 +193,6 @@ function wrongKeys(q: Question, a: unknown): string[] {
     case 'place-word':
     case 'error-spot':
       return isNum(a) ? [String(a)] : [];
-    case 'fill-blank':
-    case 'verb-conjugate':
-    case 'word-bank':
-      return strs(a).filter(Boolean).map(normalize);
     case 'word-order':
       return [normalize(strs(a).join(' '))];
     case 'error-correct':
@@ -193,14 +203,91 @@ function wrongKeys(q: Question, a: unknown): string[] {
   }
 }
 
-/** The specific "why it's wrong" text for this answer, if the question provides one. */
+/**
+ * The specific "why it's wrong" text written for this answer, if the question has one.
+ * For gaps the keys are `word` or `<gap index>:word` (index starts at 0).
+ */
 export function wrongReasonFor(q: Question, a: unknown): string | undefined {
   if (!q.wrongReasons) return undefined;
-  const table = Object.fromEntries(
-    Object.entries(q.wrongReasons).map(([k, v]) => [/^\d+$/.test(k) ? k : normalize(k), v]),
-  );
+  const table = Object.fromEntries(Object.entries(q.wrongReasons).map(([k, v]) => [normalize(k), v]));
+  if (q.type === 'fill-blank' || q.type === 'verb-conjugate' || q.type === 'word-bank') {
+    const v = strs(a);
+    const reasons: string[] = [];
+    for (const i of wrongGapIndexes(q, a)) {
+      const w = normalize(v[i]);
+      const r = table[`${i}:${w}`] ?? table[w];
+      if (r && !reasons.includes(r)) reasons.push(r);
+    }
+    return reasons.length ? reasons.join(' ') : undefined;
+  }
   for (const key of wrongKeys(q, a)) {
     if (table[key]) return table[key];
   }
   return undefined;
+}
+
+/** A generic but specific-to-the-answer explanation, used when the question has no `wrongReasons` match. */
+export function fallbackReason(q: Question, a: unknown): string {
+  switch (q.type) {
+    case 'multiple-choice':
+    case 'verb-form':
+    case 'odd-one-out':
+    case 'sentence-choice':
+      return isNum(a) ? `"${q.options[a]}" does not fit here.` : '';
+    case 'place-word':
+      return `"${q.word}" does not belong in that position.`;
+    case 'error-spot':
+      return isNum(a) ? `"${q.tokens[a]}" is correct in this sentence. The mistake is "${q.tokens[q.wrongIndex]}".` : '';
+    case 'fill-blank':
+    case 'verb-conjugate':
+    case 'word-bank': {
+      const v = strs(a);
+      return wrongGapIndexes(q, a)
+        .map((i) => `"${v[i]}" does not fit in gap ${i + 1}.`)
+        .join(' ');
+    }
+    case 'word-order':
+      return 'The words are not in the right order for this sentence.';
+    case 'error-correct':
+    case 'transform':
+      return `"${typeof a === 'string' ? a.trim() : ''}" is not a correct answer here.`;
+    case 'true-false': {
+      const v = (Array.isArray(a) ? a : []) as unknown[];
+      return q.statements
+        .map((s, i) =>
+          typeof v[i] !== 'boolean'
+            ? `Statement ${i + 1} has no answer.`
+            : v[i] !== s.answer
+              ? `Statement ${i + 1} is ${s.answer ? 'true' : 'false'} according to the text.`
+              : '',
+        )
+        .filter(Boolean)
+        .join(' ');
+    }
+    case 'reading-mc': {
+      const v = (Array.isArray(a) ? a : []) as unknown[];
+      return q.items
+        .map((it, i) =>
+          !isNum(v[i])
+            ? `Question ${i + 1} has no answer.`
+            : v[i] !== it.correct
+              ? `Question ${i + 1}: the text supports "${it.options[it.correct]}".`
+              : '',
+        )
+        .filter(Boolean)
+        .join(' ');
+    }
+    case 'match-pairs': {
+      const m = (a ?? {}) as Record<string, string>;
+      return q.pairs
+        .filter((p) => m[p.left] !== p.right)
+        .map((p) => (m[p.left] ? `"${p.left}" matches "${p.right}", not "${m[p.left]}".` : `"${p.left}" has no match.`))
+        .join(' ');
+    }
+  }
+}
+
+/** Why the answer is wrong: the specific reason if available, otherwise a generic one. */
+export function explainWrong(q: Question, a: unknown): string {
+  return wrongReasonFor(q, a) ?? (fallbackReason(q, a) || "Your answer doesn't match the rule below.");
 }

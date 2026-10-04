@@ -11,7 +11,7 @@ export default function UpdatePrompt() {
     <ToastContainer position="bottom-end" className="p-3 position-fixed">
       <Toast show={needRefresh} onClose={() => setNeedRefresh(false)}>
         <Toast.Header>
-          <strong className="me-auto">EnglishQuiz</strong>
+          <strong className="me-auto">English Quiz</strong>
         </Toast.Header>
         <Toast.Body className="d-flex justify-content-between align-items-center gap-3">
           New version available

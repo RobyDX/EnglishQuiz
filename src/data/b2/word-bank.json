@@ -9,6 +9,11 @@
       "topic": "linkers",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "'Despite' is followed by a noun phrase (the heavy rain).",
+      "wrongReasons": {
+        "although": "'although' is followed by a clause (subject + verb), not by a noun phrase like 'the heavy rain'.",
+        "however": "'however' links two separate sentences. It is not followed by a noun phrase like this.",
+        "because of": "'because of' gives a reason. The walk happened in spite of the rain, so we need 'despite'."
+      },
       "bank": [
         "despite",
         "although",
@@ -27,11 +32,16 @@
       "topic": "conditionals",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "'Unless' means 'if ... not': I won't go if you don't come.",
+      "wrongReasons": {
+        "if": "'I won't go if you come with me' would mean the opposite. We need 'unless' (= if you don't).",
+        "whether": "'whether' introduces a choice or a doubt (I don't know whether he will come), not a condition like this.",
+        "as": "'as' gives a reason or a time, not a condition."
+      },
       "bank": [
         "unless",
         "if",
         "whether",
-        "until"
+        "as"
       ],
       "text": "I won't go ___ you come with me.",
       "answers": [

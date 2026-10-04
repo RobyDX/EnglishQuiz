@@ -9,11 +9,16 @@
       "topic": "modals",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "Use 'should' to give advice.",
+      "wrongReasons": {
+        "mustn't": "'mustn't' means something is forbidden. Seeing a doctor is not forbidden: it is good advice.",
+        "can": "'can' expresses ability or permission, not advice.",
+        "would": "'would' is used for imaginary situations, not for giving advice like this."
+      },
       "bank": [
         "should",
-        "must",
         "mustn't",
-        "can"
+        "can",
+        "would"
       ],
       "text": "You ___ see a doctor. You look ill.",
       "answers": [
@@ -27,6 +32,11 @@
       "topic": "linkers",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "'Because' introduces a reason.",
+      "wrongReasons": {
+        "although": "'although' shows a contrast. Here the rain is the reason for staying at home, so we need 'because'.",
+        "so": "'so' introduces a result: 'It was raining, so I stayed at home'. Here the rain is the reason, so we use 'because'.",
+        "but": "'but' adds a contrast. The rain is the reason for staying at home, not a contrast."
+      },
       "bank": [
         "although",
         "because",

@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Badge, Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink, Outlet } from 'react-router-dom';
 import UpdatePrompt from './UpdatePrompt';
@@ -20,12 +20,25 @@ function useOnline() {
 
 export default function Layout() {
   const online = useOnline();
+  const navRef = useRef<HTMLElement>(null);
+
+  // Keep --navbar-height in sync so the quiz bar sticks right below the navbar.
+  useEffect(() => {
+    const el = navRef.current;
+    if (!el || typeof ResizeObserver === 'undefined') return;
+    const update = () => document.documentElement.style.setProperty('--navbar-height', `${el.offsetHeight}px`);
+    update();
+    const observer = new ResizeObserver(update);
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, []);
+
   return (
     <>
-      <Navbar expand="sm" bg="primary" data-bs-theme="dark" sticky="top">
+      <Navbar ref={navRef} expand="sm" bg="primary" data-bs-theme="dark" sticky="top">
         <Container>
           <Navbar.Brand as={NavLink} to="/">
-            EnglishQuiz {!online && <Badge bg="warning" text="dark" className="ms-1">Offline</Badge>}
+            English Quiz {!online && <Badge bg="warning" text="dark" className="ms-1">Offline</Badge>}
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="main-nav" />
           <Navbar.Collapse id="main-nav">

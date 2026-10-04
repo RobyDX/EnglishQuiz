@@ -25,6 +25,10 @@
       "topic": "present-perfect",
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use the present perfect (simple or continuous) with 'since', not the present continuous.",
+      "wrongReasons": {
+        "i live here since 2010": "'since' + a starting point needs the present perfect (have lived), not the present simple.",
+        "i am living here since 2010": "'since' + a starting point needs the present perfect, not the present continuous."
+      },
       "wrong": "I am living here since 2010.",
       "solutions": [
         "I have lived here since 2010.",

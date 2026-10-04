@@ -9,6 +9,10 @@
       "topic": "conditionals",
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Do not use 'would' in the if-clause. Use the past simple: if I had.",
+      "wrongReasons": {
+        "if i would have more time, i would learn spanish": "'would' cannot be used in the if-clause of a conditional. Use the past simple: if I had.",
+        "if i have more time, i would learn spanish": "'would learn' needs the past simple in the if-clause (second conditional): if I had."
+      },
       "wrong": "If I would have more time, I would learn Spanish.",
       "solutions": [
         "If I had more time, I would learn Spanish."
@@ -21,6 +25,9 @@
       "topic": "verb-patterns",
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Suggest' is not followed by an object + to-infinitive. Use 'suggested that I take' or 'suggested taking'.",
+      "wrongReasons": {
+        "she suggested me to take a taxi": "'suggest' does not take an object + to-infinitive (unlike 'advise' or 'tell'). Use 'suggested that I take' or 'suggested taking'."
+      },
       "wrong": "She suggested me to take a taxi.",
       "solutions": [
         "She suggested that I take a taxi.",

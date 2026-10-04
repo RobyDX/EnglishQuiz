@@ -58,15 +58,28 @@ function Quiz({ level }: { level: Level }) {
 
   return (
     <div className="col-12 col-lg-8 mx-auto">
-      <div className="d-flex justify-content-between align-items-baseline mb-1">
-        <h1 className="h4 mb-0">
-          Level {level} <small className="text-secondary">{LEVEL_INFO[level].name}</small>
-        </h1>
-        <span className="text-secondary">
-          {answered} / {session.questions.length} answered
-        </span>
+      <div className="quiz-bar mb-3">
+        <div className="d-flex justify-content-between align-items-center gap-2 mb-1">
+          <h1 className="h5 mb-0 text-truncate">
+            Level {level} <small className="text-secondary d-none d-sm-inline">{LEVEL_INFO[level].name}</small>
+          </h1>
+          <div className="d-flex align-items-center gap-2 flex-shrink-0">
+            <span className="text-secondary">
+              {answered} / {session.questions.length} answered
+            </span>
+            <Button
+              size="sm"
+              variant="outline-primary"
+              aria-label="Go to the end of the page"
+              title="Go to the end of the page"
+              onClick={() => window.scrollTo({ top: document.documentElement.scrollHeight, behavior: 'smooth' })}
+            >
+              ↓ End
+            </Button>
+          </div>
+        </div>
+        <ProgressBar now={(answered / session.questions.length) * 100} style={{ height: 6 }} aria-label="Progress" />
       </div>
-      <ProgressBar now={(answered / session.questions.length) * 100} className="mb-3" style={{ height: 6 }} aria-label="Progress" />
 
       {session.result && <ScoreCard ref={scoreRef} result={session.result} />}
 

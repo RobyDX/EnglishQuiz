@@ -3,7 +3,7 @@ import { normalize } from './normalize';
 import { buildQuiz, prepareQuestion } from './buildQuiz';
 import { gradeQuiz } from './gradeQuiz';
 import { bandOf, percentOf } from './score';
-import { formatAnswer, formatSolution, gradeQuestion, isAnswered, wrongReasonFor } from './rules';
+import { explainWrong, formatAnswer, formatSolution, gradeQuestion, isAnswered, wrongReasonFor } from './rules';
 import type { Question } from '../types';
 
 const base = { level: 'A1' as const, topic: 't', prompt: 'p', explanation: 'rule' };
@@ -146,5 +146,46 @@ describe('buildQuiz', () => {
     expect([...m.rightOptions].sort()).toEqual(['cold', 'large']);
     const w = prepareQuestion({ ...wo, words: ['a', 'b', 'c', 'd'], solutions: [['a', 'b', 'c', 'd']] }) as typeof wo;
     expect([...w.words].sort()).toEqual(['a', 'b', 'c', 'd']);
+  });
+});
+
+describe('explaining wrong answers', () => {
+  const elephant: Question = {
+    ...base,
+    id: 'wb2',
+    type: 'word-bank',
+    bank: ['a', 'an', 'the'],
+    text: 'I saw ___ elephant.',
+    answers: ['an'],
+    wrongReasons: { a: 'a: consonant sound', the: 'the: not specific' },
+  };
+  const two: Question = {
+    ...base,
+    id: 'wb3',
+    type: 'word-bank',
+    bank: ['is', 'are', 'am'],
+    text: 'I ___ happy and my sisters ___ happy.',
+    answers: ['am', 'are'],
+    wrongReasons: { is: 'is: he/she/it', '0:are': 'gap 1: are is for plural', '1:am': 'gap 2: am only with I' },
+  };
+
+  it('gives a different explanation for each wrong word in a word bank', () => {
+    expect(explainWrong(elephant, ['a'])).toBe('a: consonant sound');
+    expect(explainWrong(elephant, ['the'])).toBe('the: not specific');
+  });
+
+  it('uses gap-specific keys and only explains the gaps that are wrong', () => {
+    expect(explainWrong(two, ['are', 'are'])).toBe('gap 1: are is for plural');
+    expect(explainWrong(two, ['am', 'am'])).toBe('gap 2: am only with I');
+    expect(explainWrong(two, ['is', 'are'])).toBe('is: he/she/it');
+    expect(explainWrong(two, ['are', 'am'])).toBe('gap 1: are is for plural gap 2: am only with I');
+  });
+
+  it('falls back to an answer-specific message when there is no written reason', () => {
+    expect(explainWrong(tf, [true, true])).toBe('Statement 2 is false according to the text.');
+    expect(explainWrong(es, 0)).toBe('"He" is correct in this sentence. The mistake is "go".');
+    expect(explainWrong(mp, { big: 'cold', hot: 'cold' })).toBe('"big" matches "large", not "cold".');
+    expect(explainWrong({ ...mc, wrongReasons: undefined } as Question, 0)).toBe('"a" does not fit here.');
+    expect(explainWrong(wo, ['goes', 'she'])).toMatch(/right order/);
   });
 });

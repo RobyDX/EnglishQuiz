@@ -9,6 +9,11 @@
       "topic": "prepositions",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "Use 'on' for something that touches the top of a surface.",
+      "wrongReasons": {
+        "in": "'in' means inside something. The book is on the surface of the table, not inside it.",
+        "at": "'at' is used for a point or a place where someone is (at the table). A thing resting on top of the table is 'on' it.",
+        "under": "'under' means below. The book is on top of the table, not below it."
+      },
       "bank": [
         "in",
         "on",
@@ -27,6 +32,11 @@
       "topic": "prepositions",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "Use 'at' with exact times: at noon, at six o'clock.",
+      "wrongReasons": {
+        "in": "'in' is used with parts of the day (in the morning) and months or years, not with exact times like noon.",
+        "on": "'on' is used with days and dates (on Monday), not with times of day.",
+        "under": "'under' is a word for place, not for time."
+      },
       "bank": [
         "in",
         "on",
@@ -45,6 +55,10 @@
       "topic": "articles",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "Use 'an' before a vowel sound: an elephant.",
+      "wrongReasons": {
+        "a": "'a' is used before a consonant sound (a dog). 'Elephant' starts with a vowel sound, so we use 'an'.",
+        "the": "'the' is used for something specific that both people already know about. Here the elephant is mentioned for the first time, so we use 'an'."
+      },
       "bank": [
         "a",
         "an",
@@ -62,6 +76,11 @@
       "topic": "to-be",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "Use 'am' with I and 'are' with plural nouns.",
+      "wrongReasons": {
+        "is": "'is' is used with he, she and it. It does not fit with 'I' or with a plural subject like 'my sisters'.",
+        "0:are": "'are' is used with you, we, they and plural nouns. With 'I' we use 'am'.",
+        "1:am": "'am' is only used with 'I'. 'My sisters' is plural, so we use 'are'."
+      },
       "bank": [
         "is",
         "are",
@@ -80,6 +99,10 @@
       "topic": "possessives",
       "prompt": "Complete the sentence with words from the box.",
       "explanation": "Use 'his' for a man's things and 'her' for a woman's things.",
+      "wrongReasons": {
+        "her": "'her' refers to a woman's things. Tom is a man, so we use 'his'.",
+        "their": "'their' refers to more than one person. Tom is only one person, so we use 'his'."
+      },
       "bank": [
         "his",
         "her",
