@@ -1,0 +1,31 @@
+{
+  "level": "C2",
+  "type": "error-correct",
+  "questions": [
+    {
+      "id": "c2-ec-001",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After 'Little' at the start of a sentence, use inversion with 'did': Little did he know.",
+      "wrong": "Little he knew that his life was about to change.",
+      "solutions": [
+        "Little did he know that his life was about to change."
+      ]
+    },
+    {
+      "id": "c2-ec-002",
+      "type": "error-correct",
+      "level": "C2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Inverted second conditional: 'Were I you' (no 'to be' after 'Were I').",
+      "wrong": "Were I to be you, I would accept the offer.",
+      "solutions": [
+        "Were I you, I would accept the offer.",
+        "If I were you, I would accept the offer."
+      ]
+    }
+  ]
+}

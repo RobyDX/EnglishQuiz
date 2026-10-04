@@ -1,0 +1,52 @@
+{
+  "level": "A2",
+  "type": "true-false",
+  "questions": [
+    {
+      "id": "a2-tf-001",
+      "type": "true-false",
+      "level": "A2",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: 'with his family', 'near the beach', 'sunny for the whole week'.",
+      "passage": "Last summer Ben went to Spain with his family. They stayed in a small hotel near the beach. It rained on the first day, but then the weather was sunny for the whole week.",
+      "statements": [
+        {
+          "text": "Ben travelled alone.",
+          "answer": false
+        },
+        {
+          "text": "The hotel was near the beach.",
+          "answer": true
+        },
+        {
+          "text": "It rained all week.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a2-tf-002",
+      "type": "true-false",
+      "level": "A2",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: 'until ten', 'in the afternoon', 'never play when it rains'.",
+      "passage": "Maria usually gets up at seven, but on Sundays she stays in bed until ten. In the afternoon she plays tennis with her friend Julia. They never play when it rains.",
+      "statements": [
+        {
+          "text": "Maria gets up at ten on Sundays.",
+          "answer": true
+        },
+        {
+          "text": "She plays tennis in the morning.",
+          "answer": false
+        },
+        {
+          "text": "They play tennis in the rain.",
+          "answer": false
+        }
+      ]
+    }
+  ]
+}

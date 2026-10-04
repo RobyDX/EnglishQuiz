@@ -1,0 +1,96 @@
+{
+  "level": "A1",
+  "type": "sentence-choice",
+  "questions": [
+    {
+      "id": "a1-sc-001",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "explanation": "With he, the present simple verb takes -s: he goes.",
+      "wrongReasons": {
+        "0": "With he the verb needs -s: goes.",
+        "2": "Do not use 'is' with a base verb. Say: He goes."
+      },
+      "options": [
+        "He go to work.",
+        "He goes to work.",
+        "He is go to work."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-sc-002",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "age",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In English we use 'be' for age: I am twelve (years old).",
+      "wrongReasons": {
+        "1": "English uses 'be', not 'have', to say your age.",
+        "2": "Say 'I am twelve' or 'I am twelve years old'. 'I am twelve years' sounds unnatural."
+      },
+      "options": [
+        "I am twelve years old.",
+        "I have twelve years.",
+        "I am twelve years."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "a1-sc-003",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After doesn't use the base verb with no -s: she doesn't like.",
+      "wrongReasons": {
+        "0": "With she, use 'doesn't', not 'don't'.",
+        "1": "After 'doesn't' the verb has no -s."
+      },
+      "options": [
+        "She don't like fish.",
+        "She doesn't likes fish.",
+        "She doesn't like fish."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "a1-sc-004",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use 'There are' with plural nouns: There are two apples.",
+      "wrongReasons": {
+        "0": "'There is' is for singular nouns.",
+        "2": "'They are two apples' does not say that the apples exist in a place."
+      },
+      "options": [
+        "There is two apples.",
+        "There are two apples.",
+        "They are two apples."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-sc-005",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In questions the verb comes before the subject: What time is it?",
+      "wrongReasons": {
+        "0": "In a question 'is' goes before 'it'.",
+        "2": "The correct order is: What time is it?"
+      },
+      "options": [
+        "What time it is?",
+        "What time is it?",
+        "What is time it?"
+      ],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
+import { cleanup, render, screen, within } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
+import { MemoryRouter, Route, Routes } from 'react-router-dom';
+import type { Question } from '../types';
+
+const pool: Question[] = [
+  {
+    id: 't-mc-1',
+    type: 'multiple-choice',
+    level: 'A1',
+    topic: 'to-be',
+    prompt: 'They ___ my friends.',
+    options: ['is', 'am', 'are'],
+    correct: 2,
+    explanation: "Use 'are' with you, we and they.",
+    wrongReasons: { 0: "'is' is used with he, she and it." },
+  },
+  {
+    id: 't-fb-1',
+    type: 'fill-blank',
+    level: 'A1',
+    topic: 'to-be',
+    prompt: 'Complete the sentence.',
+    text: 'I ___ a student.',
+    answers: [['am']],
+    explanation: "Use 'am' with I.",
+  },
+];
+
+vi.mock('../data', () => ({ loadLevel: () => Promise.resolve(pool) }));
+
+import QuizPage from './QuizPage';
+
+function renderQuiz() {
+  return render(
+    <MemoryRouter initialEntries={['/quiz/A1?n=5']}>
+      <Routes>
+        <Route path="/" element={<p>home</p>} />
+        <Route path="/quiz/:level" element={<QuizPage />} />
+      </Routes>
+    </MemoryRouter>,
+  );
+}
+
+beforeEach(() => localStorage.clear());
+afterEach(cleanup);
+
+describe('QuizPage', () => {
+  it('scores the answers and explains a wrong one in English', async () => {
+    const user = userEvent.setup();
+    renderQuiz();
+    await screen.findByRole('button', { name: 'Check answers' });
+
+    await user.click(screen.getByLabelText('is')); // wrong
+    await user.type(screen.getByLabelText('Gap 1'), 'am'); // right
+    await user.click(screen.getByRole('button', { name: 'Check answers' }));
+
+    const score = await screen.findByRole('status');
+    expect(score).toHaveTextContent('1 / 2 correct – 50%');
+
+    expect(screen.getByText('✓ Correct')).toBeInTheDocument();
+    expect(screen.getByText('✗ Incorrect')).toBeInTheDocument();
+    const feedback = screen.getByText(/Why it's wrong:/).closest('.feedback') as HTMLElement;
+    expect(within(feedback).getByText(/'is' is used with he, she and it\./)).toBeInTheDocument();
+    expect(within(feedback).getByText(/Use 'are' with you, we and they\./)).toBeInTheDocument();
+    expect(within(feedback).getByText(/Correct answer:/).parentElement).toHaveTextContent('are');
+
+    // The correct answer of the right question appears only after "Show correct answers"
+    expect(screen.queryAllByText(/Rule:/)).toHaveLength(1);
+    await user.click(screen.getByRole('button', { name: 'Show correct answers' }));
+    expect(screen.getAllByText(/Rule:/)).toHaveLength(2);
+    expect(screen.getByRole('button', { name: 'Hide correct answers' })).toBeInTheDocument();
+  });
+
+  it('asks for confirmation when questions are unanswered and marks them wrong', async () => {
+    const user = userEvent.setup();
+    renderQuiz();
+    await screen.findByRole('button', { name: 'Check answers' });
+
+    await user.click(screen.getByRole('button', { name: 'Check answers' }));
+    expect(await screen.findByText(/You left 2 questions unanswered/)).toBeInTheDocument();
+    await user.click(screen.getByRole('button', { name: 'Submit anyway' }));
+
+    expect(await screen.findByRole('status')).toHaveTextContent('0 / 2 correct – 0%');
+    expect(screen.getAllByText('No answer')).toHaveLength(2);
+  });
+
+  it('lets the user retry and saves the result in the history', async () => {
+    const user = userEvent.setup();
+    renderQuiz();
+    await screen.findByRole('button', { name: 'Check answers' });
+    await user.click(screen.getByLabelText('are'));
+    await user.type(screen.getByLabelText('Gap 1'), 'am');
+    await user.click(screen.getByRole('button', { name: 'Check answers' }));
+    expect(await screen.findByRole('status')).toHaveTextContent('2 / 2 correct – 100%');
+
+    const history = JSON.parse(localStorage.getItem('eq.history') ?? '[]');
+    expect(history).toHaveLength(1);
+    expect(history[0]).toMatchObject({ level: 'A1', total: 2, correct: 2, percent: 100 });
+
+    await user.click(screen.getByRole('button', { name: 'Try again' }));
+    expect(screen.queryByRole('status')).not.toBeInTheDocument();
+    expect(screen.getByLabelText('Gap 1')).toHaveValue('');
+    expect(screen.getByRole('button', { name: 'Check answers' })).toBeInTheDocument();
+  });
+});

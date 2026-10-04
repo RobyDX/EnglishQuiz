@@ -1,0 +1,64 @@
+{
+  "level": "C1",
+  "type": "reading-mc",
+  "questions": [
+    {
+      "id": "c1-rm-001",
+      "type": "reading-mc",
+      "level": "C1",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "The text says multitasking is 'far less efficient' and advises 'a single task ... then a short break'.",
+      "passage": "Recent research suggests that multitasking is far less efficient than people believe. When we switch between tasks, the brain needs time to refocus, and this small delay accumulates over the day. Researchers therefore advise working on a single task for a fixed period and then taking a short break.",
+      "items": [
+        {
+          "q": "What does research say about multitasking?",
+          "options": [
+            "It improves efficiency",
+            "It is less efficient than people think",
+            "It helps the brain refocus"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "What do researchers advise?",
+          "options": [
+            "Doing many tasks at once",
+            "Working on one task, then taking a break",
+            "Avoiding breaks"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": "c1-rm-002",
+      "type": "reading-mc",
+      "level": "C1",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "The text says 'blend with the historic square' and 'most people admired its modesty'.",
+      "passage": "The architect insisted that the new library should blend with the historic square rather than dominate it. To achieve this, she chose local stone for the facade and kept the building low. Some residents had hoped for a bolder design, but surveys later showed that most people admired its modesty.",
+      "items": [
+        {
+          "q": "What was the architect aiming for?",
+          "options": [
+            "A dominant building",
+            "A building that blends with its surroundings",
+            "A very tall building"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "How did most people react later?",
+          "options": [
+            "They admired its modesty",
+            "They asked for changes",
+            "They ignored it"
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  ]
+}

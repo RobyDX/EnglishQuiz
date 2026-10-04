@@ -1,0 +1,58 @@
+{
+  "level": "B1",
+  "type": "match-pairs",
+  "questions": [
+    {
+      "id": "b1-mp-001",
+      "type": "match-pairs",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "A phrasal verb is a verb + particle with a special meaning.",
+      "pairs": [
+        {
+          "left": "give up",
+          "right": "stop trying"
+        },
+        {
+          "left": "look after",
+          "right": "take care of"
+        },
+        {
+          "left": "turn down",
+          "right": "refuse"
+        },
+        {
+          "left": "find out",
+          "right": "discover information"
+        }
+      ]
+    },
+    {
+      "id": "b1-mp-002",
+      "type": "match-pairs",
+      "level": "B1",
+      "topic": "collocations",
+      "prompt": "Match each verb with the word it goes with.",
+      "explanation": "Collocations are words that are normally used together.",
+      "pairs": [
+        {
+          "left": "make",
+          "right": "a decision"
+        },
+        {
+          "left": "do",
+          "right": "the dishes"
+        },
+        {
+          "left": "take",
+          "right": "a break"
+        },
+        {
+          "left": "have",
+          "right": "a shower"
+        }
+      ]
+    }
+  ]
+}

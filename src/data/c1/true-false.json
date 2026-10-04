@@ -1,0 +1,44 @@
+{
+  "level": "C1",
+  "type": "true-false",
+  "questions": [
+    {
+      "id": "c1-tf-001",
+      "type": "true-false",
+      "level": "C1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says growth 'tells us little about well-being' and rich countries 'report high levels of stress'.",
+      "passage": "The economist argued that economic growth, long considered the main measure of progress, tells us little about well-being. Countries with high incomes, she noted, often report high levels of stress, while some poorer nations show greater life satisfaction.",
+      "statements": [
+        {
+          "text": "The economist thinks growth is a perfect measure of progress.",
+          "answer": false
+        },
+        {
+          "text": "Rich countries can still have high stress levels.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "c1-tf-002",
+      "type": "true-false",
+      "level": "C1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'closed for renovation for three years' and 'Critics blamed the high ticket prices'.",
+      "passage": "Although the museum had been closed for renovation for three years, its reopening drew far fewer visitors than expected. Critics blamed the high ticket prices, whereas the director insisted that the exhibition itself was the real attraction.",
+      "statements": [
+        {
+          "text": "The museum was closed for three years.",
+          "answer": true
+        },
+        {
+          "text": "Critics said the tickets were cheap.",
+          "answer": false
+        }
+      ]
+    }
+  ]
+}

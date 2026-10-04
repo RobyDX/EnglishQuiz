@@ -1,0 +1,69 @@
+{
+  "level": "A2",
+  "type": "verb-form",
+  "questions": [
+    {
+      "id": "a2-vf-001",
+      "type": "verb-form",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Last weekend we ___ to the beach.",
+      "explanation": "'Go' is irregular. The past simple is 'went'.",
+      "wrongReasons": {
+        "0": "'go' is the base form. 'Last weekend' needs the past.",
+        "2": "'gone' is a past participle and needs have/has.",
+        "3": "Irregular verbs do not take -ed."
+      },
+      "verb": "go",
+      "options": [
+        "go",
+        "went",
+        "gone",
+        "goed"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a2-vf-002",
+      "type": "verb-form",
+      "level": "A2",
+      "topic": "going-to",
+      "prompt": "I ___ visit my aunt tomorrow.",
+      "explanation": "Use be + going to + base verb for plans: I am going to visit.",
+      "wrongReasons": {
+        "1": "You need 'am' before 'going to'.",
+        "2": "'go to' alone does not show a future plan.",
+        "3": "After 'will' use the base verb: will visit."
+      },
+      "verb": "go",
+      "options": [
+        "am going to",
+        "going to",
+        "go to",
+        "will going"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "a2-vf-003",
+      "type": "verb-form",
+      "level": "A2",
+      "topic": "past-continuous",
+      "prompt": "She ___ TV when the phone rang.",
+      "explanation": "Use the past continuous (was/were + -ing) for an action in progress when something else happened.",
+      "wrongReasons": {
+        "0": "The past simple does not show that the action was in progress.",
+        "2": "'is watching' is the present.",
+        "3": "'watches' is the present simple."
+      },
+      "verb": "watch",
+      "options": [
+        "watched",
+        "was watching",
+        "is watching",
+        "watches"
+      ],
+      "correct": 1
+    }
+  ]
+}

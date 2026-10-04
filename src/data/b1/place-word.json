@@ -1,0 +1,45 @@
+{
+  "level": "B1",
+  "type": "place-word",
+  "questions": [
+    {
+      "id": "b1-pw-001",
+      "type": "place-word",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With the present perfect, 'already' goes between have and the past participle.",
+      "word": "already",
+      "tokens": [
+        "I",
+        "have",
+        "finished",
+        "my",
+        "homework"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b1-pw-002",
+      "type": "place-word",
+      "level": "B1",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With the verb 'be', the adverb goes after it: she is usually at home.",
+      "word": "usually",
+      "tokens": [
+        "She",
+        "is",
+        "at",
+        "home",
+        "on",
+        "Sundays"
+      ],
+      "correctPositions": [
+        2
+      ]
+    }
+  ]
+}

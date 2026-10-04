@@ -1,0 +1,58 @@
+{
+  "level": "C2",
+  "type": "match-pairs",
+  "questions": [
+    {
+      "id": "c2-mp-001",
+      "type": "match-pairs",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "Match each word with its meaning.",
+      "explanation": "These words describe quantity and attitude to money.",
+      "pairs": [
+        {
+          "left": "frugal",
+          "right": "careful with money"
+        },
+        {
+          "left": "lavish",
+          "right": "very generous and luxurious"
+        },
+        {
+          "left": "meagre",
+          "right": "small in amount"
+        },
+        {
+          "left": "plentiful",
+          "right": "available in large amounts"
+        }
+      ]
+    },
+    {
+      "id": "c2-mp-002",
+      "type": "match-pairs",
+      "level": "C2",
+      "topic": "idioms",
+      "prompt": "Match each idiom with its meaning.",
+      "explanation": "An idiom's meaning is different from the meaning of its separate words.",
+      "pairs": [
+        {
+          "left": "a blessing in disguise",
+          "right": "something good that seemed bad at first"
+        },
+        {
+          "left": "the tip of the iceberg",
+          "right": "a small part of a much bigger problem"
+        },
+        {
+          "left": "a double-edged sword",
+          "right": "something with both good and bad effects"
+        },
+        {
+          "left": "a red herring",
+          "right": "a misleading clue"
+        }
+      ]
+    }
+  ]
+}

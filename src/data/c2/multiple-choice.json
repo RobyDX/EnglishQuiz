@@ -1,0 +1,46 @@
+{
+  "level": "C2",
+  "type": "multiple-choice",
+  "questions": [
+    {
+      "id": "c2-mc-001",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "collocations",
+      "prompt": "The committee's decision was met with ___ approval, although a few members stayed sceptical.",
+      "explanation": "'Grudging approval' is a collocation meaning approval given unwillingly.",
+      "wrongReasons": {
+        "1": "'grudgeful' is not a standard English word.",
+        "2": "'grudged' is not used as an adjective before 'approval'.",
+        "3": "'grudge' is a noun and does not describe approval."
+      },
+      "options": [
+        "grudging",
+        "grudgeful",
+        "grudged",
+        "grudge"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c2-mc-002",
+      "type": "multiple-choice",
+      "level": "C2",
+      "topic": "vocabulary",
+      "prompt": "Her explanation was so ___ that nobody understood what she meant.",
+      "explanation": "'Obscure' means unclear and hard to understand.",
+      "wrongReasons": {
+        "0": "'lucid' means very clear, which is the opposite of the meaning here.",
+        "2": "'candid' means honest and open.",
+        "3": "'explicit' means stated clearly, so people would understand."
+      },
+      "options": [
+        "lucid",
+        "obscure",
+        "candid",
+        "explicit"
+      ],
+      "correct": 1
+    }
+  ]
+}

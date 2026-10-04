@@ -1,0 +1,48 @@
+{
+  "level": "B2",
+  "type": "verb-form",
+  "questions": [
+    {
+      "id": "b2-vf-001",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "past-perfect",
+      "prompt": "By the time we arrived, the film ___.",
+      "explanation": "Use the past perfect (had + past participle) for an action before another past action.",
+      "wrongReasons": {
+        "0": "The past simple does not show the earlier action.",
+        "2": "'has started' is present perfect, but the sentence is in the past.",
+        "3": "'was starting' shows an action in progress, not a completed earlier action."
+      },
+      "verb": "already / start",
+      "options": [
+        "already started",
+        "had already started",
+        "has already started",
+        "was already starting"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-vf-002",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish I ___ speak French.",
+      "explanation": "After 'wish' about the present, use the past form: I wish I could speak French.",
+      "wrongReasons": {
+        "0": "After 'wish' the verb moves back in time: can becomes could.",
+        "2": "'would' is used for other people's behaviour, not for ability.",
+        "3": "'will' is not used after wish."
+      },
+      "verb": "can",
+      "options": [
+        "can",
+        "could",
+        "would",
+        "will"
+      ],
+      "correct": 1
+    }
+  ]
+}

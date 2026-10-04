@@ -36,42 +36,44 @@ Web app **SPA + PWA**, interamente **front-end** (nessun backend), per esercitar
 | Ambito | Scelta |
 |--------|--------|
 | Linguaggio | TypeScript |
-| UI | React 18 + `react-bootstrap` + `bootstrap` 5 (CSS) |
+| UI | React 19 + `react-bootstrap` + `bootstrap` 5 (CSS) |
 | Bundler | Vite |
 | PWA | `vite-plugin-pwa` (Workbox, `generateSW`, `registerType: 'prompt'`) |
 | Routing | `react-router-dom` con **HashRouter** (hosting statico senza rewrite) |
 | Stato | React state + `useReducer`/Context; nessuna libreria di stato esterna |
 | Persistenza | `localStorage` (solo preferenze e cronologia) |
 | Test | Vitest + React Testing Library |
-| Lint/format | ESLint + Prettier |
+| Lint | `tsc --noEmit` (type-check); ESLint/Prettier non ancora configurati |
 
 ## 4. Struttura cartelle
+
+**Tutto ciò che è codice o configurazione di progetto sta in `src/`**, compresi `package.json`, `node_modules`, `public`, `index.html` e i file di configurazione. Fuori da `src/` restano solo la documentazione, la build e i file di repository.
 
 ```
 EnglishQuiz/
 ├─ specs/                  # documentazione (questa cartella)
-├─ src/                    # TUTTO il codice sorgente
-│  ├─ main.tsx             # entry point + registrazione service worker
-│  ├─ App.tsx              # routing
-│  ├─ pages/               # HomePage, QuizPage, HistoryPage, AboutPage
-│  ├─ components/          # componenti UI riusabili (Layout, ScoreCard, ...)
-│  ├─ questions/           # un componente per tipologia + registry
-│  │   ├─ registry.ts      # type -> { Component, grade }
-│  │   ├─ MultipleChoice.tsx ...
-│  ├─ engine/              # logica pura: generazione quiz, correzione, scoring
-│  ├─ data/                # contenuti: <livello>/<tipo>.json (vedi 07-contenuti.md)
-│  ├─ hooks/               # useQuizSession, useLocalStorage
-│  ├─ types/               # tipi TypeScript condivisi
-│  └─ styles/              # override minimi di Bootstrap
-├─ public/                 # icone PWA, favicon
-├─ build/                  # output di `npm run build` (NON modificare a mano)
-├─ index.html              # richiesto da Vite (root del progetto)
-├─ package.json, vite.config.ts, tsconfig.json
-└─ CLAUDE.md               # regole per l'assistente
+├─ build/                  # output di `npm run build` (NON modificare a mano, in .gitignore)
+├─ CLAUDE.md, .gitignore, README.md
+└─ src/                    # TUTTO il progetto
+   ├─ package.json, package-lock.json, node_modules/
+   ├─ vite.config.ts, tsconfig.json, vite-env.d.ts, test-setup.ts
+   ├─ index.html           # entry di Vite (root = src/)
+   ├─ public/              # favicon e icone PWA
+   ├─ main.tsx             # entry point
+   ├─ App.tsx              # HashRouter + route
+   ├─ levels.ts            # nomi/descrizioni dei livelli, opzioni numero domande
+   ├─ pages/               # HomePage, QuizPage, HistoryPage, AboutPage
+   ├─ components/          # Layout, QuestionCard, ScoreCard, UpdatePrompt
+   ├─ questions/           # un componente UI per tipologia + registry.tsx
+   ├─ engine/              # logica pura: normalize, rules (correzione), buildQuiz, gradeQuiz, score
+   ├─ data/                # contenuti: <livello>/<tipo>.json + index.ts (vedi 07-contenuti.md)
+   ├─ hooks/               # store.ts (localStorage), useQuizSession.ts
+   ├─ types/               # tipi TypeScript condivisi
+   └─ styles/              # override minimi di Bootstrap
 ```
 
 Regole:
-- Il codice vive **solo** in `src/`; la build va **solo** in `build/` (`build.outDir = 'build'`).
+- I comandi npm si eseguono **dentro `src/`**. Vite usa `src/` come root e scrive la build in `../build` (`build.outDir = '../build'`).
 - `build/` è un artefatto: non si edita, è in `.gitignore`.
 - La logica di correzione è in `src/engine/` ed è **pura** (niente React) per essere testabile.
 
@@ -85,23 +87,25 @@ HomePage ──(livello, n° domande)──▶ QuizPage
                                       │
                          ┌────────────┴────────────┐
                          ▼                         ▼
-              <QuestionRenderer/>            engine/gradeQuiz
-          (sceglie componente da registry)   (usa grade() di ogni tipo)
+              <QuestionCard/>                engine/gradeQuiz
+          (componente da registry +          (usa engine/rules)
+           feedback errori)
 ```
 
-### 5.1 Registry delle tipologie
-Ogni tipologia espone:
-```ts
-interface QuestionTypeDef<Q, A> {
-  type: string;
-  Component: React.FC<{ question: Q; answer: A | undefined; onChange(a: A): void;
-                        mode: 'answering' | 'graded' | 'solution'; }>;
-  grade(question: Q, answer: A | undefined): boolean;
-  solutionOf(question: Q): A;           // risposta corretta da mostrare
-  emptyAnswer(question: Q): A;
-}
-```
-Aggiungere una tipologia = nuovo file in `src/questions/` + riga nel registry + schema in `02-tipologie-domande.md`. Nessun'altra modifica al motore.
+### 5.1 Tipologie: UI e regole separate
+- **Regole (puro, in `engine/rules.ts`)**: per ogni tipologia `isAnswered`, `gradeQuestion`, `formatAnswer` (testo della risposta data), `formatSolution` (testo della risposta corretta) e `wrongReasonFor` (spiegazione specifica dell'errore, da `wrongReasons`).
+- **UI (React, in `questions/`)**: ogni componente riceve
+  ```ts
+  interface QuestionProps<Q, A> {
+    question: Q; answer: A | undefined; onChange(a: A): void;
+    disabled: boolean;      // true dopo l'invio
+    onEnter?(): void;       // Invio nell'ultimo campo di testo -> invia il quiz
+  }
+  ```
+  e `questions/registry.tsx` mappa `type -> componente`.
+- Il feedback sugli errori (risposta data, risposta corretta, perché è sbagliata, regola) lo mostra `components/QuestionCard`, usando le funzioni di `engine/rules.ts`, quindi i componenti delle tipologie non se ne occupano.
+
+Aggiungere una tipologia = tipo in `types/`, casi in `engine/rules.ts` e `engine/buildQuiz.ts` (se serve shuffle), componente in `questions/` + riga nel registry, schema in `02-tipologie-domande.md`, test.
 
 ### 5.2 Modello dati (sintesi; dettagli in `03-modello-dati.md`)
 - `Question` = campi comuni (`id`, `type`, `level`, `topic`, `prompt`, `explanation`, `wrongReasons?`) + payload specifico del tipo.

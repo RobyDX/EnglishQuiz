@@ -1,0 +1,64 @@
+{
+  "level": "B2",
+  "type": "reading-mc",
+  "questions": [
+    {
+      "id": "b2-rm-001",
+      "type": "reading-mc",
+      "level": "B2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "The text says 'turned the building into a market hall' and 'creative ideas can restore a community'.",
+      "passage": "When the old factory closed, nobody thought the town would survive. Yet a local entrepreneur turned the building into a market hall. Within two years it had created sixty jobs, and other businesses opened nearby. The mayor described the project as proof that creative ideas can restore a community.",
+      "items": [
+        {
+          "q": "What happened to the factory building?",
+          "options": [
+            "It was demolished",
+            "It became a market hall",
+            "It stayed empty"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "What does the mayor believe?",
+          "options": [
+            "The town will soon close",
+            "Creative ideas can help a community recover",
+            "Factories are better than markets"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-rm-002",
+      "type": "reading-mc",
+      "level": "B2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "The text says 'between eight and ten hours' and 'late-night screen use'.",
+      "passage": "Sleep experts recommend that teenagers get between eight and ten hours of sleep each night. Yet surveys show that many sleep for fewer than seven hours, partly because of late-night screen use. Lack of sleep can affect concentration at school and may even harm long-term health.",
+      "items": [
+        {
+          "q": "How much sleep do experts recommend for teenagers?",
+          "options": [
+            "Six to seven hours",
+            "Eight to ten hours",
+            "Ten to twelve hours"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "What is one reason teenagers sleep too little?",
+          "options": [
+            "Early classes",
+            "Late-night screen use",
+            "Too much exercise"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  ]
+}

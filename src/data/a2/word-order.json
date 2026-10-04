@@ -1,0 +1,88 @@
+{
+  "level": "A2",
+  "type": "word-order",
+  "questions": [
+    {
+      "id": "a2-wo-001",
+      "type": "word-order",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "Time words like yesterday can go at the end or at the start of the sentence.",
+      "words": [
+        "I",
+        "bought",
+        "a",
+        "new",
+        "phone",
+        "yesterday"
+      ],
+      "solutions": [
+        [
+          "I",
+          "bought",
+          "a",
+          "new",
+          "phone",
+          "yesterday"
+        ],
+        [
+          "Yesterday",
+          "I",
+          "bought",
+          "a",
+          "new",
+          "phone"
+        ]
+      ]
+    },
+    {
+      "id": "a2-wo-002",
+      "type": "word-order",
+      "level": "A2",
+      "topic": "questions",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "Question word + verb + subject: Where are you going?",
+      "words": [
+        "Where",
+        "are",
+        "you",
+        "going"
+      ],
+      "solutions": [
+        [
+          "Where",
+          "are",
+          "you",
+          "going"
+        ]
+      ]
+    },
+    {
+      "id": "a2-wo-003",
+      "type": "word-order",
+      "level": "A2",
+      "topic": "past-negative",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "In the past negative use didn't + base verb: She didn't come.",
+      "words": [
+        "She",
+        "didn't",
+        "come",
+        "to",
+        "the",
+        "party"
+      ],
+      "solutions": [
+        [
+          "She",
+          "didn't",
+          "come",
+          "to",
+          "the",
+          "party"
+        ]
+      ]
+    }
+  ]
+}

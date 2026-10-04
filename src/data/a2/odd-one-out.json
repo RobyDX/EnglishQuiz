@@ -1,0 +1,54 @@
+{
+  "level": "A2",
+  "type": "odd-one-out",
+  "questions": [
+    {
+      "id": "a2-oo-001",
+      "type": "odd-one-out",
+      "level": "A2",
+      "topic": "vocabulary",
+      "prompt": "Which word does not belong to the group?",
+      "explanation": "Run, swim and jump are verbs. 'Happy' is an adjective.",
+      "options": [
+        "run",
+        "swim",
+        "jump",
+        "happy"
+      ],
+      "correct": 3,
+      "category": "actions"
+    },
+    {
+      "id": "a2-oo-002",
+      "type": "odd-one-out",
+      "level": "A2",
+      "topic": "vocabulary",
+      "prompt": "Which word does not belong to the group?",
+      "explanation": "Pen, pencil and rubber are things we use at school. A kitchen is a room.",
+      "options": [
+        "pen",
+        "pencil",
+        "rubber",
+        "kitchen"
+      ],
+      "correct": 3,
+      "category": "school things"
+    },
+    {
+      "id": "a2-oo-003",
+      "type": "odd-one-out",
+      "level": "A2",
+      "topic": "geography",
+      "prompt": "Which word does not belong to the group?",
+      "explanation": "London, Paris and Madrid are cities. Italy is a country.",
+      "options": [
+        "London",
+        "Paris",
+        "Italy",
+        "Madrid"
+      ],
+      "correct": 2,
+      "category": "cities"
+    }
+  ]
+}

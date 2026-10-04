@@ -1,0 +1,48 @@
+{
+  "level": "B1",
+  "type": "true-false",
+  "questions": [
+    {
+      "id": "b1-tf-001",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: 'because of her job', 'now she has many friends', 'calls them every weekend'.",
+      "passage": "Sara moved to Canada two years ago because of her job. At first she felt lonely, but now she has many friends. She has never been so happy, although she still misses her family and calls them every weekend.",
+      "statements": [
+        {
+          "text": "Sara moved to Canada for work.",
+          "answer": true
+        },
+        {
+          "text": "She still feels lonely.",
+          "answer": false
+        },
+        {
+          "text": "She never calls her family.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-002",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: 'cheaper than driving' and 'some people think it is dangerous'.",
+      "passage": "Cycling to work is becoming more popular in big cities. It is cheaper than driving and it is also good for your health. However, some people think it is dangerous because there are not enough bike lanes.",
+      "statements": [
+        {
+          "text": "Cycling is more expensive than driving.",
+          "answer": false
+        },
+        {
+          "text": "Some people worry about safety.",
+          "answer": true
+        }
+      ]
+    }
+  ]
+}

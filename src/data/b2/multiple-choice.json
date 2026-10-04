@@ -1,0 +1,46 @@
+{
+  "level": "B2",
+  "type": "multiple-choice",
+  "questions": [
+    {
+      "id": "b2-mc-001",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If I ___ more money, I would buy a bigger house.",
+      "explanation": "Second conditional: if + past simple, would + base verb.",
+      "wrongReasons": {
+        "0": "The present simple belongs to the first conditional (will).",
+        "2": "Do not use 'would' in the if-clause.",
+        "3": "Do not use 'will' in the if-clause."
+      },
+      "options": [
+        "have",
+        "had",
+        "would have",
+        "will have"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-002",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "She said that she ___ the report the day before.",
+      "explanation": "In reported speech the past simple often changes to the past perfect: she had finished.",
+      "wrongReasons": {
+        "0": "'the day before' shows that the action was earlier than the reporting.",
+        "2": "'has finished' is present perfect and does not fit after 'said'.",
+        "3": "'finishes' is the present simple and does not fit after 'said'."
+      },
+      "options": [
+        "finished",
+        "had finished",
+        "has finished",
+        "finishes"
+      ],
+      "correct": 1
+    }
+  ]
+}

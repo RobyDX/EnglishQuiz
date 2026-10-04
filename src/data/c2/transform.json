@@ -1,0 +1,34 @@
+{
+  "level": "C2",
+  "type": "transform",
+  "questions": [
+    {
+      "id": "c2-tr-001",
+      "type": "transform",
+      "level": "C2",
+      "topic": "linkers",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "'Despite' is followed by a noun or the -ing form: Despite being ill.",
+      "original": "The fact that she was ill didn't stop her.",
+      "keyword": "DESPITE",
+      "template": "___ ill, she carried on.",
+      "solutions": [
+        "Despite being"
+      ]
+    },
+    {
+      "id": "c2-tr-002",
+      "type": "transform",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "After 'Not until ...' at the start, use inversion: did I realise.",
+      "original": "I didn't realise the danger until later.",
+      "keyword": "NOT",
+      "template": "Not until later ___ the danger.",
+      "solutions": [
+        "did I realise"
+      ]
+    }
+  ]
+}

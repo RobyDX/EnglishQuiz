@@ -1,0 +1,58 @@
+{
+  "level": "A2",
+  "type": "match-pairs",
+  "questions": [
+    {
+      "id": "a2-mp-001",
+      "type": "match-pairs",
+      "level": "A2",
+      "topic": "vocabulary",
+      "prompt": "Match each verb with its meaning.",
+      "explanation": "Read each definition carefully: borrow and lend are different directions.",
+      "pairs": [
+        {
+          "left": "borrow",
+          "right": "take something and give it back later"
+        },
+        {
+          "left": "lend",
+          "right": "give something for a short time"
+        },
+        {
+          "left": "carry",
+          "right": "hold something and take it somewhere"
+        },
+        {
+          "left": "wear",
+          "right": "have clothes on your body"
+        }
+      ]
+    },
+    {
+      "id": "a2-mp-002",
+      "type": "match-pairs",
+      "level": "A2",
+      "topic": "vocabulary",
+      "prompt": "Match the opposites.",
+      "explanation": "Opposites (antonyms) have a completely different meaning.",
+      "pairs": [
+        {
+          "left": "cheap",
+          "right": "expensive"
+        },
+        {
+          "left": "early",
+          "right": "late"
+        },
+        {
+          "left": "easy",
+          "right": "difficult"
+        },
+        {
+          "left": "strong",
+          "right": "weak"
+        }
+      ]
+    }
+  ]
+}

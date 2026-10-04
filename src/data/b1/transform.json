@@ -1,0 +1,34 @@
+{
+  "level": "B1",
+  "type": "transform",
+  "questions": [
+    {
+      "id": "b1-tr-001",
+      "type": "transform",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Use the present perfect (continuous) with 'for' + a period of time.",
+      "original": "I started learning English five years ago.",
+      "keyword": "FOR",
+      "template": "I have been learning English ___.",
+      "solutions": [
+        "for five years"
+      ]
+    },
+    {
+      "id": "b1-tr-002",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Passive in the present: is/are + past participle.",
+      "original": "People speak English all over the world.",
+      "keyword": "SPOKEN",
+      "template": "English ___ all over the world.",
+      "solutions": [
+        "is spoken"
+      ]
+    }
+  ]
+}

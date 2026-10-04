@@ -1,0 +1,49 @@
+{
+  "level": "C1",
+  "type": "place-word",
+  "questions": [
+    {
+      "id": "c1-pw-001",
+      "type": "place-word",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Barely' goes between the auxiliary and the main verb: she had barely left.",
+      "word": "barely",
+      "tokens": [
+        "She",
+        "had",
+        "left",
+        "the",
+        "house",
+        "when",
+        "it",
+        "started",
+        "to",
+        "rain"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "c1-pw-002",
+      "type": "place-word",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Ever' goes before the past participle in a present perfect question: Have you ever been?",
+      "word": "ever",
+      "tokens": [
+        "Have",
+        "you",
+        "been",
+        "to",
+        "Japan"
+      ],
+      "correctPositions": [
+        2
+      ]
+    }
+  ]
+}

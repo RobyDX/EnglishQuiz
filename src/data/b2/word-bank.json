@@ -1,0 +1,42 @@
+{
+  "level": "B2",
+  "type": "word-bank",
+  "questions": [
+    {
+      "id": "b2-wb-001",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Despite' is followed by a noun phrase (the heavy rain).",
+      "bank": [
+        "despite",
+        "although",
+        "however",
+        "because of"
+      ],
+      "text": "___ the heavy rain, we went for a walk.",
+      "answers": [
+        "despite"
+      ]
+    },
+    {
+      "id": "b2-wb-002",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Unless' means 'if ... not': I won't go if you don't come.",
+      "bank": [
+        "unless",
+        "if",
+        "whether",
+        "until"
+      ],
+      "text": "I won't go ___ you come with me.",
+      "answers": [
+        "unless"
+      ]
+    }
+  ]
+}

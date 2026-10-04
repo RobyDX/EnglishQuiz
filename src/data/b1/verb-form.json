@@ -1,0 +1,48 @@
+{
+  "level": "B1",
+  "type": "verb-form",
+  "questions": [
+    {
+      "id": "b1-vf-001",
+      "type": "verb-form",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "I ___ here for five years.",
+      "explanation": "Use the present perfect (have + past participle) with 'for' + a period up to now.",
+      "wrongReasons": {
+        "0": "The present simple does not combine with 'for five years'.",
+        "1": "The past simple shows a finished period.",
+        "3": "The present continuous is not used with 'for' + a period like this."
+      },
+      "verb": "live",
+      "options": [
+        "live",
+        "lived",
+        "have lived",
+        "am living"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b1-vf-002",
+      "type": "verb-form",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "The window ___ by the children yesterday.",
+      "explanation": "Passive in the past: was/were + past participle.",
+      "wrongReasons": {
+        "0": "The window did not do the action: it needs the passive.",
+        "2": "'has broken' is active and needs a person doing the action.",
+        "3": "'is breaking' is the present continuous active."
+      },
+      "verb": "break",
+      "options": [
+        "broke",
+        "was broken",
+        "has broken",
+        "is breaking"
+      ],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "level": "B1",
+  "type": "error-correct",
+  "questions": [
+    {
+      "id": "b1-ec-001",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "past-simple",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After didn't use the base form of the verb: didn't go.",
+      "wrongReasons": {
+        "he didn't went to school yesterday": "After didn't the verb stays in the base form: go, not went."
+      },
+      "wrong": "He didn't went to school yesterday.",
+      "solutions": [
+        "He didn't go to school yesterday.",
+        "He did not go to school yesterday."
+      ]
+    },
+    {
+      "id": "b1-ec-002",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Use the present perfect (simple or continuous) with 'since', not the present continuous.",
+      "wrong": "I am living here since 2010.",
+      "solutions": [
+        "I have lived here since 2010.",
+        "I have been living here since 2010."
+      ]
+    }
+  ]
+}

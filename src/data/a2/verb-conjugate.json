@@ -1,0 +1,60 @@
+{
+  "level": "A2",
+  "type": "verb-conjugate",
+  "questions": [
+    {
+      "id": "a2-vc-001",
+      "type": "verb-conjugate",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Regular verbs add -ed in the past simple: visited.",
+      "wrongReasons": {
+        "visit": "'Last week' needs the past form.",
+        "visitted": "Do not double the t. Only add -ed: visited."
+      },
+      "text": "They ___ (visit) their grandparents last week.",
+      "answers": [
+        [
+          "visited"
+        ]
+      ]
+    },
+    {
+      "id": "a2-vc-002",
+      "type": "verb-conjugate",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Negative past simple: didn't + base verb.",
+      "wrongReasons": {
+        "didn't saw": "After didn't use the base verb, not the past form.",
+        "not saw": "Use the auxiliary 'didn't' to make the past negative."
+      },
+      "text": "I ___ (not / see) him yesterday.",
+      "answers": [
+        [
+          "didn't see",
+          "did not see"
+        ]
+      ]
+    },
+    {
+      "id": "a2-vc-003",
+      "type": "verb-conjugate",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Short adjectives add -er: colder than.",
+      "wrongReasons": {
+        "more cold": "Short adjectives take -er, not 'more'."
+      },
+      "text": "It is ___ (cold) today than yesterday.",
+      "answers": [
+        [
+          "colder"
+        ]
+      ]
+    }
+  ]
+}

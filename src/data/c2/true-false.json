@@ -1,0 +1,48 @@
+{
+  "level": "C2",
+  "type": "true-false",
+  "questions": [
+    {
+      "id": "c2-tf-001",
+      "type": "true-false",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says critics 'have long debated', early books were 'praised for their lyrical prose', and restraint 'lends the later novels their quiet power'.",
+      "passage": "Critics have long debated whether the novelist's later work marks a decline or a deliberate shift in style. Her early books, praised for their lyrical prose, gave way to spare, almost austere narratives. Defenders argue that this restraint is precisely what lends the later novels their quiet power.",
+      "statements": [
+        {
+          "text": "All critics agree that her later work is weaker.",
+          "answer": false
+        },
+        {
+          "text": "Her early books were praised for their lyrical prose.",
+          "answer": true
+        },
+        {
+          "text": "Defenders see the restraint as a strength.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "c2-tf-002",
+      "type": "true-false",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says urban noise has troubled people 'for centuries' and medieval towns 'passed laws restricting hammering'.",
+      "passage": "Far from being a purely modern problem, urban noise has troubled city dwellers for centuries. Ancient Roman writers complained about the clatter of carts at night, and medieval towns passed laws restricting hammering after dark.",
+      "statements": [
+        {
+          "text": "Urban noise is a recent problem.",
+          "answer": false
+        },
+        {
+          "text": "Medieval towns tried to limit noise by law.",
+          "answer": true
+        }
+      ]
+    }
+  ]
+}

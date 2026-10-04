@@ -1,0 +1,34 @@
+{
+  "level": "B2",
+  "type": "transform",
+  "questions": [
+    {
+      "id": "b2-tr-001",
+      "type": "transform",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "For regrets about the past, use 'wish' + past perfect: I wish I had called.",
+      "original": "I'm sorry I didn't call you.",
+      "keyword": "WISH",
+      "template": "I ___ called you.",
+      "solutions": [
+        "wish I had"
+      ]
+    },
+    {
+      "id": "b2-tr-002",
+      "type": "transform",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Passive in the past: was/were + past participle.",
+      "original": "They built this bridge in 1990.",
+      "keyword": "BUILT",
+      "template": "This bridge ___ in 1990.",
+      "solutions": [
+        "was built"
+      ]
+    }
+  ]
+}

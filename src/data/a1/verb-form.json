@@ -1,0 +1,111 @@
+{
+  "level": "A1",
+  "type": "verb-form",
+  "questions": [
+    {
+      "id": "a1-vf-001",
+      "type": "verb-form",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "My brother ___ football on Sundays.",
+      "explanation": "Present simple, he/she/it: add -s to the verb.",
+      "wrongReasons": {
+        "0": "The base form is for I, you, we and they.",
+        "2": "'playing' needs 'is' before it.",
+        "3": "'played' is the past. 'On Sundays' is a habit in the present."
+      },
+      "verb": "play",
+      "options": [
+        "play",
+        "plays",
+        "playing",
+        "played"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-vf-002",
+      "type": "verb-form",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "I ___ tired today.",
+      "explanation": "Use 'am' with I.",
+      "wrongReasons": {
+        "0": "'is' is used with he, she and it.",
+        "2": "'are' is used with you, we and they.",
+        "3": "'be' is the base form. In the present we use am, is or are."
+      },
+      "verb": "be",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-vf-003",
+      "type": "verb-form",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "We ___ cold weather.",
+      "explanation": "Negative present simple with I, you, we, they: don't + base verb.",
+      "wrongReasons": {
+        "0": "'doesn't' is used with he, she and it.",
+        "2": "We need the auxiliary 'don't' before the verb.",
+        "3": "'aren't' goes with 'be', not with other verbs."
+      },
+      "verb": "not like",
+      "options": [
+        "doesn't like",
+        "don't like",
+        "not like",
+        "aren't like"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-vf-004",
+      "type": "verb-form",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ you speak English?",
+      "explanation": "Questions with you, we and they start with 'Do': Do you speak English?",
+      "wrongReasons": {
+        "0": "'Does' is used with he, she and it.",
+        "2": "'Are' is used with 'be', not with the verb 'speak'.",
+        "3": "'Is' is used with he, she and it, and with 'be'."
+      },
+      "verb": "do",
+      "options": [
+        "Does",
+        "Do",
+        "Are",
+        "Is"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-vf-005",
+      "type": "verb-form",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Look! The baby ___.",
+      "explanation": "'Look!' shows an action happening now. Use the present continuous: is + verb-ing.",
+      "wrongReasons": {
+        "0": "The present simple is for habits and facts, not for what is happening now.",
+        "2": "The base form does not fit with 'the baby'.",
+        "3": "'slept' is the past."
+      },
+      "verb": "sleep",
+      "options": [
+        "sleeps",
+        "is sleeping",
+        "sleep",
+        "slept"
+      ],
+      "correct": 1
+    }
+  ]
+}

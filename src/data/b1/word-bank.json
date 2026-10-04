@@ -1,0 +1,42 @@
+{
+  "level": "B1",
+  "type": "word-bank",
+  "questions": [
+    {
+      "id": "b1-wb-001",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use 'should' to give advice.",
+      "bank": [
+        "should",
+        "must",
+        "mustn't",
+        "can"
+      ],
+      "text": "You ___ see a doctor. You look ill.",
+      "answers": [
+        "should"
+      ]
+    },
+    {
+      "id": "b1-wb-002",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Because' introduces a reason.",
+      "bank": [
+        "although",
+        "because",
+        "so",
+        "but"
+      ],
+      "text": "I stayed at home ___ it was raining.",
+      "answers": [
+        "because"
+      ]
+    }
+  ]
+}

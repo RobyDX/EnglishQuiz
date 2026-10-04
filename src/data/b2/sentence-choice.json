@@ -1,0 +1,42 @@
+{
+  "level": "B2",
+  "type": "sentence-choice",
+  "questions": [
+    {
+      "id": "b2-sc-001",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a relative clause the relative pronoun is the object, so do not repeat it with it.",
+      "wrongReasons": {
+        "0": "Do not repeat the object: 'which' already replaces 'it'.",
+        "2": "'what' cannot be used as a relative pronoun after a noun."
+      },
+      "options": [
+        "The book which I bought it was boring.",
+        "The book which I bought was boring.",
+        "The book what I bought was boring."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-002",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "be-used-to",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Be used to' is followed by the -ing form: I'm used to getting up early.",
+      "wrongReasons": {
+        "1": "After 'be used to', use the -ing form.",
+        "2": "'I used to' is followed by the base form and means a past habit."
+      },
+      "options": [
+        "I'm used to getting up early.",
+        "I'm used to get up early.",
+        "I used to getting up early."
+      ],
+      "correct": 0
+    }
+  ]
+}

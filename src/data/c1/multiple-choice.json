@@ -1,0 +1,46 @@
+{
+  "level": "C1",
+  "type": "multiple-choice",
+  "questions": [
+    {
+      "id": "c1-mc-001",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Not only ___ late, but he also forgot the documents.",
+      "explanation": "After 'Not only' at the start of a sentence, the verb comes before the subject: Not only was he late.",
+      "wrongReasons": {
+        "0": "After 'Not only' the verb must come before the subject.",
+        "2": "'did he' needs a main verb. With 'be', invert it directly: was he.",
+        "3": "After 'Not only' we need inversion."
+      },
+      "options": [
+        "he was",
+        "was he",
+        "did he",
+        "he did"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-002",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "She is said ___ the most talented pianist of her generation.",
+      "explanation": "Passive reporting structure: is said + to-infinitive.",
+      "wrongReasons": {
+        "1": "'being' does not follow 'is said' in this structure.",
+        "2": "After 'is said' we need 'to be'.",
+        "3": "'that she' would need a full clause: it is said that she is..."
+      },
+      "options": [
+        "to be",
+        "being",
+        "be",
+        "that she"
+      ],
+      "correct": 0
+    }
+  ]
+}

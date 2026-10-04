@@ -1,0 +1,60 @@
+{
+  "level": "A2",
+  "type": "sentence-choice",
+  "questions": [
+    {
+      "id": "a2-sc-001",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Short adjectives add -er in the comparative: taller than.",
+      "wrongReasons": {
+        "1": "Short adjectives use -er, not 'more'.",
+        "2": "'tallest' is a superlative. Use 'taller' with 'than'."
+      },
+      "options": [
+        "She is taller than me.",
+        "She is more tall than me.",
+        "She is tallest than me."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "a2-sc-002",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "going-to",
+      "prompt": "Which sentence is correct?",
+      "explanation": "For plans, use be + going to + base verb.",
+      "wrongReasons": {
+        "1": "'Go to visit ... now' mixes tenses and is not a normal sentence.",
+        "2": "The words are in the wrong order. Use: I'm going to visit."
+      },
+      "options": [
+        "I'm going to visit my aunt next week.",
+        "I go to visit my aunt next week now.",
+        "I visit going my aunt next week."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "a2-sc-003",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use 'many' with countable nouns, and keep question order: How many people are there?",
+      "wrongReasons": {
+        "0": "'people' is countable, so use 'many'.",
+        "2": "In a question the verb comes before there: are there?"
+      },
+      "options": [
+        "How much people are there?",
+        "How many people are there?",
+        "How many people there are?"
+      ],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "level": "A2",
+  "type": "error-spot",
+  "questions": [
+    {
+      "id": "a2-es-001",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "present-simple",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "With he, she and it use doesn't, not don't.",
+      "tokens": [
+        "He",
+        "don't",
+        "like",
+        "pizza"
+      ],
+      "wrongIndex": 1,
+      "fix": "doesn't"
+    },
+    {
+      "id": "a2-es-002",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Both verbs must be in the past: went ... and saw.",
+      "tokens": [
+        "I",
+        "went",
+        "to",
+        "the",
+        "cinema",
+        "yesterday",
+        "and",
+        "see",
+        "a",
+        "film"
+      ],
+      "wrongIndex": 7,
+      "fix": "saw"
+    },
+    {
+      "id": "a2-es-003",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In negative sentences use 'any', not 'some'.",
+      "tokens": [
+        "There",
+        "isn't",
+        "some",
+        "milk",
+        "in",
+        "the",
+        "fridge"
+      ],
+      "wrongIndex": 2,
+      "fix": "any"
+    }
+  ]
+}

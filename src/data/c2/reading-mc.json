@@ -1,0 +1,64 @@
+{
+  "level": "C2",
+  "type": "reading-mc",
+  "questions": [
+    {
+      "id": "c2-rm-001",
+      "type": "reading-mc",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "The text says change comes from 'small shifts in everyday speech' and academies have had 'only limited success'.",
+      "passage": "The prevailing view among linguists is that languages change gradually, driven less by deliberate decisions than by countless small shifts in everyday speech. Attempts by academies to fix a language in place have therefore met with only limited success; usage, in the end, tends to outrun rule.",
+      "items": [
+        {
+          "q": "What drives language change, according to most linguists?",
+          "options": [
+            "Official decisions",
+            "Small shifts in everyday speech",
+            "Academy rules"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "How successful have academies been at fixing language?",
+          "options": [
+            "Very successful",
+            "Only partly successful",
+            "Completely unsuccessful in every case"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": "c2-rm-002",
+      "type": "reading-mc",
+      "level": "C2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "The text says the curator 'remained unruffled' and the works echo masters 'to question the very notion of originality'.",
+      "passage": "Reviewers were quick to dismiss the exhibition as derivative, yet its curator remained unruffled. The works, she explained, deliberately echo earlier masters in order to question the very notion of originality. Whether the strategy succeeds is, she conceded, for the audience to decide.",
+      "items": [
+        {
+          "q": "How did the curator react to the criticism?",
+          "options": [
+            "She was angry",
+            "She stayed calm",
+            "She cancelled the show"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "What is the purpose of echoing earlier masters?",
+          "options": [
+            "To copy them exactly",
+            "To question the idea of originality",
+            "To save money"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  ]
+}

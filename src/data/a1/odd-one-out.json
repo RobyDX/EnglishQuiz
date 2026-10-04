@@ -1,0 +1,86 @@
+{
+  "level": "A1",
+  "type": "odd-one-out",
+  "questions": [
+    {
+      "id": "a1-oo-001",
+      "type": "odd-one-out",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word does not belong to the group?",
+      "explanation": "Apple, banana and orange are fruits. A table is furniture.",
+      "options": [
+        "apple",
+        "banana",
+        "table",
+        "orange"
+      ],
+      "correct": 2,
+      "category": "fruit"
+    },
+    {
+      "id": "a1-oo-002",
+      "type": "odd-one-out",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word does not belong to the group?",
+      "explanation": "Red, blue and green are colours. A chair is furniture.",
+      "options": [
+        "red",
+        "blue",
+        "chair",
+        "green"
+      ],
+      "correct": 2,
+      "category": "colours"
+    },
+    {
+      "id": "a1-oo-003",
+      "type": "odd-one-out",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word does not belong to the group?",
+      "explanation": "Monday, Friday and Sunday are days. June is a month.",
+      "options": [
+        "Monday",
+        "Friday",
+        "June",
+        "Sunday"
+      ],
+      "correct": 2,
+      "category": "days"
+    },
+    {
+      "id": "a1-oo-004",
+      "type": "odd-one-out",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word does not belong to the group?",
+      "explanation": "Dog, cat and horse are animals. A car is a vehicle.",
+      "options": [
+        "dog",
+        "cat",
+        "horse",
+        "car"
+      ],
+      "correct": 3,
+      "category": "animals"
+    },
+    {
+      "id": "a1-oo-005",
+      "type": "odd-one-out",
+      "level": "A1",
+      "topic": "family",
+      "prompt": "Which word does not belong to the group?",
+      "explanation": "Mother, father and sister are family members. A teacher is a job.",
+      "options": [
+        "mother",
+        "father",
+        "teacher",
+        "sister"
+      ],
+      "correct": 2,
+      "category": "family"
+    }
+  ]
+}

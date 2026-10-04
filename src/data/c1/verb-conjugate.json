@@ -1,0 +1,43 @@
+{
+  "level": "C1",
+  "type": "verb-conjugate",
+  "questions": [
+    {
+      "id": "c1-vc-001",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'No sooner' use the past perfect with inversion: had he arrived.",
+      "wrongReasons": {
+        "he had arrived": "After 'No sooner' the auxiliary must come before the subject.",
+        "did he arrive": "'No sooner' is followed by the past perfect: had he arrived."
+      },
+      "text": "No sooner ___ (he / arrive) than it began to rain.",
+      "answers": [
+        [
+          "had he arrived"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-002",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'I'd rather' + a new subject, use the past simple: I'd rather you didn't tell.",
+      "wrongReasons": {
+        "don't tell": "After 'I'd rather' + subject, use the past simple.",
+        "wouldn't tell": "'would' is not used after 'I'd rather' + subject."
+      },
+      "text": "I'd rather you ___ (not / tell) anyone.",
+      "answers": [
+        [
+          "didn't tell",
+          "did not tell"
+        ]
+      ]
+    }
+  ]
+}

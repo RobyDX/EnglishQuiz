@@ -1,0 +1,94 @@
+{
+  "level": "A1",
+  "type": "word-bank",
+  "questions": [
+    {
+      "id": "a1-wb-001",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use 'on' for something that touches the top of a surface.",
+      "bank": [
+        "in",
+        "on",
+        "at",
+        "under"
+      ],
+      "text": "The book is ___ the table.",
+      "answers": [
+        "on"
+      ]
+    },
+    {
+      "id": "a1-wb-002",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use 'at' with exact times: at noon, at six o'clock.",
+      "bank": [
+        "in",
+        "on",
+        "at",
+        "under"
+      ],
+      "text": "We have lunch ___ noon.",
+      "answers": [
+        "at"
+      ]
+    },
+    {
+      "id": "a1-wb-003",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use 'an' before a vowel sound: an elephant.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "I saw ___ elephant at the zoo.",
+      "answers": [
+        "an"
+      ]
+    },
+    {
+      "id": "a1-wb-004",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use 'am' with I and 'are' with plural nouns.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "I ___ happy and my sisters ___ happy too.",
+      "answers": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "id": "a1-wb-005",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use 'his' for a man's things and 'her' for a woman's things.",
+      "bank": [
+        "his",
+        "her",
+        "their"
+      ],
+      "text": "Tom loves ___ dog.",
+      "answers": [
+        "his"
+      ]
+    }
+  ]
+}

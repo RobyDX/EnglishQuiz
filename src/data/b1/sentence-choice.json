@@ -1,0 +1,42 @@
+{
+  "level": "B1",
+  "type": "sentence-choice",
+  "questions": [
+    {
+      "id": "b1-sc-001",
+      "type": "sentence-choice",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use 'for' with a period of time (five years) and 'since' with a starting point.",
+      "wrongReasons": {
+        "0": "'since' needs a starting point, such as 2019.",
+        "2": "With 'since' or 'for' + a period we use the present perfect, not the present simple."
+      },
+      "options": [
+        "I have lived here since five years.",
+        "I have lived here for five years.",
+        "I live here since five years."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b1-sc-002",
+      "type": "sentence-choice",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "First conditional: if + present simple, will + base verb.",
+      "wrongReasons": {
+        "0": "Do not use 'would' in the if-clause of a first conditional.",
+        "2": "Do not use 'will' in the if-clause."
+      },
+      "options": [
+        "If I would have time, I will help you.",
+        "If I have time, I will help you.",
+        "If I will have time, I help you."
+      ],
+      "correct": 1
+    }
+  ]
+}

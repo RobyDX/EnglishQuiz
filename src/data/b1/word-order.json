@@ -1,0 +1,58 @@
+{
+  "level": "B1",
+  "type": "word-order",
+  "questions": [
+    {
+      "id": "b1-wo-001",
+      "type": "word-order",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "Use have + past participle, with 'since' before the starting point.",
+      "words": [
+        "We",
+        "have",
+        "lived",
+        "here",
+        "since",
+        "2010"
+      ],
+      "solutions": [
+        [
+          "We",
+          "have",
+          "lived",
+          "here",
+          "since",
+          "2010"
+        ]
+      ]
+    },
+    {
+      "id": "b1-wo-002",
+      "type": "word-order",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "Passive: subject + was/were + past participle.",
+      "words": [
+        "The",
+        "houses",
+        "were",
+        "built",
+        "in",
+        "1990"
+      ],
+      "solutions": [
+        [
+          "The",
+          "houses",
+          "were",
+          "built",
+          "in",
+          "1990"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "level": "A1",
+  "type": "true-false",
+  "questions": [
+    {
+      "id": "a1-tf-001",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: 'Tom is ten', 'his little sister', 'by bus'.",
+      "passage": "Tom is ten years old. He lives in London with his mother and his little sister. He goes to school by bus.",
+      "statements": [
+        {
+          "text": "Tom is eleven.",
+          "answer": false
+        },
+        {
+          "text": "Tom has a sister.",
+          "answer": true
+        },
+        {
+          "text": "Tom walks to school.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-002",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: 'a cat', 'white', 'on Lisa's bed'.",
+      "passage": "Lisa has a cat called Mimi. Mimi is white and she likes milk. The cat sleeps on Lisa's bed.",
+      "statements": [
+        {
+          "text": "Mimi is a dog.",
+          "answer": false
+        },
+        {
+          "text": "Mimi is white.",
+          "answer": true
+        },
+        {
+          "text": "Mimi sleeps on the sofa.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-003",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: 'a hospital', 'finishes at four', 'with his friends'.",
+      "passage": "Paul works in a hospital. He starts work at eight in the morning and finishes at four. He has lunch with his friends at noon.",
+      "statements": [
+        {
+          "text": "Paul works in a school.",
+          "answer": false
+        },
+        {
+          "text": "He finishes work at four.",
+          "answer": true
+        },
+        {
+          "text": "He has lunch alone.",
+          "answer": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "level": "B1",
+  "type": "verb-conjugate",
+  "questions": [
+    {
+      "id": "b1-vc-001",
+      "type": "verb-conjugate",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Present perfect for life experience: have + never + past participle.",
+      "wrongReasons": {
+        "never been": "You need 'have' before 'never been'.",
+        "was never": "Experience up to now uses the present perfect: have never been.",
+        "have never be": "Use the past participle 'been'."
+      },
+      "text": "I ___ (never / be) to Japan.",
+      "answers": [
+        [
+          "have never been",
+          "'ve never been"
+        ]
+      ]
+    },
+    {
+      "id": "b1-vc-002",
+      "type": "verb-conjugate",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use the past continuous for an action in progress when another action interrupted.",
+      "wrongReasons": {
+        "walked": "'walked' does not show that the action was in progress.",
+        "walking": "You need 'was' before the -ing form."
+      },
+      "text": "While I ___ (walk) home, it started to rain.",
+      "answers": [
+        [
+          "was walking"
+        ]
+      ]
+    }
+  ]
+}

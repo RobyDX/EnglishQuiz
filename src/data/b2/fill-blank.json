@@ -1,0 +1,41 @@
+{
+  "level": "B2",
+  "type": "fill-blank",
+  "questions": [
+    {
+      "id": "b2-fb-001",
+      "type": "fill-blank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'who' or 'that' for people in a relative clause.",
+      "wrongReasons": {
+        "which": "'which' is used for things, not people."
+      },
+      "text": "The man ___ lives next door is a doctor.",
+      "answers": [
+        [
+          "who",
+          "that"
+        ]
+      ]
+    },
+    {
+      "id": "b2-fb-002",
+      "type": "fill-blank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Look forward to' is followed by the -ing form because 'to' is a preposition.",
+      "wrongReasons": {
+        "for": "The correct phrase is 'look forward to'."
+      },
+      "text": "I'm looking forward ___ seeing you.",
+      "answers": [
+        [
+          "to"
+        ]
+      ]
+    }
+  ]
+}

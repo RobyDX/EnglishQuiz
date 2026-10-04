@@ -1,0 +1,98 @@
+{
+  "level": "A1",
+  "type": "multiple-choice",
+  "questions": [
+    {
+      "id": "a1-mc-001",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "She ___ to school every day.",
+      "explanation": "With he, she and it, the verb in the present simple takes -s: she goes.",
+      "wrongReasons": {
+        "0": "'go' is used with I, you, we and they, not with 'she'.",
+        "2": "'going' is the -ing form. It needs 'is' before it: she is going.",
+        "3": "'gone' is a past participle and cannot be used alone here."
+      },
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-mc-002",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I have ___ apple.",
+      "explanation": "Use 'an' before a vowel sound: an apple.",
+      "wrongReasons": {
+        "0": "'a' is used before a consonant sound (a book), but 'apple' starts with a vowel sound.",
+        "2": "'two' needs a plural noun: two apples."
+      },
+      "options": [
+        "a",
+        "an",
+        "two"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-mc-003",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "They ___ my friends.",
+      "explanation": "Use 'are' with you, we and they: they are.",
+      "wrongReasons": {
+        "0": "'is' is used with he, she and it.",
+        "1": "'am' is only used with 'I'."
+      },
+      "options": [
+        "is",
+        "am",
+        "are"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "a1-mc-004",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "There are three ___ in the room.",
+      "explanation": "'Child' is an irregular noun. Its plural is 'children', not 'childs'.",
+      "wrongReasons": {
+        "0": "'child' is singular, but 'three' needs a plural noun.",
+        "1": "Irregular nouns do not take -s: the plural of child is children."
+      },
+      "options": [
+        "child",
+        "childs",
+        "children"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "a1-mc-005",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ a cat on the sofa.",
+      "explanation": "Use 'There is' with one thing (singular): There is a cat.",
+      "wrongReasons": {
+        "1": "'There are' is for plural nouns. 'A cat' is singular.",
+        "2": "'It are' is not correct English."
+      },
+      "options": [
+        "There is",
+        "There are",
+        "It are"
+      ],
+      "correct": 0
+    }
+  ]
+}

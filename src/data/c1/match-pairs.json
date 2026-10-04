@@ -1,0 +1,58 @@
+{
+  "level": "C1",
+  "type": "match-pairs",
+  "questions": [
+    {
+      "id": "c1-mp-001",
+      "type": "match-pairs",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "Match each verb with the noun it goes with.",
+      "explanation": "Collocations are words that are naturally used together.",
+      "pairs": [
+        {
+          "left": "reach",
+          "right": "a consensus"
+        },
+        {
+          "left": "draw",
+          "right": "a conclusion"
+        },
+        {
+          "left": "raise",
+          "right": "awareness"
+        },
+        {
+          "left": "meet",
+          "right": "a deadline"
+        }
+      ]
+    },
+    {
+      "id": "c1-mp-002",
+      "type": "match-pairs",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "Match each idiom with its meaning.",
+      "explanation": "An idiom's meaning is different from the meaning of its separate words.",
+      "pairs": [
+        {
+          "left": "bite the bullet",
+          "right": "face a difficult situation bravely"
+        },
+        {
+          "left": "break the ice",
+          "right": "start a conversation in a social situation"
+        },
+        {
+          "left": "hit the nail on the head",
+          "right": "describe exactly what is true"
+        },
+        {
+          "left": "spill the beans",
+          "right": "reveal a secret"
+        }
+      ]
+    }
+  ]
+}

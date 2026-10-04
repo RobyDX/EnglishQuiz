@@ -1,0 +1,46 @@
+{
+  "level": "B1",
+  "type": "multiple-choice",
+  "questions": [
+    {
+      "id": "b1-mc-001",
+      "type": "multiple-choice",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "I have lived in Rome ___ 2015.",
+      "explanation": "Use 'since' with a point in time (2015) and 'for' with a period of time (ten years).",
+      "wrongReasons": {
+        "0": "'for' is used with a length of time, such as 'for ten years'.",
+        "2": "'from' needs 'to' to show a period.",
+        "3": "'during' is followed by an event or period, not a starting year."
+      },
+      "options": [
+        "for",
+        "since",
+        "from",
+        "during"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b1-mc-002",
+      "type": "multiple-choice",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "If it rains tomorrow, we ___ at home.",
+      "explanation": "First conditional: if + present simple, will + base verb.",
+      "wrongReasons": {
+        "0": "The result clause needs 'will'.",
+        "2": "'would stay' is for imaginary situations (second conditional).",
+        "3": "The past simple does not fit with a future situation."
+      },
+      "options": [
+        "stay",
+        "will stay",
+        "would stay",
+        "stayed"
+      ],
+      "correct": 1
+    }
+  ]
+}

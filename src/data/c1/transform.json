@@ -1,0 +1,34 @@
+{
+  "level": "C1",
+  "type": "transform",
+  "questions": [
+    {
+      "id": "c1-tr-001",
+      "type": "transform",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "'Make no difference' means 'not matter'.",
+      "original": "It doesn't matter to me what you decide.",
+      "keyword": "DIFFERENCE",
+      "template": "It ___ to me what you decide.",
+      "solutions": [
+        "makes no difference"
+      ]
+    },
+    {
+      "id": "c1-tr-002",
+      "type": "transform",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Passive reporting structure: is thought to be.",
+      "original": "People think that he is the best player.",
+      "keyword": "THOUGHT",
+      "template": "He ___ the best player.",
+      "solutions": [
+        "is thought to be"
+      ]
+    }
+  ]
+}

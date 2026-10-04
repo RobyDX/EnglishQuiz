@@ -1,0 +1,96 @@
+{
+  "level": "A1",
+  "type": "verb-conjugate",
+  "questions": [
+    {
+      "id": "a1-vc-001",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Verbs ending in -ch, -sh, -s, -x add -es with he/she/it: watches.",
+      "wrongReasons": {
+        "watchs": "After -ch we add -es, not -s.",
+        "watch": "With he, she and it the verb needs -es."
+      },
+      "text": "He ___ (watch) TV in the evening.",
+      "answers": [
+        [
+          "watches"
+        ]
+      ]
+    },
+    {
+      "id": "a1-vc-002",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Negative present simple with they: don't + base verb.",
+      "wrongReasons": {
+        "doesn't work": "'doesn't' is used with he, she and it.",
+        "not work": "You need the auxiliary 'don't' before the verb."
+      },
+      "text": "They ___ (not / work) on Saturdays.",
+      "answers": [
+        [
+          "don't work",
+          "do not work"
+        ]
+      ]
+    },
+    {
+      "id": "a1-vc-003",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "When a verb ends in consonant + y, change y to -ies: study → studies.",
+      "wrongReasons": {
+        "studys": "After a consonant, change -y to -ies.",
+        "studyes": "Change -y to -ies, not -yes."
+      },
+      "text": "Anna ___ (study) English.",
+      "answers": [
+        [
+          "studies"
+        ]
+      ]
+    },
+    {
+      "id": "a1-vc-004",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, use the base form: I have.",
+      "wrongReasons": {
+        "has": "'has' is only used with he, she and it."
+      },
+      "text": "I ___ (have) breakfast at seven.",
+      "answers": [
+        [
+          "have"
+        ]
+      ]
+    },
+    {
+      "id": "a1-vc-005",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'does', use the base form of the verb: does she like?",
+      "wrongReasons": {
+        "likes": "After 'does' the verb has no -s.",
+        "liked": "After 'does' the verb stays in the base form."
+      },
+      "text": "Does she ___ (like) coffee?",
+      "answers": [
+        [
+          "like"
+        ]
+      ]
+    }
+  ]
+}

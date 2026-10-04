@@ -1,0 +1,42 @@
+{
+  "level": "B1",
+  "type": "fill-blank",
+  "questions": [
+    {
+      "id": "b1-fb-001",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "have-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Have to' expresses obligation. With you, use 'have'.",
+      "wrongReasons": {
+        "has": "'has' is used with he, she and it.",
+        "must": "'must' is not followed by 'to'."
+      },
+      "text": "You ___ to wear a uniform at this school. It's a rule.",
+      "answers": [
+        [
+          "have"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-002",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Used to' + base verb talks about past habits that have finished.",
+      "wrongReasons": {
+        "for": "'used for' has a different meaning.",
+        "at": "'used at' is not a correct structure here."
+      },
+      "text": "I used ___ play football when I was young.",
+      "answers": [
+        [
+          "to"
+        ]
+      ]
+    }
+  ]
+}

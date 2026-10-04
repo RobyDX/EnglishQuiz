@@ -1,0 +1,44 @@
+{
+  "level": "C2",
+  "type": "error-spot",
+  "questions": [
+    {
+      "id": "c2-es-001",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'is said' use a to-infinitive: is said to be.",
+      "tokens": [
+        "He",
+        "is",
+        "said",
+        "being",
+        "very",
+        "rich"
+      ],
+      "wrongIndex": 3,
+      "fix": "to be"
+    },
+    {
+      "id": "c2-es-002",
+      "type": "error-spot",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'Only after ...' at the start, use inversion with an auxiliary: did I understand.",
+      "tokens": [
+        "Only",
+        "after",
+        "the",
+        "meeting",
+        "I",
+        "understood",
+        "the",
+        "problem"
+      ],
+      "wrongIndex": 4,
+      "fix": "did I"
+    }
+  ]
+}

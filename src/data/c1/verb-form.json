@@ -1,0 +1,48 @@
+{
+  "level": "C1",
+  "type": "verb-form",
+  "questions": [
+    {
+      "id": "c1-vf-001",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Had I known about the delay, I ___ earlier.",
+      "explanation": "Third conditional with inversion: Had + subject + past participle, ... would have + past participle.",
+      "wrongReasons": {
+        "0": "The inversion 'Had I known' refers to the past, so we need 'would have left'.",
+        "2": "'will have left' is a future perfect.",
+        "3": "'had left' is not the result clause of a conditional."
+      },
+      "verb": "leave",
+      "options": [
+        "would leave",
+        "would have left",
+        "will have left",
+        "had left"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-vf-002",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "it-is-time",
+      "prompt": "It's high time we ___ working.",
+      "explanation": "After 'it's (high) time' we use the past simple to talk about the present.",
+      "wrongReasons": {
+        "0": "After 'it's high time' the verb is in the past simple.",
+        "2": "'will' is not used after 'it's time'.",
+        "3": "The present perfect is not used here."
+      },
+      "verb": "start",
+      "options": [
+        "start",
+        "started",
+        "will start",
+        "have started"
+      ],
+      "correct": 1
+    }
+  ]
+}

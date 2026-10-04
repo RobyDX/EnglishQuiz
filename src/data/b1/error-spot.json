@@ -1,0 +1,45 @@
+{
+  "level": "B1",
+  "type": "error-spot",
+  "questions": [
+    {
+      "id": "b1-es-001",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-simple",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "With it (he/she/it) the present simple verb takes -s: it rains.",
+      "tokens": [
+        "If",
+        "it",
+        "rain",
+        "tomorrow",
+        "we",
+        "will",
+        "stay",
+        "at",
+        "home"
+      ],
+      "wrongIndex": 2,
+      "fix": "rains"
+    },
+    {
+      "id": "b1-es-002",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Suggest' is followed by the -ing form: she suggested going.",
+      "tokens": [
+        "She",
+        "suggested",
+        "go",
+        "to",
+        "the",
+        "cinema"
+      ],
+      "wrongIndex": 2,
+      "fix": "going"
+    }
+  ]
+}

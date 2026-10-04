@@ -1,0 +1,41 @@
+{
+  "level": "C1",
+  "type": "fill-blank",
+  "questions": [
+    {
+      "id": "c1-fb-001",
+      "type": "fill-blank",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Complete the sentence.",
+      "explanation": "After a negative adverb like 'seldom' at the start, the auxiliary comes before the subject: Seldom have I seen.",
+      "wrongReasons": {
+        "did": "With the present perfect the auxiliary is 'have', not 'did'."
+      },
+      "text": "Seldom ___ I seen such a beautiful view.",
+      "answers": [
+        [
+          "have"
+        ]
+      ]
+    },
+    {
+      "id": "c1-fb-002",
+      "type": "fill-blank",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Complete the sentence.",
+      "explanation": "In a cleft sentence we use 'that' (or 'where' for places) to introduce the focused information.",
+      "wrongReasons": {
+        "which": "'which' is used for things, not for a place focused in a cleft sentence."
+      },
+      "text": "It was in Paris ___ they first met.",
+      "answers": [
+        [
+          "that",
+          "where"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "level": "C1",
+  "type": "error-spot",
+  "questions": [
+    {
+      "id": "c1-es-001",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'Rarely' at the start, use inversion with an auxiliary: Rarely does he go out.",
+      "tokens": [
+        "Rarely",
+        "he",
+        "goes",
+        "out",
+        "in",
+        "the",
+        "evening"
+      ],
+      "wrongIndex": 1,
+      "fix": "does he go"
+    },
+    {
+      "id": "c1-es-002",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After a preposition + object + -ing, use the object pronoun 'him'.",
+      "tokens": [
+        "She",
+        "insisted",
+        "on",
+        "he",
+        "coming",
+        "with",
+        "us"
+      ],
+      "wrongIndex": 3,
+      "fix": "him"
+    }
+  ]
+}

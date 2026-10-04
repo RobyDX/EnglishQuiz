@@ -1,0 +1,69 @@
+{
+  "level": "B2",
+  "type": "word-order",
+  "questions": [
+    {
+      "id": "b2-wo-001",
+      "type": "word-order",
+      "level": "B2",
+      "topic": "past-perfect",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "Use the past perfect (had left) for the earlier action. The clauses can be in either order.",
+      "words": [
+        "The",
+        "train",
+        "had",
+        "left",
+        "before",
+        "we",
+        "arrived"
+      ],
+      "solutions": [
+        [
+          "The",
+          "train",
+          "had",
+          "left",
+          "before",
+          "we",
+          "arrived"
+        ],
+        [
+          "Before",
+          "we",
+          "arrived",
+          "the",
+          "train",
+          "had",
+          "left"
+        ]
+      ]
+    },
+    {
+      "id": "b2-wo-002",
+      "type": "word-order",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "After wish, use the past simple for a present situation: I wish I knew.",
+      "words": [
+        "I",
+        "wish",
+        "I",
+        "knew",
+        "her",
+        "name"
+      ],
+      "solutions": [
+        [
+          "I",
+          "wish",
+          "I",
+          "knew",
+          "her",
+          "name"
+        ]
+      ]
+    }
+  ]
+}

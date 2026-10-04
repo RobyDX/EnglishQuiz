@@ -1,0 +1,38 @@
+{
+  "level": "B1",
+  "type": "odd-one-out",
+  "questions": [
+    {
+      "id": "b1-oo-001",
+      "type": "odd-one-out",
+      "level": "B1",
+      "topic": "grammar",
+      "prompt": "Which word does not belong to the group?",
+      "explanation": "Angry, happy and sad are adjectives. 'Quickly' is an adverb.",
+      "options": [
+        "angry",
+        "happy",
+        "quickly",
+        "sad"
+      ],
+      "correct": 2,
+      "category": "adjectives"
+    },
+    {
+      "id": "b1-oo-002",
+      "type": "odd-one-out",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Which word does not belong to the group?",
+      "explanation": "Teacher, doctor and engineer are jobs. A hospital is a place.",
+      "options": [
+        "teacher",
+        "doctor",
+        "engineer",
+        "hospital"
+      ],
+      "correct": 3,
+      "category": "jobs"
+    }
+  ]
+}

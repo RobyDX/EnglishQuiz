@@ -1,0 +1,60 @@
+{
+  "level": "A2",
+  "type": "word-bank",
+  "questions": [
+    {
+      "id": "a2-wb-001",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Many' goes with plural countable nouns (chairs).",
+      "bank": [
+        "much",
+        "many",
+        "some",
+        "any"
+      ],
+      "text": "There aren't ___ chairs in the room.",
+      "answers": [
+        "many"
+      ]
+    },
+    {
+      "id": "a2-wb-002",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use 'to' after verbs of movement and 'on' with days of the week.",
+      "bank": [
+        "at",
+        "in",
+        "on",
+        "to"
+      ],
+      "text": "She goes ___ the cinema ___ Fridays.",
+      "answers": [
+        "to",
+        "on"
+      ]
+    },
+    {
+      "id": "a2-wb-003",
+      "type": "word-bank",
+      "level": "A2",
+      "topic": "frequency",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Never' means 0% of the time. It fits with someone who is a vegetarian.",
+      "bank": [
+        "always",
+        "never",
+        "sometimes"
+      ],
+      "text": "I ___ eat meat. I am a vegetarian.",
+      "answers": [
+        "never"
+      ]
+    }
+  ]
+}

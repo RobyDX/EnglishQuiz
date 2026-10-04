@@ -1,0 +1,42 @@
+{
+  "level": "B2",
+  "type": "error-spot",
+  "questions": [
+    {
+      "id": "b2-es-001",
+      "type": "error-spot",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'look forward to', use the -ing form.",
+      "tokens": [
+        "I",
+        "am",
+        "looking",
+        "forward",
+        "to",
+        "see",
+        "you"
+      ],
+      "wrongIndex": 5,
+      "fix": "seeing"
+    },
+    {
+      "id": "b2-es-002",
+      "type": "error-spot",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Explain' needs 'to' before the person: she explained the problem to me.",
+      "tokens": [
+        "She",
+        "explained",
+        "me",
+        "the",
+        "problem"
+      ],
+      "wrongIndex": 2,
+      "fix": "to me"
+    }
+  ]
+}

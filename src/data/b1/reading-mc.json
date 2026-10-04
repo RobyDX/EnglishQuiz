@@ -1,0 +1,64 @@
+{
+  "level": "B1",
+  "type": "reading-mc",
+  "questions": [
+    {
+      "id": "b1-rm-001",
+      "type": "reading-mc",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "The text says 'every Saturday' and 'now she loves it'.",
+      "passage": "Last month Emma started volunteering at an animal shelter. She goes there every Saturday and helps to feed the dogs and clean their cages. At first she was nervous because she had never worked with animals, but now she loves it. She is even thinking about studying to become a vet.",
+      "items": [
+        {
+          "q": "How often does Emma go to the shelter?",
+          "options": [
+            "Every day",
+            "Every Saturday",
+            "Once a month"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "How does she feel now?",
+          "options": [
+            "Nervous",
+            "Bored",
+            "Happy about the work"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": "b1-rm-002",
+      "type": "reading-mc",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "The text says 'too far from the town centre' and 'a free bus now runs there'.",
+      "passage": "The new shopping centre opened last week. It has over a hundred shops, a cinema and a large car park. Many people say that it is too far from the town centre, but a free bus now runs there every ten minutes.",
+      "items": [
+        {
+          "q": "What do some people complain about?",
+          "options": [
+            "The prices",
+            "The distance from the centre",
+            "The car park"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "How can people get there without a car?",
+          "options": [
+            "By a free bus",
+            "By train",
+            "On foot only"
+          ],
+          "correct": 0
+        }
+      ]
+    }
+  ]
+}

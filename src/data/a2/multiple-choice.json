@@ -1,0 +1,66 @@
+{
+  "level": "A2",
+  "type": "multiple-choice",
+  "questions": [
+    {
+      "id": "a2-mc-001",
+      "type": "multiple-choice",
+      "level": "A2",
+      "topic": "past-simple",
+      "prompt": "Yesterday I ___ a great film.",
+      "explanation": "'See' is irregular. The past simple is 'saw'.",
+      "wrongReasons": {
+        "0": "'see' is the base form. 'Yesterday' needs the past.",
+        "2": "'seen' needs have/has/had: I have seen.",
+        "3": "'seeing' needs 'was': I was seeing."
+      },
+      "options": [
+        "see",
+        "saw",
+        "seen",
+        "seeing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a2-mc-002",
+      "type": "multiple-choice",
+      "level": "A2",
+      "topic": "comparatives",
+      "prompt": "This bag is ___ than that one.",
+      "explanation": "Short adjectives ending in -y change to -ier in the comparative: heavier than.",
+      "wrongReasons": {
+        "0": "We need the comparative form before 'than'.",
+        "2": "Short adjectives use -er, not 'more'.",
+        "3": "The superlative is for three or more things, not with 'than'."
+      },
+      "options": [
+        "heavy",
+        "heavier",
+        "more heavy",
+        "the heaviest"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a2-mc-003",
+      "type": "multiple-choice",
+      "level": "A2",
+      "topic": "some-any",
+      "prompt": "We don't have ___ milk.",
+      "explanation": "In negative sentences use 'any': we don't have any milk.",
+      "wrongReasons": {
+        "0": "'some' is normally used in positive sentences.",
+        "2": "'a' cannot be used with an uncountable noun like milk.",
+        "3": "'many' is used with countable nouns."
+      },
+      "options": [
+        "some",
+        "any",
+        "a",
+        "many"
+      ],
+      "correct": 1
+    }
+  ]
+}

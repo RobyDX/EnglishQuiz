@@ -1,0 +1,42 @@
+{
+  "level": "B2",
+  "type": "verb-conjugate",
+  "questions": [
+    {
+      "id": "b2-vc-001",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Second conditional: if + past simple.",
+      "wrongReasons": {
+        "studies": "The if-clause needs the past simple.",
+        "would study": "Do not use 'would' in the if-clause."
+      },
+      "text": "If she ___ (study) harder, she would pass the exam.",
+      "answers": [
+        [
+          "studied"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-002",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Deny' is followed by the -ing form.",
+      "wrongReasons": {
+        "to steal": "'Deny' is not followed by the infinitive with to.",
+        "steal": "'Deny' needs the -ing form."
+      },
+      "text": "He denied ___ (steal) the money.",
+      "answers": [
+        [
+          "stealing"
+        ]
+      ]
+    }
+  ]
+}

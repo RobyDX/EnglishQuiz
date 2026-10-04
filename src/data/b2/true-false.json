@@ -1,0 +1,48 @@
+{
+  "level": "B2",
+  "type": "true-false",
+  "questions": [
+    {
+      "id": "b2-tf-001",
+      "type": "true-false",
+      "level": "B2",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'save time and money', 'managers often worry' and 'feeling isolated'.",
+      "passage": "Remote working has changed the way many companies operate. Employees say they save time and money because they do not need to travel. However, managers often worry that staff are less productive at home, and some workers report feeling isolated from their colleagues.",
+      "statements": [
+        {
+          "text": "Employees say remote working saves them time.",
+          "answer": true
+        },
+        {
+          "text": "All managers believe staff work better at home.",
+          "answer": false
+        },
+        {
+          "text": "Some workers feel isolated.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b2-tf-002",
+      "type": "true-false",
+      "level": "B2",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'almost empty twenty years ago' and 'a group of young artists moved in'.",
+      "passage": "The village of Alden was almost empty twenty years ago. Then a group of young artists moved in and opened small galleries. Today the village attracts thousands of visitors every summer, although local residents complain about the noise and the high prices.",
+      "statements": [
+        {
+          "text": "Alden is less popular than it was twenty years ago.",
+          "answer": false
+        },
+        {
+          "text": "Artists played a part in the change.",
+          "answer": true
+        }
+      ]
+    }
+  ]
+}

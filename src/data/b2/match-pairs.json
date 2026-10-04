@@ -1,0 +1,58 @@
+{
+  "level": "B2",
+  "type": "match-pairs",
+  "questions": [
+    {
+      "id": "b2-mp-001",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "Phrasal verbs often have a meaning that is different from the verb alone.",
+      "pairs": [
+        {
+          "left": "put off",
+          "right": "postpone"
+        },
+        {
+          "left": "carry out",
+          "right": "perform or complete"
+        },
+        {
+          "left": "come up with",
+          "right": "think of an idea"
+        },
+        {
+          "left": "get over",
+          "right": "recover from"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-002",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "adjectives",
+      "prompt": "Match each adjective with its meaning.",
+      "explanation": "These adjectives describe personality.",
+      "pairs": [
+        {
+          "left": "reliable",
+          "right": "can be trusted"
+        },
+        {
+          "left": "ambitious",
+          "right": "determined to succeed"
+        },
+        {
+          "left": "generous",
+          "right": "happy to give to others"
+        },
+        {
+          "left": "stubborn",
+          "right": "refuses to change"
+        }
+      ]
+    }
+  ]
+}

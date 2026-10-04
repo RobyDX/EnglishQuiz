@@ -1,0 +1,30 @@
+{
+  "level": "C1",
+  "type": "error-correct",
+  "questions": [
+    {
+      "id": "c1-ec-001",
+      "type": "error-correct",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After 'Hardly' use inversion with the past perfect: Hardly had I left.",
+      "wrong": "Hardly I had left the office when it started to snow.",
+      "solutions": [
+        "Hardly had I left the office when it started to snow."
+      ]
+    },
+    {
+      "id": "c1-ec-002",
+      "type": "error-correct",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "In an inverted third conditional, use 'Had + subject + past participle': Had I known.",
+      "wrong": "Had I would known, I would have helped.",
+      "solutions": [
+        "Had I known, I would have helped."
+      ]
+    }
+  ]
+}

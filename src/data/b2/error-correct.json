@@ -1,0 +1,33 @@
+{
+  "level": "B2",
+  "type": "error-correct",
+  "questions": [
+    {
+      "id": "b2-ec-001",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Do not use 'would' in the if-clause. Use the past simple: if I had.",
+      "wrong": "If I would have more time, I would learn Spanish.",
+      "solutions": [
+        "If I had more time, I would learn Spanish."
+      ]
+    },
+    {
+      "id": "b2-ec-002",
+      "type": "error-correct",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "'Suggest' is not followed by an object + to-infinitive. Use 'suggested that I take' or 'suggested taking'.",
+      "wrong": "She suggested me to take a taxi.",
+      "solutions": [
+        "She suggested that I take a taxi.",
+        "She suggested that I should take a taxi.",
+        "She suggested taking a taxi.",
+        "She suggested I take a taxi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "level": "A1",
+  "type": "word-order",
+  "questions": [
+    {
+      "id": "a1-wo-001",
+      "type": "word-order",
+      "level": "A1",
+      "topic": "word-order",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "The basic order is subject + verb + the rest of the sentence.",
+      "words": [
+        "She",
+        "goes",
+        "to",
+        "school"
+      ],
+      "solutions": [
+        [
+          "She",
+          "goes",
+          "to",
+          "school"
+        ]
+      ]
+    },
+    {
+      "id": "a1-wo-002",
+      "type": "word-order",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "In questions, 'do' comes before the subject: Do you speak English?",
+      "words": [
+        "Do",
+        "you",
+        "speak",
+        "English"
+      ],
+      "solutions": [
+        [
+          "Do",
+          "you",
+          "speak",
+          "English"
+        ]
+      ]
+    },
+    {
+      "id": "a1-wo-003",
+      "type": "word-order",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "The verb comes after the subject in a statement: My name is Marco.",
+      "words": [
+        "My",
+        "name",
+        "is",
+        "Marco"
+      ],
+      "solutions": [
+        [
+          "My",
+          "name",
+          "is",
+          "Marco"
+        ]
+      ]
+    },
+    {
+      "id": "a1-wo-004",
+      "type": "word-order",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "Put 'don't' before the main verb: I don't like coffee.",
+      "words": [
+        "I",
+        "don't",
+        "like",
+        "coffee"
+      ],
+      "solutions": [
+        [
+          "I",
+          "don't",
+          "like",
+          "coffee"
+        ]
+      ]
+    },
+    {
+      "id": "a1-wo-005",
+      "type": "word-order",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "Adjectives go before nouns: a red bike.",
+      "words": [
+        "She",
+        "has",
+        "a",
+        "red",
+        "bike"
+      ],
+      "solutions": [
+        [
+          "She",
+          "has",
+          "a",
+          "red",
+          "bike"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "level": "A1",
+  "type": "match-pairs",
+  "questions": [
+    {
+      "id": "a1-mp-001",
+      "type": "match-pairs",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Match the words with the same meaning.",
+      "explanation": "These words are synonyms: they have almost the same meaning.",
+      "pairs": [
+        {
+          "left": "big",
+          "right": "large"
+        },
+        {
+          "left": "small",
+          "right": "little"
+        },
+        {
+          "left": "happy",
+          "right": "glad"
+        },
+        {
+          "left": "begin",
+          "right": "start"
+        }
+      ]
+    },
+    {
+      "id": "a1-mp-002",
+      "type": "match-pairs",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Match the opposites.",
+      "explanation": "Opposites (antonyms) have a completely different meaning.",
+      "pairs": [
+        {
+          "left": "hot",
+          "right": "cold"
+        },
+        {
+          "left": "up",
+          "right": "down"
+        },
+        {
+          "left": "open",
+          "right": "close"
+        },
+        {
+          "left": "old",
+          "right": "new"
+        }
+      ]
+    },
+    {
+      "id": "a1-mp-003",
+      "type": "match-pairs",
+      "level": "A1",
+      "topic": "jobs",
+      "prompt": "Match each job with what the person does.",
+      "explanation": "Each job has a typical activity.",
+      "pairs": [
+        {
+          "left": "teacher",
+          "right": "works in a school"
+        },
+        {
+          "left": "doctor",
+          "right": "helps sick people"
+        },
+        {
+          "left": "pilot",
+          "right": "flies a plane"
+        },
+        {
+          "left": "cook",
+          "right": "makes food"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level": "A1",
+  "type": "fill-blank",
+  "questions": [
+    {
+      "id": "a1-fb-001",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'am' with I: I am (I'm).",
+      "wrongReasons": {
+        "is": "'is' is used with he, she and it.",
+        "are": "'are' is used with you, we and they."
+      },
+      "text": "I ___ a student.",
+      "answers": [
+        [
+          "am"
+        ]
+      ]
+    },
+    {
+      "id": "a1-fb-002",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'has' with he, she and it: she has.",
+      "wrongReasons": {
+        "have": "'have' is used with I, you, we and they."
+      },
+      "text": "She ___ two sisters.",
+      "answers": [
+        [
+          "has"
+        ]
+      ]
+    },
+    {
+      "id": "a1-fb-003",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'There are' with plural nouns: there are five books.",
+      "wrongReasons": {
+        "is": "'is' is for singular nouns, but 'five books' is plural."
+      },
+      "text": "There ___ five books on the table.",
+      "answers": [
+        [
+          "are"
+        ]
+      ]
+    },
+    {
+      "id": "a1-fb-004",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'is' with a singular thing: my name is Anna.",
+      "wrongReasons": {
+        "am": "'am' is only used with 'I'.",
+        "are": "'are' is used with plural nouns, and 'name' is singular."
+      },
+      "text": "My name ___ Anna.",
+      "answers": [
+        [
+          "is"
+        ]
+      ]
+    },
+    {
+      "id": "a1-fb-005",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'are' with we, you and they: we are.",
+      "wrongReasons": {
+        "is": "'is' is used with he, she and it.",
+        "am": "'am' is only used with 'I'."
+      },
+      "text": "We ___ from Italy.",
+      "answers": [
+        [
+          "are"
+        ]
+      ]
+    }
+  ]
+}

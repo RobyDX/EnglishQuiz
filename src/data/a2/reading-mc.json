@@ -1,0 +1,64 @@
+{
+  "level": "A2",
+  "type": "reading-mc",
+  "questions": [
+    {
+      "id": "a2-rm-001",
+      "type": "reading-mc",
+      "level": "A2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "The text says: 'The market is on Saturday mornings' and 'because there is a playground'.",
+      "passage": "Our town has a small library, a market and a park. The library opens at nine and closes at five. The market is on Saturday mornings. Many families go to the park on Sunday because there is a playground.",
+      "items": [
+        {
+          "q": "When is the market open?",
+          "options": [
+            "Every day",
+            "On Saturday mornings",
+            "On Sunday afternoons"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "Why do families go to the park on Sunday?",
+          "options": [
+            "It has a market",
+            "It has a playground",
+            "It has a library"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-rm-002",
+      "type": "reading-mc",
+      "level": "A2",
+      "topic": "reading",
+      "prompt": "Read the text and answer the questions.",
+      "explanation": "Tom has only 50 euros, so he can only pay for the blue jacket (45 euros).",
+      "passage": "Tom wants to buy a jacket. The black jacket costs 60 euros and the blue jacket costs 45 euros. Tom likes the black one more, but he has only 50 euros. In the end he buys the blue jacket.",
+      "items": [
+        {
+          "q": "Which jacket does Tom buy?",
+          "options": [
+            "The black one",
+            "The blue one",
+            "Both"
+          ],
+          "correct": 1
+        },
+        {
+          "q": "Why?",
+          "options": [
+            "It is nicer",
+            "It is cheaper and he has only 50 euros",
+            "The shop has no black ones"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  ]
+}

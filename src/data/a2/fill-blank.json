@@ -1,0 +1,60 @@
+{
+  "level": "A2",
+  "type": "fill-blank",
+  "questions": [
+    {
+      "id": "a2-fb-001",
+      "type": "fill-blank",
+      "level": "A2",
+      "topic": "to-be-past",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'was' with I, he, she and it in the past.",
+      "wrongReasons": {
+        "were": "'were' is used with you, we and they.",
+        "is": "We need the past because 1998 is finished."
+      },
+      "text": "She ___ born in 1998.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "a2-fb-002",
+      "type": "fill-blank",
+      "level": "A2",
+      "topic": "much-many",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'much' with uncountable nouns like water.",
+      "wrongReasons": {
+        "many": "'many' is used with countable nouns."
+      },
+      "text": "How ___ water do you drink every day?",
+      "answers": [
+        [
+          "much"
+        ]
+      ]
+    },
+    {
+      "id": "a2-fb-003",
+      "type": "fill-blank",
+      "level": "A2",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'must' or 'have to' for rules and obligations.",
+      "wrongReasons": {
+        "can": "'can' means it is possible, not that it is necessary.",
+        "should": "'should' is advice, not a rule."
+      },
+      "text": "You ___ wear a seat belt in the car. It is the law.",
+      "answers": [
+        [
+          "must",
+          "have to"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "level": "B2",
+  "type": "place-word",
+  "questions": [
+    {
+      "id": "b2-pw-001",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With the verb 'be', adverbs go after it: he is rarely late.",
+      "word": "rarely",
+      "tokens": [
+        "He",
+        "is",
+        "late",
+        "for",
+        "meetings"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-002",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb: they seldom go.",
+      "word": "seldom",
+      "tokens": [
+        "They",
+        "go",
+        "to",
+        "the",
+        "theatre"
+      ],
+      "correctPositions": [
+        1
+      ]
+    }
+  ]
+}

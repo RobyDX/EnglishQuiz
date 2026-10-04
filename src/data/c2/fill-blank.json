@@ -1,0 +1,38 @@
+{
+  "level": "C2",
+  "type": "fill-blank",
+  "questions": [
+    {
+      "id": "c2-fb-001",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "Complete the sentence.",
+      "explanation": "After 'So' + adjective at the start, the verb comes before the subject: So loud was the noise.",
+      "text": "So ___ was the noise that we could not hear each other.",
+      "answers": [
+        [
+          "loud"
+        ]
+      ]
+    },
+    {
+      "id": "c2-fb-002",
+      "type": "fill-blank",
+      "level": "C2",
+      "topic": "inversion",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Were it not for' + noun means 'if it hadn't been for'.",
+      "wrongReasons": {
+        "by": "The fixed phrase is 'Were it not for'.",
+        "of": "The fixed phrase is 'Were it not for'."
+      },
+      "text": "Were it not ___ your help, I would have failed.",
+      "answers": [
+        [
+          "for"
+        ]
+      ]
+    }
+  ]
+}
