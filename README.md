@@ -14,6 +14,7 @@ npm test          # unit + UI tests (Vitest)
 npm run lint      # type-check (tsc --noEmit)
 npm run build     # production build -> ../build
 npm run preview   # serve ../build locally
+npm run icons     # regenerate the app icons (British flag + "English Quiz")
 ```
 
 `CHECK_QUOTAS=1 npm test` also checks the content targets (2000 questions per level, see `specs/07-contenuti.md`).

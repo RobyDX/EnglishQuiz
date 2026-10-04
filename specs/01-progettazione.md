@@ -14,14 +14,16 @@ Web app **SPA + PWA**, interamente **front-end** (nessun backend), per esercitar
 | F1 | L'utente sceglie il livello tra A1, A2, B1, B2, C1, C2. |
 | F2 | L'app genera un quiz di N esercizi (default 10) per il livello scelto, pescati a caso dal catalogo, senza ripetizioni nella stessa sessione. |
 | F3 | Gli esercizi appartengono a più tipologie (vedi `02-tipologie-domande.md`). |
-| F4 | L'utente compila tutte le risposte e preme **Invio** (pulsante "Check answers"). Anche i campi di testo permettono il tasto Invio sull'ultima domanda; in generale il pulsante "Check answers" è sempre visibile. |
+| F4 | L'utente compila le risposte e preme **"Check answers"**. Il pulsante sta **alla fine della pagina, non è fisso**: l'utente deve scorrere fino in fondo. Nei campi di testo, Invio passa al campo successivo e, sull'ultimo, invia. |
 | F5 | Dopo l'invio l'app mostra **n° risposte corrette / totale** e **percentuale**; ogni domanda è marcata corretta/errata. |
 | F6 | Pulsante **"Show correct answers"**: visibile solo dopo l'invio; mostra la soluzione per ogni domanda con la relativa spiegazione. |
-| F7 | Pulsanti **"Riprova"** (stesse domande, risposte azzerate) e **"Nuovo quiz"** (nuove domande, stesso livello) e **"Cambia livello"**. |
+| F7 | Dopo l'invio, in fondo alla pagina: **"Try again"** (stesse domande, risposte azzerate), **"New quiz"** (nuove domande, stesso livello) e **"Change level"**. |
 | F8 | Si può inviare anche con domande senza risposta: contano come errate (con avviso di conferma se ne mancano). |
-| F9 | Cronologia locale degli ultimi risultati (livello, data, punteggio) e ultimo livello scelto, salvati in `localStorage`. |
-| F11 | **Feedback sugli errori.** Per ogni risposta errata (o vuota) l'app mostra: la risposta data dall'utente, la risposta corretta, **perché è sbagliata** (*Why it's wrong*) e **la regola** (*Rule*), tutto in inglese. Il feedback compare subito dopo "Check answers", senza dover premere "Show correct answers". Vedi `04-ui-ux.md` e `07-contenuti.md`. |
+| F9 | Cronologia locale degli ultimi 50 risultati (livello, data, punteggio) e ultimo livello scelto, salvati **solo** in `localStorage` del browser (nessun server, nessuna sincronizzazione). Ogni quiz inviato viene registrato **una sola volta** (anche con doppio clic o in StrictMode). Il quiz in corso non viene salvato. |
 | F10 | Numero di domande selezionabile (5 / 10 / 20) nella schermata di avvio. |
+| F11 | **Feedback sugli errori.** Per ogni risposta errata (o vuota) l'app mostra: la risposta data dall'utente, la risposta corretta, **perché è sbagliata** (*Why it's wrong*) e **la regola** (*Rule*), tutto in inglese. Il feedback compare subito dopo "Check answers", senza dover premere "Show correct answers". Ogni risposta sbagliata ha una spiegazione **propria** (non riusata tra opzioni diverse). Vedi `04-ui-ux.md` e `07-contenuti.md`. |
+| F12 | **Barra livello/progresso sempre visibile** durante il quiz (livello, "n / totale answered") sotto la navbar, con a destra un pulsante **"↓ End"** che scorre fino alla fine della pagina. |
+| F13 | Nome dell'app: **"English Quiz"** (con lo spazio). La pagina About riporta l'autore: Roberto Nacchia (RobyDx). |
 
 ### 2.2 Non funzionali
 - **React** (SPA), nessun backend, nessuna chiamata di rete a runtime oltre agli asset dell'app.
@@ -58,7 +60,7 @@ EnglishQuiz/
    ├─ package.json, package-lock.json, node_modules/
    ├─ vite.config.ts, tsconfig.json, vite-env.d.ts, test-setup.ts
    ├─ index.html           # entry di Vite (root = src/)
-   ├─ public/              # favicon e icone PWA
+   ├─ public/              # icone PWA (favicon = pwa-192.png)
    ├─ main.tsx             # entry point
    ├─ App.tsx              # HashRouter + route
    ├─ levels.ts            # nomi/descrizioni dei livelli, opzioni numero domande
@@ -109,29 +111,30 @@ Aggiungere una tipologia = tipo in `types/`, casi in `engine/rules.ts` e `engine
 
 ### 5.2 Modello dati (sintesi; dettagli in `03-modello-dati.md`)
 - `Question` = campi comuni (`id`, `type`, `level`, `topic`, `prompt`, `explanation`, `wrongReasons?`) + payload specifico del tipo.
-- `QuizSession` = `{ level, questions[], answers{}, status: 'answering'|'submitted', showSolutions: boolean }`.
-- `QuizResult` = `{ total, correct, percent, perQuestion[] }`.
+- Sessione (in `hooks/useQuizSession`) = `{ questions[], answers{}, result?: QuizResult, showSolutions }`; lo stato è "submitted" quando `result` è presente.
+- `QuizResult` = `{ total, correct, percent, perQuestion{id: boolean} }`.
+- **Regola**: niente effetti collaterali (scritture su `localStorage`, ecc.) dentro le funzioni di aggiornamento di `setState`: React può chiamarle due volte (StrictMode). Gli effetti si fanno prima, leggendo lo stato da un `ref`.
 
 ### 5.3 Stati del quiz
 ```
 answering ──Check answers──▶ submitted ──Show correct answers──▶ submitted+solutions
     ▲                        │
-    └──── Riprova / Nuovo ───┘
+    └── Try again / New quiz ─┘
 ```
 In `submitted` gli input sono bloccati (read-only). Le risposte corrette si mostrano **sotto** ogni domanda senza perdere la risposta dell'utente.
 
 ## 6. Regole di punteggio
 - Ogni domanda vale **1 punto**, tutto-o-niente (anche se ha più spazi: tutti giusti = 1).
 - `percent = round(correct / total * 100)` (intero, 0–100).
-- Feedback testuale per fascia: ≥ 90 "Eccellente", 70–89 "Bene", 50–69 "Sufficiente", < 50 "Da ripassare".
-- Normalizzazione del testo digitato: trim, spazi multipli → uno, confronto **case-insensitive**, apostrofi tipografici (’) → `'`, punteggiatura finale ignorata. Sono ammesse **risposte alternative** (`accepted: string[]`).
+- Feedback testuale per fascia: ≥ 90 "Excellent", 70–89 "Good", 50–69 "Pass", < 50 "Needs review".
+- Normalizzazione del testo digitato: trim, spazi multipli → uno, confronto **case-insensitive**, apostrofi tipografici (’) → `'`, punteggiatura finale ignorata. Sono ammesse **risposte alternative** (per i gap `answers[i]` è un elenco di risposte accettate; per le frasi `solutions[]`).
 
 ## 7. Generazione del quiz
 1. Carica (lazy) i JSON del livello. Dà priorità alle domande non viste di recente (`eq.seen.<livello>`).
 2. Filtra le domande valide e mescola (Fisher-Yates).
 3. Seleziona N domande cercando di **variare le tipologie** (round-robin sulle tipologie disponibili, poi riempimento casuale).
-4. Mescola le opzioni delle scelte multiple, mantenendo l'indice corretto coerente.
-5. Se il livello ha meno di N domande, usa quelle disponibili e informa l'utente.
+4. Mescola le opzioni delle scelte (e le parole di `word-order`, le colonne di `match-pairs`), mantenendo coerenti l'indice corretto **e le chiavi di `wrongReasons`**.
+5. Se il livello ha meno di N domande, usa quelle disponibili (al momento senza messaggio all'utente: da aggiungere quando i livelli saranno completi).
 
 ## 8. Contenuti
 - Un file JSON per **livello e tipologia** in `src/data/<livello>/<tipo>.json`, validati da un test che controlla schema, unicità degli `id` e quote.
@@ -145,6 +148,8 @@ In `submitted` gli input sono bloccati (read-only). Le risposte corrette si most
 4. Dopo il primo caricamento, in modalità offline l'app si avvia e si può fare un quiz.
 5. `npm run build` produce `build/` e `npm run preview` la serve correttamente.
 6. Test di engine e di ogni tipologia verdi.
+7. La barra livello/progresso resta visibile mentre scorro, e "↓ End" porta ai pulsanti finali.
+8. Un quiz inviato compare **una volta sola** in History.
 
 ## 10. Fuori scope (per ora)
 Account utente, sincronizzazione cloud, audio/listening, generazione di domande via AI, classifiche.

@@ -23,7 +23,7 @@ Installabile su Android/iOS/desktop, avvio offline, aggiornamenti controllati.
   ]
 }
 ```
-Icone in `public/`. `start_url` e `scope` relativi + `base: './'` in Vite → l'app funziona in qualunque sottocartella di hosting.
+Icone in `public/`: **bandiera britannica con sotto la scritta "English Quiz"** (su due righe) (blu #012169 e rosso #C8102E su sfondo bianco). Sono generate da `src/scripts/make-icons.mjs` (`npm run icons`, dentro `src/`), che scrive `pwa-192.png`, `pwa-512.png` e `pwa-512-maskable.png` (quest'ultima a tutto campo, con il disegno nella zona sicura). Il testo usa un font di sistema (Arial Black) al momento della generazione; per questo non c'è un `favicon.svg` e la favicon è `pwa-192.png`. Per cambiare l'icona si modifica lo script e si rigenera. `start_url` e `scope` relativi + `base: './'` in Vite → l'app funziona in qualunque sottocartella di hosting.
 
 ## Service worker
 - Strategia: **precache** di tutti gli asset della build (HTML, JS, CSS, JSON dei livelli, icone) via Workbox `generateSW`.

@@ -4,7 +4,8 @@ Ordine di lavoro. Ogni fase termina con test verdi e `npm run build` funzionante
 
 ## Fase 0 – Setup
 - [x] Progetto Vite + React + TS **dentro `src/`** (root = `src/`), `build.outDir = '../build'`, `base: './'`
-- [x] Dipendenze: `react-bootstrap`, `bootstrap`, `react-router-dom`, `vite-plugin-pwa`, `vitest`, `@testing-library/react`, `eslint`, `prettier`
+- [x] Dipendenze: `react-bootstrap`, `bootstrap`, `react-router-dom`, `vite-plugin-pwa`, `vitest`, `@testing-library/react`. (ESLint/Prettier non installati: lint = `tsc --noEmit`)
+- [x] `dev.bat` nella radice per avviare la modalità dev
 - [x] `.gitignore` (node_modules, build), script npm: `dev`, `build`, `preview`, `test`, `lint`
 
 ## Fase 1 – Motore (logica pura, TDD)
@@ -26,6 +27,8 @@ Ordine: multiple-choice → verb-form → fill-blank → verb-conjugate → word
 - [x] QuizPage (sessione, Check answers, ScoreCard, Show correct answers, Try again/New quiz/Change level, pannello errori Why/Rule)
 - [x] HistoryPage, AboutPage
 - [x] Modal di conferma domande mancanti
+- [x] Barra livello/progresso sticky + pulsante "↓ End"; pulsanti di azione solo alla fine
+- [x] Cronologia salvata una sola volta (test di regressione in StrictMode)
 
 ## Fase 4 – Contenuti
 Dettagli e quote in `07-contenuti.md`. Per ogni livello: scrivere i lotti per tipologia, validare, revisionare a campione.
@@ -46,14 +49,18 @@ Dettagli e quote in `07-contenuti.md`. Per ogni livello: scrivere i lotti per ti
 
 ## Fase 6 – Rifinitura
 - [ ] Accessibilità (tastiera, aria-live)
-- [ ] Verifica responsive 360 px / 768 px / 1440 px
+- [ ] Verifica responsive 360 px / 768 px / 1440 px (anche barra sticky)
+- [ ] (Opzionale) Export/Import JSON della cronologia
+- [ ] (Opzionale) Messaggio quando un livello ha meno domande di quelle richieste
+- [ ] (Opzionale) ESLint + Prettier
 - [x] Tema scuro (segue il sistema)
 - [x] README con comandi e deploy statico di `build/`
 
 ## Definizione di "fatto"
 Soddisfatti i criteri di accettazione in `01-progettazione.md` §9 e la checklist PWA in `05-pwa.md`.
 
-## Decisioni aperte (da confermare prima di partire)
-1. TypeScript vs JavaScript → **proposta: TypeScript**.
-2. Hosting previsto (GitHub Pages, Netlify, altro) → influisce solo su `base` e istruzioni di deploy; con `base: './'` + HashRouter va ovunque.
-3. Numero di domande per livello → **deciso: 2000** (vedi `07-contenuti.md`). Si può rilasciare un MVP con A1–B1 completi e gli altri livelli in arrivo.
+## Decisioni
+Le decisioni prese sono nel registro `08-decisioni.md`. Ancora aperte:
+1. Hosting previsto (GitHub Pages, Netlify, altro): influisce solo sulle istruzioni di deploy; con `base: './'` + HashRouter va ovunque.
+2. Se aggiungere export/import della cronologia (oggi solo `localStorage`).
+3. Se aggiungere ESLint/Prettier.

@@ -73,6 +73,7 @@ export interface HistoryEntry {
 | `eq.history` | `HistoryEntry[]` (max 50, i più recenti in testa) |
 | `eq.seen.<livello>` | `string[]` ultimi ~100 `id` visti, per evitare ripetizioni |
 
-- Il quiz in corso **non** è persistito (MVP).
+- Il quiz in corso **non** è persistito (MVP). Ogni scheda del browser/indirizzo ha il suo archivio: niente sincronizzazione tra browser o dispositivi.
+- Un quiz viene scritto in `eq.history` **una sola volta** (scrittura fuori dagli updater di React). Al caricamento, i doppioni lasciati da versioni vecchie (stesso livello e punteggio, a meno di 2 s di distanza) vengono ignorati.
 - Accesso sempre in `try/catch` (modalità privata / storage disabilitato): l'app deve funzionare senza.
 - Versioning: le chiavi hanno prefisso `eq.`; eventuali migrazioni future con campo `v`.

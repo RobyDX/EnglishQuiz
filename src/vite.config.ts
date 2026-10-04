@@ -12,7 +12,6 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'prompt',
-      includeAssets: ['favicon.svg'],
       manifest: {
         name: 'English Quiz',
         short_name: 'English Quiz',
