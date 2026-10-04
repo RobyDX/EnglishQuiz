@@ -14,8 +14,10 @@ export default function TrueFalse({ question: q, answer, onChange, disabled }: Q
       <p className="passage">{q.passage}</p>
       {q.statements.map((s, i) => (
         <div key={i} className="d-flex flex-wrap align-items-center justify-content-between gap-2 py-2 border-top">
-          <span className="me-2">{s.text}</span>
-          <ButtonGroup aria-label={`Statement ${i + 1}`}>
+          <span id={`${q.id}-s${i}`} className="me-2">
+            {s.text}
+          </span>
+          <ButtonGroup aria-labelledby={`${q.id}-s${i}`}>
             <Button variant={values[i] === true ? 'primary' : 'outline-primary'} disabled={disabled} aria-pressed={values[i] === true} onClick={() => set(i, true)}>
               True
             </Button>

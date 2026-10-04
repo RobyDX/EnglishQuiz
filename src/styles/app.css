@@ -150,3 +150,8 @@ body {
 .feedback p {
   overflow-wrap: anywhere;
 }
+
+/* Above the sticky navbar when it gets the keyboard focus. */
+.skip-link {
+  z-index: 1100;
+}

@@ -13,7 +13,7 @@ export default function PlaceWord({ question: q, answer, onChange, disabled }: Q
         </Badge>{' '}
         in the sentence. Tap the spot where it belongs.
       </p>
-      <div className="d-flex flex-wrap align-items-center gap-1 place-word">
+      <div className="d-flex flex-wrap align-items-center gap-1 place-word" role="group" aria-label="Sentence">
         {slots.map((pos) => (
           <span key={pos} className="d-inline-flex align-items-center gap-1">
             {answer === pos ? (

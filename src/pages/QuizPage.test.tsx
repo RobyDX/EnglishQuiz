@@ -1,6 +1,6 @@
 import { StrictMode } from 'react';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
-import { cleanup, render, screen, within } from '@testing-library/react';
+import { cleanup, render, screen, waitFor, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { MemoryRouter, Route, Routes } from 'react-router-dom';
 import type { Question } from '../types';
@@ -119,7 +119,9 @@ describe('QuizPage', () => {
     expect(history[0]).toMatchObject({ level: 'A1', total: 2, correct: 2, percent: 100 });
 
     await user.click(screen.getByRole('button', { name: 'Try again' }));
-    expect(screen.queryByRole('status')).not.toBeInTheDocument();
+    expect(screen.queryByRole('region', { name: /correct –/ })).not.toBeInTheDocument();
+    expect(screen.getByRole('status')).toHaveTextContent('Answers cleared. Try again.');
+    expect(screen.getByRole('heading', { level: 1 })).toHaveFocus();
     expect(screen.getByLabelText('Gap 1')).toHaveValue('');
     expect(screen.getByRole('button', { name: 'Check answers' })).toBeInTheDocument();
   });
@@ -133,5 +135,56 @@ describe('QuizPage', () => {
     await user.dblClick(screen.getByRole('button', { name: 'Check answers' }));
     await screen.findByRole('status');
     expect(JSON.parse(localStorage.getItem('eq.history') ?? '[]')).toHaveLength(1);
+  });
+
+  describe('accessibility', () => {
+    it('moves the focus to the actions with the "↓ End" button', async () => {
+      const user = userEvent.setup();
+      const scrollTo = vi.spyOn(window, 'scrollTo').mockImplementation(() => {});
+      renderQuiz();
+      await screen.findByRole('button', { name: 'Check answers' });
+      await user.click(screen.getByRole('button', { name: 'Go to the end of the page' }));
+      expect(screen.getByRole('button', { name: 'Check answers' })).toHaveFocus();
+      scrollTo.mockRestore();
+    });
+
+    it('announces the result, focuses the score and names each question with its result', async () => {
+      const user = userEvent.setup();
+      renderQuiz();
+      await screen.findByRole('button', { name: 'Check answers' });
+      expect(screen.getByRole('status')).toBeEmptyDOMElement();
+
+      await user.click(screen.getByLabelText('is')); // wrong
+      await user.type(screen.getByLabelText('Gap 1'), 'am'); // right
+      await user.click(screen.getByRole('button', { name: 'Check answers' }));
+
+      expect(await screen.findByRole('status')).toHaveTextContent('Answers checked. 1 / 2 correct – 50%. Pass.');
+      expect(screen.getByRole('region', { name: '1 / 2 correct – 50%' })).toHaveFocus();
+      expect(screen.getByRole('region', { name: /Multiple choice ✗ Incorrect$/ })).toBeInTheDocument();
+      expect(screen.getByRole('region', { name: /Fill in the gap ✓ Correct$/ })).toBeInTheDocument();
+
+      const toggle = screen.getByRole('button', { name: 'Show correct answers' });
+      expect(toggle).not.toHaveAttribute('aria-pressed');
+      await user.click(toggle);
+      expect(screen.getByRole('status')).toHaveTextContent('Correct answers shown.');
+      await user.click(screen.getByRole('button', { name: 'Hide correct answers' }));
+      expect(screen.getByRole('status')).toHaveTextContent('Correct answers hidden.');
+    });
+
+    it('focuses the title and announces a new quiz when it is ready', async () => {
+      const user = userEvent.setup();
+      const scrollTo = vi.spyOn(window, 'scrollTo').mockImplementation(() => {});
+      renderQuiz();
+      await screen.findByRole('button', { name: 'Check answers' });
+      await user.click(screen.getByRole('button', { name: 'Check answers' }));
+      await user.click(await screen.findByRole('button', { name: 'Submit anyway' }));
+      await user.click(await screen.findByRole('button', { name: 'New quiz' }));
+
+      await screen.findByRole('button', { name: 'Check answers' });
+      await waitFor(() => expect(screen.getByRole('status')).toHaveTextContent('New quiz ready: 2 questions.'));
+      expect(screen.getByRole('heading', { level: 1 })).toHaveFocus();
+      expect(scrollTo).toHaveBeenCalledWith({ top: 0 });
+      scrollTo.mockRestore();
+    });
   });
 });

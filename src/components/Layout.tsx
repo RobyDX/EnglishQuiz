@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, type MouseEvent } from 'react';
 import { Badge, Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink, Outlet } from 'react-router-dom';
 import UpdatePrompt from './UpdatePrompt';
@@ -18,6 +18,14 @@ function useOnline() {
   return online;
 }
 
+// With HashRouter, href="#main" would change the route: move the focus by hand.
+function skipToMain(e: MouseEvent<HTMLAnchorElement>) {
+  e.preventDefault();
+  const main = document.getElementById('main');
+  main?.focus({ preventScroll: true });
+  main?.scrollIntoView();
+}
+
 export default function Layout() {
   const online = useOnline();
   const navRef = useRef<HTMLElement>(null);
@@ -35,6 +43,9 @@ export default function Layout() {
 
   return (
     <>
+      <a href="#main" className="visually-hidden-focusable skip-link position-absolute top-0 start-0 m-2 p-2 bg-body rounded" onClick={skipToMain}>
+        Skip to main content
+      </a>
       <Navbar ref={navRef} expand="sm" bg="primary" data-bs-theme="dark" sticky="top">
         <Container>
           <Navbar.Brand as={NavLink} to="/">
@@ -56,7 +67,7 @@ export default function Layout() {
           </Navbar.Collapse>
         </Container>
       </Navbar>
-      <Container as="main" className="py-4">
+      <Container as="main" id="main" tabIndex={-1} className="py-4">
         <Outlet />
       </Container>
       <UpdatePrompt />

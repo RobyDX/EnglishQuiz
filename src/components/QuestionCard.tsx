@@ -38,13 +38,13 @@ export default function QuestionCard({ index, question: q, answer, onChange, sub
   const empty = !isAnswered(q, answer) && formatAnswer(q, answer) === 'No answer';
 
   return (
-    <Card className={`mb-3 question-card ${border}`} as="section" aria-labelledby={`${q.id}-title`}>
+    <Card className={`mb-3 question-card ${border}`} as="section" aria-labelledby={submitted ? `${q.id}-title ${q.id}-result` : `${q.id}-title`}>
       <Card.Header className="d-flex justify-content-between align-items-center gap-2">
         <span id={`${q.id}-title`} className="fw-semibold">
           {index + 1}. <span className="text-secondary fw-normal">{TYPE_LABEL[q.type]}</span>
         </span>
         {submitted && (
-          <Badge bg={correct ? 'success' : 'danger'}>{correct ? '✓ Correct' : '✗ Incorrect'}</Badge>
+          <Badge id={`${q.id}-result`} bg={correct ? 'success' : 'danger'}>{correct ? '✓ Correct' : '✗ Incorrect'}</Badge>
         )}
       </Card.Header>
       <Card.Body>

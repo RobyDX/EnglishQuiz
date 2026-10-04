@@ -34,7 +34,7 @@ Navbar sticky con titolo "English Quiz" (scritto con lo spazio) e link Home / Hi
 3. Barra azioni **alla fine dell'elenco di domande, non fissa (niente sticky)**: l'utente deve scorrere fino in fondo per inviare. I pulsanti non restano visibili durante la compilazione:
    - **Check answers** (primario, in `answering`) – chiede conferma se mancano risposte (modal Bootstrap).
    - Dopo l'invio: **Show correct answers** (secondario, toggle), **Try again**, **New quiz**, **Change level**.
-4. **ScoreCard** in cima dopo l'invio (scroll automatico): `"7 / 10 correct – 70%"`, progress bar colorata, messaggio di fascia. Region `aria-live="polite"`.
+4. **ScoreCard** in cima dopo l'invio (scroll automatico): `"7 / 10 correct – 70%"`, progress bar colorata, messaggio di fascia. Riceve il focus; il risultato è annunciato dalla regione `role="status"` della pagina (vedi Accessibilità).
 
 ### Stati visivi di una domanda
 | Stato | Aspetto |
@@ -58,13 +58,28 @@ Nessuno scroll orizzontale a 360 px. Font base 16 px (evita lo zoom automatico d
 ## Interazione e tastiera
 - Invio nei campi testo: passa al campo successivo; sull'ultimo invia (con conferma se incompleto).
 - Tab order naturale; focus visibile; chip/token sono `<button>`.
-- Dopo l'invio il focus va alla ScoreCard.
+- **Skip link** "Skip to main content" come primo elemento della pagina (visibile solo col focus), porta al `<main>`.
+- **Livelli in HomePage**: `radiogroup` con *roving tabindex* (un solo Tab per entrare nel gruppo, frecce ←/→/↑/↓ per cambiare livello, Home/End per primo/ultimo).
+- **"↓ End"**: scorre fino in fondo **e** sposta il focus sul primo pulsante della barra azioni (Check answers).
+- **Il focus non si perde mai** quando l'elemento che lo aveva sparisce:
+  - Dopo l'invio il focus va alla ScoreCard.
+  - Dopo *Try again* o *New quiz* (quando le nuove domande sono pronte) il focus va al titolo del quiz (`h1`, `tabIndex=-1`) e la pagina torna in cima.
+  - `word-order`: dopo aver spostato una parola il focus va alla parola successiva nello stesso elenco (o alla precedente se era l'ultima; se l'elenco si svuota, all'altro elenco).
+  - HistoryPage: dopo *Clear history* il focus va al titolo.
 
 ## Accessibilità
 - Ogni input ha `<label>` o `aria-label`.
-- `fieldset`/`legend` per gruppi di radio.
+- `fieldset`/`legend` per gruppi di radio; gruppi di pulsanti (`role="group"`) con nome: in `true-false` il gruppo True/False ha come nome il testo dell'affermazione; in `word-order` i due elenchi si chiamano "Your sentence" e "Words to use".
 - Contrasto AA con i colori Bootstrap predefiniti.
-- Messaggi di esito in `aria-live`.
+- Colori mai come unico segnale: nel `word-bank` le parole già usate sono anche barrate e hanno il testo nascosto "(used)".
+- **Annunci per screen reader**: in QuizPage c'è **una sola** regione `role="status"` (`aria-live="polite"`, visivamente nascosta) sempre presente, che annuncia:
+  - dopo l'invio: `Answers checked. 7 / 10 correct – 70%. Good.`
+  - *Show/Hide correct answers*: `Correct answers shown.` / `Correct answers hidden.`
+  - *Try again*: `Answers cleared. Try again.`
+  - *New quiz*: `New quiz ready: 10 questions.`
+  La ScoreCard è una `region` con nome (il suo titolo) e riceve il focus; non è essa stessa `aria-live` (una regione live inserita già piena spesso non viene letta).
+- Il pulsante *Show/Hide correct answers* cambia testo, quindi non usa `aria-pressed`.
+- Dopo l'invio ogni domanda ha come nome accessibile anche l'esito ("1. Multiple choice ✓ Correct").
 
 ## Feedback sugli errori (obbligatorio)
 Per ogni domanda errata o vuota, subito dopo "Check answers", sotto la domanda compare un riquadro `alert-danger` (o `alert-warning` se vuota) con, in quest'ordine:
@@ -77,4 +92,4 @@ Per le domande corrette si mostra solo ✓ Correct. "Show correct answers" mostr
 Tutti i testi, incluse le spiegazioni, sono in **inglese**.
 
 ## Testi UI (solo inglese)
-Check answers · Show correct answers · Hide correct answers · Try again · New quiz · Change level · You left N questions unanswered. Submit anyway? · Correct answer · Your answer · No answer · Why it's wrong · Rule · Excellent / Good / Pass / Needs review · Start · History · About · Install app · New version available – Update.
+Check answers · Show correct answers · Hide correct answers · Skip to main content · Try again · New quiz · Change level · You left N questions unanswered. Submit anyway? · Correct answer · Your answer · No answer · Why it's wrong · Rule · Excellent / Good / Pass / Needs review · Start · History · About · Install app · New version available – Update.

@@ -27,6 +27,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 21 | Set di prova di 178 domande per verificare tutte le tipologie; il resto dei contenuti si scrive a lotti | Il lavoro editoriale è la parte più lunga | 06 Fase 4 |
 | 22 | **Icona**: bandiera britannica con sotto "English Quiz" su due righe, generata da script (`npm run icons`) da SVG; favicon = PNG 192 | Richiesta esplicita; lo script è la fonte unica delle icone PWA e della favicon | 05 |
 | 23 | **Tema Bootstrap in blu bandiera inglese** (#012169); nel tema scuro una variante più chiara per la leggibilità; `theme_color` PWA identico | Coerenza con l'icona; override via variabili CSS in `app.css` | 04, 05 |
+| 24 | **Accessibilità**: una sola regione `role="status"` sempre montata in QuizPage per gli annunci (invio, soluzioni, Try again, New quiz); focus spostato quando l'elemento attivo sparisce; skip link; livelli come radiogroup con frecce | Le regioni live inserite già piene non vengono lette in modo affidabile; senza gestione del focus chi usa la tastiera riparte dall'inizio della pagina | 04 |
 
 ## Ancora aperte
 Vedi `06-piano-implementazione.md`, sezione "Decisioni": hosting, export/import cronologia, ESLint/Prettier.

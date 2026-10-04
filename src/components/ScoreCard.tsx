@@ -6,9 +6,10 @@ import type { QuizResult } from '../types';
 const ScoreCard = forwardRef<HTMLDivElement, { result: QuizResult }>(({ result }, ref) => {
   const band = bandOf(result.percent);
   return (
-    <Card ref={ref} tabIndex={-1} className="mb-3 score-card" border={band.variant} role="status" aria-live="polite">
+    // Gets the focus after submitting; the result is announced by the quiz page's status region.
+    <Card ref={ref} tabIndex={-1} className="mb-3 score-card" border={band.variant} role="region" aria-labelledby="score-title">
       <Card.Body>
-        <h2 className="h4 mb-1">
+        <h2 id="score-title" className="h4 mb-1">
           {result.correct} / {result.total} correct – {result.percent}%
         </h2>
         <p className={`fw-semibold text-${band.variant} mb-2`}>{band.label}</p>
