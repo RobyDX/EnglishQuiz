@@ -43,6 +43,2652 @@
           "answer": true
         }
       ]
+    },
+    {
+      "id": "b1-tf-003",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'I've been really busy at work', 'I've had to go there three times already', 'my sister recommended' and 'Sunday is fine too'.",
+      "passage": "Hi Megan, thanks for your email. I'm sorry I didn't reply sooner, but I've been really busy at work this month. My company has just opened a new office in Leeds, and I've had to go there three times already. The trains are often late, so I usually take my laptop and work during the journey. Next weekend I'm free at last. Would you like to meet for lunch on Saturday? There's a new Thai restaurant near the station which my sister recommended. If you can't come on Saturday, Sunday is fine too. Let me know! Love, Hannah",
+      "statements": [
+        {
+          "text": "Hannah has been busy at work recently.",
+          "answer": true
+        },
+        {
+          "text": "Hannah has visited the Leeds office only once.",
+          "answer": false
+        },
+        {
+          "text": "Hannah's brother recommended the restaurant.",
+          "answer": false
+        },
+        {
+          "text": "Hannah could also meet on Sunday.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-004",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'expected about two thousand visitors, but more than five thousand people came', 'stay in tents', 'two famous groups came from Madrid' and 'organise it again next year'.",
+      "passage": "Last summer, a small town in the north of Spain held its first music festival. The organisers expected about two thousand visitors, but more than five thousand people came. Local hotels were full, so many visitors had to stay in tents in a field near the river. Most of the bands were from the region, although two famous groups came from Madrid. Unfortunately, it rained heavily on the second day and one concert was cancelled. In spite of the weather, the festival was a big success, and the town council has decided to organise it again next year.",
+      "statements": [
+        {
+          "text": "The organisers expected more than five thousand visitors.",
+          "answer": false
+        },
+        {
+          "text": "Some visitors slept in tents.",
+          "answer": true
+        },
+        {
+          "text": "All the bands came from the local area.",
+          "answer": false
+        },
+        {
+          "text": "There will be another festival next year.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-005",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'rode his bicycle', 'he loved it anyway', 'He retired fifteen years ago' and 'He still rides his old bicycle'.",
+      "passage": "My grandfather, Ken, used to work as a postman in a small village. Every morning he got up at five o'clock and rode his bicycle along the country roads. He knew everyone in the village, and people often invited him in for a cup of tea. He says that the job was hard in winter, when the roads were covered in snow, but he loved it anyway. He retired fifteen years ago. Now he spends most of his time in his garden, where he grows tomatoes, beans and potatoes. He still rides his old bicycle to the shops every day.",
+      "statements": [
+        {
+          "text": "Ken delivered letters by bicycle.",
+          "answer": true
+        },
+        {
+          "text": "Ken didn't enjoy his job because of the winter.",
+          "answer": false
+        },
+        {
+          "text": "Ken stopped working fifteen years ago.",
+          "answer": true
+        },
+        {
+          "text": "Ken doesn't use his bicycle any more.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-006",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'aged six to nine', 'The tyres are new', 'A helmet is included for free' and 'we can't deliver it'.",
+      "passage": "FOR SALE: Kids' bike, blue, suitable for children aged six to nine. It has been used for only one year and it is in very good condition. The tyres are new and the brakes were checked last month. We are selling it because our son has grown too tall for it. The price is £60, but we will also accept a reasonable offer. A helmet is included for free. Please call Tom after 6 p.m. on weekdays or any time at the weekend. You can come and look at the bike before you decide. Sorry, we can't deliver it.",
+      "statements": [
+        {
+          "text": "The bike is suitable for teenagers.",
+          "answer": false
+        },
+        {
+          "text": "The bike has new tyres.",
+          "answer": true
+        },
+        {
+          "text": "You have to pay extra for the helmet.",
+          "answer": false
+        },
+        {
+          "text": "The sellers will bring the bike to your house.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-007",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'every Saturday morning', 'helps the staff to feed the cats', 'Now she isn't afraid of them at all' and 'become a vet'.",
+      "passage": "Lucy has always loved animals, so last year she started volunteering at an animal shelter near her home. She goes there every Saturday morning. Her main job is to walk the dogs and clean their cages, but sometimes she also helps the staff to feed the cats. At first she was a bit nervous because some of the dogs were big and noisy. Now she isn't afraid of them at all. Lucy says the best moment is when an animal finds a new family. She is hoping to study to become a vet when she finishes school.",
+      "statements": [
+        {
+          "text": "Lucy works at the shelter once a week.",
+          "answer": true
+        },
+        {
+          "text": "Lucy sometimes feeds the cats.",
+          "answer": true
+        },
+        {
+          "text": "Lucy is still afraid of the big dogs.",
+          "answer": false
+        },
+        {
+          "text": "Lucy wants to become a teacher.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-008",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'close for four weeks', 'stay open until 8 p.m. instead of 6 p.m.', 'will meet at the community centre' and 'you can still download e-books'.",
+      "passage": "The Riverside Library is going to close for four weeks from 1st March because the building needs a new roof. During this time, readers can borrow books from the City Library on King Street, which will stay open until 8 p.m. instead of 6 p.m. Books which you borrowed from Riverside can be returned to any library in the city. The children's reading club will meet at the community centre instead of the library. The library's website and online services will work as usual, so you can still download e-books and magazines. We are sorry for any problems this may cause.",
+      "statements": [
+        {
+          "text": "The Riverside Library will close for four months.",
+          "answer": false
+        },
+        {
+          "text": "The City Library will open longer hours.",
+          "answer": true
+        },
+        {
+          "text": "The children's reading club has been cancelled.",
+          "answer": false
+        },
+        {
+          "text": "E-books will still be available online.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-009",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'had never cooked a real meal', 'soon he started to feel tired', 'was a disaster' and 'the most popular dish in the flat'.",
+      "passage": "Daniel had never cooked a real meal before he left home to go to university. In his first month, he ate pizza and instant noodles almost every day and soon he started to feel tired. So he decided to learn to cook. He watched online videos and asked his mother for some easy recipes. His first attempt, a chicken curry, was a disaster because he put in too much salt. But he didn't give up. Now, two years later, he cooks for his flatmates twice a week, and his vegetable soup is the most popular dish in the flat.",
+      "statements": [
+        {
+          "text": "Daniel couldn't cook when he started university.",
+          "answer": true
+        },
+        {
+          "text": "Daniel felt healthier after eating pizza and noodles.",
+          "answer": false
+        },
+        {
+          "text": "His first curry was very good.",
+          "answer": false
+        },
+        {
+          "text": "His flatmates like his soup.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-010",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'a growing number of tourists prefer walking tours', 'a small group', 'people usually give the guide some money' and 'last about two hours'.",
+      "passage": "Many people think that the best way to see a new city is to take a bus tour. However, a growing number of tourists prefer walking tours. On a walking tour, a local guide takes a small group through the streets and tells them stories about the history of the area. You can stop to take photos, visit small shops and try local food. Some walking tours are free, but at the end people usually give the guide some money if they enjoyed it. Walking tours normally last about two hours, so it's a good idea to wear comfortable shoes.",
+      "statements": [
+        {
+          "text": "Walking tours are becoming less popular.",
+          "answer": false
+        },
+        {
+          "text": "Walking tours are usually for small groups.",
+          "answer": true
+        },
+        {
+          "text": "People often pay the guide at the end of a free tour.",
+          "answer": true
+        },
+        {
+          "text": "Walking tours usually last all day.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-011",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'bought from your online shop', 'the box was damaged', 'nobody answered' and 'I have attached a photo'.",
+      "passage": "Dear Mr Patel, I am writing to complain about a coffee machine which I bought from your online shop on 10th May. When it arrived, the box was damaged and the glass jug was broken. I called your customer service number twice, but nobody answered. I also sent an email last week, but I haven't received a reply yet. I would like you to send me a new jug as soon as possible, or give me my money back. I have attached a photo of the broken jug to this email. I look forward to hearing from you. Yours sincerely, Rachel Green",
+      "statements": [
+        {
+          "text": "Rachel bought the coffee machine online.",
+          "answer": true
+        },
+        {
+          "text": "The box arrived in perfect condition.",
+          "answer": false
+        },
+        {
+          "text": "A customer service assistant answered Rachel's call.",
+          "answer": false
+        },
+        {
+          "text": "Rachel has sent a photo with her email.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-012",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'Five years ago', 'it doesn't cost anything', 'others walk most of the way' and 'I've already made lots of new friends'.",
+      "passage": "Running has become very popular in my town. Five years ago, a group of friends started meeting in the park every Sunday morning to run together. Now more than a hundred people join them every week. The group is open to everyone, and it doesn't cost anything. Some members run five kilometres in less than twenty minutes, while others walk most of the way. Nobody minds how fast you are. After the run, many people go to the café next to the park for breakfast. I joined the group last spring, and I've already made lots of new friends.",
+      "statements": [
+        {
+          "text": "The group started last year.",
+          "answer": false
+        },
+        {
+          "text": "You have to pay to join the group.",
+          "answer": false
+        },
+        {
+          "text": "Some people walk instead of running.",
+          "answer": true
+        },
+        {
+          "text": "The writer has met new people through the group.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-013",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'sometimes she has to work at night', 'it is difficult to sleep during the day', 'worked in a bank for three years' and 'Next year she is going to start a course'.",
+      "passage": "Amira works as a nurse in a busy hospital in Manchester. She usually works long shifts of twelve hours, and sometimes she has to work at night. She says the night shifts are the hardest because it is difficult to sleep during the day. However, she loves her job because she can help people every day. Before she became a nurse, Amira worked in a bank for three years, but she found the work boring. She went back to university when she was twenty-five. Next year she is going to start a course to become a children's nurse.",
+      "statements": [
+        {
+          "text": "Amira sometimes works at night.",
+          "answer": true
+        },
+        {
+          "text": "Amira finds it easy to sleep during the day.",
+          "answer": false
+        },
+        {
+          "text": "Amira used to work in a bank.",
+          "answer": true
+        },
+        {
+          "text": "Amira has already finished a course to become a children's nurse.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-014",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'opened two months ago', 'you should book a table, especially at the weekend', 'The desserts were a little disappointing' and 'it isn't the best place for a quiet conversation'.",
+      "passage": "The Green Leaf is a new vegetarian restaurant in the city centre. It opened two months ago and it is already very popular, so you should book a table, especially at the weekend. The menu is small but everything is fresh, and the vegetables come from a farm just outside the city. I had the mushroom pie, which was delicious, and my friend loved her pasta with spinach. The desserts were a little disappointing, though. The prices are reasonable and the staff are friendly. My only complaint is that it was very noisy, so it isn't the best place for a quiet conversation.",
+      "statements": [
+        {
+          "text": "The restaurant has been open for two years.",
+          "answer": false
+        },
+        {
+          "text": "It is a good idea to book at the weekend.",
+          "answer": true
+        },
+        {
+          "text": "The writer thought the desserts were excellent.",
+          "answer": false
+        },
+        {
+          "text": "The restaurant is a good place for a quiet chat.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-015",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'his uncle gave him an old guitar for his birthday', 'At first he didn't play it much', 'two birthday parties and a school concert' and 'it is much harder'.",
+      "passage": "When Oliver was twelve, his uncle gave him an old guitar for his birthday. At first he didn't play it much, but one day he heard a song on the radio and decided to learn it. He practised every evening after school, and after a few weeks he could play the whole song. Since then, he has learned more than fifty songs. Last year he started a band with three friends from school. They have played at two birthday parties and a school concert. Oliver wants to write his own songs, but he says it is much harder than playing other people's music.",
+      "statements": [
+        {
+          "text": "Oliver's guitar was a present.",
+          "answer": true
+        },
+        {
+          "text": "Oliver started playing every day as soon as he got the guitar.",
+          "answer": false
+        },
+        {
+          "text": "Oliver's band has played at a wedding.",
+          "answer": false
+        },
+        {
+          "text": "Oliver finds writing songs difficult.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-016",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'more productive at home because it is quieter', 'feel lonely because they don't see their colleagues', 'others find it hard to stop working' and 'taking regular breaks'.",
+      "passage": "More and more people are working from home at least one day a week. Many workers say they like it because they don't have to travel to the office and they can spend more time with their families. Some also say they are more productive at home because it is quieter. However, working from home is not perfect. Some people feel lonely because they don't see their colleagues, and others find it hard to stop working in the evening. Experts suggest having a special place in your home for work and taking regular breaks during the day.",
+      "statements": [
+        {
+          "text": "Some people work better at home because it is quieter.",
+          "answer": true
+        },
+        {
+          "text": "Some home workers miss their colleagues.",
+          "answer": true
+        },
+        {
+          "text": "Everyone finds it easy to stop working in the evening.",
+          "answer": false
+        },
+        {
+          "text": "Experts say you should work without breaks.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-017",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'the coach will leave at 8.15', 'next to a lake', 'the campsite will provide them' and 'there is no electricity at the campsite'.",
+      "passage": "Hi everyone! Just a quick message about the camping trip next weekend. We're meeting outside the school at 8 a.m. on Saturday, and the coach will leave at 8.15, so please don't be late. The campsite is about two hours away, next to a lake. Remember to bring a sleeping bag, warm clothes and a waterproof jacket, because the weather forecast says it might rain. You don't need to bring tents, as the campsite will provide them. Mobile phones are allowed, but there is no electricity at the campsite, so bring a power bank if you have one. See you on Saturday! Mr Evans",
+      "statements": [
+        {
+          "text": "The coach will leave at 8 a.m.",
+          "answer": false
+        },
+        {
+          "text": "The campsite is near a lake.",
+          "answer": true
+        },
+        {
+          "text": "Students need to bring their own tents.",
+          "answer": false
+        },
+        {
+          "text": "There is no electricity at the campsite.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-018",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'Her father was a fisherman', 'to study art', 'she soon got used to the city' and 'next month she is opening her own gallery'.",
+      "passage": "Maria grew up in a small fishing village in Portugal. Her father was a fisherman, and as a child she often went out on his boat early in the morning. When she was eighteen, she moved to Lisbon to study art. At first she missed the sea and the quiet life of the village, but she soon got used to the city. Today Maria is a successful painter. Most of her paintings show boats, beaches and fishermen from her home village. She has had exhibitions in Lisbon, Paris and London, and next month she is opening her own gallery.",
+      "statements": [
+        {
+          "text": "Maria's father worked as a fisherman.",
+          "answer": true
+        },
+        {
+          "text": "Maria went to Lisbon to study music.",
+          "answer": false
+        },
+        {
+          "text": "Maria never got used to life in the city.",
+          "answer": false
+        },
+        {
+          "text": "Maria already has her own gallery.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-019",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'Tuesday and Thursday evenings', 'You don't need a partner', '£5' each or '£35 for ten classes', and 'Your first class is free'.",
+      "passage": "Do you want to get fit but hate going to the gym? Then try our new dance classes at Sunnyside Sports Centre! Classes are on Tuesday and Thursday evenings from 7 to 8 p.m. You don't need a partner and you don't need any experience, because our teachers will show you all the steps. Each class costs £5, or you can pay £35 for ten classes. Just wear comfortable clothes and bring a bottle of water. Your first class is free, so why not come and try it? For more information, visit our website or ask at reception.",
+      "statements": [
+        {
+          "text": "The classes are on Mondays and Wednesdays.",
+          "answer": false
+        },
+        {
+          "text": "You must bring a partner to the class.",
+          "answer": false
+        },
+        {
+          "text": "Ten classes cost less than ten single classes.",
+          "answer": true
+        },
+        {
+          "text": "You don't pay for your first class.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-020",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'I woke up an hour late', 'I missed the bus', 'I had left my umbrella at home' and 'the meeting had been moved to the afternoon'.",
+      "passage": "Yesterday was a terrible day for me. My alarm didn't ring, so I woke up an hour late. I got dressed quickly and ran to the bus stop, but I missed the bus by one minute. While I was waiting for the next one, it started to rain and I realised I had left my umbrella at home. When I finally arrived at the office, I was completely wet. Then my boss told me that the important meeting had been moved to the afternoon. So I didn't need to hurry after all! In the evening I went to bed early.",
+      "statements": [
+        {
+          "text": "The writer woke up late.",
+          "answer": true
+        },
+        {
+          "text": "The writer caught the bus.",
+          "answer": false
+        },
+        {
+          "text": "The writer didn't have an umbrella.",
+          "answer": true
+        },
+        {
+          "text": "The meeting happened in the morning.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-021",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'helps plants to produce fruit and seeds', 'the number of bees has fallen', 'Scientists think this is because of chemicals' and 'you can grow flowers'.",
+      "passage": "Bees are very important for our planet. They carry pollen from one flower to another, which helps plants to produce fruit and seeds. Without bees, we wouldn't have many of the fruits and vegetables that we eat every day. Unfortunately, the number of bees has fallen in many countries in recent years. Scientists think this is because of chemicals used on farms and the loss of wild flowers. There are some simple things that everyone can do to help. For example, you can grow flowers in your garden or on your balcony, and you should avoid using chemicals on your plants.",
+      "statements": [
+        {
+          "text": "Bees help plants to produce fruit.",
+          "answer": true
+        },
+        {
+          "text": "The number of bees has gone up recently.",
+          "answer": false
+        },
+        {
+          "text": "Scientists don't know anything about the reasons for the problem.",
+          "answer": false
+        },
+        {
+          "text": "People can help bees by growing flowers.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-022",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'their first trip to Asia', 'took the fast train to Kyoto', 'Jake's favourite part of the trip was the food' and 'They are already planning to go back'.",
+      "passage": "Jake and his wife Emma have just come back from a two-week holiday in Japan. It was their first trip to Asia. They spent the first week in Tokyo, where they visited museums, temples and the famous fish market. Then they took the fast train to Kyoto, which only took about two hours. Jake's favourite part of the trip was the food, especially the sushi. Emma enjoyed staying in a traditional hotel with paper walls. The only problem was the language, because they didn't speak any Japanese, but people were very helpful. They are already planning to go back.",
+      "statements": [
+        {
+          "text": "Jake and Emma had been to Asia many times before.",
+          "answer": false
+        },
+        {
+          "text": "They travelled from Tokyo to Kyoto by train.",
+          "answer": true
+        },
+        {
+          "text": "Emma's favourite thing was the sushi.",
+          "answer": false
+        },
+        {
+          "text": "They don't want to visit Japan again.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-023",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'from next term', 'They will be allowed to use them at lunchtime', 'phones stop students from concentrating' and 'others are worried'.",
+      "passage": "Our school is going to have a new rule about mobile phones from next term. Students will have to switch off their phones and keep them in their bags during lessons. They will be allowed to use them at lunchtime, but not in the classrooms. Teachers say that phones stop students from concentrating, and that some students have been using them to cheat in tests. Some parents agree with the rule, but others are worried because they want to be able to contact their children. If a student needs to call home, they can use the phone in the school office.",
+      "statements": [
+        {
+          "text": "The new rule will start next term.",
+          "answer": true
+        },
+        {
+          "text": "Students won't be able to use their phones at lunchtime.",
+          "answer": false
+        },
+        {
+          "text": "Teachers think phones make it hard for students to concentrate.",
+          "answer": true
+        },
+        {
+          "text": "All parents are happy with the new rule.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-024",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'She trained for three months', 'it was cold and foggy at the top', 'four hours to reach the top and three hours to come down' and 'she felt very proud'.",
+      "passage": "Sophie had always wanted to climb a mountain, so last August she decided to climb Ben Nevis, the highest mountain in Britain. She trained for three months before the climb by walking in the hills near her home every weekend. On the day, she started walking at seven in the morning. The weather was sunny at the bottom, but it was cold and foggy at the top, so she couldn't see much. It took her four hours to reach the top and three hours to come down. Her legs hurt for days afterwards, but she felt very proud.",
+      "statements": [
+        {
+          "text": "Sophie climbed the mountain without any training.",
+          "answer": false
+        },
+        {
+          "text": "The weather was sunny at the top.",
+          "answer": false
+        },
+        {
+          "text": "Coming down took less time than going up.",
+          "answer": true
+        },
+        {
+          "text": "Sophie was pleased with what she had done.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-025",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'the first computer games', 'Visitors can play with some of the toys', 'open until the end of September' and 'children under five can enter for free'.",
+      "passage": "The city museum has opened a new exhibition about the history of toys. It shows more than three hundred toys from the last two centuries, including wooden trains, old dolls and the first computer games. Visitors can play with some of the toys in a special room, which is very popular with children. The exhibition will be open until the end of September. Tickets cost £8 for adults and £4 for children, but children under five can enter for free. On Sunday afternoons, there are special activities for families, such as making simple toys from paper.",
+      "statements": [
+        {
+          "text": "The exhibition includes early computer games.",
+          "answer": true
+        },
+        {
+          "text": "Visitors are not allowed to touch any of the toys.",
+          "answer": false
+        },
+        {
+          "text": "The exhibition will stay open all year.",
+          "answer": false
+        },
+        {
+          "text": "A three-year-old child doesn't need a ticket.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-026",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'next Saturday', 'I still have to take the bed apart', 'he has hurt his back' and 'let me know by Thursday'.",
+      "passage": "Hi Josh, I'm writing to ask for your help. I'm moving to a new flat next Saturday and I need someone with a car to help me carry some boxes. I've already packed most of my things, but I still have to take the bed apart. My brother was going to help, but he has hurt his back playing football, so he can't lift anything heavy. The new flat is only ten minutes from my old one, so it shouldn't take more than three hours. I'll buy pizza for lunch to say thank you! Can you let me know by Thursday? Thanks, Ben",
+      "statements": [
+        {
+          "text": "Ben is moving next Sunday.",
+          "answer": false
+        },
+        {
+          "text": "Ben hasn't taken his bed apart yet.",
+          "answer": true
+        },
+        {
+          "text": "Ben's brother has hurt his leg.",
+          "answer": false
+        },
+        {
+          "text": "Ben would like an answer before Friday.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-027",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'it arrived in Europe in the seventeenth century', 'only rich people could buy it', 'green tea with fresh mint and sugar' and 'drinking tea may be good for your health'.",
+      "passage": "Tea is one of the most popular drinks in the world. People in China have been drinking it for thousands of years, and it arrived in Europe in the seventeenth century. At first it was very expensive, so only rich people could buy it. Today, tea is cheap and people drink it in many different ways. In Britain, most people add milk to their tea, while in Morocco people often drink green tea with fresh mint and sugar. In some parts of India, tea is cooked with milk and spices. Some studies suggest that drinking tea may be good for your health.",
+      "statements": [
+        {
+          "text": "Tea arrived in Europe thousands of years ago.",
+          "answer": false
+        },
+        {
+          "text": "In the past, tea was too expensive for most people.",
+          "answer": true
+        },
+        {
+          "text": "In Morocco, people usually drink tea with milk.",
+          "answer": false
+        },
+        {
+          "text": "Tea may have some health benefits.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-028",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'for ten years', 'very hot, especially in summer', 'his wife does all the cooking at home' and 'he wanted to be a pilot'.",
+      "passage": "Paul has worked as a chef in the same Italian restaurant for ten years. He starts work at eleven in the morning and often doesn't finish until midnight. The kitchen is small and very hot, especially in summer, but Paul enjoys the busy atmosphere. His favourite dish to cook is fresh pasta with seafood. On his days off, he doesn't cook at all; his wife does all the cooking at home. Paul says that when he was a boy, he wanted to be a pilot. He started cooking only because he needed a part-time job when he was a student.",
+      "statements": [
+        {
+          "text": "Paul has had the same job for ten years.",
+          "answer": true
+        },
+        {
+          "text": "The kitchen gets very hot in summer.",
+          "answer": true
+        },
+        {
+          "text": "Paul's wife cooks at home on his days off.",
+          "answer": true
+        },
+        {
+          "text": "Paul wanted to be a chef when he was a child.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-029",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'Every year in May', 'wins the cheese', 'more than two hundred years' and 'an ambulance always waits at the bottom of the hill'.",
+      "passage": "The village of Ashford is famous for its annual cheese-rolling race. Every year in May, people run down a steep hill after a large round cheese. The first person to reach the bottom wins the cheese. The race has taken place for more than two hundred years, and it attracts visitors from all over the world. Many runners fall over because the hill is so steep, and some of them get hurt. For this reason, an ambulance always waits at the bottom of the hill. Children can't take part in the main race, but there is a special uphill race for them.",
+      "statements": [
+        {
+          "text": "The race takes place every month.",
+          "answer": false
+        },
+        {
+          "text": "The winner gets a prize of money.",
+          "answer": false
+        },
+        {
+          "text": "The race started about twenty years ago.",
+          "answer": false
+        },
+        {
+          "text": "An ambulance is always ready during the race.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-030",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'next door to you', 'for two weeks', 'every two or three days' and 'You don't need to go inside the house'.",
+      "passage": "Hello Mrs Taylor, my name is Lily and I live at number 12, next door to you. I'm writing because I'm going on holiday to Greece for two weeks from Monday, and I wonder if you could help me. Could you water the plants in my garden while I'm away? They need water every two or three days, especially if it's hot. I'll leave a key under the flowerpot by the back door. You don't need to go inside the house. I'll bring you back some Greek honey to say thank you. Please call me if there's a problem. Best wishes, Lily",
+      "statements": [
+        {
+          "text": "Lily lives next to Mrs Taylor.",
+          "answer": true
+        },
+        {
+          "text": "Lily is going away for one week.",
+          "answer": false
+        },
+        {
+          "text": "The plants need water every few days.",
+          "answer": true
+        },
+        {
+          "text": "Mrs Taylor doesn't need to enter the house.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-031",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'most of them only get six or seven', 'The light from the screen makes it harder', 'can also make people feel stressed' and 'going to sleep at the same time every night'.",
+      "passage": "Sleep is very important for teenagers. Doctors say that people between thirteen and eighteen need about nine hours of sleep every night, but most of them only get six or seven. One reason is that many teenagers use their phones or computers in bed. The light from the screen makes it harder for the brain to fall asleep. Lack of sleep can make it difficult to concentrate at school and can also make people feel stressed. Experts recommend switching off all screens at least an hour before going to bed and going to sleep at the same time every night.",
+      "statements": [
+        {
+          "text": "Most teenagers get nine hours of sleep a night.",
+          "answer": false
+        },
+        {
+          "text": "The light from screens can make it harder to sleep.",
+          "answer": true
+        },
+        {
+          "text": "Not sleeping enough can cause stress.",
+          "answer": true
+        },
+        {
+          "text": "Experts say teenagers should go to bed at the same time every night.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-032",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'for the first time', 'six months before', 'a huge stadium' and 'I didn't get home until two in the morning'.",
+      "passage": "Last month I went to see my favourite band in concert for the first time. I bought the tickets six months before, as soon as they went on sale, because I knew they would sell out quickly. The concert was in a huge stadium and there were about forty thousand people there. We arrived three hours early to get a good place near the stage. The band played for two and a half hours and they played all my favourite songs. The only bad thing was that the trains home were so crowded that I didn't get home until two in the morning.",
+      "statements": [
+        {
+          "text": "The writer had never seen the band live before.",
+          "answer": true
+        },
+        {
+          "text": "The writer bought the tickets early.",
+          "answer": true
+        },
+        {
+          "text": "The concert took place in a small club.",
+          "answer": false
+        },
+        {
+          "text": "The writer got home soon after the concert.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-033",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'He lives with an Irish family', 'in the afternoons he works part-time in a café', 'the most difficult thing is understanding people when they speak quickly' and 'it rains much more than in his home town'.",
+      "passage": "Hiroshi is a student from Japan who is spending a year in Dublin to improve his English. He lives with an Irish family, the Murphys, who have two young children. In the mornings, he goes to a language school in the city centre, and in the afternoons he works part-time in a café. He says that the most difficult thing is understanding people when they speak quickly. He has also had to get used to the weather, because it rains much more than in his home town. However, he really enjoys living with the Murphys and he has learned to cook Irish stew.",
+      "statements": [
+        {
+          "text": "Hiroshi lives alone in a flat.",
+          "answer": false
+        },
+        {
+          "text": "Hiroshi has a job in the afternoons.",
+          "answer": true
+        },
+        {
+          "text": "Hiroshi finds it easy to understand fast speakers.",
+          "answer": false
+        },
+        {
+          "text": "It rains less in Dublin than in Hiroshi's home town.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-034",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'from June to September', 'including weekends', 'No experience is necessary' and 'you can eat as much ice cream as you like'.",
+      "passage": "WANTED: Friendly and reliable people to work in our new ice cream shop on the beach this summer. The job is from June to September, and you will work four or five days a week, including weekends. No experience is necessary because we will give you training, but you must be at least sixteen years old. You should enjoy working with people and be good at maths, because you will have to handle money. We pay £9 per hour, and you can eat as much ice cream as you like! To apply, send an email with your CV to Gina.",
+      "statements": [
+        {
+          "text": "The job is only for the summer months.",
+          "answer": true
+        },
+        {
+          "text": "You will never work at weekends.",
+          "answer": false
+        },
+        {
+          "text": "You need to have experience to apply.",
+          "answer": false
+        },
+        {
+          "text": "Staff can eat ice cream for free.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-035",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'stop using her car for short journeys', 'he has his own small bike', 'takes about fifteen minutes' and 'She still uses the car'.",
+      "passage": "When Kate's son Max was born, she decided to stop using her car for short journeys. She bought a bicycle with a special seat for Max and started cycling everywhere: to the shops, to the doctor's and to visit friends. Now Max is four and he has his own small bike. They cycle to his nursery together every morning, which takes about fifteen minutes. Kate says that cycling has saved her a lot of money on petrol, and she has also lost weight. She still uses the car when the weather is very bad or when she has to travel a long distance.",
+      "statements": [
+        {
+          "text": "Kate stopped driving short distances after her son was born.",
+          "answer": true
+        },
+        {
+          "text": "Max now has a bike of his own.",
+          "answer": true
+        },
+        {
+          "text": "The journey to the nursery takes about an hour.",
+          "answer": false
+        },
+        {
+          "text": "Kate has sold her car.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-036",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'grows in hot countries', 'their drink was bitter, not sweet', 'Solid chocolate bars were not made until the nineteenth century' and 'most of the world's cacao is grown in West Africa'.",
+      "passage": "Chocolate comes from the seeds of the cacao tree, which grows in hot countries near the equator. People in Central America were drinking chocolate more than three thousand years ago, but their drink was bitter, not sweet. When chocolate arrived in Europe in the sixteenth century, people started adding sugar to it. Solid chocolate bars were not made until the nineteenth century. Today, most of the world's cacao is grown in West Africa, especially in Ivory Coast and Ghana. However, many cacao farmers are poor, and they earn only a small part of the money that people pay for chocolate.",
+      "statements": [
+        {
+          "text": "Cacao trees grow best in cold countries.",
+          "answer": false
+        },
+        {
+          "text": "The first chocolate drinks were not sweet.",
+          "answer": true
+        },
+        {
+          "text": "Chocolate bars were first made in the sixteenth century.",
+          "answer": false
+        },
+        {
+          "text": "A lot of cacao comes from West Africa.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-037",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'with her friend', 'an elderly man', 'The dog was cold but not hurt' and 'Police later warned people not to walk on the ice'.",
+      "passage": "On Saturday afternoon, a young woman called Ellie saved a dog which had fallen through the ice on a frozen lake in Hilltop Park. Ellie was walking in the park with her friend when she heard the dog barking. The dog's owner, an elderly man, was standing by the lake and shouting for help. Ellie lay down on the ice so that she wouldn't fall through, and she pulled the dog out by its collar. The dog was cold but not hurt. Police later warned people not to walk on the ice, because it is much thinner than it looks.",
+      "statements": [
+        {
+          "text": "Ellie was alone in the park.",
+          "answer": false
+        },
+        {
+          "text": "The dog's owner was a young boy.",
+          "answer": false
+        },
+        {
+          "text": "The dog wasn't injured.",
+          "answer": true
+        },
+        {
+          "text": "The police said that walking on the ice was safe.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-038",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'in the main square', 'produced within forty kilometres of the town', 'sometimes a little higher than in the supermarket' and 'planning to open it on Saturdays too'.",
+      "passage": "Our town's farmers' market takes place every Friday morning in the main square. About thirty local farmers sell fresh fruit, vegetables, eggs, cheese and bread. Everything is produced within forty kilometres of the town. The prices are sometimes a little higher than in the supermarket, but the food is fresher and tastes better. You can also talk to the farmers and ask them how the food was grown. I go every week with my daughter. Her favourite stall sells homemade apple juice. The market has become so popular that the council is planning to open it on Saturdays too.",
+      "statements": [
+        {
+          "text": "The market is held in the main square.",
+          "answer": true
+        },
+        {
+          "text": "All the food comes from the local area.",
+          "answer": true
+        },
+        {
+          "text": "The food at the market is always cheaper than in the supermarket.",
+          "answer": false
+        },
+        {
+          "text": "The market might open on another day as well.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-039",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'for two years', 'didn't speak any English', 'the family were very patient with her' and 'she could have long conversations and even understand jokes'.",
+      "passage": "Nina had been learning Spanish for two years, but she still felt nervous when she had to speak it. So last summer she went on a language course in Valencia for a month. She stayed with a Spanish family who didn't speak any English, so she had to speak Spanish all the time. At first she made a lot of mistakes and felt embarrassed, but the family were very patient with her. By the end of the month, she could have long conversations and even understand jokes. Nina says it was the best way to learn a language, and she wants to go back next year.",
+      "statements": [
+        {
+          "text": "Nina had studied Spanish for five years.",
+          "answer": false
+        },
+        {
+          "text": "The family Nina stayed with didn't speak English.",
+          "answer": true
+        },
+        {
+          "text": "The family were impatient when Nina made mistakes.",
+          "answer": false
+        },
+        {
+          "text": "Nina's Spanish improved during the course.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-040",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'from 9 a.m. to 3 p.m.', 'in the basement', 'We suggest filling some bottles with water' and 'Mr Hughes, in flat 1'.",
+      "passage": "Dear residents, please note that the water in the building will be turned off on Wednesday from 9 a.m. to 3 p.m. while workers replace some old pipes in the basement. During this time, you won't be able to use the taps, showers or toilets. We suggest filling some bottles with water on Tuesday evening. The lift will also be out of order on Wednesday morning, because the workers need to use it to carry equipment. We apologise for the problem and thank you for your patience. If you have any questions, please contact the building manager, Mr Hughes, in flat 1.",
+      "statements": [
+        {
+          "text": "The water will be off all day on Wednesday.",
+          "answer": false
+        },
+        {
+          "text": "The work will take place on the top floor.",
+          "answer": false
+        },
+        {
+          "text": "Residents are advised to keep some water in bottles.",
+          "answer": true
+        },
+        {
+          "text": "The building manager lives in flat 10.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-041",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'after he saw firefighters rescue a family', 'most of his work isn't about fires', 'visits schools to teach children about safety' and 'he sometimes sleeps at the fire station'.",
+      "passage": "Tom is a firefighter in a small town. He joined the fire service eight years ago, after he saw firefighters rescue a family from a burning house near his home. Many people think firefighters only fight fires, but most of his work isn't about fires. He often helps people after car accidents, rescues animals and visits schools to teach children about safety. Firefighters have to be very fit, so Tom goes to the gym four times a week. He works in shifts, which means that he sometimes sleeps at the fire station. He says the best part of the job is the team spirit.",
+      "statements": [
+        {
+          "text": "Tom decided to become a firefighter after seeing a rescue.",
+          "answer": true
+        },
+        {
+          "text": "Most of Tom's work involves putting out fires.",
+          "answer": false
+        },
+        {
+          "text": "Tom sometimes teaches children.",
+          "answer": true
+        },
+        {
+          "text": "Tom sometimes spends the night at the fire station.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-042",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'much faster than my old one', 'my old phone always died in the afternoon', 'it doesn't fit in my jeans pocket' and 'it was worth the money'.",
+      "passage": "Hi Sam, I hope you're well! I wanted to tell you about the new phone I bought last week. It's much faster than my old one and the camera is amazing. I took some photos of the sunset at the beach yesterday and they look professional! The battery lasts for two days, which is great because my old phone always died in the afternoon. The only problem is that it's quite big, so it doesn't fit in my jeans pocket. It was expensive, but I think it was worth the money. Have you bought a new phone yet, or are you still using your old one? Chloe",
+      "statements": [
+        {
+          "text": "Chloe's new phone is faster than her old one.",
+          "answer": true
+        },
+        {
+          "text": "Chloe's old phone had a better battery.",
+          "answer": false
+        },
+        {
+          "text": "The new phone fits easily in her pocket.",
+          "answer": false
+        },
+        {
+          "text": "Chloe thinks the phone was good value.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-043",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'it was finished in 2012', 'some very expensive flats', 'up to sixty-four kilometres on a clear day' and 'some people didn't like the design'.",
+      "passage": "The Shard is one of the tallest buildings in Europe. It is in London, near London Bridge station, and it was finished in 2012. The building is 310 metres high and it has 95 floors. It contains offices, restaurants, a hotel and some very expensive flats. On the top floors there is a viewing platform, where visitors can see up to sixty-four kilometres on a clear day. The building got its name because it looks like a piece of broken glass. At first, some people didn't like the design, but now it is one of the most famous buildings in the city.",
+      "statements": [
+        {
+          "text": "The Shard was built in the 1990s.",
+          "answer": false
+        },
+        {
+          "text": "People live in the Shard.",
+          "answer": true
+        },
+        {
+          "text": "Visitors can only see a few kilometres from the top.",
+          "answer": false
+        },
+        {
+          "text": "Some people didn't like the building at first.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-044",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'her grandmother gave her a box of cards', 'over eighty countries', 'which she organises by country' and 'her favourite ones are those that people have written on'.",
+      "passage": "Rosa has been collecting old postcards since she was ten years old. It all started when her grandmother gave her a box of cards that she had received from friends and family in the 1950s. Now Rosa has more than two thousand postcards from over eighty countries. She keeps them in special albums, which she organises by country. Her oldest card is from 1902 and shows a street in Paris. Rosa often buys postcards at markets and online, but her favourite ones are those that people have written on, because she likes reading the messages.",
+      "statements": [
+        {
+          "text": "Rosa's grandmother gave her the first postcards.",
+          "answer": true
+        },
+        {
+          "text": "Rosa has postcards from about twenty countries.",
+          "answer": false
+        },
+        {
+          "text": "Rosa organises her albums by year.",
+          "answer": false
+        },
+        {
+          "text": "Rosa prefers postcards with nothing written on them.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-045",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'Instead of their uniforms', 'The students won the match', 'much more than last year' and 'to buy toys and books'.",
+      "passage": "Last Friday, students at Park Hill School held a charity day to raise money for a local children's hospital. Instead of their uniforms, students wore funny costumes and paid one pound each. There was also a cake sale, and teachers took part in a football match against the oldest students. The students won the match three goals to one. In total, the school raised £2,400, which was much more than last year. The money will be used to buy toys and books for the children's ward. The head teacher said she was very proud of everyone who took part.",
+      "statements": [
+        {
+          "text": "Students wore their uniforms on the charity day.",
+          "answer": false
+        },
+        {
+          "text": "The students beat the teachers at football.",
+          "answer": true
+        },
+        {
+          "text": "The school raised more money than the year before.",
+          "answer": true
+        },
+        {
+          "text": "The money will be used to buy medical equipment.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-046",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'They sold their house', 'which they repaired themselves', 'they aren't allowed to stay in the same place for longer' and 'Life on the boat is cheaper'.",
+      "passage": "Many people dream of living on a boat, and that's exactly what Mark and Jenny decided to do three years ago. They sold their house and bought an old canal boat, which they repaired themselves. The boat has a small kitchen, a bathroom and a bedroom. They move to a new place every two weeks because they aren't allowed to stay in the same place for longer. Life on the boat is cheaper than living in a house, but it can be cold in winter. Jenny works online as a designer, while Mark writes a blog about their life on the water.",
+      "statements": [
+        {
+          "text": "Mark and Jenny used to live in a house.",
+          "answer": true
+        },
+        {
+          "text": "They paid someone else to repair the boat.",
+          "answer": false
+        },
+        {
+          "text": "They can stay in one place as long as they like.",
+          "answer": false
+        },
+        {
+          "text": "Living on a boat is more expensive than living in a house.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-047",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'Ask your friends if they can recommend someone', 'at least two lessons a week', 'don't drink too much coffee' and 'many people don't pass their test the first time'.",
+      "passage": "Learning to drive can be stressful, but here are some tips to help you. First, choose a good instructor. Ask your friends if they can recommend someone. Second, try to have at least two lessons a week, so that you don't forget what you've learned. You should also practise with a family member if possible, but make sure they have had a licence for several years. Before your test, get a good night's sleep and don't drink too much coffee. Finally, remember that many people don't pass their test the first time, so don't worry if you fail.",
+      "statements": [
+        {
+          "text": "Friends can help you find a good instructor.",
+          "answer": true
+        },
+        {
+          "text": "The writer suggests having one lesson a month.",
+          "answer": false
+        },
+        {
+          "text": "You shouldn't drink too much coffee before the test.",
+          "answer": true
+        },
+        {
+          "text": "It is common to fail the test the first time.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-048",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'with his brother', 'At first they had very few customers', 'gets up at four o'clock' and 'made using his mother's recipe'.",
+      "passage": "Ahmed runs a small bakery in a quiet street in Birmingham. He opened it five years ago with his brother, after they both lost their jobs in a factory. At first they had very few customers, but slowly people started to hear about their bread and cakes. Now there is often a queue outside the shop on Saturday mornings. Ahmed gets up at four o'clock every day to start baking. The most popular product is a sweet bread with honey and nuts, which is made using his mother's recipe. Next year the brothers are hoping to open a second shop.",
+      "statements": [
+        {
+          "text": "Ahmed opened the bakery on his own.",
+          "answer": false
+        },
+        {
+          "text": "The bakery wasn't busy at the beginning.",
+          "answer": true
+        },
+        {
+          "text": "Ahmed starts baking at six o'clock.",
+          "answer": false
+        },
+        {
+          "text": "The honey bread is based on his mother's recipe.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-049",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'the first in the town for more than twenty years', 'five screens', 'old classic films every Monday evening at half price' and 'Some people, however, have complained'.",
+      "passage": "A new cinema opened in Westbridge last weekend, the first in the town for more than twenty years. The old cinema closed in 1999 because not enough people went there. The new one has five screens and very comfortable seats which you can move into a lying position. As well as new films, it will show old classic films every Monday evening at half price. There is also a café and a small restaurant. On the opening day, all the tickets were sold out by lunchtime. Some people, however, have complained that the tickets are too expensive.",
+      "statements": [
+        {
+          "text": "Westbridge didn't have a cinema for many years.",
+          "answer": true
+        },
+        {
+          "text": "The new cinema has only one screen.",
+          "answer": false
+        },
+        {
+          "text": "Old films are cheaper on Mondays.",
+          "answer": true
+        },
+        {
+          "text": "Nobody has complained about the cinema.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-050",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'she sails alone', 'I liked the main character', 'about four hundred pages' and 'the ending happens too quickly'.",
+      "passage": "I've just finished reading a great book about a girl who travels around the world on a sailing boat. She's only sixteen, but she sails alone for nine months. The story is exciting, especially when she gets caught in a terrible storm in the Pacific Ocean. I liked the main character because she is brave but also honest about her fears. The book is quite long, about four hundred pages, but it's easy to read. My only criticism is that the ending happens too quickly. I would recommend it to anyone who likes adventure stories. I've already lent it to my cousin.",
+      "statements": [
+        {
+          "text": "The girl in the book sails with her father.",
+          "answer": false
+        },
+        {
+          "text": "The writer liked the main character.",
+          "answer": true
+        },
+        {
+          "text": "The book is very short.",
+          "answer": false
+        },
+        {
+          "text": "The writer liked the ending very much.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-051",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'for twelve years', 'seven and eight years old', 'she has to mark books and plan lessons in the evening' and 'The children are still talking about it'.",
+      "passage": "Grace has been a primary school teacher for twelve years. She teaches a class of twenty-eight children who are seven and eight years old. Her day starts at eight o'clock, when she prepares the classroom, and lessons finish at three. However, her work doesn't end then, because she has to mark books and plan lessons in the evening. Grace says that the best part of her job is seeing children learn something new. Last year she took her class on a trip to a farm, where they learned how to milk a cow. The children are still talking about it.",
+      "statements": [
+        {
+          "text": "Grace has been teaching for twenty years.",
+          "answer": false
+        },
+        {
+          "text": "Grace's pupils are seven and eight years old.",
+          "answer": true
+        },
+        {
+          "text": "Grace works in the evenings too.",
+          "answer": true
+        },
+        {
+          "text": "The children enjoyed the farm trip.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-052",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'two hundred metres from a beautiful sandy beach', 'perfect for a family of four', 'Pets are welcome' and 'The nearest shop is in the village, about two kilometres away'.",
+      "passage": "Are you looking for a quiet place for your holiday? Then come to Sea View Cottage, a small stone house just two hundred metres from a beautiful sandy beach. The cottage has two bedrooms, so it is perfect for a family of four. There is a fully equipped kitchen, a garden with a barbecue and free wifi. Pets are welcome, but please tell us before you arrive. The nearest shop is in the village, about two kilometres away, so you will need a car. The cottage is available from April to October. Prices start at £450 per week.",
+      "statements": [
+        {
+          "text": "The cottage is close to the beach.",
+          "answer": true
+        },
+        {
+          "text": "The cottage is suitable for four people.",
+          "answer": true
+        },
+        {
+          "text": "Pets are not allowed in the cottage.",
+          "answer": false
+        },
+        {
+          "text": "There is a shop next to the cottage.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-053",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'I helped her feed the chickens', 'There was no television at the farm', 'I never felt bored' and 'My aunt sold the farm ten years ago'.",
+      "passage": "When I was a child, I used to spend every summer at my aunt's farm in the countryside. I helped her feed the chickens every morning and collect the eggs. In the afternoons, my cousins and I swam in the river or climbed trees. There was no television at the farm, so in the evenings we played cards or listened to my uncle's stories. I didn't have a phone then, of course, but I never felt bored. My aunt sold the farm ten years ago and moved to the city. I sometimes drive past it, but it looks very different now.",
+      "statements": [
+        {
+          "text": "The writer helped with the chickens.",
+          "answer": true
+        },
+        {
+          "text": "The writer watched television every evening at the farm.",
+          "answer": false
+        },
+        {
+          "text": "The writer often felt bored on the farm.",
+          "answer": false
+        },
+        {
+          "text": "The writer's aunt doesn't live on the farm any more.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-054",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'it can stay for hundreds of years', 'they think they are food', 'shops have to charge customers for plastic bags' and 'use a metal water bottle'.",
+      "passage": "Plastic is a big problem for our oceans. Every year, millions of tonnes of plastic end up in the sea, where it can stay for hundreds of years. Sea animals such as turtles and birds sometimes eat plastic bags because they think they are food. Many countries have now introduced rules to reduce plastic use. For example, in some places shops have to charge customers for plastic bags. You can help too: carry a reusable bag when you go shopping, use a metal water bottle and try to buy products which don't have much packaging.",
+      "statements": [
+        {
+          "text": "Plastic disappears from the sea after a few months.",
+          "answer": false
+        },
+        {
+          "text": "Some sea animals eat plastic by mistake.",
+          "answer": true
+        },
+        {
+          "text": "In some countries, people must pay for plastic bags.",
+          "answer": true
+        },
+        {
+          "text": "The writer suggests buying more bottled water.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-055",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'one of the books you ordered... is out of stock', 'The other two books', 'were sent this morning' and 'give you your money back'.",
+      "passage": "Dear Customer, thank you for ordering from Bookworld. We are sorry to tell you that one of the books you ordered, 'The Silent Forest', is out of stock at the moment. We expect to receive more copies in about three weeks. The other two books in your order were sent this morning and should arrive in two or three working days. You can choose to wait for 'The Silent Forest', or we can cancel it and give you your money back. Please reply to this email to tell us what you would prefer. We apologise for the delay. Kind regards, Bookworld Customer Service",
+      "statements": [
+        {
+          "text": "All the books in the order are out of stock.",
+          "answer": false
+        },
+        {
+          "text": "The customer ordered four books.",
+          "answer": false
+        },
+        {
+          "text": "Some of the books have already been sent.",
+          "answer": true
+        },
+        {
+          "text": "The customer can ask for a refund.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-056",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'every day except Sunday', 'he started playing football when he was five', 'A coach... invited him to join the club' and 'he is also studying sports science online'.",
+      "passage": "Leo is nineteen and he is training to become a professional footballer. He plays for the youth team of a big club in the north of England. He trains every day except Sunday, and he also has to watch what he eats very carefully. Leo started playing football when he was five, in a park near his house. A coach saw him play when he was eleven and invited him to join the club. Leo knows that only a few young players get a professional contract, so he is also studying sports science online, in case his football career doesn't work out.",
+      "statements": [
+        {
+          "text": "Leo trains six days a week.",
+          "answer": true
+        },
+        {
+          "text": "Leo started playing football at the age of eleven.",
+          "answer": false
+        },
+        {
+          "text": "A coach invited Leo to join the club.",
+          "answer": true
+        },
+        {
+          "text": "Leo is studying as well as playing football.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-057",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'green and purple lights', 'between September and March', 'easier to see away from towns' and 'they don't appear every night'.",
+      "passage": "Thousands of people visit Iceland every year to see the northern lights. These beautiful green and purple lights appear in the night sky when particles from the sun hit the Earth's atmosphere. The best time to see them is between September and March, when the nights are long and dark. You need a clear sky, so it's a good idea to check the weather forecast before you go out. The lights are easier to see away from towns, where there are no street lights. However, nobody can promise that you will see them, because they don't appear every night.",
+      "statements": [
+        {
+          "text": "The lights can be green and purple.",
+          "answer": true
+        },
+        {
+          "text": "The best time to see the lights is in summer.",
+          "answer": false
+        },
+        {
+          "text": "It's easier to see the lights in the town centre.",
+          "answer": false
+        },
+        {
+          "text": "The lights appear every night.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-058",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'I had forgotten mine', 'she went to university in Scotland while I stayed in London', 'Now she lives in Canada' and 'we talk on video calls every week'.",
+      "passage": "My best friend Zoe and I met on our first day at primary school, when we were both five. We sat next to each other and she lent me a pencil because I had forgotten mine. Since then, we've been friends for more than twenty years. We went to the same secondary school, but then she went to university in Scotland while I stayed in London. Now she lives in Canada with her husband, so we only see each other once a year. However, we talk on video calls every week, and she still makes me laugh more than anyone else.",
+      "statements": [
+        {
+          "text": "The writer had forgotten her pencil on the first day.",
+          "answer": true
+        },
+        {
+          "text": "Zoe and the writer went to the same university.",
+          "answer": false
+        },
+        {
+          "text": "Zoe lives in Scotland now.",
+          "answer": false
+        },
+        {
+          "text": "The two friends talk every week.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-059",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'skating in the car park behind the supermarket', 'wrote a letter to the town council asking for a safe place to skate', 'will be built next to the sports centre' and 'The teenagers will help to choose the design'.",
+      "passage": "The town of Greenfield is going to build a new skate park for young people. For years, teenagers have been skating in the car park behind the supermarket, which is dangerous because of the cars. Last year, a group of teenagers wrote a letter to the town council asking for a safe place to skate. They also collected more than one thousand signatures. The council agreed, and the new park will be built next to the sports centre. It will cost £200,000 and should be ready by next summer. The teenagers will help to choose the design.",
+      "statements": [
+        {
+          "text": "Teenagers have been skating in a car park.",
+          "answer": true
+        },
+        {
+          "text": "The teenagers asked the council for a skate park.",
+          "answer": true
+        },
+        {
+          "text": "The skate park will be built behind the supermarket.",
+          "answer": false
+        },
+        {
+          "text": "The teenagers will help with the design.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-060",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'In the afternoon it started to rain', 'we went to a museum instead', 'which was really funny' and 'our room was really small'.",
+      "passage": "Hi Anna, I've just got back from my weekend in Edinburgh and I had a great time! On Saturday morning we walked up to the castle, which has amazing views of the city. In the afternoon it started to rain, so we went to a museum instead of walking around. On Saturday evening we went to a small theatre to see a comedy show, which was really funny. On Sunday the weather was much better, so we climbed a hill called Arthur's Seat. My legs still hurt! The only bad thing was the hotel, because our room was really small. You should go one day!",
+      "statements": [
+        {
+          "text": "It was sunny all weekend.",
+          "answer": false
+        },
+        {
+          "text": "They visited a museum because of the rain.",
+          "answer": true
+        },
+        {
+          "text": "The comedy show wasn't very funny.",
+          "answer": false
+        },
+        {
+          "text": "The writer liked the hotel room.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-061",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'make a list before you go shopping', 'restaurant meals are much more expensive', 'cancel any subscriptions that you don't really use' and 'every time you get paid, put a small amount of money into a savings account before you spend anything'.",
+      "passage": "Many people find it hard to save money, but a few small changes can help. Firstly, make a list before you go shopping and only buy what is on it. Secondly, try cooking at home instead of eating out, because restaurant meals are much more expensive. You could also take a packed lunch to work or school. Another idea is to cancel any subscriptions that you don't really use, such as a gym membership or a TV service. Finally, every time you get paid, put a small amount of money into a savings account before you spend anything.",
+      "statements": [
+        {
+          "text": "The writer suggests making a shopping list.",
+          "answer": true
+        },
+        {
+          "text": "The writer says eating out is cheaper than cooking.",
+          "answer": false
+        },
+        {
+          "text": "You could save money by cancelling services you don't use.",
+          "answer": true
+        },
+        {
+          "text": "You should save money only at the end of the month.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-062",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'for the first time', 'showed her how to send emails and make video calls', 'her son, who lives in Australia' and 'She has even started doing her shopping online'.",
+      "passage": "Ruth is seventy-two, and last year she learned to use the internet for the first time. Her granddaughter gave her a tablet for her birthday and showed her how to send emails and make video calls. At first Ruth found it confusing, but she practised every day. Now she uses the tablet to read the news, look up recipes and talk to her son, who lives in Australia. She has even started doing her shopping online, so she doesn't have to carry heavy bags home. Ruth says she wishes she had learned to use the internet years ago.",
+      "statements": [
+        {
+          "text": "Ruth has used the internet for many years.",
+          "answer": false
+        },
+        {
+          "text": "Ruth's granddaughter taught her how to use the tablet.",
+          "answer": true
+        },
+        {
+          "text": "Ruth's son lives abroad.",
+          "answer": true
+        },
+        {
+          "text": "Ruth still carries all her shopping home herself.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-063",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'eating flat bread with toppings hundreds of years ago', 'in Naples, in the south of Italy', 'cheap food for poor people' and 'after many Italians moved there'.",
+      "passage": "Pizza is one of the most popular foods in the world, but it has a long history. People in many countries were eating flat bread with toppings hundreds of years ago. However, the modern pizza with tomato sauce was first made in Naples, in the south of Italy, in the eighteenth century. At that time it was cheap food for poor people, who bought it in the street. Pizza became popular in the USA in the twentieth century, after many Italians moved there. Today, the most popular pizza in many countries is the simple margherita, with tomato, cheese and basil.",
+      "statements": [
+        {
+          "text": "People ate flat bread with toppings a long time ago.",
+          "answer": true
+        },
+        {
+          "text": "Modern pizza was first made in the north of Italy.",
+          "answer": false
+        },
+        {
+          "text": "In the past, pizza was food for rich people.",
+          "answer": false
+        },
+        {
+          "text": "Pizza became popular in the USA after Italians moved there.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-064",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'Your working day starts at 8.30 a.m.', 'a canteen on the second floor', 'places are limited' and 'you must call your manager'.",
+      "passage": "Please read the following information before you start your new job. Your working day starts at 8.30 a.m., and you should arrive ten minutes early on your first day so that we can give you your ID card. Lunch is from 12.30 to 1.30 p.m., and there is a canteen on the second floor which serves hot meals. Staff can park in the car park behind the building, but places are limited, so we recommend taking public transport. If you are ill and can't come to work, you must call your manager before 9 a.m. We hope you enjoy working with us.",
+      "statements": [
+        {
+          "text": "The working day starts at 8.20 a.m.",
+          "answer": false
+        },
+        {
+          "text": "The canteen is on the second floor.",
+          "answer": true
+        },
+        {
+          "text": "There aren't many parking places.",
+          "answer": true
+        },
+        {
+          "text": "You should send an email if you are ill.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-065",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'had never been interested in art', 'he was surprised to find that he really enjoyed it', 'put it on the wall in their kitchen' and 'he is thinking of selling some of them'.",
+      "passage": "Jack had never been interested in art until his girlfriend took him to a painting class for his birthday. He thought it would be boring, but he was surprised to find that he really enjoyed it. The teacher showed them how to paint a simple landscape with mountains and a lake. Jack's painting wasn't perfect, but his girlfriend liked it so much that she put it on the wall in their kitchen. Since then, Jack has been going to the class every Wednesday evening. He has painted about twenty pictures, and he is thinking of selling some of them at a local market.",
+      "statements": [
+        {
+          "text": "Jack had always been interested in art.",
+          "answer": false
+        },
+        {
+          "text": "Jack enjoyed the first class more than he expected.",
+          "answer": true
+        },
+        {
+          "text": "Jack's first painting is in the living room.",
+          "answer": false
+        },
+        {
+          "text": "Jack might sell some of his paintings.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-066",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'has grown a lot in recent years', 'Chickens are quite easy to look after', 'about five eggs a week' and 'they can be noisy in the morning'.",
+      "passage": "The number of people who keep chickens in their gardens has grown a lot in recent years. Chickens are quite easy to look after, as long as they have a safe place to sleep at night, fresh water and food. A healthy chicken can lay about five eggs a week. Many families say that the eggs taste much better than the ones they buy in shops. Chickens also eat insects and some kitchen waste, which is good for the garden. However, before you buy chickens, you should check that your neighbours don't mind, because they can be noisy in the morning.",
+      "statements": [
+        {
+          "text": "More people are keeping chickens than before.",
+          "answer": true
+        },
+        {
+          "text": "Chickens are very difficult to look after.",
+          "answer": false
+        },
+        {
+          "text": "A healthy chicken can lay several eggs a week.",
+          "answer": true
+        },
+        {
+          "text": "Chickens can make noise early in the day.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-067",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'nearly five hours', 'just when I was cooking dinner', 'played board games by candlelight' and 'we were almost disappointed'.",
+      "passage": "Last night, there was a power cut in our part of the city which lasted for nearly five hours. It started at about seven o'clock, just when I was cooking dinner. Luckily, I had some candles in the kitchen drawer. Because I couldn't use the cooker, I made sandwiches instead. My phone battery was low, so I couldn't use it much. In the end, my family and I sat together and played board games by candlelight, which we hadn't done for years. When the lights came back on at midnight, we were almost disappointed!",
+      "statements": [
+        {
+          "text": "The power cut lasted about an hour.",
+          "answer": false
+        },
+        {
+          "text": "The writer was cooking when the power cut started.",
+          "answer": true
+        },
+        {
+          "text": "The writer's family watched TV during the power cut.",
+          "answer": false
+        },
+        {
+          "text": "The family were happy when the lights came back on.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-068",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'learn the names of thousands of streets', 'nearly four years', 'drove around the city on a motorbike' and 'Fatima rarely needs one'.",
+      "passage": "Fatima is a taxi driver in London. To get her licence, she had to learn the names of thousands of streets and the quickest ways to go from one place to another. This took her nearly four years, and she had to pass several difficult tests. She says that she drove around the city on a motorbike for hours every day to learn the roads. Most London taxi drivers today use a satellite navigation system, but Fatima rarely needs one. She enjoys meeting people from all over the world, although some passengers can be rude.",
+      "statements": [
+        {
+          "text": "Fatima had to learn a lot of street names.",
+          "answer": true
+        },
+        {
+          "text": "Fatima got her licence in a few months.",
+          "answer": false
+        },
+        {
+          "text": "Fatima used a motorbike to learn the roads.",
+          "answer": true
+        },
+        {
+          "text": "Fatima uses satellite navigation on every journey.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-069",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'on the first Thursday of every month', 'all kinds of books', 'you don't have to finish the book' and 'Membership is free'.",
+      "passage": "Come and join the Brookside Book Club! We meet on the first Thursday of every month at 7 p.m. in the back room of the Red Lion café. Every month we choose a different book to read, and then we meet to talk about it. We read all kinds of books, from crime stories to history and travel writing. New members are always welcome, and you don't have to finish the book before you come. Membership is free, but please buy a drink at the café to thank them for letting us use the room. Next month's book is 'A Winter in Norway'.",
+      "statements": [
+        {
+          "text": "The club meets every Thursday.",
+          "answer": false
+        },
+        {
+          "text": "The club reads different kinds of books.",
+          "answer": true
+        },
+        {
+          "text": "You must finish the book before the meeting.",
+          "answer": false
+        },
+        {
+          "text": "The club doesn't charge members.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-070",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'to raise money for a cancer charity', 'Sometimes he slept in a tent... people often invited him to stay in their homes', 'almost a year' and 'which became a bestseller'.",
+      "passage": "In 2015, a man called Peter decided to walk around the whole coast of Britain to raise money for a cancer charity. His mother had died of cancer the year before. He started in London and walked about twenty-five kilometres a day, carrying everything he needed in a big backpack. Sometimes he slept in a tent, but people often invited him to stay in their homes. The walk took him almost a year. Peter raised more than £100,000 for the charity, and he later wrote a book about his journey, which became a bestseller.",
+      "statements": [
+        {
+          "text": "Peter walked to raise money for charity.",
+          "answer": true
+        },
+        {
+          "text": "Peter always slept in hotels.",
+          "answer": false
+        },
+        {
+          "text": "The walk took nearly twelve months.",
+          "answer": true
+        },
+        {
+          "text": "Peter's book sold very well.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-071",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'the forecast says it's going to be cold and rainy', 'It starts at seven, not eight', 'there'll be pizza and chips' and 'My parents are paying for the first two games'.",
+      "passage": "Hi Lucas, are you still coming to my birthday party on Friday? There's been a change of plan. We were going to have it in the garden, but the forecast says it's going to be cold and rainy, so we've decided to have it at the bowling alley in Hill Street instead. It starts at seven, not eight as I said before. Don't worry about food because there'll be pizza and chips. My parents are paying for the first two games, but if you want to play more, you'll have to pay for yourself. Can you bring your sister too? Mia",
+      "statements": [
+        {
+          "text": "The party has moved because of the weather.",
+          "answer": true
+        },
+        {
+          "text": "The party will now start at eight.",
+          "answer": false
+        },
+        {
+          "text": "Guests should bring their own food.",
+          "answer": false
+        },
+        {
+          "text": "Guests can play as many free games as they like.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-072",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'more than fifty countries', 'Brazil produces the most coffee in the world', 'the seeds of a red fruit called a coffee cherry' and 'too much coffee can make it difficult to sleep'.",
+      "passage": "Coffee is grown in more than fifty countries, but Brazil produces the most coffee in the world. Coffee plants need warm weather and lots of rain, and they usually grow in mountain areas. The coffee beans are actually the seeds of a red fruit called a coffee cherry. After they are picked, the seeds are dried and then roasted, which gives coffee its brown colour and strong smell. Some people drink several cups a day because it helps them stay awake. However, doctors say that too much coffee can make it difficult to sleep and can make some people feel nervous.",
+      "statements": [
+        {
+          "text": "Coffee is grown in fewer than ten countries.",
+          "answer": false
+        },
+        {
+          "text": "Brazil is the biggest coffee producer.",
+          "answer": true
+        },
+        {
+          "text": "Coffee beans come from a red fruit.",
+          "answer": true
+        },
+        {
+          "text": "Doctors say you can drink as much coffee as you like.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-073",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'He started swimming when he was a young sailor in the navy', 'he walks to the public swimming pool', 'he sometimes swims in the sea' and 'he won a medal'.",
+      "passage": "My neighbour, Mr Brown, is eighty-five and he still goes swimming every morning. He started swimming when he was a young sailor in the navy, more than sixty years ago. Every day at seven o'clock, he walks to the public swimming pool, which is about a kilometre from his house, and swims thirty lengths. In summer, he sometimes swims in the sea instead. He says that swimming keeps his body strong and his mind clear. Last year, he won a medal in a swimming competition for people over eighty. His doctor says he is healthier than many people half his age.",
+      "statements": [
+        {
+          "text": "Mr Brown learned to swim in the navy.",
+          "answer": true
+        },
+        {
+          "text": "Mr Brown drives to the swimming pool.",
+          "answer": false
+        },
+        {
+          "text": "Mr Brown sometimes swims in the sea.",
+          "answer": true
+        },
+        {
+          "text": "Mr Brown has won a swimming medal.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-074",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'rent electric scooters using an app on their phones', 'they don't produce pollution', 'Some people leave them on the pavement' and 'In some cities... they cannot ride on the pavement'.",
+      "passage": "In many cities, people can now rent electric scooters using an app on their phones. You simply find a scooter in the street, scan the code and start riding. When you finish, you leave the scooter in a special parking area. Scooters are cheap and fast, and they don't produce pollution. However, they are not popular with everyone. Some people leave them on the pavement, where they block the way for people walking. There have also been accidents, because some riders go too fast. In some cities, riders now have to wear helmets and they cannot ride on the pavement.",
+      "statements": [
+        {
+          "text": "You use a phone app to rent the scooters.",
+          "answer": true
+        },
+        {
+          "text": "The scooters produce a lot of pollution.",
+          "answer": false
+        },
+        {
+          "text": "Some people leave scooters in the way of pedestrians.",
+          "answer": true
+        },
+        {
+          "text": "In all cities, riders can ride on the pavement.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-075",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'He takes groups of tourists around the city's most famous places', 'English, Italian, Spanish and German', 'he fell in love with the city during a holiday' and 'the hardest part of the job is the heat in summer'.",
+      "passage": "Simon works as a tour guide in Rome. He takes groups of tourists around the city's most famous places, such as the Colosseum and the Trevi Fountain. He speaks four languages: English, Italian, Spanish and German. Simon grew up in London, but he moved to Rome fifteen years ago after he fell in love with the city during a holiday. He says that the hardest part of the job is the heat in summer, when it can be over thirty-five degrees. His favourite moment of every tour is when tourists see the Pantheon for the first time, because they always look amazed.",
+      "statements": [
+        {
+          "text": "Simon shows tourists famous places in Rome.",
+          "answer": true
+        },
+        {
+          "text": "Simon can speak German.",
+          "answer": true
+        },
+        {
+          "text": "Simon visited Rome on holiday before he moved there.",
+          "answer": true
+        },
+        {
+          "text": "Simon finds the summer weather easy to work in.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-076",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'organised by a local environmental group', 'lasted four hours', 'some had been carried in by the sea' and 'especially the many families with young children'.",
+      "passage": "Last Saturday, about fifty volunteers met on Silver Beach to pick up rubbish. The event was organised by a local environmental group and lasted four hours. The volunteers collected more than two hundred bags of rubbish, including plastic bottles, fishing nets, and even an old bicycle. The organisers said that most of the rubbish had been left by visitors in the summer, but some had been carried in by the sea. They were very pleased with the number of people who took part, especially the many families with young children. The group is planning to hold another clean-up in the spring.",
+      "statements": [
+        {
+          "text": "The clean-up was organised by the town council.",
+          "answer": false
+        },
+        {
+          "text": "The volunteers worked for the whole day.",
+          "answer": false
+        },
+        {
+          "text": "All the rubbish was left by visitors.",
+          "answer": false
+        },
+        {
+          "text": "Many families took part in the event.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-077",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'I fell off my bike', 'Luckily it isn't broken', 'I shouldn't play any sport for at least two weeks' and 'his phone is always switched off'.",
+      "passage": "Hi Rob, I'm afraid I can't come to football practice on Thursday. I fell off my bike on Sunday and hurt my wrist. I went to the hospital and they took an X-ray. Luckily it isn't broken, but the doctor said I shouldn't play any sport for at least two weeks. It's really annoying because we've got the big match against Westfield at the end of the month. I hope I'll be able to play in that. Could you tell the coach for me? I've tried to call him, but his phone is always switched off. Thanks, Danny",
+      "statements": [
+        {
+          "text": "Danny had an accident on his bike.",
+          "answer": true
+        },
+        {
+          "text": "Danny's wrist is not broken.",
+          "answer": true
+        },
+        {
+          "text": "Danny can play sport again next week.",
+          "answer": false
+        },
+        {
+          "text": "Danny hasn't been able to speak to the coach.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-078",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'lives in the mountains', 'up to fourteen hours a day eating', 'pink with no fur' and 'the number of wild pandas has increased'.",
+      "passage": "The giant panda lives in the mountains of central China. Pandas eat mainly bamboo, and an adult panda can spend up to fourteen hours a day eating. Because bamboo doesn't have much energy, pandas move slowly and sleep a lot. Baby pandas are very small when they are born, about the size of a stick of butter, and they are pink with no fur. For many years, the panda was in danger of disappearing because people cut down the forests where it lives. Thanks to the work of the Chinese government and conservation groups, the number of wild pandas has increased.",
+      "statements": [
+        {
+          "text": "Pandas live in the deserts of China.",
+          "answer": false
+        },
+        {
+          "text": "Pandas spend very little time eating.",
+          "answer": false
+        },
+        {
+          "text": "Baby pandas have no fur when they are born.",
+          "answer": true
+        },
+        {
+          "text": "There are fewer wild pandas now than in the past.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-079",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'three years ago', 'she had worked in a large clothes factory', 'young people who want to buy fewer new clothes to help the environment' and 'she teaches people to sew'.",
+      "passage": "Jenny opened a small shop that repairs clothes three years ago. Before that, she had worked in a large clothes factory for many years. She noticed that people were throwing away clothes just because a button was missing or a zip was broken. Now she repairs jackets, trousers and dresses, and she can also make clothes shorter or longer. Many of her customers are young people who want to buy fewer new clothes to help the environment. Jenny also runs evening classes where she teaches people to sew. She says that everyone should know how to sew on a button.",
+      "statements": [
+        {
+          "text": "Jenny has had her shop for ten years.",
+          "answer": false
+        },
+        {
+          "text": "Jenny used to work in a factory.",
+          "answer": true
+        },
+        {
+          "text": "Some of her customers want to help the environment.",
+          "answer": true
+        },
+        {
+          "text": "Jenny teaches sewing classes.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-080",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'You won't need to look after the animals', 'You must be at least eighteen', 'Full training will be given' and 'free entry to the zoo for themselves and one friend'.",
+      "passage": "Westgate Zoo is looking for volunteers to help on weekends. Volunteers will help visitors to find their way around the zoo, answer simple questions about the animals and help with children's activities. You won't need to look after the animals, as this is done by our trained keepers. You must be at least eighteen and able to work at least two weekends a month. Full training will be given. In return, volunteers get free entry to the zoo for themselves and one friend, and a discount in the zoo café. If you are interested, please fill in the form on our website.",
+      "statements": [
+        {
+          "text": "Volunteers will feed and look after the animals.",
+          "answer": false
+        },
+        {
+          "text": "Sixteen-year-olds can become volunteers.",
+          "answer": false
+        },
+        {
+          "text": "The zoo will train the volunteers.",
+          "answer": true
+        },
+        {
+          "text": "Volunteers can bring a friend to the zoo for free.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-081",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'his English was quite basic', 'He found a job washing dishes', 'After two years, the head chef gave him a job as a cook' and 'he now employs twelve people'.",
+      "passage": "When Carlos arrived in London from Colombia, he didn't know anyone and his English was quite basic. He found a job washing dishes in a hotel kitchen, and in the evenings he went to English classes. The hours were long and the job was tiring, but he watched the chefs carefully and asked them lots of questions. After two years, the head chef gave him a job as a cook. Ten years later, Carlos opened his own restaurant serving Colombian food. It has become one of the most popular restaurants in the area, and he now employs twelve people.",
+      "statements": [
+        {
+          "text": "Carlos didn't speak much English when he arrived.",
+          "answer": true
+        },
+        {
+          "text": "Carlos's first job was washing dishes.",
+          "answer": true
+        },
+        {
+          "text": "Carlos became a cook after a few weeks.",
+          "answer": false
+        },
+        {
+          "text": "Carlos works alone in his restaurant.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-082",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'not drinking enough water', 'more when it is hot or when you do sport', 'as can stress' and 'If the headaches don't stop, you should see a doctor'.",
+      "passage": "Many people get headaches, and there are often simple reasons for them. One of the most common causes is not drinking enough water. Doctors recommend drinking about two litres of water a day, and more when it is hot or when you do sport. Looking at a computer screen for many hours without a break can also cause headaches, as can stress and lack of sleep. If you often get headaches, try to take short breaks from your screen, go for a walk in the fresh air and go to bed earlier. If the headaches don't stop, you should see a doctor.",
+      "statements": [
+        {
+          "text": "Drinking too much water is a common cause of headaches.",
+          "answer": false
+        },
+        {
+          "text": "You should drink more water when you do sport.",
+          "answer": true
+        },
+        {
+          "text": "Stress can cause headaches.",
+          "answer": true
+        },
+        {
+          "text": "You should see a doctor as soon as you get a headache.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-083",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'advertised in the window', 'studying literature', 'I am used to dealing with customers' and 'weekday afternoons after two o'clock'.",
+      "passage": "Dear Sir or Madam, I would like to apply for the job of sales assistant at your bookshop, which I saw advertised in the window last week. I am twenty years old and I am studying literature at the local college. I have worked part-time in a supermarket for two years, so I am used to dealing with customers and working with money. I love reading, especially novels and poetry, and I think I could give customers good advice. I am available to work on Saturdays and on weekday afternoons after two o'clock. I look forward to hearing from you. Yours faithfully, Karen Lee",
+      "statements": [
+        {
+          "text": "Karen saw the job advert in the shop window.",
+          "answer": true
+        },
+        {
+          "text": "Karen is studying history.",
+          "answer": false
+        },
+        {
+          "text": "Karen has experience of working with customers.",
+          "answer": true
+        },
+        {
+          "text": "Karen can work on weekday mornings.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-084",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'every July', 'over high mountains', 'The rider with the lowest total time wears a yellow shirt' and 'it has only been cancelled during the two world wars'.",
+      "passage": "The Tour de France is the most famous bicycle race in the world. It takes place every July, and it lasts about three weeks. The riders cycle about three and a half thousand kilometres, through flat countryside and over high mountains. The race is divided into twenty-one stages, one for each day, with two rest days. The rider with the lowest total time wears a yellow shirt. The first race was held in 1903, and it has only been cancelled during the two world wars. Millions of people watch the race on TV, and thousands stand by the road to cheer the riders.",
+      "statements": [
+        {
+          "text": "The race takes place in the summer.",
+          "answer": true
+        },
+        {
+          "text": "The race goes through mountains.",
+          "answer": true
+        },
+        {
+          "text": "The leader wears a yellow shirt.",
+          "answer": true
+        },
+        {
+          "text": "The race has never been cancelled.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-085",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'except food and medicine', 'It was harder than we expected', 'we had to find second-hand ones online' and 'We are going to try it again this year'.",
+      "passage": "Last year my family and I decided to spend a whole month without buying anything new, except food and medicine. It was harder than we expected. In the first week, my son's school shoes broke, so we had to find second-hand ones online. We also couldn't buy birthday presents, so we made them ourselves. My daughter painted a picture for her friend, and I baked a cake for my sister. At the end of the month, we had saved about £400. More importantly, we realised that we didn't need most of the things we usually buy. We are going to try it again this year.",
+      "statements": [
+        {
+          "text": "The family stopped buying food for a month.",
+          "answer": false
+        },
+        {
+          "text": "The experiment was easier than they expected.",
+          "answer": false
+        },
+        {
+          "text": "They bought new shoes for the son.",
+          "answer": false
+        },
+        {
+          "text": "The family plan to repeat the experiment.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-086",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'a scientist who studies whales', 'for three months every year', 'whales communicate with each other using songs' and 'sometimes she doesn't see a whale for days'.",
+      "passage": "Hannah is a scientist who studies whales. She works on a research boat off the coast of Norway for three months every year. Her job is to count the whales and record the sounds they make, using special microphones under the water. She says that whales communicate with each other using songs, and that each group has its own song. The work can be hard because the sea is often rough and cold, and sometimes she doesn't see a whale for days. But when she does see one, she says it is the most exciting feeling in the world.",
+      "statements": [
+        {
+          "text": "Hannah studies dolphins.",
+          "answer": false
+        },
+        {
+          "text": "Hannah works on the boat all year.",
+          "answer": false
+        },
+        {
+          "text": "Whales use songs to communicate.",
+          "answer": true
+        },
+        {
+          "text": "Hannah sees whales every day.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-087",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'every house will get three bins', 'a green one for food waste', 'the black bin will only be collected every two weeks' and 'you will still have to take bottles and jars to the bottle bank'.",
+      "passage": "Our town has just started a new recycling system. From next month, every house will get three bins: a green one for food waste, a blue one for paper, plastic and metal, and a black one for everything else. The green and blue bins will be collected every week, but the black bin will only be collected every two weeks. The council hopes that this will encourage people to recycle more. Glass is not included, so you will still have to take bottles and jars to the bottle bank in the supermarket car park. Old bins should be left outside for the council to collect.",
+      "statements": [
+        {
+          "text": "Each house will get three bins.",
+          "answer": true
+        },
+        {
+          "text": "Food waste goes in the green bin.",
+          "answer": true
+        },
+        {
+          "text": "The black bin will be collected every week.",
+          "answer": false
+        },
+        {
+          "text": "People must take glass to the bottle bank.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-088",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'since she was a little girl', 'at fifteen she got a small part in a TV series', 'she often doesn't get the part' and 'she works in a café three days a week'.",
+      "passage": "Ella has wanted to be an actor since she was a little girl. At the age of eight, she joined a drama club at school, and at fifteen she got a small part in a TV series. Now she is twenty-two and she has just finished drama school. Life as a young actor isn't easy. She goes to lots of auditions, but she often doesn't get the part. To pay the bills, she works in a café three days a week. Next month, however, she is going to appear in a play at a theatre in Manchester. It's her biggest role so far.",
+      "statements": [
+        {
+          "text": "Ella decided to become an actor when she was twenty.",
+          "answer": false
+        },
+        {
+          "text": "Ella appeared in a TV series as a teenager.",
+          "answer": true
+        },
+        {
+          "text": "Ella often fails to get the parts she tries for.",
+          "answer": true
+        },
+        {
+          "text": "Ella has a part-time job in a café.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-089",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'thank you so much for the money', 'my old ones had holes in them', 'I managed to climb to the top of the highest wall' and 'a cake that Dad had made'.",
+      "passage": "Hi Grandma, thank you so much for the money you sent for my birthday! I used it to buy a new pair of trainers, which I needed because my old ones had holes in them. I had a lovely birthday. On Saturday, Mum and Dad took me and three friends to a climbing centre, and then we went for a burger. I managed to climb to the top of the highest wall, although I was quite scared! In the evening we had a cake that Dad had made. It was chocolate, my favourite. I hope you can come and visit us soon. Lots of love, Freddie",
+      "statements": [
+        {
+          "text": "Grandma sent Freddie a pair of trainers.",
+          "answer": false
+        },
+        {
+          "text": "Freddie's old trainers were in good condition.",
+          "answer": false
+        },
+        {
+          "text": "Freddie climbed the highest wall.",
+          "answer": true
+        },
+        {
+          "text": "Freddie's dad made the birthday cake.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-090",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'The first bicycles had no pedals', 'fast but dangerous', 'appeared in the 1880s' and 'it was the first time they could travel easily outside their town'.",
+      "passage": "The bicycle was invented in Europe in the early nineteenth century. The first bicycles had no pedals, so riders had to push themselves along with their feet. Later, pedals were added to the front wheel. In the 1870s, some bicycles had a very large front wheel and a tiny back wheel, which made them fast but dangerous. The modern bicycle, with two wheels of the same size and a chain, appeared in the 1880s. It quickly became popular because it was cheap and easy to ride. For many working people, it was the first time they could travel easily outside their town.",
+      "statements": [
+        {
+          "text": "The first bicycles had pedals on the back wheel.",
+          "answer": false
+        },
+        {
+          "text": "Bicycles with a large front wheel were very safe.",
+          "answer": false
+        },
+        {
+          "text": "The modern bicycle appeared in the 1880s.",
+          "answer": true
+        },
+        {
+          "text": "Bicycles helped working people to travel further.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-091",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'Every year in April', 'from all over Spain', 'learn how to grow vegetables on a balcony' and 'slightly fewer than last year'.",
+      "passage": "Every year in April, the city of Valencia holds a big flower show in its main park. This year, more than one hundred gardeners from all over Spain showed their flowers and plants. The biggest attraction was a garden made to look like a small village, with houses made entirely of roses. There were also workshops where visitors could learn how to grow vegetables on a balcony. The show was open for five days and attracted about eighty thousand visitors, slightly fewer than last year because of the rain. The prize for the best garden went to a family from Seville.",
+      "statements": [
+        {
+          "text": "The flower show takes place every spring.",
+          "answer": true
+        },
+        {
+          "text": "All the gardeners came from Valencia.",
+          "answer": false
+        },
+        {
+          "text": "Visitors could learn about growing vegetables.",
+          "answer": true
+        },
+        {
+          "text": "More people visited the show than last year.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-092",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'about five hundred sheep', 'he sometimes works through the night', 'Ian learned everything from his father' and 'His daughter wants to be a farmer too'.",
+      "passage": "Ian is a farmer in the north of Scotland. He keeps about five hundred sheep on a large farm in the hills. His day starts at six o'clock in the morning, and in spring, when the baby lambs are born, he sometimes works through the night. The farm has been in his family for four generations, and Ian learned everything from his father. He has two dogs that help him to move the sheep from one field to another. Ian says farming is hard work and doesn't pay very well, but he couldn't imagine doing anything else. His daughter wants to be a farmer too.",
+      "statements": [
+        {
+          "text": "Ian keeps cows on his farm.",
+          "answer": false
+        },
+        {
+          "text": "Ian sometimes works at night in spring.",
+          "answer": true
+        },
+        {
+          "text": "Ian's father taught him about farming.",
+          "answer": true
+        },
+        {
+          "text": "Ian's daughter is interested in farming.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-093",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'since Monday', 'the doctor has told her to stay at home until Friday', 'a science test on Thursday' and 'send me the homework by email'.",
+      "passage": "Hello Mr Clarke, I'm writing about my daughter, Amy, who is in your Year 7 class. Unfortunately, Amy has been ill with a bad cold since Monday, and the doctor has told her to stay at home until Friday. I know that she has a science test on Thursday. Would it be possible for her to take the test next week instead? She is also worried about missing her homework. Could you please send me the homework by email so that she can do it at home if she feels better? Thank you very much for your help. Best regards, Laura Hill",
+      "statements": [
+        {
+          "text": "Amy has been ill since the beginning of the week.",
+          "answer": true
+        },
+        {
+          "text": "The doctor said Amy should stay at home.",
+          "answer": true
+        },
+        {
+          "text": "Amy's science test is on Friday.",
+          "answer": false
+        },
+        {
+          "text": "Laura wants the homework sent by post.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-094",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'hot liquid rock, called lava', 'others have been quiet for hundreds of years', 'many people live near volcanoes' and 'they can sometimes warn people before an eruption'.",
+      "passage": "Volcanoes are openings in the Earth's surface where hot liquid rock, called lava, comes out. There are about fifteen hundred active volcanoes in the world, and many of them are around the edge of the Pacific Ocean. Some volcanoes erupt often, while others have been quiet for hundreds of years. Although they can be dangerous, many people live near volcanoes because the soil there is very good for growing food. Scientists study volcanoes carefully, and they can sometimes warn people before an eruption, so that they have time to leave the area.",
+      "statements": [
+        {
+          "text": "Lava is hot liquid rock.",
+          "answer": true
+        },
+        {
+          "text": "All volcanoes erupt very often.",
+          "answer": false
+        },
+        {
+          "text": "Nobody lives near volcanoes because they are dangerous.",
+          "answer": false
+        },
+        {
+          "text": "Scientists can sometimes warn people before an eruption.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-095",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'he got out of breath when he climbed the stairs', 'His doctor told him that he had to change his lifestyle', 'he started walking for thirty minutes every day' and 'has run three marathons'.",
+      "passage": "Five years ago, Martin weighed over a hundred and twenty kilos and he got out of breath when he climbed the stairs. His doctor told him that he had to change his lifestyle. So he started walking for thirty minutes every day and stopped eating fast food. After six months, he started running, and a year later he ran his first race. Since then he has lost forty kilos and has run three marathons. Martin now works as a personal trainer, helping other people to get fit. He says the most important thing is to start slowly and not give up.",
+      "statements": [
+        {
+          "text": "Martin was very fit five years ago.",
+          "answer": false
+        },
+        {
+          "text": "Martin's doctor told him to make changes.",
+          "answer": true
+        },
+        {
+          "text": "Martin began by running every day.",
+          "answer": false
+        },
+        {
+          "text": "Martin has never run a marathon.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-096",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'children aged eight to twelve', 'then they will eat it together', 'All ingredients and aprons are provided' and 'Places are limited to ten children per class'.",
+      "passage": "NEW: Saturday morning cooking classes for children aged eight to twelve at the Food Studio, 25 Market Street. In each class, children will learn to make a simple, healthy meal, such as vegetable soup, fresh pasta or fish cakes, and then they will eat it together. All ingredients and aprons are provided. Classes start at 10 a.m. and finish at 12. Parents don't need to stay, but they must collect their children on time. Each class costs £15. Please tell us if your child has any food allergies when you book. Places are limited to ten children per class.",
+      "statements": [
+        {
+          "text": "The classes are for teenagers.",
+          "answer": false
+        },
+        {
+          "text": "Children eat the food they make.",
+          "answer": true
+        },
+        {
+          "text": "Children have to bring their own ingredients.",
+          "answer": false
+        },
+        {
+          "text": "Only ten children can join each class.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-097",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'some are more than eighty years old', 'usually when they are broken', 'there are radios everywhere in the house' and 'asked to borrow some of them'.",
+      "passage": "My dad has a strange hobby: he collects old radios. He has about sixty of them, and some are more than eighty years old. He buys them at markets, in second-hand shops and online, usually when they are broken. Then he spends hours in the garage repairing them. My mum sometimes complains because there are radios everywhere in the house, even in the bathroom! Last year, a local museum asked to borrow some of them for an exhibition about the history of radio. Dad was so proud that he visited the exhibition five times.",
+      "statements": [
+        {
+          "text": "Some of the radios are very old.",
+          "answer": true
+        },
+        {
+          "text": "Dad usually buys radios that don't work.",
+          "answer": true
+        },
+        {
+          "text": "All the radios are kept in the garage.",
+          "answer": false
+        },
+        {
+          "text": "Dad sold some radios to the museum.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-098",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'The last one was maths', 'We'll get our results in August', 'work at my uncle's hotel' and 'we definitely want to visit Prague and Vienna'.",
+      "passage": "Hi Jess, how are things? I've finally finished my exams! The last one was maths, and I think it went quite well, although the last question was really difficult. We'll get our results in August. Now I'm planning my summer. In July I'm going to work at my uncle's hotel on the coast, so I can save some money. Then in August I'm going travelling around Europe by train with Katie for three weeks. We haven't decided exactly where to go yet, but we definitely want to visit Prague and Vienna. Would you like to come with us? Write soon, Ruby",
+      "statements": [
+        {
+          "text": "Ruby's last exam was maths.",
+          "answer": true
+        },
+        {
+          "text": "Ruby has already received her exam results.",
+          "answer": false
+        },
+        {
+          "text": "Ruby is going to work in a shop in July.",
+          "answer": false
+        },
+        {
+          "text": "Ruby and Katie want to visit Vienna.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-099",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'It is not one single wall', 'built over about two thousand years', 'built to protect China from attacks' and 'other parts have fallen down'.",
+      "passage": "The Great Wall of China is one of the most famous buildings in the world. It is not one single wall, but many walls which were built over about two thousand years. The total length of all the sections is more than twenty thousand kilometres. The walls were built to protect China from attacks from the north. Millions of workers helped to build them, and many of them died during the work. Today, some parts of the wall are in good condition and are visited by thousands of tourists every day, while other parts have fallen down.",
+      "statements": [
+        {
+          "text": "The Great Wall is one single wall.",
+          "answer": false
+        },
+        {
+          "text": "The wall was built in a few years.",
+          "answer": false
+        },
+        {
+          "text": "The wall was built to protect China.",
+          "answer": true
+        },
+        {
+          "text": "All parts of the wall are in good condition today.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "b1-tf-100",
+      "type": "true-false",
+      "level": "B1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says 'He used to be an accountant', 'sold them at local markets', 'he has employed two people to help him' and 'he earns less than before'.",
+      "passage": "Owen started his own online business selling handmade wooden toys two years ago. He used to be an accountant, but he wasn't happy sitting at a desk all day. He had always enjoyed working with wood, so he decided to turn his hobby into a job. At first he made only a few toys a week and sold them at local markets. Then he created a website and started selling all over the country. Now he can't make the toys fast enough, so he has employed two people to help him. He says he earns less than before but he is much happier.",
+      "statements": [
+        {
+          "text": "Owen used to work as an accountant.",
+          "answer": true
+        },
+        {
+          "text": "Owen first sold his toys at markets.",
+          "answer": true
+        },
+        {
+          "text": "Owen makes all the toys by himself.",
+          "answer": false
+        },
+        {
+          "text": "Owen earns less money than in his old job.",
+          "answer": true
+        }
+      ]
     }
   ]
 }

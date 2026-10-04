@@ -41,6 +41,4366 @@
         "finishes"
       ],
       "correct": 1
+    },
+    {
+      "id": "b2-mc-003",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If the train hadn't been delayed, we ___ the start of the concert.",
+      "explanation": "Third conditional: if + past perfect, would have + past participle, for an unreal past: we would have seen it.",
+      "wrongReasons": {
+        "1": "'would see' is for an unreal present or future, but the delay happened in the past.",
+        "2": "The past perfect goes in the if-clause, not in the result clause.",
+        "3": "'will have seen' is a future perfect and does not describe an imagined past."
+      },
+      "options": [
+        "would have seen",
+        "would see",
+        "had seen",
+        "will have seen"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-004",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "\"I'm leaving tomorrow,\" he said. → He said he was leaving ___.",
+      "explanation": "In reported speech, time words often change: 'tomorrow' becomes 'the next day' or 'the following day'.",
+      "wrongReasons": {
+        "0": "'yesterday' is the opposite time reference.",
+        "1": "'the day before' replaces 'yesterday', not 'tomorrow'.",
+        "3": "'that day' replaces 'today', not 'tomorrow'."
+      },
+      "options": [
+        "yesterday",
+        "the day before",
+        "the following day",
+        "that day"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-005",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The new bridge ___ by the end of next year.",
+      "explanation": "Future perfect passive: will have been + past participle, for something finished before a future time.",
+      "wrongReasons": {
+        "0": "This is active; the bridge does not complete anything itself.",
+        "2": "The present perfect does not fit 'by the end of next year'.",
+        "3": "This is active continuous and suggests the bridge is doing the work."
+      },
+      "options": [
+        "will have completed",
+        "will have been completed",
+        "has been completed",
+        "is completing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-006",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "The woman ___ car was stolen called the police immediately.",
+      "explanation": "'Whose' shows possession in relative clauses: the woman whose car was stolen.",
+      "wrongReasons": {
+        "0": "'who car' is wrong; we need a possessive word before 'car'.",
+        "1": "'which' refers to things, and 'which car' does not show possession.",
+        "2": "'that' cannot show possession."
+      },
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-007",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish I ___ how to play the piano.",
+      "explanation": "'Wish' + past simple expresses a wish about the present: I wish I knew.",
+      "wrongReasons": {
+        "0": "After 'wish' for a present situation we use the past simple, not the present.",
+        "1": "'would' is not used with state verbs like 'know' after 'wish'.",
+        "2": "'had known' is a regret about the past, not a wish about the present."
+      },
+      "options": [
+        "know",
+        "would know",
+        "had known",
+        "knew"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-008",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "He ___ be at home; I can see his car outside.",
+      "explanation": "'Must' expresses a strong logical deduction that something is true: He must be at home.",
+      "wrongReasons": {
+        "0": "'can't' expresses certainty that something is not true, but the car suggests he is there.",
+        "2": "'should' is for advice or expectation, not strong deduction from evidence.",
+        "3": "'needn't' expresses lack of necessity, not deduction."
+      },
+      "options": [
+        "can't",
+        "must",
+        "should",
+        "needn't"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-009",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "___ you need any help with the software, just call the support desk.",
+      "explanation": "'Should' at the start of a conditional means 'if by chance': Should you need help, call us.",
+      "wrongReasons": {
+        "0": "'Would' cannot replace 'if' at the start of a conditional clause.",
+        "1": "'Had you need' is not grammatical; inversion with 'had' needs a past participle.",
+        "3": "'Were you need' is wrong; inversion with 'were' needs 'to' + verb or an adjective."
+      },
+      "options": [
+        "Would",
+        "Had",
+        "Should",
+        "Were"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-010",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "The officer asked me where ___.",
+      "explanation": "Reported questions use statement word order (subject + verb), with no question auxiliary: where I lived.",
+      "wrongReasons": {
+        "1": "Reported questions do not use the auxiliary 'did' or question word order.",
+        "2": "This is a direct question form; it needs statement order and a backshift.",
+        "3": "The subject must come before the verb in a reported question."
+      },
+      "options": [
+        "I lived",
+        "did I live",
+        "do I live",
+        "lived I"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-011",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The suspect is believed ___ the country last week.",
+      "explanation": "With 'is believed' + an earlier action, use the perfect infinitive: is believed to have left.",
+      "wrongReasons": {
+        "1": "The simple infinitive refers to the same time or later, but 'last week' is earlier.",
+        "2": "'be believed' is followed by a to-infinitive, not '-ing'.",
+        "3": "'is believed that' needs 'It' as the subject: It is believed that he left."
+      },
+      "options": [
+        "to have left",
+        "to leave",
+        "leaving",
+        "that he left"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-012",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Is this the town ___ you grew up?",
+      "explanation": "'Where' introduces a relative clause about a place: the town where you grew up.",
+      "wrongReasons": {
+        "0": "'which' would need 'in' at the end: the town which you grew up in.",
+        "1": "'when' is used for times, not places.",
+        "3": "'who' refers to people, not places."
+      },
+      "options": [
+        "which",
+        "when",
+        "where",
+        "who"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-013",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "She wishes she ___ that rude comment at the party last night.",
+      "explanation": "'Wish' + past perfect expresses regret about the past: she wishes she hadn't made it.",
+      "wrongReasons": {
+        "0": "The past simple after 'wish' is for the present; 'last night' needs the past perfect.",
+        "2": "'wouldn't make' is about annoying behaviour, not a past regret.",
+        "3": "The present simple is never used after 'wish' like this."
+      },
+      "options": [
+        "didn't make",
+        "hadn't made",
+        "wouldn't make",
+        "doesn't make"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-014",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "She ___ have seen us; she walked straight past without saying hello.",
+      "explanation": "'Can't have' + past participle expresses certainty that something did not happen.",
+      "wrongReasons": {
+        "0": "'must have' means you are sure she saw us, but walking past without a greeting suggests she did not.",
+        "1": "'should have' expresses criticism or regret, not deduction.",
+        "2": "'needn't have' means something was unnecessary."
+      },
+      "options": [
+        "must have",
+        "should have",
+        "needn't have",
+        "can't have"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-015",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If she ___ harder at university, she would have a better job now.",
+      "explanation": "Mixed conditional: if + past perfect (past condition), would + verb (present result): if she had studied, she would have.",
+      "wrongReasons": {
+        "0": "'studied' makes a second conditional about the present, but her studies are in the past.",
+        "1": "Do not use 'would' in the if-clause.",
+        "2": "The present perfect is not used in an unreal conditional clause."
+      },
+      "options": [
+        "studied",
+        "would study",
+        "has studied",
+        "had studied"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-016",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "My manager ___ me to check the figures again.",
+      "explanation": "'Tell' is followed by an object + to-infinitive in reported orders: She told me to check.",
+      "wrongReasons": {
+        "0": "'said' cannot be followed directly by an object like 'me'.",
+        "2": "'suggest' is not followed by object + to-infinitive.",
+        "3": "'explained' is not followed by object + to-infinitive."
+      },
+      "options": [
+        "said",
+        "told",
+        "suggested",
+        "explained"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-017",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "I'm going to ___ my eyes tested next week.",
+      "explanation": "Causative 'have something done': we arrange for someone else to do it: have my eyes tested.",
+      "wrongReasons": {
+        "0": "'make my eyes tested' is wrong; 'make' is followed by a base verb, not a past participle, in this structure.",
+        "1": "'let' is followed by object + base verb, not a past participle.",
+        "3": "'do something done' is not an English structure."
+      },
+      "options": [
+        "make",
+        "let",
+        "have",
+        "do"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-018",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "My brother, ___ lives in Canada, is visiting us next month.",
+      "explanation": "In relative clauses between commas (extra information) use 'who' for people; 'that' is not possible.",
+      "wrongReasons": {
+        "1": "'that' cannot be used in a relative clause between commas.",
+        "2": "'which' refers to things, not people.",
+        "3": "'whom' is an object pronoun, but here the pronoun is the subject of 'lives'."
+      },
+      "options": [
+        "who",
+        "that",
+        "which",
+        "whom"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-019",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish my neighbours ___ their music so loud every night.",
+      "explanation": "'Wish' + would expresses annoyance and a desire for someone else to change: I wish they wouldn't play.",
+      "wrongReasons": {
+        "1": "The present simple is not used after 'wish'.",
+        "2": "The past perfect refers to one finished past event, but 'every night' shows a habit.",
+        "3": "'will' is not used after 'wish'."
+      },
+      "options": [
+        "wouldn't play",
+        "don't play",
+        "hadn't played",
+        "won't play"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-020",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "You ___ have brought a gift, but thank you so much!",
+      "explanation": "'Needn't have' + past participle: something was done but it was not necessary.",
+      "wrongReasons": {
+        "0": "'mustn't have' is not used for past actions in this way.",
+        "1": "'couldn't have' would mean it was impossible, but you did bring a gift.",
+        "3": "'wouldn't have' needs a condition and does not mean 'unnecessary'."
+      },
+      "options": [
+        "mustn't have",
+        "couldn't have",
+        "needn't have",
+        "wouldn't have"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-021",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "You can borrow my bike ___ you bring it back by six.",
+      "explanation": "'Provided (that)' means 'only if' and introduces a condition: provided you bring it back.",
+      "wrongReasons": {
+        "0": "'unless' means 'if not', which gives the opposite meaning here.",
+        "2": "'in case' means 'as a precaution', not 'on condition that'.",
+        "3": "'even though' shows contrast, not a condition."
+      },
+      "options": [
+        "unless",
+        "provided",
+        "in case",
+        "even though"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-022",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "She asked me ___ I had ever been to Japan.",
+      "explanation": "Yes/no questions are reported with 'if' or 'whether': She asked me if I had ever been.",
+      "wrongReasons": {
+        "0": "'that' introduces reported statements, not reported questions.",
+        "1": "'what' is for wh-questions; this is a yes/no question.",
+        "2": "A reported question does not start with the auxiliary 'did'."
+      },
+      "options": [
+        "that",
+        "what",
+        "did",
+        "whether"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-023",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "When we arrived, the room ___, so we had to wait outside.",
+      "explanation": "Past continuous passive: was/were being + past participle, for an action in progress in the past.",
+      "wrongReasons": {
+        "0": "This is active; the room cannot clean itself.",
+        "1": "The present perfect does not fit a past narrative with 'when we arrived'.",
+        "2": "The present simple passive does not fit a past situation."
+      },
+      "options": [
+        "was cleaning",
+        "has been cleaned",
+        "is cleaned",
+        "was being cleaned"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-024",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "She failed her driving test, ___ surprised everyone.",
+      "explanation": "'Which' can refer to a whole previous clause: She failed, which surprised everyone.",
+      "wrongReasons": {
+        "0": "'that' cannot refer back to a whole clause after a comma.",
+        "2": "'what' means 'the thing that' and cannot refer back to a clause.",
+        "3": "'who' refers to people, not to a whole situation."
+      },
+      "options": [
+        "that",
+        "which",
+        "what",
+        "who"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-025",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "If only I ___ my passport before we left for the airport!",
+      "explanation": "'If only' + past perfect expresses a strong regret about the past: If only I had checked.",
+      "wrongReasons": {
+        "0": "The past simple after 'if only' refers to the present, but the trip is in the past.",
+        "1": "The present perfect is not used after 'if only'.",
+        "3": "'would' after 'if only' is for wanting future change, not past regret."
+      },
+      "options": [
+        "checked",
+        "have checked",
+        "had checked",
+        "would check"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-026",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "The keys aren't in my bag. I ___ left them at the office.",
+      "explanation": "'Might/may have' + past participle expresses a past possibility: I might have left them.",
+      "wrongReasons": {
+        "1": "'should have left' would mean leaving them was the right thing to do.",
+        "2": "'can have' is not used for past possibility in affirmative sentences.",
+        "3": "'must left' is not grammatical; it needs 'have'."
+      },
+      "options": [
+        "might have",
+        "should have",
+        "can have",
+        "must"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-027",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If I were you, I ___ that contract before reading the small print.",
+      "explanation": "'If I were you' gives advice and is followed by would + base verb: I wouldn't sign it.",
+      "wrongReasons": {
+        "1": "'won't' is used in the first conditional, not after 'If I were you'.",
+        "2": "The past simple belongs in the if-clause, not in the result clause.",
+        "3": "The past perfect is for the if-clause of a third conditional."
+      },
+      "options": [
+        "wouldn't sign",
+        "won't sign",
+        "didn't sign",
+        "hadn't signed"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-028",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "\"Don't touch the paintings,\" the guide said. → The guide told us ___ the paintings.",
+      "explanation": "Negative orders are reported with 'not to' + base verb: told us not to touch.",
+      "wrongReasons": {
+        "0": "The direct imperative form is not kept in reported speech.",
+        "1": "After 'told us' we need 'not to' + base verb, not '-ing'.",
+        "3": "This reports a past fact, not an order."
+      },
+      "options": [
+        "don't touch",
+        "to not touching",
+        "not to touch",
+        "didn't touch"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-029",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "It ___ that the painting is worth over two million dollars.",
+      "explanation": "Impersonal passive: It is said / thought / reported that...",
+      "wrongReasons": {
+        "0": "'It says' is used for written texts, and it is not passive.",
+        "2": "'It is saying' is not used as an impersonal report.",
+        "3": "This is active and needs a real subject who said it."
+      },
+      "options": [
+        "says",
+        "is said",
+        "is saying",
+        "has said"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-030",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "I'll never forget the day ___ we first met.",
+      "explanation": "'When' introduces a relative clause about a time: the day when we met.",
+      "wrongReasons": {
+        "0": "'where' is used for places, not times.",
+        "1": "'which' would need a preposition: the day on which we met.",
+        "2": "'whose' shows possession and needs a noun after it."
+      },
+      "options": [
+        "where",
+        "which",
+        "whose",
+        "when"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-031",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish it ___ so cold in this office; I can't stop shivering.",
+      "explanation": "'Wish' + past simple for a present situation; 'were' is often used for all persons: I wish it weren't so cold.",
+      "wrongReasons": {
+        "0": "After 'wish' the verb moves back to the past; 'isn't' is present.",
+        "1": "'will' is not used after 'wish'.",
+        "2": "The present perfect is not used after 'wish'."
+      },
+      "options": [
+        "isn't",
+        "won't be",
+        "hasn't been",
+        "weren't"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-032",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "You ___ park here; it's reserved for ambulances.",
+      "explanation": "'Mustn't' expresses prohibition: You mustn't park here.",
+      "wrongReasons": {
+        "0": "'don't have to' means it is not necessary, not that it is forbidden.",
+        "2": "'needn't' means there is no obligation, not that it is forbidden.",
+        "3": "'might not' expresses possibility, not a rule."
+      },
+      "options": [
+        "don't have to",
+        "mustn't",
+        "needn't",
+        "might not"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-033",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Take an umbrella ___ it rains later this afternoon.",
+      "explanation": "'In case' means 'as a precaution because something might happen': take it in case it rains.",
+      "wrongReasons": {
+        "0": "'unless it rains' would mean you take the umbrella only if it does not rain.",
+        "1": "'as long as' sets a condition; it does not mean 'as a precaution'.",
+        "3": "'so that' expresses purpose, not a possible future event."
+      },
+      "options": [
+        "unless",
+        "as long as",
+        "in case",
+        "so that"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-034",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Tom suggested ___ a taxi because it was raining.",
+      "explanation": "'Suggest' is followed by the -ing form (or 'that' + clause): Tom suggested taking a taxi.",
+      "wrongReasons": {
+        "1": "'suggest' is not followed by a to-infinitive.",
+        "2": "'suggest' cannot take an object + to-infinitive.",
+        "3": "The bare base form cannot follow 'suggested' directly here."
+      },
+      "options": [
+        "taking",
+        "to take",
+        "us to take",
+        "take"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-035",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The windows need ___ before the winter.",
+      "explanation": "'Need' + -ing has a passive meaning: The windows need repairing = need to be repaired.",
+      "wrongReasons": {
+        "1": "'need repair' as a verb is wrong here; we need 'repairing' or 'to be repaired'.",
+        "2": "'need to repair' is active and suggests the windows will repair something.",
+        "3": "'need' is not followed directly by a past participle in standard English."
+      },
+      "options": [
+        "repairing",
+        "repair",
+        "to repair",
+        "repaired"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-036",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "The colleague to ___ I sent the email never replied.",
+      "explanation": "After a preposition, use 'whom' for people: the colleague to whom I sent it.",
+      "wrongReasons": {
+        "0": "In formal English, 'who' is not used directly after a preposition.",
+        "1": "'that' cannot follow a preposition.",
+        "3": "'which' refers to things, not people."
+      },
+      "options": [
+        "who",
+        "that",
+        "whom",
+        "which"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-037",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "He wishes he ___ to the city; he misses the countryside.",
+      "explanation": "'Wish' + past perfect for regret about a past action: he wishes he hadn't moved.",
+      "wrongReasons": {
+        "0": "The present simple is never used after 'wish'.",
+        "2": "'wouldn't move' is about a hope for change, not a regret about the move he already made.",
+        "3": "The present perfect is not used after 'wish'."
+      },
+      "options": [
+        "doesn't move",
+        "hadn't moved",
+        "wouldn't move",
+        "hasn't moved"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-038",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "You ___ told me the meeting was cancelled! I waited for an hour.",
+      "explanation": "'Should have' + past participle criticises a past action that did not happen.",
+      "wrongReasons": {
+        "0": "'must have told' is a deduction, but you are complaining about something that did not happen.",
+        "1": "'may have told' suggests a possibility, not criticism.",
+        "2": "'need have' is not used in affirmative sentences like this."
+      },
+      "options": [
+        "must have",
+        "may have",
+        "need have",
+        "should have"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-039",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "We won't finish the project on time ___ we get extra staff.",
+      "explanation": "'Unless' means 'if not': We won't finish unless we get extra staff.",
+      "wrongReasons": {
+        "0": "'if we get extra staff' would mean the extra staff stops us finishing, which makes no sense.",
+        "1": "'provided' means 'only if' and gives an illogical meaning here.",
+        "2": "'whether' introduces alternatives, not a condition after a main clause like this."
+      },
+      "options": [
+        "if",
+        "provided",
+        "whether",
+        "unless"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-040",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "\"I can fix it,\" said the mechanic. → The mechanic said he ___ fix it.",
+      "explanation": "In reported speech 'can' usually changes to 'could': he said he could fix it.",
+      "wrongReasons": {
+        "0": "'can' is never followed by 'to'.",
+        "2": "'could have fix' is wrong; 'could have' needs a past participle and changes the meaning.",
+        "3": "'will' does not report 'can'; it changes the meaning to a future promise."
+      },
+      "options": [
+        "can to",
+        "could",
+        "could have",
+        "will"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-041",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "All the tickets ___ before we reached the box office.",
+      "explanation": "Past perfect passive: had been + past participle, for an action completed before another past action.",
+      "wrongReasons": {
+        "0": "This is active; the tickets did not sell anything.",
+        "1": "The present perfect does not fit before a past event ('reached').",
+        "3": "This is active, and 'tickets were selling' does not show they were already gone."
+      },
+      "options": [
+        "had sold",
+        "have been sold",
+        "had been sold",
+        "were selling"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-042",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "I don't understand ___ he is trying to say.",
+      "explanation": "'What' means 'the thing(s) that' and does not need a noun before it: I don't understand what he says.",
+      "wrongReasons": {
+        "1": "'that' needs a noun before it to refer to, and there is none here.",
+        "2": "'which' needs a noun or clause before it to refer to.",
+        "3": "'who' refers to people, but here we mean the thing he says."
+      },
+      "options": [
+        "what",
+        "that",
+        "which",
+        "who"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-043",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "If only you ___ me the truth from the beginning!",
+      "explanation": "'If only' + past perfect for a past regret: If only you had told me.",
+      "wrongReasons": {
+        "1": "The present simple is not used after 'if only'.",
+        "2": "The present perfect is not used after 'if only'.",
+        "3": "'will' is not used after 'if only'."
+      },
+      "options": [
+        "had told",
+        "tell",
+        "have told",
+        "will tell"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-044",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "When I was younger, I ___ run ten kilometres without stopping.",
+      "explanation": "'Could' expresses general ability in the past: I could run ten kilometres.",
+      "wrongReasons": {
+        "0": "'can' is present, but 'When I was younger' refers to the past.",
+        "1": "'was able' needs 'to' before the verb.",
+        "3": "'must' expresses obligation or deduction, not past ability."
+      },
+      "options": [
+        "can",
+        "was able",
+        "could",
+        "must"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-045",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If the volcano erupts, the villages nearby ___ immediately.",
+      "explanation": "First conditional: if + present simple, will + verb, for a real future possibility: they will be evacuated.",
+      "wrongReasons": {
+        "0": "This is a third conditional result, but the if-clause is in the present simple.",
+        "2": "The present continuous does not express the future result of a condition here.",
+        "3": "The past simple active does not fit; the villages receive the action and it is in the future."
+      },
+      "options": [
+        "would have been evacuated",
+        "will be evacuated",
+        "are evacuating",
+        "evacuated"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-046",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "The journalist asked the minister why the tax ___ raised.",
+      "explanation": "Reported questions keep statement order and usually backshift: why the tax had been raised.",
+      "wrongReasons": {
+        "0": "Do not invert the subject and verb in a reported question.",
+        "1": "This is direct question order, which is wrong in reported speech.",
+        "2": "'did raised' is not grammatical; 'did' needs a base verb and an active subject."
+      },
+      "options": [
+        "had it been",
+        "has it been",
+        "did",
+        "had been"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-047",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "This medicine must ___ out of the reach of children.",
+      "explanation": "Modal passive: modal + be + past participle: must be kept.",
+      "wrongReasons": {
+        "0": "This is active and means the medicine must keep something.",
+        "1": "After a modal we need 'be', not 'been' alone.",
+        "2": "After 'must' we need the base form 'be', not '-ing'."
+      },
+      "options": [
+        "keep",
+        "been kept",
+        "being kept",
+        "be kept"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-048",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "The scientist ___ discovered the vaccine received a major award.",
+      "explanation": "In a defining relative clause about a person as subject, use 'who' or 'that'.",
+      "wrongReasons": {
+        "0": "'whom' is an object form, but here the pronoun is the subject.",
+        "2": "'whose' needs a noun after it to show possession.",
+        "3": "'which' is for things, not people."
+      },
+      "options": [
+        "whom",
+        "who",
+        "whose",
+        "which"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-049",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish I ___ come to your wedding, but I'll be abroad.",
+      "explanation": "'Wish' + could expresses regret about ability in the present or future: I wish I could come.",
+      "wrongReasons": {
+        "0": "After 'wish' we use the past form 'could', not 'can'.",
+        "1": "'will' is not used after 'wish' with 'I'.",
+        "3": "'had come' would need a past participle and refers to the past."
+      },
+      "options": [
+        "can",
+        "will",
+        "could",
+        "had"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-050",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Despite the storm, the pilot ___ land the plane safely.",
+      "explanation": "For one specific success in the past, use 'was able to' or 'managed to', not 'could'.",
+      "wrongReasons": {
+        "1": "'could' is for general past ability; for one specific achievement use 'was able to'.",
+        "2": "'can' is present, but this happened in the past.",
+        "3": "'should' expresses advice or expectation, not a past achievement."
+      },
+      "options": [
+        "was able to",
+        "could",
+        "can",
+        "should"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-051",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "___ the referee seen the foul, he would have given a penalty.",
+      "explanation": "Inversion with 'had' replaces 'if' in the third conditional: Had the referee seen it = If the referee had seen it.",
+      "wrongReasons": {
+        "1": "'If the referee seen' is missing 'had'; you would need 'If the referee had seen'.",
+        "2": "'Should' inversion is for the future and needs a base verb, not 'seen'.",
+        "3": "'Did' needs a base verb ('see'), and it is not used for conditional inversion."
+      },
+      "options": [
+        "Had",
+        "If",
+        "Should",
+        "Did"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-052",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "She apologised for ___ the meeting.",
+      "explanation": "'Apologise for' is followed by the -ing form: She apologised for missing the meeting.",
+      "wrongReasons": {
+        "0": "A preposition like 'for' cannot be followed by a to-infinitive.",
+        "1": "After a preposition we need the -ing form, not the base verb.",
+        "3": "'for' cannot be followed by a that-clause."
+      },
+      "options": [
+        "to miss",
+        "miss",
+        "missing",
+        "that she missed"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-053",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The museum, which ___ in 1890, is now a popular tourist attraction.",
+      "explanation": "Past simple passive: was/were + past participle: it was built in 1890.",
+      "wrongReasons": {
+        "0": "'which built' is active; the museum did not build anything.",
+        "2": "The present perfect cannot be used with a past date like 1890.",
+        "3": "This is active past perfect and gives the wrong meaning."
+      },
+      "options": [
+        "built",
+        "was built",
+        "has been built",
+        "had built"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-054",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "He gave me two keys, neither of ___ opened the door.",
+      "explanation": "After quantifiers like 'neither of', 'some of', 'all of', use 'which' for things and 'whom' for people.",
+      "wrongReasons": {
+        "0": "'them' makes two main clauses joined by a comma, which is wrong.",
+        "1": "'that' cannot follow a preposition like 'of'.",
+        "2": "'whom' is for people, but keys are things."
+      },
+      "options": [
+        "them",
+        "that",
+        "whom",
+        "which"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-055",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "It's high time we ___ a decision about the budget.",
+      "explanation": "'It's (high) time' + past simple means something should happen now: It's time we made a decision.",
+      "wrongReasons": {
+        "0": "After 'It's high time' + subject we use the past simple, not the present.",
+        "1": "The present perfect is not used after 'It's high time'.",
+        "2": "'will' is not used after 'It's high time'."
+      },
+      "options": [
+        "make",
+        "have made",
+        "will make",
+        "made"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-056",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "It's a free museum, so you ___ buy a ticket.",
+      "explanation": "'Don't have to' means there is no obligation: you don't have to buy a ticket.",
+      "wrongReasons": {
+        "0": "'mustn't' means it is forbidden, but buying a ticket is simply unnecessary.",
+        "2": "'can't' means it is impossible or not allowed.",
+        "3": "'shouldn't' gives advice against it, which does not fit."
+      },
+      "options": [
+        "mustn't",
+        "don't have to",
+        "can't",
+        "shouldn't"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-057",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If you heat ice, it ___.",
+      "explanation": "Zero conditional: if + present simple, present simple, for facts that are always true: it melts.",
+      "wrongReasons": {
+        "0": "'would melt' suggests an imaginary situation, but this is a scientific fact.",
+        "1": "The past simple does not express a general truth here.",
+        "3": "The past perfect describes an earlier past action, not a fact."
+      },
+      "options": [
+        "would melt",
+        "melted",
+        "melts",
+        "had melted"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-058",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "\"You should see a doctor,\" my friend said. → My friend ___ me to see a doctor.",
+      "explanation": "'Advise' is followed by object + to-infinitive: She advised me to see a doctor.",
+      "wrongReasons": {
+        "1": "'suggested' is not followed by 'me to see'.",
+        "2": "'said' cannot take 'me' as an object directly.",
+        "3": "'insisted' is followed by 'on' + -ing or a that-clause, not object + to-infinitive."
+      },
+      "options": [
+        "advised",
+        "suggested",
+        "said",
+        "insisted"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-059",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "She hates ___ what to do by her older brother.",
+      "explanation": "Passive -ing form: being + past participle, after verbs like hate, like, avoid: hates being told.",
+      "wrongReasons": {
+        "1": "'telling' is active and means she tells others.",
+        "2": "'to tell' is active; she is the person who receives the order.",
+        "3": "'been' cannot follow 'hates' without 'having'."
+      },
+      "options": [
+        "being told",
+        "telling",
+        "to tell",
+        "been told"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-060",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "That's the reason ___ I resigned from the committee.",
+      "explanation": "'Why' is used after 'the reason' in relative clauses: the reason why I resigned.",
+      "wrongReasons": {
+        "0": "'the reason because' is incorrect English.",
+        "1": "'for that' cannot introduce a relative clause.",
+        "3": "'what' cannot follow a noun like 'the reason'."
+      },
+      "options": [
+        "because",
+        "for that",
+        "why",
+        "what"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-061",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I'd rather you ___ your shoes in the house.",
+      "explanation": "'I'd rather' + another subject + past simple for present or future preferences: I'd rather you didn't wear them.",
+      "wrongReasons": {
+        "0": "After 'I'd rather you' we use the past simple, not the present.",
+        "2": "'not wear' needs an auxiliary after 'you'.",
+        "3": "'would' is not used after 'I'd rather' + another subject."
+      },
+      "options": [
+        "don't wear",
+        "didn't wear",
+        "not wear",
+        "wouldn't wear"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-062",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "That ___ be Maria at the door; she's on holiday in Greece.",
+      "explanation": "'Can't' expresses certainty that something is impossible: That can't be Maria.",
+      "wrongReasons": {
+        "0": "'must' would mean you are sure it is Maria, which contradicts her being in Greece.",
+        "1": "'mustn't' expresses prohibition, not negative deduction.",
+        "2": "'might' says it is possible, but the holiday makes it impossible."
+      },
+      "options": [
+        "must",
+        "mustn't",
+        "might",
+        "can't"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-063",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If he had taken the medicine, he ___ so ill yesterday.",
+      "explanation": "Third conditional result: would (not) have + past participle: he wouldn't have been so ill.",
+      "wrongReasons": {
+        "0": "'wouldn't be' talks about the present, but 'yesterday' is in the past.",
+        "1": "'won't be' is a future form and does not match an unreal past.",
+        "2": "The past perfect belongs in the if-clause, not in the result."
+      },
+      "options": [
+        "wouldn't be",
+        "won't be",
+        "hadn't been",
+        "wouldn't have been"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-064",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "\"We have finished the tests,\" the scientists announced. → The scientists announced that they ___ the tests.",
+      "explanation": "The present perfect usually moves back to the past perfect in reported speech: they had finished.",
+      "wrongReasons": {
+        "0": "This is passive, but the scientists did the finishing.",
+        "2": "'would finish' changes the meaning to a future action.",
+        "3": "The past continuous suggests the tests were still in progress."
+      },
+      "options": [
+        "have been finished",
+        "had finished",
+        "would finish",
+        "were finishing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-065",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The results ___ until all the votes have been counted.",
+      "explanation": "Future simple passive: will (not) be + past participle: won't be announced.",
+      "wrongReasons": {
+        "0": "This is active; the results do not announce anything.",
+        "1": "This is active continuous and has the wrong subject role.",
+        "3": "This is active future perfect and still has the wrong subject role."
+      },
+      "options": [
+        "won't announce",
+        "aren't announcing",
+        "won't be announced",
+        "won't have announced"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-066",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "The house ___ windows were broken has finally been sold.",
+      "explanation": "'Whose' can be used for things as well as people: the house whose windows were broken.",
+      "wrongReasons": {
+        "1": "'which windows' does not show that the windows belong to the house.",
+        "2": "'who' refers to people, and 'who windows' is not grammatical.",
+        "3": "'that' cannot show possession."
+      },
+      "options": [
+        "whose",
+        "which",
+        "who",
+        "that"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-067",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "My son wishes he ___ taller so he could play basketball.",
+      "explanation": "'Wish' + past simple of 'be' for a present situation: he wishes he were (or was) taller.",
+      "wrongReasons": {
+        "1": "After 'wish' the present 'is' moves back to the past.",
+        "2": "'would be' is not normally used after 'wish' for a state of the same subject.",
+        "3": "The present perfect is not used after 'wish'."
+      },
+      "options": [
+        "were",
+        "is",
+        "would be",
+        "has been"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-068",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "The ground is wet. It ___ rained during the night.",
+      "explanation": "'Must have' + past participle expresses a strong deduction about the past.",
+      "wrongReasons": {
+        "0": "'can't have' says it certainly did not rain, which contradicts the wet ground.",
+        "1": "'should have' expresses criticism or expectation, not deduction.",
+        "3": "'needn't have' means an action was unnecessary."
+      },
+      "options": [
+        "can't have",
+        "should have",
+        "must have",
+        "needn't have"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-069",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Suppose you ___ the lottery, what would you do with the money?",
+      "explanation": "'Suppose' works like 'if' and can take the past simple for an imaginary situation: Suppose you won.",
+      "wrongReasons": {
+        "0": "'will' is not used after 'suppose' in an imaginary question with 'would'.",
+        "2": "Do not use 'would' in the condition part after 'suppose'.",
+        "3": "The present perfect does not fit an imaginary situation with 'would'."
+      },
+      "options": [
+        "will win",
+        "won",
+        "would win",
+        "have won"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-070",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "He denied ___ the documents to the press.",
+      "explanation": "'Deny' is followed by the -ing form: He denied leaking the documents.",
+      "wrongReasons": {
+        "0": "'deny' is not followed by a to-infinitive.",
+        "1": "This is ungrammatical: 'have' must be followed by a past participle.",
+        "2": "The base form cannot follow 'denied' directly."
+      },
+      "options": [
+        "to leak",
+        "to have leak",
+        "leak",
+        "leaking"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-071",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "We got our roof ___ after the storm.",
+      "explanation": "'Get something done' is an informal causative: we got our roof repaired by someone else.",
+      "wrongReasons": {
+        "0": "After 'got our roof' we need a past participle, not the base form.",
+        "1": "'get something to repair' changes the meaning and is not the causative here.",
+        "2": "'got our roof repairing' is not grammatical."
+      },
+      "options": [
+        "repair",
+        "to repair",
+        "repairing",
+        "repaired"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-072",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Everything ___ she told us turned out to be true.",
+      "explanation": "After 'everything', 'anything', 'nothing', use 'that' (or no pronoun), not 'what'.",
+      "wrongReasons": {
+        "0": "'what' already means 'the thing that', so it cannot follow 'everything'.",
+        "2": "'who' is for people.",
+        "3": "'where' is for places."
+      },
+      "options": [
+        "what",
+        "that",
+        "who",
+        "where"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-073",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish you ___ interrupting me when I'm speaking!",
+      "explanation": "'Wish' + would + verb complains about someone's annoying habit: I wish you would stop.",
+      "wrongReasons": {
+        "0": "The present simple is not used after 'wish'.",
+        "1": "The past perfect is for a past regret, but this is a present complaint.",
+        "3": "'will' is not used after 'wish'."
+      },
+      "options": [
+        "stop",
+        "had stopped",
+        "would stop",
+        "will stop"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-074",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "You ___ try the new restaurant on Main Street; the food is amazing.",
+      "explanation": "'Should' (or 'ought to') gives advice or a recommendation: You should try it.",
+      "wrongReasons": {
+        "1": "'must' is never followed by 'to'.",
+        "2": "'ought' must be followed by 'to': ought to try.",
+        "3": "'would try' does not give advice here."
+      },
+      "options": [
+        "should",
+        "must to",
+        "ought",
+        "would"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-075",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If I ___ about the strike, I wouldn't have booked the morning flight.",
+      "explanation": "Third conditional: if + past perfect for a past situation that did not happen: If I had known.",
+      "wrongReasons": {
+        "1": "'knew' gives a second conditional, but the result 'wouldn't have booked' is in the past.",
+        "2": "Do not use 'would have' in the if-clause.",
+        "3": "The present perfect is not used in the if-clause of a third conditional."
+      },
+      "options": [
+        "had known",
+        "knew",
+        "would have known",
+        "have known"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-076",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "\"I'll call you this evening,\" she said. → She said she would call me ___.",
+      "explanation": "In reported speech 'this evening' often changes to 'that evening' when the time has passed.",
+      "wrongReasons": {
+        "0": "'the evening before' refers to the past, but the call was promised for later.",
+        "1": "'tomorrow evening' changes the day she meant.",
+        "3": "'last evening' refers to the past and changes the meaning."
+      },
+      "options": [
+        "the evening before",
+        "tomorrow evening",
+        "that evening",
+        "last evening"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-077",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The match might ___ because of the heavy snow.",
+      "explanation": "Modal passive with 'might': might be + past participle: might be cancelled.",
+      "wrongReasons": {
+        "0": "This is active; the match does not cancel anything.",
+        "2": "After 'might' we need 'be' or 'have been', not 'been' alone.",
+        "3": "This is active continuous and has the wrong meaning."
+      },
+      "options": [
+        "cancel",
+        "be cancelled",
+        "been cancelled",
+        "be cancelling"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-078",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "The hotel ___ we stayed in was right next to the beach.",
+      "explanation": "When the relative pronoun is the object of a preposition at the end, use 'which' or 'that' (or omit it).",
+      "wrongReasons": {
+        "0": "'where' already includes the idea of 'in', so 'where ... in' repeats it.",
+        "1": "'who' is for people, not buildings.",
+        "2": "'whose' needs a noun after it."
+      },
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "which"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-079",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Looking back, I wish I ___ more attention in history lessons at school.",
+      "explanation": "'Wish' + past perfect for a past regret: I wish I had paid more attention.",
+      "wrongReasons": {
+        "0": "'paid' after 'wish' would talk about the present, but school is in the past.",
+        "1": "'would pay' expresses a wish for future change, not a past regret.",
+        "2": "The present perfect is not used after 'wish'."
+      },
+      "options": [
+        "paid",
+        "would pay",
+        "have paid",
+        "had paid"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-080",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "I ___ to wear a uniform at my old school, but now I can wear what I like.",
+      "explanation": "'Had to' is the past of 'must' / 'have to' for obligation: I had to wear a uniform.",
+      "wrongReasons": {
+        "0": "'must' has no past form and is not followed by 'to'.",
+        "2": "'should' is not followed by 'to', and it expresses advice.",
+        "3": "'have to' is present, but 'at my old school' refers to the past."
+      },
+      "options": [
+        "must",
+        "had to",
+        "should",
+        "have"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-081",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "I'll lend you the car on condition that you ___ carefully.",
+      "explanation": "After 'on condition that' we use the present simple for the future: on condition that you drive carefully.",
+      "wrongReasons": {
+        "0": "We do not normally use 'will' after condition words like 'on condition that'.",
+        "1": "'would' does not fit with 'I'll' in a real future condition.",
+        "3": "The past simple would make the condition unreal, but 'I'll' shows a real offer."
+      },
+      "options": [
+        "will drive",
+        "would drive",
+        "drive",
+        "drove"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-082",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "The teacher wanted to know ___ finished the essay.",
+      "explanation": "In reported questions with 'who' as the subject, the order is who + verb: who had finished.",
+      "wrongReasons": {
+        "1": "'who did finished' is ungrammatical; 'did' needs a base verb.",
+        "2": "The question word must come first in a reported question.",
+        "3": "'whose' shows possession and needs a noun after it."
+      },
+      "options": [
+        "who had",
+        "who did",
+        "had who",
+        "whose had"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-083",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "A cure for the disease ___ yet.",
+      "explanation": "Present perfect passive: has/have been + past participle; negative with 'yet': hasn't been found yet.",
+      "wrongReasons": {
+        "1": "This is active, and the past simple does not usually go with 'yet' here.",
+        "2": "This is active; a cure cannot find anything.",
+        "3": "The past continuous passive does not fit with 'yet'."
+      },
+      "options": [
+        "hasn't been found",
+        "didn't find",
+        "hasn't found",
+        "wasn't being found"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-084",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "The players, most of ___ were exhausted, still won the match.",
+      "explanation": "After 'most of', 'all of', 'some of' in a relative clause, use 'whom' for people.",
+      "wrongReasons": {
+        "0": "'most of them' would create a separate clause without a linking word.",
+        "1": "After a preposition like 'of', we need 'whom', not 'who'.",
+        "3": "'which' refers to things, not people."
+      },
+      "options": [
+        "them",
+        "who",
+        "whom",
+        "which"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-085",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "If only the weather ___ better; we could have a picnic.",
+      "explanation": "'If only' + past simple for a wish about the present: If only the weather were better.",
+      "wrongReasons": {
+        "0": "After 'if only' for the present we use a past form, not 'is'.",
+        "2": "'had been' refers to the past, but 'we could have a picnic' is about now.",
+        "3": "'will' is not used after 'if only' in this way."
+      },
+      "options": [
+        "is",
+        "were",
+        "had been",
+        "will be"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-086",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Sam isn't answering his phone. He ___ be driving.",
+      "explanation": "'Might/may/could' + be + -ing expresses a present possibility: He might be driving.",
+      "wrongReasons": {
+        "0": "'can' is not used for a specific present possibility like this.",
+        "1": "'should be driving' suggests expectation or duty, not a guess.",
+        "2": "'would be driving' needs a condition."
+      },
+      "options": [
+        "can",
+        "should",
+        "would",
+        "might"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-087",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If the shop ___ open on Sundays, I would do my shopping then.",
+      "explanation": "In the second conditional 'were' is used for all persons, especially in careful English: If the shop were open.",
+      "wrongReasons": {
+        "0": "'is' belongs to the first conditional, but the result clause uses 'would'.",
+        "1": "Do not use 'would' in the if-clause.",
+        "2": "'had been' is for a past condition, but the sentence is about the present."
+      },
+      "options": [
+        "is",
+        "would be",
+        "had been",
+        "were"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-088",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "The landlord reminded us ___ the rent by Friday.",
+      "explanation": "'Remind' is followed by object + to-infinitive: He reminded us to pay.",
+      "wrongReasons": {
+        "0": "'remind someone' is followed by a to-infinitive, not '-ing'.",
+        "2": "A that-clause needs a subject and a correct verb: that we paid / that we should pay.",
+        "3": "The base form cannot follow 'reminded us' directly."
+      },
+      "options": [
+        "paying",
+        "to pay",
+        "that pay",
+        "pay"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-089",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The castle is thought ___ in the twelfth century.",
+      "explanation": "'Be thought' + perfect infinitive for a past action: is thought to have been built.",
+      "wrongReasons": {
+        "0": "This is active and present; the castle did not build anything.",
+        "1": "This is active continuous and makes no sense here.",
+        "3": "This is active; the castle needs a passive infinitive."
+      },
+      "options": [
+        "to build",
+        "to be building",
+        "to have been built",
+        "to have built"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-090",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "The book, ___ was written in 1950, has never been out of print.",
+      "explanation": "In an extra-information clause between commas about a thing, use 'which', not 'that'.",
+      "wrongReasons": {
+        "1": "'that' is not used in relative clauses between commas.",
+        "2": "'what' cannot refer back to a noun like 'the book'.",
+        "3": "'who' is for people, not books."
+      },
+      "options": [
+        "which",
+        "that",
+        "what",
+        "who"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-091",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "I wish I ___ so much money on clothes last month.",
+      "explanation": "'Wish' + past perfect for regret: I wish I hadn't spent so much.",
+      "wrongReasons": {
+        "1": "The past simple after 'wish' refers to the present; 'last month' needs the past perfect.",
+        "2": "The present simple is never used after 'wish'.",
+        "3": "'wouldn't spend' refers to future behaviour, not last month."
+      },
+      "options": [
+        "hadn't spent",
+        "didn't spend",
+        "don't spend",
+        "wouldn't spend"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-092",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "___ I borrow your notes from yesterday's lecture?",
+      "explanation": "'Could I...?' is a polite way to ask for permission.",
+      "wrongReasons": {
+        "0": "'Must I' asks about obligation, not permission.",
+        "1": "'Should I' asks for advice, not permission to borrow.",
+        "3": "'Would I' is not used to ask for permission."
+      },
+      "options": [
+        "Must",
+        "Should",
+        "Could",
+        "Would"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-093",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "But for his quick thinking, the boat ___.",
+      "explanation": "'But for' means 'if it hadn't been for' and is followed by a third conditional result: the boat would have sunk.",
+      "wrongReasons": {
+        "0": "'will sink' refers to the future, but the quick thinking already happened.",
+        "2": "'sank' says the boat really sank, which contradicts 'but for his quick thinking'.",
+        "3": "The past perfect alone cannot express an imaginary result."
+      },
+      "options": [
+        "will sink",
+        "would have sunk",
+        "sank",
+        "had sunk"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-094",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "\"Shall I open the window?\" he asked. → He ___ to open the window.",
+      "explanation": "An offer with 'Shall I...?' is usually reported with 'offer' + to-infinitive: He offered to open it.",
+      "wrongReasons": {
+        "0": "'suggested' is not followed by a to-infinitive.",
+        "1": "'told' needs an object before the to-infinitive: told someone to...",
+        "2": "'asked me to open' reports a request to me, not his offer."
+      },
+      "options": [
+        "suggested",
+        "told",
+        "asked me",
+        "offered"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-095",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Visitors ___ to take photos inside the cathedral.",
+      "explanation": "'Allow' can be passive: be (not) allowed + to-infinitive: Visitors are not allowed to take photos.",
+      "wrongReasons": {
+        "0": "This is active and means the visitors do not allow others.",
+        "1": "'let' is not used in the passive in this way.",
+        "2": "This is active and has the wrong meaning."
+      },
+      "options": [
+        "do not allow",
+        "are not let",
+        "have not allowed",
+        "are not allowed"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-096",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Anyone ___ wants to join the trip should sign up by Friday.",
+      "explanation": "After 'anyone' as a person, use 'who' (or 'that') as the subject pronoun: Anyone who wants...",
+      "wrongReasons": {
+        "0": "'whose' needs a noun after it, like 'whose name'.",
+        "2": "'whom' is an object form; here we need a subject.",
+        "3": "'what' cannot follow a noun or pronoun like 'anyone'."
+      },
+      "options": [
+        "whose",
+        "who",
+        "whom",
+        "what"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-097",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "She wishes her boss ___ her more freedom to work from home.",
+      "explanation": "'Wish' + someone + would expresses a desire that another person changes their behaviour: she wishes he would give.",
+      "wrongReasons": {
+        "0": "The present simple is not used after 'wish'.",
+        "1": "'will' is not used after 'wish'.",
+        "3": "The present perfect is not used after 'wish'."
+      },
+      "options": [
+        "gives",
+        "will give",
+        "would give",
+        "has given"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-098",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "The concert was free, so we ___ have paid for those tickets online.",
+      "explanation": "'Needn't have' + past participle: we did something that was not necessary.",
+      "wrongReasons": {
+        "1": "'mustn't have' is not used to talk about unnecessary past actions.",
+        "2": "'can't have paid' is a deduction that we did not pay, but we did.",
+        "3": "'hadn't to' is not a correct form in modern English."
+      },
+      "options": [
+        "needn't have",
+        "mustn't have",
+        "can't have",
+        "hadn't to"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-099",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If we leave now, we ___ the last bus.",
+      "explanation": "First conditional: if + present simple, will/might/can + verb: we will catch it.",
+      "wrongReasons": {
+        "1": "This is a third conditional result and does not match 'If we leave now'.",
+        "2": "The past simple does not express a future result.",
+        "3": "After 'would' we need the base verb, so 'would caught' is never correct."
+      },
+      "options": [
+        "will catch",
+        "would have caught",
+        "caught",
+        "would caught"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-100",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "She told me she ___ to Paris the previous summer.",
+      "explanation": "The past simple often becomes the past perfect in reported speech, especially with 'the previous...': she had moved.",
+      "wrongReasons": {
+        "0": "The present perfect does not fit with 'the previous summer'.",
+        "1": "The present simple does not describe a finished past event.",
+        "3": "'would move' refers to the future from that point, not the previous summer."
+      },
+      "options": [
+        "has moved",
+        "moves",
+        "had moved",
+        "would move"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-101",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "The documents were ___ to the wrong address.",
+      "explanation": "Past simple passive: were + past participle; the past participle of 'send' is 'sent'.",
+      "wrongReasons": {
+        "0": "After 'were' in the passive we need a past participle, not the base form.",
+        "2": "'were sending' is active and needs someone to do the sending.",
+        "3": "'send' is irregular: the past participle is 'sent'."
+      },
+      "options": [
+        "send",
+        "sent",
+        "sending",
+        "sended"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-102",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "The period ___ the castle was built was full of wars.",
+      "explanation": "'During which' / 'when' introduces a time; here 'during which' fits the preposition structure.",
+      "wrongReasons": {
+        "0": "'which' alone is wrong here; a time phrase needs a preposition, such as 'during which'.",
+        "1": "'where' is for places, not periods of time.",
+        "2": "'that' cannot follow a preposition."
+      },
+      "options": [
+        "which",
+        "where",
+        "during that",
+        "during which"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-103",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Do you ever wish you ___ in a different century?",
+      "explanation": "'Wish' + past simple for an imaginary present situation: Do you wish you lived in another century?",
+      "wrongReasons": {
+        "0": "After 'wish' we use the past simple, not the present.",
+        "1": "'will' is not used after 'wish'.",
+        "2": "The present continuous is not used after 'wish'."
+      },
+      "options": [
+        "live",
+        "will live",
+        "are living",
+        "lived"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-104",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Employees ___ wear safety helmets on the building site; it's the law.",
+      "explanation": "'Must' or 'have to' expresses strong obligation, such as a law or rule.",
+      "wrongReasons": {
+        "0": "'may' expresses permission or possibility, not obligation.",
+        "2": "'could' expresses possibility or ability, not obligation.",
+        "3": "'needn't' means it is not necessary, the opposite of a legal rule."
+      },
+      "options": [
+        "may",
+        "must",
+        "could",
+        "needn't"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-105",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "If they had invested in solar panels years ago, their bills ___ much lower today.",
+      "explanation": "Mixed conditional: past condition (had invested) with a present result (would be ... today).",
+      "wrongReasons": {
+        "0": "'will be' is for a real future result, but the condition is an unreal past.",
+        "1": "The past perfect does not fit the result clause, especially with 'today'.",
+        "3": "'are' states a fact; it does not express an imaginary result."
+      },
+      "options": [
+        "will be",
+        "had been",
+        "would be",
+        "are"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-106",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "The coach accused the players ___ lazy.",
+      "explanation": "'Accuse' is followed by object + 'of' + -ing: accused them of being lazy.",
+      "wrongReasons": {
+        "1": "'accuse' takes the preposition 'of', not 'for'.",
+        "2": "'accuse' is not followed by a to-infinitive.",
+        "3": "'accuse someone' is not followed by a that-clause."
+      },
+      "options": [
+        "of being",
+        "for being",
+        "to be",
+        "that they are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-107",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "He was made ___ for over an hour at the border.",
+      "explanation": "In the passive, 'make' is followed by a to-infinitive: He was made to wait.",
+      "wrongReasons": {
+        "1": "In the active we say 'made him wait', but the passive needs 'to'.",
+        "2": "'be made' is not followed by '-ing'.",
+        "3": "'was made waited' is not grammatical."
+      },
+      "options": [
+        "to wait",
+        "wait",
+        "waiting",
+        "waited"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-108",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "The film, ___ I had heard so many good things, was a big disappointment.",
+      "explanation": "When the verb needs a preposition (hear about something), the preposition can go before 'which': about which I had heard.",
+      "wrongReasons": {
+        "0": "'hear so many good things which' is missing the preposition 'about'.",
+        "1": "'that' cannot follow a preposition.",
+        "3": "'what' cannot refer back to a noun like 'the film'."
+      },
+      "options": [
+        "which",
+        "about that",
+        "about which",
+        "what"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-109",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "If only I ___ to the doctor sooner; the injury wouldn't be so serious now.",
+      "explanation": "Past regret (had gone) with a present result (wouldn't be ... now).",
+      "wrongReasons": {
+        "0": "'went' after 'if only' refers to the present, but the visit is a past action.",
+        "2": "The present simple is not used after 'if only'.",
+        "3": "'would go' does not express regret about a past action."
+      },
+      "options": [
+        "went",
+        "had gone",
+        "go",
+        "would go"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-110",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "He ___ have got lost; he has a GPS and knows the area well.",
+      "explanation": "'Can't/couldn't have' + past participle: we are sure something did not happen.",
+      "wrongReasons": {
+        "0": "'must have' would mean you are sure he got lost, which contradicts the reasons given.",
+        "1": "'might have' says it is possible, but the GPS makes it very unlikely.",
+        "2": "'should have got lost' suggests getting lost was expected or a good idea."
+      },
+      "options": [
+        "must have",
+        "might have",
+        "should have",
+        "can't have"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-111",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "We ___ be late for the interview, so let's leave early.",
+      "explanation": "'Mustn't' expresses something important not to do: We mustn't be late.",
+      "wrongReasons": {
+        "0": "'don't have to be late' means being late is not necessary, which makes no sense.",
+        "1": "'needn't be late' means there is no need to be late, which is illogical.",
+        "2": "'couldn't be late' refers to impossibility or past ability."
+      },
+      "options": [
+        "don't have to",
+        "needn't",
+        "couldn't",
+        "mustn't"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-112",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "The outdoor meeting was ___ because the manager was ill.",
+      "explanation": "'Call off' means to cancel an event: They called off the match because of the snow.",
+      "wrongReasons": {
+        "1": "'call up' means to phone someone or to order someone to join the army.",
+        "2": "'call in' means to ask an expert to come and help, for example a plumber.",
+        "3": "'call for' means to demand or need something, e.g. 'The situation calls for action.'"
+      },
+      "options": [
+        "called off",
+        "called up",
+        "called in",
+        "called for"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-113",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "___ the heavy rain, the match went ahead as planned.",
+      "explanation": "'Despite' + noun or -ing expresses contrast: Despite the cold, we went swimming.",
+      "wrongReasons": {
+        "0": "'Although' must be followed by a full clause with a verb, e.g. 'Although it rained heavily'.",
+        "1": "'However' links two separate sentences; it cannot be followed directly by a noun phrase.",
+        "3": "'Because of' shows a reason, but the rain did not cause the match to go ahead."
+      },
+      "options": [
+        "Although",
+        "However",
+        "Despite",
+        "Because of"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-114",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "I'm looking forward to ___ you at the conference next week.",
+      "explanation": "'Look forward to' is followed by -ing because 'to' is a preposition: I look forward to hearing from you.",
+      "wrongReasons": {
+        "0": "In 'look forward to', 'to' is a preposition, so it is followed by -ing, not the base form.",
+        "2": "A past simple form cannot follow a preposition.",
+        "3": "A perfect infinitive does not follow 'look forward to'; use the -ing form."
+      },
+      "options": [
+        "see",
+        "seeing",
+        "saw",
+        "have seen"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-115",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "When I arrived at the station, the train ___, so I had to wait an hour for the next one.",
+      "explanation": "Use the past perfect for an action completed before another past action: When we got there, the shop had closed.",
+      "wrongReasons": {
+        "0": "The present perfect connects to the present; the story is in the past, so use the past perfect.",
+        "1": "The present simple cannot describe a finished action in a past story.",
+        "2": "'would' is used for future in the past or habits, not for an action completed before another."
+      },
+      "options": [
+        "has already left",
+        "already leaves",
+        "would already leave",
+        "had already left"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-116",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Look at those dark clouds! It ___ rain.",
+      "explanation": "Use 'be going to' for predictions based on present evidence: Be careful, you're going to fall!",
+      "wrongReasons": {
+        "0": "'will' is used for predictions based on opinion; with clear evidence in front of you, use 'going to'.",
+        "1": "'would' is used for conditionals or the future in the past, not for a prediction about now.",
+        "2": "'shall' is mainly used with I/we for offers and suggestions, not with 'it'."
+      },
+      "options": [
+        "will",
+        "would",
+        "shall",
+        "is going to"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-117",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Could you ___ me a favour and post this letter?",
+      "explanation": "The fixed collocation is 'do someone a favour': Can you do me a favour and feed the cat?",
+      "wrongReasons": {
+        "0": "We say 'do someone a favour', not 'make'.",
+        "2": "'give' does not collocate with 'favour' in this expression.",
+        "3": "'take a favour' is not an English expression."
+      },
+      "options": [
+        "make",
+        "do",
+        "give",
+        "take"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-118",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "I can't ___ with the noise from the building site any longer.",
+      "explanation": "'Put up with' means to tolerate something unpleasant: I can't put up with his rudeness.",
+      "wrongReasons": {
+        "1": "'put off' means to postpone or to make someone not want something; it is not followed by 'with'.",
+        "2": "'put down' means to place something on a surface or to criticise someone.",
+        "3": "'put away' means to return something to the place where it is kept."
+      },
+      "options": [
+        "put up",
+        "put off",
+        "put down",
+        "put away"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-119",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "She was very tired; ___, she stayed up to finish her essay.",
+      "explanation": "'Nevertheless' means 'in spite of this' and links two contrasting ideas: It was expensive; nevertheless, we bought it.",
+      "wrongReasons": {
+        "0": "'therefore' introduces a result, but staying up is not a result of being tired.",
+        "1": "'because' introduces a reason and cannot follow a semicolon and a comma like this.",
+        "3": "'despite' must be followed by a noun or -ing form, not by a comma and a clause."
+      },
+      "options": [
+        "therefore",
+        "because",
+        "nevertheless",
+        "despite"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-120",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "The tenant refused ___ the contract without reading it first.",
+      "explanation": "'Refuse' + to-infinitive: He refused to answer the question.",
+      "wrongReasons": {
+        "0": "'refuse' is followed by the infinitive with 'to', not by -ing.",
+        "2": "'refuse' needs 'to' before the verb.",
+        "3": "After 'refuse', 'to' is part of the infinitive, so it takes the base form, not -ing."
+      },
+      "options": [
+        "signing",
+        "to sign",
+        "sign",
+        "to signing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-121",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "While she ___ dinner, the lights suddenly went out.",
+      "explanation": "Use the past continuous for a longer background action interrupted by a short one: While I was reading, the phone rang.",
+      "wrongReasons": {
+        "1": "The present continuous does not match the past verb 'went out'.",
+        "2": "The present perfect cannot describe a background action in a past story.",
+        "3": "'would' describes past habits, not an action in progress when something happened."
+      },
+      "options": [
+        "was cooking",
+        "is cooking",
+        "has cooked",
+        "would cook"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-122",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "I ___ my dentist at 10 o'clock tomorrow; the appointment is all arranged.",
+      "explanation": "Use the present continuous for fixed personal arrangements: We're meeting Tom for lunch on Friday.",
+      "wrongReasons": {
+        "0": "'would' is not used for a fixed personal arrangement in the future.",
+        "1": "The past simple cannot refer to 'tomorrow'.",
+        "3": "The present perfect cannot be used with a future time like 'tomorrow'."
+      },
+      "options": [
+        "would see",
+        "saw",
+        "am seeing",
+        "have seen"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-123",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "The family company ___ a profit of two million euros last year.",
+      "explanation": "The collocation is 'make a profit / make a loss': The shop made a loss in its first year.",
+      "wrongReasons": {
+        "0": "'do a profit' is not correct; profits are 'made'.",
+        "1": "You 'win' a prize or a game, not a profit.",
+        "2": "'take a profit' is not the normal collocation for earning money in business."
+      },
+      "options": [
+        "did",
+        "won",
+        "took",
+        "made"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-124",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Scientists are trying to ___ why the bees are disappearing.",
+      "explanation": "'Figure out' means to understand or find the answer to something: I finally figured out how the machine works.",
+      "wrongReasons": {
+        "1": "'carry out' means to perform a task, e.g. 'carry out an experiment'; it is not followed by a 'why' clause.",
+        "2": "'give out' means to distribute things to people, e.g. leaflets.",
+        "3": "'make up' means to invent a story or excuse, which does not fit a scientific question."
+      },
+      "options": [
+        "figure out",
+        "carry out",
+        "give out",
+        "make up"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-125",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "He took a taxi ___ he wouldn't miss the flight.",
+      "explanation": "'So that' + subject + can/could/would expresses purpose: I left early so that I wouldn't be late.",
+      "wrongReasons": {
+        "0": "'in order to' must be followed by a base verb, not by a subject and 'would'.",
+        "1": "'in case' means as a precaution against something that might happen, so 'in case he wouldn't miss' makes no sense.",
+        "3": "'unless' means 'except if', which gives the wrong meaning here."
+      },
+      "options": [
+        "in order to",
+        "in case",
+        "so that",
+        "unless"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-126",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Do you mind ___ the window? It's cold in here.",
+      "explanation": "'Mind' is followed by -ing: Would you mind waiting a moment?",
+      "wrongReasons": {
+        "0": "'mind' is followed by -ing, not by the to-infinitive.",
+        "2": "'mind' cannot be followed by the base form of a verb.",
+        "3": "A past participle does not follow 'Do you mind' in a request."
+      },
+      "options": [
+        "to close",
+        "closing",
+        "close",
+        "closed"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-127",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "The hikers ___ for three hours when the rescue team finally found them.",
+      "explanation": "Use the past perfect continuous for an activity that continued up to a point in the past: She had been waiting for an hour when he arrived.",
+      "wrongReasons": {
+        "0": "The past continuous does not express a duration ('for three hours') up to a past moment.",
+        "1": "The present perfect continuous connects to now, not to a moment in the past.",
+        "2": "The present simple cannot describe this past situation."
+      },
+      "options": [
+        "were walking",
+        "have been walking",
+        "walk",
+        "had been walking"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-128",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "According to the timetable, the train to Edinburgh ___ at 7.45 tomorrow morning.",
+      "explanation": "Use the present simple for timetables and schedules: The concert starts at eight.",
+      "wrongReasons": {
+        "0": "The past simple cannot refer to 'tomorrow morning'.",
+        "1": "The present perfect does not refer to a scheduled future event.",
+        "2": "'would' is not used for official timetables in the future."
+      },
+      "options": [
+        "left",
+        "has left",
+        "would leave",
+        "leaves"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-129",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Since moving to Madrid, Hannah ___ a lot of progress with her Spanish.",
+      "explanation": "The collocation is 'make progress': The patient is making good progress.",
+      "wrongReasons": {
+        "0": "We say 'make progress', not 'do progress'.",
+        "2": "'take progress' is not an English collocation.",
+        "3": "'have progress' is not used; the verb is 'make'."
+      },
+      "options": [
+        "has done",
+        "has made",
+        "has taken",
+        "has had"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-130",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Our car ___ on the motorway, so we had to call a mechanic.",
+      "explanation": "'Break down' means to stop working, for machines and vehicles: The lift broke down again.",
+      "wrongReasons": {
+        "1": "'break up' means to end a relationship or to separate into pieces.",
+        "2": "'break out' is used when a war, fire or disease starts suddenly.",
+        "3": "'break in' means to enter a building by force, usually to steal."
+      },
+      "options": [
+        "broke down",
+        "broke up",
+        "broke out",
+        "broke in"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-131",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Pack a warm jumper ___ it gets cold in the mountains at night.",
+      "explanation": "'In case' means 'as a precaution because something might happen': Take some money in case you need a taxi.",
+      "wrongReasons": {
+        "0": "'so that' expresses purpose, but you do not pack a jumper in order to make the weather cold.",
+        "1": "'unless' means 'except if', so the sentence would tell you to pack the jumper only if it does not get cold.",
+        "3": "'even though' expresses contrast with a fact, not a precaution for a possible event."
+      },
+      "options": [
+        "so that",
+        "unless",
+        "in case",
+        "even though"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-132",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "He managed ___ the driving test despite feeling very nervous.",
+      "explanation": "'Manage' + to-infinitive means to succeed in doing something difficult: She managed to open the jar.",
+      "wrongReasons": {
+        "0": "'manage' is followed by the to-infinitive, not by -ing.",
+        "2": "'manage' needs 'to' before the base verb.",
+        "3": "In 'manage to', 'to' is part of the infinitive, so the verb stays in the base form."
+      },
+      "options": [
+        "passing",
+        "to pass",
+        "pass",
+        "to passing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-133",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "By the time the police arrived, the thieves ___.",
+      "explanation": "'By the time' + past simple is usually followed by the past perfect: By the time I woke up, everyone had gone.",
+      "wrongReasons": {
+        "1": "'By the time' + past simple needs the past perfect in the other clause to show the escape happened first.",
+        "2": "The present perfect does not fit a story that is completely in the past.",
+        "3": "The past continuous suggests the escape was in progress, but 'by the time' shows it was already complete."
+      },
+      "options": [
+        "had escaped",
+        "escaped",
+        "have escaped",
+        "were escaping"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-134",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "'The phone's ringing.' 'Don't worry, I ___ it.'",
+      "explanation": "Use 'will' for decisions made at the moment of speaking: 'It's cold.' 'I'll close the window.'",
+      "wrongReasons": {
+        "0": "'going to' is for plans made before now, but this decision is made at the moment of speaking.",
+        "1": "The present simple is not used for an instant decision about the next few seconds.",
+        "3": "The past simple does not fit because the action has not happened yet."
+      },
+      "options": [
+        "am going to get",
+        "get",
+        "will get",
+        "got"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-135",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "I always ___ my best in exams, even when I'm nervous.",
+      "explanation": "The fixed expression is 'do your best' (try as hard as possible): Just do your best in the interview.",
+      "wrongReasons": {
+        "0": "The expression is 'do your best', not 'make your best'.",
+        "1": "'put your best' is incomplete and not a fixed expression.",
+        "2": "'keep your best' does not mean trying as hard as you can."
+      },
+      "options": [
+        "make",
+        "put",
+        "keep",
+        "do"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-136",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Lucy really ___ her grandmother; they have the same smile and the same sense of humour.",
+      "explanation": "'Take after' means to look or behave like an older relative: He takes after his father.",
+      "wrongReasons": {
+        "1": "'look after' means to take care of someone; it does not explain why they share a smile.",
+        "2": "'get over' means to recover from an illness or a disappointment.",
+        "3": "'bring up' means to raise a child or to mention a topic."
+      },
+      "options": [
+        "takes after",
+        "looks after",
+        "gets over",
+        "brings up"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-137",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "___ having little experience, Marco got the job.",
+      "explanation": "'In spite of' + noun or -ing expresses contrast: In spite of feeling ill, she went to work.",
+      "wrongReasons": {
+        "0": "'Even though' needs a subject and verb, e.g. 'Even though he had little experience'.",
+        "1": "'Although' cannot be followed directly by an -ing form; it needs a full clause.",
+        "3": "'Whereas' compares two different facts or people and needs a full clause."
+      },
+      "options": [
+        "Even though",
+        "Although",
+        "In spite of",
+        "Whereas"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-138",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "I remember ___ this castle when I was a child; it hasn't changed at all.",
+      "explanation": "'Remember' + -ing refers to a memory of something you did: I remember meeting her at a party.",
+      "wrongReasons": {
+        "0": "'remember to do' means not forgetting a future duty, but here it is a memory of the past.",
+        "2": "'remember' is not followed by the base form of a verb.",
+        "3": "This form is incorrect; a memory of a past action is expressed with 'remember' + -ing."
+      },
+      "options": [
+        "to visit",
+        "visiting",
+        "visit",
+        "to have visit"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-139",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "I ___ along the beach when I found an old bottle with a message inside.",
+      "explanation": "Use the past continuous for an action in progress when something else happened: We were driving home when we saw the accident.",
+      "wrongReasons": {
+        "0": "The present perfect cannot be used for the background of a past story.",
+        "1": "The present simple does not fit with the past verb 'found'.",
+        "2": "The past perfect shows a finished earlier action, not the activity in progress when I found the bottle."
+      },
+      "options": [
+        "have walked",
+        "walk",
+        "had walked",
+        "was walking"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-140",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "This time next week, we ___ on a beach in Greece.",
+      "explanation": "Use the future continuous for an action in progress at a certain time in the future: At 9 p.m. I'll be watching the match.",
+      "wrongReasons": {
+        "0": "'will' + base form does not show an action in progress at a specific future moment.",
+        "1": "The present continuous cannot be used with 'This time next week' for an action in progress then.",
+        "2": "The present simple does not describe an action in progress in the future."
+      },
+      "options": [
+        "will lie",
+        "are lying",
+        "lie",
+        "will be lying"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-141",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "The government has promised to ___ action on air pollution.",
+      "explanation": "The collocation is 'take action' (do something to solve a problem): We must take action before it's too late.",
+      "wrongReasons": {
+        "0": "We say 'take action', not 'make action'.",
+        "2": "'do action' is not an English collocation.",
+        "3": "'put action' is not used; the verb is 'take'."
+      },
+      "options": [
+        "make",
+        "take",
+        "do",
+        "put"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-142",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Because of falling sales, the company has decided to ___ 200 workers.",
+      "explanation": "'Lay off' means to stop employing workers because there is not enough work: The factory laid off half its staff.",
+      "wrongReasons": {
+        "1": "'take on' means to employ new people, which is the opposite of what falling sales cause.",
+        "2": "'turn down' means to refuse an offer or to reduce the volume.",
+        "3": "'set up' means to start a business or organisation."
+      },
+      "options": [
+        "lay off",
+        "take on",
+        "turn down",
+        "set up"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-143",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "You won't be allowed in ___ you show your ticket.",
+      "explanation": "'Unless' means 'except if' / 'if ... not': You won't pass unless you study.",
+      "wrongReasons": {
+        "0": "With 'if' the sentence means showing your ticket stops you from entering, which is illogical.",
+        "1": "'in case' expresses a precaution, not a condition for entry.",
+        "3": "'although' expresses contrast, but there is no contrast between entering and showing a ticket."
+      },
+      "options": [
+        "if",
+        "in case",
+        "unless",
+        "although"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-144",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Please remember ___ the lights before you leave the office.",
+      "explanation": "'Remember' + to-infinitive means not forgetting to do something: Remember to lock the door.",
+      "wrongReasons": {
+        "0": "'remember' + -ing is for memories of the past, not for a task you must do.",
+        "2": "'remember' needs 'to' before a verb when it refers to a future task.",
+        "3": "After 'remember to', the verb must be in the base form, not -ing."
+      },
+      "options": [
+        "turning off",
+        "to turn off",
+        "turn off",
+        "to turning off"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-145",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Ana was exhausted because she ___ all night for her exam.",
+      "explanation": "Use the past perfect continuous to explain a past result: His eyes were red because he had been crying.",
+      "wrongReasons": {
+        "1": "The present perfect continuous connects to now, but 'was exhausted' places the story in the past.",
+        "2": "The present continuous does not explain a past situation.",
+        "3": "The present simple describes habits, not a long activity before a past moment."
+      },
+      "options": [
+        "had been studying",
+        "has been studying",
+        "is studying",
+        "studies"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-146",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "By the end of this year, Mrs Okafor ___ at the hospital for twenty years.",
+      "explanation": "Use the future perfect for something completed before a future time: By June, I will have finished my degree.",
+      "wrongReasons": {
+        "0": "'will work' does not show a period of time completed before a future point.",
+        "1": "The present continuous does not express a duration up to a future moment.",
+        "3": "The present simple cannot express a period completed by 'the end of this year'."
+      },
+      "options": [
+        "will work",
+        "is working",
+        "will have worked",
+        "works"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-147",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Please ___ attention to the safety instructions.",
+      "explanation": "The collocation is 'pay attention to': Pay attention to the road when you drive.",
+      "wrongReasons": {
+        "0": "'make attention' is not correct; the verb is 'pay'.",
+        "1": "'take attention' is not an English collocation.",
+        "2": "'do attention' is not used in English."
+      },
+      "options": [
+        "make",
+        "take",
+        "do",
+        "pay"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-148",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "If you don't know a word, you can ___ in a dictionary.",
+      "explanation": "'Look up' means to find information in a book or online; a pronoun goes in the middle: look it up.",
+      "wrongReasons": {
+        "1": "With a separable phrasal verb, a pronoun like 'it' must go between the verb and the particle.",
+        "2": "'look after' means to take care of; it is inseparable and does not mean searching for information.",
+        "3": "'look into' means to investigate a problem, and the pronoun cannot go in the middle."
+      },
+      "options": [
+        "look it up",
+        "look up it",
+        "look it after",
+        "look it into"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-149",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "My brother loves spicy food, ___ I can't stand it.",
+      "explanation": "'Whereas' contrasts two different facts: I prefer tea, whereas my wife prefers coffee.",
+      "wrongReasons": {
+        "0": "'despite' must be followed by a noun or -ing form, not by a full clause.",
+        "1": "'so' introduces a result, but my dislike is not a result of my brother's taste.",
+        "3": "'as a result' shows a consequence, but my dislike of spicy food is not caused by my brother's taste."
+      },
+      "options": [
+        "despite",
+        "so",
+        "whereas",
+        "as a result"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-150",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "The doctor advised him ___ more exercise.",
+      "explanation": "'Advise' + object + to-infinitive: She advised me to see a lawyer.",
+      "wrongReasons": {
+        "0": "When 'advise' has a person as object, it is followed by the to-infinitive, not -ing.",
+        "2": "'advise someone' needs 'to' before the base verb.",
+        "3": "'advise him that' is not the normal pattern for giving a recommendation; use 'advise him to'."
+      },
+      "options": [
+        "taking",
+        "to take",
+        "take",
+        "that he takes"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-151",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "As soon as he got home, he ___ his parents to tell them the news.",
+      "explanation": "Use the past simple for a sequence of completed past actions: She opened the letter and read it.",
+      "wrongReasons": {
+        "0": "The past perfect continuous describes an activity before 'got home', not the next action.",
+        "1": "The past continuous does not describe a quick action that happened immediately after another.",
+        "2": "The present perfect cannot be used in a sequence of finished past events."
+      },
+      "options": [
+        "had been phoning",
+        "was phoning",
+        "has phoned",
+        "phoned"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-152",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "I'll call you as soon as I ___ at the hotel.",
+      "explanation": "In future time clauses after 'as soon as', 'when', 'before', use the present simple: I'll tell him when he arrives.",
+      "wrongReasons": {
+        "0": "After time words like 'as soon as', we do not use 'will' even when we talk about the future.",
+        "1": "'going to' is not used after 'as soon as' in future time clauses.",
+        "2": "'would' does not fit in a future time clause linked to 'I'll call'."
+      },
+      "options": [
+        "will arrive",
+        "am going to arrive",
+        "would arrive",
+        "arrive"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-153",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Our team has only a ___ chance of winning, but we'll try our best.",
+      "explanation": "A 'slim chance' is a very small possibility: There's a slim chance that the shop is still open.",
+      "wrongReasons": {
+        "0": "'thin' describes people or objects, not a small chance.",
+        "2": "'light' describes weight or colour, not probability.",
+        "3": "'short' describes length or time, not how likely something is."
+      },
+      "options": [
+        "thin",
+        "slim",
+        "light",
+        "short"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-154",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "The fire alarm ___ in the middle of the exam, and everyone had to leave the hall.",
+      "explanation": "'Go off' is used when an alarm or a bomb suddenly makes a noise or explodes: My alarm goes off at six.",
+      "wrongReasons": {
+        "1": "'go out' is used when a fire or a light stops burning or shining.",
+        "2": "'go on' means to continue, which does not describe an alarm starting to ring.",
+        "3": "'go over' means to check or examine something carefully."
+      },
+      "options": [
+        "went off",
+        "went out",
+        "went on",
+        "went over"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-155",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "The roads were icy. ___, several schools closed for the day.",
+      "explanation": "'As a result' introduces a consequence of the previous sentence: He missed the bus. As a result, he was late.",
+      "wrongReasons": {
+        "0": "'However' introduces a contrast, but closing schools is a logical result of icy roads.",
+        "1": "'Although' joins two clauses in the same sentence and cannot be used like this before a comma.",
+        "3": "'Despite this' suggests something unexpected happened, which is not the case here."
+      },
+      "options": [
+        "However",
+        "Although",
+        "As a result",
+        "Despite this"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-156",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "The guards made us ___ for two hours outside the embassy.",
+      "explanation": "'Make' + object + base form means to force someone: My mum made me tidy my room.",
+      "wrongReasons": {
+        "0": "In the active, 'make + object' is followed by the base form without 'to'.",
+        "2": "'make someone' is not followed by -ing.",
+        "3": "The past participle is not used after 'make + object' in this meaning."
+      },
+      "options": [
+        "to wait",
+        "wait",
+        "waiting",
+        "waited"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-157",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "It was the first time I ___ snow, so I was really excited.",
+      "explanation": "After 'It was the first time', use the past perfect: It was the first time she had flown alone.",
+      "wrongReasons": {
+        "1": "'It is the first time' takes the present perfect, but 'It was the first time' takes the past perfect.",
+        "2": "The past continuous is not used for an experience after 'the first time'.",
+        "3": "The present simple does not fit after 'It was the first time'."
+      },
+      "options": [
+        "had seen",
+        "have seen",
+        "was seeing",
+        "see"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-158",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "We'd better hurry: the film is ___ start.",
+      "explanation": "'Be about to' + base form means something will happen very soon: Quick, the bus is about to leave!",
+      "wrongReasons": {
+        "0": "'going' needs 'to' before the verb: 'is going to start'.",
+        "1": "'due' needs 'to' before a verb: 'is due to start'.",
+        "3": "'be near to' is not used before a verb to talk about the immediate future."
+      },
+      "options": [
+        "going",
+        "due",
+        "about to",
+        "near to"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-159",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "There was ___ traffic on the way to work this morning, so I was late.",
+      "explanation": "'Heavy' collocates with traffic, rain and smoker to mean 'a lot of': There was heavy rain all night.",
+      "wrongReasons": {
+        "0": "We say 'heavy traffic', not 'strong traffic'.",
+        "1": "'big traffic' is not a natural collocation.",
+        "2": "'hard' does not collocate with 'traffic'."
+      },
+      "options": [
+        "strong",
+        "big",
+        "hard",
+        "heavy"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-160",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "I've been working too hard. I need to ___ a few days and relax.",
+      "explanation": "'Take (time) off' means to have a break from work: She took two weeks off in August.",
+      "wrongReasons": {
+        "1": "'take up' means to start a new hobby or activity, e.g. 'take up yoga'.",
+        "2": "'take over' means to gain control of a company or a task.",
+        "3": "'take in' means to understand information or to trick someone."
+      },
+      "options": [
+        "take off",
+        "take up",
+        "take over",
+        "take in"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-161",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "___ you've finished the test, you may leave the room.",
+      "explanation": "'Once' means 'as soon as / after': Once you've paid, you'll receive a receipt.",
+      "wrongReasons": {
+        "0": "'Until' means 'up to the time when', so it would mean you may leave only before you finish.",
+        "1": "'Unless' means 'except if', which gives an illogical meaning here.",
+        "3": "'Even if' introduces a condition that does not change the result, which does not make sense here."
+      },
+      "options": [
+        "Until",
+        "Unless",
+        "Once",
+        "Even if"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-162",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "On the way to the airport, we stopped ___ a coffee at a service station.",
+      "explanation": "'Stop' + to-infinitive means to stop one activity in order to do another: We stopped to buy petrol.",
+      "wrongReasons": {
+        "0": "'stop' + -ing means to quit an activity, which makes no sense with one coffee on a journey.",
+        "2": "'stop' is not followed by the base form of a verb.",
+        "3": "'stop to' expressing purpose is followed by the base form, not -ing."
+      },
+      "options": [
+        "having",
+        "to have",
+        "have",
+        "to having"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-163",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "We ___ dinner when my sister rang, so I didn't answer the phone.",
+      "explanation": "Use the past continuous for an action in progress when another action interrupted it: I was having a shower when the doorbell rang.",
+      "wrongReasons": {
+        "0": "The past simple suggests we started dinner after she rang, not that we were in the middle of it.",
+        "1": "The present perfect does not fit a story in the past.",
+        "2": "The present continuous does not match the past verb 'rang'."
+      },
+      "options": [
+        "had",
+        "have had",
+        "are having",
+        "were having"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-164",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "By the time you get this letter, I ___ the country.",
+      "explanation": "Use the future perfect with 'by the time' for an action completed before a future moment: By the time you arrive, we will have eaten.",
+      "wrongReasons": {
+        "0": "'will leave' suggests I leave after you get the letter, but 'by the time' needs a completed action.",
+        "1": "The present simple does not express an action completed before a future moment.",
+        "2": "The present continuous describes an arrangement, not something already completed by a future point."
+      },
+      "options": [
+        "will leave",
+        "leave",
+        "am leaving",
+        "will have left"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-165",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "The castle ___ thousands of visitors every summer.",
+      "explanation": "To 'attract' visitors means to make them want to come: The beaches attract tourists from all over Europe.",
+      "wrongReasons": {
+        "0": "'call' means to phone or name someone, not to make people want to come.",
+        "2": "'invite' means to ask someone personally to come, which a castle cannot do.",
+        "3": "'persuade' needs a person as object and usually 'to' + verb, e.g. 'persuade someone to come'."
+      },
+      "options": [
+        "calls",
+        "attracts",
+        "invites",
+        "persuades"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-166",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "We've ___ milk. Can you buy some on your way home?",
+      "explanation": "'Run out of' means to have no more of something left: We ran out of petrol near the border.",
+      "wrongReasons": {
+        "1": "'run into' means to meet someone by chance.",
+        "2": "'run over' means to hit a person or animal with a vehicle.",
+        "3": "'run away from' means to escape from a person or place."
+      },
+      "options": [
+        "run out of",
+        "run into",
+        "run over",
+        "run away from"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-167",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "I'll lend you my car ___ you drive carefully.",
+      "explanation": "'Provided that' means 'only if': You can stay provided that you help with the cooking.",
+      "wrongReasons": {
+        "0": "'unless' would mean you can have the car only if you don't drive carefully.",
+        "1": "'in case' expresses a precaution, not a condition you must meet.",
+        "3": "'even though' expresses contrast with a fact, not a condition."
+      },
+      "options": [
+        "unless",
+        "in case",
+        "provided that",
+        "even though"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-168",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "I'd rather ___ at home tonight than go to the cinema.",
+      "explanation": "'Would rather' + base form expresses preference: I'd rather walk than take the bus.",
+      "wrongReasons": {
+        "0": "'would rather' is followed by the base form without 'to'.",
+        "2": "'would rather' is not followed by -ing.",
+        "3": "'would rather' + past simple is only used when it is followed by a different subject, e.g. 'I'd rather you stayed'."
+      },
+      "options": [
+        "to stay",
+        "stay",
+        "staying",
+        "stayed"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-169",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Marek didn't recognise his old school because it ___ completely.",
+      "explanation": "Use the past perfect passive for something done before a past moment: The road was closed because a tree had been blown down.",
+      "wrongReasons": {
+        "1": "This active form means the school was rebuilding something; a building is rebuilt by people.",
+        "2": "The present perfect does not fit after the past verb 'didn't recognise'.",
+        "3": "This active form makes the school the doer of the action, which is illogical."
+      },
+      "options": [
+        "had been rebuilt",
+        "was rebuilding",
+        "has been rebuilt",
+        "rebuilt"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-170",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Don't phone me at eight; I ___ my favourite programme then.",
+      "explanation": "Use the future continuous for an activity in progress at a given future time: Tomorrow at noon I'll be flying to Rome.",
+      "wrongReasons": {
+        "0": "'will watch' does not show that the activity will already be in progress at eight.",
+        "1": "The present simple does not describe an action in progress at a future time.",
+        "3": "The future perfect would mean the programme is already finished at eight."
+      },
+      "options": [
+        "will watch",
+        "watch",
+        "will be watching",
+        "will have watched"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-171",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "I'm afraid I ___ a mistake in your bill; let me correct it.",
+      "explanation": "The collocation is 'make a mistake': Everyone makes mistakes when learning a language.",
+      "wrongReasons": {
+        "0": "We say 'make a mistake', not 'do a mistake'.",
+        "1": "'have a mistake' is not the normal collocation.",
+        "2": "'take a mistake' is not used in English."
+      },
+      "options": [
+        "did",
+        "had",
+        "took",
+        "made"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-172",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "The plan to build a new stadium ___ when the investors withdrew their money.",
+      "explanation": "'Fall through' means that a plan or deal fails and does not happen: The sale of the house fell through.",
+      "wrongReasons": {
+        "1": "'fall out' means to have an argument and stop being friends.",
+        "2": "'fall behind' means to fail to keep up with others or with a schedule.",
+        "3": "'fall for' means to be attracted to someone or to be tricked by something."
+      },
+      "options": [
+        "fell through",
+        "fell out",
+        "fell behind",
+        "fell for"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-173",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "The flat is small; ___, it is very bright and has a lovely view.",
+      "explanation": "'However' introduces a contrast with the previous statement: The hotel was old; however, it was very clean.",
+      "wrongReasons": {
+        "0": "'moreover' adds a similar point, but 'bright' is a positive point that contrasts with 'small'.",
+        "1": "'therefore' introduces a result, but being small does not make a flat bright.",
+        "3": "'for example' introduces an example of the previous idea, which does not fit here."
+      },
+      "options": [
+        "moreover",
+        "therefore",
+        "however",
+        "for example"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-174",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "It's no use ___ about it now; the decision has already been made.",
+      "explanation": "'It's no use' + -ing means something is pointless: It's no use crying over spilt milk.",
+      "wrongReasons": {
+        "0": "The expression 'It's no use' is followed by -ing, not the to-infinitive.",
+        "2": "'It's no use' cannot be followed by the base form.",
+        "3": "A past form does not follow 'It's no use'."
+      },
+      "options": [
+        "to complain",
+        "complaining",
+        "complain",
+        "complained"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-175",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "I didn't go to the cinema with them because I ___ the film the week before.",
+      "explanation": "Use the past perfect for an earlier past action that explains a later one: I wasn't hungry because I had eaten.",
+      "wrongReasons": {
+        "0": "The present perfect cannot be used with a finished past time like 'the week before'.",
+        "1": "'see' meaning 'watch a film' is a completed action here, not one in progress.",
+        "2": "The present simple does not refer to a finished action before another past event."
+      },
+      "options": [
+        "have seen",
+        "was seeing",
+        "see",
+        "had seen"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-176",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "According to officials, the President ___ visit the flooded region later today.",
+      "explanation": "'Be to' + base form is used in formal language for official plans: The minister is to open the new bridge on Monday.",
+      "wrongReasons": {
+        "0": "'be about' needs 'to' before the verb: 'is about to visit'.",
+        "1": "'will' is followed by the base form without 'to'.",
+        "2": "'be going' needs 'to' before the verb: 'is going to visit'."
+      },
+      "options": [
+        "is about",
+        "will to",
+        "is going",
+        "is to"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-177",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "The bride's father ___ a moving speech at the wedding.",
+      "explanation": "The collocation is 'give / make a speech': The director gave a short speech to the staff.",
+      "wrongReasons": {
+        "0": "'tell' collocates with stories, jokes and lies, not with speeches.",
+        "2": "'say' is not used with 'a speech' as its object.",
+        "3": "'speak' is intransitive here; you 'speak at' an event, not 'speak a speech'."
+      },
+      "options": [
+        "told",
+        "gave",
+        "said",
+        "spoke"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-178",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "The police are ___ the robbery at the jewellery shop.",
+      "explanation": "'Look into' means to investigate: The council is looking into the complaints.",
+      "wrongReasons": {
+        "1": "'look after' means to take care of someone or something, not to investigate a crime.",
+        "2": "'look forward to' means to feel happy about something in the future.",
+        "3": "'look up to' means to admire and respect a person."
+      },
+      "options": [
+        "looking into",
+        "looking after",
+        "looking forward to",
+        "looking up to"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-179",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "___ the train was delayed, we arrived at the wedding on time.",
+      "explanation": "'Even though' + clause expresses a strong contrast: Even though she was tired, she kept running.",
+      "wrongReasons": {
+        "0": "'Despite' must be followed by a noun or -ing form, not by a full clause.",
+        "1": "'Because' shows a reason, but a delay does not cause you to arrive on time.",
+        "3": "'In spite of' needs a noun or -ing form, e.g. 'In spite of the delay'."
+      },
+      "options": [
+        "Despite",
+        "Because",
+        "Even though",
+        "In spite of"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-180",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "My parents let me ___ my own clothes when I was ten.",
+      "explanation": "'Let' + object + base form means to allow: They let us use their kitchen.",
+      "wrongReasons": {
+        "0": "'let + object' is followed by the base form without 'to'.",
+        "2": "'let someone' is not followed by -ing.",
+        "3": "After 'let me' you need the base form, not the past simple."
+      },
+      "options": [
+        "to choose",
+        "choose",
+        "choosing",
+        "chose"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-181",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "What ___ when the accident happened?",
+      "explanation": "Use the past continuous to ask about an activity in progress at a past moment: What were you doing at 8 p.m. last night?",
+      "wrongReasons": {
+        "1": "'did you do' asks about your reaction after the accident, not about the activity in progress at that moment.",
+        "2": "The past perfect asks about something finished before the accident, which does not fit here.",
+        "3": "The present perfect does not fit with the past simple 'happened'."
+      },
+      "options": [
+        "were you doing",
+        "did you do",
+        "had you done",
+        "have you done"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-182",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "I promise I ___ tell anyone your secret.",
+      "explanation": "Use 'will / won't' for promises: I'll pay you back tomorrow, I promise.",
+      "wrongReasons": {
+        "0": "The present simple 'don't' is not used to make a promise about the future.",
+        "1": "'wouldn't' is conditional or past and does not fit after 'I promise' in the present.",
+        "3": "The present perfect refers to the past, not to a future promise."
+      },
+      "options": [
+        "don't",
+        "wouldn't",
+        "won't",
+        "haven't"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-183",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "The hikers ___ their way in the fog and had to call for help.",
+      "explanation": "To 'lose your way' means to get lost: We lost our way in the old part of the city.",
+      "wrongReasons": {
+        "0": "You 'miss' a bus or a chance, but you 'lose' your way.",
+        "1": "'forget your way' is not the fixed expression for getting lost.",
+        "2": "'drop' means to let something fall, which does not fit 'way'."
+      },
+      "options": [
+        "missed",
+        "forgot",
+        "dropped",
+        "lost"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-184",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "He ___ smoking last year after his doctor warned him about his lungs.",
+      "explanation": "'Give up' + -ing means to stop doing a habit: She gave up eating meat two years ago.",
+      "wrongReasons": {
+        "1": "'give in' means to stop resisting and accept defeat; it does not take an object like 'smoking'.",
+        "2": "'give away' means to give something for free or to reveal a secret.",
+        "3": "'give out' means to distribute something or to stop working because of age."
+      },
+      "options": [
+        "gave up",
+        "gave in",
+        "gave away",
+        "gave out"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-185",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "She speaks French and German, ___ a little Japanese.",
+      "explanation": "'As well as' + noun means 'and also': He plays the guitar as well as the piano.",
+      "wrongReasons": {
+        "0": "'as well' normally goes at the end of a clause and cannot introduce a noun like this.",
+        "1": "'in addition' needs 'to' before a noun: 'in addition to a little Japanese'.",
+        "3": "'besides' is never followed by 'of'."
+      },
+      "options": [
+        "as well",
+        "in addition",
+        "as well as",
+        "besides of"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-186",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "At the end of the session, Paula suggested ___ the meeting until Friday.",
+      "explanation": "'Suggest' + -ing (or 'suggest that' + clause): He suggested going to the beach.",
+      "wrongReasons": {
+        "0": "'suggest' is not followed by the to-infinitive.",
+        "2": "'suggest' cannot be followed by object + to-infinitive; say 'suggested that we postpone'.",
+        "3": "'suggest' is not followed directly by the base form of a verb."
+      },
+      "options": [
+        "to postpone",
+        "postponing",
+        "us to postpone",
+        "postpone"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-187",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Sarah ___ in Paris for ten years before she moved to Rome.",
+      "explanation": "Use the past perfect for a period that ended before another past event: He had worked there for years before he retired.",
+      "wrongReasons": {
+        "0": "The present perfect connects to the present, but she no longer lives in Paris.",
+        "1": "The past continuous is not normally used with a completed period like 'for ten years before'.",
+        "2": "The present simple does not describe a completed period in the past."
+      },
+      "options": [
+        "has lived",
+        "was living",
+        "lives",
+        "had lived"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-188",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "___ I carry that heavy box for you?",
+      "explanation": "Use 'Shall I / Shall we' for offers and suggestions: Shall I make some tea?",
+      "wrongReasons": {
+        "0": "'Will I...?' asks about the future, not offering help; offers with 'I' use 'Shall'.",
+        "1": "'Do I carry...?' asks about a habit, not an offer.",
+        "2": "'Am' cannot be followed by the base form 'carry'."
+      },
+      "options": [
+        "Will",
+        "Do",
+        "Am",
+        "Shall"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-189",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "I ___ the bus this morning, so I was late for work.",
+      "explanation": "To 'miss' a bus, train or plane means to arrive too late to catch it: Hurry or we'll miss the train.",
+      "wrongReasons": {
+        "0": "You 'lose' an object you can't find; when you arrive too late for transport, you 'miss' it.",
+        "2": "'fail' is used for exams or attempts, not for transport.",
+        "3": "'pass the bus' means to go past it, which would not make you late."
+      },
+      "options": [
+        "lost",
+        "missed",
+        "failed",
+        "passed"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-190",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Could you ___ at the station at six? My train arrives then.",
+      "explanation": "'Pick someone up' means to collect someone, usually by car: I'll pick you up after school.",
+      "wrongReasons": {
+        "1": "A pronoun object must go between the verb and the particle: pick me up, not pick up me.",
+        "2": "'pick off' means to shoot or remove people one by one; it has nothing to do with collecting someone.",
+        "3": "'get someone up' means to wake someone and make them get out of bed."
+      },
+      "options": [
+        "pick me up",
+        "pick up me",
+        "pick me off",
+        "get me up"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-191",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "We should leave now; ___, we'll miss the beginning of the play.",
+      "explanation": "'Otherwise' means 'if not / or else': Hurry up; otherwise, we'll be late.",
+      "wrongReasons": {
+        "0": "'unless' needs a clause directly after it and cannot follow a semicolon with a comma like this.",
+        "1": "'however' introduces a contrast, but missing the play is a consequence of not leaving.",
+        "3": "'in case' expresses a precaution and must be followed directly by a clause."
+      },
+      "options": [
+        "unless",
+        "however",
+        "otherwise",
+        "in case"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-192",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "I can't afford ___ a new laptop this year.",
+      "explanation": "'Afford' + to-infinitive: We can't afford to go on holiday this summer.",
+      "wrongReasons": {
+        "0": "'afford' is followed by the to-infinitive, not -ing.",
+        "2": "'afford' needs 'to' before the base verb.",
+        "3": "In 'afford to', 'to' is part of the infinitive, so it is followed by the base form."
+      },
+      "options": [
+        "buying",
+        "to buy",
+        "buy",
+        "to buying"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-193",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Just as the plane ___ off, a passenger stood up and started shouting.",
+      "explanation": "'Just as' + past continuous shows an action in progress at the exact moment of another event: Just as I was leaving, it started to rain.",
+      "wrongReasons": {
+        "1": "The present perfect does not fit in a past narrative with 'stood up'.",
+        "2": "'had took' is incorrect; the past participle of 'take' is 'taken'.",
+        "3": "The present simple does not match the past verbs in this story."
+      },
+      "options": [
+        "was taking",
+        "has taken",
+        "had took",
+        "takes"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-194",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Once you ___ your homework, you can go out and play.",
+      "explanation": "After time words like 'once' and 'when', use the present perfect to stress that an action is complete: When you have read the book, give it back.",
+      "wrongReasons": {
+        "0": "After 'once' in a future time clause, we do not use 'will'.",
+        "1": "The future perfect is not used after 'once' in a time clause.",
+        "3": "'would' does not fit with the present 'you can go out'."
+      },
+      "options": [
+        "will finish",
+        "will have finished",
+        "have finished",
+        "would finish"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-195",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "The lecture was so ___ that half the students fell asleep.",
+      "explanation": "'-ing' adjectives describe the thing that causes a feeling: The film was boring, so we were bored.",
+      "wrongReasons": {
+        "0": "'-ed' adjectives describe how a person feels; a lecture cannot feel bored.",
+        "1": "An amusing lecture would make students laugh, not fall asleep.",
+        "2": "A thrilling lecture would be exciting, which contradicts falling asleep."
+      },
+      "options": [
+        "bored",
+        "amusing",
+        "thrilling",
+        "boring"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-196",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "After the argument, it took the two sisters weeks to ___ and become friends again.",
+      "explanation": "'Make up' (with someone) means to become friends again after an argument: They argued but made up the next day.",
+      "wrongReasons": {
+        "1": "'make out' means to see or hear something with difficulty.",
+        "2": "'make for' means to move towards a place.",
+        "3": "'make off' means to leave quickly, usually after stealing something."
+      },
+      "options": [
+        "make up",
+        "make out",
+        "make for",
+        "make off"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-197",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "The law was changed ___ protect children online.",
+      "explanation": "'In order to' + base verb expresses purpose: She saved money in order to buy a car.",
+      "wrongReasons": {
+        "0": "'so that' must be followed by a subject and a verb, e.g. 'so that children are protected'.",
+        "1": "'for' is followed by a noun or -ing form, not by a base verb, to express purpose.",
+        "3": "'so as' needs 'to' before the verb: 'so as to protect'."
+      },
+      "options": [
+        "so that",
+        "for",
+        "in order to",
+        "so as"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-198",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "The cashier denied ___ the money from the till.",
+      "explanation": "'Deny' + -ing means to say you did not do something: He denied breaking the window.",
+      "wrongReasons": {
+        "0": "'deny' is followed by -ing, not the to-infinitive.",
+        "2": "'deny' is not followed by the base form of a verb.",
+        "3": "This form is incorrect; 'deny' takes -ing or 'having' + past participle."
+      },
+      "options": [
+        "to take",
+        "taking",
+        "take",
+        "to have take"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-199",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "When I opened the fridge, I saw that someone ___ my cake.",
+      "explanation": "Use the past perfect for something that happened before the moment you discovered it: I realised I had left my keys at home.",
+      "wrongReasons": {
+        "0": "The present perfect does not fit after the past verbs 'opened' and 'saw'.",
+        "1": "The past continuous would mean someone was eating it at that moment, inside the fridge.",
+        "2": "The present simple describes habits, not a past action discovered later."
+      },
+      "options": [
+        "has eaten",
+        "was eating",
+        "eats",
+        "had eaten"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-200",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Next year my grandparents ___ married for forty years.",
+      "explanation": "Use the future perfect for a period that will be complete at a future time: In May, I will have been here for a year.",
+      "wrongReasons": {
+        "0": "The present continuous of 'be' does not express a period up to a future time.",
+        "1": "The present perfect refers to a period up to now, not up to next year.",
+        "2": "'will have' needs a past participle: 'will have been'."
+      },
+      "options": [
+        "are being",
+        "have been",
+        "will have",
+        "will have been"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-201",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Her new job ___ a lot of travelling abroad.",
+      "explanation": "'Involve' + noun / -ing means to include something as a necessary part: The course involves a lot of reading.",
+      "wrongReasons": {
+        "0": "'contain' is used for things physically inside something, e.g. a box contains books.",
+        "2": "'consist' needs 'of' and describes the parts something is made of.",
+        "3": "'compose' means to write music or poetry."
+      },
+      "options": [
+        "contains",
+        "involves",
+        "consists",
+        "composes"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-202",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Don't ___ until tomorrow what you can do today.",
+      "explanation": "'Put off' means to delay doing something: He kept putting off his visit to the dentist.",
+      "wrongReasons": {
+        "1": "'put out' means to stop a fire or a cigarette burning.",
+        "2": "'put on' means to dress yourself in clothes or to switch on a device.",
+        "3": "'put through' means to connect someone on the phone."
+      },
+      "options": [
+        "put off",
+        "put out",
+        "put on",
+        "put through"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-203",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "We waited for hours, but ___ the concert was cancelled.",
+      "explanation": "'In the end' means 'finally, after a long time or a lot of changes': We discussed it for weeks, and in the end we decided to move.",
+      "wrongReasons": {
+        "0": "'at the end' refers to the final part of something and needs 'of', e.g. 'at the end of the day'.",
+        "1": "'at last' expresses relief that something we wanted finally happened, and nobody wanted a cancellation.",
+        "3": "'lastly' introduces the final item in a list of points."
+      },
+      "options": [
+        "at the end",
+        "at last",
+        "in the end",
+        "lastly"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-204",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "I regret ___ you that your application has been unsuccessful.",
+      "explanation": "'Regret' + to-infinitive is used to give bad news politely: We regret to inform you that the flight is cancelled.",
+      "wrongReasons": {
+        "0": "'regret' + -ing means you are sorry about something you did in the past, not about news you are giving now.",
+        "2": "'regret' is not followed by the base form of a verb.",
+        "3": "After 'regret to', the verb must be in the base form."
+      },
+      "options": [
+        "telling",
+        "to tell",
+        "tell",
+        "to telling"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-205",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "The sun ___ and the birds were singing as we set off on our walk.",
+      "explanation": "Use the past continuous to describe the background scene of a story: It was snowing and people were hurrying home.",
+      "wrongReasons": {
+        "1": "The present perfect does not fit a past description with 'were singing'.",
+        "2": "The present perfect continuous connects to now, not to a past scene.",
+        "3": "The present continuous does not match the past tense of the story."
+      },
+      "options": [
+        "was shining",
+        "has shone",
+        "has been shining",
+        "is shining"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-206",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "The board is likely ___ the proposal at next week's meeting.",
+      "explanation": "'Be likely to' + base form expresses future probability: It's likely to snow tonight.",
+      "wrongReasons": {
+        "0": "'be likely' is followed by the to-infinitive, not -ing.",
+        "1": "'be likely' needs 'to' before the base verb.",
+        "3": "In 'be likely to', the verb after 'to' must be in the base form."
+      },
+      "options": [
+        "accepting",
+        "accept",
+        "to accept",
+        "to accepting"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-207",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "The heavy rain ___ serious damage to the crops.",
+      "explanation": "The collocation is 'cause damage / cause problems': The storm caused damage to many homes.",
+      "wrongReasons": {
+        "0": "'make damage' is not a natural collocation; we 'cause' damage.",
+        "1": "'give damage' is not used in English.",
+        "2": "'bring damage' is not the standard collocation for harm to something."
+      },
+      "options": [
+        "made",
+        "gave",
+        "brought",
+        "caused"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-208",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Thousands of fans ___ for the free concert in the park.",
+      "explanation": "'Turn up' means to arrive or appear, often unexpectedly: Only five people turned up for the meeting.",
+      "wrongReasons": {
+        "1": "'turn down' means to refuse an offer or to lower the volume.",
+        "2": "'turn off' means to switch off a machine or a light.",
+        "3": "'turn into' means to change and become something different; it needs an object."
+      },
+      "options": [
+        "turned up",
+        "turned down",
+        "turned off",
+        "turned into"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-209",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Not only ___ the best player in the team, but she is also the captain.",
+      "explanation": "When 'Not only' starts a sentence, use question word order: Not only is he clever, but he is also kind.",
+      "wrongReasons": {
+        "0": "After 'Not only' at the start of a sentence, the subject and verb must be inverted.",
+        "1": "'be' does not need the auxiliary 'do' in inversion.",
+        "3": "This uses the wrong auxiliary and does not invert the subject and verb."
+      },
+      "options": [
+        "she is",
+        "does she",
+        "is she",
+        "she does"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-210",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "After the mistake, we were made ___ the whole form again.",
+      "explanation": "In the passive, 'make' takes the to-infinitive: He was made to apologise.",
+      "wrongReasons": {
+        "0": "In the passive, 'be made' is followed by the to-infinitive, not the base form.",
+        "2": "'be made' is not followed by -ing.",
+        "3": "A past participle cannot follow 'were made' in this meaning."
+      },
+      "options": [
+        "fill in",
+        "to fill in",
+        "filling in",
+        "filled in"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-211",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Tom ___ for the key for an hour before he realised it was in his pocket.",
+      "explanation": "Use the past perfect continuous for a long activity before a past moment: They had been arguing for hours before they agreed.",
+      "wrongReasons": {
+        "0": "The present perfect continuous connects to now, but the story is in the past.",
+        "1": "The present simple does not describe a long past activity.",
+        "2": "The present perfect cannot be used for a period that ended in the past."
+      },
+      "options": [
+        "has been looking",
+        "looks",
+        "has looked",
+        "had been looking"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-212",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "I've finally decided: I ___ a new job. I've already started looking at adverts.",
+      "explanation": "Use 'be going to' for plans and intentions decided before speaking: I'm going to learn Spanish next year.",
+      "wrongReasons": {
+        "0": "'will' is for decisions made at the moment of speaking, but this decision was made earlier.",
+        "1": "The present simple does not express a personal plan or intention.",
+        "2": "'would' is used in conditionals, not to state a firm intention."
+      },
+      "options": [
+        "will look for",
+        "look for",
+        "would look for",
+        "am going to look for"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-213",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "She was ___ to find out that she had won the competition.",
+      "explanation": "'Delighted' means very pleased and describes a person's feeling: I'm delighted to meet you.",
+      "wrongReasons": {
+        "0": "'delightful' describes something that causes pleasure, not how a person feels.",
+        "2": "'delight' is a noun or verb, not an adjective after 'was'.",
+        "3": "'delighting' is a verb form and cannot describe her feelings here."
+      },
+      "options": [
+        "delightful",
+        "delighted",
+        "delight",
+        "delighting"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-214",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "The engineers need to ___ a solution before the bridge can reopen.",
+      "explanation": "'Come up with' means to think of an idea, plan or solution: She came up with a brilliant name for the shop.",
+      "wrongReasons": {
+        "1": "'come down with' means to become ill with something, e.g. a cold.",
+        "2": "'catch up with' means to reach the same level or place as someone ahead of you.",
+        "3": "'put up with' means to tolerate something unpleasant, not to think of an idea."
+      },
+      "options": [
+        "come up with",
+        "come down with",
+        "catch up with",
+        "put up with"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-215",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "___ you agree with her or not, you have to admit she's an excellent speaker.",
+      "explanation": "'Whether ... or not' means it makes no difference which is true: Whether it rains or not, we're going out.",
+      "wrongReasons": {
+        "0": "'If ... or not' at the start of a sentence is not correct here; use 'whether ... or not'.",
+        "1": "'Either' is used with 'or' to choose between two things, not with 'or not'.",
+        "3": "'Unless' means 'except if' and cannot be used with 'or not'."
+      },
+      "options": [
+        "If",
+        "Either",
+        "Whether",
+        "Unless"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-216",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "She's used to ___ up early, so the 6 a.m. start doesn't bother her.",
+      "explanation": "'Be used to' + -ing means to be familiar with something: I'm used to working at night.",
+      "wrongReasons": {
+        "0": "In 'be used to', 'to' is a preposition, so it is followed by -ing, not the base form.",
+        "2": "A past form cannot follow the preposition 'to'.",
+        "3": "'be used to' is followed by -ing or a noun, not by a perfect form."
+      },
+      "options": [
+        "get",
+        "getting",
+        "got",
+        "have got"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-mc-217",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "When the film ended, everyone ___ the cinema quickly.",
+      "explanation": "Use 'when' + past simple + past simple for one action happening right after another: When the bell rang, the students went out.",
+      "wrongReasons": {
+        "1": "The past perfect would mean people left before the film ended, which contradicts 'When the film ended'.",
+        "2": "The present perfect does not fit with the past simple 'ended'.",
+        "3": "The present simple does not describe a single past event."
+      },
+      "options": [
+        "left",
+        "had left",
+        "has left",
+        "leaves"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-mc-218",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "I think Spain ___ win the match tonight.",
+      "explanation": "Use 'will' after 'I think', 'probably' and 'I'm sure' for predictions based on opinion: I think it will be a great party.",
+      "wrongReasons": {
+        "0": "The present continuous is for arrangements, and nobody can arrange the result of a match.",
+        "1": "The present simple is not used after 'I think' for an opinion about the future.",
+        "3": "'be to' is for formal official plans, not for personal predictions."
+      },
+      "options": [
+        "is winning",
+        "wins",
+        "will",
+        "is to"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-mc-219",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "I'm ___ in learning more about the photography course.",
+      "explanation": "'Interested in' + noun or -ing describes a person's feeling: He's interested in history.",
+      "wrongReasons": {
+        "0": "'interesting' describes the thing that causes interest, not the person who feels it.",
+        "1": "'keen' is followed by 'on', not 'in': 'keen on learning'.",
+        "2": "'fond' is followed by 'of', not 'in', and means liking something already."
+      },
+      "options": [
+        "interesting",
+        "keen",
+        "fond",
+        "interested"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-mc-220",
+      "type": "multiple-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "The outdoor festival was cancelled ___ the singer's illness.",
+      "explanation": "'Due to' + noun gives a reason: The flight was delayed due to fog.",
+      "wrongReasons": {
+        "1": "'because' must be followed by a clause; before a noun you need 'because of'.",
+        "2": "'owing' needs 'to' before a noun: 'owing to the singer's illness'.",
+        "3": "'as' giving a reason must be followed by a subject and verb, not a noun phrase."
+      },
+      "options": [
+        "due to",
+        "because",
+        "owing",
+        "as"
+      ],
+      "correct": 0
     }
   ]
 }

@@ -89,6 +89,4723 @@
           "are"
         ]
       ]
+    },
+    {
+      "id": "a1-fb-006",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "text": "I ___ ten years old today.",
+      "answers": [
+        [
+          "am"
+        ]
+      ],
+      "explanation": "Use \"am\" with I: I am ten years old.",
+      "wrongReasons": {
+        "is": "\"is\" is used with he, she and it.",
+        "are": "\"are\" is used with we, you and they."
+      }
+    },
+    {
+      "id": "a1-fb-007",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "text": "My dog ___ a long tail.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "explanation": "Use \"has\" with he, she and it: My dog has a long tail.",
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we and they."
+      }
+    },
+    {
+      "id": "a1-fb-008",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "text": "There ___ a park near my house.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "explanation": "Use \"is\" with one thing: There is a park.",
+      "wrongReasons": {
+        "are": "\"are\" is used with plural nouns. \"a park\" is singular."
+      }
+    },
+    {
+      "id": "a1-fb-009",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence.",
+      "text": "The book is ___ the table.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "explanation": "Use \"on\" for something touching the top of a surface: on the table.",
+      "wrongReasons": {
+        "in": "\"in\" means inside something.",
+        "at": "\"at\" is used for places like at school, not for a surface."
+      }
+    },
+    {
+      "id": "a1-fb-010",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence.",
+      "text": "They ___ football every Sunday.",
+      "answers": [
+        [
+          "play"
+        ]
+      ],
+      "explanation": "With they use the base verb: They play.",
+      "wrongReasons": {
+        "plays": "\"plays\" is only used with he, she and it.",
+        "playing": "\"playing\" needs \"are\": They are playing."
+      }
+    },
+    {
+      "id": "a1-fb-011",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence.",
+      "text": "We love ___ teacher.",
+      "answers": [
+        [
+          "our"
+        ]
+      ],
+      "explanation": "Use \"our\" for things that belong to we: our teacher.",
+      "wrongReasons": {
+        "my": "\"my\" belongs to I only.",
+        "their": "\"their\" belongs to they, not to we."
+      }
+    },
+    {
+      "id": "a1-fb-012",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence.",
+      "text": "She is ___ doctor.",
+      "answers": [
+        [
+          "a"
+        ]
+      ],
+      "explanation": "Use \"a\" before a consonant sound with jobs: a doctor.",
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"doctor\" starts with a consonant.",
+        "the": "\"the\" points to a known person. Here we say her job."
+      }
+    },
+    {
+      "id": "a1-fb-013",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Eva is from Canada.",
+      "text": "Eva ___ from Canada.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Eva\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-014",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Lily is twelve years old.",
+      "text": "Lily ___ twelve years old.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Lily\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-015",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Paul is sad.",
+      "text": "Paul ___ sad.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Paul\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-016",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Sara is tired.",
+      "text": "Sara ___ tired.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Sara\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-017",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: My sister is in the classroom.",
+      "text": "My sister ___ in the classroom.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"my sister\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-018",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Paul is in the garden.",
+      "text": "Paul ___ in the garden.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Paul\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-019",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Sara is hot.",
+      "text": "Sara ___ hot.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Sara\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-020",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: Ben and Lucy are hungry.",
+      "text": "Ben and Lucy ___ hungry.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "is": "\"is\" is only for he, she, it and one person or thing. With \"Ben and Lucy\" we use \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-021",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: The dog is thirsty.",
+      "text": "The dog ___ thirsty.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"the dog\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-022",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Ivan is at home.",
+      "text": "Ivan ___ at home.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Ivan\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-023",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Sam is at school.",
+      "text": "Sam ___ at school.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Sam\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-024",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Kate is in bed.",
+      "text": "Kate ___ in bed.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Kate\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-025",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: My parents are ready.",
+      "text": "My parents ___ ready.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "is": "\"is\" is only for he, she, it and one person or thing. With \"my parents\" we use \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-026",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Zoe is happy.",
+      "text": "Zoe ___ happy.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Zoe\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-027",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Jack is ready.",
+      "text": "Jack ___ ready.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Jack\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-fb-028",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: my friends sing.",
+      "text": "My friends usually ___ in a choir.",
+      "answers": [
+        [
+          "sing"
+        ]
+      ],
+      "wrongReasons": {
+        "sings": "\"sings\" is for he, she, it and one person or thing. With \"my friends\" we use the base form \"sing\".",
+        "are singing": "The present continuous (\"are singing\") is for actions happening now. A habit or routine needs the present simple: \"sing\"."
+      }
+    },
+    {
+      "id": "a1-fb-029",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Kate listens.",
+      "text": "Kate sometimes ___ to music.",
+      "answers": [
+        [
+          "listens"
+        ]
+      ],
+      "wrongReasons": {
+        "listen": "\"listen\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Kate\".",
+        "is listening": "The present continuous (\"is listening\") is for actions happening now. A habit or routine needs the present simple: \"listens\"."
+      }
+    },
+    {
+      "id": "a1-fb-030",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Eva drives.",
+      "text": "Eva ___ to work every morning.",
+      "answers": [
+        [
+          "drives"
+        ]
+      ],
+      "wrongReasons": {
+        "drive": "\"drive\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Eva\".",
+        "is driving": "The present continuous (\"is driving\") is for actions happening now. A habit or routine needs the present simple: \"drives\"."
+      }
+    },
+    {
+      "id": "a1-fb-031",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Jack teaches.",
+      "text": "Jack ___ music at weekends.",
+      "answers": [
+        [
+          "teaches"
+        ]
+      ],
+      "wrongReasons": {
+        "teach": "\"teach\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Jack\".",
+        "is teaching": "The present continuous (\"is teaching\") is for actions happening now. A habit or routine needs the present simple: \"teaches\"."
+      }
+    },
+    {
+      "id": "a1-fb-032",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: Sam and I sleep.",
+      "text": "Sam and I usually ___ on the sofa.",
+      "answers": [
+        [
+          "sleep"
+        ]
+      ],
+      "wrongReasons": {
+        "sleeps": "\"sleeps\" is for he, she, it and one person or thing. With \"Sam and I\" we use the base form \"sleep\".",
+        "are sleeping": "The present continuous (\"are sleeping\") is for actions happening now. A habit or routine needs the present simple: \"sleep\"."
+      }
+    },
+    {
+      "id": "a1-fb-033",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Tom teaches.",
+      "text": "Tom often ___ music.",
+      "answers": [
+        [
+          "teaches"
+        ]
+      ],
+      "wrongReasons": {
+        "teach": "\"teach\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Tom\".",
+        "is teaching": "The present continuous (\"is teaching\") is for actions happening now. A habit or routine needs the present simple: \"teaches\"."
+      }
+    },
+    {
+      "id": "a1-fb-034",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: the children ride.",
+      "text": "The children ___ a bike every morning.",
+      "answers": [
+        [
+          "ride"
+        ]
+      ],
+      "wrongReasons": {
+        "rides": "\"rides\" is for he, she, it and one person or thing. With \"the children\" we use the base form \"ride\".",
+        "are riding": "The present continuous (\"are riding\") is for actions happening now. A habit or routine needs the present simple: \"ride\"."
+      }
+    },
+    {
+      "id": "a1-fb-035",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Leo goes.",
+      "text": "Leo usually ___ to the market.",
+      "answers": [
+        [
+          "goes"
+        ]
+      ],
+      "wrongReasons": {
+        "go": "\"go\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Leo\".",
+        "is going": "The present continuous (\"is going\") is for actions happening now. A habit or routine needs the present simple: \"goes\"."
+      }
+    },
+    {
+      "id": "a1-fb-036",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"the\" when there is only one: the sea.",
+      "text": "We swim in ___ sea in July.",
+      "answers": [
+        [
+          "the"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" means any one thing. There is only one sea, so we use \"the\".",
+        "an": "\"an\" means any one thing and is used before a vowel sound. There is only one sea, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-fb-037",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"the\" for something already mentioned: I have a eagle... The eagle is black.",
+      "text": "I have an eagle and an ice cream. ___ eagle is black.",
+      "answers": [
+        [
+          "the"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is for something new. The eagle was already mentioned, so we use \"the\".",
+        "an": "\"an\" is for something new before a vowel sound. The eagle was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-fb-038",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"an\" before a vowel sound: an ice cream.",
+      "text": "I can see ___ ice cream.",
+      "answers": [
+        [
+          "an"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"ice cream\" starts with a vowel sound, so we say \"an ice cream\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any ice cream, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-fb-039",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"a\" before a consonant sound: a bike.",
+      "text": "Is that ___ bike?",
+      "answers": [
+        [
+          "a"
+        ]
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"bike\" starts with a consonant sound, so we say \"a bike\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any bike, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-fb-040",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"the\" when there is only one: the sun.",
+      "text": "Plants need ___ sun and water.",
+      "answers": [
+        [
+          "the"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" means any one thing. There is only one sun, so we use \"the\".",
+        "an": "\"an\" means any one thing and is used before a vowel sound. There is only one sun, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-fb-041",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"the\" for something already mentioned: I have a owl... The owl is red.",
+      "text": "I have an owl and an egg. ___ owl is red.",
+      "answers": [
+        [
+          "the"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is for something new. The owl was already mentioned, so we use \"the\".",
+        "an": "\"an\" is for something new before a vowel sound. The owl was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-fb-042",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"an\" before a vowel sound: an email.",
+      "text": "I can see ___ email.",
+      "answers": [
+        [
+          "an"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"email\" starts with a vowel sound, so we say \"an email\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any email, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-fb-043",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"a\" before a consonant sound: a university.",
+      "text": "Is that ___ university?",
+      "answers": [
+        [
+          "a"
+        ]
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"university\" starts with a consonant sound, so we say \"a university\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any university, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-fb-044",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"a\" before a consonant sound: a doctor.",
+      "text": "He has ___ doctor.",
+      "answers": [
+        [
+          "a"
+        ]
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"doctor\" starts with a consonant sound, so we say \"a doctor\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any doctor, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-fb-045",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"an\" before a vowel sound: an egg.",
+      "text": "He has ___ egg.",
+      "answers": [
+        [
+          "an"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"egg\" starts with a vowel sound, so we say \"an egg\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any egg, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-fb-046",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"the\" when there is only one: the sky.",
+      "text": "___ sky is blue.",
+      "answers": [
+        [
+          "the"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" means any one thing. There is only one sky, so we use \"the\".",
+        "an": "\"an\" means any one thing and is used before a vowel sound. There is only one sky, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-fb-047",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"an\" before a vowel sound: an owl.",
+      "text": "She wants ___ owl.",
+      "answers": [
+        [
+          "an"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"owl\" starts with a vowel sound, so we say \"an owl\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any owl, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-fb-048",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"the\" when there is only one: the moon.",
+      "text": "Look at ___ moon tonight!",
+      "answers": [
+        [
+          "the"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" means any one thing. There is only one moon, so we use \"the\".",
+        "an": "\"an\" means any one thing and is used before a vowel sound. There is only one moon, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-fb-049",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"the\" when there is only one: the sun.",
+      "text": "In summer ___ sun comes up early.",
+      "answers": [
+        [
+          "the"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" means any one thing. There is only one sun, so we use \"the\".",
+        "an": "\"an\" means any one thing and is used before a vowel sound. There is only one sun, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-fb-050",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"a\" before a consonant sound: a one-hour lesson.",
+      "text": "She wants ___ one-hour lesson.",
+      "answers": [
+        [
+          "a"
+        ]
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"one-hour lesson\" starts with a consonant sound, so we say \"a one-hour lesson\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any one-hour lesson, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-fb-051",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"the\" for something already mentioned: I have a ant... The ant is new.",
+      "text": "I have an ant and an email. ___ ant is new.",
+      "answers": [
+        [
+          "the"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is for something new. The ant was already mentioned, so we use \"the\".",
+        "an": "\"an\" is for something new before a vowel sound. The ant was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-fb-052",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"a\" before a consonant sound: a banana.",
+      "text": "Look at ___ banana!",
+      "answers": [
+        [
+          "a"
+        ]
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"banana\" starts with a consonant sound, so we say \"a banana\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any banana, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-fb-053",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"a\" before a consonant sound: a university.",
+      "text": "He has ___ university.",
+      "answers": [
+        [
+          "a"
+        ]
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"university\" starts with a consonant sound, so we say \"a university\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any university, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-fb-054",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"an\" before a vowel sound: an apple.",
+      "text": "We need ___ apple.",
+      "answers": [
+        [
+          "an"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"apple\" starts with a vowel sound, so we say \"an apple\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any apple, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-fb-055",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"an\" before a vowel sound: an onion.",
+      "text": "He has ___ onion.",
+      "answers": [
+        [
+          "an"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"onion\" starts with a vowel sound, so we say \"an onion\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any onion, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-fb-056",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"an\" before a vowel sound: an owl.",
+      "text": "There is ___ owl on the table.",
+      "answers": [
+        [
+          "an"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"owl\" starts with a vowel sound, so we say \"an owl\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any owl, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-fb-057",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"an\" before a vowel sound: an ice cream.",
+      "text": "There is ___ ice cream on the table.",
+      "answers": [
+        [
+          "an"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"ice cream\" starts with a vowel sound, so we say \"an ice cream\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any ice cream, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-fb-058",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"an\" before a vowel sound: an hour.",
+      "text": "He has ___ hour.",
+      "answers": [
+        [
+          "an"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"hour\" starts with a vowel sound, so we say \"an hour\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any hour, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-fb-059",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"the\" for something already mentioned: I have a table... The table is nice.",
+      "text": "I have a table and an actor. ___ table is nice.",
+      "answers": [
+        [
+          "the"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is for something new. The table was already mentioned, so we use \"the\".",
+        "an": "\"an\" is for something new before a vowel sound. The table was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-fb-060",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"an\" before a vowel sound: an answer.",
+      "text": "We need ___ answer.",
+      "answers": [
+        [
+          "an"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"answer\" starts with a vowel sound, so we say \"an answer\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any answer, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-fb-061",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"the\" when there is only one: the world.",
+      "text": "Anna wants to see ___ world.",
+      "answers": [
+        [
+          "the"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" means any one thing. There is only one world, so we use \"the\".",
+        "an": "\"an\" means any one thing and is used before a vowel sound. There is only one world, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-fb-062",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"the\" for something already mentioned: I have a university... The university is nice.",
+      "text": "I have a university and a dog. ___ university is nice.",
+      "answers": [
+        [
+          "the"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"a\" is for something new. The university was already mentioned, so we use \"the\".",
+        "an": "\"an\" is for something new before a vowel sound. The university was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-fb-063",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Write a, an or the.",
+      "explanation": "Use \"a\" before a consonant sound: a one-hour lesson.",
+      "text": "We need ___ one-hour lesson.",
+      "answers": [
+        [
+          "a"
+        ]
+      ],
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"one-hour lesson\" starts with a consonant sound, so we say \"a one-hour lesson\".",
+        "the": "\"the\" is used for a specific thing that both people know. Here we mean any one-hour lesson, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-fb-064",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "After a consonant + y, change y to -ies: party → parties.",
+      "text": "The plural of \"party\" is ___.",
+      "answers": [
+        [
+          "parties"
+        ]
+      ],
+      "wrongReasons": {
+        "partys": "After a consonant + y, change y to -ies, not just add -s: parties.",
+        "partyes": "The ending -yes is wrong. After a consonant + y use -ies: parties."
+      }
+    },
+    {
+      "id": "a1-fb-065",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "\"woman\" is irregular. The plural is \"women\".",
+      "text": "The plural of \"woman\" is ___.",
+      "answers": [
+        [
+          "women"
+        ]
+      ],
+      "wrongReasons": {
+        "womans": "\"woman\" is irregular: the plural is \"women\", not \"womans\".",
+        "womanes": "\"woman\" has an irregular plural. It is \"women\"."
+      }
+    },
+    {
+      "id": "a1-fb-066",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "After a consonant + y, change y to -ies: family → families.",
+      "text": "The plural of \"family\" is ___.",
+      "answers": [
+        [
+          "families"
+        ]
+      ],
+      "wrongReasons": {
+        "familys": "After a consonant + y, change y to -ies, not just add -s: families.",
+        "familyes": "The ending -yes is wrong. After a consonant + y use -ies: families."
+      }
+    },
+    {
+      "id": "a1-fb-067",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "After a consonant + y, change y to -ies: city → cities.",
+      "text": "The plural of \"city\" is ___.",
+      "answers": [
+        [
+          "cities"
+        ]
+      ],
+      "wrongReasons": {
+        "citys": "After a consonant + y, change y to -ies, not just add -s: cities.",
+        "cityes": "The ending -yes is wrong. After a consonant + y use -ies: cities."
+      }
+    },
+    {
+      "id": "a1-fb-068",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Most nouns just add -s: window → windows.",
+      "text": "The plural of \"window\" is ___.",
+      "answers": [
+        [
+          "windows"
+        ]
+      ],
+      "wrongReasons": {
+        "windowes": "\"window\" does not take -es. Just add -s: windows.",
+        "window": "\"window\" is singular. After a number or \"many\" we need the plural: windows."
+      }
+    },
+    {
+      "id": "a1-fb-069",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Most nouns just add -s: teacher → teachers.",
+      "text": "The plural of \"teacher\" is ___.",
+      "answers": [
+        [
+          "teachers"
+        ]
+      ],
+      "wrongReasons": {
+        "teacheres": "\"teacher\" does not take -es. Just add -s: teachers.",
+        "teacher": "\"teacher\" is singular. After a number or \"many\" we need the plural: teachers."
+      }
+    },
+    {
+      "id": "a1-fb-070",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Most nouns just add -s: school → schools.",
+      "text": "The plural of \"school\" is ___.",
+      "answers": [
+        [
+          "schools"
+        ]
+      ],
+      "wrongReasons": {
+        "schooles": "\"school\" does not take -es. Just add -s: schools.",
+        "school": "\"school\" is singular. After a number or \"many\" we need the plural: schools."
+      }
+    },
+    {
+      "id": "a1-fb-071",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Most nouns just add -s: house → houses.",
+      "text": "The plural of \"house\" is ___.",
+      "answers": [
+        [
+          "houses"
+        ]
+      ],
+      "wrongReasons": {
+        "housees": "\"house\" does not take -es. Just add -s: houses.",
+        "house": "\"house\" is singular. After a number or \"many\" we need the plural: houses."
+      }
+    },
+    {
+      "id": "a1-fb-072",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Most nouns just add -s: car → cars.",
+      "text": "The plural of \"car\" is ___.",
+      "answers": [
+        [
+          "cars"
+        ]
+      ],
+      "wrongReasons": {
+        "cares": "\"car\" does not take -es. Just add -s: cars.",
+        "car": "\"car\" is singular. After a number or \"many\" we need the plural: cars."
+      }
+    },
+    {
+      "id": "a1-fb-073",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "\"tooth\" is irregular. The plural is \"teeth\".",
+      "text": "The plural of \"tooth\" is ___.",
+      "answers": [
+        [
+          "teeth"
+        ]
+      ],
+      "wrongReasons": {
+        "tooths": "\"tooth\" is irregular: the plural is \"teeth\", not \"tooths\".",
+        "toothes": "\"tooth\" has an irregular plural. It is \"teeth\"."
+      }
+    },
+    {
+      "id": "a1-fb-074",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "After a vowel + y we just add -s: holiday → holidays.",
+      "text": "The plural of \"holiday\" is ___.",
+      "answers": [
+        [
+          "holidays"
+        ]
+      ],
+      "wrongReasons": {
+        "holidayes": "\"holiday\" does not take -es. Just add -s: holidays.",
+        "holiday": "\"holiday\" is singular. After a number or \"many\" we need the plural: holidays."
+      }
+    },
+    {
+      "id": "a1-fb-075",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "\"person\" is irregular. The plural is \"people\".",
+      "text": "The plural of \"person\" is ___.",
+      "answers": [
+        [
+          "people"
+        ]
+      ],
+      "wrongReasons": {
+        "persons": "\"person\" is irregular: the plural is \"people\", not \"persons\".",
+        "persones": "\"person\" has an irregular plural. It is \"people\"."
+      }
+    },
+    {
+      "id": "a1-fb-076",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Most nouns just add -s: apple → apples.",
+      "text": "The plural of \"apple\" is ___.",
+      "answers": [
+        [
+          "apples"
+        ]
+      ],
+      "wrongReasons": {
+        "applees": "\"apple\" does not take -es. Just add -s: apples.",
+        "apple": "\"apple\" is singular. After a number or \"many\" we need the plural: apples."
+      }
+    },
+    {
+      "id": "a1-fb-077",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "After a consonant + y, change y to -ies: fly → flies.",
+      "text": "The plural of \"fly\" is ___.",
+      "answers": [
+        [
+          "flies"
+        ]
+      ],
+      "wrongReasons": {
+        "flys": "After a consonant + y, change y to -ies, not just add -s: flies.",
+        "flyes": "The ending -yes is wrong. After a consonant + y use -ies: flies."
+      }
+    },
+    {
+      "id": "a1-fb-078",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: tomato → tomatoes.",
+      "text": "The plural of \"tomato\" is ___.",
+      "answers": [
+        [
+          "tomatoes"
+        ]
+      ],
+      "wrongReasons": {
+        "tomatos": "Nouns like \"tomato\" add -es, not just -s: tomatoes.",
+        "tomatoies": "-ies is only for nouns ending in a consonant + y. \"tomato\" adds -es: tomatoes."
+      }
+    },
+    {
+      "id": "a1-fb-079",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Most nouns just add -s: room → rooms.",
+      "text": "The plural of \"room\" is ___.",
+      "answers": [
+        [
+          "rooms"
+        ]
+      ],
+      "wrongReasons": {
+        "roomes": "\"room\" does not take -es. Just add -s: rooms.",
+        "room": "\"room\" is singular. After a number or \"many\" we need the plural: rooms."
+      }
+    },
+    {
+      "id": "a1-fb-080",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Most nouns just add -s: friend → friends.",
+      "text": "The plural of \"friend\" is ___.",
+      "answers": [
+        [
+          "friends"
+        ]
+      ],
+      "wrongReasons": {
+        "friendes": "\"friend\" does not take -es. Just add -s: friends.",
+        "friend": "\"friend\" is singular. After a number or \"many\" we need the plural: friends."
+      }
+    },
+    {
+      "id": "a1-fb-081",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Most nouns just add -s: hand → hands.",
+      "text": "The plural of \"hand\" is ___.",
+      "answers": [
+        [
+          "hands"
+        ]
+      ],
+      "wrongReasons": {
+        "handes": "\"hand\" does not take -es. Just add -s: hands.",
+        "hand": "\"hand\" is singular. After a number or \"many\" we need the plural: hands."
+      }
+    },
+    {
+      "id": "a1-fb-082",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: sandwich → sandwiches.",
+      "text": "The plural of \"sandwich\" is ___.",
+      "answers": [
+        [
+          "sandwiches"
+        ]
+      ],
+      "wrongReasons": {
+        "sandwichs": "Nouns like \"sandwich\" add -es, not just -s: sandwiches.",
+        "sandwichies": "-ies is only for nouns ending in a consonant + y. \"sandwich\" adds -es: sandwiches."
+      }
+    },
+    {
+      "id": "a1-fb-083",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form.",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: shelf → shelves.",
+      "text": "The plural of \"shelf\" is ___.",
+      "answers": [
+        [
+          "shelves"
+        ]
+      ],
+      "wrongReasons": {
+        "shelfs": "Spelling: the plural is \"shelves\" (f/fe changes to -ves)."
+      }
+    },
+    {
+      "id": "a1-fb-084",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"They\" instead of the children: the children → they.",
+      "text": "The children are at home. ___ are very nice.",
+      "answers": [
+        [
+          "They",
+          "they"
+        ]
+      ],
+      "wrongReasons": {
+        "you": "\"You\" is for the person you talk to, but the children is more than one person or thing.",
+        "he": "\"He\" is for one boy or man, but the children is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-fb-085",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"it\" instead of the house after the verb: the house → it.",
+      "text": "The house is nice. I like ___.",
+      "answers": [
+        [
+          "it",
+          "it"
+        ]
+      ],
+      "wrongReasons": {
+        "him": "\"him\" is for one boy or man, but the house is a thing or an animal.",
+        "her": "\"her\" is for one girl or woman, but the house is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-086",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"it\" instead of the bag after the verb: the bag → it.",
+      "text": "The bag is nice. I like ___.",
+      "answers": [
+        [
+          "it",
+          "it"
+        ]
+      ],
+      "wrongReasons": {
+        "us": "\"us\" is for the speaker and other people, but the bag is a thing or an animal.",
+        "you": "\"you\" is for the person you talk to, but the bag is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-087",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"him\" instead of Ben after the verb: Ben → him.",
+      "text": "Ben is nice. I like ___.",
+      "answers": [
+        [
+          "him",
+          "him"
+        ]
+      ],
+      "wrongReasons": {
+        "us": "\"us\" is for the speaker and other people, but Ben is one boy or man.",
+        "it": "\"it\" is for a thing or an animal, but Ben is one boy or man."
+      }
+    },
+    {
+      "id": "a1-fb-088",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"It\" instead of the house: the house → it.",
+      "text": "The house is at home. ___ is very new.",
+      "answers": [
+        [
+          "It",
+          "it"
+        ]
+      ],
+      "wrongReasons": {
+        "he": "\"He\" is for one boy or man, but the house is a thing or an animal.",
+        "she": "\"She\" is for one girl or woman, but the house is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-089",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"They\" instead of the dogs: the dogs → they.",
+      "text": "The dogs are at home. ___ are very tired.",
+      "answers": [
+        [
+          "They",
+          "they"
+        ]
+      ],
+      "wrongReasons": {
+        "you": "\"You\" is for the person you talk to, but the dogs is more than one person or thing.",
+        "he": "\"He\" is for one boy or man, but the dogs is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-fb-090",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"it\" instead of the car after the verb: the car → it.",
+      "text": "The car is nice. I like ___.",
+      "answers": [
+        [
+          "it",
+          "it"
+        ]
+      ],
+      "wrongReasons": {
+        "me": "\"me\" is for the speaker, but the car is a thing or an animal.",
+        "them": "\"them\" is for more than one person or thing, but the car is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-091",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"him\" instead of Paul after the verb: Paul → him.",
+      "text": "Paul is nice. I like ___.",
+      "answers": [
+        [
+          "him",
+          "him"
+        ]
+      ],
+      "wrongReasons": {
+        "us": "\"us\" is for the speaker and other people, but Paul is one boy or man.",
+        "me": "\"me\" is for the speaker, but Paul is one boy or man."
+      }
+    },
+    {
+      "id": "a1-fb-092",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"her\" instead of my sister after the verb: my sister → her.",
+      "text": "My sister is nice. I like ___.",
+      "answers": [
+        [
+          "her",
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "him": "\"him\" is for one boy or man, but my sister is one girl or woman.",
+        "you": "\"you\" is for the person you talk to, but my sister is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-093",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"him\" instead of my brother after the verb: my brother → him.",
+      "text": "My brother is nice. I like ___.",
+      "answers": [
+        [
+          "him",
+          "him"
+        ]
+      ],
+      "wrongReasons": {
+        "you": "\"you\" is for the person you talk to, but my brother is one boy or man.",
+        "us": "\"us\" is for the speaker and other people, but my brother is one boy or man."
+      }
+    },
+    {
+      "id": "a1-fb-094",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"They\" instead of my parents: my parents → they.",
+      "text": "My parents are at home. ___ are very tired.",
+      "answers": [
+        [
+          "They",
+          "they"
+        ]
+      ],
+      "wrongReasons": {
+        "she": "\"She\" is for one girl or woman, but my parents is more than one person or thing.",
+        "i": "\"I\" is for the speaker, but my parents is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-fb-095",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"him\" instead of my father after the verb: my father → him.",
+      "text": "My father is nice. I like ___.",
+      "answers": [
+        [
+          "him",
+          "him"
+        ]
+      ],
+      "wrongReasons": {
+        "it": "\"it\" is for a thing or an animal, but my father is one boy or man.",
+        "you": "\"you\" is for the person you talk to, but my father is one boy or man."
+      }
+    },
+    {
+      "id": "a1-fb-096",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"He\" instead of my uncle: my uncle → he.",
+      "text": "My uncle is at home. ___ is very good.",
+      "answers": [
+        [
+          "He",
+          "he"
+        ]
+      ],
+      "wrongReasons": {
+        "i": "\"I\" is for the speaker, but my uncle is one boy or man.",
+        "it": "\"It\" is for a thing or an animal, but my uncle is one boy or man."
+      }
+    },
+    {
+      "id": "a1-fb-097",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"them\" instead of the children after the verb: the children → them.",
+      "text": "The children are nice. I like ___.",
+      "answers": [
+        [
+          "them",
+          "them"
+        ]
+      ],
+      "wrongReasons": {
+        "me": "\"me\" is for the speaker, but the children is more than one person or thing.",
+        "us": "\"us\" is for the speaker and other people, but the children is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-fb-098",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"She\" instead of my aunt: my aunt → she.",
+      "text": "My aunt is at home. ___ is very good.",
+      "answers": [
+        [
+          "She",
+          "she"
+        ]
+      ],
+      "wrongReasons": {
+        "they": "\"They\" is for more than one person or thing, but my aunt is one girl or woman.",
+        "it": "\"It\" is for a thing or an animal, but my aunt is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-099",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"It\" instead of the bag: the bag → it.",
+      "text": "The bag is at home. ___ is very good.",
+      "answers": [
+        [
+          "It",
+          "it"
+        ]
+      ],
+      "wrongReasons": {
+        "they": "\"They\" is for more than one person or thing, but the bag is a thing or an animal.",
+        "he": "\"He\" is for one boy or man, but the bag is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-100",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"him\" instead of Mr Brown after the verb: Mr Brown → him.",
+      "text": "Mr Brown is nice. I like ___.",
+      "answers": [
+        [
+          "him",
+          "him"
+        ]
+      ],
+      "wrongReasons": {
+        "you": "\"you\" is for the person you talk to, but Mr Brown is one boy or man.",
+        "them": "\"them\" is for more than one person or thing, but Mr Brown is one boy or man."
+      }
+    },
+    {
+      "id": "a1-fb-101",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"them\" instead of the boys after the verb: the boys → them.",
+      "text": "The boys are nice. I like ___.",
+      "answers": [
+        [
+          "them",
+          "them"
+        ]
+      ],
+      "wrongReasons": {
+        "me": "\"me\" is for the speaker, but the boys is more than one person or thing.",
+        "you": "\"you\" is for the person you talk to, but the boys is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-fb-102",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"her\" instead of Anna after the verb: Anna → her.",
+      "text": "Anna is nice. I like ___.",
+      "answers": [
+        [
+          "her",
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "us": "\"us\" is for the speaker and other people, but Anna is one girl or woman.",
+        "them": "\"them\" is for more than one person or thing, but Anna is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-103",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"She\" instead of our teacher Mrs Jones: our teacher Mrs Jones → she.",
+      "text": "Our teacher Mrs Jones is at home. ___ is very good.",
+      "answers": [
+        [
+          "She",
+          "she"
+        ]
+      ],
+      "wrongReasons": {
+        "it": "\"It\" is for a thing or an animal, but our teacher Mrs Jones is one girl or woman.",
+        "i": "\"I\" is for the speaker, but our teacher Mrs Jones is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-104",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"They\" instead of Ben and Lucy: Ben and Lucy → they.",
+      "text": "Ben and Lucy are at home. ___ are very happy.",
+      "answers": [
+        [
+          "They",
+          "they"
+        ]
+      ],
+      "wrongReasons": {
+        "he": "\"He\" is for one boy or man, but Ben and Lucy is more than one person or thing.",
+        "she": "\"She\" is for one girl or woman, but Ben and Lucy is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-fb-105",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"her\" instead of Emma after the verb: Emma → her.",
+      "text": "Emma is nice. I like ___.",
+      "answers": [
+        [
+          "her",
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "us": "\"us\" is for the speaker and other people, but Emma is one girl or woman.",
+        "me": "\"me\" is for the speaker, but Emma is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-106",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"She\" instead of Anna: Anna → she.",
+      "text": "Anna is at home. ___ is very busy.",
+      "answers": [
+        [
+          "She",
+          "she"
+        ]
+      ],
+      "wrongReasons": {
+        "we": "\"We\" is for the speaker and other people, but Anna is one girl or woman.",
+        "you": "\"You\" is for the person you talk to, but Anna is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-107",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"her\" instead of my mother after the verb: my mother → her.",
+      "text": "My mother is nice. I like ___.",
+      "answers": [
+        [
+          "her",
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "you": "\"you\" is for the person you talk to, but my mother is one girl or woman.",
+        "me": "\"me\" is for the speaker, but my mother is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-108",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Write the correct pronoun.",
+      "explanation": "Use \"She\" instead of Emma: Emma → she.",
+      "text": "Emma is at home. ___ is very nice.",
+      "answers": [
+        [
+          "She",
+          "she"
+        ]
+      ],
+      "wrongReasons": {
+        "you": "\"You\" is for the person you talk to, but Emma is one girl or woman.",
+        "they": "\"They\" is for more than one person or thing, but Emma is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-109",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"her\" for one girl or woman: My sister likes her book.",
+      "text": "My sister likes ___ book.",
+      "answers": [
+        [
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "its": "\"its\" is for a thing or an animal, but my sister is one girl or woman.",
+        "my": "\"my\" is for the speaker, but my sister is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-110",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"his\" for one boy or man: Mr Brown has his dog.",
+      "text": "Mr Brown has ___ dog.",
+      "answers": [
+        [
+          "his"
+        ]
+      ],
+      "wrongReasons": {
+        "her": "\"her\" is for one girl or woman, but Mr Brown is one boy or man.",
+        "your": "\"your\" is for the person you talk to, but Mr Brown is one boy or man."
+      }
+    },
+    {
+      "id": "a1-fb-111",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"its\" for a thing or an animal: The cat loves its food.",
+      "text": "The cat loves ___ food.",
+      "answers": [
+        [
+          "its"
+        ]
+      ],
+      "wrongReasons": {
+        "your": "\"your\" is for the person you talk to, but the cat is a thing or an animal.",
+        "his": "\"his\" is for one boy or man, but the cat is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-112",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"its\" for a thing or an animal: The bird likes its toy.",
+      "text": "The bird likes ___ toy.",
+      "answers": [
+        [
+          "its"
+        ]
+      ],
+      "wrongReasons": {
+        "their": "\"their\" is for more than one person or thing, but the bird is a thing or an animal.",
+        "your": "\"your\" is for the person you talk to, but the bird is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-113",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"her\" for one girl or woman: Anna helps her grandmother.",
+      "text": "Anna helps ___ grandmother.",
+      "answers": [
+        [
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "its": "\"its\" is for a thing or an animal, but Anna is one girl or woman.",
+        "their": "\"their\" is for more than one person or thing, but Anna is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-114",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"its\" for a thing or an animal: The bird has its house.",
+      "text": "The bird has ___ house.",
+      "answers": [
+        [
+          "its"
+        ]
+      ],
+      "wrongReasons": {
+        "my": "\"my\" is for the speaker, but the bird is a thing or an animal.",
+        "their": "\"their\" is for more than one person or thing, but the bird is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-115",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"her\" for one girl or woman: My aunt has her book.",
+      "text": "My aunt has ___ book.",
+      "answers": [
+        [
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "our": "\"our\" is for the speaker and other people, but my aunt is one girl or woman.",
+        "its": "\"its\" is for a thing or an animal, but my aunt is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-116",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"their\" for more than one person or thing: Tom and Anna find their phone.",
+      "text": "Tom and Anna find ___ phone.",
+      "answers": [
+        [
+          "their"
+        ]
+      ],
+      "wrongReasons": {
+        "his": "\"his\" is for one boy or man, but Tom and Anna is more than one person or thing.",
+        "her": "\"her\" is for one girl or woman, but Tom and Anna is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-fb-117",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"their\" for more than one person or thing: The books love their book.",
+      "text": "The books love ___ book.",
+      "answers": [
+        [
+          "their"
+        ]
+      ],
+      "wrongReasons": {
+        "your": "\"your\" is for the person you talk to, but the books is more than one person or thing.",
+        "its": "\"its\" is for a thing or an animal, but the books is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-fb-118",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"its\" for a thing or an animal: The cat loves its house.",
+      "text": "The cat loves ___ house.",
+      "answers": [
+        [
+          "its"
+        ]
+      ],
+      "wrongReasons": {
+        "your": "\"your\" is for the person you talk to, but the cat is a thing or an animal.",
+        "their": "\"their\" is for more than one person or thing, but the cat is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-119",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"her\" for one girl or woman: Emma loses her bag.",
+      "text": "Emma loses ___ bag.",
+      "answers": [
+        [
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "his": "\"his\" is for one boy or man, but Emma is one girl or woman.",
+        "its": "\"its\" is for a thing or an animal, but Emma is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-120",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"its\" for a thing or an animal: The horse has its house.",
+      "text": "The horse has ___ house.",
+      "answers": [
+        [
+          "its"
+        ]
+      ],
+      "wrongReasons": {
+        "our": "\"our\" is for the speaker and other people, but the horse is a thing or an animal.",
+        "my": "\"my\" is for the speaker, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-121",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"his\" for one boy or man: Sam loses his keys.",
+      "text": "Sam loses ___ keys.",
+      "answers": [
+        [
+          "his"
+        ]
+      ],
+      "wrongReasons": {
+        "its": "\"its\" is for a thing or an animal, but Sam is one boy or man.",
+        "their": "\"their\" is for more than one person or thing, but Sam is one boy or man."
+      }
+    },
+    {
+      "id": "a1-fb-122",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"their\" for more than one person or thing: My parents find their bike.",
+      "text": "My parents find ___ bike.",
+      "answers": [
+        [
+          "their"
+        ]
+      ],
+      "wrongReasons": {
+        "her": "\"her\" is for one girl or woman, but my parents is more than one person or thing.",
+        "his": "\"his\" is for one boy or man, but my parents is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-fb-123",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"its\" for a thing or an animal: The bird likes its tail.",
+      "text": "The bird likes ___ tail.",
+      "answers": [
+        [
+          "its"
+        ]
+      ],
+      "wrongReasons": {
+        "her": "\"her\" is for one girl or woman, but the bird is a thing or an animal.",
+        "their": "\"their\" is for more than one person or thing, but the bird is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-124",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"my\" for the speaker: I love my keys.",
+      "text": "I love ___ keys.",
+      "answers": [
+        [
+          "my"
+        ]
+      ],
+      "wrongReasons": {
+        "our": "\"our\" is for the speaker and other people, but \"I\" is the speaker.",
+        "its": "\"its\" is for a thing or an animal, but \"I\" is the speaker."
+      }
+    },
+    {
+      "id": "a1-fb-125",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"her\" for one girl or woman: Our teacher Mrs Jones likes her ball.",
+      "text": "Our teacher Mrs Jones likes ___ ball.",
+      "answers": [
+        [
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "its": "\"its\" is for a thing or an animal, but our teacher Mrs Jones is one girl or woman.",
+        "your": "\"your\" is for the person you talk to, but our teacher Mrs Jones is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-126",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"her\" for one girl or woman: Lucy loves her house.",
+      "text": "Lucy loves ___ house.",
+      "answers": [
+        [
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "our": "\"our\" is for the speaker and other people, but Lucy is one girl or woman.",
+        "your": "\"your\" is for the person you talk to, but Lucy is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-127",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"her\" for one girl or woman: Our teacher Mrs Jones helps her neighbour.",
+      "text": "Our teacher Mrs Jones helps ___ neighbour.",
+      "answers": [
+        [
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "my": "\"my\" is for the speaker, but our teacher Mrs Jones is one girl or woman.",
+        "his": "\"his\" is for one boy or man, but our teacher Mrs Jones is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-128",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"their\" for more than one person or thing: The books help their neighbour.",
+      "text": "The books help ___ neighbour.",
+      "answers": [
+        [
+          "their"
+        ]
+      ],
+      "wrongReasons": {
+        "our": "\"our\" is for the speaker and other people, but the books is more than one person or thing.",
+        "its": "\"its\" is for a thing or an animal, but the books is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-fb-129",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"its\" for a thing or an animal: The cat loves its bed.",
+      "text": "The cat loves ___ bed.",
+      "answers": [
+        [
+          "its"
+        ]
+      ],
+      "wrongReasons": {
+        "my": "\"my\" is for the speaker, but the cat is a thing or an animal.",
+        "his": "\"his\" is for one boy or man, but the cat is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-130",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"her\" for one girl or woman: Zoe loves her ball.",
+      "text": "Zoe loves ___ ball.",
+      "answers": [
+        [
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "their": "\"their\" is for more than one person or thing, but Zoe is one girl or woman.",
+        "my": "\"my\" is for the speaker, but Zoe is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-131",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"his\" for one boy or man: Sam calls his friend.",
+      "text": "Sam calls ___ friend.",
+      "answers": [
+        [
+          "his"
+        ]
+      ],
+      "wrongReasons": {
+        "their": "\"their\" is for more than one person or thing, but Sam is one boy or man.",
+        "our": "\"our\" is for the speaker and other people, but Sam is one boy or man."
+      }
+    },
+    {
+      "id": "a1-fb-132",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"its\" for a thing or an animal: The horse loves its toy.",
+      "text": "The horse loves ___ toy.",
+      "answers": [
+        [
+          "its"
+        ]
+      ],
+      "wrongReasons": {
+        "my": "\"my\" is for the speaker, but the horse is a thing or an animal.",
+        "his": "\"his\" is for one boy or man, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-fb-133",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"her\" for one girl or woman: Anna loses her ball.",
+      "text": "Anna loses ___ ball.",
+      "answers": [
+        [
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "our": "\"our\" is for the speaker and other people, but Anna is one girl or woman.",
+        "his": "\"his\" is for one boy or man, but Anna is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-134",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Write the correct word (my, your, his, her, its, our, their).",
+      "explanation": "Use \"her\" for one girl or woman: Mrs Green loses her dog.",
+      "text": "Mrs Green loses ___ dog.",
+      "answers": [
+        [
+          "her"
+        ]
+      ],
+      "wrongReasons": {
+        "their": "\"their\" is for more than one person or thing, but Mrs Green is one girl or woman.",
+        "your": "\"your\" is for the person you talk to, but Mrs Green is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-fb-135",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There are\" with plural nouns: There are some people at the station.",
+      "text": "There ___ some people at the station.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-136",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There are\" with plural nouns: There are two beds in the room.",
+      "text": "There ___ two beds in the room.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-137",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There are\" with plural nouns: There are four chairs in the kitchen.",
+      "text": "There ___ four chairs in the kitchen.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-138",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is some tea in the cup.",
+      "text": "There ___ some tea in the cup.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-139",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is some money in my bag.",
+      "text": "There ___ some money in my bag.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-140",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There are\" with plural nouns: There are six boys on the bus.",
+      "text": "There ___ six boys on the bus.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-141",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There are\" with plural nouns: There are three apples in the bag.",
+      "text": "There ___ three apples in the bag.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-142",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is some milk in the fridge.",
+      "text": "There ___ some milk in the fridge.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-143",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There are\" with plural nouns: There are two cats under the table.",
+      "text": "There ___ two cats under the table.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-144",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There are\" with plural nouns: There are some children in the park.",
+      "text": "There ___ some children in the park.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-145",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a mirror in the bathroom.",
+      "text": "There ___ a mirror in the bathroom.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "are": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-146",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There are\" with plural nouns: There are five students in the class.",
+      "text": "There ___ five students in the class.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-147",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There are\" with plural nouns: There are seven days in a week.",
+      "text": "There ___ seven days in a week.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-148",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"There are\" with plural nouns: There are ten pens in the box.",
+      "text": "There ___ ten pens in the box.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "is": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "be": "\"be\" is not used with \"there\" here. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-fb-149",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write at, on or in.",
+      "explanation": "Use \"on\" with a day or a date: The shop opens on Sunday morning.",
+      "text": "The shop opens ___ Sunday morning.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"Sunday morning\" is a day or a date, so we use \"on\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"Sunday morning\" is a day or a date, so we use \"on\"."
+      }
+    },
+    {
+      "id": "a1-fb-150",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write the correct preposition.",
+      "explanation": "\"under\" means below: the cup is under the tree.",
+      "text": "The cup is ___ the tree. (= below the tree)",
+      "answers": [
+        [
+          "under"
+        ]
+      ],
+      "wrongReasons": {
+        "on": "\"on\" means touching the top of a surface. Here the cup is below the tree.",
+        "behind": "\"behind\" means at the back of something. Here the cup is below the tree."
+      }
+    },
+    {
+      "id": "a1-fb-151",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write the correct preposition.",
+      "explanation": "\"in\" means inside: the cat is in the cup.",
+      "text": "The cat is ___ the cup. (= inside the cup)",
+      "answers": [
+        [
+          "in"
+        ]
+      ],
+      "wrongReasons": {
+        "in front of": "\"in front of\" means at the front of something. Here the cat is inside the cup.",
+        "next to": "\"next to\" means beside something. Here the cat is inside the cup."
+      }
+    },
+    {
+      "id": "a1-fb-152",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write at, on or in.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: My sister visits us in 1999.",
+      "text": "My sister visits us ___ 1999.",
+      "answers": [
+        [
+          "in"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"1999\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "on": "\"on\" is used with days and dates. \"1999\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-fb-153",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write at, on or in.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: He gets up in July.",
+      "text": "He gets up ___ July.",
+      "answers": [
+        [
+          "in"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"July\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "on": "\"on\" is used with days and dates. \"July\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-fb-154",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write the correct preposition.",
+      "explanation": "\"under\" means below: the ball is under the table.",
+      "text": "The ball is ___ the table. (= below the table)",
+      "answers": [
+        [
+          "under"
+        ]
+      ],
+      "wrongReasons": {
+        "on": "\"on\" means touching the top of a surface. Here the ball is below the table.",
+        "in": "\"in\" means inside something. Here the ball is below the table."
+      }
+    },
+    {
+      "id": "a1-fb-155",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write at, on or in.",
+      "explanation": "Use \"on\" with a day or a date: I call my friend on Tuesday.",
+      "text": "I call my friend ___ Tuesday.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"Tuesday\" is a day or a date, so we use \"on\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"Tuesday\" is a day or a date, so we use \"on\"."
+      }
+    },
+    {
+      "id": "a1-fb-156",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write the correct preposition.",
+      "explanation": "\"in front of\" means at the front of: the bike is in front of the school.",
+      "text": "The bike is ___ the school. (= at the front of the school)",
+      "answers": [
+        [
+          "in front of"
+        ]
+      ],
+      "wrongReasons": {
+        "in": "\"in\" means inside something. Here the bike is at the front of the school.",
+        "under": "\"under\" means below something. Here the bike is at the front of the school."
+      }
+    },
+    {
+      "id": "a1-fb-157",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write the correct preposition.",
+      "explanation": "\"under\" means below: the dog is under the table.",
+      "text": "The dog is ___ the table. (= below the table)",
+      "answers": [
+        [
+          "under"
+        ]
+      ],
+      "wrongReasons": {
+        "in front of": "\"in front of\" means at the front of something. Here the dog is below the table.",
+        "next to": "\"next to\" means beside something. Here the dog is below the table."
+      }
+    },
+    {
+      "id": "a1-fb-158",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write the correct preposition.",
+      "explanation": "\"behind\" means at the back of: the key is behind the curtain.",
+      "text": "The key is ___ the curtain. (= at the back of the curtain)",
+      "answers": [
+        [
+          "behind"
+        ]
+      ],
+      "wrongReasons": {
+        "in": "\"in\" means inside something. Here the key is at the back of the curtain.",
+        "under": "\"under\" means below something. Here the key is at the back of the curtain."
+      }
+    },
+    {
+      "id": "a1-fb-159",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write at, on or in.",
+      "explanation": "Use \"at\" with a clock time or a fixed time of the day: I call my friend at bedtime.",
+      "text": "I call my friend ___ bedtime.",
+      "answers": [
+        [
+          "at"
+        ]
+      ],
+      "wrongReasons": {
+        "on": "\"on\" is used with days and dates. \"bedtime\" is a clock time or a fixed time of the day, so we use \"at\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"bedtime\" is a clock time or a fixed time of the day, so we use \"at\"."
+      }
+    },
+    {
+      "id": "a1-fb-160",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write the correct preposition.",
+      "explanation": "\"next to\" means beside: the bag is next to the bed.",
+      "text": "The bag is ___ the bed. (= beside the bed)",
+      "answers": [
+        [
+          "next to"
+        ]
+      ],
+      "wrongReasons": {
+        "behind": "\"behind\" means at the back of something. Here the bag is beside the bed.",
+        "on": "\"on\" means touching the top of a surface. Here the bag is beside the bed."
+      }
+    },
+    {
+      "id": "a1-fb-161",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write at, on or in.",
+      "explanation": "Use \"on\" with a day or a date: We play tennis on Saturday.",
+      "text": "We play tennis ___ Saturday.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"Saturday\" is a day or a date, so we use \"on\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"Saturday\" is a day or a date, so we use \"on\"."
+      }
+    },
+    {
+      "id": "a1-fb-162",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write the correct preposition.",
+      "explanation": "\"on\" means on top of: the bird is on the bed.",
+      "text": "The bird is ___ the bed. (= on top of the bed)",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "wrongReasons": {
+        "in": "\"in\" means inside something. Here the bird is on top of the bed.",
+        "in front of": "\"in front of\" means at the front of something. Here the bird is on top of the bed."
+      }
+    },
+    {
+      "id": "a1-fb-163",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write at, on or in.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: They have a party in 2020.",
+      "text": "They have a party ___ 2020.",
+      "answers": [
+        [
+          "in"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"2020\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "on": "\"on\" is used with days and dates. \"2020\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-fb-164",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write the correct preposition.",
+      "explanation": "\"in front of\" means at the front of: the cup is in front of the door.",
+      "text": "The cup is ___ the door. (= at the front of the door)",
+      "answers": [
+        [
+          "in front of"
+        ]
+      ],
+      "wrongReasons": {
+        "in": "\"in\" means inside something. Here the cup is at the front of the door.",
+        "behind": "\"behind\" means at the back of something. Here the cup is at the front of the door."
+      }
+    },
+    {
+      "id": "a1-fb-165",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write at, on or in.",
+      "explanation": "Use \"on\" with a day or a date: The shop opens on Christmas Day.",
+      "text": "The shop opens ___ Christmas Day.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"Christmas Day\" is a day or a date, so we use \"on\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"Christmas Day\" is a day or a date, so we use \"on\"."
+      }
+    },
+    {
+      "id": "a1-fb-166",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write at, on or in.",
+      "explanation": "Use \"on\" with a day or a date: I have a meeting on Sunday morning.",
+      "text": "I have a meeting ___ Sunday morning.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"Sunday morning\" is a day or a date, so we use \"on\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"Sunday morning\" is a day or a date, so we use \"on\"."
+      }
+    },
+    {
+      "id": "a1-fb-167",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write at, on or in.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: They have a party in July.",
+      "text": "They have a party ___ July.",
+      "answers": [
+        [
+          "in"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"at\" is used with clock times and fixed times like \"at night\". \"July\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "on": "\"on\" is used with days and dates. \"July\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-fb-168",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write at, on or in.",
+      "explanation": "Use \"at\" with a clock time or a fixed time of the day: He gets up at the weekend.",
+      "text": "He gets up ___ the weekend.",
+      "answers": [
+        [
+          "at"
+        ]
+      ],
+      "wrongReasons": {
+        "on": "\"on\" is used with days and dates. \"the weekend\" is a clock time or a fixed time of the day, so we use \"at\".",
+        "in": "\"in\" is used with months, years, seasons and parts of the day. \"the weekend\" is a clock time or a fixed time of the day, so we use \"at\"."
+      }
+    },
+    {
+      "id": "a1-fb-169",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write the correct preposition.",
+      "explanation": "\"in\" means inside: the phone is in the cup.",
+      "text": "The phone is ___ the cup. (= inside the cup)",
+      "answers": [
+        [
+          "in"
+        ]
+      ],
+      "wrongReasons": {
+        "on": "\"on\" means touching the top of a surface. Here the phone is inside the cup.",
+        "behind": "\"behind\" means at the back of something. Here the phone is inside the cup."
+      }
+    },
+    {
+      "id": "a1-fb-170",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Write the correct preposition.",
+      "explanation": "\"under\" means below: the ball is under the bridge.",
+      "text": "The ball is ___ the bridge. (= below the bridge)",
+      "answers": [
+        [
+          "under"
+        ]
+      ],
+      "wrongReasons": {
+        "behind": "\"behind\" means at the back of something. Here the ball is below the bridge.",
+        "in": "\"in\" means inside something. Here the ball is below the bridge."
+      }
+    },
+    {
+      "id": "a1-fb-171",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"has\" with he, she, it and one person: Dan has a black dog.",
+      "text": "Dan ___ a black dog.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Dan\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-172",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"has\" with he, she, it and one person: Omar has a good friend.",
+      "text": "Omar ___ a good friend.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Omar\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-173",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: The girls have a good friend.",
+      "text": "The girls ___ a good friend.",
+      "answers": [
+        [
+          "have"
+        ]
+      ],
+      "wrongReasons": {
+        "has": "\"has\" is only for he, she, it and one person. \"the girls\" needs \"have\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-174",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"has\" with he, she, it and one person: Tom has three cats.",
+      "text": "Tom ___ three cats.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Tom\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-175",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"has\" with he, she, it and one person: Paul has two small windows.",
+      "text": "Paul ___ two small windows.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Paul\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-176",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"has\" with he, she, it and one person: Nina has a big family.",
+      "text": "Nina ___ a big family.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Nina\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-177",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"has\" with he, she, it and one person: Anna has a big room.",
+      "text": "Anna ___ a big room.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Anna\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-178",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"has\" with he, she, it and one person: Zoe has a good friend.",
+      "text": "Zoe ___ a good friend.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Zoe\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-179",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"has\" with he, she, it and one person: Lily has a good friend.",
+      "text": "Lily ___ a good friend.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Lily\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-180",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"has\" with he, she, it and one person: Emma has three cats.",
+      "text": "Emma ___ three cats.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Emma\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-181",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"has\" with he, she, it and one person: Ravi has a small garden.",
+      "text": "Ravi ___ a small garden.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Ravi\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-182",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: The children have long hair.",
+      "text": "The children ___ long hair.",
+      "answers": [
+        [
+          "have"
+        ]
+      ],
+      "wrongReasons": {
+        "has": "\"has\" is only for he, she, it and one person. \"the children\" needs \"have\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-183",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use \"has\" with he, she, it and one person: Our teacher has a red bike.",
+      "text": "Our teacher ___ a red bike.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"our teacher\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-fb-184",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the present simple negative use doesn't + base verb: Jack doesn't play tennis.",
+      "text": "Jack ___ play tennis.",
+      "answers": [
+        [
+          "doesn't",
+          "does not"
+        ]
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"Jack\" needs \"doesn't\".",
+        "not": "\"not\" cannot come directly before \"play\". In the present simple we use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-fb-185",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the present simple negative use doesn't + base verb: Anna doesn't play the guitar.",
+      "text": "Anna ___ play the guitar.",
+      "answers": [
+        [
+          "doesn't",
+          "does not"
+        ]
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"Anna\" needs \"doesn't\".",
+        "not": "\"not\" cannot come directly before \"play\". In the present simple we use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-fb-186",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the present simple negative use doesn't + base verb: Our teacher doesn't drive a bus.",
+      "text": "Our teacher ___ drive a bus.",
+      "answers": [
+        [
+          "doesn't",
+          "does not"
+        ]
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"our teacher\" needs \"doesn't\".",
+        "not": "\"not\" cannot come directly before \"drive\". In the present simple we use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-fb-187",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the present simple negative use doesn't + base verb: Mia doesn't play the guitar.",
+      "text": "Mia ___ play the guitar.",
+      "answers": [
+        [
+          "doesn't",
+          "does not"
+        ]
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"Mia\" needs \"doesn't\".",
+        "not": "\"not\" cannot come directly before \"play\". In the present simple we use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-fb-188",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the present simple negative use doesn't + base verb: Mark doesn't buy bread.",
+      "text": "Mark ___ buy bread.",
+      "answers": [
+        [
+          "doesn't",
+          "does not"
+        ]
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"Mark\" needs \"doesn't\".",
+        "not": "\"not\" cannot come directly before \"buy\". In the present simple we use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-fb-189",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the present simple negative use doesn't + base verb: Ivan doesn't write a letter.",
+      "text": "Ivan ___ write a letter.",
+      "answers": [
+        [
+          "doesn't",
+          "does not"
+        ]
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"Ivan\" needs \"doesn't\".",
+        "not": "\"not\" cannot come directly before \"write\". In the present simple we use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-fb-190",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the present simple negative use doesn't + base verb: Maya doesn't love chocolate.",
+      "text": "Maya ___ love chocolate.",
+      "answers": [
+        [
+          "doesn't",
+          "does not"
+        ]
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"Maya\" needs \"doesn't\".",
+        "not": "\"not\" cannot come directly before \"love\". In the present simple we use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-fb-191",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the present simple negative use don't + base verb: Sam and I don't swim in a pool.",
+      "text": "Sam and I ___ swim in a pool.",
+      "answers": [
+        [
+          "don't",
+          "do not"
+        ]
+      ],
+      "wrongReasons": {
+        "doesn't": "\"doesn't\" is only for he, she, it and one person. \"Sam and I\" needs \"don't\".",
+        "not": "\"not\" cannot come directly before \"swim\". In the present simple we use \"don't\"."
+      }
+    },
+    {
+      "id": "a1-fb-192",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the present simple negative use doesn't + base verb: Anna doesn't ride a bike.",
+      "text": "Anna ___ ride a bike.",
+      "answers": [
+        [
+          "doesn't",
+          "does not"
+        ]
+      ],
+      "wrongReasons": {
+        "don't": "\"don't\" is used with I, you, we, they and plural subjects. \"Anna\" needs \"doesn't\".",
+        "not": "\"not\" cannot come directly before \"ride\". In the present simple we use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-fb-193",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Complete the sentence.",
+      "explanation": "With \"to be\" put \"not\" after the verb: Kate isn't nice.",
+      "text": "Kate ___ nice.",
+      "answers": [
+        [
+          "isn't",
+          "is not"
+        ]
+      ],
+      "wrongReasons": {
+        "am not": "\"am not\" is only used with \"I\".",
+        "aren't": "\"aren't\" is for you, we, they and more than one person or thing. With \"Kate\" we use \"isn't\"."
+      }
+    },
+    {
+      "id": "a1-fb-194",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct question word.",
+      "explanation": "When asks about a time: When does the shop close?",
+      "text": "___ does the shop close? — At six.",
+      "answers": [
+        [
+          "When"
+        ]
+      ],
+      "wrongReasons": {
+        "why": "\"Why\" asks about a reason, but the answer \"At six.\" is a time.",
+        "how": "\"How\" asks about a way or a feeling, but the answer \"At six.\" is a time."
+      }
+    },
+    {
+      "id": "a1-fb-195",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct question word.",
+      "explanation": "Where asks about a place: Where is the cat?",
+      "text": "___ is the cat? — Under the bed.",
+      "answers": [
+        [
+          "Where"
+        ]
+      ],
+      "wrongReasons": {
+        "why": "\"Why\" asks about a reason, but the answer \"Under the bed.\" is a place.",
+        "how": "\"How\" asks about a way or a feeling, but the answer \"Under the bed.\" is a place."
+      }
+    },
+    {
+      "id": "a1-fb-196",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct question word.",
+      "explanation": "How old asks about an age: How old is your dog?",
+      "text": "___ is your dog? — He is three.",
+      "answers": [
+        [
+          "How old"
+        ]
+      ],
+      "wrongReasons": {
+        "what": "\"What\" asks about a thing, but the answer \"He is three.\" is an age.",
+        "how": "\"How\" asks about a way or a feeling, but the answer \"He is three.\" is an age."
+      }
+    },
+    {
+      "id": "a1-fb-197",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct question word.",
+      "explanation": "What asks about a thing: What is your favourite colour?",
+      "text": "___ is your favourite colour? — Blue.",
+      "answers": [
+        [
+          "What"
+        ]
+      ],
+      "wrongReasons": {
+        "why": "\"Why\" asks about a reason, but the answer \"Blue.\" is a thing.",
+        "who": "\"Who\" asks about a person, but the answer \"Blue.\" is a thing."
+      }
+    },
+    {
+      "id": "a1-fb-198",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct question word.",
+      "explanation": "Where asks about a place: Where do you live?",
+      "text": "___ do you live? — In London.",
+      "answers": [
+        [
+          "Where"
+        ]
+      ],
+      "wrongReasons": {
+        "what": "\"What\" asks about a thing, but the answer \"In London.\" is a place.",
+        "why": "\"Why\" asks about a reason, but the answer \"In London.\" is a place."
+      }
+    },
+    {
+      "id": "a1-fb-199",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct question word.",
+      "explanation": "When asks about a time: When do you get up?",
+      "text": "___ do you get up? — At seven.",
+      "answers": [
+        [
+          "When"
+        ]
+      ],
+      "wrongReasons": {
+        "what": "\"What\" asks about a thing, but the answer \"At seven.\" is a time.",
+        "where": "\"Where\" asks about a place, but the answer \"At seven.\" is a time."
+      }
+    },
+    {
+      "id": "a1-fb-200",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct question word.",
+      "explanation": "Why asks about a reason: Why are you happy?",
+      "text": "___ are you happy? — Because it is my birthday.",
+      "answers": [
+        [
+          "Why"
+        ]
+      ],
+      "wrongReasons": {
+        "how old": "\"How old\" asks about an age, but the answer \"Because it is my birthday.\" is a reason.",
+        "who": "\"Who\" asks about a person, but the answer \"Because it is my birthday.\" is a reason."
+      }
+    },
+    {
+      "id": "a1-fb-201",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct question word.",
+      "explanation": "When asks about a time: When is the lesson?",
+      "text": "___ is the lesson? — On Monday.",
+      "answers": [
+        [
+          "When"
+        ]
+      ],
+      "wrongReasons": {
+        "how many": "\"How many\" asks about a number, but the answer \"On Monday.\" is a time.",
+        "who": "\"Who\" asks about a person, but the answer \"On Monday.\" is a time."
+      }
+    },
+    {
+      "id": "a1-fb-202",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct question word.",
+      "explanation": "Where asks about a place: Where is the post office?",
+      "text": "___ is the post office? — Near the school.",
+      "answers": [
+        [
+          "Where"
+        ]
+      ],
+      "wrongReasons": {
+        "how": "\"How\" asks about a way or a feeling, but the answer \"Near the school.\" is a place.",
+        "when": "\"When\" asks about a time, but the answer \"Near the school.\" is a place."
+      }
+    },
+    {
+      "id": "a1-fb-203",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct question word.",
+      "explanation": "Who asks about a person: Who is that man?",
+      "text": "___ is that man? — He is my father.",
+      "answers": [
+        [
+          "Who"
+        ]
+      ],
+      "wrongReasons": {
+        "how much": "\"How much\" asks about a price or an amount, but the answer \"He is my father.\" is a person.",
+        "what": "\"What\" asks about a thing, but the answer \"He is my father.\" is a person."
+      }
+    },
+    {
+      "id": "a1-fb-204",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "2 + 10 = 12, written \"twelve\".",
+      "text": "2 + 10 = ___",
+      "answers": [
+        [
+          "twelve"
+        ]
+      ],
+      "wrongReasons": {
+        "eleven": "\"eleven\" is 11, but 2 + 10 is 12.",
+        "thirteen": "\"thirteen\" is 13, but 2 + 10 is 12."
+      }
+    },
+    {
+      "id": "a1-fb-205",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "3 is written \"three\".",
+      "text": "3 = ___",
+      "answers": [
+        [
+          "three"
+        ]
+      ],
+      "wrongReasons": {
+        "thirteen": "\"thirteen\" is 13, not 3.",
+        "five": "\"five\" is 5, not 3."
+      }
+    },
+    {
+      "id": "a1-fb-206",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "3 + 4 = 7, written \"seven\".",
+      "text": "3 + 4 = ___",
+      "answers": [
+        [
+          "seven"
+        ]
+      ],
+      "wrongReasons": {
+        "six": "\"six\" is 6, but 3 + 4 is 7.",
+        "eight": "\"eight\" is 8, but 3 + 4 is 7."
+      }
+    },
+    {
+      "id": "a1-fb-207",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "99 is written \"ninety-nine\".",
+      "text": "99 = ___",
+      "answers": [
+        [
+          "ninety-nine"
+        ]
+      ],
+      "wrongReasons": {
+        "ninety-eight": "\"ninety-eight\" is 98, not 99.",
+        "ninety-seven": "\"ninety-seven\" is 97, not 99."
+      }
+    },
+    {
+      "id": "a1-fb-208",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "91 is written \"ninety-one\".",
+      "text": "91 = ___",
+      "answers": [
+        [
+          "ninety-one"
+        ]
+      ],
+      "wrongReasons": {
+        "ninety-two": "\"ninety-two\" is 92, not 91.",
+        "eighty-nine": "\"eighty-nine\" is 89, not 91."
+      }
+    },
+    {
+      "id": "a1-fb-209",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "6 + 7 = 13, written \"thirteen\".",
+      "text": "6 + 7 = ___",
+      "answers": [
+        [
+          "thirteen"
+        ]
+      ],
+      "wrongReasons": {
+        "twelve": "\"twelve\" is 12, but 6 + 7 is 13.",
+        "fourteen": "\"fourteen\" is 14, but 6 + 7 is 13."
+      }
+    },
+    {
+      "id": "a1-fb-210",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "6 + 5 = 11, written \"eleven\".",
+      "text": "6 + 5 = ___",
+      "answers": [
+        [
+          "eleven"
+        ]
+      ],
+      "wrongReasons": {
+        "ten": "\"ten\" is 10, but 6 + 5 is 11.",
+        "twelve": "\"twelve\" is 12, but 6 + 5 is 11."
+      }
+    },
+    {
+      "id": "a1-fb-211",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "58 is written \"fifty-eight\".",
+      "text": "58 = ___",
+      "answers": [
+        [
+          "fifty-eight"
+        ]
+      ],
+      "wrongReasons": {
+        "fifty-seven": "\"fifty-seven\" is 57, not 58.",
+        "sixty": "\"sixty\" is 60, not 58."
+      }
+    },
+    {
+      "id": "a1-fb-212",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "7 + 3 = 10, written \"ten\".",
+      "text": "7 + 3 = ___",
+      "answers": [
+        [
+          "ten"
+        ]
+      ],
+      "wrongReasons": {
+        "nine": "\"nine\" is 9, but 7 + 3 is 10.",
+        "eleven": "\"eleven\" is 11, but 7 + 3 is 10."
+      }
+    },
+    {
+      "id": "a1-fb-213",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "18 is written \"eighteen\".",
+      "text": "18 = ___",
+      "answers": [
+        [
+          "eighteen"
+        ]
+      ],
+      "wrongReasons": {
+        "eightteen": "Check the spelling: 18 is written \"eighteen\".",
+        "twenty-eight": "\"twenty-eight\" is 28, not 18.",
+        "twenty": "\"twenty\" is 20, not 18."
+      }
+    },
+    {
+      "id": "a1-fb-214",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "8 + 5 = 13, written \"thirteen\".",
+      "text": "8 + 5 = ___",
+      "answers": [
+        [
+          "thirteen"
+        ]
+      ],
+      "wrongReasons": {
+        "twelve": "\"twelve\" is 12, but 8 + 5 is 13.",
+        "fourteen": "\"fourteen\" is 14, but 8 + 5 is 13."
+      }
+    },
+    {
+      "id": "a1-fb-215",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "88 is written \"eighty-eight\".",
+      "text": "88 = ___",
+      "answers": [
+        [
+          "eighty-eight"
+        ]
+      ],
+      "wrongReasons": {
+        "ninety-eight": "\"ninety-eight\" is 98, not 88.",
+        "eighty-nine": "\"eighty-nine\" is 89, not 88."
+      }
+    },
+    {
+      "id": "a1-fb-216",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "19 is written \"nineteen\".",
+      "text": "19 = ___",
+      "answers": [
+        [
+          "nineteen"
+        ]
+      ],
+      "wrongReasons": {
+        "nineten": "Check the spelling: 19 is written \"nineteen\".",
+        "nine": "\"nine\" is 9, not 19.",
+        "seventeen": "\"seventeen\" is 17, not 19."
+      }
+    },
+    {
+      "id": "a1-fb-217",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "21 is written \"twenty-one\".",
+      "text": "21 = ___",
+      "answers": [
+        [
+          "twenty-one"
+        ]
+      ],
+      "wrongReasons": {
+        "eleven": "\"eleven\" is 11, not 21.",
+        "twenty": "\"twenty\" is 20, not 21."
+      }
+    },
+    {
+      "id": "a1-fb-218",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "50 is written \"fifty\".",
+      "text": "50 = ___",
+      "answers": [
+        [
+          "fifty"
+        ]
+      ],
+      "wrongReasons": {
+        "forty-eight": "\"forty-eight\" is 48, not 50.",
+        "forty": "\"forty\" is 40, not 50."
+      }
+    },
+    {
+      "id": "a1-fb-219",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "6 is written \"six\".",
+      "text": "6 = ___",
+      "answers": [
+        [
+          "six"
+        ]
+      ],
+      "wrongReasons": {
+        "sixteen": "\"sixteen\" is 16, not 6.",
+        "eight": "\"eight\" is 8, not 6."
+      }
+    },
+    {
+      "id": "a1-fb-220",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "6 + 3 = 9, written \"nine\".",
+      "text": "6 + 3 = ___",
+      "answers": [
+        [
+          "nine"
+        ]
+      ],
+      "wrongReasons": {
+        "eight": "\"eight\" is 8, but 6 + 3 is 9.",
+        "ten": "\"ten\" is 10, but 6 + 3 is 9."
+      }
+    },
+    {
+      "id": "a1-fb-221",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "15 is written \"fifteen\".",
+      "text": "15 = ___",
+      "answers": [
+        [
+          "fifteen"
+        ]
+      ],
+      "wrongReasons": {
+        "fiveteen": "Check the spelling: 15 is written \"fifteen\".",
+        "sixteen": "\"sixteen\" is 16, not 15.",
+        "twenty-five": "\"twenty-five\" is 25, not 15."
+      }
+    },
+    {
+      "id": "a1-fb-222",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "3 + 9 = 12, written \"twelve\".",
+      "text": "3 + 9 = ___",
+      "answers": [
+        [
+          "twelve"
+        ]
+      ],
+      "wrongReasons": {
+        "eleven": "\"eleven\" is 11, but 3 + 9 is 12.",
+        "thirteen": "\"thirteen\" is 13, but 3 + 9 is 12."
+      }
+    },
+    {
+      "id": "a1-fb-223",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "2 + 2 = 4, written \"four\".",
+      "text": "2 + 2 = ___",
+      "answers": [
+        [
+          "four"
+        ]
+      ],
+      "wrongReasons": {
+        "three": "\"three\" is 3, but 2 + 2 is 4.",
+        "five": "\"five\" is 5, but 2 + 2 is 4."
+      }
+    },
+    {
+      "id": "a1-fb-224",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "7 + 9 = 16, written \"sixteen\".",
+      "text": "7 + 9 = ___",
+      "answers": [
+        [
+          "sixteen"
+        ]
+      ],
+      "wrongReasons": {
+        "fifteen": "\"fifteen\" is 15, but 7 + 9 is 16.",
+        "seventeen": "\"seventeen\" is 17, but 7 + 9 is 16."
+      }
+    },
+    {
+      "id": "a1-fb-225",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "8 + 9 = 17, written \"seventeen\".",
+      "text": "8 + 9 = ___",
+      "answers": [
+        [
+          "seventeen"
+        ]
+      ],
+      "wrongReasons": {
+        "sixteen": "\"sixteen\" is 16, but 8 + 9 is 17.",
+        "eighteen": "\"eighteen\" is 18, but 8 + 9 is 17."
+      }
+    },
+    {
+      "id": "a1-fb-226",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "80 is written \"eighty\".",
+      "text": "80 = ___",
+      "answers": [
+        [
+          "eighty"
+        ]
+      ],
+      "wrongReasons": {
+        "seventy-nine": "\"seventy-nine\" is 79, not 80.",
+        "eighteen": "\"eighteen\" is 18, not 80."
+      }
+    },
+    {
+      "id": "a1-fb-227",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "1 is written \"one\".",
+      "text": "1 = ___",
+      "answers": [
+        [
+          "one"
+        ]
+      ],
+      "wrongReasons": {
+        "three": "\"three\" is 3, not 1.",
+        "eleven": "\"eleven\" is 11, not 1."
+      }
+    },
+    {
+      "id": "a1-fb-228",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "13 is written \"thirteen\".",
+      "text": "13 = ___",
+      "answers": [
+        [
+          "thirteen"
+        ]
+      ],
+      "wrongReasons": {
+        "thirten": "Check the spelling: 13 is written \"thirteen\".",
+        "thirty": "\"thirty\" is 30, not 13.",
+        "twelve": "\"twelve\" is 12, not 13."
+      }
+    },
+    {
+      "id": "a1-fb-229",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "9 + 2 = 11, written \"eleven\".",
+      "text": "9 + 2 = ___",
+      "answers": [
+        [
+          "eleven"
+        ]
+      ],
+      "wrongReasons": {
+        "ten": "\"ten\" is 10, but 9 + 2 is 11.",
+        "twelve": "\"twelve\" is 12, but 9 + 2 is 11."
+      }
+    },
+    {
+      "id": "a1-fb-230",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "7 + 5 = 12, written \"twelve\".",
+      "text": "7 + 5 = ___",
+      "answers": [
+        [
+          "twelve"
+        ]
+      ],
+      "wrongReasons": {
+        "eleven": "\"eleven\" is 11, but 7 + 5 is 12.",
+        "thirteen": "\"thirteen\" is 13, but 7 + 5 is 12."
+      }
+    },
+    {
+      "id": "a1-fb-231",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "8 + 1 = 9, written \"nine\".",
+      "text": "8 + 1 = ___",
+      "answers": [
+        [
+          "nine"
+        ]
+      ],
+      "wrongReasons": {
+        "eight": "\"eight\" is 8, but 8 + 1 is 9.",
+        "ten": "\"ten\" is 10, but 8 + 1 is 9."
+      }
+    },
+    {
+      "id": "a1-fb-232",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "6 + 9 = 15, written \"fifteen\".",
+      "text": "6 + 9 = ___",
+      "answers": [
+        [
+          "fifteen"
+        ]
+      ],
+      "wrongReasons": {
+        "fourteen": "\"fourteen\" is 14, but 6 + 9 is 15.",
+        "sixteen": "\"sixteen\" is 16, but 6 + 9 is 15."
+      }
+    },
+    {
+      "id": "a1-fb-233",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "0 is written \"zero\".",
+      "text": "0 = ___",
+      "answers": [
+        [
+          "zero"
+        ]
+      ],
+      "wrongReasons": {
+        "ten": "\"ten\" is 10, not 0.",
+        "one": "\"one\" is 1, not 0."
+      }
+    },
+    {
+      "id": "a1-fb-234",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "1 + 4 = 5, written \"five\".",
+      "text": "1 + 4 = ___",
+      "answers": [
+        [
+          "five"
+        ]
+      ],
+      "wrongReasons": {
+        "four": "\"four\" is 4, but 1 + 4 is 5.",
+        "six": "\"six\" is 6, but 1 + 4 is 5."
+      }
+    },
+    {
+      "id": "a1-fb-235",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the answer in words.",
+      "explanation": "4 + 1 = 5, written \"five\".",
+      "text": "4 + 1 = ___",
+      "answers": [
+        [
+          "five"
+        ]
+      ],
+      "wrongReasons": {
+        "four": "\"four\" is 4, but 4 + 1 is 5.",
+        "six": "\"six\" is 6, but 4 + 1 is 5."
+      }
+    },
+    {
+      "id": "a1-fb-236",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Write the number in words.",
+      "explanation": "9 is written \"nine\".",
+      "text": "9 = ___",
+      "answers": [
+        [
+          "nine"
+        ]
+      ],
+      "wrongReasons": {
+        "nin": "Check the spelling: 9 is written \"nine\".",
+        "eight": "\"eight\" is 8, not 9.",
+        "eleven": "\"eleven\" is 11, not 9."
+      }
+    },
+    {
+      "id": "a1-fb-237",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"farmer\" means a person who grows food on a farm.",
+      "text": "The word for a person who grows food on a farm is ___.",
+      "answers": [
+        [
+          "farmer"
+        ]
+      ],
+      "wrongReasons": {
+        "nurse": "\"nurse\" means a person who looks after patients in a hospital.",
+        "dentist": "\"dentist\" means a person who looks after your teeth."
+      }
+    },
+    {
+      "id": "a1-fb-238",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"salad\" means a cold dish of fresh vegetables.",
+      "text": "The word for a cold dish of fresh vegetables is ___.",
+      "answers": [
+        [
+          "salad"
+        ]
+      ],
+      "wrongReasons": {
+        "honey": "\"honey\" means a sweet food made by bees.",
+        "cheese": "\"cheese\" means a yellow food made from milk."
+      }
+    },
+    {
+      "id": "a1-fb-239",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"bakery\" means a shop where you buy bread.",
+      "text": "The word for a shop where you buy bread is ___.",
+      "answers": [
+        [
+          "bakery"
+        ]
+      ],
+      "wrongReasons": {
+        "restaurant": "\"restaurant\" means a place where you eat a meal and pay for it.",
+        "airport": "\"airport\" means a place where planes arrive and leave."
+      }
+    },
+    {
+      "id": "a1-fb-240",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"clock\" means a thing that tells you the time.",
+      "text": "The word for a thing that tells you the time is ___.",
+      "answers": [
+        [
+          "clock"
+        ]
+      ],
+      "wrongReasons": {
+        "bottle": "\"bottle\" means a thing that holds water or milk.",
+        "towel": "\"towel\" means a thing you use to dry your body."
+      }
+    },
+    {
+      "id": "a1-fb-241",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"wallet\" means a small thing for money and cards.",
+      "text": "The word for a small thing for money and cards is ___.",
+      "answers": [
+        [
+          "wallet"
+        ]
+      ],
+      "wrongReasons": {
+        "toothbrush": "\"toothbrush\" means a thing you use to clean your teeth.",
+        "lamp": "\"lamp\" means a thing that gives light in a room."
+      }
+    },
+    {
+      "id": "a1-fb-242",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"artist\" means a person who paints pictures.",
+      "text": "The word for a person who paints pictures is ___.",
+      "answers": [
+        [
+          "artist"
+        ]
+      ],
+      "wrongReasons": {
+        "postman": "\"postman\" means a person who brings letters to your house.",
+        "doctor": "\"doctor\" means a person who helps sick people."
+      }
+    },
+    {
+      "id": "a1-fb-243",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"duck\" means a bird that swims on a lake.",
+      "text": "The word for a bird that swims on a lake is ___.",
+      "answers": [
+        [
+          "duck"
+        ]
+      ],
+      "wrongReasons": {
+        "spider": "\"spider\" means a small animal with eight legs.",
+        "bird": "\"bird\" means an animal with wings and feathers."
+      }
+    },
+    {
+      "id": "a1-fb-244",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"ear\" means the part of the body you hear with.",
+      "text": "The word for the part of the body you hear with is ___.",
+      "answers": [
+        [
+          "ear"
+        ]
+      ],
+      "wrongReasons": {
+        "mouth": "\"mouth\" means the part of the body you eat with.",
+        "hair": "\"hair\" means what grows on your head."
+      }
+    },
+    {
+      "id": "a1-fb-245",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"park\" means a green place in a town where people walk and play.",
+      "text": "The word for a green place in a town where people walk and play is ___.",
+      "answers": [
+        [
+          "park"
+        ]
+      ],
+      "wrongReasons": {
+        "airport": "\"airport\" means a place where planes arrive and leave.",
+        "cinema": "\"cinema\" means a place where you watch films."
+      }
+    },
+    {
+      "id": "a1-fb-246",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"sister\" means a girl with the same parents as you.",
+      "text": "The word for a girl with the same parents as you is ___.",
+      "answers": [
+        [
+          "sister"
+        ]
+      ],
+      "wrongReasons": {
+        "uncle": "\"uncle\" means the brother of your mother or father.",
+        "daughter": "\"daughter\" means your female child."
+      }
+    },
+    {
+      "id": "a1-fb-247",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"mirror\" means a thing where you can see your face.",
+      "text": "The word for a thing where you can see your face is ___.",
+      "answers": [
+        [
+          "mirror"
+        ]
+      ],
+      "wrongReasons": {
+        "spoon": "\"spoon\" means a thing you use to eat soup.",
+        "lamp": "\"lamp\" means a thing that gives light in a room."
+      }
+    },
+    {
+      "id": "a1-fb-248",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with the correct word.",
+      "explanation": "\"cheese\" means a yellow food made from milk.",
+      "text": "The word for a yellow food made from milk is ___.",
+      "answers": [
+        [
+          "cheese"
+        ]
+      ],
+      "wrongReasons": {
+        "soup": "\"soup\" means a hot food that we eat with a spoon.",
+        "pasta": "\"pasta\" means an Italian food made from flour and water."
+      }
+    },
+    {
+      "id": "a1-fb-249",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"late\" is \"early\".",
+      "text": "\"late\" ≠ ___",
+      "answers": [
+        [
+          "early"
+        ]
+      ],
+      "wrongReasons": {
+        "empty": "\"empty\" is the opposite of \"full\", not of \"late\".",
+        "light": "\"light\" is the opposite of \"dark\", not of \"late\"."
+      }
+    },
+    {
+      "id": "a1-fb-250",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"fat\" is \"thin\".",
+      "text": "\"fat\" ≠ ___",
+      "answers": [
+        [
+          "thin"
+        ]
+      ],
+      "wrongReasons": {
+        "quiet": "\"quiet\" is the opposite of \"noisy\", not of \"fat\".",
+        "rich": "\"rich\" is the opposite of \"poor\", not of \"fat\"."
+      }
+    },
+    {
+      "id": "a1-fb-251",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"empty\" is \"full\".",
+      "text": "\"empty\" ≠ ___",
+      "answers": [
+        [
+          "full"
+        ]
+      ],
+      "wrongReasons": {
+        "dry": "\"dry\" is the opposite of \"wet\", not of \"empty\".",
+        "early": "\"early\" is the opposite of \"late\", not of \"empty\"."
+      }
+    },
+    {
+      "id": "a1-fb-252",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"small\" is \"big\".",
+      "text": "\"small\" ≠ ___",
+      "answers": [
+        [
+          "big"
+        ]
+      ],
+      "wrongReasons": {
+        "far": "\"far\" is the opposite of \"near\", not of \"small\".",
+        "dry": "\"dry\" is the opposite of \"wet\", not of \"small\"."
+      }
+    },
+    {
+      "id": "a1-fb-253",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"noisy\" is \"quiet\".",
+      "text": "\"noisy\" ≠ ___",
+      "answers": [
+        [
+          "quiet"
+        ]
+      ],
+      "wrongReasons": {
+        "early": "\"early\" is the opposite of \"late\", not of \"noisy\".",
+        "sad": "\"sad\" is the opposite of \"happy\", not of \"noisy\"."
+      }
+    },
+    {
+      "id": "a1-fb-254",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"rich\" is \"poor\".",
+      "text": "\"rich\" ≠ ___",
+      "answers": [
+        [
+          "poor"
+        ]
+      ],
+      "wrongReasons": {
+        "wrong": "\"wrong\" is the opposite of \"right\", not of \"rich\".",
+        "easy": "\"easy\" is the opposite of \"difficult\", not of \"rich\"."
+      }
+    },
+    {
+      "id": "a1-fb-255",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"tall\" is \"short\".",
+      "text": "\"tall\" ≠ ___",
+      "answers": [
+        [
+          "short"
+        ]
+      ],
+      "wrongReasons": {
+        "open": "\"open\" is the opposite of \"closed\", not of \"tall\".",
+        "empty": "\"empty\" is the opposite of \"full\", not of \"tall\"."
+      }
+    },
+    {
+      "id": "a1-fb-256",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"wrong\" is \"right\".",
+      "text": "\"wrong\" ≠ ___",
+      "answers": [
+        [
+          "right"
+        ]
+      ],
+      "wrongReasons": {
+        "tall": "\"tall\" is the opposite of \"short\", not of \"wrong\".",
+        "young": "\"young\" is the opposite of \"old\", not of \"wrong\"."
+      }
+    },
+    {
+      "id": "a1-fb-257",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"wet\" is \"dry\".",
+      "text": "\"wet\" ≠ ___",
+      "answers": [
+        [
+          "dry"
+        ]
+      ],
+      "wrongReasons": {
+        "dark": "\"dark\" is the opposite of \"light\", not of \"wet\".",
+        "fat": "\"fat\" is the opposite of \"thin\", not of \"wet\"."
+      }
+    },
+    {
+      "id": "a1-fb-258",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"long\" is \"short\".",
+      "text": "\"long\" ≠ ___",
+      "answers": [
+        [
+          "short"
+        ]
+      ],
+      "wrongReasons": {
+        "early": "\"early\" is the opposite of \"late\", not of \"long\".",
+        "white": "\"white\" is the opposite of \"black\", not of \"long\"."
+      }
+    },
+    {
+      "id": "a1-fb-259",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"expensive\" is \"cheap\".",
+      "text": "\"expensive\" ≠ ___",
+      "answers": [
+        [
+          "cheap"
+        ]
+      ],
+      "wrongReasons": {
+        "fast": "\"fast\" is the opposite of \"slow\", not of \"expensive\".",
+        "late": "\"late\" is the opposite of \"early\", not of \"expensive\"."
+      }
+    },
+    {
+      "id": "a1-fb-260",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"near\" is \"far\".",
+      "text": "\"near\" ≠ ___",
+      "answers": [
+        [
+          "far"
+        ]
+      ],
+      "wrongReasons": {
+        "dirty": "\"dirty\" is the opposite of \"clean\", not of \"near\".",
+        "black": "\"black\" is the opposite of \"white\", not of \"near\"."
+      }
+    },
+    {
+      "id": "a1-fb-261",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"early\" is \"late\".",
+      "text": "\"early\" ≠ ___",
+      "answers": [
+        [
+          "late"
+        ]
+      ],
+      "wrongReasons": {
+        "closed": "\"closed\" is the opposite of \"open\", not of \"early\".",
+        "dark": "\"dark\" is the opposite of \"light\", not of \"early\"."
+      }
+    },
+    {
+      "id": "a1-fb-262",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"poor\" is \"rich\".",
+      "text": "\"poor\" ≠ ___",
+      "answers": [
+        [
+          "rich"
+        ]
+      ],
+      "wrongReasons": {
+        "big": "\"big\" is the opposite of \"small\", not of \"poor\".",
+        "cold": "\"cold\" is the opposite of \"hot\", not of \"poor\"."
+      }
+    },
+    {
+      "id": "a1-fb-263",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"thick\" is \"thin\".",
+      "text": "\"thick\" ≠ ___",
+      "answers": [
+        [
+          "thin"
+        ]
+      ],
+      "wrongReasons": {
+        "small": "\"small\" is the opposite of \"big\", not of \"thick\".",
+        "good": "\"good\" is the opposite of \"bad\", not of \"thick\"."
+      }
+    },
+    {
+      "id": "a1-fb-264",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"sad\" is \"happy\".",
+      "text": "\"sad\" ≠ ___",
+      "answers": [
+        [
+          "happy"
+        ]
+      ],
+      "wrongReasons": {
+        "cold": "\"cold\" is the opposite of \"hot\", not of \"sad\".",
+        "thick": "\"thick\" is the opposite of \"thin\", not of \"sad\"."
+      }
+    },
+    {
+      "id": "a1-fb-265",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Write the opposite word.",
+      "explanation": "The opposite of \"difficult\" is \"easy\".",
+      "text": "\"difficult\" ≠ ___",
+      "answers": [
+        [
+          "easy"
+        ]
+      ],
+      "wrongReasons": {
+        "clean": "\"clean\" is the opposite of \"dirty\", not of \"difficult\".",
+        "big": "\"big\" is the opposite of \"small\", not of \"difficult\"."
+      }
     }
   ]
 }

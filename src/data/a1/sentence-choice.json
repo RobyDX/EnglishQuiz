@@ -91,6 +91,3516 @@
         "What is time it?"
       ],
       "correct": 1
+    },
+    {
+      "id": "a1-sc-006",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "He am a teacher.",
+        "He is a teacher.",
+        "He are a teacher."
+      ],
+      "correct": 1,
+      "explanation": "Use \"is\" with he: He is a teacher.",
+      "wrongReasons": {
+        "0": "\"am\" is only used with \"I\".",
+        "2": "\"are\" is used with we, you and they."
+      }
+    },
+    {
+      "id": "a1-sc-007",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "She like apples.",
+        "She likes apples.",
+        "She liking apples."
+      ],
+      "correct": 1,
+      "explanation": "With she add -s to the verb: She likes apples.",
+      "wrongReasons": {
+        "0": "With \"she\" the verb needs -s.",
+        "2": "\"liking\" needs \"is\": She is liking. In the present simple use \"likes\"."
+      }
+    },
+    {
+      "id": "a1-sc-008",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "There is two cats here.",
+        "There are two cats here.",
+        "There be two cats here."
+      ],
+      "correct": 1,
+      "explanation": "Use \"There are\" with plural nouns: There are two cats.",
+      "wrongReasons": {
+        "0": "\"There is\" is for one thing. \"two cats\" is plural.",
+        "2": "\"be\" is not used like this. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-sc-009",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "I no like milk.",
+        "I don't like milk.",
+        "I not like milk."
+      ],
+      "correct": 1,
+      "explanation": "Use \"don't\" + base verb: I don't like milk.",
+      "wrongReasons": {
+        "0": "\"no\" cannot make a negative verb. Use \"don't\".",
+        "2": "\"not\" alone cannot go before \"like\". Use \"don't\"."
+      }
+    },
+    {
+      "id": "a1-sc-010",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "Where you live?",
+        "Where do you live?",
+        "Where you do live?"
+      ],
+      "correct": 1,
+      "explanation": "Question word + do + subject + verb: Where do you live?",
+      "wrongReasons": {
+        "0": "The question needs \"do\" before \"you\".",
+        "2": "\"do\" goes before \"you\", not after it."
+      }
+    },
+    {
+      "id": "a1-sc-011",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Leo is from Japan.",
+      "options": [
+        "Leo are from Japan.",
+        "Leo am from Japan.",
+        "Leo is from Japan."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"are\" is only for you, we, they and more than one person or thing. With \"Leo\" we use \"is\".",
+        "1": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-sc-012",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Kate is at home.",
+      "options": [
+        "Kate are at home.",
+        "Kate am at home.",
+        "Kate is at home."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"are\" is only for you, we, they and more than one person or thing. With \"Kate\" we use \"is\".",
+        "1": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-sc-013",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: My father is at work.",
+      "options": [
+        "My father are at work.",
+        "My father is at work.",
+        "My father am at work."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"are\" is only for you, we, they and more than one person or thing. With \"my father\" we use \"is\".",
+        "2": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-sc-014",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: My parents are from Spain.",
+      "options": [
+        "My parents am from Spain.",
+        "My parents is from Spain.",
+        "My parents are from Spain."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"am\" is only used with \"I\".",
+        "1": "\"is\" is only for he, she, it and one person or thing. With \"my parents\" we use \"are\"."
+      }
+    },
+    {
+      "id": "a1-sc-015",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: Ben and Lucy are at work.",
+      "options": [
+        "Ben and Lucy are at work.",
+        "Ben and Lucy is at work.",
+        "Ben and Lucy am at work."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"is\" is only for he, she, it and one person or thing. With \"Ben and Lucy\" we use \"are\".",
+        "2": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-sc-016",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"am\" with I. Example: I am funny.",
+      "options": [
+        "I am funny.",
+        "I are funny.",
+        "I is funny."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"are\" is only for you, we, they and more than one person or thing. With \"I\" we use \"am\".",
+        "2": "\"is\" is only for he, she, it and one person or thing. With \"I\" we use \"am\"."
+      }
+    },
+    {
+      "id": "a1-sc-017",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Tom is in the classroom.",
+      "options": [
+        "Tom are in the classroom.",
+        "Tom am in the classroom.",
+        "Tom is in the classroom."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"are\" is only for you, we, they and more than one person or thing. With \"Tom\" we use \"is\".",
+        "1": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-sc-018",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: Sam and I are at home.",
+      "options": [
+        "Sam and I am at home.",
+        "Sam and I is at home.",
+        "Sam and I are at home."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"am\" is only used with \"I\".",
+        "1": "\"is\" is only for he, she, it and one person or thing. With \"Sam and I\" we use \"are\"."
+      }
+    },
+    {
+      "id": "a1-sc-019",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: my brother needs.",
+      "options": [
+        "My brother need a new bag.",
+        "My brother is need a new bag.",
+        "My brother needs a new bag."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"need\" is the base form. It is used with I, you, we, they and plural subjects, not with \"my brother\".",
+        "1": "\"is\" cannot be used before the base verb \"need\". Use \"needs\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-020",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Rosa waits.",
+      "options": [
+        "Rosa waiting for the bus.",
+        "Rosa waits for the bus.",
+        "Rosa is wait for the bus."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"waiting\" needs \"is\" before it. For a routine use \"waits\".",
+        "2": "\"is\" cannot be used before the base verb \"wait\". Use \"waits\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-021",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Lily loves.",
+      "options": [
+        "Lily love music.",
+        "Lily is love music.",
+        "Lily loves music."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"love\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Lily\".",
+        "1": "\"is\" cannot be used before the base verb \"love\". Use \"loves\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-022",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Ivan lives.",
+      "options": [
+        "Ivan live in a small town.",
+        "Ivan is live in a small town.",
+        "Ivan lives in a small town."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"live\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Ivan\".",
+        "1": "\"is\" cannot be used before the base verb \"live\". Use \"lives\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-023",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Lucy studies.",
+      "options": [
+        "Lucy studies English.",
+        "Lucy studying English.",
+        "Lucy study English."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"studying\" needs \"is\" before it. For a routine use \"studies\".",
+        "2": "\"study\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Lucy\"."
+      }
+    },
+    {
+      "id": "a1-sc-024",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: Sam and I work.",
+      "options": [
+        "Sam and I are work in a hospital.",
+        "Sam and I work in a hospital.",
+        "Sam and I working in a hospital."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"are\" cannot be used before the base verb \"work\". Use \"work\" alone.",
+        "2": "\"working\" needs \"are\" before it. For a routine use \"work\"."
+      }
+    },
+    {
+      "id": "a1-sc-025",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: Ben and Lucy ask.",
+      "options": [
+        "Ben and Lucy asking questions.",
+        "Ben and Lucy ask questions.",
+        "Ben and Lucy are ask questions."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"asking\" needs \"are\" before it. For a routine use \"ask\".",
+        "2": "\"are\" cannot be used before the base verb \"ask\". Use \"ask\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-026",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: you fly.",
+      "options": [
+        "You fly a kite.",
+        "You flying a kite.",
+        "You are fly a kite."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"flying\" needs \"are\" before it. For a routine use \"fly\".",
+        "2": "\"are\" cannot be used before the base verb \"fly\". Use \"fly\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-027",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: the cats drink.",
+      "options": [
+        "The cats drinking water.",
+        "The cats are drink water.",
+        "The cats drink water."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"drinking\" needs \"are\" before it. For a routine use \"drink\".",
+        "1": "\"are\" cannot be used before the base verb \"drink\". Use \"drink\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-028",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a cup on the table.",
+      "options": [
+        "It is a cup on the table.",
+        "There is a cup on the table.",
+        "There are a cup on the table."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"It is\" does not say that something exists in a place. Use \"There is\".",
+        "2": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-sc-029",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There are\" with plural nouns: There are two beds in the room.",
+      "options": [
+        "They are two beds in the room.",
+        "There is two beds in the room.",
+        "There are two beds in the room."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"It is\" does not say that something exists in a place. Use \"There are\".",
+        "1": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-sc-030",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There are\" with plural nouns: There are two windows in my room.",
+      "options": [
+        "There are two windows in my room.",
+        "There is two windows in my room.",
+        "They are two windows in my room."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "2": "\"It is\" does not say that something exists in a place. Use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-sc-031",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There are\" with plural nouns: There are three birds in the tree.",
+      "options": [
+        "They are three birds in the tree.",
+        "There is three birds in the tree.",
+        "There are three birds in the tree."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"It is\" does not say that something exists in a place. Use \"There are\".",
+        "1": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-sc-032",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There are\" with plural nouns: There are some children in the park.",
+      "options": [
+        "There are some children in the park.",
+        "They are some children in the park.",
+        "There is some children in the park."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"It is\" does not say that something exists in a place. Use \"There are\".",
+        "2": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-sc-033",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a market in the town.",
+      "options": [
+        "There is a market in the town.",
+        "It is a market in the town.",
+        "There are a market in the town."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"It is\" does not say that something exists in a place. Use \"There is\".",
+        "2": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-sc-034",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a bus at the stop.",
+      "options": [
+        "There is a bus at the stop.",
+        "There are a bus at the stop.",
+        "It is a bus at the stop."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "2": "\"It is\" does not say that something exists in a place. Use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-sc-035",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There are\" with plural nouns: There are two doors in the hall.",
+      "options": [
+        "There are two doors in the hall.",
+        "There is two doors in the hall.",
+        "They are two doors in the hall."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "2": "\"It is\" does not say that something exists in a place. Use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-sc-036",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There are\" with plural nouns: There are some books on the shelf.",
+      "options": [
+        "They are some books on the shelf.",
+        "There are some books on the shelf.",
+        "There is some books on the shelf."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"It is\" does not say that something exists in a place. Use \"There are\".",
+        "2": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-sc-037",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a computer in the office.",
+      "options": [
+        "There is a computer in the office.",
+        "There are a computer in the office.",
+        "It is a computer in the office."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "2": "\"It is\" does not say that something exists in a place. Use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-sc-038",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There are\" with plural nouns: There are four pictures on the wall.",
+      "options": [
+        "They are four pictures on the wall.",
+        "There are four pictures on the wall.",
+        "There is four pictures on the wall."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"It is\" does not say that something exists in a place. Use \"There are\".",
+        "2": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-sc-039",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There are\" with plural nouns: There are five students in the class.",
+      "options": [
+        "There are five students in the class.",
+        "There is five students in the class.",
+        "They are five students in the class."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "2": "\"It is\" does not say that something exists in a place. Use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-sc-040",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a hotel near the beach.",
+      "options": [
+        "There is a hotel near the beach.",
+        "It is a hotel near the beach.",
+        "There are a hotel near the beach."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"It is\" does not say that something exists in a place. Use \"There is\".",
+        "2": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-sc-041",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"There are\" with plural nouns: There are seven days in a week.",
+      "options": [
+        "There are seven days in a week.",
+        "There is seven days in a week.",
+        "They are seven days in a week."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "2": "\"It is\" does not say that something exists in a place. Use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-sc-042",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use doesn't + base verb: My sister doesn't make tea.",
+      "options": [
+        "My sister no make tea.",
+        "My sister not make tea.",
+        "My sister doesn't make tea."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"no\" cannot make a verb negative. Use \"doesn't\".",
+        "1": "\"not\" alone cannot go before \"make\". Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-sc-043",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use doesn't + base verb: Dan doesn't play tennis.",
+      "options": [
+        "Dan doesn't play tennis.",
+        "Dan not play tennis.",
+        "Dan no play tennis."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"not\" alone cannot go before \"play\". Use \"doesn't\".",
+        "2": "\"no\" cannot make a verb negative. Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-sc-044",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use doesn't + base verb: Leo doesn't sleep on the sofa.",
+      "options": [
+        "Leo not sleep on the sofa.",
+        "Leo no sleep on the sofa.",
+        "Leo doesn't sleep on the sofa."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"not\" alone cannot go before \"sleep\". Use \"doesn't\".",
+        "1": "\"no\" cannot make a verb negative. Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-sc-045",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use don't + base verb: I don't make a cake.",
+      "options": [
+        "I not make a cake.",
+        "I no make a cake.",
+        "I don't make a cake."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"not\" alone cannot go before \"make\". Use \"don't\".",
+        "1": "\"no\" cannot make a verb negative. Use \"don't\"."
+      }
+    },
+    {
+      "id": "a1-sc-046",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use doesn't + base verb: Sam doesn't buy bread.",
+      "options": [
+        "Sam no buy bread.",
+        "Sam doesn't buys bread.",
+        "Sam doesn't buy bread."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"no\" cannot make a verb negative. Use \"doesn't\".",
+        "1": "After \"doesn't\" the verb stays in the base form: buy, with no -s."
+      }
+    },
+    {
+      "id": "a1-sc-047",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use don't + base verb: We don't learn French.",
+      "options": [
+        "We not learn French.",
+        "We doesn't learn French.",
+        "We don't learn French."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"not\" alone cannot go before \"learn\". Use \"don't\".",
+        "1": "\"doesn't\" is only for he, she, it and one person. \"we\" needs \"don't\"."
+      }
+    },
+    {
+      "id": "a1-sc-048",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use doesn't + base verb: Jack doesn't visit a friend.",
+      "options": [
+        "Jack no visit a friend.",
+        "Jack doesn't visit a friend.",
+        "Jack don't visit a friend."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"no\" cannot make a verb negative. Use \"doesn't\".",
+        "2": "\"don't\" is used with I, you, we, they and plural subjects. \"Jack\" needs \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-sc-049",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use doesn't + base verb: Sam doesn't ask questions.",
+      "options": [
+        "Sam doesn't ask questions.",
+        "Sam don't ask questions.",
+        "Sam no ask questions."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"don't\" is used with I, you, we, they and plural subjects. \"Sam\" needs \"doesn't\".",
+        "2": "\"no\" cannot make a verb negative. Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-sc-050",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use doesn't + base verb: Eva doesn't write emails.",
+      "options": [
+        "Eva no write emails.",
+        "Eva don't write emails.",
+        "Eva doesn't write emails."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"no\" cannot make a verb negative. Use \"doesn't\".",
+        "1": "\"don't\" is used with I, you, we, they and plural subjects. \"Eva\" needs \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-sc-051",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use don't + base verb: The children don't sleep on the sofa.",
+      "options": [
+        "The children doesn't sleep on the sofa.",
+        "The children don't sleep on the sofa.",
+        "The children not sleep on the sofa."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"doesn't\" is only for he, she, it and one person. \"the children\" needs \"don't\".",
+        "2": "\"not\" alone cannot go before \"sleep\". Use \"don't\"."
+      }
+    },
+    {
+      "id": "a1-sc-052",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use doesn't + base verb: He doesn't ask questions.",
+      "options": [
+        "He no ask questions.",
+        "He doesn't ask questions.",
+        "He not ask questions."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"no\" cannot make a verb negative. Use \"doesn't\".",
+        "2": "\"not\" alone cannot go before \"ask\". Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-sc-053",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use doesn't + base verb: Sam doesn't speak Spanish.",
+      "options": [
+        "Sam doesn't speak Spanish.",
+        "Sam not speak Spanish.",
+        "Sam no speak Spanish."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"not\" alone cannot go before \"speak\". Use \"doesn't\".",
+        "2": "\"no\" cannot make a verb negative. Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-sc-054",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use doesn't + base verb: Ravi doesn't sing songs.",
+      "options": [
+        "Ravi don't sing songs.",
+        "Ravi not sing songs.",
+        "Ravi doesn't sing songs."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"don't\" is used with I, you, we, they and plural subjects. \"Ravi\" needs \"doesn't\".",
+        "1": "\"not\" alone cannot go before \"sing\". Use \"doesn't\"."
+      }
+    },
+    {
+      "id": "a1-sc-055",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the present simple negative use don't + base verb: They don't want some water.",
+      "options": [
+        "They don't want some water.",
+        "They not want some water.",
+        "They don't wants some water."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"not\" alone cannot go before \"want\". Use \"don't\".",
+        "2": "After \"don't\" the verb stays in the base form: want, with no -s."
+      }
+    },
+    {
+      "id": "a1-sc-056",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Does + subject + base verb: What does Sam do at weekends?",
+      "options": [
+        "What does Sam do at weekends?",
+        "What Sam do at weekends?",
+        "What do Sam do at weekends?"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "A present simple question needs \"does\" before the subject \"Sam\".",
+        "2": "Use \"does\" with \"Sam\", not \"do\"."
+      }
+    },
+    {
+      "id": "a1-sc-057",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Does + subject + base verb: Where does Hugo study?",
+      "options": [
+        "Where does Hugo study?",
+        "Where Hugo study?",
+        "Where do Hugo study?"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "A present simple question needs \"does\" before the subject \"Hugo\".",
+        "2": "Use \"does\" with \"Hugo\", not \"do\"."
+      }
+    },
+    {
+      "id": "a1-sc-058",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Does + subject + base verb: When does Rosa visit your grandmother?",
+      "options": [
+        "When does Rosa visit your grandmother?",
+        "When do Rosa visit your grandmother?",
+        "When Rosa visit your grandmother?"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "Use \"does\" with \"Rosa\", not \"do\".",
+        "2": "A present simple question needs \"does\" before the subject \"Rosa\"."
+      }
+    },
+    {
+      "id": "a1-sc-059",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Does + subject + base verb: What does she eat for lunch?",
+      "options": [
+        "What she eat for lunch?",
+        "What do she eat for lunch?",
+        "What does she eat for lunch?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "A present simple question needs \"does\" before the subject \"she\".",
+        "1": "Use \"does\" with \"she\", not \"do\"."
+      }
+    },
+    {
+      "id": "a1-sc-060",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Does + subject + base verb: Why does Mia study English?",
+      "options": [
+        "Why Mia study English?",
+        "Why do Mia study English?",
+        "Why does Mia study English?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "A present simple question needs \"does\" before the subject \"Mia\".",
+        "1": "Use \"does\" with \"Mia\", not \"do\"."
+      }
+    },
+    {
+      "id": "a1-sc-061",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Does + subject + base verb: What does Dan wear to school?",
+      "options": [
+        "What Dan wear to school?",
+        "What do Dan wear to school?",
+        "What does Dan wear to school?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "A present simple question needs \"does\" before the subject \"Dan\".",
+        "1": "Use \"does\" with \"Dan\", not \"do\"."
+      }
+    },
+    {
+      "id": "a1-sc-062",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Does + subject + base verb: What does Sam read in bed?",
+      "options": [
+        "What does Sam read in bed?",
+        "What do Sam read in bed?",
+        "What Sam read in bed?"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "Use \"does\" with \"Sam\", not \"do\".",
+        "2": "A present simple question needs \"does\" before the subject \"Sam\"."
+      }
+    },
+    {
+      "id": "a1-sc-063",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Do + subject + base verb: What do we drink in the morning?",
+      "options": [
+        "What we drink in the morning?",
+        "What does we drink in the morning?",
+        "What do we drink in the morning?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "A present simple question needs \"do\" before the subject \"we\".",
+        "1": "Use \"do\" with \"we\", not \"does\"."
+      }
+    },
+    {
+      "id": "a1-sc-064",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Do + subject + base verb: What do the children do at weekends?",
+      "options": [
+        "What does the children do at weekends?",
+        "What the children do at weekends?",
+        "What do the children do at weekends?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "Use \"do\" with \"the children\", not \"does\".",
+        "1": "A present simple question needs \"do\" before the subject \"the children\"."
+      }
+    },
+    {
+      "id": "a1-sc-065",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Do + subject + base verb: When do my parents finish work?",
+      "options": [
+        "When my parents finish work?",
+        "When does my parents finish work?",
+        "When do my parents finish work?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "A present simple question needs \"do\" before the subject \"my parents\".",
+        "1": "Use \"do\" with \"my parents\", not \"does\"."
+      }
+    },
+    {
+      "id": "a1-sc-066",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Does + subject + base verb: When does Lucy finish work?",
+      "options": [
+        "When Lucy finish work?",
+        "When does Lucy finish work?",
+        "When do Lucy finish work?"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "A present simple question needs \"does\" before the subject \"Lucy\".",
+        "2": "Use \"does\" with \"Lucy\", not \"do\"."
+      }
+    },
+    {
+      "id": "a1-sc-067",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In a present simple question use Does + subject + base verb: What does Kate eat for lunch?",
+      "options": [
+        "What does Kate eat for lunch?",
+        "What do Kate eat for lunch?",
+        "What Kate eat for lunch?"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "Use \"does\" with \"Kate\", not \"do\".",
+        "2": "A present simple question needs \"does\" before the subject \"Kate\"."
+      }
+    },
+    {
+      "id": "a1-sc-068",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a uniform.",
+      "options": [
+        "There is a uniform on the table.",
+        "There is an uniform on the table.",
+        "There is the uniform on the table."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"an\" is used before a vowel sound. \"uniform\" starts with a consonant sound, so we say \"a uniform\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any uniform, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-sc-069",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a teacher.",
+      "options": [
+        "There is a teacher on the table.",
+        "There is an teacher on the table.",
+        "There is the teacher on the table."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"an\" is used before a vowel sound. \"teacher\" starts with a consonant sound, so we say \"a teacher\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any teacher, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-sc-070",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"an\" before a vowel sound: an umbrella.",
+      "options": [
+        "This is an umbrella.",
+        "This is the umbrella.",
+        "This is a umbrella."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any umbrella, so we use \"an\".",
+        "2": "\"a\" is used before a consonant sound. \"umbrella\" starts with a vowel sound, so we say \"an umbrella\"."
+      }
+    },
+    {
+      "id": "a1-sc-071",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a chair.",
+      "options": [
+        "This is a chair.",
+        "This is an chair.",
+        "This is the chair."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"an\" is used before a vowel sound. \"chair\" starts with a consonant sound, so we say \"a chair\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any chair, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-sc-072",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"an\" before a vowel sound: an artist.",
+      "options": [
+        "Is that a artist?",
+        "Is that the artist?",
+        "Is that an artist?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"a\" is used before a consonant sound. \"artist\" starts with a vowel sound, so we say \"an artist\".",
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any artist, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-sc-073",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"an\" before a vowel sound: an apple.",
+      "options": [
+        "We need a apple.",
+        "We need the apple.",
+        "We need an apple."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"a\" is used before a consonant sound. \"apple\" starts with a vowel sound, so we say \"an apple\".",
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any apple, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-sc-074",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a table.",
+      "options": [
+        "She wants a table.",
+        "She wants an table.",
+        "She wants the table."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"an\" is used before a vowel sound. \"table\" starts with a consonant sound, so we say \"a table\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any table, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-sc-075",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a window.",
+      "options": [
+        "This is the window.",
+        "This is a window.",
+        "This is an window."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"the\" is used for a specific thing that both people know. Here we mean any window, so we use \"a\".",
+        "2": "\"an\" is used before a vowel sound. \"window\" starts with a consonant sound, so we say \"a window\"."
+      }
+    },
+    {
+      "id": "a1-sc-076",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a dog.",
+      "options": [
+        "Is that a dog?",
+        "Is that the dog?",
+        "Is that an dog?"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any dog, so we use \"a\".",
+        "2": "\"an\" is used before a vowel sound. \"dog\" starts with a consonant sound, so we say \"a dog\"."
+      }
+    },
+    {
+      "id": "a1-sc-077",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a bag.",
+      "options": [
+        "We need an bag.",
+        "We need the bag.",
+        "We need a bag."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"an\" is used before a vowel sound. \"bag\" starts with a consonant sound, so we say \"a bag\".",
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any bag, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-sc-078",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"an\" before a vowel sound: an engineer.",
+      "options": [
+        "There is an engineer on the table.",
+        "There is a engineer on the table.",
+        "There is the engineer on the table."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"a\" is used before a consonant sound. \"engineer\" starts with a vowel sound, so we say \"an engineer\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any engineer, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-sc-079",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"an\" before a vowel sound: an office.",
+      "options": [
+        "This is an office.",
+        "This is the office.",
+        "This is a office."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any office, so we use \"an\".",
+        "2": "\"a\" is used before a consonant sound. \"office\" starts with a vowel sound, so we say \"an office\"."
+      }
+    },
+    {
+      "id": "a1-sc-080",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a doctor.",
+      "options": [
+        "We need an doctor.",
+        "We need a doctor.",
+        "We need the doctor."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"an\" is used before a vowel sound. \"doctor\" starts with a consonant sound, so we say \"a doctor\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any doctor, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-sc-081",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a pen.",
+      "options": [
+        "This is a pen.",
+        "This is an pen.",
+        "This is the pen."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"an\" is used before a vowel sound. \"pen\" starts with a consonant sound, so we say \"a pen\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any pen, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-sc-082",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a bird.",
+      "options": [
+        "There is an bird on the table.",
+        "There is a bird on the table.",
+        "There is the bird on the table."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"an\" is used before a vowel sound. \"bird\" starts with a consonant sound, so we say \"a bird\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any bird, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-sc-083",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"an\" before a vowel sound: an uncle.",
+      "options": [
+        "He has the uncle.",
+        "He has a uncle.",
+        "He has an uncle."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"the\" is used for a specific thing that both people know. Here we mean any uncle, so we use \"an\".",
+        "1": "\"a\" is used before a consonant sound. \"uncle\" starts with a vowel sound, so we say \"an uncle\"."
+      }
+    },
+    {
+      "id": "a1-sc-084",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a bird.",
+      "options": [
+        "Is that an bird?",
+        "Is that a bird?",
+        "Is that the bird?"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"an\" is used before a vowel sound. \"bird\" starts with a consonant sound, so we say \"a bird\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any bird, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-sc-085",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a bike.",
+      "options": [
+        "She wants the bike.",
+        "She wants a bike.",
+        "She wants an bike."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"the\" is used for a specific thing that both people know. Here we mean any bike, so we use \"a\".",
+        "2": "\"an\" is used before a vowel sound. \"bike\" starts with a consonant sound, so we say \"a bike\"."
+      }
+    },
+    {
+      "id": "a1-sc-086",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a\" before a consonant sound: a doctor.",
+      "options": [
+        "I can see a doctor.",
+        "I can see an doctor.",
+        "I can see the doctor."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"an\" is used before a vowel sound. \"doctor\" starts with a consonant sound, so we say \"a doctor\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any doctor, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-sc-087",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"an\" before a vowel sound: an owl.",
+      "options": [
+        "Look at the owl!",
+        "Look at an owl!",
+        "Look at a owl!"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"the\" is used for a specific thing that both people know. Here we mean any owl, so we use \"an\".",
+        "2": "\"a\" is used before a consonant sound. \"owl\" starts with a vowel sound, so we say \"an owl\"."
+      }
+    },
+    {
+      "id": "a1-sc-088",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: You have blue eyes.",
+      "options": [
+        "You have blue eyes.",
+        "You has blue eyes.",
+        "You are have blue eyes."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"has\" is only for he, she, it and one person. \"you\" needs \"have\".",
+        "2": "\"are have\" is not correct here. To say what we own we use \"have\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-089",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Ravi has two small windows.",
+      "options": [
+        "Ravi have two small windows.",
+        "Ravi has two small windows.",
+        "Ravi is have two small windows."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"have\" is used with I, you, we, they and plural subjects. \"Ravi\" needs \"has\".",
+        "2": "\"is have\" is not correct here. To say what we own we use \"has\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-090",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Zoe has a red bike.",
+      "options": [
+        "Zoe have a red bike.",
+        "Zoe has a red bike.",
+        "Zoe is have a red bike."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"have\" is used with I, you, we, they and plural subjects. \"Zoe\" needs \"has\".",
+        "2": "\"is have\" is not correct here. To say what we own we use \"has\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-091",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Paul has blue eyes.",
+      "options": [
+        "Paul have blue eyes.",
+        "Paul is have blue eyes.",
+        "Paul has blue eyes."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"have\" is used with I, you, we, they and plural subjects. \"Paul\" needs \"has\".",
+        "1": "\"is have\" is not correct here. To say what we own we use \"has\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-092",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: The girls have two small windows.",
+      "options": [
+        "The girls has two small windows.",
+        "The girls have two small windows.",
+        "The girls are have two small windows."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"has\" is only for he, she, it and one person. \"the girls\" needs \"have\".",
+        "2": "\"are have\" is not correct here. To say what we own we use \"have\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-093",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Mark has an old computer.",
+      "options": [
+        "Mark has an old computer.",
+        "Mark is have an old computer.",
+        "Mark have an old computer."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"is have\" is not correct here. To say what we own we use \"has\" alone.",
+        "2": "\"have\" is used with I, you, we, they and plural subjects. \"Mark\" needs \"has\"."
+      }
+    },
+    {
+      "id": "a1-sc-094",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: They have a blue bag.",
+      "options": [
+        "They has a blue bag.",
+        "They are have a blue bag.",
+        "They have a blue bag."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"has\" is only for he, she, it and one person. \"they\" needs \"have\".",
+        "1": "\"are have\" is not correct here. To say what we own we use \"have\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-095",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Zoe has a black dog.",
+      "options": [
+        "Zoe has a black dog.",
+        "Zoe have a black dog.",
+        "Zoe is have a black dog."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"Zoe\" needs \"has\".",
+        "2": "\"is have\" is not correct here. To say what we own we use \"has\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-096",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: The children have long hair.",
+      "options": [
+        "The children have long hair.",
+        "The children has long hair.",
+        "The children are have long hair."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"has\" is only for he, she, it and one person. \"the children\" needs \"have\".",
+        "2": "\"are have\" is not correct here. To say what we own we use \"have\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-097",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Mia has a small garden.",
+      "options": [
+        "Mia is have a small garden.",
+        "Mia have a small garden.",
+        "Mia has a small garden."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"is have\" is not correct here. To say what we own we use \"has\" alone.",
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"Mia\" needs \"has\"."
+      }
+    },
+    {
+      "id": "a1-sc-098",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Rosa has a nice teacher.",
+      "options": [
+        "Rosa have a nice teacher.",
+        "Rosa is have a nice teacher.",
+        "Rosa has a nice teacher."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"have\" is used with I, you, we, they and plural subjects. \"Rosa\" needs \"has\".",
+        "1": "\"is have\" is not correct here. To say what we own we use \"has\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-099",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Ben has a big family.",
+      "options": [
+        "Ben have a big family.",
+        "Ben is have a big family.",
+        "Ben has a big family."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"have\" is used with I, you, we, they and plural subjects. \"Ben\" needs \"has\".",
+        "1": "\"is have\" is not correct here. To say what we own we use \"has\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-100",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Leo has a nice teacher.",
+      "options": [
+        "Leo have a nice teacher.",
+        "Leo is have a nice teacher.",
+        "Leo has a nice teacher."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"have\" is used with I, you, we, they and plural subjects. \"Leo\" needs \"has\".",
+        "1": "\"is have\" is not correct here. To say what we own we use \"has\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-101",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Leo has a big house.",
+      "options": [
+        "Leo has a big house.",
+        "Leo have a big house.",
+        "Leo is have a big house."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"Leo\" needs \"has\".",
+        "2": "\"is have\" is not correct here. To say what we own we use \"has\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-102",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: Tom and Anna have a black dog.",
+      "options": [
+        "Tom and Anna have a black dog.",
+        "Tom and Anna are have a black dog.",
+        "Tom and Anna has a black dog."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"are have\" is not correct here. To say what we own we use \"have\" alone.",
+        "2": "\"has\" is only for he, she, it and one person. \"Tom and Anna\" needs \"have\"."
+      }
+    },
+    {
+      "id": "a1-sc-103",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Eva has blue eyes.",
+      "options": [
+        "Eva is have blue eyes.",
+        "Eva has blue eyes.",
+        "Eva have blue eyes."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"is have\" is not correct here. To say what we own we use \"has\" alone.",
+        "2": "\"have\" is used with I, you, we, they and plural subjects. \"Eva\" needs \"has\"."
+      }
+    },
+    {
+      "id": "a1-sc-104",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: The girls have a small garden.",
+      "options": [
+        "The girls has a small garden.",
+        "The girls are have a small garden.",
+        "The girls have a small garden."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"has\" is only for he, she, it and one person. \"the girls\" needs \"have\".",
+        "1": "\"are have\" is not correct here. To say what we own we use \"have\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-105",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"has\" with he, she, it and one person: Jack has a good friend.",
+      "options": [
+        "Jack has a good friend.",
+        "Jack have a good friend.",
+        "Jack is have a good friend."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"Jack\" needs \"has\".",
+        "2": "\"is have\" is not correct here. To say what we own we use \"has\" alone."
+      }
+    },
+    {
+      "id": "a1-sc-106",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use are + verb-ing: The children are cooking.",
+      "options": [
+        "Right now, the children are cooking dinner.",
+        "Right now, the children are cook dinner.",
+        "Right now, the children cook dinner."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "After \"are\" the verb needs -ing: \"are cooking\", not \"are cook\".",
+        "2": "The present simple (\"cook\") is for habits and facts. \"Right now,\" shows an action happening now, so we use \"are cooking\"."
+      }
+    },
+    {
+      "id": "a1-sc-107",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use is + verb-ing: My brother is passing.",
+      "options": [
+        "Look! My brother is pass the ball.",
+        "Look! My brother am passing the ball.",
+        "Look! My brother is passing the ball."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "After \"is\" the verb needs -ing: \"is passing\", not \"is pass\".",
+        "1": "With \"my brother\" we use \"is\", not \"am\": is passing."
+      }
+    },
+    {
+      "id": "a1-sc-108",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use is + verb-ing: Sara is playing.",
+      "options": [
+        "At the moment, Sara plays football with friends.",
+        "At the moment, Sara am playing football with friends.",
+        "At the moment, Sara is playing football with friends."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The present simple (\"plays\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"is playing\".",
+        "1": "With \"Sara\" we use \"is\", not \"am\": is playing."
+      }
+    },
+    {
+      "id": "a1-sc-109",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use are + verb-ing: You are drinking.",
+      "options": [
+        "Right now, you are drink milk.",
+        "Right now, you am drinking milk.",
+        "Right now, you are drinking milk."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "After \"are\" the verb needs -ing: \"are drinking\", not \"are drink\".",
+        "1": "With \"you\" we use \"are\", not \"am\": are drinking."
+      }
+    },
+    {
+      "id": "a1-sc-110",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use are + verb-ing: You are visiting.",
+      "options": [
+        "At the moment, you are visit a friend.",
+        "At the moment, you are visiting a friend.",
+        "At the moment, you visit a friend."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "After \"are\" the verb needs -ing: \"are visiting\", not \"are visit\".",
+        "2": "The present simple (\"visit\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"are visiting\"."
+      }
+    },
+    {
+      "id": "a1-sc-111",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use is + verb-ing: Kate is taking.",
+      "options": [
+        "Now, Kate are taking photos.",
+        "Now, Kate is taking photos.",
+        "Now, Kate is take photos."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "With \"Kate\" we use \"is\", not \"are\": is taking.",
+        "2": "After \"is\" the verb needs -ing: \"is taking\", not \"is take\"."
+      }
+    },
+    {
+      "id": "a1-sc-112",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use is + verb-ing: Mark is writing.",
+      "options": [
+        "Right now, Mark am writing emails.",
+        "Right now, Mark is write emails.",
+        "Right now, Mark is writing emails."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "With \"Mark\" we use \"is\", not \"am\": is writing.",
+        "1": "After \"is\" the verb needs -ing: \"is writing\", not \"is write\"."
+      }
+    },
+    {
+      "id": "a1-sc-113",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use is + verb-ing: Rosa is dancing.",
+      "options": [
+        "At the moment, Rosa is dancing at parties.",
+        "At the moment, Rosa dances at parties.",
+        "At the moment, Rosa are dancing at parties."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The present simple (\"dances\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"is dancing\".",
+        "2": "With \"Rosa\" we use \"is\", not \"are\": is dancing."
+      }
+    },
+    {
+      "id": "a1-sc-114",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use is + verb-ing: Ivan is cooking.",
+      "options": [
+        "Right now, Ivan cooks rice.",
+        "Right now, Ivan are cooking rice.",
+        "Right now, Ivan is cooking rice."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The present simple (\"cooks\") is for habits and facts. \"Right now,\" shows an action happening now, so we use \"is cooking\".",
+        "1": "With \"Ivan\" we use \"is\", not \"are\": is cooking."
+      }
+    },
+    {
+      "id": "a1-sc-115",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use are + verb-ing: My parents are working.",
+      "options": [
+        "At the moment, my parents are working in a shop.",
+        "At the moment, my parents work in a shop.",
+        "At the moment, my parents am working in a shop."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The present simple (\"work\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"are working\".",
+        "2": "With \"my parents\" we use \"are\", not \"am\": are working."
+      }
+    },
+    {
+      "id": "a1-sc-116",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use is + verb-ing: Zoe is going.",
+      "options": [
+        "At the moment, Zoe is going to the market.",
+        "At the moment, Zoe am going to the market.",
+        "At the moment, Zoe goes to the market."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "With \"Zoe\" we use \"is\", not \"am\": is going.",
+        "2": "The present simple (\"goes\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"is going\"."
+      }
+    },
+    {
+      "id": "a1-sc-117",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Actions happening now use is + verb-ing: My mother is drawing.",
+      "options": [
+        "Look! My mother am drawing animals.",
+        "Look! My mother is drawing animals.",
+        "Look! My mother is draw animals."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "With \"my mother\" we use \"is\", not \"am\": is drawing.",
+        "2": "After \"is\" the verb needs -ing: \"is drawing\", not \"is draw\"."
+      }
+    },
+    {
+      "id": "a1-sc-118",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"his\" for one boy or man: Ben has his bike.",
+      "options": [
+        "Ben has her bike.",
+        "Ben has his bike.",
+        "Ben has our bike."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"her\" is for one girl or woman, but Ben is one boy or man.",
+        "2": "\"our\" is for the speaker and other people, but Ben is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-119",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"its\" for a thing or an animal: The cat likes its house.",
+      "options": [
+        "The cat likes your house.",
+        "The cat likes its house.",
+        "The cat likes their house."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"your\" is for the person you talk to, but the cat is a thing or an animal.",
+        "2": "\"their\" is for more than one person or thing, but the cat is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-sc-120",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"his\" for one boy or man: Tom has his dog.",
+      "options": [
+        "Tom has his dog.",
+        "Tom has my dog.",
+        "Tom has our dog."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"my\" is for the speaker, but Tom is one boy or man.",
+        "2": "\"our\" is for the speaker and other people, but Tom is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-121",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"his\" for one boy or man: Sam likes his keys.",
+      "options": [
+        "Sam likes their keys.",
+        "Sam likes his keys.",
+        "Sam likes its keys."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"their\" is for more than one person or thing, but Sam is one boy or man.",
+        "2": "\"its\" is for a thing or an animal, but Sam is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-122",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"his\" for one boy or man: My uncle finds his bike.",
+      "options": [
+        "My uncle finds our bike.",
+        "My uncle finds his bike.",
+        "My uncle finds her bike."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"our\" is for the speaker and other people, but my uncle is one boy or man.",
+        "2": "\"her\" is for one girl or woman, but my uncle is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-123",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"his\" for one boy or man: Mr Brown likes his dog.",
+      "options": [
+        "Mr Brown likes your dog.",
+        "Mr Brown likes his dog.",
+        "Mr Brown likes their dog."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"your\" is for the person you talk to, but Mr Brown is one boy or man.",
+        "2": "\"their\" is for more than one person or thing, but Mr Brown is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-124",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"its\" for a thing or an animal: The dog has its bowl.",
+      "options": [
+        "The dog has his bowl.",
+        "The dog has your bowl.",
+        "The dog has its bowl."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"his\" is for one boy or man, but the dog is a thing or an animal.",
+        "1": "\"your\" is for the person you talk to, but the dog is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-sc-125",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"their\" for more than one person or thing: The books find their ball.",
+      "options": [
+        "The books find their ball.",
+        "The books find our ball.",
+        "The books find his ball."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"our\" is for the speaker and other people, but the books is more than one person or thing.",
+        "2": "\"his\" is for one boy or man, but the books is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-sc-126",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"her\" for one girl or woman: Lucy visits her cousin.",
+      "options": [
+        "Lucy visits her cousin.",
+        "Lucy visits my cousin.",
+        "Lucy visits its cousin."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"my\" is for the speaker, but Lucy is one girl or woman.",
+        "2": "\"its\" is for a thing or an animal, but Lucy is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-127",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"their\" for more than one person or thing: My parents call their teacher.",
+      "options": [
+        "My parents call her teacher.",
+        "My parents call its teacher.",
+        "My parents call their teacher."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"her\" is for one girl or woman, but my parents is more than one person or thing.",
+        "1": "\"its\" is for a thing or an animal, but my parents is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-sc-128",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"their\" for more than one person or thing: The boys love their hat.",
+      "options": [
+        "The boys love her hat.",
+        "The boys love my hat.",
+        "The boys love their hat."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"her\" is for one girl or woman, but the boys is more than one person or thing.",
+        "1": "\"my\" is for the speaker, but the boys is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-sc-129",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"their\" for more than one person or thing: The dogs have their house.",
+      "options": [
+        "The dogs have your house.",
+        "The dogs have their house.",
+        "The dogs have his house."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"your\" is for the person you talk to, but the dogs is more than one person or thing.",
+        "2": "\"his\" is for one boy or man, but the dogs is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-sc-130",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"their\" for more than one person or thing: The books like their ball.",
+      "options": [
+        "The books like their ball.",
+        "The books like its ball.",
+        "The books like his ball."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"its\" is for a thing or an animal, but the books is more than one person or thing.",
+        "2": "\"his\" is for one boy or man, but the books is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-sc-131",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"her\" for one girl or woman: Zoe helps her teacher.",
+      "options": [
+        "Zoe helps his teacher.",
+        "Zoe helps our teacher.",
+        "Zoe helps her teacher."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"his\" is for one boy or man, but Zoe is one girl or woman.",
+        "1": "\"our\" is for the speaker and other people, but Zoe is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-132",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"their\" for more than one person or thing: The girls visit their cousin.",
+      "options": [
+        "The girls visit our cousin.",
+        "The girls visit his cousin.",
+        "The girls visit their cousin."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"our\" is for the speaker and other people, but the girls is more than one person or thing.",
+        "1": "\"his\" is for one boy or man, but the girls is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-sc-133",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"her\" for one girl or woman: Emma has her ball.",
+      "options": [
+        "Emma has its ball.",
+        "Emma has my ball.",
+        "Emma has her ball."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"its\" is for a thing or an animal, but Emma is one girl or woman.",
+        "1": "\"my\" is for the speaker, but Emma is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-134",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"her\" for one girl or woman: Anna has her car.",
+      "options": [
+        "Anna has its car.",
+        "Anna has her car.",
+        "Anna has my car."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"its\" is for a thing or an animal, but Anna is one girl or woman.",
+        "2": "\"my\" is for the speaker, but Anna is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-135",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"their\" for more than one person or thing: The dogs help their cousin.",
+      "options": [
+        "The dogs help their cousin.",
+        "The dogs help your cousin.",
+        "The dogs help her cousin."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"your\" is for the person you talk to, but the dogs is more than one person or thing.",
+        "2": "\"her\" is for one girl or woman, but the dogs is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-sc-136",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"their\" for more than one person or thing: My friends visit their cousin.",
+      "options": [
+        "My friends visit their cousin.",
+        "My friends visit our cousin.",
+        "My friends visit his cousin."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"our\" is for the speaker and other people, but my friends is more than one person or thing.",
+        "2": "\"his\" is for one boy or man, but my friends is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-sc-137",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"his\" for one boy or man: Ben finds his car.",
+      "options": [
+        "Ben finds his car.",
+        "Ben finds her car.",
+        "Ben finds their car."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"her\" is for one girl or woman, but Ben is one boy or man.",
+        "2": "\"their\" is for more than one person or thing, but Ben is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-138",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"its\" for a thing or an animal: The horse loves its house.",
+      "options": [
+        "The horse loves its house.",
+        "The horse loves his house.",
+        "The horse loves her house."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"his\" is for one boy or man, but the horse is a thing or an animal.",
+        "2": "\"her\" is for one girl or woman, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-sc-139",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"its\" for a thing or an animal: The horse has its name.",
+      "options": [
+        "The horse has its name.",
+        "The horse has his name.",
+        "The horse has our name."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"his\" is for one boy or man, but the horse is a thing or an animal.",
+        "2": "\"our\" is for the speaker and other people, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-sc-140",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"its\" for a thing or an animal: The horse likes its bowl.",
+      "options": [
+        "The horse likes your bowl.",
+        "The horse likes my bowl.",
+        "The horse likes its bowl."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"your\" is for the person you talk to, but the horse is a thing or an animal.",
+        "1": "\"my\" is for the speaker, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-sc-141",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"his\" for one boy or man: My uncle loses his phone.",
+      "options": [
+        "My uncle loses his phone.",
+        "My uncle loses its phone.",
+        "My uncle loses her phone."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"its\" is for a thing or an animal, but my uncle is one boy or man.",
+        "2": "\"her\" is for one girl or woman, but my uncle is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-142",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"her\" for one girl or woman: Zoe loves her keys.",
+      "options": [
+        "Zoe loves her keys.",
+        "Zoe loves its keys.",
+        "Zoe loves our keys."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"its\" is for a thing or an animal, but Zoe is one girl or woman.",
+        "2": "\"our\" is for the speaker and other people, but Zoe is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-143",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Most nouns just add -s: room → rooms.",
+      "options": [
+        "We see three roomes.",
+        "We see three rooms.",
+        "We see three room."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"room\" does not take -es. Just add -s: rooms.",
+        "2": "\"room\" is singular. After a number or \"many\" we need the plural: rooms."
+      }
+    },
+    {
+      "id": "a1-sc-144",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Most nouns just add -s: room → rooms.",
+      "options": [
+        "She has four roomes.",
+        "She has four room.",
+        "She has four rooms."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"room\" does not take -es. Just add -s: rooms.",
+        "1": "\"room\" is singular. After a number or \"many\" we need the plural: rooms."
+      }
+    },
+    {
+      "id": "a1-sc-145",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Most nouns just add -s: book → books.",
+      "options": [
+        "We see three book.",
+        "We see three bookes.",
+        "We see three books."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"book\" is singular. After a number or \"many\" we need the plural: books.",
+        "1": "\"book\" does not take -es. Just add -s: books."
+      }
+    },
+    {
+      "id": "a1-sc-146",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: knife → knives.",
+      "options": [
+        "We see three knifes.",
+        "We see three knifs.",
+        "We see three knives."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"knife\" changes to -ves in the plural: knives.",
+        "1": "Spelling: the plural is \"knives\" (f/fe changes to -ves)."
+      }
+    },
+    {
+      "id": "a1-sc-147",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After a vowel + y we just add -s: monkey → monkeys.",
+      "options": [
+        "We see three monkeys.",
+        "We see three monkey.",
+        "We see three monkeyes."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"monkey\" is singular. After a number or \"many\" we need the plural: monkeys.",
+        "2": "\"monkey\" does not take -es. Just add -s: monkeys."
+      }
+    },
+    {
+      "id": "a1-sc-148",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"foot\" is irregular. The plural is \"feet\".",
+      "options": [
+        "She has four foots.",
+        "She has four footes.",
+        "She has four feet."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"foot\" is irregular: the plural is \"feet\", not \"foots\".",
+        "1": "\"foot\" has an irregular plural. It is \"feet\"."
+      }
+    },
+    {
+      "id": "a1-sc-149",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Most nouns just add -s: book → books.",
+      "options": [
+        "They have many book.",
+        "They have many bookes.",
+        "They have many books."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"book\" is singular. After a number or \"many\" we need the plural: books.",
+        "1": "\"book\" does not take -es. Just add -s: books."
+      }
+    },
+    {
+      "id": "a1-sc-150",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: brush → brushes.",
+      "options": [
+        "I have two brushs.",
+        "I have two brushes.",
+        "I have two brushies."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "Nouns like \"brush\" add -es, not just -s: brushes.",
+        "2": "-ies is only for nouns ending in a consonant + y. \"brush\" adds -es: brushes."
+      }
+    },
+    {
+      "id": "a1-sc-151",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Most nouns just add -s: phone → phones.",
+      "options": [
+        "I have two phonees.",
+        "I have two phone.",
+        "I have two phones."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"phone\" does not take -es. Just add -s: phones.",
+        "1": "\"phone\" is singular. After a number or \"many\" we need the plural: phones."
+      }
+    },
+    {
+      "id": "a1-sc-152",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"tooth\" is irregular. The plural is \"teeth\".",
+      "options": [
+        "They have many tooths.",
+        "They have many teeth.",
+        "They have many toothes."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"tooth\" is irregular: the plural is \"teeth\", not \"tooths\".",
+        "2": "\"tooth\" has an irregular plural. It is \"teeth\"."
+      }
+    },
+    {
+      "id": "a1-sc-153",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Most nouns just add -s: school → schools.",
+      "options": [
+        "She has four school.",
+        "She has four schooles.",
+        "She has four schools."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"school\" is singular. After a number or \"many\" we need the plural: schools.",
+        "1": "\"school\" does not take -es. Just add -s: schools."
+      }
+    },
+    {
+      "id": "a1-sc-154",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After a consonant + y, change y to -ies: story → stories.",
+      "options": [
+        "She has four storys.",
+        "She has four storyes.",
+        "She has four stories."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "After a consonant + y, change y to -ies, not just add -s: stories.",
+        "1": "The ending -yes is wrong. After a consonant + y use -ies: stories."
+      }
+    },
+    {
+      "id": "a1-sc-155",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: sandwich → sandwiches.",
+      "options": [
+        "We see three sandwichs.",
+        "We see three sandwiches.",
+        "We see three sandwichies."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "Nouns like \"sandwich\" add -es, not just -s: sandwiches.",
+        "2": "-ies is only for nouns ending in a consonant + y. \"sandwich\" adds -es: sandwiches."
+      }
+    },
+    {
+      "id": "a1-sc-156",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: watch → watches.",
+      "options": [
+        "We see three watches.",
+        "We see three watchs.",
+        "We see three watchies."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "Nouns like \"watch\" add -es, not just -s: watches.",
+        "2": "-ies is only for nouns ending in a consonant + y. \"watch\" adds -es: watches."
+      }
+    },
+    {
+      "id": "a1-sc-157",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Most nouns just add -s: friend → friends.",
+      "options": [
+        "They have many friends.",
+        "They have many friend.",
+        "They have many friendes."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"friend\" is singular. After a number or \"many\" we need the plural: friends.",
+        "2": "\"friend\" does not take -es. Just add -s: friends."
+      }
+    },
+    {
+      "id": "a1-sc-158",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: potato → potatoes.",
+      "options": [
+        "They have many potatoes.",
+        "They have many potatos.",
+        "They have many potatoies."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "Nouns like \"potato\" add -es, not just -s: potatoes.",
+        "2": "-ies is only for nouns ending in a consonant + y. \"potato\" adds -es: potatoes."
+      }
+    },
+    {
+      "id": "a1-sc-159",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After a vowel + y we just add -s: key → keys.",
+      "options": [
+        "We see three keyes.",
+        "We see three key.",
+        "We see three keys."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"key\" does not take -es. Just add -s: keys.",
+        "1": "\"key\" is singular. After a number or \"many\" we need the plural: keys."
+      }
+    },
+    {
+      "id": "a1-sc-160",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After a consonant + y, change y to -ies: city → cities.",
+      "options": [
+        "She has four cityes.",
+        "She has four cities.",
+        "She has four citys."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The ending -yes is wrong. After a consonant + y use -ies: cities.",
+        "2": "After a consonant + y, change y to -ies, not just add -s: cities."
+      }
+    },
+    {
+      "id": "a1-sc-161",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: tomato → tomatoes.",
+      "options": [
+        "They have many tomatos.",
+        "They have many tomatoies.",
+        "They have many tomatoes."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "Nouns like \"tomato\" add -es, not just -s: tomatoes.",
+        "1": "-ies is only for nouns ending in a consonant + y. \"tomato\" adds -es: tomatoes."
+      }
+    },
+    {
+      "id": "a1-sc-162",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After a consonant + y, change y to -ies: lady → ladies.",
+      "options": [
+        "She has four ladys.",
+        "She has four ladies.",
+        "She has four ladyes."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "After a consonant + y, change y to -ies, not just add -s: ladies.",
+        "2": "The ending -yes is wrong. After a consonant + y use -ies: ladies."
+      }
+    },
+    {
+      "id": "a1-sc-163",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"child\" is irregular. The plural is \"children\".",
+      "options": [
+        "We see three childs.",
+        "We see three childes.",
+        "We see three children."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"child\" is irregular: the plural is \"children\", not \"childs\".",
+        "1": "\"child\" has an irregular plural. It is \"children\"."
+      }
+    },
+    {
+      "id": "a1-sc-164",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After a vowel + y we just add -s: day → days.",
+      "options": [
+        "I have two days.",
+        "I have two dayes.",
+        "I have two day."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"day\" does not take -es. Just add -s: days.",
+        "2": "\"day\" is singular. After a number or \"many\" we need the plural: days."
+      }
+    },
+    {
+      "id": "a1-sc-165",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: knife → knives.",
+      "options": [
+        "I have two knifs.",
+        "I have two knives.",
+        "I have two knifes."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "Spelling: the plural is \"knives\" (f/fe changes to -ves).",
+        "2": "\"knife\" changes to -ves in the plural: knives."
+      }
+    },
+    {
+      "id": "a1-sc-166",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: bench → benches.",
+      "options": [
+        "We see three benches.",
+        "We see three benchies.",
+        "We see three benchs."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "-ies is only for nouns ending in a consonant + y. \"bench\" adds -es: benches.",
+        "2": "Nouns like \"bench\" add -es, not just -s: benches."
+      }
+    },
+    {
+      "id": "a1-sc-167",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: leaf → leaves.",
+      "options": [
+        "We see three leaves.",
+        "We see three leafs.",
+        "We see three leaf."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"leaf\" changes to -ves in the plural: leaves.",
+        "2": "\"leaf\" is singular. After a number or \"many\" we need the plural: leaves."
+      }
+    },
+    {
+      "id": "a1-sc-168",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"She\" instead of my mother: my mother → she.",
+      "options": [
+        "My mother is at home. It is very busy.",
+        "My mother is at home. She is very busy.",
+        "My mother is at home. He is very busy."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"It\" is for a thing or an animal, but my mother is one girl or woman.",
+        "2": "\"He\" is for one boy or man, but my mother is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-169",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"He\" instead of Mr Brown: Mr Brown → he.",
+      "options": [
+        "Mr Brown is at home. She is very nice.",
+        "Mr Brown is at home. It is very nice.",
+        "Mr Brown is at home. He is very nice."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"She\" is for one girl or woman, but Mr Brown is one boy or man.",
+        "1": "\"It\" is for a thing or an animal, but Mr Brown is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-170",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"She\" instead of my aunt: my aunt → she.",
+      "options": [
+        "My aunt is at home. She is very nice.",
+        "My aunt is at home. It is very nice.",
+        "My aunt is at home. He is very nice."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"It\" is for a thing or an animal, but my aunt is one girl or woman.",
+        "2": "\"He\" is for one boy or man, but my aunt is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-171",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"He\" instead of our teacher Mr Smith: our teacher Mr Smith → he.",
+      "options": [
+        "Our teacher Mr Smith is at home. She is very tired.",
+        "Our teacher Mr Smith is at home. It is very tired.",
+        "Our teacher Mr Smith is at home. He is very tired."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"She\" is for one girl or woman, but our teacher Mr Smith is one boy or man.",
+        "1": "\"It\" is for a thing or an animal, but our teacher Mr Smith is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-172",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"She\" instead of my mother: my mother → she.",
+      "options": [
+        "My mother is at home. It is very happy.",
+        "My mother is at home. He is very happy.",
+        "My mother is at home. She is very happy."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"It\" is for a thing or an animal, but my mother is one girl or woman.",
+        "1": "\"He\" is for one boy or man, but my mother is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-173",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"She\" instead of Emma: Emma → she.",
+      "options": [
+        "Emma is at home. It is very kind.",
+        "Emma is at home. She is very kind.",
+        "Emma is at home. He is very kind."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"It\" is for a thing or an animal, but Emma is one girl or woman.",
+        "2": "\"He\" is for one boy or man, but Emma is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-174",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"She\" instead of Mia: Mia → she.",
+      "options": [
+        "Mia is at home. She is very nice.",
+        "Mia is at home. He is very nice.",
+        "Mia is at home. It is very nice."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"He\" is for one boy or man, but Mia is one girl or woman.",
+        "2": "\"It\" is for a thing or an animal, but Mia is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-175",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"It\" instead of the car: the car → it.",
+      "options": [
+        "The car is at home. He is very clean.",
+        "The car is at home. It is very clean.",
+        "The car is at home. She is very clean."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"He\" is for one boy or man, but the car is a thing or an animal.",
+        "2": "\"She\" is for one girl or woman, but the car is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-sc-176",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"It\" instead of the horse: the horse → it.",
+      "options": [
+        "The horse is at home. She is very new.",
+        "The horse is at home. He is very new.",
+        "The horse is at home. It is very new."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"She\" is for one girl or woman, but the horse is a thing or an animal.",
+        "1": "\"He\" is for one boy or man, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-sc-177",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"They\" instead of my friends: my friends → they.",
+      "options": [
+        "My friends are at home. You are very nice.",
+        "My friends are at home. They are very nice.",
+        "My friends are at home. We are very nice."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"You\" is for the person you talk to, but my friends is more than one person or thing.",
+        "2": "\"We\" is for the speaker and other people, but my friends is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-sc-178",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"They\" instead of the girls: the girls → they.",
+      "options": [
+        "The girls are at home. They are very nice.",
+        "The girls are at home. You are very nice.",
+        "The girls are at home. We are very nice."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"You\" is for the person you talk to, but the girls is more than one person or thing.",
+        "2": "\"We\" is for the speaker and other people, but the girls is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-sc-179",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"He\" instead of Sam: Sam → he.",
+      "options": [
+        "Sam is at home. It is very good.",
+        "Sam is at home. He is very good.",
+        "Sam is at home. She is very good."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"It\" is for a thing or an animal, but Sam is one boy or man.",
+        "2": "\"She\" is for one girl or woman, but Sam is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-180",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"They\" instead of the girls: the girls → they.",
+      "options": [
+        "The girls are at home. They are very busy.",
+        "The girls are at home. You are very busy.",
+        "The girls are at home. We are very busy."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"You\" is for the person you talk to, but the girls is more than one person or thing.",
+        "2": "\"We\" is for the speaker and other people, but the girls is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-sc-181",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"It\" instead of the cat: the cat → it.",
+      "options": [
+        "The cat is at home. She is very good.",
+        "The cat is at home. It is very good.",
+        "The cat is at home. He is very good."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"She\" is for one girl or woman, but the cat is a thing or an animal.",
+        "2": "\"He\" is for one boy or man, but the cat is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-sc-182",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"She\" instead of my sister: my sister → she.",
+      "options": [
+        "My sister is at home. He is very happy.",
+        "My sister is at home. She is very happy.",
+        "My sister is at home. It is very happy."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"He\" is for one boy or man, but my sister is one girl or woman.",
+        "2": "\"It\" is for a thing or an animal, but my sister is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-183",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"She\" instead of Lucy: Lucy → she.",
+      "options": [
+        "Lucy is at home. It is very happy.",
+        "Lucy is at home. She is very happy.",
+        "Lucy is at home. He is very happy."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"It\" is for a thing or an animal, but Lucy is one girl or woman.",
+        "2": "\"He\" is for one boy or man, but Lucy is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-sc-184",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"He\" instead of Tom: Tom → he.",
+      "options": [
+        "Tom is at home. It is very good.",
+        "Tom is at home. She is very good.",
+        "Tom is at home. He is very good."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"It\" is for a thing or an animal, but Tom is one boy or man.",
+        "1": "\"She\" is for one girl or woman, but Tom is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-185",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"He\" instead of Mr Brown: Mr Brown → he.",
+      "options": [
+        "Mr Brown is at home. It is very kind.",
+        "Mr Brown is at home. She is very kind.",
+        "Mr Brown is at home. He is very kind."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"It\" is for a thing or an animal, but Mr Brown is one boy or man.",
+        "1": "\"She\" is for one girl or woman, but Mr Brown is one boy or man."
+      }
+    },
+    {
+      "id": "a1-sc-186",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a blue dress.",
+      "options": [
+        "They have a blue dress.",
+        "They have a dress blue.",
+        "They have blue a dress."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The adjective goes before the noun, not after it: a blue dress.",
+        "2": "\"a\" comes first, then the adjective, then the noun: a blue dress."
+      }
+    },
+    {
+      "id": "a1-sc-187",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: an old room.",
+      "options": [
+        "I have old an room.",
+        "I have an room old.",
+        "I have an old room."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"an\" comes first, then the adjective, then the noun: an old room.",
+        "1": "The adjective goes before the noun, not after it: an old room."
+      }
+    },
+    {
+      "id": "a1-sc-188",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a nice door.",
+      "options": [
+        "He has a door nice.",
+        "He has a nice door.",
+        "He has nice a door."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The adjective goes before the noun, not after it: a nice door.",
+        "2": "\"a\" comes first, then the adjective, then the noun: a nice door."
+      }
+    },
+    {
+      "id": "a1-sc-189",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a green dress.",
+      "options": [
+        "She has a dress green.",
+        "She has green a dress.",
+        "She has a green dress."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The adjective goes before the noun, not after it: a green dress.",
+        "1": "\"a\" comes first, then the adjective, then the noun: a green dress."
+      }
+    },
+    {
+      "id": "a1-sc-190",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a small hat.",
+      "options": [
+        "He has small a hat.",
+        "He has a hat small.",
+        "He has a small hat."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"a\" comes first, then the adjective, then the noun: a small hat.",
+        "1": "The adjective goes before the noun, not after it: a small hat."
+      }
+    },
+    {
+      "id": "a1-sc-191",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a clean cat.",
+      "options": [
+        "She has a cat clean.",
+        "She has a clean cat.",
+        "She has clean a cat."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The adjective goes before the noun, not after it: a clean cat.",
+        "2": "\"a\" comes first, then the adjective, then the noun: a clean cat."
+      }
+    },
+    {
+      "id": "a1-sc-192",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a small room.",
+      "options": [
+        "They have small a room.",
+        "They have a room small.",
+        "They have a small room."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"a\" comes first, then the adjective, then the noun: a small room.",
+        "1": "The adjective goes before the noun, not after it: a small room."
+      }
+    },
+    {
+      "id": "a1-sc-193",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a white bike.",
+      "options": [
+        "She has a white bike.",
+        "She has a bike white.",
+        "She has white a bike."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The adjective goes before the noun, not after it: a white bike.",
+        "2": "\"a\" comes first, then the adjective, then the noun: a white bike."
+      }
+    },
+    {
+      "id": "a1-sc-194",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a blue dress.",
+      "options": [
+        "She has a blue dress.",
+        "She has blue a dress.",
+        "She has a dress blue."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"a\" comes first, then the adjective, then the noun: a blue dress.",
+        "2": "The adjective goes before the noun, not after it: a blue dress."
+      }
+    },
+    {
+      "id": "a1-sc-195",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a clean hat.",
+      "options": [
+        "We have a hat clean.",
+        "We have a clean hat.",
+        "We have clean a hat."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The adjective goes before the noun, not after it: a clean hat.",
+        "2": "\"a\" comes first, then the adjective, then the noun: a clean hat."
+      }
+    },
+    {
+      "id": "a1-sc-196",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: an old ball.",
+      "options": [
+        "She has an old ball.",
+        "She has old an ball.",
+        "She has an ball old."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"an\" comes first, then the adjective, then the noun: an old ball.",
+        "2": "The adjective goes before the noun, not after it: an old ball."
+      }
+    },
+    {
+      "id": "a1-sc-197",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a new bag.",
+      "options": [
+        "He has a bag new.",
+        "He has a new bag.",
+        "He has new a bag."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The adjective goes before the noun, not after it: a new bag.",
+        "2": "\"a\" comes first, then the adjective, then the noun: a new bag."
+      }
+    },
+    {
+      "id": "a1-sc-198",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a black bike.",
+      "options": [
+        "He has a bike black.",
+        "He has a black bike.",
+        "He has black a bike."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The adjective goes before the noun, not after it: a black bike.",
+        "2": "\"a\" comes first, then the adjective, then the noun: a black bike."
+      }
+    },
+    {
+      "id": "a1-sc-199",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a clean bike.",
+      "options": [
+        "He has a clean bike.",
+        "He has clean a bike.",
+        "He has a bike clean."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"a\" comes first, then the adjective, then the noun: a clean bike.",
+        "2": "The adjective goes before the noun, not after it: a clean bike."
+      }
+    },
+    {
+      "id": "a1-sc-200",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Adjectives go before nouns: a black table.",
+      "options": [
+        "She has black a table.",
+        "She has a black table.",
+        "She has a table black."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"a\" comes first, then the adjective, then the noun: a black table.",
+        "2": "The adjective goes before the noun, not after it: a black table."
+      }
     }
   ]
 }

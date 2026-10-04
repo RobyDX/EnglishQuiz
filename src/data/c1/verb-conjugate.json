@@ -38,6 +38,2740 @@
           "did not tell"
         ]
       ]
+    },
+    {
+      "id": "c1-vc-003",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past participle clause has a passive meaning: Built in 1900, the house needs repairs.",
+      "wrongReasons": {
+        "writing": "The guide is written by someone, so a passive participle is needed.",
+        "having written": "'Having written' is active and means the guide wrote something."
+      },
+      "text": "___ (write) in simple language, the guide is ideal for beginners.",
+      "answers": [
+        [
+          "Written"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-004",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Never before' at the start, invert the auxiliary and subject: Never before had she felt so happy.",
+      "wrongReasons": {
+        "i had seen": "After 'Never before' the auxiliary must come before the subject.",
+        "i have seen": "The word order must be inverted: 'have I seen'."
+      },
+      "text": "Never before ___ (I / see) such a breathtaking sunset.",
+      "answers": [
+        [
+          "had I seen",
+          "have I seen"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-005",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + past perfect expresses regret about the past: He wishes he had travelled more.",
+      "wrongReasons": {
+        "studied": "The regret is about the past ('when she was younger'), so use the past perfect.",
+        "would study": "'would' cannot express regret about the past."
+      },
+      "text": "Lisa wishes she ___ (study) medicine instead of law when she was younger.",
+      "answers": [
+        [
+          "had studied"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-006",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'advise that' use the bare subjunctive or should + infinitive: She advised that he rest.",
+      "wrongReasons": {
+        "avoids": "The subjunctive has no -s ending.",
+        "avoided": "After 'advised that' the subjunctive uses the base form, not the past."
+      },
+      "text": "The doctor advised that he ___ (avoid) salt for a few weeks.",
+      "answers": [
+        [
+          "avoid",
+          "should avoid"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-007",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For an action completed before a future time, use the future perfect passive: By June, the work will have been finished.",
+      "wrongReasons": {
+        "will have replaced": "The cars do not replace anything; a passive form is needed.",
+        "have been replaced": "2030 is in the future, so the present perfect is wrong."
+      },
+      "text": "By 2030, most petrol cars ___ (replace) by electric ones.",
+      "answers": [
+        [
+          "will have been replaced",
+          "will be replaced"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-008",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'recommend that' use the bare subjunctive (or should + infinitive): They recommended that he leave.",
+      "wrongReasons": {
+        "resigns": "After 'recommend that' the subjunctive has no -s ending.",
+        "resigned": "The subjunctive uses the base form, not the past simple."
+      },
+      "text": "The committee recommended that the chairman ___ (resign) immediately.",
+      "answers": [
+        [
+          "resign",
+          "should resign"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-009",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For regret about the past, use wish + past perfect: I wish I had studied more.",
+      "wrongReasons": {
+        "didn't say": "'yesterday' shows a past regret, so use the past perfect.",
+        "wouldn't have said": "After 'I wish I', past regret is expressed with the past perfect, not 'would have'."
+      },
+      "text": "I wish I ___ (not / say) such hurtful things to her yesterday.",
+      "answers": [
+        [
+          "hadn't said",
+          "had not said"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-010",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A present participle can replace an active relative clause: the smell coming (= which was coming) from the kitchen.",
+      "wrongReasons": {
+        "came": "The sentence already has a main verb, so use the participle 'coming'.",
+        "comes": "Without 'which', a finite verb cannot follow 'noise'."
+      },
+      "text": "The noise ___ (come) from the basement turned out to be a broken pipe.",
+      "answers": [
+        [
+          "coming"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-011",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Only after' + clause, invert in the main clause: Only after he left did I understand.",
+      "wrongReasons": {
+        "the scientists realised": "After 'Only after ...' the main clause needs inversion with 'did'.",
+        "realised the scientists": "Use 'did' + subject + base verb, not the main verb before the subject."
+      },
+      "text": "Only after the results were published ___ (the scientists / realise) their mistake.",
+      "answers": [
+        [
+          "did the scientists realise",
+          "did the scientists realize"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-012",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'have something done' uses the past participle: I had my hair cut.",
+      "wrongReasons": {
+        "service": "After 'have + object' use the past participle, not the base form.",
+        "to service": "The causative 'have something done' does not take a to-infinitive."
+      },
+      "text": "I'm having my car ___ (service) tomorrow morning.",
+      "answers": [
+        [
+          "serviced"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-013",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'propose that' use the subjunctive; in the passive this is 'be' + past participle: I propose that it be cancelled.",
+      "wrongReasons": {
+        "is postponed": "After 'propose that' use the subjunctive 'be postponed'.",
+        "postpone": "The meeting does not postpone anything; a passive form is needed."
+      },
+      "text": "I propose that the meeting ___ (postpone) until next week.",
+      "answers": [
+        [
+          "be postponed",
+          "should be postponed"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-014",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A negative passive participle clause can be 'Not having been' + past participle: Not having been told, I was surprised.",
+      "wrongReasons": {
+        "not been": "'Not been' is incomplete; use 'Not having been'.",
+        "not having": "The passive needs 'been': 'Not having been invited'."
+      },
+      "text": "___ (not / be) invited to the wedding, they felt deeply offended.",
+      "answers": [
+        [
+          "Not having been",
+          "Not being"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-015",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'All things considered' is a fixed absolute participle phrase meaning 'taking everything into account'.",
+      "wrongReasons": {
+        "considering": "The fixed expression is 'all things considered', with the past participle.",
+        "consider": "The base form cannot be used; use 'considered'."
+      },
+      "text": "All things ___ (consider), the trip was a success.",
+      "answers": [
+        [
+          "considered"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-016",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use the perfect participle for an action that happened first and caused the next: Having missed the bus, I walked.",
+      "wrongReasons": {
+        "losing": "He lost the keys before climbing in, so use 'Having lost'.",
+        "lost": "'Lost' alone gives a passive meaning; use 'Having lost'."
+      },
+      "text": "___ (lose) his keys, he had to climb in through the window.",
+      "answers": [
+        [
+          "Having lost"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-017",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Third conditional: if + past perfect, would have + past participle: What would you have said if he had asked?",
+      "wrongReasons": {
+        "refused": "The question is about the past, so the if-clause needs the past perfect.",
+        "would have refused": "'would have' belongs in the result clause, not in the if-clause."
+      },
+      "text": "What would you have done if the bank ___ (refuse) your loan application?",
+      "answers": [
+        [
+          "had refused"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-018",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For a past passive action after 'is thought', use to have been + past participle: It is believed to have been built in 1200.",
+      "wrongReasons": {
+        "to be written": "The writing happened in the past, so use the perfect passive infinitive.",
+        "to have written": "The manuscript did not write anything; a passive form is needed."
+      },
+      "text": "The ancient manuscript is thought ___ (write) by monks in the ninth century.",
+      "answers": [
+        [
+          "to have been written"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-019",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use wish + would to complain about someone else's annoying habit: I wish he would stop shouting.",
+      "wrongReasons": {
+        "stop": "After 'I wish' the present simple is not used.",
+        "will stop": "After 'wish' use 'would', not 'will'."
+      },
+      "text": "I wish my neighbours ___ (stop) playing loud music every night.",
+      "answers": [
+        [
+          "would stop",
+          "stopped"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-020",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'It's about time' + subject takes the past simple: It's about time we left.",
+      "wrongReasons": {
+        "start": "After 'It's about time' + subject, use the past simple.",
+        "have started": "The present perfect does not follow 'It's about time' + subject."
+      },
+      "text": "It's about time you ___ (start) taking your studies seriously.",
+      "answers": [
+        [
+          "started"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-021",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A present participle can show an action immediately before the main one: Opening the door, she saw him.",
+      "wrongReasons": {
+        "turned": "'Turned' gives a passive meaning; use 'Turning'.",
+        "to turn": "A to-infinitive here would express purpose, which does not fit."
+      },
+      "text": "___ (turn) the corner, we saw the cathedral rising above the rooftops.",
+      "answers": [
+        [
+          "Turning",
+          "Having turned"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-022",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past participle clause has a passive meaning: Told the news, he cried.",
+      "wrongReasons": {
+        "informing": "The passengers received the information, so a passive form is needed.",
+        "having informed": "'Having informed' is active and means the passengers informed someone."
+      },
+      "text": "___ (inform) of the delay, the passengers began to complain.",
+      "answers": [
+        [
+          "Informed",
+          "Having been informed"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-023",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'The reason why ... is/was that' focuses on a cause: The reason he failed was that he didn't study.",
+      "wrongReasons": {
+        "were": "'The reason' is singular, so 'were' is wrong.",
+        "are": "'The reason' is singular, so use 'is' or 'was'."
+      },
+      "text": "The reason why I left ___ (be) that I felt undervalued.",
+      "answers": [
+        [
+          "was",
+          "is"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-024",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'for the past six months' needs the present perfect passive: The road has been blocked for weeks.",
+      "wrongReasons": {
+        "is closed": "A period continuing until now needs the present perfect.",
+        "was closed": "The closure continues until now, so the past simple is wrong."
+      },
+      "text": "The museum ___ (close) for renovation for the past six months.",
+      "answers": [
+        [
+          "has been closed"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-025",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'In no way' invert the verb 'be' and the subject: In no way was she to blame.",
+      "wrongReasons": {
+        "i was": "After 'In no way' at the start, the verb must come before the subject.",
+        "i am": "Inversion is required: put the verb before 'I'."
+      },
+      "text": "In no way ___ (I / be) responsible for the accident yesterday.",
+      "answers": [
+        [
+          "was I",
+          "am I"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-026",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Mixed conditional: past condition, present result with would + infinitive: If I had moved, I would live there now.",
+      "wrongReasons": {
+        "would have lived": "'now' shows a present result, so use would + infinitive, not would have + past participle.",
+        "will live": "This is an imaginary situation, so 'will' is wrong; use 'would'."
+      },
+      "text": "If she had accepted the post in Tokyo, she ___ (live) in Japan now.",
+      "answers": [
+        [
+          "would be living",
+          "would live"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-027",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'since' needs the present perfect passive: No letters have been sent since Monday.",
+      "wrongReasons": {
+        "was received": "'since' requires the present perfect, not the past simple.",
+        "has received": "A complaint does not receive anything; a passive form is needed."
+      },
+      "text": "Not a single complaint ___ (receive) since the new system was introduced.",
+      "answers": [
+        [
+          "has been received"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-028",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For an action completed before another past action, use the past perfect passive: The cake had already been eaten.",
+      "wrongReasons": {
+        "were already stolen": "The theft happened before the police arrived, so use the past perfect passive.",
+        "had already stolen": "The jewels did not steal anything; a passive form is needed."
+      },
+      "text": "By the time the police arrived, the jewels ___ (already / steal).",
+      "answers": [
+        [
+          "had already been stolen"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-029",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For a past action after 'is believed', use the perfect infinitive: He is thought to have escaped.",
+      "wrongReasons": {
+        "to leave": "'last week' refers to the past, so use the perfect infinitive.",
+        "leaving": "After 'is believed' use an infinitive, not the -ing form."
+      },
+      "text": "The suspect is believed ___ (leave) the country last week.",
+      "answers": [
+        [
+          "to have left"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-030",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A present participle can replace 'who + verb': Anyone needing help (= who needs help) should ask.",
+      "wrongReasons": {
+        "wishes": "Without 'who', a finite verb cannot follow 'Anyone' here.",
+        "wished": "The past participle gives a passive meaning, which does not fit."
+      },
+      "text": "Anyone ___ (wish) to attend the workshop should register online.",
+      "answers": [
+        [
+          "wishing"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-031",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "To give advice use 'If I were you' + would: If I were you, I would wait.",
+      "wrongReasons": {
+        "am": "Advice with 'would' needs the unreal past, not the present.",
+        "had been": "The advice is about now, not about the past."
+      },
+      "text": "If I ___ (be) you, I would get a second opinion before signing the contract.",
+      "answers": [
+        [
+          "were",
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-032",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'The thing that ... was' is a cleft-like structure with a singular verb: The thing I liked was the food.",
+      "wrongReasons": {
+        "were": "'The thing' is singular, so use 'was'.",
+        "is": "The experience is in the past ('surprised'), so use 'was'."
+      },
+      "text": "The thing that surprised me most ___ (be) how friendly everyone was.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-033",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For an unreal past condition use the past perfect: If I had known, I would have gone.",
+      "wrongReasons": {
+        "knew": "The result 'would have taken' is in the past, so the if-clause needs the past perfect, not the past simple.",
+        "would have known": "'would' is not normally used in the if-clause; use the past perfect."
+      },
+      "text": "If I ___ (know) about the strike, I would have taken a taxi to the airport.",
+      "answers": [
+        [
+          "had known"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-034",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A present participle can show an action happening at the same time: He left, waving goodbye.",
+      "wrongReasons": {
+        "slammed": "After the comma, a participle is needed for the simultaneous action, not the past simple.",
+        "having slammed": "The perfect participle suggests the slam happened before she walked out."
+      },
+      "text": "She walked out of the room, ___ (slam) the door behind her.",
+      "answers": [
+        [
+          "slamming"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-035",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past participle clause gives passive background information: Founded in 1850, the school is famous.",
+      "wrongReasons": {
+        "completing": "The tower was completed by builders, so a passive participle is needed.",
+        "having completed": "'Having completed' is active and would mean the tower completed something."
+      },
+      "text": "___ (complete) in 1889, the tower was initially criticised by many artists.",
+      "answers": [
+        [
+          "Completed",
+          "Having been completed"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-036",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'It was only after ... that' is followed by the past simple: It was only after she left that I understood.",
+      "wrongReasons": {
+        "has taken up": "'It was' places the event in the past, so the present perfect is wrong.",
+        "takes up": "The event is in the past, so use the past simple."
+      },
+      "text": "It was only after he had retired that he ___ (take up) painting.",
+      "answers": [
+        [
+          "took up"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-037",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'At no time' invert the auxiliary and subject: At no time did he apologise.",
+      "wrongReasons": {
+        "the company informed": "After 'At no time' at the start, invert with 'did'.",
+        "informed the company": "Use 'did' + subject + base form, not the main verb before the subject."
+      },
+      "text": "At no time ___ (the company / inform) its customers of the risk.",
+      "answers": [
+        [
+          "did the company inform",
+          "had the company informed"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-038",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Mixed conditional with a present result: If you had studied, you wouldn't have problems now.",
+      "wrongReasons": {
+        "wouldn't have had": "'now' shows a present result, so use would + infinitive.",
+        "won't have": "The situation is imaginary, so 'will' is wrong."
+      },
+      "text": "If you had listened to my advice, you ___ (not / have) this problem now.",
+      "answers": [
+        [
+          "wouldn't have",
+          "would not have"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-039",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'unless' use a present tense to talk about the future: Unless it rains, we will go.",
+      "wrongReasons": {
+        "will approve": "After 'unless' use a present tense for the future, not 'will'.",
+        "doesn't approve": "'Unless' already means 'if not', so a negative verb gives the opposite meaning."
+      },
+      "text": "Unless the board ___ (approve) the budget by Friday, the project will be postponed.",
+      "answers": [
+        [
+          "approves",
+          "approve"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-040",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'It is imperative that' use the bare subjunctive: It is imperative that he be told.",
+      "wrongReasons": {
+        "takes": "The subjunctive uses the base form without -s.",
+        "took": "The past simple is wrong after 'It is imperative that'."
+      },
+      "text": "It is imperative that the patient ___ (take) the medication at the same time every day.",
+      "answers": [
+        [
+          "take",
+          "should take"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-041",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'would rather' + another subject, use the past simple: I'd rather you stayed.",
+      "wrongReasons": {
+        "spend": "After 'would rather' + a different subject, use the past simple.",
+        "would spend": "'would' is not repeated after 'would rather' + subject."
+      },
+      "text": "My parents would rather we ___ (spend) Christmas with them this year.",
+      "answers": [
+        [
+          "spent"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-042",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A what-clause takes a singular verb: What worries me is the cost.",
+      "wrongReasons": {
+        "are": "The what-clause and 'the way' are singular, so use 'is'.",
+        "annoys": "The verb 'annoys' is already in the what-clause; the gap needs 'be'."
+      },
+      "text": "What really annoys me ___ (be) the way he ignores everyone.",
+      "answers": [
+        [
+          "is"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-043",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Such + be + noun + that' is an inverted structure: Such was his anger that he shouted.",
+      "wrongReasons": {
+        "is": "The story is in the past (the website crashed), so use 'was'.",
+        "were": "'demand' is singular, so use 'was'."
+      },
+      "text": "Such ___ (be) the demand for tickets that the website crashed.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-044",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Being' can give a reason: Being tired, she went to bed early.",
+      "wrongReasons": {
+        "been": "'Been' cannot start a participle clause on its own.",
+        "having been": "'Having been' suggests he is no longer a vegetarian, which contradicts 'never orders'."
+      },
+      "text": "___ (be) a vegetarian, he never orders the meat dishes.",
+      "answers": [
+        [
+          "Being"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-045",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For a demand after 'insist that', use the subjunctive 'be': He insisted that the door be locked.",
+      "wrongReasons": {
+        "was": "'was' would mean she claimed the lawyer was there; for a demand use 'be'.",
+        "is": "After a past 'insisted that' expressing a demand, use the subjunctive 'be'."
+      },
+      "text": "She insisted that her lawyer ___ (be) present during the interview.",
+      "answers": [
+        [
+          "be",
+          "should be"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-046",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Only by' + -ing, invert the auxiliary and subject: Only by saving can you buy a house.",
+      "wrongReasons": {
+        "we can solve": "After 'Only by ...' at the start, the auxiliary comes before the subject.",
+        "we solve": "An auxiliary is needed for inversion: 'can we solve'."
+      },
+      "text": "Only by working together ___ (we / solve) this problem.",
+      "answers": [
+        [
+          "can we solve",
+          "will we solve"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-047",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "An inverted third conditional uses Had + subject + past participle: Had I known, I would have come.",
+      "wrongReasons": {
+        "i realise": "After 'Had' use the past participle 'realised'.",
+        "i had realised": "'Had' is already at the start; do not repeat it."
+      },
+      "text": "Had ___ (I / realise) how late it was, I would have called a taxi.",
+      "answers": [
+        [
+          "I realised",
+          "I realized"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-048",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Generally speaking' is a fixed participle expression meaning 'in general': Generally speaking, it is safe.",
+      "wrongReasons": {
+        "spoken": "The fixed expression uses the present participle: 'generally speaking'.",
+        "speak": "The base form cannot be used here; use 'speaking'."
+      },
+      "text": "Generally ___ (speak), older cars use more fuel than newer models.",
+      "answers": [
+        [
+          "speaking"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-049",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'It was + place + that' focuses on where; the clause uses the past simple: It was in Paris that they met.",
+      "wrongReasons": {
+        "has composed": "Mozart's life is finished, so the present perfect is wrong.",
+        "composes": "The event is in the past, so use the past simple."
+      },
+      "text": "It was in Vienna that Mozart ___ (compose) many of his greatest works.",
+      "answers": [
+        [
+          "composed"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-050",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'I'd sooner' + another subject works like 'I'd rather' and takes the past simple: I'd sooner you came early.",
+      "wrongReasons": {
+        "pay": "After 'I'd sooner' + a different subject, use the past simple.",
+        "would pay": "'would' is not used after 'I'd sooner' + subject."
+      },
+      "text": "I'd sooner you ___ (pay) me in cash, if that's all right.",
+      "answers": [
+        [
+          "paid"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-051",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'What ... did was', use the bare infinitive (or to-infinitive): What I did was call him.",
+      "wrongReasons": {
+        "cutting": "After 'What ... did was' use the infinitive, not the -ing form.",
+        "cuts": "After 'was' in this structure use the base form, not the present simple."
+      },
+      "text": "What the company did was ___ (cut) the budget by half.",
+      "answers": [
+        [
+          "cut",
+          "to cut"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-052",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Should' + subject in a formal condition, use the bare infinitive: Should you need help, call us.",
+      "wrongReasons": {
+        "arrives": "After 'Should' + subject, use the bare infinitive without -s.",
+        "arrived": "'Should' is always followed by the bare infinitive."
+      },
+      "text": "Should the shipment ___ (arrive) damaged, please contact us within 48 hours.",
+      "answers": [
+        [
+          "arrive"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-053",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Only when' + clause, invert the main clause: Only when I saw it did I believe it.",
+      "wrongReasons": {
+        "she understood": "After 'Only when ...' the main clause needs inversion with 'did'.",
+        "understood she": "Use 'did' + subject + base form for inversion."
+      },
+      "text": "Only when she read the letter again ___ (she / understand) what he meant.",
+      "answers": [
+        [
+          "did she understand"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-054",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Under no circumstances' invert the auxiliary and subject: Under no circumstances is smoking permitted.",
+      "wrongReasons": {
+        "visitors are allowed": "After a negative phrase at the start, invert: 'are visitors allowed'.",
+        "are allowed visitors": "Only the auxiliary moves before the subject; the participle stays after it."
+      },
+      "text": "Under no circumstances ___ (visitors / allow) to feed the animals.",
+      "answers": [
+        [
+          "are visitors allowed",
+          "will visitors be allowed"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-055",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The negative passive subjunctive is 'not be' + past participle: It is vital that it not be lost.",
+      "wrongReasons": {
+        "is not shared": "After 'It is vital that' use the subjunctive 'not be shared', not the indicative.",
+        "not share": "The data does not share anything; a passive form is needed."
+      },
+      "text": "It is vital that the data ___ (not / share) with third parties.",
+      "answers": [
+        [
+          "not be shared",
+          "should not be shared",
+          "shouldn't be shared"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-056",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'is reported', use the continuous infinitive for an action in progress: He is said to be living abroad.",
+      "wrongReasons": {
+        "training": "After 'is reported' use an infinitive, not the -ing form.",
+        "to have trained": "The training is still going on, so a continuous infinitive is needed."
+      },
+      "text": "The athlete is reported ___ (train) in secret for the next Olympics.",
+      "answers": [
+        [
+          "to be training",
+          "to have been training"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-057",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Provided that' introduces a real condition and takes a present tense for the future: Provided that you pay, you can enter.",
+      "wrongReasons": {
+        "will hold": "Do not use 'will' after 'provided that'; use the present simple.",
+        "held": "This is a real future condition, so the past simple is wrong here."
+      },
+      "text": "Provided that the weather ___ (hold), the ceremony will take place outdoors.",
+      "answers": [
+        [
+          "holds"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-058",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'If only' + past perfect expresses regret about the past: If only I had known.",
+      "wrongReasons": {
+        "listened": "The regret is about a past event, so use the past perfect.",
+        "would listen": "'would' expresses a wish for change, not regret about the past."
+      },
+      "text": "If only they ___ (listen) to the engineers before building the dam!",
+      "answers": [
+        [
+          "had listened"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-059",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Mixed conditional: present state, past result with would have + past participle: If he were kinder, he would have helped.",
+      "wrongReasons": {
+        "would apologise": "'long ago' refers to the past, so the result needs would have + past participle.",
+        "had apologised": "The result clause needs 'would have', not the past perfect alone."
+      },
+      "text": "If he weren't so stubborn, he ___ (apologise) to his sister long ago.",
+      "answers": [
+        [
+          "would have apologised",
+          "would have apologized"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-060",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Hardly ... when' takes the past perfect with inversion: Hardly had I left when it started.",
+      "wrongReasons": {
+        "we had sat": "After 'Hardly' at the start, the auxiliary comes before the subject.",
+        "did we sit": "'Hardly ... when' is followed by the past perfect, not the past simple."
+      },
+      "text": "Hardly ___ (we / sit) down when the phone rang.",
+      "answers": [
+        [
+          "had we sat"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-061",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use 'Having' + past participle for an action completed before the main one: Having eaten, we left.",
+      "wrongReasons": {
+        "finished": "Without 'having', the participle has a passive meaning, which does not fit.",
+        "finishing": "The report was finished before it was sent, so use the perfect participle."
+      },
+      "text": "___ (finish) the report, she sent it to her manager.",
+      "answers": [
+        [
+          "Having finished"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-062",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a what-cleft, the focused clause keeps its normal tense: What I wonder is why he left.",
+      "wrongReasons": {
+        "has resigned": "'last month' is a finished time, so the present perfect is wrong.",
+        "resigns": "The event is in the past, so use the past simple."
+      },
+      "text": "What I can't understand is why she ___ (resign) so suddenly last month.",
+      "answers": [
+        [
+          "resigned"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-063",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'make' takes the bare infinitive in the active, but the to-infinitive in the passive: He was made to wait.",
+      "wrongReasons": {
+        "work": "In the passive, 'be made' is followed by the to-infinitive.",
+        "working": "'be made' is not followed by the -ing form."
+      },
+      "text": "The prisoners were made ___ (work) twelve hours a day.",
+      "answers": [
+        [
+          "to work"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-064",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'What I'm going to do is' use the bare infinitive (or to-infinitive): What I'll do is call her.",
+      "wrongReasons": {
+        "writing": "After 'What ... do is' use the infinitive, not the -ing form.",
+        "wrote": "The plan is for the future, so the past simple is wrong."
+      },
+      "text": "What I'm going to do is ___ (write) a formal complaint.",
+      "answers": [
+        [
+          "write",
+          "to write"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-065",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Would you rather' + another subject takes the past simple: Would you rather I stayed?",
+      "wrongReasons": {
+        "come": "After 'would rather' + a different subject, use the past simple.",
+        "would come": "'would' is not repeated after 'would rather' + subject."
+      },
+      "text": "Would you rather I ___ (come) with you to the hospital?",
+      "answers": [
+        [
+          "came"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-066",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Were + subject + to-infinitive' is a formal unreal condition: Were he to resign, there would be chaos.",
+      "wrongReasons": {
+        "collapsed": "After 'Were the company' use the to-infinitive, not the past simple.",
+        "collapse": "The infinitive needs 'to' in this structure."
+      },
+      "text": "Were the company ___ (collapse), thousands of jobs would be lost.",
+      "answers": [
+        [
+          "to collapse"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-067",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'On no account' invert the modal and subject: On no account should you leave.",
+      "wrongReasons": {
+        "you should open": "After 'On no account' at the start, the modal comes before the subject.",
+        "you open": "Inversion needs an auxiliary or modal before the subject."
+      },
+      "text": "On no account ___ (you / open) this door without permission.",
+      "answers": [
+        [
+          "should you open",
+          "must you open"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-068",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Rarely' at the start, invert the auxiliary and subject: Rarely have I seen such talent.",
+      "wrongReasons": {
+        "the committee has rejected": "After 'Rarely' at the start, the auxiliary must come before the subject.",
+        "did the committee rejected": "After 'did' use the base form, and here the present perfect is needed."
+      },
+      "text": "Rarely ___ (the committee / reject) a proposal as firmly as it did yesterday.",
+      "answers": [
+        [
+          "has the committee rejected"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-069",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In an 'It is ... who' cleft, the verb agrees with the focused noun: It is the parents who pay.",
+      "wrongReasons": {
+        "decides": "'the students' is plural, so the verb has no -s.",
+        "deciding": "The relative clause needs a finite verb."
+      },
+      "text": "It is the students themselves who ___ (decide) which topics to study.",
+      "answers": [
+        [
+          "decide"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-070",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Suppose' + past simple introduces an imaginary situation with 'would': Suppose it rained, would you come?",
+      "wrongReasons": {
+        "finds": "The question uses 'would', so the condition needs the past simple.",
+        "had found": "The past perfect refers to the past, but this is an imaginary future."
+      },
+      "text": "Suppose the manager ___ (find) out. What would you say?",
+      "answers": [
+        [
+          "found",
+          "were to find"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-071",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'need', use the passive infinitive (or -ing) when the subject receives the action: The walls need to be painted.",
+      "wrongReasons": {
+        "to sign": "The documents do not sign anything; use 'to be signed'.",
+        "to signed": "After 'to' use 'be' + past participle, not the participle alone."
+      },
+      "text": "All the documents need ___ (sign) before the end of the day.",
+      "answers": [
+        [
+          "to be signed",
+          "signing"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-072",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The passive subjunctive is 'be' + past participle: They demand that the law be changed.",
+      "wrongReasons": {
+        "are raised": "After 'demand that' use the subjunctive 'be raised', not 'are'.",
+        "raise": "Wages do not raise anything; a passive form is needed."
+      },
+      "text": "The union is demanding that wages ___ (raise) by five per cent.",
+      "answers": [
+        [
+          "be raised",
+          "should be raised"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-073",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past participle can replace 'who are + past participle': The people invited (= who are invited) will come.",
+      "wrongReasons": {
+        "selecting": "The students are chosen by others, so use the past participle.",
+        "who selected": "'who selected' means the students chose someone; a passive meaning is needed."
+      },
+      "text": "The students ___ (select) for the programme will spend a term in Canada.",
+      "answers": [
+        [
+          "selected"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-074",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'is expected', use the passive infinitive when the subject receives the action: The bill is expected to be approved.",
+      "wrongReasons": {
+        "to settle": "The dispute does not settle anything itself here; use the passive infinitive.",
+        "settling": "After 'is expected' use an infinitive, not the -ing form."
+      },
+      "text": "The dispute is expected ___ (settle) out of court.",
+      "answers": [
+        [
+          "to be settled"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-075",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In negative participle clauses 'not' comes before the participle: Not wanting to wait, she left.",
+      "wrongReasons": {
+        "knowing not": "'not' must come before the participle.",
+        "not known": "The past participle gives a passive meaning, which does not fit."
+      },
+      "text": "___ (not / know) what to say, he remained silent.",
+      "answers": [
+        [
+          "Not knowing"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-076",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use 'Having' + past participle for an earlier action that explains the result: Having broken his leg, he couldn't play.",
+      "wrongReasons": {
+        "spending": "The spending happened before she had nothing left, so use the perfect participle.",
+        "spent": "'Spent' alone gives a passive meaning; use 'Having spent'."
+      },
+      "text": "___ (spend) all her money on the first day, she had nothing left for souvenirs.",
+      "answers": [
+        [
+          "Having spent"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-077",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'As long as' introduces a condition and takes a present tense: As long as you're careful, you'll be fine.",
+      "wrongReasons": {
+        "will keep": "Do not use 'will' after 'as long as'.",
+        "kept": "This is a real condition about the future, so the present simple is needed."
+      },
+      "text": "As long as you ___ (keep) the receipt, you can return the item within thirty days.",
+      "answers": [
+        [
+          "keep"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-078",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A present participle can replace a relative clause: The girl sitting there is Ann (= who is sitting).",
+      "wrongReasons": {
+        "stands": "Without 'who', a finite verb cannot follow; use 'standing'.",
+        "stand": "The base form cannot shorten a relative clause; use the -ing form."
+      },
+      "text": "The man ___ (stand) by the window is my uncle.",
+      "answers": [
+        [
+          "standing"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-079",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In an 'It is ... that' cleft, the verb agrees with the focused noun: It is the views that attract visitors.",
+      "wrongReasons": {
+        "makes": "'these small details' is plural, so the verb has no -s.",
+        "making": "The relative clause needs a finite verb."
+      },
+      "text": "It is these small details that ___ (make) the hotel special.",
+      "answers": [
+        [
+          "make"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-080",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a past 'What ... did' cleft, use 'was' + infinitive: What he did was (to) leave.",
+      "wrongReasons": {
+        "is": "The action happened in the past, so use 'was'.",
+        "were": "A what-clause is singular, so use 'was'."
+      },
+      "text": "What she did next ___ (be) to call the police.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-081",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'All that remains is + to-infinitive' focuses on the last action: All that remains is to sign.",
+      "wrongReasons": {
+        "are": "'All that remains' is singular, so use 'is'.",
+        "remains": "'remains' is already used; the gap needs the verb 'be'."
+      },
+      "text": "All that remains ___ (be) to thank our sponsors.",
+      "answers": [
+        [
+          "is"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-082",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'It's time' + subject takes the past simple: It's time we went home.",
+      "wrongReasons": {
+        "leave": "After 'It's time' + subject, use the past simple.",
+        "have left": "The present perfect does not follow 'It's time' + subject."
+      },
+      "text": "It's time we ___ (leave): the last bus goes in ten minutes.",
+      "answers": [
+        [
+          "left",
+          "were leaving"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-083",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Since' needs the present perfect; in the passive this is have been + past participle: Many trees have been planted since May.",
+      "wrongReasons": {
+        "were built": "'Since' requires the present perfect, not the past simple.",
+        "have built": "The homes did not build anything; a passive form is needed."
+      },
+      "text": "Since the reform, thousands of new homes ___ (build) in the region.",
+      "answers": [
+        [
+          "have been built"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-084",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Judging by/from' is a fixed participle expression meaning 'based on': Judging by his face, he was angry.",
+      "wrongReasons": {
+        "judged": "The fixed expression uses the present participle: 'judging by'.",
+        "judge": "The base form cannot start this clause; use 'Judging'."
+      },
+      "text": "___ (judge) by the clouds, it's going to rain this afternoon.",
+      "answers": [
+        [
+          "Judging"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-085",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'hate', use being + past participle for a passive meaning: I hate being ignored.",
+      "wrongReasons": {
+        "telling": "She receives the instructions, so a passive form is needed.",
+        "to tell": "The active infinitive means she tells others; use 'being told'."
+      },
+      "text": "She hates ___ (tell) what to do by her colleagues.",
+      "answers": [
+        [
+          "being told",
+          "to be told"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-086",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use wish + would (not) to complain about someone's habit: I wish you wouldn't shout.",
+      "wrongReasons": {
+        "don't interrupt": "After 'wish' the present simple is not used.",
+        "won't interrupt": "After 'wish' use 'would', not 'will'."
+      },
+      "text": "I wish you ___ (not / interrupt) me all the time. It's really annoying.",
+      "answers": [
+        [
+          "wouldn't interrupt",
+          "would not interrupt",
+          "didn't interrupt",
+          "did not interrupt"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-087",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A 'Where' clause can be the subject of a cleft and takes a singular verb: Where he failed was in planning.",
+      "wrongReasons": {
+        "were": "The where-clause is singular, so use 'was'.",
+        "is": "The mistake happened in the past ('went wrong'), so use 'was'."
+      },
+      "text": "Where we went wrong ___ (be) in underestimating the costs.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-088",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For an action happening now, use the present continuous passive: Your order is being prepared.",
+      "wrongReasons": {
+        "is processing": "The application does not process anything; a passive form is needed.",
+        "processes": "The active present simple is wrong; use 'is being processed'."
+      },
+      "text": "Your application ___ (process) right now, so please do not submit it again.",
+      "answers": [
+        [
+          "is being processed"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-089",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For a passive action in progress in the past, use was/were being + past participle: The room was being cleaned when I arrived.",
+      "wrongReasons": {
+        "were discussed": "The discussion was in progress when the alarm went off, so use the continuous passive.",
+        "had discussed": "The proposals did not discuss anything; a passive form is needed."
+      },
+      "text": "The proposals ___ (discuss) when the fire alarm went off.",
+      "answers": [
+        [
+          "were being discussed"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-090",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'It is essential that' use the bare subjunctive: It is essential that she arrive on time.",
+      "wrongReasons": {
+        "wears": "The subjunctive does not take -s, even with a singular subject.",
+        "wore": "After 'It is essential that' use the base form, not the past."
+      },
+      "text": "It is essential that every passenger ___ (wear) a seat belt during take-off.",
+      "answers": [
+        [
+          "wear",
+          "should wear"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-091",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past participle can shorten a passive relative clause: The cars made here (= which are made) are sold abroad.",
+      "wrongReasons": {
+        "exporting": "The goods receive the action, so use the past participle.",
+        "are exported": "The sentence already has a main verb, so a finite verb cannot be added here."
+      },
+      "text": "Most of the goods ___ (export) to Asia come from this port.",
+      "answers": [
+        [
+          "exported"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-092",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Only then' at the start, invert with an auxiliary: Only then did we realise.",
+      "wrongReasons": {
+        "the truth became": "After 'Only then' at the start, the main clause needs inversion with 'did'.",
+        "became the truth": "A main verb cannot move before the subject here; use 'did'."
+      },
+      "text": "Only then ___ (the truth / become) clear to the investigators.",
+      "answers": [
+        [
+          "did the truth become"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-093",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For a deduction about the past in the passive, use must have been + past participle: It must have been stolen.",
+      "wrongReasons": {
+        "be damaged": "The damage happened in the past, so use 'have been damaged'.",
+        "have damaged": "The painting did not damage anything; a passive form is needed."
+      },
+      "text": "The painting must ___ (damage) during transport, as it was fine when it left the gallery.",
+      "answers": [
+        [
+          "have been damaged"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-094",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'On condition that' is followed by a present tense for the future: on condition that you return it.",
+      "wrongReasons": {
+        "will bring": "Do not use 'will' after 'on condition that'.",
+        "would bring": "The main clause uses 'will', so this is a real condition; 'would' does not fit."
+      },
+      "text": "I'll lend you the car on condition that you ___ (bring) it back by midnight.",
+      "answers": [
+        [
+          "bring"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-095",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past participle can replace a passive relative clause: the points made (= which were made).",
+      "wrongReasons": {
+        "raising": "The issues were raised by people, so a passive participle is needed.",
+        "rose": "'rise' is intransitive; the correct verb is 'raise', past participle 'raised'."
+      },
+      "text": "There were several issues ___ (raise) at the meeting that need further discussion.",
+      "answers": [
+        [
+          "raised"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-096",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For a finished past action in the passive, use was/were + past participle: The letter was found in 1990.",
+      "wrongReasons": {
+        "discovered": "The ruins did not discover anything; a passive form is needed.",
+        "have been discovered": "'in 1947' is a finished time, so the present perfect is wrong."
+      },
+      "text": "The ruins ___ (discover) by a shepherd in 1947.",
+      "answers": [
+        [
+          "were discovered"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-097",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A what-clause takes a singular verb: What the data suggests is that prices will rise.",
+      "wrongReasons": {
+        "are": "The what-clause is singular, so use 'is'.",
+        "shows": "The verb 'shows' is already in the what-clause; the gap needs 'be'."
+      },
+      "text": "What the report shows ___ (be) that the policy has failed.",
+      "answers": [
+        [
+          "is"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-098",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'require that' use the bare subjunctive: The law requires that he register.",
+      "wrongReasons": {
+        "submits": "The subjunctive has no -s ending.",
+        "submitted": "The base form is needed after 'require that', not the past."
+      },
+      "text": "The regulations require that each applicant ___ (submit) two references.",
+      "answers": [
+        [
+          "submit",
+          "should submit"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-099",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In 'It wasn't ... who' clefts, use the past simple for a past event: It wasn't Sam who lied.",
+      "wrongReasons": {
+        "breaked": "'break' is irregular: the past simple is 'broke'.",
+        "broken": "'broken' is the past participle; the past simple 'broke' is needed."
+      },
+      "text": "It wasn't me who ___ (break) the vase. It was the cat!",
+      "answers": [
+        [
+          "broke"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-100",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past participle clause can add passive information: The novel, set in Rome, is a bestseller.",
+      "wrongReasons": {
+        "basing": "The film is based on the story, so a passive participle is needed.",
+        "is based": "A finite verb cannot be used in this reduced clause between commas."
+      },
+      "text": "The film, ___ (base) on a true story, won three awards.",
+      "answers": [
+        [
+          "based"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-101",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Little' at the start means 'not at all' and needs inversion: Little did they suspect.",
+      "wrongReasons": {
+        "he knew": "After 'Little' at the start, invert with 'did'.",
+        "knew he": "Use the auxiliary 'did', not the main verb, before the subject."
+      },
+      "text": "Little ___ (he / know) that his life was about to change forever.",
+      "answers": [
+        [
+          "did he know"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-102",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Nowhere' at the start, invert the auxiliary and subject: Nowhere can you buy cheaper fruit.",
+      "wrongReasons": {
+        "you will find": "After 'Nowhere' at the start, the auxiliary comes before the subject.",
+        "you find": "Inversion needs an auxiliary: 'will you find'."
+      },
+      "text": "Nowhere ___ (you / find) a better view of the city than from this hill.",
+      "answers": [
+        [
+          "will you find",
+          "can you find",
+          "could you find"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-103",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Mixed conditional: past cause, present result: If I had saved, I wouldn't be poor now.",
+      "wrongReasons": {
+        "wouldn't have been": "'now' shows a present result, so use would + infinitive.",
+        "won't be": "The situation is imaginary, so 'will' cannot be used."
+      },
+      "text": "If he had been more careful with his savings, he ___ (not / be) in debt now.",
+      "answers": [
+        [
+          "wouldn't be",
+          "would not be"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-104",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In an 'It's ... that' cleft, the verb agrees with the focused noun: It's the children who need help.",
+      "wrongReasons": {
+        "bother": "'the noise' is singular, so the verb needs -s.",
+        "bothering": "The relative clause needs a finite verb."
+      },
+      "text": "It's the noise that ___ (bother) me, not the heat.",
+      "answers": [
+        [
+          "bothers"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-105",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Given' + noun can mean 'if I were given': Given more time, we could finish.",
+      "wrongReasons": {
+        "giving": "The speaker would receive the chance, so use the past participle.",
+        "having given": "'Having given' is active and means the speaker gave something."
+      },
+      "text": "___ (give) the chance, I would study astrophysics.",
+      "answers": [
+        [
+          "Given"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-106",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'No sooner ... than' takes the past perfect with inversion: No sooner had she sat down than he arrived.",
+      "wrongReasons": {
+        "the guests had left": "After 'No sooner' at the start, the auxiliary comes before the subject.",
+        "did the guests leave": "'No sooner ... than' is normally followed by the past perfect."
+      },
+      "text": "No sooner ___ (the guests / leave) than the argument started again.",
+      "answers": [
+        [
+          "had the guests left"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-107",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use 'as though' + past simple for something that is not true: She acts as though she were the boss.",
+      "wrongReasons": {
+        "is": "He is not the director, so use the unreal past.",
+        "had been": "The situation is present, so the past perfect is wrong."
+      },
+      "text": "He behaves as though he ___ (be) the director, but he is only an intern.",
+      "answers": [
+        [
+          "were",
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-108",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Not once' at the start, invert the auxiliary and subject: Not once did she call.",
+      "wrongReasons": {
+        "he thanked": "After 'Not once' at the start, invert with 'did'.",
+        "has he thanked": "'during all those years' is a finished period, so the present perfect is wrong."
+      },
+      "text": "Not once ___ (he / thank) us for our help during all those years.",
+      "answers": [
+        [
+          "did he thank",
+          "had he thanked"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-109",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'All I want to do is + bare infinitive' focuses on one action: All I need to do is sign.",
+      "wrongReasons": {
+        "do": "After 'want' you need the to-infinitive: 'want to do'.",
+        "doing": "'want' is followed by the to-infinitive, not the -ing form."
+      },
+      "text": "All I want ___ (do) is sleep for a week.",
+      "answers": [
+        [
+          "to do"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-110",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A passive third-conditional result uses would have been + past participle: He would have been saved.",
+      "wrongReasons": {
+        "would have rescued": "The victims did not rescue anyone; a passive form is needed.",
+        "would be rescued": "The situation is in the past, so use 'would have been'."
+      },
+      "text": "The victims ___ (rescue) if the helicopter had arrived sooner.",
+      "answers": [
+        [
+          "would have been rescued",
+          "could have been rescued",
+          "might have been rescued"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-111",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The clause after 'It was ... that' can be passive: It was because of the strike that trains were delayed.",
+      "wrongReasons": {
+        "cancelled": "The flights did not cancel anything; a passive form is needed.",
+        "have been cancelled": "'It was' places the event in the past, so the present perfect is wrong."
+      },
+      "text": "It was because of the fog that the flights ___ (cancel).",
+      "answers": [
+        [
+          "were cancelled",
+          "were canceled",
+          "had been cancelled",
+          "had been canceled"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-112",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For an action in progress, use the present continuous passive: The house is being painted.",
+      "wrongReasons": {
+        "is repaired": "'at the moment' shows an action in progress, so use 'is being repaired'.",
+        "is repairing": "The bridge does not repair anything; a passive form is needed."
+      },
+      "text": "The bridge ___ (repair) at the moment, so traffic is being diverted.",
+      "answers": [
+        [
+          "is being repaired"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-113",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For a wish about a present ability use wish + could: I wish I could swim.",
+      "wrongReasons": {
+        "can": "After 'I wish' use the past form 'could', not 'can'.",
+        "could have": "'could have' expresses a past regret, but this is about the present."
+      },
+      "text": "I wish I ___ (can) play a musical instrument.",
+      "answers": [
+        [
+          "could"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-114",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'It was not until ... that' is followed by the past simple: It was not until noon that he woke up.",
+      "wrongReasons": {
+        "become": "The event is in the past, so use the past simple 'became'.",
+        "has become": "'the 1990s' is a finished time, so the present perfect is wrong."
+      },
+      "text": "It was not until the 1990s that the internet ___ (become) widely available.",
+      "answers": [
+        [
+          "became"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-115",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'So + adjective' at the start takes inversion: So loud was the music that I left.",
+      "wrongReasons": {
+        "the melody was": "After 'So beautiful' at the start, put the verb before the subject.",
+        "did the melody be": "'be' is inverted directly, without 'did'."
+      },
+      "text": "So beautiful ___ (the melody / be) that the audience fell silent.",
+      "answers": [
+        [
+          "was the melody"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-116",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'remember', use being + past participle for a passive memory: I remember being told.",
+      "wrongReasons": {
+        "giving": "The speaker received the instructions, so a passive form is needed.",
+        "to be given": "'remember to' refers to a future duty, not a memory."
+      },
+      "text": "I don't remember ___ (give) any instructions about the deadline.",
+      "answers": [
+        [
+          "being given",
+          "having been given"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-117",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For a past situation use 'if it hadn't been for' + noun: If it hadn't been for the rain, we would have won.",
+      "wrongReasons": {
+        "weren't": "The storm happened last night, so refer to the past with 'hadn't been'.",
+        "wouldn't have been": "'would' does not go in the if-clause; use the past perfect."
+      },
+      "text": "If it ___ (not / be) for the storm last night, the match would have gone ahead.",
+      "answers": [
+        [
+          "hadn't been",
+          "had not been"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-118",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In an 'It was ... who' cleft, the relative clause keeps the normal tense: It was Tom who called.",
+      "wrongReasons": {
+        "suggest": "The event is in the past, so use the past simple.",
+        "has suggested": "'It was' sets the time in the past, so the present perfect does not fit."
+      },
+      "text": "It was Maria who ___ (suggest) the idea in the first place.",
+      "answers": [
+        [
+          "suggested"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-119",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With 'supposing' and 'would', use the past simple for an imaginary situation: Supposing you lost your job, what would you do?",
+      "wrongReasons": {
+        "win": "The result uses 'would', so the condition needs the past simple, not the present.",
+        "had won": "The question is about an imaginary future, not the past, so the past perfect is wrong."
+      },
+      "text": "Supposing you ___ (win) the lottery, what would you do first?",
+      "answers": [
+        [
+          "won",
+          "were to win"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-120",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future passive is will be + past participle: The road will be closed tomorrow.",
+      "wrongReasons": {
+        "will open": "'by the Health Minister' shows the wing receives the action, so a passive is needed.",
+        "opens": "The sentence needs a passive future form, not the active present."
+      },
+      "text": "The new hospital wing ___ (open) by the Health Minister next month.",
+      "answers": [
+        [
+          "will be opened",
+          "is going to be opened",
+          "is to be opened",
+          "is being opened"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-121",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A negative object at the start ('Not a word') triggers inversion: Not a sound did we hear.",
+      "wrongReasons": {
+        "she said": "After 'Not a word' at the start, invert with 'did'.",
+        "said she": "Use 'did' + subject + base form, not the main verb first."
+      },
+      "text": "Not a word ___ (she / say) during the entire journey.",
+      "answers": [
+        [
+          "did she say",
+          "had she said"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-122",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Rules are often expressed with the present passive: Photography is not permitted.",
+      "wrongReasons": {
+        "doesn't allow": "Smoking does not allow anything; use the passive 'is not allowed'.",
+        "is not allowing": "The continuous form is wrong; rules use the present simple passive."
+      },
+      "text": "Smoking ___ (not / allow) anywhere on the premises.",
+      "answers": [
+        [
+          "is not allowed",
+          "isn't allowed"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-123",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Mixed conditional: past condition, present result: If I had trained harder, I would still be playing today.",
+      "wrongReasons": {
+        "would have still worked": "'today' shows a present result, so use would + infinitive.",
+        "will still work": "The situation is imaginary, so use 'would', not 'will'."
+      },
+      "text": "If the doctors had diagnosed the illness earlier, he ___ (still / work) today.",
+      "answers": [
+        [
+          "would still be working",
+          "would still work"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-124",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A 'What' clause is singular, so the verb is singular: What I want is a rest.",
+      "wrongReasons": {
+        "are": "The what-clause is singular, so use 'is'.",
+        "am": "The subject is the whole what-clause, not 'I', so use 'is'."
+      },
+      "text": "What I need right now ___ (be) a long holiday.",
+      "answers": [
+        [
+          "is"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-125",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For a future plan in the passive, use will be + past participle: The changes will be introduced next year.",
+      "wrongReasons": {
+        "will implement": "A policy does not implement anything; a passive form is needed.",
+        "implements": "The sentence refers to the future and needs a passive form."
+      },
+      "text": "The new policy ___ (implement) gradually over the coming months.",
+      "answers": [
+        [
+          "will be implemented",
+          "is to be implemented",
+          "is going to be implemented",
+          "is being implemented"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-126",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "An inverted condition can use Were + subject + to-infinitive: Were he to leave, we would struggle.",
+      "wrongReasons": {
+        "the government introduce": "After 'Were + subject' use the to-infinitive.",
+        "the government introduced": "The past simple does not follow 'Were + subject'; use 'to introduce'."
+      },
+      "text": "Were ___ (the government / introduce) the new tax, many small businesses would close.",
+      "answers": [
+        [
+          "the government to introduce"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-127",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use 'Having' + past participle for an earlier, completed period: Having worked there for years, he knew everyone.",
+      "wrongReasons": {
+        "living": "The ten years abroad came before the return home, so use the perfect participle.",
+        "lived": "'Lived' alone cannot start this clause; use 'Having lived'."
+      },
+      "text": "___ (live) abroad for ten years, she found it hard to readjust to life at home.",
+      "answers": [
+        [
+          "Having lived",
+          "Having been living"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-128",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'It's high time' + subject, use the past simple with present meaning: It's high time you went to bed.",
+      "wrongReasons": {
+        "does": "'It's high time' + subject takes the past simple, not the present.",
+        "do": "The base form is wrong here; this structure needs the past simple."
+      },
+      "text": "It's high time the council ___ (do) something about the potholes.",
+      "answers": [
+        [
+          "did"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-129",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Hardly ever' at the start, invert with an auxiliary: Hardly ever does she smile.",
+      "wrongReasons": {
+        "my grandfather complained": "After 'Hardly ever' at the start, invert with 'did'.",
+        "complained my grandfather": "Use the auxiliary 'did' before the subject, not the main verb."
+      },
+      "text": "Hardly ever ___ (my grandfather / complain) about his health, even when he was ill.",
+      "answers": [
+        [
+          "did my grandfather complain"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-130",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'If only' + past simple expresses a wish about the present: If only I knew the answer.",
+      "wrongReasons": {
+        "have": "'If only' about the present needs the past simple.",
+        "had had": "'these days' refers to the present, so the past perfect is wrong."
+      },
+      "text": "If only I ___ (have) more time to travel these days!",
+      "answers": [
+        [
+          "had"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-131",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For an imaginary future condition with 'wouldn't', use the past simple: Even if he asked, I wouldn't go.",
+      "wrongReasons": {
+        "offer": "The result uses 'wouldn't', so the condition needs the past simple.",
+        "had offered": "The past perfect would need 'wouldn't have moved' in the result."
+      },
+      "text": "Even if they ___ (offer) me double the salary, I wouldn't move to that company.",
+      "answers": [
+        [
+          "offered",
+          "were to offer"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-132",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Not until' + clause, invert in the main clause: Not until he called did I relax.",
+      "wrongReasons": {
+        "i noticed": "After 'Not until ...' the main clause must be inverted.",
+        "i did notice": "The auxiliary 'did' must come before the subject."
+      },
+      "text": "Not until the lights came on ___ (I / notice) the stain on my shirt.",
+      "answers": [
+        [
+          "did I notice"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-133",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Mixed conditional: past condition (past perfect), present result: If we had acted earlier, things would be better now.",
+      "wrongReasons": {
+        "invested": "'decades ago' refers to a completed past time, so the past perfect is needed.",
+        "would have invested": "'would have' does not go in the if-clause."
+      },
+      "text": "If we ___ (invest) in renewable energy decades ago, the climate crisis would be less severe today.",
+      "answers": [
+        [
+          "had invested"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-134",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'get something done' uses the past participle, also for bad experiences: She got her bag snatched.",
+      "wrongReasons": {
+        "stole": "After 'got + object' use the past participle 'stolen', not the past simple.",
+        "steal": "The base form is wrong; use the past participle."
+      },
+      "text": "He got his wallet ___ (steal) on the crowded tram.",
+      "answers": [
+        [
+          "stolen"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-135",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "First conditional: if + present simple, will + infinitive: If it rises, we will leave.",
+      "wrongReasons": {
+        "will rise": "Do not use 'will' in the if-clause of a first conditional.",
+        "rose": "The result uses 'will', so the past simple does not fit."
+      },
+      "text": "If the river ___ (rise) another metre, the village will be flooded.",
+      "answers": [
+        [
+          "rises"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-136",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Seldom' at the start, use do/does + subject + verb: Seldom does she complain.",
+      "wrongReasons": {
+        "we get": "After 'Seldom' at the start, invert with 'do'.",
+        "get we": "Use the auxiliary 'do' before the subject, not the main verb."
+      },
+      "text": "Seldom ___ (we / get) the chance to see wolves in the wild these days.",
+      "answers": [
+        [
+          "do we get"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-137",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Scarcely ... when' takes the past perfect with inversion: Scarcely had we arrived when it rained.",
+      "wrongReasons": {
+        "the plane had taken off": "After 'Scarcely' at the start, the auxiliary comes before the subject.",
+        "did the plane take off": "'Scarcely ... when' needs the past perfect, not the past simple."
+      },
+      "text": "Scarcely ___ (the plane / take off) when the engine failed.",
+      "answers": [
+        [
+          "had the plane taken off"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-138",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a future condition, use the present perfect for an action completed before another: If he has left, I'll call later.",
+      "wrongReasons": {
+        "will have finished": "Do not use 'will' in the if-clause; use the present perfect.",
+        "finished": "The condition is about the future, so the past simple is wrong."
+      },
+      "text": "If the meeting ___ (finish) by the time I get there, I'll go straight home.",
+      "answers": [
+        [
+          "has finished",
+          "is finished"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-139",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "An unreal past condition in the passive uses had been + past participle: If it had been built properly, it wouldn't have fallen.",
+      "wrongReasons": {
+        "were stored": "The result is in the past, so the past perfect passive is needed.",
+        "had stored": "The samples do not store anything themselves, so a passive form is needed."
+      },
+      "text": "If the samples ___ (store) at room temperature, they would have deteriorated within hours.",
+      "answers": [
+        [
+          "had been stored"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-140",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use 'It is said that' to report a general belief: It is said that he is rich.",
+      "wrongReasons": {
+        "says": "'It says' is used for written texts; for a general belief use 'It is said'.",
+        "is saying": "The continuous form is wrong; the reporting passive is 'It is said'."
+      },
+      "text": "It ___ (say) that the castle is haunted.",
+      "answers": [
+        [
+          "is said"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-141",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'What happened was (that)' introduces a past event: What happened was that I fell.",
+      "wrongReasons": {
+        "is": "The event is in the past, so use 'was'.",
+        "were": "The what-clause is singular, so use 'was'."
+      },
+      "text": "What happened ___ (be) that the server crashed during the update.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-142",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'in case' use a present tense for a possible future event: Take an umbrella in case it rains.",
+      "wrongReasons": {
+        "will fail": "After 'in case' use the present simple, not 'will'.",
+        "would fail": "The main clause is an instruction about the future, so 'would' is wrong."
+      },
+      "text": "In case the power ___ (fail), keep a torch next to your bed.",
+      "answers": [
+        [
+          "fails"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-143",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past participle can shorten a passive relative clause: The coins found (= which were found) are rare.",
+      "wrongReasons": {
+        "finding": "The documents were found by someone, so use the past participle.",
+        "founded": "'founded' is the past of 'found' (to establish); the participle of 'find' is 'found'."
+      },
+      "text": "The documents ___ (find) in the attic shed new light on the family's history.",
+      "answers": [
+        [
+          "found"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-144",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "For an imaginary situation with 'would', use 'could' as the past of 'can': Imagine you could fly.",
+      "wrongReasons": {
+        "can": "The situation is imaginary, so use the unreal past form 'could'.",
+        "could have": "'could have' refers to the past, but this is an imaginary present."
+      },
+      "text": "Imagine you ___ (can) live in any century. Which one would you choose?",
+      "answers": [
+        [
+          "could"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-145",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'What we should do is + bare infinitive' suggests an action: What you need to do is rest.",
+      "wrongReasons": {
+        "are": "The what-clause is singular, so use 'is'.",
+        "was": "The suggestion is about now, so use the present 'is'."
+      },
+      "text": "What we should do ___ (be) ask for a second quote.",
+      "answers": [
+        [
+          "is"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-146",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After an inverted third-conditional clause, use would have + past participle: Had she called, I would have answered.",
+      "wrongReasons": {
+        "wouldn't miss": "The situation is in the past, so use would have + past participle.",
+        "hadn't missed": "The result clause needs 'would have', not the past perfect."
+      },
+      "text": "Had we left an hour earlier, we ___ (not / miss) the ferry.",
+      "answers": [
+        [
+          "wouldn't have missed",
+          "would not have missed"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-147",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'But for' means 'if it had not been for'; with a past event use would have + past participle: But for the map, we would have got lost.",
+      "wrongReasons": {
+        "would drown": "The rescue happened in the past, so use would have + past participle.",
+        "had drowned": "The result clause needs 'would have', not the past perfect."
+      },
+      "text": "But for the lifeguard's quick reaction, the boy ___ (drown).",
+      "answers": [
+        [
+          "would have drowned",
+          "might have drowned",
+          "could have drowned"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-148",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'Not only' use auxiliary + subject + verb: Not only does he cook, but he also cleans.",
+      "wrongReasons": {
+        "she speaks": "After 'Not only' at the start, invert with 'does'.",
+        "speaks she": "Use the auxiliary 'does' for inversion, not the main verb."
+      },
+      "text": "Not only ___ (she / speak) five languages, but she also writes poetry.",
+      "answers": [
+        [
+          "does she speak"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-149",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'demand that' use the bare subjunctive: They demanded that he leave.",
+      "wrongReasons": {
+        "refunds": "The subjunctive does not take -s.",
+        "will refund": "'will' is not used after 'demand that'; use the base form."
+      },
+      "text": "She demanded that the company ___ (refund) the full amount.",
+      "answers": [
+        [
+          "refund",
+          "should refund"
+        ]
+      ]
+    },
+    {
+      "id": "c1-vc-150",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past participle clause expresses a passive idea: Viewed from the hill, the town looks tiny.",
+      "wrongReasons": {
+        "seeing": "The islands are seen, they do not see, so use the past participle.",
+        "having seen": "'Having seen' is active and would mean the islands saw something."
+      },
+      "text": "___ (see) from above, the islands look like scattered emeralds.",
+      "answers": [
+        [
+          "Seen"
+        ]
+      ]
     }
   ]
 }
