@@ -37,6 +37,4033 @@
           "to"
         ]
       ]
+    },
+    {
+      "id": "b1-fb-003",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "In present perfect questions about life experience, use 'ever' before the participle: Have you ever been to Rome?",
+      "wrongReasons": {
+        "never": "'never' is negative; in questions we use 'ever'.",
+        "yet": "'yet' usually goes at the end of the question."
+      },
+      "text": "Have you ___ tried Indian food in your life? – No, never.",
+      "answers": [
+        [
+          "ever"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-004",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'since' with a point in time: I have lived here since 2015.",
+      "wrongReasons": {
+        "for": "'for' is used with a period of time (for five years), not a starting point.",
+        "from": "'from' needs 'to/until'; with the present perfect and a starting point, use 'since'."
+      },
+      "text": "She has worked at the hospital ___ 2019.",
+      "answers": [
+        [
+          "since"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-005",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'for' with a period of time: She has been here for two hours.",
+      "wrongReasons": {
+        "since": "'since' is used with a point in time (since 2018), not a period.",
+        "during": "'during' is not used with the present perfect to say how long."
+      },
+      "text": "We have lived in this flat ___ six years.",
+      "answers": [
+        [
+          "for"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-006",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'yet' at the end of negative sentences in the present perfect: I haven't eaten yet.",
+      "wrongReasons": {
+        "already": "'already' is used in positive sentences, not with 'haven't'.",
+        "still": "'still' goes before the verb: I still haven't finished."
+      },
+      "text": "I can't go out now. I haven't finished my homework ___.",
+      "answers": [
+        [
+          "yet"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-007",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'already' (or 'just') between 'has/have' and the participle: She has already left.",
+      "wrongReasons": {
+        "yet": "'yet' is used in questions and negatives, not in positive sentences.",
+        "ever": "'ever' is used in questions about experience, not here."
+      },
+      "text": "Don't worry about the tickets. Tom has ___ bought them.",
+      "answers": [
+        [
+          "already",
+          "just"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-008",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "The present perfect is have/has + past participle. With plural subjects use 'have': They have never met.",
+      "wrongReasons": {
+        "has": "'has' is for he, she and it; 'my parents' is plural.",
+        "did": "'visited' after 'did' is wrong; 'did' needs the base form."
+      },
+      "text": "My parents ___ never visited Scotland.",
+      "answers": [
+        [
+          "have"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-009",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Present perfect = has/have + past participle. 'Win' is irregular: win – won – won.",
+      "wrongReasons": {
+        "win": "After 'has' we need the past participle, not the base form.",
+        "winned": "'win' is irregular: the past participle is 'won'."
+      },
+      "text": "Our team has ___ the match! We're the champions!",
+      "answers": [
+        [
+          "won"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-010",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'How long have you + past participle' for a situation that continues now: How long have you lived here?",
+      "wrongReasons": {
+        "do": "'known' is a past participle, so it needs 'have', not 'do'.",
+        "did": "'did' is followed by the base form 'know', not 'known'."
+      },
+      "text": "How long ___ you known your best friend?",
+      "answers": [
+        [
+          "have"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-011",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "After a superlative, use the present perfect with 'ever': It's the best book I have ever read.",
+      "wrongReasons": {
+        "saw": "'saw' is the past simple; after 'have' we need the participle 'seen'.",
+        "see": "After 'have' we need the past participle, not the base form."
+      },
+      "text": "This is the best film I have ever ___.",
+      "answers": [
+        [
+          "seen",
+          "watched"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-012",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use has/have + just + participle for something that happened a moment ago: She has just arrived.",
+      "wrongReasons": {
+        "have": "'have' is for I, you, we and they; with 'he' use 'has'.",
+        "is": "'is' + 'left' is not the present perfect; use 'has'."
+      },
+      "text": "He ___ just left the office, so you can't speak to him now.",
+      "answers": [
+        [
+          "has"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-013",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'since' with a point in time: I've been ill since Friday.",
+      "wrongReasons": {
+        "for": "'for' needs a length of time; 'last Monday' is a point in time.",
+        "ago": "'ago' goes after a time period and is used with the past simple."
+      },
+      "text": "I've known about the problem ___ last Monday.",
+      "answers": [
+        [
+          "since"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-014",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'for' with a period of time: We haven't met for years.",
+      "wrongReasons": {
+        "since": "'since' is followed by a point in time, not 'a long time'.",
+        "during": "'during' does not say how long something has continued."
+      },
+      "text": "They haven't spoken to each other ___ a long time.",
+      "answers": [
+        [
+          "for",
+          "in"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-015",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'yet' at the end of present perfect questions: Have you finished yet?",
+      "wrongReasons": {
+        "still": "'still' does not go at the end of a question like this.",
+        "since": "'since' needs a point in time after it."
+      },
+      "text": "Has the parcel arrived ___? I'm still waiting for it.",
+      "answers": [
+        [
+          "yet"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-016",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "After 'It's the first time', use the present perfect: It's the first time I have flown.",
+      "wrongReasons": {
+        "rode": "'rode' is the past simple; after 'have' use 'ridden'.",
+        "ride": "After 'have' we need the past participle, not the base form."
+      },
+      "text": "It's the first time I have ___ a horse.",
+      "answers": [
+        [
+          "ridden"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-017",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Has gone to' means the person is there now or on the way: He has gone to the bank.",
+      "wrongReasons": {
+        "in": "With 'go' we show movement, so use 'to', not 'in'.",
+        "at": "'at' is not used after 'gone' for a city."
+      },
+      "text": "My sister has gone ___ Paris, so she isn't at home.",
+      "answers": [
+        [
+          "to"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-018",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the present perfect for actions in a time period that is not finished (this week): I have called her twice today.",
+      "wrongReasons": {
+        "have": "'the bus' is singular, so use 'has'.",
+        "was": "'was been' is not correct English."
+      },
+      "text": "The bus ___ been late three times this week.",
+      "answers": [
+        [
+          "has"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-019",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Present perfect with 'already': have/has + already + participle. We have already eaten.",
+      "wrongReasons": {
+        "has": "'has' is for he, she and it; with 'we' use 'have'.",
+        "did": "'did' is followed by the base form, and 'already' goes with the present perfect."
+      },
+      "text": "We ___ already sent the invitations for the party.",
+      "answers": [
+        [
+          "have"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-020",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'never' with the present perfect for no experience at any time: I've never seen snow.",
+      "wrongReasons": {
+        "ever": "'ever' is not used in positive statements like this; use 'never'.",
+        "already": "'already' does not fit with 'in my life' here."
+      },
+      "text": "I've ___ been so tired in my life! I need a holiday.",
+      "answers": [
+        [
+          "never"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-021",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the past continuous for a longer action and the past simple for the short action that interrupts it: I was reading when he called.",
+      "wrongReasons": {
+        "ringed": "'ring' is irregular: the past simple is 'rang'.",
+        "was ringing": "The short action that interrupts uses the past simple, not the past continuous."
+      },
+      "text": "I was cooking dinner when the phone ___.",
+      "answers": [
+        [
+          "rang"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-022",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past continuous = was/were + -ing. With 'we' use 'were': We were watching TV.",
+      "wrongReasons": {
+        "was": "'was' is for I, he, she and it; with 'we' use 'were'.",
+        "are": "The story is in the past, so use 'were', not 'are'."
+      },
+      "text": "While we ___ walking in the park, it started to rain.",
+      "answers": [
+        [
+          "were"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-023",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the past continuous for an action in progress at a time in the past: What were you doing at 6 pm?",
+      "wrongReasons": {
+        "do": "After 'were you' we need the -ing form.",
+        "did": "'did' cannot follow 'were you'."
+      },
+      "text": "What were you ___ at eight o'clock last night?",
+      "answers": [
+        [
+          "doing"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-024",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past continuous = was/were + -ing: He was sleeping when I arrived.",
+      "wrongReasons": {
+        "were": "'were' is for you, we and they; with 'she' use 'was'.",
+        "is": "The sentence is about the past, so use 'was'."
+      },
+      "text": "She ___ reading a book when the lights went out.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-025",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'when' before the short past simple action: I was working when she phoned.",
+      "wrongReasons": {
+        "while": "'while' usually goes with the longer action; for the short action use 'when'.",
+        "during": "'during' is followed by a noun, not a clause."
+      },
+      "text": "The children were playing football ___ their mother called them in.",
+      "answers": [
+        [
+          "when",
+          "until",
+          "till"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-026",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'while' or 'when' before the longer past continuous action: She fell while she was running.",
+      "wrongReasons": {
+        "during": "'during' is followed by a noun (during the trip), not a subject and verb.",
+        "since": "'since' does not mean 'at the same time as' here."
+      },
+      "text": "I saw an accident ___ I was driving to work.",
+      "answers": [
+        [
+          "while",
+          "when",
+          "as"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-027",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the past continuous for an action in progress at a past time: At ten I was working.",
+      "wrongReasons": {
+        "study": "After 'were' we need the -ing form.",
+        "studied": "'were studied' is passive and does not fit here."
+      },
+      "text": "At midnight they were still ___ for the exam.",
+      "answers": [
+        [
+          "studying",
+          "revising"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-028",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "After 'while', use the past continuous for the longer action: She cut her finger while she was cooking.",
+      "wrongReasons": {
+        "were": "With 'he' use 'was', not 'were'.",
+        "has": "'has skiing' is not correct; use 'was skiing'."
+      },
+      "text": "He broke his leg while he ___ skiing in the mountains.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-029",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the past continuous for the background situation in the past: It was raining when I woke up.",
+      "wrongReasons": {
+        "is": "'this morning' is finished and the sentence is in the past.",
+        "were": "With 'it' use 'was'."
+      },
+      "text": "It ___ snowing when we left the house this morning.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-030",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Negative past continuous = wasn't/weren't + -ing: They weren't working.",
+      "wrongReasons": {
+        "wasn't": "With 'we' use 'weren't', not 'wasn't'.",
+        "didn't": "'didn't' needs the base form, not the -ing form."
+      },
+      "text": "We ___ listening, so we didn't hear what the teacher said.",
+      "answers": [
+        [
+          "weren't",
+          "were not"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-031",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past continuous (was/were + -ing) for the longer action, past simple for the sudden event: I was writing when the computer crashed.",
+      "wrongReasons": {
+        "do": "After 'were' we need the -ing form, not the base form.",
+        "did": "'were did' is not correct English."
+      },
+      "text": "Two scientists were ___ an experiment when the machine suddenly stopped.",
+      "answers": [
+        [
+          "doing",
+          "running",
+          "conducting",
+          "performing",
+          "carrying out"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-032",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the past continuous for an action already in progress when something happened: When I got home, they were eating.",
+      "wrongReasons": {
+        "was": "'my friends' is plural, so use 'were'.",
+        "did": "'did' cannot go before an -ing form."
+      },
+      "text": "When I arrived at the party, my friends ___ dancing.",
+      "answers": [
+        [
+          "were"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-033",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the past continuous to explain what you were in the middle of: I was driving, so I couldn't answer.",
+      "wrongReasons": {
+        "were": "With 'I' use 'was', not 'were'.",
+        "am": "The call was in the past, so use 'was'."
+      },
+      "text": "Sorry, I didn't answer your call. I ___ having a shower.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-034",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the past continuous to describe a background scene in a story: The wind was blowing.",
+      "wrongReasons": {
+        "was": "'the birds' is plural, so use 'were'.",
+        "are": "The description is in the past, so use 'were'."
+      },
+      "text": "The sun was shining and the birds ___ singing.",
+      "answers": [
+        [
+          "were"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-035",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past continuous questions: was/were + subject + -ing: What were you doing at noon?",
+      "wrongReasons": {
+        "was": "With 'you' use 'were', not 'was'.",
+        "did": "'did' cannot go before an -ing form."
+      },
+      "text": "What ___ you doing when the earthquake happened?",
+      "answers": [
+        [
+          "were"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-036",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "The short action is in the past simple and the longer action in the past continuous: I lost my wallet while I was shopping.",
+      "wrongReasons": {
+        "losed": "'lose' is irregular: the past simple is 'lost'.",
+        "was losing": "Losing keys is a short action, so use the past simple."
+      },
+      "text": "I ___ my keys while I was running for the bus.",
+      "answers": [
+        [
+          "lost",
+          "dropped"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-037",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'during' + noun for a period of time: It was raining during the night.",
+      "wrongReasons": {
+        "while": "'while' needs a subject and verb after it, not a noun.",
+        "when": "'when' is followed by a clause, not just 'the war'."
+      },
+      "text": "My grandfather was working in a factory ___ the war, while the soldiers were away fighting.",
+      "answers": [
+        [
+          "during"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-038",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past continuous for the long action, past simple for the short one: He was talking when someone shouted.",
+      "wrongReasons": {
+        "throwed": "'throw' is irregular: the past simple is 'threw'.",
+        "was throwing": "The sudden short action uses the past simple."
+      },
+      "text": "The politician was giving a speech when someone ___ an egg at him.",
+      "answers": [
+        [
+          "threw"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-039",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Zero conditional for facts: If + present, present. If you heat water, it boils.",
+      "wrongReasons": {
+        "melt": "'it' needs the -s ending: 'melts'.",
+        "melted": "This is a general fact, so we use the present, not the past."
+      },
+      "text": "If you heat ice, it ___.",
+      "answers": [
+        [
+          "melts",
+          "will melt"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-040",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "First conditional: If + present simple, will + verb. If it rains, I'll stay in.",
+      "wrongReasons": {
+        "will rain": "We don't use 'will' in the if-clause of a first conditional.",
+        "rain": "With 'it' we need the -s ending: 'rains'."
+      },
+      "text": "If it ___ tomorrow, we will stay at home.",
+      "answers": [
+        [
+          "rains",
+          "snows"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-041",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the first conditional, the if-clause uses the present simple: I'll tell you if I see him.",
+      "wrongReasons": {
+        "will get": "Don't use 'will' after 'if'; use the present simple.",
+        "got": "The news is in the future, so use the present simple, not the past."
+      },
+      "text": "I'll call you if I ___ any news.",
+      "answers": [
+        [
+          "get",
+          "hear",
+          "have",
+          "receive"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-042",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Unless' means 'if not': You'll be late unless you leave now.",
+      "wrongReasons": {
+        "if": "'if you hurry' gives the opposite meaning; you need 'unless' (= if not).",
+        "without": "'without' is followed by a noun or -ing form, not a clause."
+      },
+      "text": "You will miss the train ___ you hurry.",
+      "answers": [
+        [
+          "unless"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-043",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Zero conditional for things that are always true: If + present, present. If you don't eat, you get hungry.",
+      "wrongReasons": {
+        "doesn't": "'they' is plural, so use 'don't'.",
+        "won't": "This is a general fact (zero conditional), so we don't use 'won't' after 'if'."
+      },
+      "text": "Plants die if they ___ get enough water.",
+      "answers": [
+        [
+          "don't",
+          "do not"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-044",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "First conditional: If + present simple, will + verb. If he wins, he'll be happy.",
+      "wrongReasons": {
+        "will pass": "Don't use 'will' in the if-clause.",
+        "pass": "With 'she' the verb needs -es: 'passes'."
+      },
+      "text": "If she ___ the exam, her parents will be very proud.",
+      "answers": [
+        [
+          "passes"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-045",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the if-clause of the first conditional, use the present simple, also in the negative: If I don't go, I'll call you.",
+      "wrongReasons": {
+        "won't": "Don't use 'won't' in the if-clause; use 'don't'.",
+        "didn't": "The situation is in the future, so use the present 'don't'."
+      },
+      "text": "What will you do if you ___ find a job this summer?",
+      "answers": [
+        [
+          "don't",
+          "do not"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-046",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Zero conditional for facts: If you mix red and white, you get pink.",
+      "wrongReasons": {
+        "got": "This is a general fact, so use the present, not the past.",
+        "gets": "With 'you' we don't add -s."
+      },
+      "text": "If you mix blue and yellow, you ___ green.",
+      "answers": [
+        [
+          "get",
+          "will get"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-047",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'if' + present simple, then an imperative for advice or offers: If you are cold, close the window.",
+      "wrongReasons": {
+        "unless": "'unless' means 'if not', which gives the wrong meaning.",
+        "so": "'so' shows a result and cannot start this condition."
+      },
+      "text": "___ you need help with the project, just ask me.",
+      "answers": [
+        [
+          "if",
+          "when",
+          "should"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-048",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "First conditional: If + present simple, will + verb. If you are late, you will miss the start.",
+      "wrongReasons": {
+        "will be": "Don't use 'will' in the if-clause.",
+        "be": "With 'he' we need 'is', not the base form."
+      },
+      "text": "If he ___ late again, the boss will be angry.",
+      "answers": [
+        [
+          "is",
+          "arrives",
+          "comes"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-049",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Zero conditional with 'if' or 'when' for scientific facts: Ice melts when it gets warm.",
+      "wrongReasons": {
+        "unless": "'unless' means 'if not', so the meaning is wrong.",
+        "so": "'so' shows a result, but heating is the condition."
+      },
+      "text": "Water boils ___ you heat it to 100 degrees Celsius.",
+      "answers": [
+        [
+          "if",
+          "when",
+          "whenever"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-050",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "First conditional: If + present simple, will + verb. If I see him, I'll tell him.",
+      "wrongReasons": {
+        "will see": "After 'if' we use the present simple, not 'will'.",
+        "saw": "The meeting is in the future, so use the present 'see'."
+      },
+      "text": "If I ___ Maria at the meeting, I'll give her your message.",
+      "answers": [
+        [
+          "see",
+          "meet"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-051",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Zero conditional for things that always happen: If you press it, it rings.",
+      "wrongReasons": {
+        "open": "'somebody' is singular, so add -s: 'opens'.",
+        "will open": "This is a general truth, so we don't use 'will' after 'if'."
+      },
+      "text": "The alarm goes off if somebody ___ the door.",
+      "answers": [
+        [
+          "opens",
+          "touches"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-052",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Zero conditional: If + present, present. If you click here, the page opens.",
+      "wrongReasons": {
+        "turn": "'the machine' is singular, so the verb needs -s.",
+        "turned": "This is a present or future result, not the past."
+      },
+      "text": "If you press this button, the machine ___ off.",
+      "answers": [
+        [
+          "turns",
+          "switches",
+          "goes",
+          "will turn",
+          "will switch",
+          "will go"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-053",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Unless' = 'if not': I won't go unless you come with me.",
+      "wrongReasons": {
+        "if": "'We won't go if the weather is good' does not make sense here; use 'unless'.",
+        "when": "'when' gives the wrong meaning; you need 'unless' (= if not)."
+      },
+      "text": "We won't go to the beach ___ the weather is good.",
+      "answers": [
+        [
+          "unless",
+          "until"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-054",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the first conditional, use the present simple after 'if': If it's sunny, we'll go out.",
+      "wrongReasons": {
+        "will be": "Don't use 'will' in the if-clause.",
+        "was": "The sentence is about now and the future, so use 'is'."
+      },
+      "text": "If the shop ___ closed, I'll buy the milk tomorrow.",
+      "answers": [
+        [
+          "is"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-055",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Zero conditional for habits and facts: If + present, present. My cat hides if it hears thunder.",
+      "wrongReasons": {
+        "come": "'anybody' is singular, so add -s: 'comes'.",
+        "will come": "This is a general habit, so don't use 'will' after 'if'."
+      },
+      "text": "My dog barks if anybody ___ near the house.",
+      "answers": [
+        [
+          "comes",
+          "walks",
+          "goes"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-056",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence.",
+      "explanation": "First conditional: If + present simple, will + verb. If you study, you'll pass.",
+      "wrongReasons": {
+        "will come": "Don't use 'will' after 'if' in the first conditional.",
+        "came": "The party is in the future, so use the present simple."
+      },
+      "text": "If you ___ to the party, you'll meet my cousin.",
+      "answers": [
+        [
+          "come",
+          "go",
+          "get"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-057",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past simple passive = was/were + past participle: The house was built in 1950.",
+      "wrongReasons": {
+        "is": "'in 1890' is in the past, so use 'was'.",
+        "were": "'this bridge' is singular, so use 'was'."
+      },
+      "text": "This bridge ___ built in 1890.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-058",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Present simple passive = am/is/are + past participle: French is spoken in Canada.",
+      "wrongReasons": {
+        "speak": "The passive needs the past participle, not the base form.",
+        "spoke": "'spoke' is the past simple; the participle is 'spoken'."
+      },
+      "text": "English is ___ in many countries around the world.",
+      "answers": [
+        [
+          "spoken",
+          "used",
+          "taught",
+          "learned",
+          "learnt",
+          "studied"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-059",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past passive = was/were + past participle: The windows were broken yesterday.",
+      "wrongReasons": {
+        "was": "'the thieves' is plural, so use 'were'.",
+        "are": "'last night' is in the past, so use 'were'."
+      },
+      "text": "The thieves ___ caught by the police last night.",
+      "answers": [
+        [
+          "were"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-060",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'made from' when the material changes: Wine is made from grapes.",
+      "wrongReasons": {
+        "of": "'made of' is for materials you can still see; wood changes into paper, so use 'from'.",
+        "by": "'by' introduces who does the action, not the material."
+      },
+      "text": "Paper is made ___ wood.",
+      "answers": [
+        [
+          "from"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-061",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "In the passive, use 'by' for the person who does the action: The song was sung by a child.",
+      "wrongReasons": {
+        "from": "In the passive, the person who does the action comes after 'by'.",
+        "of": "'written of' is not correct here."
+      },
+      "text": "The novel was written ___ a young teacher from Wales.",
+      "answers": [
+        [
+          "by"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-062",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Present passive = am/is/are + past participle: These shoes are made in Italy.",
+      "wrongReasons": {
+        "is": "'these cars' is plural, so use 'are'.",
+        "have": "'have made' is active; the passive needs 'are/were made'."
+      },
+      "text": "These cars ___ made in Germany. Look at the label.",
+      "answers": [
+        [
+          "are",
+          "were"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-063",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the present simple passive for regular actions: The rooms are cleaned every day.",
+      "wrongReasons": {
+        "is": "'the windows' is plural, so use 'are'.",
+        "were": "'nowadays' talks about the present, so use 'are', not 'were'."
+      },
+      "text": "Nowadays the windows ___ cleaned every Friday.",
+      "answers": [
+        [
+          "are"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-064",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past passive questions: Was/Were + subject + past participle? Was the car repaired?",
+      "wrongReasons": {
+        "send": "The passive needs the past participle, not the base form.",
+        "sended": "'send' is irregular: the participle is 'sent'."
+      },
+      "text": "Was the letter ___ by post yesterday?",
+      "answers": [
+        [
+          "sent",
+          "posted",
+          "delivered",
+          "received"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-065",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Present passive = is/are + past participle: Rice is grown in Asia.",
+      "wrongReasons": {
+        "are": "'coffee' is uncountable, so use 'is'.",
+        "grows": "'grows grown' is not possible; the passive is 'is grown'."
+      },
+      "text": "Coffee ___ grown in Brazil and Colombia.",
+      "answers": [
+        [
+          "is"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-066",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past passive = was/were + past participle + by: The school was opened by the mayor.",
+      "wrongReasons": {
+        "open": "After 'was' the passive needs the past participle.",
+        "opening": "'was opening' is active and needs an object."
+      },
+      "text": "The new hospital was officially ___ by the Prime Minister on Monday, and the first patients arrived the next day.",
+      "answers": [
+        [
+          "opened"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-067",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past passive = was/were + past participle: The roads were closed by the snow.",
+      "wrongReasons": {
+        "was": "'many trees' is plural, so use 'were'.",
+        "are": "'last winter' is in the past, so use 'were'."
+      },
+      "text": "Many trees ___ destroyed by the storm last winter.",
+      "answers": [
+        [
+          "were"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-068",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past passive = was/were + past participle: The match was stopped because of the rain.",
+      "wrongReasons": {
+        "cancel": "After 'was' the passive needs the past participle.",
+        "cancelling": "'was cancelling' is active; the flight did not cancel something."
+      },
+      "text": "Our flight was ___ because of the snow.",
+      "answers": [
+        [
+          "cancelled",
+          "canceled",
+          "delayed"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-069",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Negative present passive = am/is/are + not + past participle: Dogs are not allowed here.",
+      "wrongReasons": {
+        "is": "'mobile phones' is plural, so use 'are'.",
+        "do": "'do not allowed' is wrong; the passive uses 'be'."
+      },
+      "text": "Mobile phones ___ not allowed in the exam room.",
+      "answers": [
+        [
+          "are"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-070",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the past passive for finished past actions: This church was designed by a famous architect.",
+      "wrongReasons": {
+        "is": "The painting was made in the past, so use 'was'.",
+        "were": "'the Mona Lisa' is singular, so use 'was'."
+      },
+      "text": "The Mona Lisa ___ painted by Leonardo da Vinci.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-071",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past passive questions: Where/When + was/were + subject + past participle? When was the tower built?",
+      "wrongReasons": {
+        "was": "'the Games' is plural, so use 'were'.",
+        "did": "'did ... held' is wrong; the passive question uses 'were'."
+      },
+      "text": "Where ___ the first modern Olympic Games held?",
+      "answers": [
+        [
+          "were"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-072",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Present passive for routines: is/are + past participle. The post is delivered at nine.",
+      "wrongReasons": {
+        "collect": "After 'is' the passive needs the past participle.",
+        "collecting": "'is collecting' is active; the rubbish does not collect anything."
+      },
+      "text": "The rubbish is ___ every Tuesday morning.",
+      "answers": [
+        [
+          "collected",
+          "taken away",
+          "picked up"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-073",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Past passive = was/were + past participle: He was sent home early.",
+      "wrongReasons": {
+        "were": "'the criminal' is singular, so use 'was'.",
+        "is": "'last month' is in the past, so use 'was'."
+      },
+      "text": "The criminal ___ sent to prison for five years last month.",
+      "answers": [
+        [
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-074",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Complete the sentence.",
+      "explanation": "Present passive = is/are + past participle: Lunch is served at one.",
+      "wrongReasons": {
+        "serve": "After 'is' the passive needs the past participle.",
+        "serving": "'is serving' is active; breakfast does not serve anything."
+      },
+      "text": "Breakfast is ___ from seven to ten in this hotel.",
+      "answers": [
+        [
+          "served"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-075",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'mustn't' or 'can't' for things that are not allowed: You mustn't park here.",
+      "wrongReasons": {
+        "don't have to": "'don't have to' means it is not necessary, but here it is forbidden.",
+        "shouldn't": "'shouldn't' is only advice; the law forbids it, so use 'mustn't'."
+      },
+      "text": "You ___ smoke in the hospital. It's against the law.",
+      "answers": [
+        [
+          "mustn't",
+          "must not",
+          "can't",
+          "cannot"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-076",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Don't have to' means it is not necessary: You don't have to come if you're busy.",
+      "wrongReasons": {
+        "must": "'must' is not followed by 'to'.",
+        "has": "After 'don't' we use the base form 'have'."
+      },
+      "text": "You don't ___ to bring food. We'll have lots at the party.",
+      "answers": [
+        [
+          "have",
+          "need"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-077",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Modal verbs are followed by the base form without 'to': You should drink more water.",
+      "wrongReasons": {
+        "to go": "'should' is followed by the base form without 'to'.",
+        "going": "After 'should' we use the base form, not the -ing form."
+      },
+      "text": "You look tired. You should ___ to bed early tonight.",
+      "answers": [
+        [
+          "go"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-078",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'could' for ability in the past: She could read when she was four.",
+      "wrongReasons": {
+        "can": "'when I was five' is in the past, so use 'could'.",
+        "must": "'must' is for obligation, not past ability."
+      },
+      "text": "I ___ swim when I was five, but now I'm not very good.",
+      "answers": [
+        [
+          "could",
+          "learned to",
+          "learnt to",
+          "was able to"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-079",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'might' or 'may' for things that are possible in the future: It might snow tonight.",
+      "wrongReasons": {
+        "must": "'must' shows certainty or obligation, not possibility.",
+        "can": "'can' is not used for a possible future event like this."
+      },
+      "text": "Take an umbrella. It ___ rain later.",
+      "answers": [
+        [
+          "might",
+          "may",
+          "could",
+          "will"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-080",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Have to' expresses necessity. With he, she and it use 'has to': He has to get up early.",
+      "wrongReasons": {
+        "have": "With 'she' use 'has', not 'have'.",
+        "must": "'must' is not followed by 'to'."
+      },
+      "text": "She ___ to wear glasses for reading.",
+      "answers": [
+        [
+          "has",
+          "needs",
+          "used"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-081",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'Can/Could/May I...?' to ask for permission: Can I sit here?",
+      "wrongReasons": {
+        "must": "'Must I' asks if it is necessary, not for permission or as an offer.",
+        "do": "'Do I open' is not used to ask for permission."
+      },
+      "text": "___ I open the window? It's very hot in here.",
+      "answers": [
+        [
+          "can",
+          "could",
+          "may",
+          "shall",
+          "should"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-082",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'must not' or 'may not' for rules that forbid something: Visitors must not feed the animals.",
+      "wrongReasons": {
+        "don't": "'don't not use' has two negatives and is wrong.",
+        "have": "'have not use' is wrong; 'have' needs 'to' for obligation."
+      },
+      "text": "Students ___ not use their phones during the test.",
+      "answers": [
+        [
+          "must",
+          "may",
+          "can",
+          "should"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-083",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Had to' is the past of 'must/have to': I had to work late yesterday.",
+      "wrongReasons": {
+        "for": "'had for wait' is not correct; use 'had to'.",
+        "must": "'must' cannot follow 'had'."
+      },
+      "text": "We had ___ wait two hours at the airport.",
+      "answers": [
+        [
+          "to"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-084",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'shouldn't' to give advice not to do something: You shouldn't stay up so late.",
+      "wrongReasons": {
+        "don't have to": "'don't have to' means it is not necessary; here we give advice not to do it.",
+        "should": "The sentence gives a reason not to do it, so use the negative 'shouldn't'."
+      },
+      "text": "You ___ eat so much chocolate. It's bad for your teeth.",
+      "answers": [
+        [
+          "shouldn't",
+          "should not",
+          "mustn't",
+          "must not"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-085",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Modals are followed by the base form: You must be quiet in the library.",
+      "wrongReasons": {
+        "to be": "'must' is followed by the base form without 'to'.",
+        "being": "After 'must' use the base form, not the -ing form."
+      },
+      "text": "He must ___ more careful with his money.",
+      "answers": [
+        [
+          "be"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-086",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'couldn't' for something you were not able to do in the past: I couldn't sleep last night.",
+      "wrongReasons": {
+        "can't": "'yesterday' is in the past, so use 'couldn't'.",
+        "mustn't": "'mustn't' means it is forbidden, not that she was unable."
+      },
+      "text": "Lucy ___ come to the meeting yesterday because she was ill.",
+      "answers": [
+        [
+          "couldn't",
+          "could not",
+          "didn't",
+          "did not"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-087",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Questions with 'have to': Do/Does + subject + have to + verb? Do I have to sign here?",
+      "wrongReasons": {
+        "for": "'have for pay' is not correct; use 'have to'.",
+        "must": "'must' cannot follow 'have'."
+      },
+      "text": "Do we have ___ pay for the museum, or is it free?",
+      "answers": [
+        [
+          "to"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-088",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'might', 'may' or 'could' when you are not sure: She might be at home.",
+      "wrongReasons": {
+        "must": "'must' shows you are sure, but the speaker is not sure.",
+        "should": "'should' is mainly for advice or expectation, not a guess like this."
+      },
+      "text": "I'm not sure where Ben is. He ___ be in the library.",
+      "answers": [
+        [
+          "might",
+          "may",
+          "could"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-089",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'must' or 'have to' for rules and obligations: You have to wear a seat belt.",
+      "wrongReasons": {
+        "can": "'can' shows ability or permission, not a legal rule.",
+        "should": "'should' is only advice; a law is an obligation."
+      },
+      "text": "You ___ be 18 to vote in this country. That is the law.",
+      "answers": [
+        [
+          "have to",
+          "must",
+          "need to"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-090",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'could' for past ability or permission: Years ago you could smoke on planes.",
+      "wrongReasons": {
+        "can": "'in the past' needs the past form 'could'.",
+        "may": "'may' is not used for past ability or permission."
+      },
+      "text": "In the past, people ___ travel abroad without a passport.",
+      "answers": [
+        [
+          "could",
+          "used to",
+          "were able to"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-091",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'mustn't' or 'can't' for things that are not allowed: You mustn't run by the pool.",
+      "wrongReasons": {
+        "don't have to": "'don't have to' means it is not necessary, but touching is not allowed.",
+        "needn't": "'needn't' means there is no need, not that it is forbidden."
+      },
+      "text": "Visitors ___ touch the paintings. Please keep a safe distance.",
+      "answers": [
+        [
+          "mustn't",
+          "must not",
+          "can't",
+          "cannot",
+          "may not",
+          "shouldn't",
+          "should not"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-092",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Didn't have to' means it was not necessary in the past: We didn't have to wait long.",
+      "wrongReasons": {
+        "had": "After 'didn't' we use the base form 'have'.",
+        "must": "'must' is not followed by 'to' and has no past form."
+      },
+      "text": "Our teacher said we didn't ___ to finish the essay today.",
+      "answers": [
+        [
+          "have",
+          "need"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-093",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'used to' + base verb for past situations that are not true now: I used to have a dog.",
+      "wrongReasons": {
+        "use": "In positive sentences the form is 'used to', not 'use to'.",
+        "using": "'using to' is not correct; the form is 'used to'."
+      },
+      "text": "When I was a child, I ___ to live in a small village.",
+      "answers": [
+        [
+          "used",
+          "went"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-094",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "In questions with 'did', write 'use to': Did you use to play tennis?",
+      "wrongReasons": {
+        "used": "After 'did' we use 'use to', not 'used to'.",
+        "using": "After 'did' we need the base form 'use'."
+      },
+      "text": "Did you ___ to have long hair?",
+      "answers": [
+        [
+          "use"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-095",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "In negatives, use 'didn't use to' + verb: I didn't use to drink tea.",
+      "wrongReasons": {
+        "used": "After 'didn't' write 'use to', not 'used to'.",
+        "uses": "After 'didn't' we need the base form 'use'."
+      },
+      "text": "My father didn't ___ to like vegetables, but now he loves them.",
+      "answers": [
+        [
+          "use"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-096",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'There used to be' talks about something that existed in the past: There used to be a lake here.",
+      "wrongReasons": {
+        "is": "After 'used to' we need the base form 'be'.",
+        "being": "After 'used to' (past habit) we need the base form, not -ing."
+      },
+      "text": "There used to ___ a cinema on this street, but it closed.",
+      "answers": [
+        [
+          "be"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-097",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Used to' + base verb for past habits: We used to walk to school.",
+      "wrongReasons": {
+        "wrote": "After 'used to' we need the base form, not the past simple.",
+        "writing": "'used to writing' means 'be familiar with'; here we need the base form."
+      },
+      "text": "People used to ___ letters, but now they send emails.",
+      "answers": [
+        [
+          "write",
+          "send"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-098",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Used to' + verb shows a past habit that has stopped: She used to sing in a choir.",
+      "wrongReasons": {
+        "use": "In positive sentences write 'used to'.",
+        "was used": "'was used to' has a different meaning (be familiar with) and needs -ing."
+      },
+      "text": "I ___ to play the piano, but I stopped when I was twelve.",
+      "answers": [
+        [
+          "used",
+          "learned",
+          "learnt"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-099",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Used to' + base verb describes regular actions in the past: He used to cycle to the office.",
+      "wrongReasons": {
+        "went": "After 'used to' we need the base form, not the past simple.",
+        "going": "After 'used to' for past habits we need the base form."
+      },
+      "text": "My grandparents used to ___ to work by bike every day.",
+      "answers": [
+        [
+          "go",
+          "travel",
+          "ride",
+          "get"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-100",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'used to' for repeated actions in the past: They used to visit us every Sunday.",
+      "wrongReasons": {
+        "use": "In positive sentences write 'used to', not 'use to'.",
+        "are used": "'are used to' is present and means 'be familiar with'."
+      },
+      "text": "We ___ to go camping every summer when the kids were small.",
+      "answers": [
+        [
+          "used",
+          "loved",
+          "liked"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-101",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "Questions: Did + subject + use to + verb? Where did you use to live?",
+      "wrongReasons": {
+        "for": "The structure is 'use to', not 'use for'.",
+        "of": "'use of' is not correct here."
+      },
+      "text": "Where did you use ___ go on holiday as a child?",
+      "answers": [
+        [
+          "to"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-102",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Used to' describes a past situation that has changed: This building used to be a school.",
+      "wrongReasons": {
+        "use": "In positive sentences write 'used to'.",
+        "uses": "'uses to' is not correct English; the form is 'used to'."
+      },
+      "text": "This shop ___ to sell books, but now it sells clothes.",
+      "answers": [
+        [
+          "used"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-103",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "Negative questions with 'used to': Didn't you use to live here?",
+      "wrongReasons": {
+        "used": "After 'didn't' write 'use to'.",
+        "using": "After 'didn't' we need the base form 'use'."
+      },
+      "text": "Didn't you ___ to work at the bank on King Street?",
+      "answers": [
+        [
+          "use"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-104",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Never used to' + base verb means something was not true in the past: I never used to eat fish.",
+      "wrongReasons": {
+        "drank": "After 'used to' we need the base form.",
+        "drinking": "After 'used to' for past habits we need the base form, not -ing."
+      },
+      "text": "I never used to ___ coffee, but now I drink three cups a day.",
+      "answers": [
+        [
+          "drink",
+          "like",
+          "have"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-105",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "Negative form: didn't use to + verb. She didn't use to like cats.",
+      "wrongReasons": {
+        "doesn't": "'used to' is about the past, so use 'didn't'.",
+        "wasn't": "'wasn't use to' is not correct; use 'didn't use to'."
+      },
+      "text": "Tom ___ use to be so quiet. He has changed a lot.",
+      "answers": [
+        [
+          "didn't",
+          "did not"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-106",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Used to be' describes past states: The town used to be very quiet.",
+      "wrongReasons": {
+        "was used": "'was used to' means 'was familiar with', which does not fit here.",
+        "use": "In positive sentences write 'used to'."
+      },
+      "text": "Life ___ to be much slower before the internet.",
+      "answers": [
+        [
+          "used",
+          "seemed"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-107",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Used to' + be for past states: He used to be a doctor.",
+      "wrongReasons": {
+        "been": "After 'used to' we need the base form 'be'.",
+        "is": "After 'used to' we need the base form, not 'is'."
+      },
+      "text": "Our town used to ___ famous for its cheese.",
+      "answers": [
+        [
+          "be"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-108",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Used to' + base verb for past habits: My aunt used to spend winters in Spain.",
+      "wrongReasons": {
+        "lived": "After 'used to' we need the base form, not the past simple.",
+        "living": "After 'used to' for past habits we need the base form."
+      },
+      "text": "The old king used to ___ in this castle in the summer.",
+      "answers": [
+        [
+          "live",
+          "stay",
+          "sleep"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-109",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Used to be' + adjective for a past state; 'afraid' is followed by 'of': I used to be afraid of dogs.",
+      "wrongReasons": {
+        "from": "We say 'afraid of', not 'afraid from'.",
+        "about": "'afraid about' is not the usual phrase; use 'afraid of'."
+      },
+      "text": "My brother used to be afraid ___ the dark, but now he isn't.",
+      "answers": [
+        [
+          "of"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-110",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Enjoy' is followed by the -ing form of a verb. Example: She enjoys reading.",
+      "wrongReasons": {
+        "to walk": "'Enjoy' is never followed by 'to' + verb; use the -ing form.",
+        "walk": "After 'enjoy' the verb needs the -ing ending."
+      },
+      "text": "My grandfather enjoys ___ (walk) in the park every morning.",
+      "answers": [
+        [
+          "walking"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-111",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Decide' is followed by 'to' + base verb. Example: They decided to stay at home.",
+      "wrongReasons": {
+        "taking": "'Decide' is not followed by the -ing form; use 'to' + verb.",
+        "take": "You need 'to' before the verb after 'decide'."
+      },
+      "text": "We decided ___ (take) the train because the roads were icy.",
+      "answers": [
+        [
+          "to take"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-112",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Would you mind' is followed by the -ing form. Example: Would you mind waiting a moment?",
+      "wrongReasons": {
+        "to close": "'Mind' takes the -ing form, not 'to' + verb.",
+        "close": "After 'mind' the verb must end in -ing."
+      },
+      "text": "Would you mind ___ (close) the window? It's cold in here.",
+      "answers": [
+        [
+          "closing"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-113",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Hope' is followed by 'to' + base verb. Example: I hope to see you soon.",
+      "wrongReasons": {
+        "finishing": "'Hope' is not followed by the -ing form.",
+        "finish": "'Hope' needs 'to' before the next verb."
+      },
+      "text": "The scientist hopes ___ (finish) her report before Friday.",
+      "answers": [
+        [
+          "to finish"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-114",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "After a preposition like 'at', 'in' or 'of', use the -ing form. Example: He is good at singing.",
+      "wrongReasons": {
+        "draw": "After the preposition 'at' the verb must take -ing.",
+        "to draw": "'Good at' is followed by -ing, not 'to' + verb."
+      },
+      "text": "Lucy is very good at ___ (draw) animals.",
+      "answers": [
+        [
+          "drawing"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-115",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Promise' is followed by 'to' + base verb. Example: She promised to help me.",
+      "wrongReasons": {
+        "calling": "'Promise' takes 'to' + verb, not the -ing form.",
+        "call": "'To' is missing before the verb."
+      },
+      "text": "He promised ___ (call) his mother when he arrived in Rome.",
+      "answers": [
+        [
+          "to call"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-116",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Think of' ends with a preposition, so the next verb takes -ing. Example: We're thinking of moving.",
+      "wrongReasons": {
+        "to join": "'Of' is a preposition, so it cannot be followed by 'to' + verb.",
+        "join": "After 'of' the verb needs the -ing form."
+      },
+      "text": "I'm thinking of ___ (join) a photography club.",
+      "answers": [
+        [
+          "joining"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-117",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Suggest' is followed by the -ing form. Example: He suggested going for a walk.",
+      "wrongReasons": {
+        "to have": "'Suggest' is not followed by 'to' + verb.",
+        "have": "After 'suggest' the verb takes -ing."
+      },
+      "text": "Our manager suggested ___ (have) the meeting online.",
+      "answers": [
+        [
+          "having"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-118",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Finish' is followed by the -ing form. Example: I finished cooking at seven.",
+      "wrongReasons": {
+        "to paint": "'Finish' takes the -ing form, never 'to' + verb.",
+        "paint": "After 'finish' the verb must end in -ing."
+      },
+      "text": "Have you finished ___ (paint) the kitchen yet?",
+      "answers": [
+        [
+          "painting"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-119",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Afford' is followed by 'to' + base verb. Example: We can't afford to travel this summer.",
+      "wrongReasons": {
+        "buying": "'Afford' is followed by 'to' + verb, not -ing.",
+        "buy": "'To' is needed after 'afford'."
+      },
+      "text": "She can't afford ___ (buy) a new car this year.",
+      "answers": [
+        [
+          "to buy"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-120",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "In 'look forward to', 'to' is a preposition, so it is followed by -ing. Example: I'm looking forward to meeting you.",
+      "wrongReasons": {
+        "see": "Here 'to' is a preposition, not part of the infinitive, so use -ing.",
+        "seen": "'Seen' is a past participle; after a preposition use -ing."
+      },
+      "text": "The children are looking forward to ___ (see) the dolphins.",
+      "answers": [
+        [
+          "seeing"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-121",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Refuse' is followed by 'to' + base verb. Example: He refused to pay.",
+      "wrongReasons": {
+        "answering": "'Refuse' is not followed by the -ing form.",
+        "answer": "You need 'to' before the verb after 'refuse'."
+      },
+      "text": "The lawyer refused ___ (answer) any more questions.",
+      "answers": [
+        [
+          "to answer"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-122",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Feel like' is followed by the -ing form. Example: I feel like going out.",
+      "wrongReasons": {
+        "to cook": "'Feel like' takes -ing, not 'to' + verb.",
+        "cook": "'Like' here is a preposition, so the verb needs -ing."
+      },
+      "text": "I don't feel like ___ (cook) tonight. Let's order a pizza.",
+      "answers": [
+        [
+          "cooking"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-123",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Manage' is followed by 'to' + base verb. Example: She managed to open the door.",
+      "wrongReasons": {
+        "repairing": "'Manage' takes 'to' + verb, not the -ing form.",
+        "repair": "'To' is missing after 'manage'."
+      },
+      "text": "They managed ___ (repair) the old bridge in just two weeks.",
+      "answers": [
+        [
+          "to repair"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-124",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Stop' + -ing means you end an activity. Example: Stop shouting, please.",
+      "wrongReasons": {
+        "to talk": "'Stop to talk' means to stop doing something else in order to talk, which is not the meaning here.",
+        "talk": "After 'stop' the activity you end takes the -ing form."
+      },
+      "text": "Please stop ___ (talk) during the film. I can't hear anything.",
+      "answers": [
+        [
+          "talking"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-125",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "After 'interested in' use the -ing form. Example: Are you interested in cooking?",
+      "wrongReasons": {
+        "learn": "'In' is a preposition, so the verb needs -ing.",
+        "to learn": "'Interested in' cannot be followed by 'to' + verb."
+      },
+      "text": "My brother is interested in ___ (learn) Japanese.",
+      "answers": [
+        [
+          "learning"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-126",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Agree' is followed by 'to' + base verb. Example: They agreed to share the cost.",
+      "wrongReasons": {
+        "meeting": "'Agree' is followed by 'to' + verb, not -ing.",
+        "meet": "You need 'to' before the verb after 'agree'."
+      },
+      "text": "We agreed ___ (meet) outside the museum at ten.",
+      "answers": [
+        [
+          "to meet"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-127",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Avoid' is followed by the -ing form. Example: I avoid eating late at night.",
+      "wrongReasons": {
+        "to drive": "'Avoid' never takes 'to' + verb.",
+        "drive": "After 'avoid' the verb must end in -ing."
+      },
+      "text": "Tom avoids ___ (drive) in the city centre at rush hour.",
+      "answers": [
+        [
+          "driving"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-128",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'be going to' for predictions based on what we can see now. Example: Look, he's going to fall!",
+      "wrongReasons": {
+        "go": "The structure is 'be going to', so you need the -ing form 'going'.",
+        "will": "'Will' cannot follow 'it's' and is not followed by 'to'."
+      },
+      "text": "Look at those dark clouds. It's ___ to rain.",
+      "answers": [
+        [
+          "going"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-129",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'will' for a decision or offer made at the moment of speaking. Example: It's heavy? I'll carry it.",
+      "wrongReasons": {
+        "am lending": "The present continuous is for plans made before; this offer is decided now.",
+        "lend": "The present simple does not express an offer about the future here; use 'will'."
+      },
+      "text": "Oh no, I've left my wallet at home! - Don't worry, I ___ (lend) you some money.",
+      "answers": [
+        [
+          "will lend",
+          "'ll lend"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-130",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the present continuous (be + -ing) to ask about future plans. Example: What are you doing tomorrow?",
+      "wrongReasons": {
+        "do": "'Do' cannot be followed by an -ing verb like 'doing' here; you need 'are'.",
+        "will": "'Will' is followed by a base verb, not 'doing'."
+      },
+      "text": "What ___ you doing on Saturday night? - I'm meeting some friends.",
+      "answers": [
+        [
+          "are"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-131",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'be going to' for a decision you have already made. Example: I'm going to learn French.",
+      "wrongReasons": {
+        "will": "'Will' is not used with 'going to'.",
+        "be": "The verb 'be' must agree with 'I', so it is 'am'."
+      },
+      "text": "I've decided. I ___ going to study medicine at university.",
+      "answers": [
+        [
+          "am"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-132",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "The structure is 'be going to' + base verb. Example: She's going to win.",
+      "wrongReasons": {
+        "for": "'Going for' is not used before a verb.",
+        "fall": "'Going' must be followed by 'to' before the verb."
+      },
+      "text": "Watch out! That tree is going ___ fall on the car!",
+      "answers": [
+        [
+          "to"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-133",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "In questions with 'going to', put 'is/are/am' before the subject. Example: When is he going to leave?",
+      "wrongReasons": {
+        "are": "'Your sister' is singular, so the verb is 'is'.",
+        "does": "'Going to' questions use the verb 'be', not 'do'."
+      },
+      "text": "Where ___ your sister going to stay in London? - With her friend Anna.",
+      "answers": [
+        [
+          "is"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-134",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the present continuous for fixed future arrangements. Example: We are moving house in May.",
+      "wrongReasons": {
+        "is": "'Kate and Ben' are two people, so you need 'are'.",
+        "will": "'Will' is followed by a base verb, not 'getting'."
+      },
+      "text": "Kate and Ben ___ getting married next spring. The invitations have already been sent.",
+      "answers": [
+        [
+          "are"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-135",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'will' or 'won't' for promises. Example: I won't be late, I promise.",
+      "wrongReasons": {
+        "don't": "Promises about the future use 'won't', not the present simple.",
+        "not": "'Not' alone cannot make a verb negative; you need 'will not' or 'won't'."
+      },
+      "text": "I promise I ___ tell anyone your secret.",
+      "answers": [
+        [
+          "won't",
+          "will not"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-136",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Questions with 'be going to' follow the pattern 'Are you going to + verb?'. Example: Are you going to call her?",
+      "wrongReasons": {
+        "go": "After 'are you' you need the -ing form 'going'.",
+        "want": "'Are you want' is not correct; 'want' does not take 'are'."
+      },
+      "text": "Are you ___ to watch the match tonight?",
+      "answers": [
+        [
+          "going"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-137",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Negative 'going to': 'I'm not going to' + base verb. Example: I'm not going to buy it.",
+      "wrongReasons": {
+        "watch": "'Going' must be followed by 'to' before the verb.",
+        "watching": "After 'going' you need 'to' + base verb, not -ing."
+      },
+      "text": "I'm not going ___ that film. I heard it's boring.",
+      "answers": [
+        [
+          "to watch",
+          "to see"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-138",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "The negative of 'be going to' is 'is not / isn't going to'. Example: She isn't going to come.",
+      "wrongReasons": {
+        "doesn't": "'Going to' uses the verb 'be' in the negative, not 'do'.",
+        "won't": "'Won't' is not used together with 'going to'."
+      },
+      "text": "He ___ going to buy a new laptop. His old one works fine.",
+      "answers": [
+        [
+          "isn't",
+          "is not",
+          "'s not"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-139",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "For future plans, use the present continuous, 'going to' or 'will'. Example: He isn't coming to dinner tonight.",
+      "wrongReasons": {
+        "doesn't come": "The present simple is not used for a personal plan like this one.",
+        "not come": "A negative verb needs an auxiliary like 'isn't' or 'won't'."
+      },
+      "text": "She ___ (not / come) to the party tomorrow. She has to work.",
+      "answers": [
+        [
+          "isn't coming",
+          "is not coming",
+          "'s not coming",
+          "won't come",
+          "will not come",
+          "isn't going to come",
+          "is not going to come",
+          "'s not going to come"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-140",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the present simple for timetables and schedules. Example: The train leaves at six.",
+      "wrongReasons": {
+        "finish": "'The film' is singular, so the present simple needs -es.",
+        "is finish": "'Is' cannot be followed by the base verb 'finish'."
+      },
+      "text": "The film starts at 8:00 and ___ (finish) at 10:30.",
+      "answers": [
+        [
+          "finishes",
+          "will finish"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-141",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'I think I'll...' for a decision made now. Example: I think I'll have the soup.",
+      "wrongReasons": {
+        "go": "The present simple does not express this decision about tonight.",
+        "am go": "'Am' cannot be followed directly by the base verb."
+      },
+      "text": "I'm so tired. I think I ___ (go) to bed early tonight.",
+      "answers": [
+        [
+          "will go",
+          "'ll go",
+          "am going to go",
+          "'m going to go"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-142",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'will' after 'I think / I don't think' for predictions. Example: I don't think it will rain.",
+      "wrongReasons": {
+        "is being": "'Is being' describes behaviour now, not a prediction.",
+        "be": "The base verb alone cannot follow 'the exam'; you need 'will be'."
+      },
+      "text": "I don't think the exam ___ (be) very difficult.",
+      "answers": [
+        [
+          "will be",
+          "'ll be",
+          "is going to be"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-143",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use the present continuous for arrangements that are already booked. Example: I'm seeing the dentist on Monday.",
+      "wrongReasons": {
+        "fly": "The present simple is used for timetables, not for personal arrangements.",
+        "flew": "'Flew' is the past; the trip is on Friday, in the future."
+      },
+      "text": "We ___ (fly) to Lisbon on Friday. We booked the tickets last month.",
+      "answers": [
+        [
+          "are flying",
+          "'re flying",
+          "are going to fly",
+          "'re going to fly"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-144",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'will' for an offer or decision made at the moment of speaking. Example: Someone's at the door. I'll go.",
+      "wrongReasons": {
+        "am answering": "The present continuous is for plans made earlier, not a quick decision now.",
+        "answer": "The present simple does not make an offer; use 'will'."
+      },
+      "text": "The phone is ringing. - Don't move, I ___ (answer) it.",
+      "answers": [
+        [
+          "will answer",
+          "'ll answer"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-145",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'will' or 'going to' for predictions about the future. Example: It will be cold tonight.",
+      "wrongReasons": {
+        "is being": "'Is being' is not used for weather predictions.",
+        "be": "'It be' is not correct; you need 'will be'."
+      },
+      "text": "The weather forecast says it ___ (be) sunny tomorrow.",
+      "answers": [
+        [
+          "will be",
+          "'ll be",
+          "is going to be",
+          "'s going to be"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-146",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'who' or 'that' for people in relative clauses. Example: The man who called you is my uncle.",
+      "wrongReasons": {
+        "which": "'Which' is for things and animals, not people.",
+        "where": "'Where' is for places."
+      },
+      "text": "The woman ___ runs the bakery on our street is from Portugal.",
+      "answers": [
+        [
+          "who",
+          "that"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-147",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'where' for places when the clause has its own subject. Example: That's the café where we met.",
+      "wrongReasons": {
+        "which": "'Which' would need 'in' or 'at' at the end: 'which we stayed in'.",
+        "who": "'Who' is for people, not places."
+      },
+      "text": "This is the hotel ___ we stayed last summer.",
+      "answers": [
+        [
+          "where",
+          "in which"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-148",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'which' or 'that' for things. Example: The book that you lent me is great.",
+      "wrongReasons": {
+        "who": "'Who' is used for people, not objects.",
+        "where": "'Where' is for places, not things like a phone."
+      },
+      "text": "The phone ___ I bought last week has stopped working.",
+      "answers": [
+        [
+          "which",
+          "that"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-149",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'whose' to show possession (his, her, their). Example: That's the girl whose cat is lost.",
+      "wrongReasons": {
+        "who's": "'Who's' means 'who is', which does not fit before 'father is'.",
+        "who": "'Who' does not show possession; you need 'whose'."
+      },
+      "text": "I have a friend ___ father is a famous chef.",
+      "answers": [
+        [
+          "whose"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-150",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'where' after a place noun. Example: This is the town where I was born.",
+      "wrongReasons": {
+        "that": "'That' would need a preposition at the end ('met in'); use 'where'.",
+        "which": "'Which' alone does not fit; you would need 'in which'."
+      },
+      "text": "Paris is the city ___ my parents first met.",
+      "answers": [
+        [
+          "where",
+          "in which"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-151",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'who' or 'that' for people. Example: The players who won got a medal.",
+      "wrongReasons": {
+        "which": "'Which' is not used for people.",
+        "whose": "'Whose' shows possession and needs a noun after it."
+      },
+      "text": "The students ___ passed the exam received a certificate.",
+      "answers": [
+        [
+          "who",
+          "that"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-152",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'that' or 'which' for things. Example: I love the film that won the prize.",
+      "wrongReasons": {
+        "who": "A song is a thing, so 'who' is wrong.",
+        "what": "'What' cannot follow a noun like 'the song'."
+      },
+      "text": "Do you remember the song ___ was playing when we met?",
+      "answers": [
+        [
+          "that",
+          "which"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-153",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "In a clause between commas (extra information), use 'which' for things, never 'that'. Example: My car, which is red, is old.",
+      "wrongReasons": {
+        "that": "'That' is not used after a comma to add extra information.",
+        "who": "A museum is a thing, not a person."
+      },
+      "text": "The museum, ___ opened in 1890, is the oldest in the country.",
+      "answers": [
+        [
+          "which"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-154",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "In a clause between commas, use 'who' for people. Example: My sister, who lives in Leeds, is a teacher.",
+      "wrongReasons": {
+        "that": "'That' cannot be used after a comma.",
+        "which": "'Which' is for things, but an uncle is a person."
+      },
+      "text": "My uncle, ___ is a pilot, has visited over fifty countries.",
+      "answers": [
+        [
+          "who"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-155",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'where' for places. Example: This is the park where we play tennis.",
+      "wrongReasons": {
+        "which": "'Which' would need 'from' at the end of the clause.",
+        "who": "A shop is a place, so 'who' does not fit."
+      },
+      "text": "That's the shop ___ I buy my vegetables.",
+      "answers": [
+        [
+          "where"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-156",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'who' or 'that' for people. Example: The teacher who I like most is Mr Brown.",
+      "wrongReasons": {
+        "which": "'Which' is not used for people like a doctor.",
+        "whose": "'Whose' needs a noun after it to show possession."
+      },
+      "text": "The doctor ___ I saw yesterday was very kind.",
+      "answers": [
+        [
+          "who",
+          "that",
+          "whom"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-157",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'that' or 'which' for things. Example: Is this the key that opens the door?",
+      "wrongReasons": {
+        "what": "'What' cannot come after a noun like 'the bag'.",
+        "where": "'Where' is for places, not objects."
+      },
+      "text": "Is this the bag ___ you lost at the airport?",
+      "answers": [
+        [
+          "that",
+          "which"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-158",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'where' to talk about what happens in a place. Example: It's a city where people cycle a lot.",
+      "wrongReasons": {
+        "which": "'Which' alone does not fit because the clause already has a subject and object.",
+        "who": "'Who' refers to people, but here it follows 'village', a place."
+      },
+      "text": "We visited a village ___ people still make bread in the old way.",
+      "answers": [
+        [
+          "where",
+          "in which"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-159",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'whose' + noun to show that something belongs to someone. Example: She's the writer whose books I love.",
+      "wrongReasons": {
+        "who": "'Who films' is not correct; you need the possessive 'whose'.",
+        "which": "'Which' is for things and does not show possession here."
+      },
+      "text": "He's the actor ___ films have won many prizes.",
+      "answers": [
+        [
+          "whose"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-160",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'that' or 'which' for things and vehicles. Example: The train that goes to York is late.",
+      "wrongReasons": {
+        "who": "A bus is a thing, so 'who' is wrong.",
+        "where": "'Where' is for places, not vehicles."
+      },
+      "text": "The bus ___ goes to the airport leaves every twenty minutes.",
+      "answers": [
+        [
+          "that",
+          "which"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-161",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'whose' to mean 'her/his' in a relative clause. Example: Tom, whose dog is ill, is at the vet.",
+      "wrongReasons": {
+        "who": "'Who brother' is wrong; to show possession use 'whose'.",
+        "that": "'That' cannot follow a comma and does not show possession."
+      },
+      "text": "Anna, ___ brother plays in a band, wants to be a singer too.",
+      "answers": [
+        [
+          "whose"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-162",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'who' or 'that' for people. Example: I know someone who speaks five languages.",
+      "wrongReasons": {
+        "which": "'Which' is for things, not people.",
+        "whose": "'Whose' must be followed by a noun."
+      },
+      "text": "I don't like people ___ talk loudly on the phone in the cinema.",
+      "answers": [
+        [
+          "who",
+          "that"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-163",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'that' or 'which' for things. Example: The car that we rented was new.",
+      "wrongReasons": {
+        "who": "A computer is not a person, so 'who' is wrong.",
+        "what": "'What' is not used after a noun like 'the computer'."
+      },
+      "text": "The computer ___ we use at work is very slow.",
+      "answers": [
+        [
+          "that",
+          "which"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-164",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Turn up' means make louder; 'turn down' means make quieter. Example: Turn up the radio, please.",
+      "wrongReasons": {
+        "down": "'Turn down' makes the sound quieter, but the speaker can't hear.",
+        "on": "You turn on a machine, not the volume."
+      },
+      "text": "Could you turn ___ the volume a little? I can't hear the news.",
+      "answers": [
+        [
+          "up"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-165",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Look for' means try to find something. Example: She's looking for her glasses.",
+      "wrongReasons": {
+        "after": "'Look after' means take care of someone or something.",
+        "at": "'Look at' means direct your eyes towards something you can already see."
+      },
+      "text": "I'm looking ___ my keys. Have you seen them?",
+      "answers": [
+        [
+          "for"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-166",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Fill in' or 'fill out' means write the information a form asks for. Example: Fill in your name here.",
+      "wrongReasons": {
+        "on": "'Fill on' is not a phrasal verb in English.",
+        "up": "'Fill up' means make a container full, like a glass or a car."
+      },
+      "text": "Please fill ___ this form and give it to the receptionist.",
+      "answers": [
+        [
+          "in",
+          "out"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-167",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Look after' means take care of someone. Example: Can you look after my cat this weekend?",
+      "wrongReasons": {
+        "for": "'Look for' means search for, not take care of.",
+        "at": "'Look at' means watch or see, not take care of."
+      },
+      "text": "My grandmother looked ___ me when my parents were at work.",
+      "answers": [
+        [
+          "after"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-168",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Run out of' means have no more of something. Example: We've run out of coffee.",
+      "wrongReasons": {
+        "off": "'Run off' means leave quickly; it is not used with 'of milk'.",
+        "away": "'Run away' means escape from a place."
+      },
+      "text": "We ran ___ of milk, so I went to the shop.",
+      "answers": [
+        [
+          "out"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-169",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Take off' means leave the ground (for planes). Example: Our flight takes off at noon.",
+      "wrongReasons": {
+        "out": "'Take out' means remove something from a place.",
+        "up": "'Take up' means start a new hobby."
+      },
+      "text": "The plane took ___ two hours late because of the fog.",
+      "answers": [
+        [
+          "off"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-170",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Give up' means stop doing something. Example: He gave up smoking last year.",
+      "wrongReasons": {
+        "out": "'Give out' means hand things to people.",
+        "off": "'Give off' means send out a smell or heat."
+      },
+      "text": "I gave ___ eating chocolate for a month. It was really hard!",
+      "answers": [
+        [
+          "up"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-171",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "You 'get on' and 'get off' buses, trains and planes. Example: Get off at the next stop.",
+      "wrongReasons": {
+        "out": "'Get out of' is used for cars and taxis, and it needs 'of'.",
+        "down": "'Get down' means move to a lower position; it is not used with 'the bus'."
+      },
+      "text": "He got ___ the bus at the wrong stop and had to walk home.",
+      "answers": [
+        [
+          "off"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-172",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Pick someone up' means collect them in a car. Example: I'll pick you up after school.",
+      "wrongReasons": {
+        "on": "'Pick on' means treat someone badly.",
+        "off": "'Pick off' is not the meaning of collecting someone."
+      },
+      "text": "Can you pick me ___ from the station at six?",
+      "answers": [
+        [
+          "up"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-173",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Switch off' means stop a machine or light working. Example: Switch off your phone in the cinema.",
+      "wrongReasons": {
+        "on": "'Switch on' means start the lights, but you are leaving.",
+        "out": "We say 'put out' a fire, but not 'switch out' a light."
+      },
+      "text": "Don't forget to switch ___ the lights when you leave the office.",
+      "answers": [
+        [
+          "off"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-174",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Look forward to' means feel happy about something in the future. Example: We look forward to the holidays.",
+      "wrongReasons": {
+        "for": "The correct preposition is 'to', not 'for'.",
+        "at": "'Look forward at' is not used in English."
+      },
+      "text": "I'm really looking forward ___ your visit next month.",
+      "answers": [
+        [
+          "to"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-175",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Find out' means discover information. Example: I found out his name.",
+      "wrongReasons": {
+        "up": "'Find up' is not a phrasal verb.",
+        "about": "'Find about' is wrong; you can say 'find out about'."
+      },
+      "text": "She found ___ the truth from a friend.",
+      "answers": [
+        [
+          "out"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-176",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Set off' or 'set out' means start a journey. Example: We set off at dawn.",
+      "wrongReasons": {
+        "up": "'Set up' means start a business or prepare equipment.",
+        "on": "'Set on' does not mean start a journey."
+      },
+      "text": "We need to set ___ early tomorrow to avoid the traffic.",
+      "answers": [
+        [
+          "off",
+          "out"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-177",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Grow up' means change from a child into an adult. Example: I grew up in a small town.",
+      "wrongReasons": {
+        "out": "'Grow out of' means become too big for clothes.",
+        "in": "'Grow in' is not a phrasal verb with this meaning."
+      },
+      "text": "The children grew ___ on a farm in Wales.",
+      "answers": [
+        [
+          "up"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-178",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Hold on' means wait for a short time. Example: Hold on, I'm coming.",
+      "wrongReasons": {
+        "up": "'Hold up' means delay someone or something.",
+        "off": "'Hold off' means delay doing something, not wait a moment on the phone."
+      },
+      "text": "Can you hold ___ a minute? I'll get a pen.",
+      "answers": [
+        [
+          "on"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-179",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Try on' means put on clothes to see if they fit. Example: Can I try on these shoes?",
+      "wrongReasons": {
+        "in": "'Try in' is not a phrasal verb.",
+        "up": "'Try up' does not exist in English."
+      },
+      "text": "Why don't you try ___ the jacket before you buy it?",
+      "answers": [
+        [
+          "on"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-180",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Break down' means stop working (for machines and cars). Example: The bus broke down on the way.",
+      "wrongReasons": {
+        "up": "'Break up' means end a relationship.",
+        "out": "'Break out' means start suddenly, like a fire or war."
+      },
+      "text": "Our car broke ___ on the motorway, so we called a mechanic.",
+      "answers": [
+        [
+          "down"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-181",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Put out' means stop something burning. Example: They put out the fire quickly.",
+      "wrongReasons": {
+        "off": "'Put off' means delay something until later.",
+        "down": "'Put down' means place something on a surface."
+      },
+      "text": "Could you put ___ your cigarette, please? Smoking isn't allowed here.",
+      "answers": [
+        [
+          "out"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-182",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'because' to give a reason. Example: She was happy because she passed the test.",
+      "wrongReasons": {
+        "so": "'So' introduces a result, not a reason.",
+        "although": "'Although' shows a contrast, but having a cold is a reason for staying at home."
+      },
+      "text": "I stayed at home ___ I had a bad cold.",
+      "answers": [
+        [
+          "because",
+          "as",
+          "since"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-183",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'so' to introduce a result. Example: I was hungry, so I made a sandwich.",
+      "wrongReasons": {
+        "because": "'Because' gives a reason, but taking a taxi is the result.",
+        "however": "'However' shows a contrast and is not used to join two clauses with a comma."
+      },
+      "text": "It was raining, ___ we took a taxi.",
+      "answers": [
+        [
+          "so",
+          "and so"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-184",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'although' to join two ideas that contrast. Example: Although it was cold, we went swimming.",
+      "wrongReasons": {
+        "because": "'Because' gives a reason, but here the two ideas contrast.",
+        "however": "'However' cannot join two clauses like this."
+      },
+      "text": "___ the hotel was expensive, we didn't enjoy our stay.",
+      "answers": [
+        [
+          "although",
+          "though",
+          "even though"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-185",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "'However' starts a new sentence and shows contrast; put a comma after it. Example: It was hard. However, I finished it.",
+      "wrongReasons": {
+        "although": "'Although' must join two clauses in one sentence; it cannot stand alone with a comma.",
+        "but": "'But' is not followed by a comma at the start of a sentence like this."
+      },
+      "text": "The film was very long. ___, it was never boring.",
+      "answers": [
+        [
+          "however",
+          "nevertheless",
+          "still"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-186",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'but' to join two contrasting ideas. Example: He is rich, but he is not happy.",
+      "wrongReasons": {
+        "so": "'So' shows a result, but failing is not a result of studying hard.",
+        "because": "'Because' gives a reason, which does not fit here."
+      },
+      "text": "She studied hard, ___ she failed the driving test.",
+      "answers": [
+        [
+          "but",
+          "yet"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-187",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Despite' is followed by a noun or -ing form. Example: Despite the rain, we played football.",
+      "wrongReasons": {
+        "although": "'Although' needs a full clause after it, not just a noun.",
+        "however": "'However' cannot go before a noun like this."
+      },
+      "text": "We went to the beach ___ the cold weather.",
+      "answers": [
+        [
+          "despite",
+          "in spite of"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-188",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'but' or 'while' to compare two different things. Example: I like tea, but my wife prefers coffee.",
+      "wrongReasons": {
+        "so": "'So' introduces a result, not a difference.",
+        "because": "'Because' gives a reason, but here two people are compared."
+      },
+      "text": "My brother likes sports, ___ I prefer reading.",
+      "answers": [
+        [
+          "but",
+          "while",
+          "whereas",
+          "and"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-189",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'because' before a reason. Example: We left early because it was late.",
+      "wrongReasons": {
+        "so": "'So' would make the alarm the result, but it is the reason.",
+        "but": "'But' shows contrast, not a reason."
+      },
+      "text": "He was late for work ___ his alarm didn't ring.",
+      "answers": [
+        [
+          "because",
+          "as",
+          "since"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-190",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'so' to show what happened as a result. Example: The bus didn't come, so we walked.",
+      "wrongReasons": {
+        "because": "'Because' introduces a reason, but going to a café is the result.",
+        "although": "'Although' shows contrast, which does not fit here."
+      },
+      "text": "The museum was closed, ___ we went to a café instead.",
+      "answers": [
+        [
+          "so",
+          "and so"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-191",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "'However' shows contrast with the sentence before. Example: I hate running. However, I do it every day.",
+      "wrongReasons": {
+        "although": "'Although' must be followed by a clause in the same sentence, not a comma.",
+        "so": "'So' shows a result, but this is a contrast."
+      },
+      "text": "I don't usually eat meat. ___, I sometimes have chicken at my grandmother's house.",
+      "answers": [
+        [
+          "however",
+          "still",
+          "nevertheless"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-192",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Unless' means 'if not'. Example: You won't pass unless you study.",
+      "wrongReasons": {
+        "if": "'If' gives the opposite meaning: you can't enter if you're an adult.",
+        "because": "'Because' gives a reason, which makes no sense here."
+      },
+      "text": "You can't enter the club ___ you're over eighteen.",
+      "answers": [
+        [
+          "unless"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-193",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'although' + clause to show contrast. Example: Although he was ill, he went to work.",
+      "wrongReasons": {
+        "despite": "'Despite' is followed by a noun or -ing, not a full clause like 'I was tired'.",
+        "so": "'So' cannot start a sentence to show contrast."
+      },
+      "text": "___ I was tired, I finished the report before midnight.",
+      "answers": [
+        [
+          "although",
+          "though",
+          "even though"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-194",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Because of' is followed by a noun. Example: We stayed in because of the rain.",
+      "wrongReasons": {
+        "because": "'Because' must be followed by a clause with a verb, not just a noun.",
+        "so": "'So' introduces a result, not a cause."
+      },
+      "text": "The flight was cancelled ___ the storm.",
+      "answers": [
+        [
+          "because of",
+          "due to"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-195",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'then' or 'next' to show the order of steps. Example: First, wash the vegetables. Then, cut them.",
+      "wrongReasons": {
+        "before": "'Before' needs a noun or clause after it, and it does not fit the order of steps.",
+        "so": "'So' shows a result, not the next step."
+      },
+      "text": "First, mix the flour and the sugar. ___, add the eggs.",
+      "answers": [
+        [
+          "then",
+          "next",
+          "after that",
+          "second",
+          "secondly"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-196",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Also' adds information and goes before the main verb. Example: He plays the guitar. He also sings.",
+      "wrongReasons": {
+        "too": "'Too' goes at the end of the sentence, not before the verb.",
+        "either": "'Either' is used in negative sentences."
+      },
+      "text": "Maria speaks Spanish and French. She ___ speaks a little Chinese.",
+      "answers": [
+        [
+          "also"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-197",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'or' / 'otherwise' to show what will happen if something is not done. Example: Hurry, or you'll miss the bus.",
+      "wrongReasons": {
+        "so": "'So' would mean the call makes me worry, which is the opposite.",
+        "and": "'And' does not show what happens if you don't call."
+      },
+      "text": "Call me when you arrive, ___ I'll worry about you.",
+      "answers": [
+        [
+          "or",
+          "otherwise",
+          "or else"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-198",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Complete the sentence.",
+      "explanation": "Use 'while' or 'when' + clause for something happening at the same time. Example: I fell while I was running.",
+      "wrongReasons": {
+        "during": "'During' is followed by a noun, not a clause.",
+        "so": "'So' shows a result, not the time something happened."
+      },
+      "text": "I hurt my knee ___ I was playing football.",
+      "answers": [
+        [
+          "while",
+          "when",
+          "as"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-199",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "We say 'do someone a favour'. Example: Could you do me a favour?",
+      "wrongReasons": {
+        "make": "'Favour' goes with 'do', not 'make'.",
+        "give": "'Give a favour' is not a natural English expression."
+      },
+      "text": "Can you ___ me a favour and post this letter?",
+      "answers": [
+        [
+          "do"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-200",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "We say 'make an appointment' or 'book an appointment'. Example: I made an appointment for Monday.",
+      "wrongReasons": {
+        "do": "'Appointment' goes with 'make', not 'do'.",
+        "take": "In English we don't usually say 'take an appointment'."
+      },
+      "text": "I need to ___ an appointment with the dentist.",
+      "answers": [
+        [
+          "make",
+          "book"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-201",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "We say 'make progress'. Example: She is making good progress at school.",
+      "wrongReasons": {
+        "done": "'Progress' goes with 'make', not 'do'.",
+        "did": "'Did' is the past simple; after 'has' you need a past participle, and the verb is 'make'."
+      },
+      "text": "My brother has ___ a lot of progress with his English this year.",
+      "answers": [
+        [
+          "made"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-202",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "We say 'do your homework'. Example: I do my homework after school.",
+      "wrongReasons": {
+        "make": "'Homework' goes with 'do', not 'make'.",
+        "write": "We don't usually say 'write your homework'; the common verb is 'do'."
+      },
+      "text": "Don't forget to ___ your homework before dinner.",
+      "answers": [
+        [
+          "do",
+          "finish"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-203",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Crowded' means full of people. Example: The beach was crowded in August.",
+      "wrongReasons": {
+        "empty": "'Empty' means with no people, so you could sit down.",
+        "crowd": "'Crowd' is a noun; you need the adjective 'crowded'."
+      },
+      "text": "The train was very ___, so we had to stand all the way.",
+      "answers": [
+        [
+          "crowded",
+          "full",
+          "busy"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-204",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "A dentist looks after your teeth. Example: I see the dentist twice a year.",
+      "wrongReasons": {
+        "chemist": "A chemist sells medicine, but does not fix teeth.",
+        "hairdresser": "A hairdresser cuts hair and cannot help with a toothache."
+      },
+      "text": "I went to the ___ because I had a terrible toothache.",
+      "answers": [
+        [
+          "dentist",
+          "dentist's"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-205",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "You 'lend' something to someone; you 'borrow' something from someone. Example: Can you lend me five pounds?",
+      "wrongReasons": {
+        "borrow": "'Borrow' means take from someone; with 'me' as the receiver you need 'lend'.",
+        "give": "'Give' means it becomes mine, but the speaker will return it."
+      },
+      "text": "Could you ___ me your pen for a moment? I'll give it back.",
+      "answers": [
+        [
+          "lend"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-206",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "A cancelled flight does not happen at all. Example: The match was cancelled because of rain.",
+      "wrongReasons": {
+        "cancel": "After 'was' you need the past participle 'cancelled'.",
+        "closed": "A flight is not 'closed'; shops and doors are closed."
+      },
+      "text": "Our flight was ___ because of the snow, so we stayed another night in the hotel.",
+      "answers": [
+        [
+          "cancelled",
+          "canceled"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-207",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "You 'withdraw' or 'get' money from a cash machine. Example: I withdrew fifty euros.",
+      "wrongReasons": {
+        "borrow": "You borrow money from a person or bank, not from a cash machine.",
+        "lend": "'Lend' means give money to someone for a short time."
+      },
+      "text": "I'd like to ___ some money from the cash machine.",
+      "answers": [
+        [
+          "withdraw",
+          "get",
+          "take out"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-208",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "We say 'take / catch the bus'. Example: I take the bus to school.",
+      "wrongReasons": {
+        "goes": "'Go' needs 'by' or 'on': 'goes by bus'.",
+        "makes": "'Make the bus' is not used for travelling."
+      },
+      "text": "She ___ the bus every morning to get to work.",
+      "answers": [
+        [
+          "takes",
+          "catches",
+          "gets"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-209",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "We say 'pay attention'. Example: Pay attention to the teacher.",
+      "wrongReasons": {
+        "give": "'Attention' goes with 'pay', not 'give', in this phrase.",
+        "make": "'Make attention' is not English."
+      },
+      "text": "Please ___ attention. This information is important.",
+      "answers": [
+        [
+          "pay"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-210",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "We say 'take / get a taxi'. Example: Let's take a taxi to the airport.",
+      "wrongReasons": {
+        "drive": "You drive a car yourself; a taxi driver drives the taxi for you.",
+        "go": "'Go a taxi' is wrong; you can say 'go by taxi'."
+      },
+      "text": "It's very late. I'm going to ___ a taxi home.",
+      "answers": [
+        [
+          "take",
+          "get",
+          "catch"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-211",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "A pilot is the person who flies a plane. Example: The pilot spoke to the passengers.",
+      "wrongReasons": {
+        "flight attendant": "A flight attendant looks after the passengers, but does not fly the plane.",
+        "driver": "A driver drives cars, buses or trains, not planes."
+      },
+      "text": "She works as a ___. She flies planes for a big airline.",
+      "answers": [
+        [
+          "pilot"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-212",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Expensive' is the opposite of 'cheap'. Example: Hotels in the centre are expensive.",
+      "wrongReasons": {
+        "rich": "'Rich' describes people with a lot of money, not prices.",
+        "cheaper": "'Cheaper' is wrong because that watch costs a lot."
+      },
+      "text": "This watch was cheap, but that one costs a lot. It's really ___.",
+      "answers": [
+        [
+          "expensive",
+          "dear"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-213",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Postpone' or 'put off' means move something to a later time. Example: They postponed the match.",
+      "wrongReasons": {
+        "cancel": "'Cancel' means it will not happen at all, but 'until next week' shows it will happen later.",
+        "postponed": "After 'had to' you need the base verb, not the past form."
+      },
+      "text": "We had to ___ the meeting until next week because the boss was ill.",
+      "answers": [
+        [
+          "postpone",
+          "put off",
+          "delay",
+          "move"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-214",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "'Break' is irregular: break - broke - broken. Example: He broke his leg skiing.",
+      "wrongReasons": {
+        "breaked": "'Break' is irregular; the past simple is 'broke', not 'breaked'.",
+        "broken": "'Broken' is the past participle; the past simple is 'broke'."
+      },
+      "text": "My cousin ___ her wrist when she fell off her bike last week.",
+      "answers": [
+        [
+          "broke",
+          "hurt",
+          "injured"
+        ]
+      ]
+    },
+    {
+      "id": "b1-fb-215",
+      "type": "fill-blank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence.",
+      "explanation": "We say 'set / lay the table' (put out plates, knives and forks). Example: Can you set the table for four?",
+      "wrongReasons": {
+        "make": "You 'make' a bed, but you 'set' a table.",
+        "do": "'Do the table' is not a natural English expression."
+      },
+      "text": "Could you ___ the table, please? Dinner is almost ready.",
+      "answers": [
+        [
+          "set",
+          "lay"
+        ]
+      ]
     }
   ]
 }
