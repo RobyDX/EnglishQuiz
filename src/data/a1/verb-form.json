@@ -106,6 +106,132 @@
         "slept"
       ],
       "correct": 1
+    },
+    {
+      "id": "a1-vf-006",
+      "type": "verb-form",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "My parents ___ in a small town.",
+      "verb": "live",
+      "explanation": "With \"my parents\" (they) use the base form: live.",
+      "wrongReasons": {
+        "0": "\"lives\" is for he, she and it. \"my parents\" means they.",
+        "2": "\"is living\" is a present continuous form and does not fit a fact like this.",
+        "3": "\"lived\" is the past."
+      },
+      "options": [
+        "lives",
+        "live",
+        "is living",
+        "lived"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-vf-007",
+      "type": "verb-form",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "We ___ at home now.",
+      "verb": "be",
+      "explanation": "Use \"are\" with we: We are.",
+      "wrongReasons": {
+        "0": "\"am\" is only used with \"I\".",
+        "1": "\"is\" is used with he, she and it.",
+        "3": "\"be\" is the base form and cannot be used alone here."
+      },
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "a1-vf-008",
+      "type": "verb-form",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Listen! The children ___.",
+      "verb": "sing",
+      "explanation": "\"Listen!\" shows an action happening now: are + verb-ing.",
+      "wrongReasons": {
+        "0": "The present simple is for habits, not for what is happening now.",
+        "2": "\"sings\" has -s, which is only for he, she and it.",
+        "3": "\"sang\" is the past."
+      },
+      "options": [
+        "sing",
+        "are singing",
+        "sings",
+        "sang"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-vf-009",
+      "type": "verb-form",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "He ___ a new phone.",
+      "verb": "have",
+      "explanation": "With he, she and it use \"has\": He has a phone.",
+      "wrongReasons": {
+        "0": "\"have\" is used with I, you, we and they.",
+        "2": "\"is having\" is not used for owning something.",
+        "3": "\"haves\" is not a word."
+      },
+      "options": [
+        "have",
+        "has",
+        "is having",
+        "haves"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-vf-010",
+      "type": "verb-form",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "I ___ like fish.",
+      "verb": "don't",
+      "explanation": "Use \"don't\" with I, you, we and they: I don't like fish.",
+      "wrongReasons": {
+        "1": "\"doesn't\" is for he, she and it.",
+        "2": "\"am not\" cannot be followed by the base verb \"like\" here.",
+        "3": "\"not\" alone cannot make a negative with \"like\"."
+      },
+      "options": [
+        "don't",
+        "doesn't",
+        "am not",
+        "not"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "a1-vf-011",
+      "type": "verb-form",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ your sister play tennis?",
+      "verb": "do",
+      "explanation": "With she/sister use \"Does\" in questions: Does your sister play tennis?",
+      "wrongReasons": {
+        "0": "\"Do\" is used with I, you, we and they.",
+        "2": "\"Is\" is used with the verb \"to be\", not with \"play\".",
+        "3": "\"Are\" is used with we, you and they."
+      },
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ],
+      "correct": 1
     }
   ]
 }

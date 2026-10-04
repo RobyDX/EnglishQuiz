@@ -93,6 +93,134 @@
         "It are"
       ],
       "correct": 0
+    },
+    {
+      "id": "a1-mc-006",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "My brother ___ twelve years old.",
+      "explanation": "Use \"is\" with he, she, it and singular names: My brother is twelve.",
+      "wrongReasons": {
+        "1": "\"am\" is only used with \"I\".",
+        "2": "\"are\" is used with we, you and they, not with one brother."
+      },
+      "options": [
+        "is",
+        "am",
+        "are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "a1-mc-007",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I have ___ apple in my bag.",
+      "explanation": "Use \"an\" before a vowel sound: an apple.",
+      "wrongReasons": {
+        "0": "\"a\" is used before a consonant sound. \"apple\" starts with a vowel sound.",
+        "2": "\"the\" points to one known thing. Here we talk about any apple."
+      },
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-mc-008",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "There are two ___ in the garden.",
+      "explanation": "Words ending in -y after a consonant change to -ies: baby → babies.",
+      "wrongReasons": {
+        "0": "\"babys\" is not correct. Change -y to -ies after a consonant.",
+        "2": "\"baby\" is singular. \"two\" needs a plural noun.",
+        "3": "\"babyes\" is not correct. Change -y to -ies."
+      },
+      "options": [
+        "babys",
+        "babies",
+        "baby",
+        "babyes"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-mc-009",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "She ___ to school by bus.",
+      "explanation": "With he, she and it, add -s to the verb: She goes.",
+      "wrongReasons": {
+        "0": "With \"she\" the verb needs -s or -es.",
+        "2": "\"is go\" is not correct in the present simple."
+      },
+      "options": [
+        "go",
+        "goes",
+        "is go"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-mc-010",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The lesson starts ___ nine o'clock.",
+      "explanation": "Use \"at\" with clock times: at nine o'clock.",
+      "wrongReasons": {
+        "1": "\"in\" is used with months, years and parts of the day, not clock times.",
+        "2": "\"on\" is used with days and dates, not clock times."
+      },
+      "options": [
+        "at",
+        "in",
+        "on"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "a1-mc-011",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "This is Anna. ___ bag is red.",
+      "explanation": "Use \"Her\" for a woman's things: Her bag.",
+      "wrongReasons": {
+        "0": "\"His\" is for a man's things. Anna is a woman.",
+        "2": "\"Their\" is for more than one person."
+      },
+      "options": [
+        "His",
+        "Her",
+        "Their"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "a1-mc-012",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ three books on the table.",
+      "explanation": "Use \"There are\" with plural nouns: There are three books.",
+      "wrongReasons": {
+        "0": "\"There is\" is for one thing. \"three books\" is plural.",
+        "2": "\"It is\" does not show that something exists in a place."
+      },
+      "options": [
+        "There is",
+        "There are",
+        "It is"
+      ],
+      "correct": 1
     }
   ]
 }

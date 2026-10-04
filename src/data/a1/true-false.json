@@ -70,6 +70,75 @@
           "answer": false
         }
       ]
+    },
+    {
+      "id": "a1-tf-004",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "passage": "Mia is ten years old. She has a small brown dog called Max. Every morning she walks with Max in the park. In the evening Max sleeps on her bed.",
+      "statements": [
+        {
+          "text": "Mia is eleven years old.",
+          "answer": false
+        },
+        {
+          "text": "Max is a small dog.",
+          "answer": true
+        },
+        {
+          "text": "Max sleeps on the sofa.",
+          "answer": false
+        }
+      ],
+      "explanation": "The text says: \"ten years old\", \"a small brown dog\", \"sleeps on her bed\"."
+    },
+    {
+      "id": "a1-tf-005",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "passage": "We live in a small house near the sea. There are three rooms and a garden. My sister and I play in the garden after school. We do not have a car, so we walk to school.",
+      "statements": [
+        {
+          "text": "The house is near the sea.",
+          "answer": true
+        },
+        {
+          "text": "They have a car.",
+          "answer": false
+        },
+        {
+          "text": "The children play in the garden.",
+          "answer": true
+        }
+      ],
+      "explanation": "The text says: \"near the sea\", \"do not have a car\", \"play in the garden\"."
+    },
+    {
+      "id": "a1-tf-006",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "passage": "Ben works in a restaurant. He starts at ten in the morning. He makes pasta and salad. On Sundays he does not work, and he plays tennis with his father.",
+      "statements": [
+        {
+          "text": "Ben works in a shop.",
+          "answer": false
+        },
+        {
+          "text": "He works on Sundays.",
+          "answer": false
+        },
+        {
+          "text": "He plays tennis with his father.",
+          "answer": true
+        }
+      ],
+      "explanation": "The text says: \"in a restaurant\", \"does not work\" on Sundays, \"plays tennis with his father\"."
     }
   ]
 }

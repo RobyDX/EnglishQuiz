@@ -91,6 +91,96 @@
         "What is time it?"
       ],
       "correct": 1
+    },
+    {
+      "id": "a1-sc-006",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "He am a teacher.",
+        "He is a teacher.",
+        "He are a teacher."
+      ],
+      "correct": 1,
+      "explanation": "Use \"is\" with he: He is a teacher.",
+      "wrongReasons": {
+        "0": "\"am\" is only used with \"I\".",
+        "2": "\"are\" is used with we, you and they."
+      }
+    },
+    {
+      "id": "a1-sc-007",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "She like apples.",
+        "She likes apples.",
+        "She liking apples."
+      ],
+      "correct": 1,
+      "explanation": "With she add -s to the verb: She likes apples.",
+      "wrongReasons": {
+        "0": "With \"she\" the verb needs -s.",
+        "2": "\"liking\" needs \"is\": She is liking. In the present simple use \"likes\"."
+      }
+    },
+    {
+      "id": "a1-sc-008",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "There is two cats here.",
+        "There are two cats here.",
+        "There be two cats here."
+      ],
+      "correct": 1,
+      "explanation": "Use \"There are\" with plural nouns: There are two cats.",
+      "wrongReasons": {
+        "0": "\"There is\" is for one thing. \"two cats\" is plural.",
+        "2": "\"be\" is not used like this. Use \"is\" or \"are\"."
+      }
+    },
+    {
+      "id": "a1-sc-009",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "I no like milk.",
+        "I don't like milk.",
+        "I not like milk."
+      ],
+      "correct": 1,
+      "explanation": "Use \"don't\" + base verb: I don't like milk.",
+      "wrongReasons": {
+        "0": "\"no\" cannot make a negative verb. Use \"don't\".",
+        "2": "\"not\" alone cannot go before \"like\". Use \"don't\"."
+      }
+    },
+    {
+      "id": "a1-sc-010",
+      "type": "sentence-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "Where you live?",
+        "Where do you live?",
+        "Where you do live?"
+      ],
+      "correct": 1,
+      "explanation": "Question word + do + subject + verb: Where do you live?",
+      "wrongReasons": {
+        "0": "The question needs \"do\" before \"you\".",
+        "2": "\"do\" goes before \"you\", not after it."
+      }
     }
   ]
 }

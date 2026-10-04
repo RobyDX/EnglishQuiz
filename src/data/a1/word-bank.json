@@ -112,6 +112,111 @@
       "answers": [
         "his"
       ]
+    },
+    {
+      "id": "a1-wb-006",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence with words from the box.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "text": "You ___ my best friend.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use \"are\" with you: You are.",
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "is": "\"is\" is used with he, she and it."
+      }
+    },
+    {
+      "id": "a1-wb-007",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence with words from the box.",
+      "bank": [
+        "in",
+        "on",
+        "at"
+      ],
+      "text": "My birthday is ___ May.",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Use \"in\" with months: in May.",
+      "wrongReasons": {
+        "on": "\"on\" is used with days and dates, such as on Monday.",
+        "at": "\"at\" is used with clock times, such as at six."
+      }
+    },
+    {
+      "id": "a1-wb-008",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence with words from the box.",
+      "bank": [
+        "my",
+        "your",
+        "his"
+      ],
+      "text": "I have a cat. ___ cat is black.",
+      "answers": [
+        "my"
+      ],
+      "explanation": "\"I\" becomes \"my\": my cat.",
+      "wrongReasons": {
+        "your": "\"your\" belongs to \"you\", not to \"I\".",
+        "his": "\"his\" belongs to a man, not to \"I\"."
+      }
+    },
+    {
+      "id": "a1-wb-009",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence with words from the box.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "He eats ___ orange every day.",
+      "answers": [
+        "an"
+      ],
+      "explanation": "Use \"an\" before a vowel sound: an orange.",
+      "wrongReasons": {
+        "a": "\"a\" is used before a consonant sound. \"orange\" starts with a vowel sound.",
+        "the": "\"the\" points to one known thing. Here the orange is any orange."
+      }
+    },
+    {
+      "id": "a1-wb-010",
+      "type": "word-bank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence with words from the box.",
+      "bank": [
+        "is",
+        "are",
+        "am"
+      ],
+      "text": "There ___ five students in the room.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use \"are\" with plural nouns: There are five students.",
+      "wrongReasons": {
+        "is": "\"is\" is for one thing. \"five students\" is plural.",
+        "am": "\"am\" is only used with \"I\"."
+      }
     }
   ]
 }

@@ -81,6 +81,70 @@
       ],
       "correct": 2,
       "category": "family"
+    },
+    {
+      "id": "a1-oo-006",
+      "type": "odd-one-out",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word does not belong to the group?",
+      "options": [
+        "red",
+        "blue",
+        "table",
+        "green"
+      ],
+      "correct": 2,
+      "category": "colours",
+      "explanation": "Red, blue and green are colours. A table is furniture."
+    },
+    {
+      "id": "a1-oo-007",
+      "type": "odd-one-out",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word does not belong to the group?",
+      "options": [
+        "apple",
+        "banana",
+        "bread",
+        "orange"
+      ],
+      "correct": 2,
+      "category": "fruit",
+      "explanation": "Apple, banana and orange are fruit. Bread is not a fruit."
+    },
+    {
+      "id": "a1-oo-008",
+      "type": "odd-one-out",
+      "level": "A1",
+      "topic": "family",
+      "prompt": "Which word does not belong to the group?",
+      "options": [
+        "uncle",
+        "aunt",
+        "doctor",
+        "cousin"
+      ],
+      "correct": 2,
+      "category": "family",
+      "explanation": "Uncle, aunt and cousin are family members. A doctor is a job."
+    },
+    {
+      "id": "a1-oo-009",
+      "type": "odd-one-out",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word does not belong to the group?",
+      "options": [
+        "Monday",
+        "Friday",
+        "July",
+        "Sunday"
+      ],
+      "correct": 2,
+      "category": "days",
+      "explanation": "Monday, Friday and Sunday are days. July is a month."
     }
   ]
 }

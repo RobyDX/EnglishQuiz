@@ -91,6 +91,96 @@
           "like"
         ]
       ]
+    },
+    {
+      "id": "a1-vc-006",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "Tom ___ (play) the guitar every day.",
+      "answers": [
+        [
+          "plays"
+        ]
+      ],
+      "explanation": "With he, she and it add -s: Tom plays.",
+      "wrongReasons": {
+        "play": "With \"Tom\" (he) the verb needs -s.",
+        "playing": "\"playing\" needs \"is\": Tom is playing."
+      }
+    },
+    {
+      "id": "a1-vc-007",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "My mother ___ (watch) TV in the evening.",
+      "answers": [
+        [
+          "watches"
+        ]
+      ],
+      "explanation": "Verbs ending in -ch add -es with he, she and it: watches.",
+      "wrongReasons": {
+        "watchs": "Verbs ending in -ch add -es, not -s.",
+        "watch": "With \"my mother\" (she) the verb needs -es."
+      }
+    },
+    {
+      "id": "a1-vc-008",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "He doesn't ___ (eat) meat.",
+      "answers": [
+        [
+          "eat"
+        ]
+      ],
+      "explanation": "After \"doesn't\" use the base form: He doesn't eat.",
+      "wrongReasons": {
+        "eats": "After \"doesn't\" the verb has no -s.",
+        "eating": "After \"doesn't\" use the base form, not -ing."
+      }
+    },
+    {
+      "id": "a1-vc-009",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "She is ___ (read) a book now.",
+      "answers": [
+        [
+          "reading"
+        ]
+      ],
+      "explanation": "After \"is\" use the verb + -ing: is reading.",
+      "wrongReasons": {
+        "read": "After \"is\" we need the -ing form.",
+        "reads": "After \"is\" we need the -ing form, not -s."
+      }
+    },
+    {
+      "id": "a1-vc-010",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "The baby ___ (have) blue eyes.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "explanation": "\"have\" changes to \"has\" with he, she and it: The baby has.",
+      "wrongReasons": {
+        "have": "With \"the baby\" (it) use \"has\".",
+        "haves": "\"haves\" is not correct. The form is \"has\"."
+      }
     }
   ]
 }

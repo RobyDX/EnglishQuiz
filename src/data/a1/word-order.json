@@ -113,6 +113,126 @@
           "bike"
         ]
       ]
+    },
+    {
+      "id": "a1-wo-006",
+      "type": "word-order",
+      "level": "A1",
+      "topic": "word-order",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "The order is subject + verb + object: I like pizza.",
+      "words": [
+        "pizza",
+        "like",
+        "I"
+      ],
+      "solutions": [
+        [
+          "I",
+          "like",
+          "pizza"
+        ]
+      ]
+    },
+    {
+      "id": "a1-wo-007",
+      "type": "word-order",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "Put \"not\" after \"is\": She is not at home.",
+      "words": [
+        "home",
+        "at",
+        "not",
+        "is",
+        "She"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "not",
+          "at",
+          "home"
+        ]
+      ]
+    },
+    {
+      "id": "a1-wo-008",
+      "type": "word-order",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "Questions with \"do\" start with Do + subject: Do you have a pen?",
+      "words": [
+        "pen",
+        "a",
+        "have",
+        "you",
+        "Do"
+      ],
+      "solutions": [
+        [
+          "Do",
+          "you",
+          "have",
+          "a",
+          "pen"
+        ]
+      ]
+    },
+    {
+      "id": "a1-wo-009",
+      "type": "word-order",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "Use are + verb-ing: We are playing.",
+      "words": [
+        "park",
+        "the",
+        "in",
+        "playing",
+        "are",
+        "We"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "playing",
+          "in",
+          "the",
+          "park"
+        ]
+      ]
+    },
+    {
+      "id": "a1-wo-010",
+      "type": "word-order",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "Put the words in the correct order.",
+      "explanation": "Adjectives go before nouns: a big dog.",
+      "words": [
+        "dog",
+        "big",
+        "a",
+        "has",
+        "brother",
+        "My"
+      ],
+      "solutions": [
+        [
+          "My",
+          "brother",
+          "has",
+          "a",
+          "big",
+          "dog"
+        ]
+      ]
     }
   ]
 }

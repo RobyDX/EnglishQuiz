@@ -89,6 +89,130 @@
           "are"
         ]
       ]
+    },
+    {
+      "id": "a1-fb-006",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Complete the sentence.",
+      "text": "I ___ ten years old today.",
+      "answers": [
+        [
+          "am"
+        ]
+      ],
+      "explanation": "Use \"am\" with I: I am ten years old.",
+      "wrongReasons": {
+        "is": "\"is\" is used with he, she and it.",
+        "are": "\"are\" is used with we, you and they."
+      }
+    },
+    {
+      "id": "a1-fb-007",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Complete the sentence.",
+      "text": "My dog ___ a long tail.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "explanation": "Use \"has\" with he, she and it: My dog has a long tail.",
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we and they."
+      }
+    },
+    {
+      "id": "a1-fb-008",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "Complete the sentence.",
+      "text": "There ___ a park near my house.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "explanation": "Use \"is\" with one thing: There is a park.",
+      "wrongReasons": {
+        "are": "\"are\" is used with plural nouns. \"a park\" is singular."
+      }
+    },
+    {
+      "id": "a1-fb-009",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "Complete the sentence.",
+      "text": "The book is ___ the table.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "explanation": "Use \"on\" for something touching the top of a surface: on the table.",
+      "wrongReasons": {
+        "in": "\"in\" means inside something.",
+        "at": "\"at\" is used for places like at school, not for a surface."
+      }
+    },
+    {
+      "id": "a1-fb-010",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Complete the sentence.",
+      "text": "They ___ football every Sunday.",
+      "answers": [
+        [
+          "play"
+        ]
+      ],
+      "explanation": "With they use the base verb: They play.",
+      "wrongReasons": {
+        "plays": "\"plays\" is only used with he, she and it.",
+        "playing": "\"playing\" needs \"are\": They are playing."
+      }
+    },
+    {
+      "id": "a1-fb-011",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Complete the sentence.",
+      "text": "We love ___ teacher.",
+      "answers": [
+        [
+          "our"
+        ]
+      ],
+      "explanation": "Use \"our\" for things that belong to we: our teacher.",
+      "wrongReasons": {
+        "my": "\"my\" belongs to I only.",
+        "their": "\"their\" belongs to they, not to we."
+      }
+    },
+    {
+      "id": "a1-fb-012",
+      "type": "fill-blank",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Complete the sentence.",
+      "text": "She is ___ doctor.",
+      "answers": [
+        [
+          "a"
+        ]
+      ],
+      "explanation": "Use \"a\" before a consonant sound with jobs: a doctor.",
+      "wrongReasons": {
+        "an": "\"an\" is used before a vowel sound. \"doctor\" starts with a consonant.",
+        "the": "\"the\" points to a known person. Here we say her job."
+      }
     }
   ]
 }

@@ -79,6 +79,84 @@
           "right": "makes food"
         }
       ]
+    },
+    {
+      "id": "a1-mp-004",
+      "type": "match-pairs",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Match each word with its opposite.",
+      "explanation": "Opposites have the opposite meaning.",
+      "pairs": [
+        {
+          "left": "big",
+          "right": "small"
+        },
+        {
+          "left": "hot",
+          "right": "cold"
+        },
+        {
+          "left": "old",
+          "right": "new"
+        },
+        {
+          "left": "happy",
+          "right": "sad"
+        }
+      ]
+    },
+    {
+      "id": "a1-mp-005",
+      "type": "match-pairs",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Match each animal with the sound or place it is linked to.",
+      "explanation": "Each animal has a typical home or action.",
+      "pairs": [
+        {
+          "left": "fish",
+          "right": "swims in water"
+        },
+        {
+          "left": "bird",
+          "right": "flies in the sky"
+        },
+        {
+          "left": "cow",
+          "right": "lives on a farm"
+        },
+        {
+          "left": "dog",
+          "right": "barks"
+        }
+      ]
+    },
+    {
+      "id": "a1-mp-006",
+      "type": "match-pairs",
+      "level": "A1",
+      "topic": "jobs",
+      "prompt": "Match each place with the person who works there.",
+      "explanation": "Each place has a typical worker.",
+      "pairs": [
+        {
+          "left": "restaurant",
+          "right": "waiter"
+        },
+        {
+          "left": "hospital",
+          "right": "nurse"
+        },
+        {
+          "left": "school",
+          "right": "teacher"
+        },
+        {
+          "left": "farm",
+          "right": "farmer"
+        }
+      ]
     }
   ]
 }
