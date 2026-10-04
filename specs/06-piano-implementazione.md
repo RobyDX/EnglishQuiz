@@ -6,7 +6,7 @@ Ordine di lavoro. Ogni fase termina con test verdi e `npm run build` funzionante
 - [x] Progetto Vite + React + TS **dentro `src/`** (root = `src/`), `build.outDir = '../build'`, `base: './'`
 - [x] Dipendenze: `react-bootstrap`, `bootstrap`, `react-router-dom`, `vite-plugin-pwa`, `vitest`, `@testing-library/react`. (ESLint/Prettier non installati: lint = `tsc --noEmit`)
 - [x] `dev.bat` e `build.bat` nella radice per avviare la modalità dev e fare la build
-- [x] `.gitignore` (node_modules, build), script npm: `dev`, `build`, `preview`, `test`, `lint`
+- [x] `.gitignore` (node_modules; `build/` è versionato, vedi decisione 25), script npm: `dev`, `build`, `preview`, `test`, `lint`
 
 ## Fase 1 – Motore (logica pura, TDD)
 - [x] Tipi in `src/types/`

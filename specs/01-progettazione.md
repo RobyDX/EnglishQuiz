@@ -54,7 +54,7 @@ Web app **SPA + PWA**, interamente **front-end** (nessun backend), per esercitar
 ```
 EnglishQuiz/
 ├─ specs/                  # documentazione (questa cartella)
-├─ build/                  # output di `npm run build` (NON modificare a mano, in .gitignore)
+├─ build/                  # output di `npm run build` (NON modificare a mano; è versionato in git)
 ├─ CLAUDE.md, .gitignore, README.md
 └─ src/                    # TUTTO il progetto
    ├─ package.json, package-lock.json, node_modules/
@@ -76,7 +76,7 @@ EnglishQuiz/
 
 Regole:
 - I comandi npm si eseguono **dentro `src/`**. Vite usa `src/` come root e scrive la build in `../build` (`build.outDir = '../build'`).
-- `build/` è un artefatto: non si edita, è in `.gitignore`.
+- `build/` è un artefatto: non si edita a mano, ma **è versionato** (non è in `.gitignore`); va rigenerato con `npm run build` e committato quando cambia il codice o i contenuti.
 - La logica di correzione è in `src/engine/` ed è **pura** (niente React) per essere testabile.
 
 ## 5. Architettura
