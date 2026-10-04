@@ -181,6 +181,3440 @@
         "have": "With \"the baby\" (it) use \"has\".",
         "haves": "\"haves\" is not correct. The form is \"has\"."
       }
+    },
+    {
+      "id": "a1-vc-011",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: my parents read.",
+      "text": "My parents usually ___ (read) the newspaper.",
+      "answers": [
+        [
+          "read"
+        ]
+      ],
+      "wrongReasons": {
+        "reads": "\"reads\" is for he, she, it and one person. With \"my parents\" we use the base form \"read\".",
+        "reading": "\"reading\" needs \"are\" before it. A routine uses the present simple: read."
+      }
+    },
+    {
+      "id": "a1-vc-012",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Jack learns.",
+      "text": "Jack ___ (learn) French at weekends.",
+      "answers": [
+        [
+          "learns"
+        ]
+      ],
+      "wrongReasons": {
+        "learn": "With \"Jack\" the verb needs -s/-es/-ies: learns.",
+        "learnes": "Most verbs just add -s: learns.",
+        "learning": "\"learning\" needs \"is\" before it. A routine uses the present simple: learns."
+      }
+    },
+    {
+      "id": "a1-vc-013",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: Sam and I write.",
+      "text": "Sam and I often ___ (write) emails.",
+      "answers": [
+        [
+          "write"
+        ]
+      ],
+      "wrongReasons": {
+        "writes": "\"writes\" is for he, she, it and one person. With \"Sam and I\" we use the base form \"write\".",
+        "writing": "\"writing\" needs \"are\" before it. A routine uses the present simple: write."
+      }
+    },
+    {
+      "id": "a1-vc-014",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Lily flies.",
+      "text": "Lily sometimes ___ (fly) a kite.",
+      "answers": [
+        [
+          "flies"
+        ]
+      ],
+      "wrongReasons": {
+        "fly": "With \"Lily\" the verb needs -s/-es/-ies: flies.",
+        "flys": "After a consonant + y, change y to -ies: flies.",
+        "flying": "\"flying\" needs \"is\" before it. A routine uses the present simple: flies."
+      }
+    },
+    {
+      "id": "a1-vc-015",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Maya rides.",
+      "text": "Maya ___ (ride) a bike at weekends.",
+      "answers": [
+        [
+          "rides"
+        ]
+      ],
+      "wrongReasons": {
+        "ride": "With \"Maya\" the verb needs -s/-es/-ies: rides.",
+        "ridees": "Most verbs just add -s: rides.",
+        "riding": "\"riding\" needs \"is\" before it. A routine uses the present simple: rides."
+      }
+    },
+    {
+      "id": "a1-vc-016",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: my father swims.",
+      "text": "My father often ___ (swim) in the sea.",
+      "answers": [
+        [
+          "swims"
+        ]
+      ],
+      "wrongReasons": {
+        "swim": "With \"my father\" the verb needs -s/-es/-ies: swims.",
+        "swimes": "Most verbs just add -s: swims.",
+        "swimming": "\"swimming\" needs \"is\" before it. A routine uses the present simple: swims."
+      }
+    },
+    {
+      "id": "a1-vc-017",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Mark asks.",
+      "text": "Mark ___ (ask) questions every week.",
+      "answers": [
+        [
+          "asks"
+        ]
+      ],
+      "wrongReasons": {
+        "ask": "With \"Mark\" the verb needs -s/-es/-ies: asks.",
+        "askes": "Most verbs just add -s: asks.",
+        "asking": "\"asking\" needs \"is\" before it. A routine uses the present simple: asks."
+      }
+    },
+    {
+      "id": "a1-vc-018",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Anna watches.",
+      "text": "Anna ___ (watch) TV on Sundays.",
+      "answers": [
+        [
+          "watches"
+        ]
+      ],
+      "wrongReasons": {
+        "watch": "With \"Anna\" the verb needs -s/-es/-ies: watches.",
+        "watchs": "Verbs ending in -ch add -es: watches.",
+        "watching": "\"watching\" needs \"is\" before it. A routine uses the present simple: watches."
+      }
+    },
+    {
+      "id": "a1-vc-019",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Omar speaks.",
+      "text": "Omar sometimes ___ (speak) Spanish.",
+      "answers": [
+        [
+          "speaks"
+        ]
+      ],
+      "wrongReasons": {
+        "speak": "With \"Omar\" the verb needs -s/-es/-ies: speaks.",
+        "speakes": "Most verbs just add -s: speaks.",
+        "speaking": "\"speaking\" needs \"is\" before it. A routine uses the present simple: speaks."
+      }
+    },
+    {
+      "id": "a1-vc-020",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Tom works.",
+      "text": "Tom ___ (work) in an office every week.",
+      "answers": [
+        [
+          "works"
+        ]
+      ],
+      "wrongReasons": {
+        "work": "With \"Tom\" the verb needs -s/-es/-ies: works.",
+        "workes": "Most verbs just add -s: works.",
+        "working": "\"working\" needs \"is\" before it. A routine uses the present simple: works."
+      }
+    },
+    {
+      "id": "a1-vc-021",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Emma eats.",
+      "text": "Emma sometimes ___ (eat) breakfast.",
+      "answers": [
+        [
+          "eats"
+        ]
+      ],
+      "wrongReasons": {
+        "eat": "With \"Emma\" the verb needs -s/-es/-ies: eats.",
+        "eates": "Most verbs just add -s: eats.",
+        "eating": "\"eating\" needs \"is\" before it. A routine uses the present simple: eats."
+      }
+    },
+    {
+      "id": "a1-vc-022",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: my parents read.",
+      "text": "My parents ___ (read) a book every evening.",
+      "answers": [
+        [
+          "read"
+        ]
+      ],
+      "wrongReasons": {
+        "reads": "\"reads\" is for he, she, it and one person. With \"my parents\" we use the base form \"read\".",
+        "reading": "\"reading\" needs \"are\" before it. A routine uses the present simple: read."
+      }
+    },
+    {
+      "id": "a1-vc-023",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: my mother washes.",
+      "text": "My mother always ___ (wash) the car.",
+      "answers": [
+        [
+          "washes"
+        ]
+      ],
+      "wrongReasons": {
+        "wash": "With \"my mother\" the verb needs -s/-es/-ies: washes.",
+        "washs": "Verbs ending in -sh add -es: washes.",
+        "washing": "\"washing\" needs \"is\" before it. A routine uses the present simple: washes."
+      }
+    },
+    {
+      "id": "a1-vc-024",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Ravi needs.",
+      "text": "Ravi ___ (need) a new bag at weekends.",
+      "answers": [
+        [
+          "needs"
+        ]
+      ],
+      "wrongReasons": {
+        "need": "With \"Ravi\" the verb needs -s/-es/-ies: needs.",
+        "needes": "Most verbs just add -s: needs."
+      }
+    },
+    {
+      "id": "a1-vc-025",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Omar paints.",
+      "text": "Omar often ___ (paint) pictures.",
+      "answers": [
+        [
+          "paints"
+        ]
+      ],
+      "wrongReasons": {
+        "paint": "With \"Omar\" the verb needs -s/-es/-ies: paints.",
+        "paintes": "Most verbs just add -s: paints.",
+        "painting": "\"painting\" needs \"is\" before it. A routine uses the present simple: paints."
+      }
+    },
+    {
+      "id": "a1-vc-026",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: my father loves.",
+      "text": "My father ___ (love) chocolate every day.",
+      "answers": [
+        [
+          "loves"
+        ]
+      ],
+      "wrongReasons": {
+        "love": "With \"my father\" the verb needs -s/-es/-ies: loves.",
+        "lovees": "Most verbs just add -s: loves."
+      }
+    },
+    {
+      "id": "a1-vc-027",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: my father runs.",
+      "text": "My father usually ___ (run) to the shop.",
+      "answers": [
+        [
+          "runs"
+        ]
+      ],
+      "wrongReasons": {
+        "run": "With \"my father\" the verb needs -s/-es/-ies: runs.",
+        "runes": "Most verbs just add -s: runs.",
+        "running": "\"running\" needs \"is\" before it. A routine uses the present simple: runs."
+      }
+    },
+    {
+      "id": "a1-vc-028",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: the children buy.",
+      "text": "The children always ___ (buy) fruit at the market.",
+      "answers": [
+        [
+          "buy"
+        ]
+      ],
+      "wrongReasons": {
+        "buys": "\"buys\" is for he, she, it and one person. With \"the children\" we use the base form \"buy\".",
+        "buying": "\"buying\" needs \"are\" before it. A routine uses the present simple: buy."
+      }
+    },
+    {
+      "id": "a1-vc-029",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: my father paints.",
+      "text": "My father often ___ (paint) pictures.",
+      "answers": [
+        [
+          "paints"
+        ]
+      ],
+      "wrongReasons": {
+        "paint": "With \"my father\" the verb needs -s/-es/-ies: paints.",
+        "paintes": "Most verbs just add -s: paints.",
+        "painting": "\"painting\" needs \"is\" before it. A routine uses the present simple: paints."
+      }
+    },
+    {
+      "id": "a1-vc-030",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Jack washes.",
+      "text": "Jack sometimes ___ (wash) the car.",
+      "answers": [
+        [
+          "washes"
+        ]
+      ],
+      "wrongReasons": {
+        "wash": "With \"Jack\" the verb needs -s/-es/-ies: washes.",
+        "washs": "Verbs ending in -sh add -es: washes.",
+        "washing": "\"washing\" needs \"is\" before it. A routine uses the present simple: washes."
+      }
+    },
+    {
+      "id": "a1-vc-031",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: my sister swims.",
+      "text": "My sister sometimes ___ (swim) in the sea.",
+      "answers": [
+        [
+          "swims"
+        ]
+      ],
+      "wrongReasons": {
+        "swim": "With \"my sister\" the verb needs -s/-es/-ies: swims.",
+        "swimes": "Most verbs just add -s: swims.",
+        "swimming": "\"swimming\" needs \"is\" before it. A routine uses the present simple: swims."
+      }
+    },
+    {
+      "id": "a1-vc-032",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Emma passes.",
+      "text": "Emma usually ___ (pass) the ball.",
+      "answers": [
+        [
+          "passes"
+        ]
+      ],
+      "wrongReasons": {
+        "pass": "With \"Emma\" the verb needs -s/-es/-ies: passes.",
+        "passs": "Verbs ending in -ss add -es: passes.",
+        "passing": "\"passing\" needs \"is\" before it. A routine uses the present simple: passes."
+      }
+    },
+    {
+      "id": "a1-vc-033",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Zoe plays.",
+      "text": "Zoe ___ (play) tennis every week.",
+      "answers": [
+        [
+          "plays"
+        ]
+      ],
+      "wrongReasons": {
+        "play": "With \"Zoe\" the verb needs -s/-es/-ies: plays.",
+        "plaies": "After a vowel + y we just add -s: plays.",
+        "playing": "\"playing\" needs \"is\" before it. A routine uses the present simple: plays."
+      }
+    },
+    {
+      "id": "a1-vc-034",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Mark flies.",
+      "text": "Mark sometimes ___ (fly) a kite.",
+      "answers": [
+        [
+          "flies"
+        ]
+      ],
+      "wrongReasons": {
+        "fly": "With \"Mark\" the verb needs -s/-es/-ies: flies.",
+        "flys": "After a consonant + y, change y to -ies: flies.",
+        "flying": "\"flying\" needs \"is\" before it. A routine uses the present simple: flies."
+      }
+    },
+    {
+      "id": "a1-vc-035",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Omar cooks.",
+      "text": "Omar always ___ (cook) dinner.",
+      "answers": [
+        [
+          "cooks"
+        ]
+      ],
+      "wrongReasons": {
+        "cook": "With \"Omar\" the verb needs -s/-es/-ies: cooks.",
+        "cookes": "Most verbs just add -s: cooks.",
+        "cooking": "\"cooking\" needs \"is\" before it. A routine uses the present simple: cooks."
+      }
+    },
+    {
+      "id": "a1-vc-036",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Emma goes.",
+      "text": "Emma ___ (go) to school by bus on Sundays.",
+      "answers": [
+        [
+          "goes"
+        ]
+      ],
+      "wrongReasons": {
+        "go": "With \"Emma\" the verb needs -s/-es/-ies: goes.",
+        "gos": "Verbs ending in -o add -es: goes.",
+        "going": "\"going\" needs \"is\" before it. A routine uses the present simple: goes."
+      }
+    },
+    {
+      "id": "a1-vc-037",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Tom wants.",
+      "text": "Tom always ___ (want) a new phone.",
+      "answers": [
+        [
+          "wants"
+        ]
+      ],
+      "wrongReasons": {
+        "want": "With \"Tom\" the verb needs -s/-es/-ies: wants.",
+        "wantes": "Most verbs just add -s: wants."
+      }
+    },
+    {
+      "id": "a1-vc-038",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: my friends fly.",
+      "text": "My friends sometimes ___ (fly) a kite.",
+      "answers": [
+        [
+          "fly"
+        ]
+      ],
+      "wrongReasons": {
+        "flies": "\"flies\" is for he, she, it and one person. With \"my friends\" we use the base form \"fly\".",
+        "flying": "\"flying\" needs \"are\" before it. A routine uses the present simple: fly."
+      }
+    },
+    {
+      "id": "a1-vc-039",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Hugo asks.",
+      "text": "Hugo always ___ (ask) questions.",
+      "answers": [
+        [
+          "asks"
+        ]
+      ],
+      "wrongReasons": {
+        "ask": "With \"Hugo\" the verb needs -s/-es/-ies: asks.",
+        "askes": "Most verbs just add -s: asks.",
+        "asking": "\"asking\" needs \"is\" before it. A routine uses the present simple: asks."
+      }
+    },
+    {
+      "id": "a1-vc-040",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: Sam and I wait.",
+      "text": "Sam and I often ___ (wait) for the bus.",
+      "answers": [
+        [
+          "wait"
+        ]
+      ],
+      "wrongReasons": {
+        "waits": "\"waits\" is for he, she, it and one person. With \"Sam and I\" we use the base form \"wait\".",
+        "waiting": "\"waiting\" needs \"are\" before it. A routine uses the present simple: wait."
+      }
+    },
+    {
+      "id": "a1-vc-041",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Emma rides.",
+      "text": "Emma usually ___ (ride) a bike.",
+      "answers": [
+        [
+          "rides"
+        ]
+      ],
+      "wrongReasons": {
+        "ride": "With \"Emma\" the verb needs -s/-es/-ies: rides.",
+        "ridees": "Most verbs just add -s: rides.",
+        "riding": "\"riding\" needs \"is\" before it. A routine uses the present simple: rides."
+      }
+    },
+    {
+      "id": "a1-vc-042",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Eva swims.",
+      "text": "Eva always ___ (swim) in a pool.",
+      "answers": [
+        [
+          "swims"
+        ]
+      ],
+      "wrongReasons": {
+        "swim": "With \"Eva\" the verb needs -s/-es/-ies: swims.",
+        "swimes": "Most verbs just add -s: swims.",
+        "swimming": "\"swimming\" needs \"is\" before it. A routine uses the present simple: swims."
+      }
+    },
+    {
+      "id": "a1-vc-043",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Ivan washes.",
+      "text": "Ivan sometimes ___ (wash) the car.",
+      "answers": [
+        [
+          "washes"
+        ]
+      ],
+      "wrongReasons": {
+        "wash": "With \"Ivan\" the verb needs -s/-es/-ies: washes.",
+        "washs": "Verbs ending in -sh add -es: washes.",
+        "washing": "\"washing\" needs \"is\" before it. A routine uses the present simple: washes."
+      }
+    },
+    {
+      "id": "a1-vc-044",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: we study.",
+      "text": "We often ___ (study) English.",
+      "answers": [
+        [
+          "study"
+        ]
+      ],
+      "wrongReasons": {
+        "studies": "\"studies\" is for he, she, it and one person. With \"we\" we use the base form \"study\".",
+        "studying": "\"studying\" needs \"are\" before it. A routine uses the present simple: study."
+      }
+    },
+    {
+      "id": "a1-vc-045",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Tom draws.",
+      "text": "Tom ___ (draw) animals every day.",
+      "answers": [
+        [
+          "draws"
+        ]
+      ],
+      "wrongReasons": {
+        "draw": "With \"Tom\" the verb needs -s/-es/-ies: draws.",
+        "drawes": "Most verbs just add -s: draws.",
+        "drawing": "\"drawing\" needs \"is\" before it. A routine uses the present simple: draws."
+      }
+    },
+    {
+      "id": "a1-vc-046",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: Ben and Lucy speak.",
+      "text": "Ben and Lucy ___ (speak) French every day.",
+      "answers": [
+        [
+          "speak"
+        ]
+      ],
+      "wrongReasons": {
+        "speaks": "\"speaks\" is for he, she, it and one person. With \"Ben and Lucy\" we use the base form \"speak\".",
+        "speaking": "\"speaking\" needs \"are\" before it. A routine uses the present simple: speak."
+      }
+    },
+    {
+      "id": "a1-vc-047",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: the boys like.",
+      "text": "The boys often ___ (like) pizza.",
+      "answers": [
+        [
+          "like"
+        ]
+      ],
+      "wrongReasons": {
+        "likes": "\"likes\" is for he, she, it and one person. With \"the boys\" we use the base form \"like\"."
+      }
+    },
+    {
+      "id": "a1-vc-048",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: she loves.",
+      "text": "She sometimes ___ (love) chocolate.",
+      "answers": [
+        [
+          "loves"
+        ]
+      ],
+      "wrongReasons": {
+        "love": "With \"she\" the verb needs -s/-es/-ies: loves.",
+        "lovees": "Most verbs just add -s: loves."
+      }
+    },
+    {
+      "id": "a1-vc-049",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Tom learns.",
+      "text": "Tom ___ (learn) French every week.",
+      "answers": [
+        [
+          "learns"
+        ]
+      ],
+      "wrongReasons": {
+        "learn": "With \"Tom\" the verb needs -s/-es/-ies: learns.",
+        "learnes": "Most verbs just add -s: learns.",
+        "learning": "\"learning\" needs \"is\" before it. A routine uses the present simple: learns."
+      }
+    },
+    {
+      "id": "a1-vc-050",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Ben makes.",
+      "text": "Ben sometimes ___ (make) tea.",
+      "answers": [
+        [
+          "makes"
+        ]
+      ],
+      "wrongReasons": {
+        "make": "With \"Ben\" the verb needs -s/-es/-ies: makes.",
+        "makees": "Most verbs just add -s: makes.",
+        "making": "\"making\" needs \"is\" before it. A routine uses the present simple: makes."
+      }
+    },
+    {
+      "id": "a1-vc-051",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Emma wants.",
+      "text": "Emma sometimes ___ (want) some water.",
+      "answers": [
+        [
+          "wants"
+        ]
+      ],
+      "wrongReasons": {
+        "want": "With \"Emma\" the verb needs -s/-es/-ies: wants.",
+        "wantes": "Most verbs just add -s: wants."
+      }
+    },
+    {
+      "id": "a1-vc-052",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Ravi rides.",
+      "text": "Ravi ___ (ride) a horse every day.",
+      "answers": [
+        [
+          "rides"
+        ]
+      ],
+      "wrongReasons": {
+        "ride": "With \"Ravi\" the verb needs -s/-es/-ies: rides.",
+        "ridees": "Most verbs just add -s: rides.",
+        "riding": "\"riding\" needs \"is\" before it. A routine uses the present simple: rides."
+      }
+    },
+    {
+      "id": "a1-vc-053",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: I read.",
+      "text": "I ___ (read) a book at weekends.",
+      "answers": [
+        [
+          "read"
+        ]
+      ],
+      "wrongReasons": {
+        "reads": "\"reads\" is for he, she, it and one person. With \"I\" we use the base form \"read\".",
+        "reading": "\"reading\" needs \"am\" before it. A routine uses the present simple: read."
+      }
+    },
+    {
+      "id": "a1-vc-054",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Ivan finishes.",
+      "text": "Ivan ___ (finish) work every day.",
+      "answers": [
+        [
+          "finishes"
+        ]
+      ],
+      "wrongReasons": {
+        "finish": "With \"Ivan\" the verb needs -s/-es/-ies: finishes.",
+        "finishs": "Verbs ending in -sh add -es: finishes.",
+        "finishing": "\"finishing\" needs \"is\" before it. A routine uses the present simple: finishes."
+      }
+    },
+    {
+      "id": "a1-vc-055",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: Tom and Anna want.",
+      "text": "Tom and Anna ___ (want) a new phone every evening.",
+      "answers": [
+        [
+          "want"
+        ]
+      ],
+      "wrongReasons": {
+        "wants": "\"wants\" is for he, she, it and one person. With \"Tom and Anna\" we use the base form \"want\"."
+      }
+    },
+    {
+      "id": "a1-vc-056",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: my parents try.",
+      "text": "My parents ___ (try) new food at weekends.",
+      "answers": [
+        [
+          "try"
+        ]
+      ],
+      "wrongReasons": {
+        "tries": "\"tries\" is for he, she, it and one person. With \"my parents\" we use the base form \"try\".",
+        "trying": "\"trying\" needs \"are\" before it. A routine uses the present simple: try."
+      }
+    },
+    {
+      "id": "a1-vc-057",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Eva drives.",
+      "text": "Eva usually ___ (drive) to work.",
+      "answers": [
+        [
+          "drives"
+        ]
+      ],
+      "wrongReasons": {
+        "drive": "With \"Eva\" the verb needs -s/-es/-ies: drives.",
+        "drivees": "Most verbs just add -s: drives.",
+        "driving": "\"driving\" needs \"is\" before it. A routine uses the present simple: drives."
+      }
+    },
+    {
+      "id": "a1-vc-058",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: He is at the door.",
+      "text": "He ___ (be) at the door.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"he\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-059",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Our teacher is busy.",
+      "text": "Our teacher ___ (be) busy.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"our teacher\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-060",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Lily is in the garden.",
+      "text": "Lily ___ (be) in the garden.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Lily\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-061",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: The cat is tired.",
+      "text": "The cat ___ (be) tired.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"the cat\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-062",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Paul is in the classroom.",
+      "text": "Paul ___ (be) in the classroom.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Paul\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-063",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: You are at home.",
+      "text": "You ___ (be) at home.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "is": "\"is\" is only for he, she, it and one person or thing. With \"you\" we use \"are\"."
+      }
+    },
+    {
+      "id": "a1-vc-064",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: We are at home.",
+      "text": "We ___ (be) at home.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "is": "\"is\" is only for he, she, it and one person or thing. With \"we\" we use \"are\"."
+      }
+    },
+    {
+      "id": "a1-vc-065",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: The dog is in the car.",
+      "text": "The dog ___ (be) in the car.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"the dog\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-066",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: My parents are ten years old.",
+      "text": "My parents ___ (be) ten years old.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "is": "\"is\" is only for he, she, it and one person or thing. With \"my parents\" we use \"are\"."
+      }
+    },
+    {
+      "id": "a1-vc-067",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Ivan is at work.",
+      "text": "Ivan ___ (be) at work.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Ivan\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-068",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Mark is at home.",
+      "text": "Mark ___ (be) at home.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Mark\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-069",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: My brother is kind.",
+      "text": "My brother ___ (be) kind.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"my brother\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-070",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Omar is nice.",
+      "text": "Omar ___ (be) nice.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Omar\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-071",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Lucy is in the garden.",
+      "text": "Lucy ___ (be) in the garden.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Lucy\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-072",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: My brother is tired.",
+      "text": "My brother ___ (be) tired.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"my brother\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-073",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: My sister is angry.",
+      "text": "My sister ___ (be) angry.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"my sister\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-074",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Tom is ten years old.",
+      "text": "Tom ___ (be) ten years old.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"Tom\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-075",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: My father is hungry.",
+      "text": "My father ___ (be) hungry.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"my father\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-076",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: He is at home.",
+      "text": "He ___ (be) at home.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "are": "\"are\" is only for you, we, they and more than one person or thing. With \"he\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-vc-077",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: The children are hungry.",
+      "text": "The children ___ (be) hungry.",
+      "answers": [
+        [
+          "are"
+        ]
+      ],
+      "wrongReasons": {
+        "am": "\"am\" is only used with \"I\".",
+        "is": "\"is\" is only for he, she, it and one person or thing. With \"the children\" we use \"are\"."
+      }
+    },
+    {
+      "id": "a1-vc-078",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"has\" with he, she, it and one person: Rosa has a big room.",
+      "text": "Rosa ___ (have) a big room.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Rosa\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-079",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"has\" with he, she, it and one person: Lucy has a big house.",
+      "text": "Lucy ___ (have) a big house.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Lucy\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-080",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"has\" with he, she, it and one person: Nina has two good friends.",
+      "text": "Nina ___ (have) two good friends.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Nina\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-081",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"has\" with he, she, it and one person: Maya has a good friend.",
+      "text": "Maya ___ (have) a good friend.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Maya\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-082",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: The girls have a sister.",
+      "text": "The girls ___ (have) a sister.",
+      "answers": [
+        [
+          "have"
+        ]
+      ],
+      "wrongReasons": {
+        "has": "\"has\" is only for he, she, it and one person. \"the girls\" needs \"have\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-083",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"has\" with he, she, it and one person: Tom has a new phone.",
+      "text": "Tom ___ (have) a new phone.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Tom\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-084",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: Sam and I have a good friend.",
+      "text": "Sam and I ___ (have) a good friend.",
+      "answers": [
+        [
+          "have"
+        ]
+      ],
+      "wrongReasons": {
+        "has": "\"has\" is only for he, she, it and one person. \"Sam and I\" needs \"have\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-085",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"has\" with he, she, it and one person: Lily has a funny hat.",
+      "text": "Lily ___ (have) a funny hat.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Lily\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-086",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"has\" with he, she, it and one person: My brother has a big house.",
+      "text": "My brother ___ (have) a big house.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"my brother\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-087",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"has\" with he, she, it and one person: Eva has a big family.",
+      "text": "Eva ___ (have) a big family.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Eva\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-088",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: The girls have a big house.",
+      "text": "The girls ___ (have) a big house.",
+      "answers": [
+        [
+          "have"
+        ]
+      ],
+      "wrongReasons": {
+        "has": "\"has\" is only for he, she, it and one person. \"the girls\" needs \"have\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-089",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"has\" with he, she, it and one person: Tom has a sister.",
+      "text": "Tom ___ (have) a sister.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Tom\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-090",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: Ben and Lucy have a red bike.",
+      "text": "Ben and Lucy ___ (have) a red bike.",
+      "answers": [
+        [
+          "have"
+        ]
+      ],
+      "wrongReasons": {
+        "has": "\"has\" is only for he, she, it and one person. \"Ben and Lucy\" needs \"have\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-091",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"has\" with he, she, it and one person: My brother has a new phone.",
+      "text": "My brother ___ (have) a new phone.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"my brother\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-092",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use \"has\" with he, she, it and one person: Eva has a blue bag.",
+      "text": "Eva ___ (have) a blue bag.",
+      "answers": [
+        [
+          "has"
+        ]
+      ],
+      "wrongReasons": {
+        "have": "\"have\" is used with I, you, we, they and plural subjects. \"Eva\" needs \"has\".",
+        "haves": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-vc-093",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use don't + base verb: I don't want some water.",
+      "text": "I don't ___ (want) some water.",
+      "answers": [
+        [
+          "want"
+        ]
+      ],
+      "wrongReasons": {
+        "wants": "After \"don't\" the verb stays in the base form: don't want."
+      }
+    },
+    {
+      "id": "a1-vc-094",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Leo doesn't visit a museum.",
+      "text": "Leo ___ (not / visit) a museum.",
+      "answers": [
+        [
+          "doesn't visit",
+          "does not visit"
+        ]
+      ],
+      "wrongReasons": {
+        "not visit": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "doesn't visits": "After \"doesn't\" the verb stays in the base form: visit."
+      }
+    },
+    {
+      "id": "a1-vc-095",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use don't + base verb: I don't drink milk.",
+      "text": "I ___ (not / drink) milk.",
+      "answers": [
+        [
+          "don't drink",
+          "do not drink"
+        ]
+      ],
+      "wrongReasons": {
+        "not drink": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "don't drinks": "After \"don't\" the verb stays in the base form: drink."
+      }
+    },
+    {
+      "id": "a1-vc-096",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use don't + base verb: We don't love music.",
+      "text": "We don't ___ (love) music.",
+      "answers": [
+        [
+          "love"
+        ]
+      ],
+      "wrongReasons": {
+        "loves": "After \"don't\" the verb stays in the base form: don't love."
+      }
+    },
+    {
+      "id": "a1-vc-097",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: My father doesn't read the newspaper.",
+      "text": "My father ___ (not / read) the newspaper.",
+      "answers": [
+        [
+          "doesn't read",
+          "does not read"
+        ]
+      ],
+      "wrongReasons": {
+        "not read": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "doesn't reads": "After \"doesn't\" the verb stays in the base form: read."
+      }
+    },
+    {
+      "id": "a1-vc-098",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Maya doesn't cook rice.",
+      "text": "Maya ___ (not / cook) rice.",
+      "answers": [
+        [
+          "doesn't cook",
+          "does not cook"
+        ]
+      ],
+      "wrongReasons": {
+        "not cook": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "doesn't cooks": "After \"doesn't\" the verb stays in the base form: cook."
+      }
+    },
+    {
+      "id": "a1-vc-099",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Emma doesn't fix old bikes.",
+      "text": "Emma doesn't ___ (fix) old bikes.",
+      "answers": [
+        [
+          "fix"
+        ]
+      ],
+      "wrongReasons": {
+        "fixes": "After \"doesn't\" the verb has no -s: doesn't fix.",
+        "fixing": "After \"doesn't\" use the base form, not -ing: doesn't fix."
+      }
+    },
+    {
+      "id": "a1-vc-100",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: She doesn't read a book.",
+      "text": "She doesn't ___ (read) a book.",
+      "answers": [
+        [
+          "read"
+        ]
+      ],
+      "wrongReasons": {
+        "reads": "After \"doesn't\" the verb has no -s: doesn't read.",
+        "reading": "After \"doesn't\" use the base form, not -ing: doesn't read."
+      }
+    },
+    {
+      "id": "a1-vc-101",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Jack doesn't teach music.",
+      "text": "Jack ___ (not / teach) music.",
+      "answers": [
+        [
+          "doesn't teach",
+          "does not teach"
+        ]
+      ],
+      "wrongReasons": {
+        "not teach": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "doesn't teaches": "After \"doesn't\" the verb stays in the base form: teach."
+      }
+    },
+    {
+      "id": "a1-vc-102",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Jack doesn't clean the kitchen.",
+      "text": "Jack doesn't ___ (clean) the kitchen.",
+      "answers": [
+        [
+          "clean"
+        ]
+      ],
+      "wrongReasons": {
+        "cleans": "After \"doesn't\" the verb has no -s: doesn't clean.",
+        "cleaning": "After \"doesn't\" use the base form, not -ing: doesn't clean."
+      }
+    },
+    {
+      "id": "a1-vc-103",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use don't + base verb: The boys don't need a new bag.",
+      "text": "The boys don't ___ (need) a new bag.",
+      "answers": [
+        [
+          "need"
+        ]
+      ],
+      "wrongReasons": {
+        "needs": "After \"don't\" the verb stays in the base form: don't need."
+      }
+    },
+    {
+      "id": "a1-vc-104",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use don't + base verb: You don't write emails.",
+      "text": "You ___ (not / write) emails.",
+      "answers": [
+        [
+          "don't write",
+          "do not write"
+        ]
+      ],
+      "wrongReasons": {
+        "not write": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "don't writes": "After \"don't\" the verb stays in the base form: write."
+      }
+    },
+    {
+      "id": "a1-vc-105",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: My mother doesn't make tea.",
+      "text": "My mother ___ (not / make) tea.",
+      "answers": [
+        [
+          "doesn't make",
+          "does not make"
+        ]
+      ],
+      "wrongReasons": {
+        "not make": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "doesn't makes": "After \"doesn't\" the verb stays in the base form: make."
+      }
+    },
+    {
+      "id": "a1-vc-106",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Mia doesn't help the teacher.",
+      "text": "Mia doesn't ___ (help) the teacher.",
+      "answers": [
+        [
+          "help"
+        ]
+      ],
+      "wrongReasons": {
+        "helps": "After \"doesn't\" the verb has no -s: doesn't help.",
+        "helping": "After \"doesn't\" use the base form, not -ing: doesn't help."
+      }
+    },
+    {
+      "id": "a1-vc-107",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use don't + base verb: Ben and Lucy don't teach English.",
+      "text": "Ben and Lucy ___ (not / teach) English.",
+      "answers": [
+        [
+          "don't teach",
+          "do not teach"
+        ]
+      ],
+      "wrongReasons": {
+        "not teach": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "don't teaches": "After \"don't\" the verb stays in the base form: teach."
+      }
+    },
+    {
+      "id": "a1-vc-108",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use don't + base verb: They don't love chocolate.",
+      "text": "They don't ___ (love) chocolate.",
+      "answers": [
+        [
+          "love"
+        ]
+      ],
+      "wrongReasons": {
+        "loves": "After \"don't\" the verb stays in the base form: don't love."
+      }
+    },
+    {
+      "id": "a1-vc-109",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Kate doesn't walk to work.",
+      "text": "Kate doesn't ___ (walk) to work.",
+      "answers": [
+        [
+          "walk"
+        ]
+      ],
+      "wrongReasons": {
+        "walks": "After \"doesn't\" the verb has no -s: doesn't walk.",
+        "walking": "After \"doesn't\" use the base form, not -ing: doesn't walk."
+      }
+    },
+    {
+      "id": "a1-vc-110",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: She doesn't play tennis.",
+      "text": "She doesn't ___ (play) tennis.",
+      "answers": [
+        [
+          "play"
+        ]
+      ],
+      "wrongReasons": {
+        "plays": "After \"doesn't\" the verb has no -s: doesn't play.",
+        "playing": "After \"doesn't\" use the base form, not -ing: doesn't play."
+      }
+    },
+    {
+      "id": "a1-vc-111",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Our teacher doesn't ride a horse.",
+      "text": "Our teacher ___ (not / ride) a horse.",
+      "answers": [
+        [
+          "doesn't ride",
+          "does not ride"
+        ]
+      ],
+      "wrongReasons": {
+        "not ride": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "doesn't rides": "After \"doesn't\" the verb stays in the base form: ride."
+      }
+    },
+    {
+      "id": "a1-vc-112",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Rosa doesn't like cats.",
+      "text": "Rosa ___ (not / like) cats.",
+      "answers": [
+        [
+          "doesn't like",
+          "does not like"
+        ]
+      ],
+      "wrongReasons": {
+        "not like": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "doesn't likes": "After \"doesn't\" the verb stays in the base form: like."
+      }
+    },
+    {
+      "id": "a1-vc-113",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Jack doesn't drink water.",
+      "text": "Jack doesn't ___ (drink) water.",
+      "answers": [
+        [
+          "drink"
+        ]
+      ],
+      "wrongReasons": {
+        "drinks": "After \"doesn't\" the verb has no -s: doesn't drink.",
+        "drinking": "After \"doesn't\" use the base form, not -ing: doesn't drink."
+      }
+    },
+    {
+      "id": "a1-vc-114",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use don't + base verb: I don't wash the car.",
+      "text": "I don't ___ (wash) the car.",
+      "answers": [
+        [
+          "wash"
+        ]
+      ],
+      "wrongReasons": {
+        "washes": "After \"don't\" the verb stays in the base form: don't wash.",
+        "washing": "After \"don't\" use the base form, not -ing: don't wash."
+      }
+    },
+    {
+      "id": "a1-vc-115",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use don't + base verb: They don't make a cake.",
+      "text": "They ___ (not / make) a cake.",
+      "answers": [
+        [
+          "don't make",
+          "do not make"
+        ]
+      ],
+      "wrongReasons": {
+        "not make": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "don't makes": "After \"don't\" the verb stays in the base form: make."
+      }
+    },
+    {
+      "id": "a1-vc-116",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Lucy doesn't work in a shop.",
+      "text": "Lucy ___ (not / work) in a shop.",
+      "answers": [
+        [
+          "doesn't work",
+          "does not work"
+        ]
+      ],
+      "wrongReasons": {
+        "not work": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "doesn't works": "After \"doesn't\" the verb stays in the base form: work."
+      }
+    },
+    {
+      "id": "a1-vc-117",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Lily doesn't sing songs.",
+      "text": "Lily ___ (not / sing) songs.",
+      "answers": [
+        [
+          "doesn't sing",
+          "does not sing"
+        ]
+      ],
+      "wrongReasons": {
+        "not sing": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "doesn't sings": "After \"doesn't\" the verb stays in the base form: sing."
+      }
+    },
+    {
+      "id": "a1-vc-118",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use don't + base verb: I don't read the newspaper.",
+      "text": "I don't ___ (read) the newspaper.",
+      "answers": [
+        [
+          "read"
+        ]
+      ],
+      "wrongReasons": {
+        "reads": "After \"don't\" the verb stays in the base form: don't read.",
+        "reading": "After \"don't\" use the base form, not -ing: don't read."
+      }
+    },
+    {
+      "id": "a1-vc-119",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Mia doesn't speak French.",
+      "text": "Mia doesn't ___ (speak) French.",
+      "answers": [
+        [
+          "speak"
+        ]
+      ],
+      "wrongReasons": {
+        "speaks": "After \"doesn't\" the verb has no -s: doesn't speak.",
+        "speaking": "After \"doesn't\" use the base form, not -ing: doesn't speak."
+      }
+    },
+    {
+      "id": "a1-vc-120",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "negatives",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the present simple negative use doesn't + base verb: Ben doesn't drive to work.",
+      "text": "Ben ___ (not / drive) to work.",
+      "answers": [
+        [
+          "doesn't drive",
+          "does not drive"
+        ]
+      ],
+      "wrongReasons": {
+        "not drive": "You need \"do\" or \"does\" before \"not\" in a present simple negative.",
+        "doesn't drives": "After \"doesn't\" the verb stays in the base form: drive."
+      }
+    },
+    {
+      "id": "a1-vc-121",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: Where does Kate buy bread?",
+      "text": "Where does Kate ___ (buy) bread?",
+      "answers": [
+        [
+          "buy"
+        ]
+      ],
+      "wrongReasons": {
+        "buys": "After \"does\" the verb stays in the base form: buy."
+      }
+    },
+    {
+      "id": "a1-vc-122",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: What do Ben and Lucy drink in the morning?",
+      "text": "What do Ben and Lucy ___ (drink) in the morning?",
+      "answers": [
+        [
+          "drink"
+        ]
+      ],
+      "wrongReasons": {
+        "drinking": "After \"do\" the verb stays in the base form: drink."
+      }
+    },
+    {
+      "id": "a1-vc-123",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: Where does Jack live?",
+      "text": "Where does Jack ___ (live)?",
+      "answers": [
+        [
+          "live"
+        ]
+      ],
+      "wrongReasons": {
+        "lives": "After \"does\" the verb stays in the base form: live."
+      }
+    },
+    {
+      "id": "a1-vc-124",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: What time do the girls get up?",
+      "text": "What time do the girls ___ (get) up?",
+      "answers": [
+        [
+          "get"
+        ]
+      ],
+      "wrongReasons": {
+        "geting": "After \"do\" the verb stays in the base form: get."
+      }
+    },
+    {
+      "id": "a1-vc-125",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: What do the boys eat for lunch?",
+      "text": "What do the boys ___ (eat) for lunch?",
+      "answers": [
+        [
+          "eat"
+        ]
+      ],
+      "wrongReasons": {
+        "eating": "After \"do\" the verb stays in the base form: eat."
+      }
+    },
+    {
+      "id": "a1-vc-126",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: Where do Sam and I buy bread?",
+      "text": "Where do Sam and I ___ (buy) bread?",
+      "answers": [
+        [
+          "buy"
+        ]
+      ],
+      "wrongReasons": {
+        "buying": "After \"do\" the verb stays in the base form: buy."
+      }
+    },
+    {
+      "id": "a1-vc-127",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: When do Ben and Lucy finish work?",
+      "text": "When do Ben and Lucy ___ (finish) work?",
+      "answers": [
+        [
+          "finish"
+        ]
+      ],
+      "wrongReasons": {
+        "finishing": "After \"do\" the verb stays in the base form: finish."
+      }
+    },
+    {
+      "id": "a1-vc-128",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: Where do we buy bread?",
+      "text": "Where do we ___ (buy) bread?",
+      "answers": [
+        [
+          "buy"
+        ]
+      ],
+      "wrongReasons": {
+        "buying": "After \"do\" the verb stays in the base form: buy."
+      }
+    },
+    {
+      "id": "a1-vc-129",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: What do my parents read in bed?",
+      "text": "What do my parents ___ (read) in bed?",
+      "answers": [
+        [
+          "read"
+        ]
+      ],
+      "wrongReasons": {
+        "reading": "After \"do\" the verb stays in the base form: read."
+      }
+    },
+    {
+      "id": "a1-vc-130",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: What does Zoe read in bed?",
+      "text": "What does Zoe ___ (read) in bed?",
+      "answers": [
+        [
+          "read"
+        ]
+      ],
+      "wrongReasons": {
+        "reads": "After \"does\" the verb stays in the base form: read."
+      }
+    },
+    {
+      "id": "a1-vc-131",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: What time does Maya go to bed?",
+      "text": "What time does Maya ___ (go) to bed?",
+      "answers": [
+        [
+          "go"
+        ]
+      ],
+      "wrongReasons": {
+        "gos": "After \"does\" the verb stays in the base form: go."
+      }
+    },
+    {
+      "id": "a1-vc-132",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: What do Tom and Anna eat for lunch?",
+      "text": "What do Tom and Anna ___ (eat) for lunch?",
+      "answers": [
+        [
+          "eat"
+        ]
+      ],
+      "wrongReasons": {
+        "eating": "After \"do\" the verb stays in the base form: eat."
+      }
+    },
+    {
+      "id": "a1-vc-133",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: Who does Paul visit on Sundays?",
+      "text": "Who does Paul ___ (visit) on Sundays?",
+      "answers": [
+        [
+          "visit"
+        ]
+      ],
+      "wrongReasons": {
+        "visits": "After \"does\" the verb stays in the base form: visit."
+      }
+    },
+    {
+      "id": "a1-vc-134",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: What does Sam eat for lunch?",
+      "text": "What does Sam ___ (eat) for lunch?",
+      "answers": [
+        [
+          "eat"
+        ]
+      ],
+      "wrongReasons": {
+        "eats": "After \"does\" the verb stays in the base form: eat."
+      }
+    },
+    {
+      "id": "a1-vc-135",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: What time does Sara go to bed?",
+      "text": "What time does Sara ___ (go) to bed?",
+      "answers": [
+        [
+          "go"
+        ]
+      ],
+      "wrongReasons": {
+        "gos": "After \"does\" the verb stays in the base form: go."
+      }
+    },
+    {
+      "id": "a1-vc-136",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: Where do Tom and Anna study?",
+      "text": "Where do Tom and Anna ___ (study)?",
+      "answers": [
+        [
+          "study"
+        ]
+      ],
+      "wrongReasons": {
+        "studying": "After \"do\" the verb stays in the base form: study."
+      }
+    },
+    {
+      "id": "a1-vc-137",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: Where does my brother live?",
+      "text": "Where does my brother ___ (live)?",
+      "answers": [
+        [
+          "live"
+        ]
+      ],
+      "wrongReasons": {
+        "lives": "After \"does\" the verb stays in the base form: live."
+      }
+    },
+    {
+      "id": "a1-vc-138",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: Why does Ravi study English?",
+      "text": "Why does Ravi ___ (study) English?",
+      "answers": [
+        [
+          "study"
+        ]
+      ],
+      "wrongReasons": {
+        "studys": "After \"does\" the verb stays in the base form: study."
+      }
+    },
+    {
+      "id": "a1-vc-139",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: What does Eva do at weekends?",
+      "text": "What does Eva ___ (do) at weekends?",
+      "answers": [
+        [
+          "do"
+        ]
+      ],
+      "wrongReasons": {
+        "dos": "After \"does\" the verb stays in the base form: do."
+      }
+    },
+    {
+      "id": "a1-vc-140",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: Where does Tom play tennis?",
+      "text": "Where does Tom ___ (play) tennis?",
+      "answers": [
+        [
+          "play"
+        ]
+      ],
+      "wrongReasons": {
+        "plays": "After \"does\" the verb stays in the base form: play."
+      }
+    },
+    {
+      "id": "a1-vc-141",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: How often does Rosa watch TV?",
+      "text": "How often does Rosa ___ (watch) TV?",
+      "answers": [
+        [
+          "watch"
+        ]
+      ],
+      "wrongReasons": {
+        "watchs": "After \"does\" the verb stays in the base form: watch."
+      }
+    },
+    {
+      "id": "a1-vc-142",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: Where does Omar buy bread?",
+      "text": "Where does Omar ___ (buy) bread?",
+      "answers": [
+        [
+          "buy"
+        ]
+      ],
+      "wrongReasons": {
+        "buys": "After \"does\" the verb stays in the base form: buy."
+      }
+    },
+    {
+      "id": "a1-vc-143",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: Where does Sam work?",
+      "text": "Where does Sam ___ (work)?",
+      "answers": [
+        [
+          "work"
+        ]
+      ],
+      "wrongReasons": {
+        "works": "After \"does\" the verb stays in the base form: work."
+      }
+    },
+    {
+      "id": "a1-vc-144",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: What does Lily drink in the morning?",
+      "text": "What does Lily ___ (drink) in the morning?",
+      "answers": [
+        [
+          "drink"
+        ]
+      ],
+      "wrongReasons": {
+        "drinks": "After \"does\" the verb stays in the base form: drink."
+      }
+    },
+    {
+      "id": "a1-vc-145",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: Where do they buy bread?",
+      "text": "Where do they ___ (buy) bread?",
+      "answers": [
+        [
+          "buy"
+        ]
+      ],
+      "wrongReasons": {
+        "buying": "After \"do\" the verb stays in the base form: buy."
+      }
+    },
+    {
+      "id": "a1-vc-146",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: Where do my friends buy bread?",
+      "text": "Where do my friends ___ (buy) bread?",
+      "answers": [
+        [
+          "buy"
+        ]
+      ],
+      "wrongReasons": {
+        "buying": "After \"do\" the verb stays in the base form: buy."
+      }
+    },
+    {
+      "id": "a1-vc-147",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Do + subject + base verb: How often do Tom and Anna watch TV?",
+      "text": "How often do Tom and Anna ___ (watch) TV?",
+      "answers": [
+        [
+          "watch"
+        ]
+      ],
+      "wrongReasons": {
+        "watching": "After \"do\" the verb stays in the base form: watch."
+      }
+    },
+    {
+      "id": "a1-vc-148",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In a present simple question use Does + subject + base verb: Why does Omar study English?",
+      "text": "Why does Omar ___ (study) English?",
+      "answers": [
+        [
+          "study"
+        ]
+      ],
+      "wrongReasons": {
+        "studys": "After \"does\" the verb stays in the base form: study."
+      }
+    },
+    {
+      "id": "a1-vc-149",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Sam is buying.",
+      "text": "At the moment, Sam ___ (buy) bread.",
+      "answers": [
+        [
+          "is buying"
+        ]
+      ],
+      "wrongReasons": {
+        "buys": "The present simple (\"buys\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"is buying\".",
+        "is buy": "After \"is\" the verb needs -ing: \"is buying\", not \"is buy\"."
+      }
+    },
+    {
+      "id": "a1-vc-150",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Sam is fixing.",
+      "text": "Now, Sam ___ (fix) old bikes.",
+      "answers": [
+        [
+          "is fixing"
+        ]
+      ],
+      "wrongReasons": {
+        "fixes": "The present simple (\"fixes\") is for habits and facts. \"Now,\" shows an action happening now, so we use \"is fixing\".",
+        "is fix": "After \"is\" the verb needs -ing: \"is fixing\", not \"is fix\"."
+      }
+    },
+    {
+      "id": "a1-vc-151",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Ivan is buying.",
+      "text": "Now, Ivan is ___ (buy) bread.",
+      "answers": [
+        [
+          "buying"
+        ]
+      ],
+      "wrongReasons": {
+        "buy": "After \"is\" we need the -ing form: buying.",
+        "buys": "After \"is\" we need the -ing form: buying, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-152",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use are + verb-ing: The girls are dancing.",
+      "text": "At the moment, the girls ___ (dance) at parties.",
+      "answers": [
+        [
+          "are dancing"
+        ]
+      ],
+      "wrongReasons": {
+        "dance": "The present simple (\"dance\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"are dancing\".",
+        "are dance": "After \"are\" the verb needs -ing: \"are dancing\", not \"are dance\"."
+      }
+    },
+    {
+      "id": "a1-vc-153",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Lily is dancing.",
+      "text": "Right now, Lily ___ (dance) at parties.",
+      "answers": [
+        [
+          "is dancing"
+        ]
+      ],
+      "wrongReasons": {
+        "dances": "The present simple (\"dances\") is for habits and facts. \"Right now,\" shows an action happening now, so we use \"is dancing\".",
+        "is dance": "After \"is\" the verb needs -ing: \"is dancing\", not \"is dance\"."
+      }
+    },
+    {
+      "id": "a1-vc-154",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Sam is playing.",
+      "text": "Now, Sam ___ (play) football with friends.",
+      "answers": [
+        [
+          "is playing"
+        ]
+      ],
+      "wrongReasons": {
+        "plays": "The present simple (\"plays\") is for habits and facts. \"Now,\" shows an action happening now, so we use \"is playing\".",
+        "is play": "After \"is\" the verb needs -ing: \"is playing\", not \"is play\"."
+      }
+    },
+    {
+      "id": "a1-vc-155",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Jack is playing.",
+      "text": "At the moment, Jack ___ (play) the guitar.",
+      "answers": [
+        [
+          "is playing"
+        ]
+      ],
+      "wrongReasons": {
+        "plays": "The present simple (\"plays\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"is playing\".",
+        "is play": "After \"is\" the verb needs -ing: \"is playing\", not \"is play\"."
+      }
+    },
+    {
+      "id": "a1-vc-156",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: My mother is studying.",
+      "text": "Now, my mother is ___ (study) English.",
+      "answers": [
+        [
+          "studying"
+        ]
+      ],
+      "wrongReasons": {
+        "study": "After \"is\" we need the -ing form: studying.",
+        "studies": "After \"is\" we need the -ing form: studying, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-157",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Our teacher is finishing.",
+      "text": "Now, our teacher is ___ (finish) work.",
+      "answers": [
+        [
+          "finishing"
+        ]
+      ],
+      "wrongReasons": {
+        "finish": "After \"is\" we need the -ing form: finishing.",
+        "finishes": "After \"is\" we need the -ing form: finishing, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-158",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use am + verb-ing: I am drinking.",
+      "text": "Now, I ___ (drink) milk.",
+      "answers": [
+        [
+          "am drinking",
+          "'m drinking",
+          "i'm drinking"
+        ]
+      ],
+      "wrongReasons": {
+        "drink": "The present simple (\"drink\") is for habits and facts. \"Now,\" shows an action happening now, so we use \"am drinking\".",
+        "am drink": "After \"am\" the verb needs -ing: \"am drinking\", not \"am drink\"."
+      }
+    },
+    {
+      "id": "a1-vc-159",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Leo is driving.",
+      "text": "Right now, Leo is ___ (drive) a bus.",
+      "answers": [
+        [
+          "driving"
+        ]
+      ],
+      "wrongReasons": {
+        "drive": "After \"is\" we need the -ing form: driving.",
+        "drives": "After \"is\" we need the -ing form: driving, not the -s form.",
+        "driveing": "Verbs ending in -e drop the e before -ing: driving."
+      }
+    },
+    {
+      "id": "a1-vc-160",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use are + verb-ing: We are teaching.",
+      "text": "Right now, we are ___ (teach) music.",
+      "answers": [
+        [
+          "teaching"
+        ]
+      ],
+      "wrongReasons": {
+        "teach": "After \"are\" we need the -ing form: teaching.",
+        "teaches": "After \"are\" we need the -ing form: teaching, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-161",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Paul is asking.",
+      "text": "Listen! Paul ___ (ask) questions.",
+      "answers": [
+        [
+          "is asking"
+        ]
+      ],
+      "wrongReasons": {
+        "asks": "The present simple (\"asks\") is for habits and facts. \"Listen!\" shows an action happening now, so we use \"is asking\".",
+        "is ask": "After \"is\" the verb needs -ing: \"is asking\", not \"is ask\"."
+      }
+    },
+    {
+      "id": "a1-vc-162",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Leo is buying.",
+      "text": "Right now, Leo ___ (buy) bread.",
+      "answers": [
+        [
+          "is buying"
+        ]
+      ],
+      "wrongReasons": {
+        "buys": "The present simple (\"buys\") is for habits and facts. \"Right now,\" shows an action happening now, so we use \"is buying\".",
+        "is buy": "After \"is\" the verb needs -ing: \"is buying\", not \"is buy\"."
+      }
+    },
+    {
+      "id": "a1-vc-163",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: He is eating.",
+      "text": "Look! He ___ (eat) an apple.",
+      "answers": [
+        [
+          "is eating"
+        ]
+      ],
+      "wrongReasons": {
+        "eats": "The present simple (\"eats\") is for habits and facts. \"Look!\" shows an action happening now, so we use \"is eating\".",
+        "is eat": "After \"is\" the verb needs -ing: \"is eating\", not \"is eat\"."
+      }
+    },
+    {
+      "id": "a1-vc-164",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Sam is flying.",
+      "text": "Right now, Sam is ___ (fly) a kite.",
+      "answers": [
+        [
+          "flying"
+        ]
+      ],
+      "wrongReasons": {
+        "fly": "After \"is\" we need the -ing form: flying.",
+        "flies": "After \"is\" we need the -ing form: flying, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-165",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Maya is playing.",
+      "text": "Now, Maya is ___ (play) tennis.",
+      "answers": [
+        [
+          "playing"
+        ]
+      ],
+      "wrongReasons": {
+        "play": "After \"is\" we need the -ing form: playing.",
+        "plays": "After \"is\" we need the -ing form: playing, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-166",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use are + verb-ing: We are sleeping.",
+      "text": "At the moment, we ___ (sleep) on the sofa.",
+      "answers": [
+        [
+          "are sleeping"
+        ]
+      ],
+      "wrongReasons": {
+        "sleep": "The present simple (\"sleep\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"are sleeping\".",
+        "are sleep": "After \"are\" the verb needs -ing: \"are sleeping\", not \"are sleep\"."
+      }
+    },
+    {
+      "id": "a1-vc-167",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Sara is playing.",
+      "text": "Look! Sara is ___ (play) tennis.",
+      "answers": [
+        [
+          "playing"
+        ]
+      ],
+      "wrongReasons": {
+        "play": "After \"is\" we need the -ing form: playing.",
+        "plays": "After \"is\" we need the -ing form: playing, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-168",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Ben is going.",
+      "text": "At the moment, Ben ___ (go) to school by bus.",
+      "answers": [
+        [
+          "is going"
+        ]
+      ],
+      "wrongReasons": {
+        "goes": "The present simple (\"goes\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"is going\".",
+        "is go": "After \"is\" the verb needs -ing: \"is going\", not \"is go\"."
+      }
+    },
+    {
+      "id": "a1-vc-169",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Lucy is walking.",
+      "text": "Look! Lucy is ___ (walk) in the park.",
+      "answers": [
+        [
+          "walking"
+        ]
+      ],
+      "wrongReasons": {
+        "walk": "After \"is\" we need the -ing form: walking.",
+        "walks": "After \"is\" we need the -ing form: walking, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-170",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Rosa is drawing.",
+      "text": "At the moment, Rosa is ___ (draw) animals.",
+      "answers": [
+        [
+          "drawing"
+        ]
+      ],
+      "wrongReasons": {
+        "draw": "After \"is\" we need the -ing form: drawing.",
+        "draws": "After \"is\" we need the -ing form: drawing, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-171",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Ben is cooking.",
+      "text": "Right now, Ben ___ (cook) dinner.",
+      "answers": [
+        [
+          "is cooking"
+        ]
+      ],
+      "wrongReasons": {
+        "cooks": "The present simple (\"cooks\") is for habits and facts. \"Right now,\" shows an action happening now, so we use \"is cooking\".",
+        "is cook": "After \"is\" the verb needs -ing: \"is cooking\", not \"is cook\"."
+      }
+    },
+    {
+      "id": "a1-vc-172",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: He is swimming.",
+      "text": "Right now, he is ___ (swim) in a pool.",
+      "answers": [
+        [
+          "swimming"
+        ]
+      ],
+      "wrongReasons": {
+        "swim": "After \"is\" we need the -ing form: swimming.",
+        "swims": "After \"is\" we need the -ing form: swimming, not the -s form.",
+        "swiming": "Short verbs with one vowel + one consonant double the last letter: swimming."
+      }
+    },
+    {
+      "id": "a1-vc-173",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Nina is cleaning.",
+      "text": "Look! Nina ___ (clean) the windows.",
+      "answers": [
+        [
+          "is cleaning"
+        ]
+      ],
+      "wrongReasons": {
+        "cleans": "The present simple (\"cleans\") is for habits and facts. \"Look!\" shows an action happening now, so we use \"is cleaning\".",
+        "is clean": "After \"is\" the verb needs -ing: \"is cleaning\", not \"is clean\"."
+      }
+    },
+    {
+      "id": "a1-vc-174",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Tom is driving.",
+      "text": "At the moment, Tom ___ (drive) a bus.",
+      "answers": [
+        [
+          "is driving"
+        ]
+      ],
+      "wrongReasons": {
+        "drives": "The present simple (\"drives\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"is driving\".",
+        "is drive": "After \"is\" the verb needs -ing: \"is driving\", not \"is drive\"."
+      }
+    },
+    {
+      "id": "a1-vc-175",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use am + verb-ing: I am speaking.",
+      "text": "Listen! I am ___ (speak) French.",
+      "answers": [
+        [
+          "speaking"
+        ]
+      ],
+      "wrongReasons": {
+        "speak": "After \"am\" we need the -ing form: speaking.",
+        "speaks": "After \"am\" we need the -ing form: speaking, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-176",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: The dog is eating.",
+      "text": "At the moment, the dog ___ (eat) breakfast.",
+      "answers": [
+        [
+          "is eating"
+        ]
+      ],
+      "wrongReasons": {
+        "eats": "The present simple (\"eats\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"is eating\".",
+        "is eat": "After \"is\" the verb needs -ing: \"is eating\", not \"is eat\"."
+      }
+    },
+    {
+      "id": "a1-vc-177",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use are + verb-ing: Sam and I are reading.",
+      "text": "Now, Sam and I ___ (read) a book.",
+      "answers": [
+        [
+          "are reading"
+        ]
+      ],
+      "wrongReasons": {
+        "read": "The present simple (\"read\") is for habits and facts. \"Now,\" shows an action happening now, so we use \"are reading\".",
+        "are read": "After \"are\" the verb needs -ing: \"are reading\", not \"are read\"."
+      }
+    },
+    {
+      "id": "a1-vc-178",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Maya is cooking.",
+      "text": "Look! Maya is ___ (cook) dinner.",
+      "answers": [
+        [
+          "cooking"
+        ]
+      ],
+      "wrongReasons": {
+        "cook": "After \"is\" we need the -ing form: cooking.",
+        "cooks": "After \"is\" we need the -ing form: cooking, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-179",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Mark is running.",
+      "text": "At the moment, Mark ___ (run) to the shop.",
+      "answers": [
+        [
+          "is running"
+        ]
+      ],
+      "wrongReasons": {
+        "runs": "The present simple (\"runs\") is for habits and facts. \"At the moment,\" shows an action happening now, so we use \"is running\".",
+        "is run": "After \"is\" the verb needs -ing: \"is running\", not \"is run\"."
+      }
+    },
+    {
+      "id": "a1-vc-180",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Dan is walking.",
+      "text": "Now, Dan is ___ (walk) to work.",
+      "answers": [
+        [
+          "walking"
+        ]
+      ],
+      "wrongReasons": {
+        "walk": "After \"is\" we need the -ing form: walking.",
+        "walks": "After \"is\" we need the -ing form: walking, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-181",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use are + verb-ing: Ben and Lucy are using.",
+      "text": "Now, Ben and Lucy are ___ (use) a computer.",
+      "answers": [
+        [
+          "using"
+        ]
+      ],
+      "wrongReasons": {
+        "use": "After \"are\" we need the -ing form: using.",
+        "uses": "After \"are\" we need the -ing form: using, not the -s form.",
+        "useing": "Verbs ending in -e drop the e before -ing: using."
+      }
+    },
+    {
+      "id": "a1-vc-182",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: Nina is studying.",
+      "text": "Now, Nina is ___ (study) English.",
+      "answers": [
+        [
+          "studying"
+        ]
+      ],
+      "wrongReasons": {
+        "study": "After \"is\" we need the -ing form: studying.",
+        "studies": "After \"is\" we need the -ing form: studying, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-183",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use is + verb-ing: He is washing.",
+      "text": "Right now, he is ___ (wash) the dishes.",
+      "answers": [
+        [
+          "washing"
+        ]
+      ],
+      "wrongReasons": {
+        "wash": "After \"is\" we need the -ing form: washing.",
+        "washes": "After \"is\" we need the -ing form: washing, not the -s form."
+      }
+    },
+    {
+      "id": "a1-vc-184",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "present-continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Actions happening now use are + verb-ing: Tom and Anna are reading.",
+      "text": "Right now, Tom and Anna ___ (read) a book.",
+      "answers": [
+        [
+          "are reading"
+        ]
+      ],
+      "wrongReasons": {
+        "read": "The present simple (\"read\") is for habits and facts. \"Right now,\" shows an action happening now, so we use \"are reading\".",
+        "are read": "After \"are\" the verb needs -ing: \"are reading\", not \"are read\"."
+      }
+    },
+    {
+      "id": "a1-vc-185",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "Most nouns just add -s: car → cars.",
+      "text": "We can see many ___ (car) in the park.",
+      "answers": [
+        [
+          "cars"
+        ]
+      ],
+      "wrongReasons": {
+        "cares": "\"car\" does not take -es. Just add -s: cars.",
+        "car": "\"car\" is singular. After a number or \"many\" we need the plural: cars."
+      }
+    },
+    {
+      "id": "a1-vc-186",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "Most nouns just add -s: chair → chairs.",
+      "text": "There are three ___ (chair) in the picture.",
+      "answers": [
+        [
+          "chairs"
+        ]
+      ],
+      "wrongReasons": {
+        "chaires": "\"chair\" does not take -es. Just add -s: chairs.",
+        "chair": "\"chair\" is singular. After a number or \"many\" we need the plural: chairs."
+      }
+    },
+    {
+      "id": "a1-vc-187",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: knife → knives.",
+      "text": "He wants five ___ (knife).",
+      "answers": [
+        [
+          "knives"
+        ]
+      ],
+      "wrongReasons": {
+        "knifes": "\"knife\" changes to -ves in the plural: knives.",
+        "knifs": "Spelling: the plural is \"knives\" (f/fe changes to -ves)."
+      }
+    },
+    {
+      "id": "a1-vc-188",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: leaf → leaves.",
+      "text": "She has four ___ (leaf).",
+      "answers": [
+        [
+          "leaves"
+        ]
+      ],
+      "wrongReasons": {
+        "leafs": "Spelling: the plural is \"leaves\" (f/fe changes to -ves)."
+      }
+    },
+    {
+      "id": "a1-vc-189",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "\"child\" is irregular. The plural is \"children\".",
+      "text": "I have two ___ (child).",
+      "answers": [
+        [
+          "children"
+        ]
+      ],
+      "wrongReasons": {
+        "childs": "\"child\" is irregular: the plural is \"children\", not \"childs\".",
+        "childes": "\"child\" has an irregular plural. It is \"children\"."
+      }
+    },
+    {
+      "id": "a1-vc-190",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "Most nouns just add -s: teacher → teachers.",
+      "text": "She has four ___ (teacher).",
+      "answers": [
+        [
+          "teachers"
+        ]
+      ],
+      "wrongReasons": {
+        "teacheres": "\"teacher\" does not take -es. Just add -s: teachers.",
+        "teacher": "\"teacher\" is singular. After a number or \"many\" we need the plural: teachers."
+      }
+    },
+    {
+      "id": "a1-vc-191",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "Most nouns just add -s: egg → eggs.",
+      "text": "There are three ___ (egg) in the picture.",
+      "answers": [
+        [
+          "eggs"
+        ]
+      ],
+      "wrongReasons": {
+        "egges": "\"egg\" does not take -es. Just add -s: eggs.",
+        "egg": "\"egg\" is singular. After a number or \"many\" we need the plural: eggs."
+      }
+    },
+    {
+      "id": "a1-vc-192",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "\"tooth\" is irregular. The plural is \"teeth\".",
+      "text": "I have two ___ (tooth).",
+      "answers": [
+        [
+          "teeth"
+        ]
+      ],
+      "wrongReasons": {
+        "tooths": "\"tooth\" is irregular: the plural is \"teeth\", not \"tooths\".",
+        "toothes": "\"tooth\" has an irregular plural. It is \"teeth\"."
+      }
+    },
+    {
+      "id": "a1-vc-193",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "\"tooth\" is irregular. The plural is \"teeth\".",
+      "text": "There are three ___ (tooth) in the picture.",
+      "answers": [
+        [
+          "teeth"
+        ]
+      ],
+      "wrongReasons": {
+        "tooths": "\"tooth\" is irregular: the plural is \"teeth\", not \"tooths\".",
+        "toothes": "\"tooth\" has an irregular plural. It is \"teeth\"."
+      }
+    },
+    {
+      "id": "a1-vc-194",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "After a consonant + y, change y to -ies: family → families.",
+      "text": "She has four ___ (family).",
+      "answers": [
+        [
+          "families"
+        ]
+      ],
+      "wrongReasons": {
+        "familys": "After a consonant + y, change y to -ies, not just add -s: families.",
+        "familyes": "The ending -yes is wrong. After a consonant + y use -ies: families."
+      }
+    },
+    {
+      "id": "a1-vc-195",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "Most nouns just add -s: dog → dogs.",
+      "text": "He wants five ___ (dog).",
+      "answers": [
+        [
+          "dogs"
+        ]
+      ],
+      "wrongReasons": {
+        "doges": "\"dog\" does not take -es. Just add -s: dogs.",
+        "dog": "\"dog\" is singular. After a number or \"many\" we need the plural: dogs."
+      }
+    },
+    {
+      "id": "a1-vc-196",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "Most nouns just add -s: school → schools.",
+      "text": "We can see many ___ (school) in the park.",
+      "answers": [
+        [
+          "schools"
+        ]
+      ],
+      "wrongReasons": {
+        "schooles": "\"school\" does not take -es. Just add -s: schools.",
+        "school": "\"school\" is singular. After a number or \"many\" we need the plural: schools."
+      }
+    },
+    {
+      "id": "a1-vc-197",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "After a consonant + y, change y to -ies: baby → babies.",
+      "text": "He wants five ___ (baby).",
+      "answers": [
+        [
+          "babies"
+        ]
+      ],
+      "wrongReasons": {
+        "babys": "After a consonant + y, change y to -ies, not just add -s: babies.",
+        "babyes": "The ending -yes is wrong. After a consonant + y use -ies: babies."
+      }
+    },
+    {
+      "id": "a1-vc-198",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "Most nouns just add -s: chair → chairs.",
+      "text": "She has four ___ (chair).",
+      "answers": [
+        [
+          "chairs"
+        ]
+      ],
+      "wrongReasons": {
+        "chaires": "\"chair\" does not take -es. Just add -s: chairs.",
+        "chair": "\"chair\" is singular. After a number or \"many\" we need the plural: chairs."
+      }
+    },
+    {
+      "id": "a1-vc-199",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "Most nouns just add -s: phone → phones.",
+      "text": "She has four ___ (phone).",
+      "answers": [
+        [
+          "phones"
+        ]
+      ],
+      "wrongReasons": {
+        "phonees": "\"phone\" does not take -es. Just add -s: phones.",
+        "phone": "\"phone\" is singular. After a number or \"many\" we need the plural: phones."
+      }
+    },
+    {
+      "id": "a1-vc-200",
+      "type": "verb-conjugate",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "Write the plural form of the noun in brackets.",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: life → lives.",
+      "text": "I have two ___ (life).",
+      "answers": [
+        [
+          "lives"
+        ]
+      ],
+      "wrongReasons": {
+        "lifes": "\"life\" changes to -ves in the plural: lives.",
+        "lifs": "Spelling: the plural is \"lives\" (f/fe changes to -ves)."
+      }
     }
   ]
 }

@@ -221,6 +221,4602 @@
         "It is"
       ],
       "correct": 1
+    },
+    {
+      "id": "a1-mc-013",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Tom ___ from Brazil.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Tom is from Brazil.",
+      "options": [
+        "are",
+        "am",
+        "is"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"are\" is only for you, we, they and more than one person or thing. With \"Tom\" we use \"is\".",
+        "1": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-mc-014",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Tom and Anna ___ in the classroom.",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: Tom and Anna are in the classroom.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"is\" is only for he, she, it and one person or thing. With \"Tom and Anna\" we use \"are\".",
+        "2": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-mc-015",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "He ___ busy.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: He is busy.",
+      "options": [
+        "are",
+        "am",
+        "is"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"are\" is only for you, we, they and more than one person or thing. With \"he\" we use \"is\".",
+        "1": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-mc-016",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Paul ___ at home.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Paul is at home.",
+      "options": [
+        "is",
+        "am",
+        "are"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"am\" is only used with \"I\".",
+        "2": "\"are\" is only for you, we, they and more than one person or thing. With \"Paul\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-mc-017",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Leo ___ thirsty.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Leo is thirsty.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"are\" is only for you, we, they and more than one person or thing. With \"Leo\" we use \"is\".",
+        "2": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-mc-018",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Ravi ___ thirsty.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Ravi is thirsty.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"are\" is only for you, we, they and more than one person or thing. With \"Ravi\" we use \"is\".",
+        "2": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-mc-019",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "She ___ twelve years old.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: She is twelve years old.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"are\" is only for you, we, they and more than one person or thing. With \"she\" we use \"is\".",
+        "2": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-mc-020",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Ravi ___ from Canada.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Ravi is from Canada.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"are\" is only for you, we, they and more than one person or thing. With \"Ravi\" we use \"is\".",
+        "2": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-mc-021",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Sara ___ in the park.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Sara is in the park.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"are\" is only for you, we, they and more than one person or thing. With \"Sara\" we use \"is\".",
+        "2": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-mc-022",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "The dogs ___ hungry.",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: The dogs are hungry.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"am\" is only used with \"I\".",
+        "1": "\"is\" is only for he, she, it and one person or thing. With \"the dogs\" we use \"are\"."
+      }
+    },
+    {
+      "id": "a1-mc-023",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Rosa ___ late for class.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Rosa is late for class.",
+      "options": [
+        "is",
+        "am",
+        "are"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"am\" is only used with \"I\".",
+        "2": "\"are\" is only for you, we, they and more than one person or thing. With \"Rosa\" we use \"is\"."
+      }
+    },
+    {
+      "id": "a1-mc-024",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "The dogs ___ angry.",
+      "explanation": "Use \"are\" with you, we, they and more than one person or thing. Example: The dogs are angry.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"is\" is only for he, she, it and one person or thing. With \"the dogs\" we use \"are\".",
+        "2": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-mc-025",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Lily ___ sad.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Lily is sad.",
+      "options": [
+        "are",
+        "am",
+        "is"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"are\" is only for you, we, they and more than one person or thing. With \"Lily\" we use \"is\".",
+        "1": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-mc-026",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "to-be",
+      "prompt": "Emma ___ thirsty.",
+      "explanation": "Use \"is\" with he, she, it and one person or thing. Example: Emma is thirsty.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"are\" is only for you, we, they and more than one person or thing. With \"Emma\" we use \"is\".",
+        "2": "\"am\" is only used with \"I\"."
+      }
+    },
+    {
+      "id": "a1-mc-027",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Leo ___ some water every evening.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Leo wants.",
+      "options": [
+        "wants",
+        "want",
+        "does want"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"want\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Leo\".",
+        "2": "\"does want\" is used in questions and negatives. A positive sentence uses \"wants\"."
+      }
+    },
+    {
+      "id": "a1-mc-028",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "My mother ___ the window every week.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: my mother opens.",
+      "options": [
+        "open",
+        "opens",
+        "does open"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"open\" is the base form. It is used with I, you, we, they and plural subjects, not with \"my mother\".",
+        "2": "\"does open\" is used in questions and negatives. A positive sentence uses \"opens\"."
+      }
+    },
+    {
+      "id": "a1-mc-029",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "You sometimes ___ a friend.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: you call.",
+      "options": [
+        "calls",
+        "does call",
+        "call"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"calls\" is for he, she, it and one person or thing. With \"you\" we use the base form \"call\".",
+        "1": "\"does call\" is used in questions and negatives. A positive sentence uses \"call\"."
+      }
+    },
+    {
+      "id": "a1-mc-030",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Zoe ___ animals on Sundays.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Zoe draws.",
+      "options": [
+        "draw",
+        "does draw",
+        "draws"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"draw\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Zoe\".",
+        "1": "\"does draw\" is used in questions and negatives. A positive sentence uses \"draws\"."
+      }
+    },
+    {
+      "id": "a1-mc-031",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Eva sometimes ___ the door.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Eva opens.",
+      "options": [
+        "does open",
+        "opens",
+        "open"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"does open\" is used in questions and negatives. A positive sentence uses \"opens\".",
+        "2": "\"open\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Eva\"."
+      }
+    },
+    {
+      "id": "a1-mc-032",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Jack ___ football with friends every morning.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Jack plays.",
+      "options": [
+        "plays",
+        "does play",
+        "play"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"does play\" is used in questions and negatives. A positive sentence uses \"plays\".",
+        "2": "\"play\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Jack\"."
+      }
+    },
+    {
+      "id": "a1-mc-033",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "We ___ French on Sundays.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: we speak.",
+      "options": [
+        "does speak",
+        "speaks",
+        "speak"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"does speak\" is used in questions and negatives. A positive sentence uses \"speak\".",
+        "1": "\"speaks\" is for he, she, it and one person or thing. With \"we\" we use the base form \"speak\"."
+      }
+    },
+    {
+      "id": "a1-mc-034",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Zoe sometimes ___ a computer.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Zoe uses.",
+      "options": [
+        "use",
+        "does use",
+        "uses"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"use\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Zoe\".",
+        "1": "\"does use\" is used in questions and negatives. A positive sentence uses \"uses\"."
+      }
+    },
+    {
+      "id": "a1-mc-035",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "Tom ___ in the park every evening.",
+      "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Tom runs.",
+      "options": [
+        "run",
+        "runs",
+        "does run"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"run\" is the base form. It is used with I, you, we, they and plural subjects, not with \"Tom\".",
+        "2": "\"does run\" is used in questions and negatives. A positive sentence uses \"runs\"."
+      }
+    },
+    {
+      "id": "a1-mc-036",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "I always ___ a friend.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: I call.",
+      "options": [
+        "call",
+        "calls",
+        "does call"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"calls\" is for he, she, it and one person or thing. With \"I\" we use the base form \"call\".",
+        "2": "\"does call\" is used in questions and negatives. A positive sentence uses \"call\"."
+      }
+    },
+    {
+      "id": "a1-mc-037",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "present-simple",
+      "prompt": "We ___ help every day.",
+      "explanation": "With I, you, we, they and plural subjects we use the base form: we need.",
+      "options": [
+        "need",
+        "needs",
+        "does need"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"needs\" is for he, she, it and one person or thing. With \"we\" we use the base form \"need\".",
+        "2": "\"does need\" is used in questions and negatives. A positive sentence uses \"need\"."
+      }
+    },
+    {
+      "id": "a1-mc-038",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Look at ___ car!",
+      "explanation": "Use \"a\" before a consonant sound: a car.",
+      "options": [
+        "the",
+        "an",
+        "a"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"the\" is used for a specific thing that both people know. Here we mean any car, so we use \"a\".",
+        "1": "\"an\" is used before a vowel sound. \"car\" starts with a consonant sound, so we say \"a car\"."
+      }
+    },
+    {
+      "id": "a1-mc-039",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I have a teacher and a horse. ___ teacher is old.",
+      "explanation": "Use \"the\" for something already mentioned: I have a teacher... The teacher is old.",
+      "options": [
+        "the",
+        "a",
+        "an"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"a\" is for something new. The teacher was already mentioned, so we use \"the\".",
+        "2": "\"an\" is for something new before a vowel sound. The teacher was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-040",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "She wants ___ engineer.",
+      "explanation": "Use \"an\" before a vowel sound: an engineer.",
+      "options": [
+        "a",
+        "the",
+        "an"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"a\" is used before a consonant sound. \"engineer\" starts with a vowel sound, so we say \"an engineer\".",
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any engineer, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-mc-041",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Look at ___ bike!",
+      "explanation": "Use \"a\" before a consonant sound: a bike.",
+      "options": [
+        "the",
+        "an",
+        "a"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"the\" is used for a specific thing that both people know. Here we mean any bike, so we use \"a\".",
+        "1": "\"an\" is used before a vowel sound. \"bike\" starts with a consonant sound, so we say \"a bike\"."
+      }
+    },
+    {
+      "id": "a1-mc-042",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I have a school and a bike. ___ school is nice.",
+      "explanation": "Use \"the\" for something already mentioned: I have a school... The school is nice.",
+      "options": [
+        "a",
+        "the",
+        "an"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"a\" is for something new. The school was already mentioned, so we use \"the\".",
+        "2": "\"an\" is for something new before a vowel sound. The school was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-043",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Look at ___ owl!",
+      "explanation": "Use \"an\" before a vowel sound: an owl.",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"a\" is used before a consonant sound. \"owl\" starts with a vowel sound, so we say \"an owl\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any owl, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-mc-044",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "We need ___ onion.",
+      "explanation": "Use \"an\" before a vowel sound: an onion.",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"a\" is used before a consonant sound. \"onion\" starts with a vowel sound, so we say \"an onion\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any onion, so we use \"an\"."
+      }
+    },
+    {
+      "id": "a1-mc-045",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I have a pen and an engineer. ___ pen is new.",
+      "explanation": "Use \"the\" for something already mentioned: I have a pen... The pen is new.",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"an\" is for something new before a vowel sound. The pen was already mentioned, so we use \"the\".",
+        "1": "\"a\" is for something new. The pen was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-046",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "___ sky is blue.",
+      "explanation": "Use \"the\" when there is only one: the sky.",
+      "options": [
+        "the",
+        "an",
+        "a"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"an\" means any one thing and is used before a vowel sound. There is only one sky, so we use \"the\".",
+        "2": "\"a\" means any one thing. There is only one sky, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-047",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I have an answer and a banana. ___ answer is good.",
+      "explanation": "Use \"the\" for something already mentioned: I have a answer... The answer is good.",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"an\" is for something new before a vowel sound. The answer was already mentioned, so we use \"the\".",
+        "1": "\"a\" is for something new. The answer was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-048",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I have a school and an elephant. ___ school is big.",
+      "explanation": "Use \"the\" for something already mentioned: I have a school... The school is big.",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"an\" is for something new before a vowel sound. The school was already mentioned, so we use \"the\".",
+        "1": "\"a\" is for something new. The school was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-049",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I can see ___ teacher.",
+      "explanation": "Use \"a\" before a consonant sound: a teacher.",
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"an\" is used before a vowel sound. \"teacher\" starts with a consonant sound, so we say \"a teacher\".",
+        "2": "\"the\" is used for a specific thing that both people know. Here we mean any teacher, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-mc-050",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Look at ___ moon tonight!",
+      "explanation": "Use \"the\" when there is only one: the moon.",
+      "options": [
+        "a",
+        "the",
+        "an"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"a\" means any one thing. There is only one moon, so we use \"the\".",
+        "2": "\"an\" means any one thing and is used before a vowel sound. There is only one moon, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-051",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "In summer ___ sun comes up early.",
+      "explanation": "Use \"the\" when there is only one: the sun.",
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"a\" means any one thing. There is only one sun, so we use \"the\".",
+        "1": "\"an\" means any one thing and is used before a vowel sound. There is only one sun, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-052",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I have a horse and an apple. ___ horse is small.",
+      "explanation": "Use \"the\" for something already mentioned: I have a horse... The horse is small.",
+      "options": [
+        "the",
+        "a",
+        "an"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"a\" is for something new. The horse was already mentioned, so we use \"the\".",
+        "2": "\"an\" is for something new before a vowel sound. The horse was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-053",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "She wants ___ bike.",
+      "explanation": "Use \"a\" before a consonant sound: a bike.",
+      "options": [
+        "an",
+        "the",
+        "a"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"an\" is used before a vowel sound. \"bike\" starts with a consonant sound, so we say \"a bike\".",
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any bike, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-mc-054",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "We need ___ university.",
+      "explanation": "Use \"a\" before a consonant sound: a university.",
+      "options": [
+        "an",
+        "the",
+        "a"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"an\" is used before a vowel sound. \"university\" starts with a consonant sound, so we say \"a university\".",
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any university, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-mc-055",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I have an island and a teacher. ___ island is black.",
+      "explanation": "Use \"the\" for something already mentioned: I have a island... The island is black.",
+      "options": [
+        "an",
+        "the",
+        "a"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"an\" is for something new before a vowel sound. The island was already mentioned, so we use \"the\".",
+        "2": "\"a\" is for something new. The island was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-056",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "He has ___ engineer.",
+      "explanation": "Use \"an\" before a vowel sound: an engineer.",
+      "options": [
+        "the",
+        "a",
+        "an"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"the\" is used for a specific thing that both people know. Here we mean any engineer, so we use \"an\".",
+        "1": "\"a\" is used before a consonant sound. \"engineer\" starts with a vowel sound, so we say \"an engineer\"."
+      }
+    },
+    {
+      "id": "a1-mc-057",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Birds fly in ___ sky.",
+      "explanation": "Use \"the\" when there is only one: the sky.",
+      "options": [
+        "an",
+        "the",
+        "a"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"an\" means any one thing and is used before a vowel sound. There is only one sky, so we use \"the\".",
+        "2": "\"a\" means any one thing. There is only one sky, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-058",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "There is ___ eagle on the table.",
+      "explanation": "Use \"an\" before a vowel sound: an eagle.",
+      "options": [
+        "an",
+        "the",
+        "a"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any eagle, so we use \"an\".",
+        "2": "\"a\" is used before a consonant sound. \"eagle\" starts with a vowel sound, so we say \"an eagle\"."
+      }
+    },
+    {
+      "id": "a1-mc-059",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "We need ___ school.",
+      "explanation": "Use \"a\" before a consonant sound: a school.",
+      "options": [
+        "an",
+        "the",
+        "a"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"an\" is used before a vowel sound. \"school\" starts with a consonant sound, so we say \"a school\".",
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any school, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-mc-060",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "He has ___ school.",
+      "explanation": "Use \"a\" before a consonant sound: a school.",
+      "options": [
+        "an",
+        "the",
+        "a"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"an\" is used before a vowel sound. \"school\" starts with a consonant sound, so we say \"a school\".",
+        "1": "\"the\" is used for a specific thing that both people know. Here we mean any school, so we use \"a\"."
+      }
+    },
+    {
+      "id": "a1-mc-061",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "We live on ___ Earth.",
+      "explanation": "Use \"the\" when there is only one: the earth.",
+      "options": [
+        "a",
+        "the",
+        "an"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"a\" means any one thing. There is only one earth, so we use \"the\".",
+        "2": "\"an\" means any one thing and is used before a vowel sound. There is only one earth, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-062",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I have an owl and an ice cream. ___ owl is nice.",
+      "explanation": "Use \"the\" for something already mentioned: I have a owl... The owl is nice.",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"an\" is for something new before a vowel sound. The owl was already mentioned, so we use \"the\".",
+        "1": "\"a\" is for something new. The owl was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-063",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "Anna wants to see ___ world.",
+      "explanation": "Use \"the\" when there is only one: the world.",
+      "options": [
+        "a",
+        "the",
+        "an"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"a\" means any one thing. There is only one world, so we use \"the\".",
+        "2": "\"an\" means any one thing and is used before a vowel sound. There is only one world, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-064",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "___ moon is white and round.",
+      "explanation": "Use \"the\" when there is only one: the moon.",
+      "options": [
+        "a",
+        "the",
+        "an"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"a\" means any one thing. There is only one moon, so we use \"the\".",
+        "2": "\"an\" means any one thing and is used before a vowel sound. There is only one moon, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-065",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "articles",
+      "prompt": "I have an orange and a uniform. ___ orange is good.",
+      "explanation": "Use \"the\" for something already mentioned: I have a orange... The orange is good.",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"an\" is for something new before a vowel sound. The orange was already mentioned, so we use \"the\".",
+        "1": "\"a\" is for something new. The orange was already mentioned, so we use \"the\"."
+      }
+    },
+    {
+      "id": "a1-mc-066",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "I have two ___. (box)",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: box → boxes.",
+      "options": [
+        "box",
+        "boxes",
+        "boxs",
+        "boxies"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"box\" is singular. After a number or \"many\" we need the plural: boxes.",
+        "2": "Nouns like \"box\" add -es, not just -s: boxes.",
+        "3": "-ies is only for nouns ending in a consonant + y. \"box\" adds -es: boxes."
+      }
+    },
+    {
+      "id": "a1-mc-067",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "We can see many ___ in the park. (knife)",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: knife → knives.",
+      "options": [
+        "knife",
+        "knifs",
+        "knifes",
+        "knives"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"knife\" is singular. After a number or \"many\" we need the plural: knives.",
+        "1": "Spelling: the plural is \"knives\" (f/fe changes to -ves).",
+        "2": "\"knife\" changes to -ves in the plural: knives."
+      }
+    },
+    {
+      "id": "a1-mc-068",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "He wants five ___. (dog)",
+      "explanation": "Most nouns just add -s: dog → dogs.",
+      "options": [
+        "doges",
+        "dog",
+        "dogs"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"dog\" does not take -es. Just add -s: dogs.",
+        "1": "\"dog\" is singular. After a number or \"many\" we need the plural: dogs."
+      }
+    },
+    {
+      "id": "a1-mc-069",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "She has four ___. (shelf)",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: shelf → shelves.",
+      "options": [
+        "shelfs",
+        "shelves",
+        "shelf"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"shelf\" changes to -ves in the plural: shelves.",
+        "2": "\"shelf\" is singular. After a number or \"many\" we need the plural: shelves."
+      }
+    },
+    {
+      "id": "a1-mc-070",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "There are three ___ in the picture. (house)",
+      "explanation": "Most nouns just add -s: house → houses.",
+      "options": [
+        "housees",
+        "house",
+        "houses"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"house\" does not take -es. Just add -s: houses.",
+        "1": "\"house\" is singular. After a number or \"many\" we need the plural: houses."
+      }
+    },
+    {
+      "id": "a1-mc-071",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "What is the plural of \"leaf\"?",
+      "explanation": "Many nouns ending in -f or -fe change to -ves: leaf → leaves.",
+      "options": [
+        "leaves",
+        "leaf",
+        "leafs"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"leaf\" is singular. After a number or \"many\" we need the plural: leaves.",
+        "2": "\"leaf\" changes to -ves in the plural: leaves."
+      }
+    },
+    {
+      "id": "a1-mc-072",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "What is the plural of \"tooth\"?",
+      "explanation": "\"tooth\" is irregular. The plural is \"teeth\".",
+      "options": [
+        "teeth",
+        "toothes",
+        "tooth",
+        "tooths"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"tooth\" has an irregular plural. It is \"teeth\".",
+        "2": "\"tooth\" is singular. After a number or \"many\" we need the plural: teeth.",
+        "3": "\"tooth\" is irregular: the plural is \"teeth\", not \"tooths\"."
+      }
+    },
+    {
+      "id": "a1-mc-073",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "What is the plural of \"puppy\"?",
+      "explanation": "After a consonant + y, change y to -ies: puppy → puppies.",
+      "options": [
+        "puppy",
+        "puppyes",
+        "puppys",
+        "puppies"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"puppy\" is singular. After a number or \"many\" we need the plural: puppies.",
+        "1": "The ending -yes is wrong. After a consonant + y use -ies: puppies.",
+        "2": "After a consonant + y, change y to -ies, not just add -s: puppies."
+      }
+    },
+    {
+      "id": "a1-mc-074",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "What is the plural of \"sandwich\"?",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: sandwich → sandwiches.",
+      "options": [
+        "sandwichs",
+        "sandwich",
+        "sandwiches",
+        "sandwichies"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "Nouns like \"sandwich\" add -es, not just -s: sandwiches.",
+        "1": "\"sandwich\" is singular. After a number or \"many\" we need the plural: sandwiches.",
+        "3": "-ies is only for nouns ending in a consonant + y. \"sandwich\" adds -es: sandwiches."
+      }
+    },
+    {
+      "id": "a1-mc-075",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "He wants five ___. (lady)",
+      "explanation": "After a consonant + y, change y to -ies: lady → ladies.",
+      "options": [
+        "ladys",
+        "ladies",
+        "ladyes",
+        "lady"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "After a consonant + y, change y to -ies, not just add -s: ladies.",
+        "2": "The ending -yes is wrong. After a consonant + y use -ies: ladies.",
+        "3": "\"lady\" is singular. After a number or \"many\" we need the plural: ladies."
+      }
+    },
+    {
+      "id": "a1-mc-076",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "What is the plural of \"child\"?",
+      "explanation": "\"child\" is irregular. The plural is \"children\".",
+      "options": [
+        "children",
+        "child",
+        "childs",
+        "childes"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"child\" is singular. After a number or \"many\" we need the plural: children.",
+        "2": "\"child\" is irregular: the plural is \"children\", not \"childs\".",
+        "3": "\"child\" has an irregular plural. It is \"children\"."
+      }
+    },
+    {
+      "id": "a1-mc-077",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "What is the plural of \"hand\"?",
+      "explanation": "Most nouns just add -s: hand → hands.",
+      "options": [
+        "hands",
+        "handes",
+        "hand"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"hand\" does not take -es. Just add -s: hands.",
+        "2": "\"hand\" is singular. After a number or \"many\" we need the plural: hands."
+      }
+    },
+    {
+      "id": "a1-mc-078",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "She has four ___. (boy)",
+      "explanation": "After a vowel + y we just add -s: boy → boys.",
+      "options": [
+        "boys",
+        "boyes",
+        "boy"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"boy\" does not take -es. Just add -s: boys.",
+        "2": "\"boy\" is singular. After a number or \"many\" we need the plural: boys."
+      }
+    },
+    {
+      "id": "a1-mc-079",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "There are three ___ in the picture. (day)",
+      "explanation": "After a vowel + y we just add -s: day → days.",
+      "options": [
+        "day",
+        "dayes",
+        "days"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"day\" is singular. After a number or \"many\" we need the plural: days.",
+        "1": "\"day\" does not take -es. Just add -s: days."
+      }
+    },
+    {
+      "id": "a1-mc-080",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "I have two ___. (family)",
+      "explanation": "After a consonant + y, change y to -ies: family → families.",
+      "options": [
+        "familyes",
+        "familys",
+        "family",
+        "families"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "The ending -yes is wrong. After a consonant + y use -ies: families.",
+        "1": "After a consonant + y, change y to -ies, not just add -s: families.",
+        "2": "\"family\" is singular. After a number or \"many\" we need the plural: families."
+      }
+    },
+    {
+      "id": "a1-mc-081",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "I have two ___. (book)",
+      "explanation": "Most nouns just add -s: book → books.",
+      "options": [
+        "books",
+        "book",
+        "bookes"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"book\" is singular. After a number or \"many\" we need the plural: books.",
+        "2": "\"book\" does not take -es. Just add -s: books."
+      }
+    },
+    {
+      "id": "a1-mc-082",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "What is the plural of \"car\"?",
+      "explanation": "Most nouns just add -s: car → cars.",
+      "options": [
+        "cares",
+        "car",
+        "cars"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"car\" does not take -es. Just add -s: cars.",
+        "1": "\"car\" is singular. After a number or \"many\" we need the plural: cars."
+      }
+    },
+    {
+      "id": "a1-mc-083",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "What is the plural of \"glass\"?",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: glass → glasses.",
+      "options": [
+        "glasss",
+        "glasses",
+        "glassies",
+        "glass"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "Nouns like \"glass\" add -es, not just -s: glasses.",
+        "2": "-ies is only for nouns ending in a consonant + y. \"glass\" adds -es: glasses.",
+        "3": "\"glass\" is singular. After a number or \"many\" we need the plural: glasses."
+      }
+    },
+    {
+      "id": "a1-mc-084",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "What is the plural of \"bench\"?",
+      "explanation": "Nouns ending in -s, -x, -ch, -sh and -o add -es: bench → benches.",
+      "options": [
+        "benchs",
+        "bench",
+        "benchies",
+        "benches"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "Nouns like \"bench\" add -es, not just -s: benches.",
+        "1": "\"bench\" is singular. After a number or \"many\" we need the plural: benches.",
+        "2": "-ies is only for nouns ending in a consonant + y. \"bench\" adds -es: benches."
+      }
+    },
+    {
+      "id": "a1-mc-085",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "He wants five ___. (strawberry)",
+      "explanation": "After a consonant + y, change y to -ies: strawberry → strawberries.",
+      "options": [
+        "strawberries",
+        "strawberryes",
+        "strawberry",
+        "strawberrys"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The ending -yes is wrong. After a consonant + y use -ies: strawberries.",
+        "2": "\"strawberry\" is singular. After a number or \"many\" we need the plural: strawberries.",
+        "3": "After a consonant + y, change y to -ies, not just add -s: strawberries."
+      }
+    },
+    {
+      "id": "a1-mc-086",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "There are three ___ in the picture. (dog)",
+      "explanation": "Most nouns just add -s: dog → dogs.",
+      "options": [
+        "doges",
+        "dogs",
+        "dog"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"dog\" does not take -es. Just add -s: dogs.",
+        "2": "\"dog\" is singular. After a number or \"many\" we need the plural: dogs."
+      }
+    },
+    {
+      "id": "a1-mc-087",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "plurals",
+      "prompt": "He wants five ___. (toy)",
+      "explanation": "After a vowel + y we just add -s: toy → toys.",
+      "options": [
+        "toys",
+        "toyes",
+        "toy"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"toy\" does not take -es. Just add -s: toys.",
+        "2": "\"toy\" is singular. After a number or \"many\" we need the plural: toys."
+      }
+    },
+    {
+      "id": "a1-mc-088",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Sam is nice. I like ___.",
+      "explanation": "Use \"him\" instead of Sam after the verb: Sam → him.",
+      "options": [
+        "him",
+        "them",
+        "me"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"them\" is for more than one person or thing, but Sam is one boy or man.",
+        "2": "\"me\" is for the speaker, but Sam is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-089",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Paul is nice. I like ___.",
+      "explanation": "Use \"him\" instead of Paul after the verb: Paul → him.",
+      "options": [
+        "us",
+        "you",
+        "him"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"us\" is for the speaker and other people, but Paul is one boy or man.",
+        "1": "\"you\" is for the person you talk to, but Paul is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-090",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Our teacher Mr Smith is nice. I like ___.",
+      "explanation": "Use \"him\" instead of our teacher Mr Smith after the verb: our teacher Mr Smith → him.",
+      "options": [
+        "him",
+        "us",
+        "it"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"us\" is for the speaker and other people, but our teacher Mr Smith is one boy or man.",
+        "2": "\"it\" is for a thing or an animal, but our teacher Mr Smith is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-091",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "The dog is at home. ___ is very clean.",
+      "explanation": "Use \"It\" instead of the dog: the dog → it.",
+      "options": [
+        "I",
+        "He",
+        "It"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"I\" is for the speaker, but the dog is a thing or an animal.",
+        "1": "\"He\" is for one boy or man, but the dog is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-092",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "The horse is at home. ___ is very big.",
+      "explanation": "Use \"It\" instead of the horse: the horse → it.",
+      "options": [
+        "He",
+        "It",
+        "You"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"He\" is for one boy or man, but the horse is a thing or an animal.",
+        "2": "\"You\" is for the person you talk to, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-093",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "The horse is nice. I like ___.",
+      "explanation": "Use \"it\" instead of the horse after the verb: the horse → it.",
+      "options": [
+        "it",
+        "us",
+        "him"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"us\" is for the speaker and other people, but the horse is a thing or an animal.",
+        "2": "\"him\" is for one boy or man, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-094",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "The dogs are nice. I like ___.",
+      "explanation": "Use \"them\" instead of the dogs after the verb: the dogs → them.",
+      "options": [
+        "them",
+        "it",
+        "her"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"it\" is for a thing or an animal, but the dogs is more than one person or thing.",
+        "2": "\"her\" is for one girl or woman, but the dogs is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-mc-095",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "The books are at home. ___ are very nice.",
+      "explanation": "Use \"They\" instead of the books: the books → they.",
+      "options": [
+        "He",
+        "They",
+        "I"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"He\" is for one boy or man, but the books is more than one person or thing.",
+        "2": "\"I\" is for the speaker, but the books is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-mc-096",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Jack is nice. I like ___.",
+      "explanation": "Use \"him\" instead of Jack after the verb: Jack → him.",
+      "options": [
+        "him",
+        "it",
+        "her"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"it\" is for a thing or an animal, but Jack is one boy or man.",
+        "2": "\"her\" is for one girl or woman, but Jack is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-097",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Paul is nice. I like ___.",
+      "explanation": "Use \"him\" instead of Paul after the verb: Paul → him.",
+      "options": [
+        "him",
+        "us",
+        "them"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"us\" is for the speaker and other people, but Paul is one boy or man.",
+        "2": "\"them\" is for more than one person or thing, but Paul is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-098",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "My aunt is nice. I like ___.",
+      "explanation": "Use \"her\" instead of my aunt after the verb: my aunt → her.",
+      "options": [
+        "it",
+        "her",
+        "me"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"it\" is for a thing or an animal, but my aunt is one girl or woman.",
+        "2": "\"me\" is for the speaker, but my aunt is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-mc-099",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Tom is at home. ___ is very kind.",
+      "explanation": "Use \"He\" instead of Tom: Tom → he.",
+      "options": [
+        "We",
+        "I",
+        "He"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"We\" is for the speaker and other people, but Tom is one boy or man.",
+        "1": "\"I\" is for the speaker, but Tom is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-100",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Tom is nice. I like ___.",
+      "explanation": "Use \"him\" instead of Tom after the verb: Tom → him.",
+      "options": [
+        "her",
+        "him",
+        "them"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"her\" is for one girl or woman, but Tom is one boy or man.",
+        "2": "\"them\" is for more than one person or thing, but Tom is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-101",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Our teacher Mr Smith is nice. I like ___.",
+      "explanation": "Use \"him\" instead of our teacher Mr Smith after the verb: our teacher Mr Smith → him.",
+      "options": [
+        "them",
+        "him",
+        "you"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"them\" is for more than one person or thing, but our teacher Mr Smith is one boy or man.",
+        "2": "\"you\" is for the person you talk to, but our teacher Mr Smith is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-102",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "My sister is at home. ___ is very happy.",
+      "explanation": "Use \"She\" instead of my sister: my sister → she.",
+      "options": [
+        "You",
+        "He",
+        "She"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"You\" is for the person you talk to, but my sister is one girl or woman.",
+        "1": "\"He\" is for one boy or man, but my sister is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-mc-103",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "The car is nice. I like ___.",
+      "explanation": "Use \"it\" instead of the car after the verb: the car → it.",
+      "options": [
+        "him",
+        "it",
+        "us"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"him\" is for one boy or man, but the car is a thing or an animal.",
+        "2": "\"us\" is for the speaker and other people, but the car is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-104",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "My mother is nice. I like ___.",
+      "explanation": "Use \"her\" instead of my mother after the verb: my mother → her.",
+      "options": [
+        "her",
+        "me",
+        "it"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"me\" is for the speaker, but my mother is one girl or woman.",
+        "2": "\"it\" is for a thing or an animal, but my mother is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-mc-105",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "My brother is at home. ___ is very tired.",
+      "explanation": "Use \"He\" instead of my brother: my brother → he.",
+      "options": [
+        "He",
+        "It",
+        "They"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"It\" is for a thing or an animal, but my brother is one boy or man.",
+        "2": "\"They\" is for more than one person or thing, but my brother is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-106",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Ben is nice. I like ___.",
+      "explanation": "Use \"him\" instead of Ben after the verb: Ben → him.",
+      "options": [
+        "them",
+        "him",
+        "her"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"them\" is for more than one person or thing, but Ben is one boy or man.",
+        "2": "\"her\" is for one girl or woman, but Ben is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-107",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "The children are at home. ___ are very busy.",
+      "explanation": "Use \"They\" instead of the children: the children → they.",
+      "options": [
+        "He",
+        "You",
+        "They"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"He\" is for one boy or man, but the children is more than one person or thing.",
+        "1": "\"You\" is for the person you talk to, but the children is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-mc-108",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "The children are at home. ___ are very good.",
+      "explanation": "Use \"They\" instead of the children: the children → they.",
+      "options": [
+        "I",
+        "They",
+        "It"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"I\" is for the speaker, but the children is more than one person or thing.",
+        "2": "\"It\" is for a thing or an animal, but the children is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-mc-109",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "pronouns",
+      "prompt": "Anna is at home. ___ is very nice.",
+      "explanation": "Use \"She\" instead of Anna: Anna → she.",
+      "options": [
+        "We",
+        "She",
+        "He"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"We\" is for the speaker and other people, but Anna is one girl or woman.",
+        "2": "\"He\" is for one boy or man, but Anna is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-mc-110",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "My friends find ___ hat.",
+      "explanation": "Use \"their\" for more than one person or thing: My friends find their hat.",
+      "options": [
+        "its",
+        "their",
+        "my"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"its\" is for a thing or an animal, but my friends is more than one person or thing.",
+        "2": "\"my\" is for the speaker, but my friends is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-mc-111",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Emma helps ___ neighbour.",
+      "explanation": "Use \"her\" for one girl or woman: Emma helps her neighbour.",
+      "options": [
+        "her",
+        "its",
+        "your"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"its\" is for a thing or an animal, but Emma is one girl or woman.",
+        "2": "\"your\" is for the person you talk to, but Emma is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-mc-112",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Emma loves ___ shoes.",
+      "explanation": "Use \"her\" for one girl or woman: Emma loves her shoes.",
+      "options": [
+        "our",
+        "his",
+        "her"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"our\" is for the speaker and other people, but Emma is one girl or woman.",
+        "1": "\"his\" is for one boy or man, but Emma is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-mc-113",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "The horse loves ___ name.",
+      "explanation": "Use \"its\" for a thing or an animal: The horse loves its name.",
+      "options": [
+        "its",
+        "his",
+        "their"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"his\" is for one boy or man, but the horse is a thing or an animal.",
+        "2": "\"their\" is for more than one person or thing, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-114",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "The horse loves ___ bowl.",
+      "explanation": "Use \"its\" for a thing or an animal: The horse loves its bowl.",
+      "options": [
+        "its",
+        "your",
+        "her"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"your\" is for the person you talk to, but the horse is a thing or an animal.",
+        "2": "\"her\" is for one girl or woman, but the horse is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-115",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "The boys visit ___ cousin.",
+      "explanation": "Use \"their\" for more than one person or thing: The boys visit their cousin.",
+      "options": [
+        "your",
+        "our",
+        "their"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"your\" is for the person you talk to, but the boys is more than one person or thing.",
+        "1": "\"our\" is for the speaker and other people, but the boys is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-mc-116",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "The cat has ___ tail.",
+      "explanation": "Use \"its\" for a thing or an animal: The cat has its tail.",
+      "options": [
+        "its",
+        "my",
+        "your"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"my\" is for the speaker, but the cat is a thing or an animal.",
+        "2": "\"your\" is for the person you talk to, but the cat is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-117",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Jack helps ___ friend.",
+      "explanation": "Use \"his\" for one boy or man: Jack helps his friend.",
+      "options": [
+        "our",
+        "their",
+        "his"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"our\" is for the speaker and other people, but Jack is one boy or man.",
+        "1": "\"their\" is for more than one person or thing, but Jack is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-118",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Paul finds ___ house.",
+      "explanation": "Use \"his\" for one boy or man: Paul finds his house.",
+      "options": [
+        "their",
+        "his",
+        "your"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"their\" is for more than one person or thing, but Paul is one boy or man.",
+        "2": "\"your\" is for the person you talk to, but Paul is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-119",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Ben and Lucy love ___ keys.",
+      "explanation": "Use \"their\" for more than one person or thing: Ben and Lucy love their keys.",
+      "options": [
+        "his",
+        "their",
+        "its"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"his\" is for one boy or man, but Ben and Lucy is more than one person or thing.",
+        "2": "\"its\" is for a thing or an animal, but Ben and Lucy is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-mc-120",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "The bird likes ___ toy.",
+      "explanation": "Use \"its\" for a thing or an animal: The bird likes its toy.",
+      "options": [
+        "its",
+        "her",
+        "your"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"her\" is for one girl or woman, but the bird is a thing or an animal.",
+        "2": "\"your\" is for the person you talk to, but the bird is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-121",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Mia helps ___ teacher.",
+      "explanation": "Use \"her\" for one girl or woman: Mia helps her teacher.",
+      "options": [
+        "his",
+        "their",
+        "her"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"his\" is for one boy or man, but Mia is one girl or woman.",
+        "1": "\"their\" is for more than one person or thing, but Mia is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-mc-122",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "We call ___ neighbour.",
+      "explanation": "Use \"our\" for the speaker and other people: We call our neighbour.",
+      "options": [
+        "our",
+        "her",
+        "his"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"her\" is for one girl or woman, but We is the speaker and other people.",
+        "2": "\"his\" is for one boy or man, but We is the speaker and other people."
+      }
+    },
+    {
+      "id": "a1-mc-123",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Mrs Green likes ___ hat.",
+      "explanation": "Use \"her\" for one girl or woman: Mrs Green likes her hat.",
+      "options": [
+        "your",
+        "his",
+        "her"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"your\" is for the person you talk to, but Mrs Green is one girl or woman.",
+        "1": "\"his\" is for one boy or man, but Mrs Green is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-mc-124",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "The dogs lose ___ house.",
+      "explanation": "Use \"their\" for more than one person or thing: The dogs lose their house.",
+      "options": [
+        "your",
+        "their",
+        "my"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"your\" is for the person you talk to, but the dogs is more than one person or thing.",
+        "2": "\"my\" is for the speaker, but the dogs is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-mc-125",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "The bird has ___ bed.",
+      "explanation": "Use \"its\" for a thing or an animal: The bird has its bed.",
+      "options": [
+        "my",
+        "its",
+        "our"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"my\" is for the speaker, but the bird is a thing or an animal.",
+        "2": "\"our\" is for the speaker and other people, but the bird is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-126",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "The books like ___ shoes.",
+      "explanation": "Use \"their\" for more than one person or thing: The books like their shoes.",
+      "options": [
+        "their",
+        "our",
+        "your"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"our\" is for the speaker and other people, but the books is more than one person or thing.",
+        "2": "\"your\" is for the person you talk to, but the books is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-mc-127",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "We find ___ car.",
+      "explanation": "Use \"our\" for the speaker and other people: We find our car.",
+      "options": [
+        "our",
+        "your",
+        "its"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"your\" is for the person you talk to, but We is the speaker and other people.",
+        "2": "\"its\" is for a thing or an animal, but We is the speaker and other people."
+      }
+    },
+    {
+      "id": "a1-mc-128",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "The bird loves ___ house.",
+      "explanation": "Use \"its\" for a thing or an animal: The bird loves its house.",
+      "options": [
+        "their",
+        "your",
+        "its"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"their\" is for more than one person or thing, but the bird is a thing or an animal.",
+        "1": "\"your\" is for the person you talk to, but the bird is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-129",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "The bird likes ___ bed.",
+      "explanation": "Use \"its\" for a thing or an animal: The bird likes its bed.",
+      "options": [
+        "your",
+        "its",
+        "our"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"your\" is for the person you talk to, but the bird is a thing or an animal.",
+        "2": "\"our\" is for the speaker and other people, but the bird is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-130",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Ben and Lucy have ___ hat.",
+      "explanation": "Use \"their\" for more than one person or thing: Ben and Lucy have their hat.",
+      "options": [
+        "his",
+        "its",
+        "their"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"his\" is for one boy or man, but Ben and Lucy is more than one person or thing.",
+        "1": "\"its\" is for a thing or an animal, but Ben and Lucy is more than one person or thing."
+      }
+    },
+    {
+      "id": "a1-mc-131",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "The bird loves ___ bed.",
+      "explanation": "Use \"its\" for a thing or an animal: The bird loves its bed.",
+      "options": [
+        "her",
+        "your",
+        "its"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"her\" is for one girl or woman, but the bird is a thing or an animal.",
+        "1": "\"your\" is for the person you talk to, but the bird is a thing or an animal."
+      }
+    },
+    {
+      "id": "a1-mc-132",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Sam likes ___ phone.",
+      "explanation": "Use \"his\" for one boy or man: Sam likes his phone.",
+      "options": [
+        "his",
+        "my",
+        "her"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"my\" is for the speaker, but Sam is one boy or man.",
+        "2": "\"her\" is for one girl or woman, but Sam is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-133",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Anna visits ___ grandmother.",
+      "explanation": "Use \"her\" for one girl or woman: Anna visits her grandmother.",
+      "options": [
+        "his",
+        "my",
+        "her"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"his\" is for one boy or man, but Anna is one girl or woman.",
+        "1": "\"my\" is for the speaker, but Anna is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-mc-134",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Emma loses ___ cat.",
+      "explanation": "Use \"her\" for one girl or woman: Emma loses her cat.",
+      "options": [
+        "her",
+        "his",
+        "their"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"his\" is for one boy or man, but Emma is one girl or woman.",
+        "2": "\"their\" is for more than one person or thing, but Emma is one girl or woman."
+      }
+    },
+    {
+      "id": "a1-mc-135",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "Sam likes ___ bag.",
+      "explanation": "Use \"his\" for one boy or man: Sam likes his bag.",
+      "options": [
+        "his",
+        "its",
+        "her"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"its\" is for a thing or an animal, but Sam is one boy or man.",
+        "2": "\"her\" is for one girl or woman, but Sam is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-136",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "possessives",
+      "prompt": "My brother has ___ bag.",
+      "explanation": "Use \"his\" for one boy or man: My brother has his bag.",
+      "options": [
+        "your",
+        "its",
+        "his"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"your\" is for the person you talk to, but my brother is one boy or man.",
+        "1": "\"its\" is for a thing or an animal, but my brother is one boy or man."
+      }
+    },
+    {
+      "id": "a1-mc-137",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ a hotel near the beach.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a hotel near the beach.",
+      "options": [
+        "There is",
+        "It is",
+        "There are"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"It is\" does not say that something exists in a place. Use \"There is\".",
+        "2": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-mc-138",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ three apples in the bag.",
+      "explanation": "Use \"There are\" with plural nouns: There are three apples in the bag.",
+      "options": [
+        "It is",
+        "There is",
+        "There are"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"It is\" does not say that something exists in a place. Use \"There are\".",
+        "1": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-mc-139",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ two doors in the hall.",
+      "explanation": "Use \"There are\" with plural nouns: There are two doors in the hall.",
+      "options": [
+        "There are",
+        "It is",
+        "There is"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"It is\" does not say that something exists in a place. Use \"There are\".",
+        "2": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-mc-140",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ a school in my street.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a school in my street.",
+      "options": [
+        "It is",
+        "There is",
+        "There are"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"It is\" does not say that something exists in a place. Use \"There is\".",
+        "2": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-mc-141",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ four pictures on the wall.",
+      "explanation": "Use \"There are\" with plural nouns: There are four pictures on the wall.",
+      "options": [
+        "There are",
+        "There is",
+        "It is"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "2": "\"It is\" does not say that something exists in a place. Use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-mc-142",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ two cars in the garage.",
+      "explanation": "Use \"There are\" with plural nouns: There are two cars in the garage.",
+      "options": [
+        "There is",
+        "There are",
+        "It is"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "2": "\"It is\" does not say that something exists in a place. Use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-mc-143",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ a bank next to the shop.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a bank next to the shop.",
+      "options": [
+        "It is",
+        "There are",
+        "There is"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"It is\" does not say that something exists in a place. Use \"There is\".",
+        "1": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-mc-144",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ some cheese on the table.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is some cheese on the table.",
+      "options": [
+        "It is",
+        "There is",
+        "There are"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"It is\" does not say that something exists in a place. Use \"There is\".",
+        "2": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-mc-145",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ a garden behind the house.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a garden behind the house.",
+      "options": [
+        "There are",
+        "There is",
+        "It is"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "2": "\"It is\" does not say that something exists in a place. Use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-mc-146",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ one bed in the room.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is one bed in the room.",
+      "options": [
+        "There are",
+        "It is",
+        "There is"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "1": "\"It is\" does not say that something exists in a place. Use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-mc-147",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ some books on the shelf.",
+      "explanation": "Use \"There are\" with plural nouns: There are some books on the shelf.",
+      "options": [
+        "There are",
+        "There is",
+        "It is"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"There is\" is for one thing or a noun you cannot count. Here we have a plural noun, so we use \"There are\".",
+        "2": "\"It is\" does not say that something exists in a place. Use \"There are\"."
+      }
+    },
+    {
+      "id": "a1-mc-148",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ a cup on the table.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a cup on the table.",
+      "options": [
+        "It is",
+        "There is",
+        "There are"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"It is\" does not say that something exists in a place. Use \"There is\".",
+        "2": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-mc-149",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ some tea in the cup.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is some tea in the cup.",
+      "options": [
+        "There is",
+        "It is",
+        "There are"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"It is\" does not say that something exists in a place. Use \"There is\".",
+        "2": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-mc-150",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "there-is-are",
+      "prompt": "___ a cinema in the city.",
+      "explanation": "Use \"There is\" with one thing or a noun you cannot count: There is a cinema in the city.",
+      "options": [
+        "There are",
+        "It is",
+        "There is"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"There are\" is for plural nouns. Here we have one thing or an uncountable noun, so we use \"There is\".",
+        "1": "\"It is\" does not say that something exists in a place. Use \"There is\"."
+      }
+    },
+    {
+      "id": "a1-mc-151",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The cat is ___ the bed. (= below the bed)",
+      "explanation": "\"under\" means below: the cat is under the bed.",
+      "options": [
+        "on",
+        "in",
+        "under"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"on\" means touching the top of a surface. Here the cat is below the bed.",
+        "1": "\"in\" means inside something. Here the cat is below the bed."
+      }
+    },
+    {
+      "id": "a1-mc-152",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "She goes to the park ___ 7 o'clock.",
+      "explanation": "Use \"at\" with a clock time or a fixed time of the day: She goes to the park at 7 o'clock.",
+      "options": [
+        "in",
+        "at",
+        "on"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"in\" is used with months, years, seasons and parts of the day. \"7 o'clock\" is a clock time or a fixed time of the day, so we use \"at\".",
+        "2": "\"on\" is used with days and dates. \"7 o'clock\" is a clock time or a fixed time of the day, so we use \"at\"."
+      }
+    },
+    {
+      "id": "a1-mc-153",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The cat is ___ the school. (= beside the school)",
+      "explanation": "\"next to\" means beside: the cat is next to the school.",
+      "options": [
+        "in front of",
+        "in",
+        "next to"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"in front of\" means at the front of something. Here the cat is beside the school.",
+        "1": "\"in\" means inside something. Here the cat is beside the school."
+      }
+    },
+    {
+      "id": "a1-mc-154",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The film starts ___ the evening.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: The film starts in the evening.",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"on\" is used with days and dates. \"the evening\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "2": "\"at\" is used with clock times and fixed times like \"at night\". \"the evening\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-mc-155",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The cup is ___ the shelf. (= on top of the shelf)",
+      "explanation": "\"on\" means on top of: the cup is on the shelf.",
+      "options": [
+        "under",
+        "on",
+        "in"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"under\" means below something. Here the cup is on top of the shelf.",
+        "2": "\"in\" means inside something. Here the cup is on top of the shelf."
+      }
+    },
+    {
+      "id": "a1-mc-156",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The toy is ___ the bed. (= beside the bed)",
+      "explanation": "\"next to\" means beside: the toy is next to the bed.",
+      "options": [
+        "next to",
+        "behind",
+        "in front of"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"behind\" means at the back of something. Here the toy is beside the bed.",
+        "2": "\"in front of\" means at the front of something. Here the toy is beside the bed."
+      }
+    },
+    {
+      "id": "a1-mc-157",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The key is ___ the desk. (= below the desk)",
+      "explanation": "\"under\" means below: the key is under the desk.",
+      "options": [
+        "under",
+        "in front of",
+        "in"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"in front of\" means at the front of something. Here the key is below the desk.",
+        "2": "\"in\" means inside something. Here the key is below the desk."
+      }
+    },
+    {
+      "id": "a1-mc-158",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The ball is ___ the table. (= on top of the table)",
+      "explanation": "\"on\" means on top of: the ball is on the table.",
+      "options": [
+        "next to",
+        "behind",
+        "on"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"next to\" means beside something. Here the ball is on top of the table.",
+        "1": "\"behind\" means at the back of something. Here the ball is on top of the table."
+      }
+    },
+    {
+      "id": "a1-mc-159",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "They have a party ___ my birthday.",
+      "explanation": "Use \"on\" with a day or a date: They have a party on my birthday.",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"in\" is used with months, years, seasons and parts of the day. \"my birthday\" is a day or a date, so we use \"on\".",
+        "2": "\"at\" is used with clock times and fixed times like \"at night\". \"my birthday\" is a day or a date, so we use \"on\"."
+      }
+    },
+    {
+      "id": "a1-mc-160",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The cat is ___ the desk. (= on top of the desk)",
+      "explanation": "\"on\" means on top of: the cat is on the desk.",
+      "options": [
+        "next to",
+        "on",
+        "in front of"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"next to\" means beside something. Here the cat is on top of the desk.",
+        "2": "\"in front of\" means at the front of something. Here the cat is on top of the desk."
+      }
+    },
+    {
+      "id": "a1-mc-161",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The cup is ___ the house. (= at the front of the house)",
+      "explanation": "\"in front of\" means at the front of: the cup is in front of the house.",
+      "options": [
+        "in front of",
+        "on",
+        "in"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"on\" means touching the top of a surface. Here the cup is at the front of the house.",
+        "2": "\"in\" means inside something. Here the cup is at the front of the house."
+      }
+    },
+    {
+      "id": "a1-mc-162",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "I call my friend ___ the morning.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: I call my friend in the morning.",
+      "options": [
+        "at",
+        "on",
+        "in"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"at\" is used with clock times and fixed times like \"at night\". \"the morning\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "1": "\"on\" is used with days and dates. \"the morning\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-mc-163",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The bag is ___ the bus. (= at the front of the bus)",
+      "explanation": "\"in front of\" means at the front of: the bag is in front of the bus.",
+      "options": [
+        "in",
+        "in front of",
+        "under"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"in\" means inside something. Here the bag is at the front of the bus.",
+        "2": "\"under\" means below something. Here the bag is at the front of the bus."
+      }
+    },
+    {
+      "id": "a1-mc-164",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The bike is ___ the sofa. (= on top of the sofa)",
+      "explanation": "\"on\" means on top of: the bike is on the sofa.",
+      "options": [
+        "next to",
+        "in front of",
+        "on"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"next to\" means beside something. Here the bike is on top of the sofa.",
+        "1": "\"in front of\" means at the front of something. Here the bike is on top of the sofa."
+      }
+    },
+    {
+      "id": "a1-mc-165",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The bird is ___ the bus. (= at the front of the bus)",
+      "explanation": "\"in front of\" means at the front of: the bird is in front of the bus.",
+      "options": [
+        "next to",
+        "in front of",
+        "under"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"next to\" means beside something. Here the bird is at the front of the bus.",
+        "2": "\"under\" means below something. Here the bird is at the front of the bus."
+      }
+    },
+    {
+      "id": "a1-mc-166",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "I call my friend ___ summer.",
+      "explanation": "Use \"in\" with a month, a year, a season or a part of the day: I call my friend in summer.",
+      "options": [
+        "at",
+        "on",
+        "in"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"at\" is used with clock times and fixed times like \"at night\". \"summer\" is a month, a year, a season or a part of the day, so we use \"in\".",
+        "1": "\"on\" is used with days and dates. \"summer\" is a month, a year, a season or a part of the day, so we use \"in\"."
+      }
+    },
+    {
+      "id": "a1-mc-167",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The dog is ___ the tv. (= at the front of the tv)",
+      "explanation": "\"in front of\" means at the front of: the dog is in front of the tv.",
+      "options": [
+        "under",
+        "behind",
+        "in front of"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"under\" means below something. Here the dog is at the front of the tv.",
+        "1": "\"behind\" means at the back of something. Here the dog is at the front of the tv."
+      }
+    },
+    {
+      "id": "a1-mc-168",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "prepositions",
+      "prompt": "The shop opens ___ five o'clock.",
+      "explanation": "Use \"at\" with a clock time or a fixed time of the day: The shop opens at five o'clock.",
+      "options": [
+        "at",
+        "in",
+        "on"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"in\" is used with months, years, seasons and parts of the day. \"five o'clock\" is a clock time or a fixed time of the day, so we use \"at\".",
+        "2": "\"on\" is used with days and dates. \"five o'clock\" is a clock time or a fixed time of the day, so we use \"at\"."
+      }
+    },
+    {
+      "id": "a1-mc-169",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "The boys ___ two small windows.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: The boys have two small windows.",
+      "options": [
+        "haves",
+        "have",
+        "has"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"haves\" is not an English word. The forms are \"have\" and \"has\".",
+        "2": "\"has\" is only for he, she, it and one person. \"the boys\" needs \"have\"."
+      }
+    },
+    {
+      "id": "a1-mc-170",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Sara ___ a blue bag.",
+      "explanation": "Use \"has\" with he, she, it and one person: Sara has a blue bag.",
+      "options": [
+        "has",
+        "have",
+        "haves"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"Sara\" needs \"has\".",
+        "2": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-mc-171",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Paul ___ blue eyes.",
+      "explanation": "Use \"has\" with he, she, it and one person: Paul has blue eyes.",
+      "options": [
+        "has",
+        "have",
+        "haves"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"Paul\" needs \"has\".",
+        "2": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-mc-172",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "My parents ___ a black dog.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: My parents have a black dog.",
+      "options": [
+        "haves",
+        "have",
+        "has"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"haves\" is not an English word. The forms are \"have\" and \"has\".",
+        "2": "\"has\" is only for he, she, it and one person. \"my parents\" needs \"have\"."
+      }
+    },
+    {
+      "id": "a1-mc-173",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Rosa ___ an old computer.",
+      "explanation": "Use \"has\" with he, she, it and one person: Rosa has an old computer.",
+      "options": [
+        "has",
+        "have",
+        "haves"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"Rosa\" needs \"has\".",
+        "2": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-mc-174",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "She ___ a green car.",
+      "explanation": "Use \"has\" with he, she, it and one person: She has a green car.",
+      "options": [
+        "haves",
+        "have",
+        "has"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"haves\" is not an English word. The forms are \"have\" and \"has\".",
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"she\" needs \"has\"."
+      }
+    },
+    {
+      "id": "a1-mc-175",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Jack ___ a small garden.",
+      "explanation": "Use \"has\" with he, she, it and one person: Jack has a small garden.",
+      "options": [
+        "have",
+        "haves",
+        "has"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"have\" is used with I, you, we, they and plural subjects. \"Jack\" needs \"has\".",
+        "1": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-mc-176",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Dan ___ a sister.",
+      "explanation": "Use \"has\" with he, she, it and one person: Dan has a sister.",
+      "options": [
+        "has",
+        "have",
+        "haves"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"Dan\" needs \"has\".",
+        "2": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-mc-177",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "We ___ a black dog.",
+      "explanation": "Use \"have\" with I, you, we, they and plural subjects: We have a black dog.",
+      "options": [
+        "haves",
+        "have",
+        "has"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"haves\" is not an English word. The forms are \"have\" and \"has\".",
+        "2": "\"has\" is only for he, she, it and one person. \"we\" needs \"have\"."
+      }
+    },
+    {
+      "id": "a1-mc-178",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Sam ___ a black dog.",
+      "explanation": "Use \"has\" with he, she, it and one person: Sam has a black dog.",
+      "options": [
+        "haves",
+        "have",
+        "has"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"haves\" is not an English word. The forms are \"have\" and \"has\".",
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"Sam\" needs \"has\"."
+      }
+    },
+    {
+      "id": "a1-mc-179",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Zoe ___ three cats.",
+      "explanation": "Use \"has\" with he, she, it and one person: Zoe has three cats.",
+      "options": [
+        "haves",
+        "have",
+        "has"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"haves\" is not an English word. The forms are \"have\" and \"has\".",
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"Zoe\" needs \"has\"."
+      }
+    },
+    {
+      "id": "a1-mc-180",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Mia ___ a sister.",
+      "explanation": "Use \"has\" with he, she, it and one person: Mia has a sister.",
+      "options": [
+        "have",
+        "haves",
+        "has"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"have\" is used with I, you, we, they and plural subjects. \"Mia\" needs \"has\".",
+        "1": "\"haves\" is not an English word. The forms are \"have\" and \"has\"."
+      }
+    },
+    {
+      "id": "a1-mc-181",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Our teacher ___ a green car.",
+      "explanation": "Use \"has\" with he, she, it and one person: Our teacher has a green car.",
+      "options": [
+        "haves",
+        "has",
+        "have"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"haves\" is not an English word. The forms are \"have\" and \"has\".",
+        "2": "\"have\" is used with I, you, we, they and plural subjects. \"our teacher\" needs \"has\"."
+      }
+    },
+    {
+      "id": "a1-mc-182",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "have-has",
+      "prompt": "Mark ___ a good friend.",
+      "explanation": "Use \"has\" with he, she, it and one person: Mark has a good friend.",
+      "options": [
+        "haves",
+        "have",
+        "has"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"haves\" is not an English word. The forms are \"have\" and \"has\".",
+        "1": "\"have\" is used with I, you, we, they and plural subjects. \"Mark\" needs \"has\"."
+      }
+    },
+    {
+      "id": "a1-mc-183",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ is in your bag? — A book and a pen.",
+      "explanation": "What asks about a thing: What is in your bag?",
+      "options": [
+        "What",
+        "Why",
+        "How"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Why\" asks about a reason, but the answer \"A book and a pen.\" is a thing.",
+        "2": "\"How\" asks about a way or a feeling, but the answer \"A book and a pen.\" is a thing."
+      }
+    },
+    {
+      "id": "a1-mc-184",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ is your sister from? — Spain.",
+      "explanation": "Where asks about a place: Where is your sister from?",
+      "options": [
+        "How much",
+        "Where",
+        "How old"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"How much\" asks about a price or an amount, but the answer \"Spain.\" is a place.",
+        "2": "\"How old\" asks about an age, but the answer \"Spain.\" is a place."
+      }
+    },
+    {
+      "id": "a1-mc-185",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ do they play football? — In the park.",
+      "explanation": "Where asks about a place: Where do they play football?",
+      "options": [
+        "How many",
+        "How much",
+        "Where"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"How many\" asks about a number, but the answer \"In the park.\" is a place.",
+        "1": "\"How much\" asks about a price or an amount, but the answer \"In the park.\" is a place."
+      }
+    },
+    {
+      "id": "a1-mc-186",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ is the apple? — One euro.",
+      "explanation": "How much asks about a price or an amount: How much is the apple?",
+      "options": [
+        "How",
+        "Where",
+        "How much"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"How\" asks about a way or a feeling, but the answer \"One euro.\" is a price.",
+        "1": "\"Where\" asks about a place, but the answer \"One euro.\" is a price."
+      }
+    },
+    {
+      "id": "a1-mc-187",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ is she tired? — Because she works a lot.",
+      "explanation": "Why asks about a reason: Why is she tired?",
+      "options": [
+        "How old",
+        "Why",
+        "Who"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"How old\" asks about an age, but the answer \"Because she works a lot.\" is a reason.",
+        "2": "\"Who\" asks about a person, but the answer \"Because she works a lot.\" is a reason."
+      }
+    },
+    {
+      "id": "a1-mc-188",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ is the apple? — One euro.",
+      "explanation": "How much asks about a price or an amount: How much is the apple?",
+      "options": [
+        "How much",
+        "Who",
+        "When"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Who\" asks about a person, but the answer \"One euro.\" is a price.",
+        "2": "\"When\" asks about a time, but the answer \"One euro.\" is a price."
+      }
+    },
+    {
+      "id": "a1-mc-189",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ is the station? — Next to the bank.",
+      "explanation": "Where asks about a place: Where is the station?",
+      "options": [
+        "Where",
+        "How many",
+        "How"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"How many\" asks about a number, but the answer \"Next to the bank.\" is a place.",
+        "2": "\"How\" asks about a way or a feeling, but the answer \"Next to the bank.\" is a place."
+      }
+    },
+    {
+      "id": "a1-mc-190",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ is the post office? — Near the school.",
+      "explanation": "Where asks about a place: Where is the post office?",
+      "options": [
+        "Where",
+        "How old",
+        "How many"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"How old\" asks about an age, but the answer \"Near the school.\" is a place.",
+        "2": "\"How many\" asks about a number, but the answer \"Near the school.\" is a place."
+      }
+    },
+    {
+      "id": "a1-mc-191",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ is your birthday? — On 5 May.",
+      "explanation": "When asks about a time: When is your birthday?",
+      "options": [
+        "Why",
+        "How many",
+        "When"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Why\" asks about a reason, but the answer \"On 5 May.\" is a time.",
+        "1": "\"How many\" asks about a number, but the answer \"On 5 May.\" is a time."
+      }
+    },
+    {
+      "id": "a1-mc-192",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "questions",
+      "prompt": "___ is your favourite sport? — Tennis.",
+      "explanation": "What asks about a thing: What is your favourite sport?",
+      "options": [
+        "Where",
+        "How much",
+        "What"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Where\" asks about a place, but the answer \"Tennis.\" is a thing.",
+        "1": "\"How much\" asks about a price or an amount, but the answer \"Tennis.\" is a thing."
+      }
+    },
+    {
+      "id": "a1-mc-193",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 5?",
+      "explanation": "5 is written \"five\".",
+      "options": [
+        "six",
+        "fifteen",
+        "five",
+        "four"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"six\" is 6, not 5.",
+        "1": "\"fifteen\" is 15, not 5.",
+        "3": "\"four\" is 4, not 5."
+      }
+    },
+    {
+      "id": "a1-mc-194",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 2?",
+      "explanation": "2 is written \"two\".",
+      "options": [
+        "two",
+        "three",
+        "four"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"three\" is 3, not 2.",
+        "2": "\"four\" is 4, not 2."
+      }
+    },
+    {
+      "id": "a1-mc-195",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "What is one plus six?",
+      "explanation": "1 + 6 = 7, so the answer is \"seven\".",
+      "options": [
+        "nine",
+        "seven",
+        "eight"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"nine\" is 9, but 1 + 6 is 7.",
+        "2": "\"eight\" is 8, but 1 + 6 is 7."
+      }
+    },
+    {
+      "id": "a1-mc-196",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which number comes after fifteen?",
+      "explanation": "After fifteen comes sixteen: 15 → 16.",
+      "options": [
+        "twenty-six",
+        "seventeen",
+        "sixteen"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"twenty-six\" is 26. The number after fifteen is sixteen (16).",
+        "1": "\"seventeen\" is 17. The number after fifteen is sixteen (16)."
+      }
+    },
+    {
+      "id": "a1-mc-197",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 75?",
+      "explanation": "75 is written \"seventy-five\".",
+      "options": [
+        "seventy-five",
+        "seventy-four",
+        "seventy-six"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"seventy-four\" is 74, not 75.",
+        "2": "\"seventy-six\" is 76, not 75."
+      }
+    },
+    {
+      "id": "a1-mc-198",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "What is six plus two?",
+      "explanation": "6 + 2 = 8, so the answer is \"eight\".",
+      "options": [
+        "nine",
+        "eight",
+        "ten"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"nine\" is 9, but 6 + 2 is 8.",
+        "2": "\"ten\" is 10, but 6 + 2 is 8."
+      }
+    },
+    {
+      "id": "a1-mc-199",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 7?",
+      "explanation": "7 is written \"seven\".",
+      "options": [
+        "eight",
+        "nine",
+        "seven",
+        "seventeen"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"eight\" is 8, not 7.",
+        "1": "\"nine\" is 9, not 7.",
+        "3": "\"seventeen\" is 17, not 7."
+      }
+    },
+    {
+      "id": "a1-mc-200",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 8?",
+      "explanation": "8 is written \"eight\".",
+      "options": [
+        "seven",
+        "nine",
+        "eight",
+        "six"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"seven\" is 7, not 8.",
+        "1": "\"nine\" is 9, not 8.",
+        "3": "\"six\" is 6, not 8."
+      }
+    },
+    {
+      "id": "a1-mc-201",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which number comes after one?",
+      "explanation": "After one comes two: 1 → 2.",
+      "options": [
+        "zero",
+        "two",
+        "three"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"zero\" is 0. The number after one is two (2).",
+        "2": "\"three\" is 3. The number after one is two (2)."
+      }
+    },
+    {
+      "id": "a1-mc-202",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 8?",
+      "explanation": "8 is written \"eight\".",
+      "options": [
+        "seven",
+        "ten",
+        "eight",
+        "eighteen"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"seven\" is 7, not 8.",
+        "1": "\"ten\" is 10, not 8.",
+        "3": "\"eighteen\" is 18, not 8."
+      }
+    },
+    {
+      "id": "a1-mc-203",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "What is four plus five?",
+      "explanation": "4 + 5 = 9, so the answer is \"nine\".",
+      "options": [
+        "nine",
+        "eleven",
+        "seven"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"eleven\" is 11, but 4 + 5 is 9.",
+        "2": "\"seven\" is 7, but 4 + 5 is 9."
+      }
+    },
+    {
+      "id": "a1-mc-204",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "What is one plus seven?",
+      "explanation": "1 + 7 = 8, so the answer is \"eight\".",
+      "options": [
+        "eight",
+        "six",
+        "seven"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"six\" is 6, but 1 + 7 is 8.",
+        "2": "\"seven\" is 7, but 1 + 7 is 8."
+      }
+    },
+    {
+      "id": "a1-mc-205",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 44?",
+      "explanation": "44 is written \"forty-four\".",
+      "options": [
+        "forty-three",
+        "forty-four",
+        "fifty-four",
+        "forty-five"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"forty-three\" is 43, not 44.",
+        "2": "\"fifty-four\" is 54, not 44.",
+        "3": "\"forty-five\" is 45, not 44."
+      }
+    },
+    {
+      "id": "a1-mc-206",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which number comes after fourteen?",
+      "explanation": "After fourteen comes fifteen: 14 → 15.",
+      "options": [
+        "twenty-five",
+        "fifteen",
+        "fifty"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"twenty-five\" is 25. The number after fourteen is fifteen (15).",
+        "2": "\"fifty\" is 50. The number after fourteen is fifteen (15)."
+      }
+    },
+    {
+      "id": "a1-mc-207",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 20?",
+      "explanation": "20 is written \"twenty\".",
+      "options": [
+        "eighteen",
+        "twenty",
+        "ten",
+        "thirty"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"eighteen\" is 18, not 20.",
+        "2": "\"ten\" is 10, not 20.",
+        "3": "\"thirty\" is 30, not 20."
+      }
+    },
+    {
+      "id": "a1-mc-208",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 90?",
+      "explanation": "90 is written \"ninety\".",
+      "options": [
+        "one hundred",
+        "eighty-eight",
+        "ninety",
+        "ninety-one"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"one hundred\" is 100, not 90.",
+        "1": "\"eighty-eight\" is 88, not 90.",
+        "3": "\"ninety-one\" is 91, not 90."
+      }
+    },
+    {
+      "id": "a1-mc-209",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which number comes after fourteen?",
+      "explanation": "After fourteen comes fifteen: 14 → 15.",
+      "options": [
+        "thirteen",
+        "sixteen",
+        "fifteen"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"thirteen\" is 13. The number after fourteen is fifteen (15).",
+        "1": "\"sixteen\" is 16. The number after fourteen is fifteen (15)."
+      }
+    },
+    {
+      "id": "a1-mc-210",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which number comes after eighteen?",
+      "explanation": "After eighteen comes nineteen: 18 → 19.",
+      "options": [
+        "nine",
+        "nineteen",
+        "ninety"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"nine\" is 9. The number after eighteen is nineteen (19).",
+        "2": "\"ninety\" is 90. The number after eighteen is nineteen (19)."
+      }
+    },
+    {
+      "id": "a1-mc-211",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "What is six plus eight?",
+      "explanation": "6 + 8 = 14, so the answer is \"fourteen\".",
+      "options": [
+        "twelve",
+        "fourteen",
+        "fifteen"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"twelve\" is 12, but 6 + 8 is 14.",
+        "2": "\"fifteen\" is 15, but 6 + 8 is 14."
+      }
+    },
+    {
+      "id": "a1-mc-212",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "What is one plus four?",
+      "explanation": "1 + 4 = 5, so the answer is \"five\".",
+      "options": [
+        "six",
+        "four",
+        "five"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"six\" is 6, but 1 + 4 is 5.",
+        "1": "\"four\" is 4, but 1 + 4 is 5."
+      }
+    },
+    {
+      "id": "a1-mc-213",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 12?",
+      "explanation": "12 is written \"twelve\".",
+      "options": [
+        "fourteen",
+        "two",
+        "twelve"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"fourteen\" is 14, not 12.",
+        "1": "\"two\" is 2, not 12."
+      }
+    },
+    {
+      "id": "a1-mc-214",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 100?",
+      "explanation": "100 is written \"one hundred\".",
+      "options": [
+        "one hundred",
+        "ninety-nine",
+        "ninety-eight",
+        "ninety"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"ninety-nine\" is 99, not 100.",
+        "2": "\"ninety-eight\" is 98, not 100.",
+        "3": "\"ninety\" is 90, not 100."
+      }
+    },
+    {
+      "id": "a1-mc-215",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 9?",
+      "explanation": "9 is written \"nine\".",
+      "options": [
+        "nine",
+        "seven",
+        "eleven",
+        "ten"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"seven\" is 7, not 9.",
+        "2": "\"eleven\" is 11, not 9.",
+        "3": "\"ten\" is 10, not 9."
+      }
+    },
+    {
+      "id": "a1-mc-216",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which number comes after two?",
+      "explanation": "After two comes three: 2 → 3.",
+      "options": [
+        "one",
+        "four",
+        "three"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"one\" is 1. The number after two is three (3).",
+        "1": "\"four\" is 4. The number after two is three (3)."
+      }
+    },
+    {
+      "id": "a1-mc-217",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which number comes after eleven?",
+      "explanation": "After eleven comes twelve: 11 → 12.",
+      "options": [
+        "two",
+        "twelve",
+        "fourteen"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"two\" is 2. The number after eleven is twelve (12).",
+        "2": "\"fourteen\" is 14. The number after eleven is twelve (12)."
+      }
+    },
+    {
+      "id": "a1-mc-218",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 20?",
+      "explanation": "20 is written \"twenty\".",
+      "options": [
+        "thirty",
+        "nineteen",
+        "twenty"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"thirty\" is 30, not 20.",
+        "1": "\"nineteen\" is 19, not 20."
+      }
+    },
+    {
+      "id": "a1-mc-219",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 60?",
+      "explanation": "60 is written \"sixty\".",
+      "options": [
+        "seventy",
+        "sixty",
+        "fifty-eight"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"seventy\" is 70, not 60.",
+        "2": "\"fifty-eight\" is 58, not 60."
+      }
+    },
+    {
+      "id": "a1-mc-220",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 18?",
+      "explanation": "18 is written \"eighteen\".",
+      "options": [
+        "twenty",
+        "twenty-eight",
+        "eighteen"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"twenty\" is 20, not 18.",
+        "1": "\"twenty-eight\" is 28, not 18."
+      }
+    },
+    {
+      "id": "a1-mc-221",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which number comes after ten?",
+      "explanation": "After ten comes eleven: 10 → 11.",
+      "options": [
+        "eleven",
+        "nine",
+        "one"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"nine\" is 9. The number after ten is eleven (11).",
+        "2": "\"one\" is 1. The number after ten is eleven (11)."
+      }
+    },
+    {
+      "id": "a1-mc-222",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "What is seven plus one?",
+      "explanation": "7 + 1 = 8, so the answer is \"eight\".",
+      "options": [
+        "seven",
+        "ten",
+        "eight"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"seven\" is 7, but 7 + 1 is 8.",
+        "1": "\"ten\" is 10, but 7 + 1 is 8."
+      }
+    },
+    {
+      "id": "a1-mc-223",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 47?",
+      "explanation": "47 is written \"forty-seven\".",
+      "options": [
+        "fifty-seven",
+        "forty-seven",
+        "forty-nine"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"fifty-seven\" is 57, not 47.",
+        "2": "\"forty-nine\" is 49, not 47."
+      }
+    },
+    {
+      "id": "a1-mc-224",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 36?",
+      "explanation": "36 is written \"thirty-six\".",
+      "options": [
+        "thirty-four",
+        "forty-six",
+        "twenty-six",
+        "thirty-six"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"thirty-four\" is 34, not 36.",
+        "1": "\"forty-six\" is 46, not 36.",
+        "2": "\"twenty-six\" is 26, not 36."
+      }
+    },
+    {
+      "id": "a1-mc-225",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "Which word is the number 90?",
+      "explanation": "90 is written \"ninety\".",
+      "options": [
+        "eighty-eight",
+        "eighty",
+        "ninety"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"eighty-eight\" is 88, not 90.",
+        "1": "\"eighty\" is 80, not 90."
+      }
+    },
+    {
+      "id": "a1-mc-226",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "numbers",
+      "prompt": "What is three minus one?",
+      "explanation": "3 − 1 = 2, so the answer is \"two\".",
+      "options": [
+        "one",
+        "four",
+        "two"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"one\" is 1, but 3 − 1 is 2.",
+        "1": "\"four\" is 4, but 3 − 1 is 2."
+      }
+    },
+    {
+      "id": "a1-mc-227",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"a place where you read and borrow books\"?",
+      "explanation": "\"library\" means a place where you read and borrow books.",
+      "options": [
+        "airport",
+        "bakery",
+        "library"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"airport\" means a place where planes arrive and leave.",
+        "1": "\"bakery\" means a shop where you buy bread."
+      }
+    },
+    {
+      "id": "a1-mc-228",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"a small animal with long ears\"?",
+      "explanation": "\"rabbit\" means a small animal with long ears.",
+      "options": [
+        "fish",
+        "cow",
+        "rabbit"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"fish\" means an animal that lives and swims in water.",
+        "1": "\"cow\" means a farm animal that gives milk."
+      }
+    },
+    {
+      "id": "a1-mc-229",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"a food that comes from a chicken\"?",
+      "explanation": "\"egg\" means a food that comes from a chicken.",
+      "options": [
+        "egg",
+        "cheese",
+        "bread"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"cheese\" means a yellow food made from milk.",
+        "2": "\"bread\" means food made from flour that we eat with butter."
+      }
+    },
+    {
+      "id": "a1-mc-230",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"a person who keeps people safe in the street\"?",
+      "explanation": "\"police officer\" means a person who keeps people safe in the street.",
+      "options": [
+        "singer",
+        "doctor",
+        "police officer"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"singer\" means a person who sings songs.",
+        "1": "\"doctor\" means a person who helps sick people."
+      }
+    },
+    {
+      "id": "a1-mc-231",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"a small thing for money and cards\"?",
+      "explanation": "\"wallet\" means a small thing for money and cards.",
+      "options": [
+        "toothbrush",
+        "wallet",
+        "bed"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"toothbrush\" means a thing you use to clean your teeth.",
+        "2": "\"bed\" means a piece of furniture where you sleep."
+      }
+    },
+    {
+      "id": "a1-mc-232",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"a yellow fruit that is very sour\"?",
+      "explanation": "\"lemon\" means a yellow fruit that is very sour.",
+      "options": [
+        "lemon",
+        "egg",
+        "rice"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"egg\" means a food that comes from a chicken.",
+        "2": "\"rice\" means small white grains that we cook and eat."
+      }
+    },
+    {
+      "id": "a1-mc-233",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"the part of the body you stand on\"?",
+      "explanation": "\"foot\" means the part of the body you stand on.",
+      "options": [
+        "ear",
+        "foot",
+        "finger"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"ear\" means the part of the body you hear with.",
+        "2": "\"finger\" means one of the five parts at the end of your hand."
+      }
+    },
+    {
+      "id": "a1-mc-234",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"your female child\"?",
+      "explanation": "\"daughter\" means your female child.",
+      "options": [
+        "cousin",
+        "wife",
+        "daughter"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"cousin\" means the child of your aunt or uncle.",
+        "1": "\"wife\" means the woman a man is married to."
+      }
+    },
+    {
+      "id": "a1-mc-235",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"things you wear on your feet\"?",
+      "explanation": "\"shoes\" means things you wear on your feet.",
+      "options": [
+        "dress",
+        "shoes",
+        "belt"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"dress\" means a piece of clothing for a woman, made in one piece.",
+        "2": "\"belt\" means a thing you wear around your waist."
+      }
+    },
+    {
+      "id": "a1-mc-236",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"a person who sings songs\"?",
+      "explanation": "\"singer\" means a person who sings songs.",
+      "options": [
+        "singer",
+        "baker",
+        "farmer"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"baker\" means a person who makes bread and cakes.",
+        "2": "\"farmer\" means a person who grows food on a farm."
+      }
+    },
+    {
+      "id": "a1-mc-237",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"small white grains that we cook and eat\"?",
+      "explanation": "\"rice\" means small white grains that we cook and eat.",
+      "options": [
+        "rice",
+        "cheese",
+        "butter"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"cheese\" means a yellow food made from milk.",
+        "2": "\"butter\" means a soft yellow food we put on bread."
+      }
+    },
+    {
+      "id": "a1-mc-238",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"a place where people sell fruit and vegetables\"?",
+      "explanation": "\"market\" means a place where people sell fruit and vegetables.",
+      "options": [
+        "cinema",
+        "market",
+        "station"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"cinema\" means a place where you watch films.",
+        "2": "\"station\" means a place where trains stop."
+      }
+    },
+    {
+      "id": "a1-mc-239",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"the woman a man is married to\"?",
+      "explanation": "\"wife\" means the woman a man is married to.",
+      "options": [
+        "wife",
+        "cousin",
+        "grandmother"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"cousin\" means the child of your aunt or uncle.",
+        "2": "\"grandmother\" means the mother of your mother or father."
+      }
+    },
+    {
+      "id": "a1-mc-240",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "vocabulary",
+      "prompt": "Which word means \"a green place in a town where people walk and play\"?",
+      "explanation": "\"park\" means a green place in a town where people walk and play.",
+      "options": [
+        "park",
+        "school",
+        "restaurant"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"school\" means a place where children learn.",
+        "2": "\"restaurant\" means a place where you eat a meal and pay for it."
+      }
+    },
+    {
+      "id": "a1-mc-241",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"quiet\"?",
+      "explanation": "The opposite of \"quiet\" is \"noisy\".",
+      "options": [
+        "difficult",
+        "noisy",
+        "cheap"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"difficult\" is the opposite of \"easy\", not of \"quiet\".",
+        "2": "\"cheap\" is the opposite of \"expensive\", not of \"quiet\"."
+      }
+    },
+    {
+      "id": "a1-mc-242",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"dark\"?",
+      "explanation": "The opposite of \"dark\" is \"light\".",
+      "options": [
+        "weak",
+        "noisy",
+        "light"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"weak\" is the opposite of \"strong\", not of \"dark\".",
+        "1": "\"noisy\" is the opposite of \"quiet\", not of \"dark\"."
+      }
+    },
+    {
+      "id": "a1-mc-243",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"dirty\"?",
+      "explanation": "The opposite of \"dirty\" is \"clean\".",
+      "options": [
+        "early",
+        "clean",
+        "white"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"early\" is the opposite of \"late\", not of \"dirty\".",
+        "2": "\"white\" is the opposite of \"black\", not of \"dirty\"."
+      }
+    },
+    {
+      "id": "a1-mc-244",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"long\"?",
+      "explanation": "The opposite of \"long\" is \"short\".",
+      "options": [
+        "short",
+        "quiet",
+        "sad"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"quiet\" is the opposite of \"noisy\", not of \"long\".",
+        "2": "\"sad\" is the opposite of \"happy\", not of \"long\"."
+      }
+    },
+    {
+      "id": "a1-mc-245",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"open\"?",
+      "explanation": "The opposite of \"open\" is \"closed\".",
+      "options": [
+        "full",
+        "closed",
+        "sad"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"full\" is the opposite of \"empty\", not of \"open\".",
+        "2": "\"sad\" is the opposite of \"happy\", not of \"open\"."
+      }
+    },
+    {
+      "id": "a1-mc-246",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"thick\"?",
+      "explanation": "The opposite of \"thick\" is \"thin\".",
+      "options": [
+        "young",
+        "thin",
+        "small"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"young\" is the opposite of \"old\", not of \"thick\".",
+        "2": "\"small\" is the opposite of \"big\", not of \"thick\"."
+      }
+    },
+    {
+      "id": "a1-mc-247",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"difficult\"?",
+      "explanation": "The opposite of \"difficult\" is \"easy\".",
+      "options": [
+        "bad",
+        "right",
+        "easy"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"bad\" is the opposite of \"good\", not of \"difficult\".",
+        "1": "\"right\" is the opposite of \"wrong\", not of \"difficult\"."
+      }
+    },
+    {
+      "id": "a1-mc-248",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"young\"?",
+      "explanation": "The opposite of \"young\" is \"old\".",
+      "options": [
+        "closed",
+        "white",
+        "old"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"closed\" is the opposite of \"open\", not of \"young\".",
+        "1": "\"white\" is the opposite of \"black\", not of \"young\"."
+      }
+    },
+    {
+      "id": "a1-mc-249",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"bad\"?",
+      "explanation": "The opposite of \"bad\" is \"good\".",
+      "options": [
+        "noisy",
+        "clean",
+        "good"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"noisy\" is the opposite of \"quiet\", not of \"bad\".",
+        "1": "\"clean\" is the opposite of \"dirty\", not of \"bad\"."
+      }
+    },
+    {
+      "id": "a1-mc-250",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"bad\"?",
+      "explanation": "The opposite of \"bad\" is \"good\".",
+      "options": [
+        "dark",
+        "good",
+        "far"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"dark\" is the opposite of \"light\", not of \"bad\".",
+        "2": "\"far\" is the opposite of \"near\", not of \"bad\"."
+      }
+    },
+    {
+      "id": "a1-mc-251",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"weak\"?",
+      "explanation": "The opposite of \"weak\" is \"strong\".",
+      "options": [
+        "strong",
+        "tall",
+        "happy"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"tall\" is the opposite of \"short\", not of \"weak\".",
+        "2": "\"happy\" is the opposite of \"sad\", not of \"weak\"."
+      }
+    },
+    {
+      "id": "a1-mc-252",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"poor\"?",
+      "explanation": "The opposite of \"poor\" is \"rich\".",
+      "options": [
+        "easy",
+        "rich",
+        "clean"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"easy\" is the opposite of \"difficult\", not of \"poor\".",
+        "2": "\"clean\" is the opposite of \"dirty\", not of \"poor\"."
+      }
+    },
+    {
+      "id": "a1-mc-253",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"empty\"?",
+      "explanation": "The opposite of \"empty\" is \"full\".",
+      "options": [
+        "dark",
+        "full",
+        "easy"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"dark\" is the opposite of \"light\", not of \"empty\".",
+        "2": "\"easy\" is the opposite of \"difficult\", not of \"empty\"."
+      }
+    },
+    {
+      "id": "a1-mc-254",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"cheap\"?",
+      "explanation": "The opposite of \"cheap\" is \"expensive\".",
+      "options": [
+        "hot",
+        "tall",
+        "expensive"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"hot\" is the opposite of \"cold\", not of \"cheap\".",
+        "1": "\"tall\" is the opposite of \"short\", not of \"cheap\"."
+      }
+    },
+    {
+      "id": "a1-mc-255",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"clean\"?",
+      "explanation": "The opposite of \"clean\" is \"dirty\".",
+      "options": [
+        "dirty",
+        "white",
+        "tall"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"white\" is the opposite of \"black\", not of \"clean\".",
+        "2": "\"tall\" is the opposite of \"short\", not of \"clean\"."
+      }
+    },
+    {
+      "id": "a1-mc-256",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"early\"?",
+      "explanation": "The opposite of \"early\" is \"late\".",
+      "options": [
+        "late",
+        "thin",
+        "noisy"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"thin\" is the opposite of \"fat\", not of \"early\".",
+        "2": "\"noisy\" is the opposite of \"quiet\", not of \"early\"."
+      }
+    },
+    {
+      "id": "a1-mc-257",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"near\"?",
+      "explanation": "The opposite of \"near\" is \"far\".",
+      "options": [
+        "dry",
+        "far",
+        "short"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"dry\" is the opposite of \"wet\", not of \"near\".",
+        "2": "\"short\" is the opposite of \"tall\", not of \"near\"."
+      }
+    },
+    {
+      "id": "a1-mc-258",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"sad\"?",
+      "explanation": "The opposite of \"sad\" is \"happy\".",
+      "options": [
+        "thick",
+        "happy",
+        "expensive"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"thick\" is the opposite of \"thin\", not of \"sad\".",
+        "2": "\"expensive\" is the opposite of \"cheap\", not of \"sad\"."
+      }
+    },
+    {
+      "id": "a1-mc-259",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"easy\"?",
+      "explanation": "The opposite of \"easy\" is \"difficult\".",
+      "options": [
+        "fast",
+        "expensive",
+        "difficult"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"fast\" is the opposite of \"slow\", not of \"easy\".",
+        "1": "\"expensive\" is the opposite of \"cheap\", not of \"easy\"."
+      }
+    },
+    {
+      "id": "a1-mc-260",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"open\"?",
+      "explanation": "The opposite of \"open\" is \"closed\".",
+      "options": [
+        "big",
+        "closed",
+        "empty"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"big\" is the opposite of \"small\", not of \"open\".",
+        "2": "\"empty\" is the opposite of \"full\", not of \"open\"."
+      }
+    },
+    {
+      "id": "a1-mc-261",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"dry\"?",
+      "explanation": "The opposite of \"dry\" is \"wet\".",
+      "options": [
+        "empty",
+        "wet",
+        "fast"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"empty\" is the opposite of \"full\", not of \"dry\".",
+        "2": "\"fast\" is the opposite of \"slow\", not of \"dry\"."
+      }
+    },
+    {
+      "id": "a1-mc-262",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"happy\"?",
+      "explanation": "The opposite of \"happy\" is \"sad\".",
+      "options": [
+        "weak",
+        "empty",
+        "sad"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"weak\" is the opposite of \"strong\", not of \"happy\".",
+        "1": "\"empty\" is the opposite of \"full\", not of \"happy\"."
+      }
+    },
+    {
+      "id": "a1-mc-263",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"rich\"?",
+      "explanation": "The opposite of \"rich\" is \"poor\".",
+      "options": [
+        "happy",
+        "poor",
+        "dark"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"happy\" is the opposite of \"sad\", not of \"rich\".",
+        "2": "\"dark\" is the opposite of \"light\", not of \"rich\"."
+      }
+    },
+    {
+      "id": "a1-mc-264",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"small\"?",
+      "explanation": "The opposite of \"small\" is \"big\".",
+      "options": [
+        "old",
+        "hot",
+        "big"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"old\" is the opposite of \"new\", not of \"small\".",
+        "1": "\"hot\" is the opposite of \"cold\", not of \"small\"."
+      }
+    },
+    {
+      "id": "a1-mc-265",
+      "type": "multiple-choice",
+      "level": "A1",
+      "topic": "adjectives",
+      "prompt": "What is the opposite of \"cold\"?",
+      "explanation": "The opposite of \"cold\" is \"hot\".",
+      "options": [
+        "hot",
+        "slow",
+        "open"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"slow\" is the opposite of \"fast\", not of \"cold\".",
+        "2": "\"open\" is the opposite of \"closed\", not of \"cold\"."
+      }
     }
   ]
 }

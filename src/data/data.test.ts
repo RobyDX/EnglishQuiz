@@ -63,7 +63,7 @@ describe('question data', () => {
     const seen = new Map<string, string>();
     for (const { q } of all) {
       const anyQ = q as unknown as Record<string, unknown>;
-      const key = `${q.level}|${q.type}|${q.prompt}|${anyQ.text ?? ''}|${(anyQ.tokens as string[] | undefined)?.join(' ') ?? ''}|${(anyQ.options as string[] | undefined)?.join('/') ?? ''}|${anyQ.passage ?? ''}|${anyQ.wrong ?? ''}|${anyQ.original ?? ''}|${(anyQ.words as string[] | undefined)?.join(' ') ?? ''}`;
+      const key = `${q.level}|${q.type}|${q.prompt}|${anyQ.text ?? ''}|${(anyQ.tokens as string[] | undefined)?.join(' ') ?? ''}|${(anyQ.options as string[] | undefined)?.join('/') ?? ''}|${anyQ.passage ?? ''}|${anyQ.wrong ?? ''}|${anyQ.original ?? ''}|${(anyQ.words as string[] | undefined)?.join(' ') ?? ''}|${(anyQ.pairs as { left: string; right: string }[] | undefined)?.map((p) => `${p.left}>${p.right}`).sort().join('/') ?? ''}`;
       expect(seen.has(key), `${q.id} duplicates ${seen.get(key)}`).toBe(false);
       seen.set(key, q.id);
     }
