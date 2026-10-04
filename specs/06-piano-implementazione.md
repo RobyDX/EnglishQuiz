@@ -61,6 +61,13 @@ Dettagli e quote in `07-contenuti.md`. Per ogni livello: scrivere i lotti per ti
 - [x] Tema scuro (segue il sistema)
 - [x] README con comandi e deploy statico di `docs/`
 
+## Fase 7 – Test di livello
+- [x] Specifiche: `01` §11 e F14, `03` (`eq.placement`), `04` (PlacementPage), `08` (decisione 28)
+- [x] `src/engine/placement.ts` (scala su/giù, stima, argomenti deboli) + test Vitest
+- [x] `PlacementPage` (40 domande, avanzamento automatico, risultato) + rotta `#/placement` + test
+- [x] HomePage: riquadro "Find your level" / ultimo risultato
+- [x] Build in `docs/`
+
 ## Definizione di "fatto"
 Soddisfatti i criteri di accettazione in `01-progettazione.md` §9 e la checklist PWA in `05-pwa.md`.
 

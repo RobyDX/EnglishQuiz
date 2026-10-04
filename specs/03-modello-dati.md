@@ -71,6 +71,7 @@ export interface HistoryEntry {
 |--------|-----------|
 | `eq.prefs` | `{ lastLevel: Level, questionCount: 5\|10\|20 }` |
 | `eq.history` | `HistoryEntry[]` (max 50, i più recenti in testa) |
+| `eq.placement` | `PlacementSaved` = `{ date: string, level: Level, perLevel: Record<Level, { answered: number, correct: number }> }`: ultimo test di livello |
 | `eq.seen.<livello>` | `string[]` ultimi ~100 `id` visti, per evitare ripetizioni |
 
 - Il quiz in corso **non** è persistito (MVP). Ogni scheda del browser/indirizzo ha il suo archivio: niente sincronizzazione tra browser o dispositivi.

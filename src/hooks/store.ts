@@ -1,4 +1,4 @@
-import type { HistoryEntry, Level } from '../types';
+import { LEVELS, type HistoryEntry, type Level, type PlacementSaved } from '../types';
 import type { QuestionCount } from '../levels';
 
 // localStorage access is always wrapped: it may be unavailable (private mode, blocked data).
@@ -58,3 +58,11 @@ export function addSeen(level: Level, ids: string[]) {
   const merged = [...ids, ...[...loadSeen(level)].filter((id) => !ids.includes(id))];
   write(`eq.seen.${level}`, merged.slice(0, SEEN_MAX));
 }
+
+/** The last placement test, or undefined if there is none (or the saved data is not valid). */
+export function loadPlacement(): PlacementSaved | undefined {
+  const p = read<Partial<PlacementSaved> | null>('eq.placement', null);
+  if (!p || !p.date || !p.level || !LEVELS.includes(p.level) || !p.perLevel) return undefined;
+  return p as PlacementSaved;
+}
+export const savePlacement = (p: PlacementSaved) => write('eq.placement', p);

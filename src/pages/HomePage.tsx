@@ -1,13 +1,14 @@
 import { useRef, useState, type KeyboardEvent } from 'react';
 import { Button, ButtonGroup, Card, Col, Row } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
-import { loadPrefs, savePrefs } from '../hooks/store';
+import { loadPlacement, loadPrefs, savePrefs } from '../hooks/store';
 import { LEVEL_INFO, QUESTION_COUNTS, type QuestionCount } from '../levels';
 import { LEVELS, type Level } from '../types';
 
 export default function HomePage() {
   const navigate = useNavigate();
   const prefs = loadPrefs();
+  const placement = loadPlacement();
   const [level, setLevel] = useState<Level | undefined>(prefs.lastLevel);
   const [count, setCount] = useState<QuestionCount>(prefs.questionCount);
   const cards = useRef<(HTMLDivElement | null)[]>([]);
@@ -86,6 +87,27 @@ export default function HomePage() {
           Start
         </Button>
       </div>
+
+      <Card className="mt-4">
+        <Card.Body className="d-flex flex-column flex-sm-row align-items-sm-center justify-content-between gap-2">
+          <div>
+            {placement ? (
+              <>
+                <h2 className="h6 mb-0">Your level: {placement.level}</h2>
+                <small className="text-secondary">Tested on {new Date(placement.date).toLocaleDateString()}</small>
+              </>
+            ) : (
+              <>
+                <h2 className="h6 mb-0">Not sure about your level?</h2>
+                <small className="text-secondary">Answer 40 questions and find out.</small>
+              </>
+            )}
+          </div>
+          <Button variant="outline-primary" onClick={() => navigate('/placement')}>
+            {placement ? 'Retake the test' : 'Find your level'}
+          </Button>
+        </Card.Body>
+      </Card>
     </div>
   );
 }

@@ -23,6 +23,7 @@ Web app **SPA + PWA**, interamente **front-end** (nessun backend), per esercitar
 | F10 | Numero di domande selezionabile (5 / 10 / 20) nella schermata di avvio. |
 | F11 | **Feedback sugli errori.** Per ogni risposta errata (o vuota) l'app mostra: la risposta data dall'utente, la risposta corretta, **perché è sbagliata** (*Why it's wrong*) e **la regola** (*Rule*), tutto in inglese. Il feedback compare subito dopo "Check answers", senza dover premere "Show correct answers". Ogni risposta sbagliata ha una spiegazione **propria** (non riusata tra opzioni diverse). Vedi `04-ui-ux.md` e `07-contenuti.md`. |
 | F12 | **Barra livello/progresso sempre visibile** durante il quiz (livello, "n / totale answered") sotto la navbar, con a destra un pulsante **"↓ End"** che scorre fino alla fine della pagina. |
+| F14 | **Test di livello** (`#/placement`): 40 domande a scelta, **una alla volta**, che **avanzano da sole** appena si risponde (niente "Check answers", niente ritorno indietro). La difficoltà si adatta alle risposte e alla fine l'app mostra il **livello stimato**, il punteggio per livello e gli argomenti più deboli, con il pulsante per esercitarsi su quel livello. Il risultato è salvato in `localStorage` (`eq.placement`). Vedi §11. |
 | F13 | Nome dell'app: **"English Quiz"** (con lo spazio). La pagina About dice che l'app è stata fatta da Roberto Nacchia tramite Generative AI, per aiutare le persone a esercitarsi in inglese (senza soprannome). |
 
 ### 2.2 Non funzionali
@@ -150,6 +151,22 @@ In `submitted` gli input sono bloccati (read-only). Le risposte corrette si most
 6. Test di engine e di ogni tipologia verdi.
 7. La barra livello/progresso resta visibile mentre scorro, e "↓ End" porta ai pulsanti finali.
 8. Un quiz inviato compare **una volta sola** in History.
+
+## 11. Test di livello (placement)
+**Obiettivo**: stimare il livello CEFR dell'utente in circa 10 minuti, usando lo stesso catalogo dei quiz.
+
+**Domande.** 40 in totale (`PLACEMENT_TOTAL`), solo tipologie a scelta singola (`multiple-choice`, `verb-form`, `sentence-choice`, `odd-one-out`): una risposta = un tocco, quindi si può avanzare da soli. Nei livelli dove alcune di queste tipologie non esistono (es. C2) si usano quelle disponibili. Si pesca a caso, evitando prima le domande già viste di recente (`eq.seen.<livello>`) e mai la stessa domanda due volte nello stesso test. Le opzioni si mescolano come nei quiz.
+
+**Adattamento (scala su/giù).** Si parte da **B1**. A ogni risposta:
+- *giusta*: dopo **2 risposte giuste di fila** nello stesso livello si sale di un livello (massimo C2) e il conteggio riparte;
+- *sbagliata*: si scende subito di un livello (minimo A1) e il conteggio riparte.
+Questa regola converge intorno al livello in cui l'utente risponde bene circa il 70% delle volte.
+
+**Stima.** Per ogni livello si contano risposte date e giuste. Il **livello stimato** è il più alto con **almeno 5 risposte** e **almeno il 70%** di giuste; se nessun livello lo raggiunge, è A1. (Simulando utenti virtuali, la stima coincide col livello vero nel ~70% dei casi, è di un livello sotto in ~20% e sbaglia di 2 o più livelli in ~2,5%; con soglia 3 invece di 5 gli errori grandi erano ~4%.) La logica è pura, in `src/engine/placement.ts` (nessuna dipendenza da React), con test.
+
+**Argomenti deboli.** Gli argomenti (`topic`) con almeno 2 errori, in ordine decrescente, al massimo 5.
+
+**Non fa parte della cronologia** dei quiz (`eq.history`): ha una chiave propria.
 
 ## 10. Fuori scope (per ora)
 Account utente, sincronizzazione cloud, audio/listening, generazione di domande via AI, classifiche.
