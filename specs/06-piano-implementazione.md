@@ -3,10 +3,10 @@
 Ordine di lavoro. Ogni fase termina con test verdi e `npm run build` funzionante. Spuntare le voci man mano.
 
 ## Fase 0 – Setup
-- [x] Progetto Vite + React + TS **dentro `src/`** (root = `src/`), `build.outDir = '../build'`, `base: './'`
+- [x] Progetto Vite + React + TS **dentro `src/`** (root = `src/`), `build.outDir = '../docs'`, `base: './'`
 - [x] Dipendenze: `react-bootstrap`, `bootstrap`, `react-router-dom`, `vite-plugin-pwa`, `vitest`, `@testing-library/react`. (ESLint/Prettier non installati: lint = `tsc --noEmit`)
 - [x] `dev.bat` e `build.bat` nella radice per avviare la modalità dev e fare la build
-- [x] `.gitignore` (node_modules; `build/` è versionato, vedi decisione 25), script npm: `dev`, `build`, `preview`, `test`, `lint`
+- [x] `.gitignore` (node_modules; `docs/` è versionato, vedi decisione 25), script npm: `dev`, `build`, `preview`, `test`, `lint`
 
 ## Fase 1 – Motore (logica pura, TDD)
 - [x] Tipi in `src/types/`
@@ -59,7 +59,7 @@ Dettagli e quote in `07-contenuti.md`. Per ogni livello: scrivere i lotti per ti
 - [ ] (Opzionale) Messaggio quando un livello ha meno domande di quelle richieste
 - [ ] (Opzionale) ESLint + Prettier
 - [x] Tema scuro (segue il sistema)
-- [x] README con comandi e deploy statico di `build/`
+- [x] README con comandi e deploy statico di `docs/`
 
 ## Definizione di "fatto"
 Soddisfatti i criteri di accettazione in `01-progettazione.md` §9 e la checklist PWA in `05-pwa.md`.

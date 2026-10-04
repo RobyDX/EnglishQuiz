@@ -3,11 +3,11 @@ import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 import pkg from './package.json' with { type: 'json' };
 
-// The whole project (package.json, node_modules, config, sources) lives in src/; the build goes to ../build.
+// The whole project (package.json, node_modules, config, sources) lives in src/; the build goes to ../docs.
 export default defineConfig({
   base: './',
   define: { __APP_VERSION__: JSON.stringify(pkg.version) },
-  build: { outDir: '../build', emptyOutDir: true },
+  build: { outDir: '../docs', emptyOutDir: true },
   plugins: [
     react(),
     VitePWA({

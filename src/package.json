@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
-    "preview": "vite preview --outDir build",
+    "preview": "vite preview --outDir docs",
     "test": "vitest run",
     "lint": "tsc --noEmit",
     "icons": "node scripts/make-icons.mjs"
