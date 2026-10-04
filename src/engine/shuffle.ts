@@ -9,3 +9,8 @@ export function shuffle<T>(items: readonly T[], rng: Rng = Math.random): T[] {
   }
   return a;
 }
+
+/** A random element of the list (undefined if it is empty). */
+export function pickRandom<T>(items: readonly T[], rng: Rng = Math.random): T | undefined {
+  return items.length ? items[Math.min(items.length - 1, Math.floor(rng() * items.length))] : undefined;
+}

@@ -131,6 +131,13 @@ export interface HistoryEntry {
   percent: number;
 }
 
+/** Last placement test, saved in localStorage (`eq.placement`). */
+export interface PlacementSaved {
+  date: string;
+  level: Level;
+  perLevel: Record<Level, { answered: number; correct: number }>;
+}
+
 export interface QuestionFile {
   level: Level;
   type: QuestionType;
