@@ -2,7 +2,7 @@
 
 English exercises by CEFR level (A1–C2). React SPA + PWA, front-end only, Bootstrap 5. The app is entirely in English.
 
-Design documents are in [`specs/`](specs/). All code (including `package.json` and `node_modules`) is in [`src/`](src/); the build goes to `build/`.
+Design documents are in [`specs/`](specs/). All code (including `package.json` and `node_modules`) is in [`src/`](src/); the build goes to `docs/`.
 
 ## Commands (run inside `src/`)
 
@@ -12,8 +12,8 @@ npm install
 npm run dev       # dev server (or run dev.bat from the repository root)
 npm test          # unit + UI tests (Vitest)
 npm run lint      # type-check (tsc --noEmit)
-npm run build     # production build -> ../build (or run build.bat from the repository root)
-npm run preview   # serve ../build locally
+npm run build     # production build -> ../docs (or run build.bat from the repository root)
+npm run preview   # serve ../docs locally
 npm run icons     # regenerate the app icons (British flag + "English Quiz")
 ```
 
@@ -21,7 +21,7 @@ npm run icons     # regenerate the app icons (British flag + "English Quiz")
 
 ## Deploy
 
-`build/` is a static site (relative base path, hash routing): copy it to any static host or sub-folder.
+`docs/` is a static site (relative base path, hash routing): copy it to any static host or sub-folder.
 
 ## Content
 

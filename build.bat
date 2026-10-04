@@ -1,5 +1,5 @@
 @echo off
-rem Builds English Quiz for production: type-check, then output to the build\ folder.
+rem Builds English Quiz for production: type-check, then output to the docs\ folder.
 cd /d "%~dp0src"
 if not exist node_modules (
   echo Installing dependencies...
@@ -12,4 +12,4 @@ if errorlevel 1 (
   exit /b 1
 )
 echo.
-echo Build completed: %~dp0build
+echo Build completed: %~dp0docs

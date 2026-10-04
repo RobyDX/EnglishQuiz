@@ -5,7 +5,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | # | Decisione | Dettaglio / motivo | Dove |
 |---|-----------|--------------------|------|
 | 1 | App **SPA + PWA front-end only**, React + Bootstrap 5, TypeScript, Vite | Nessun backend; mobile e desktop | 01 |
-| 2 | **Tutto il progetto in `src/`** (compresi `package.json`, `node_modules`, `public`, `index.html`, config); build in `build/` | Richiesta esplicita: tutto ciò che è codice in `src`. Vite con `root: 'src'`, `outDir: '../build'`. I comandi npm si lanciano da `src/` (o con `dev.bat`) | 01 §4 |
+| 2 | **Tutto il progetto in `src/`** (compresi `package.json`, `node_modules`, `public`, `index.html`, config); build in `docs/` | Richiesta esplicita: tutto ciò che è codice in `src`. Vite con `root: 'src'`, `outDir: '../docs'`. I comandi npm si lanciano da `src/` (o con `dev.bat`) | 01 §4 |
 | 3 | **Tutto in inglese** nell'app (UI, domande, spiegazioni); specs in italiano | Pubblico italiano, ma l'immersione è l'obiettivo. Niente i18n, niente traduzioni (tipo `translate-choice` sostituito da `sentence-choice`) | 01, 02 |
 | 4 | **15 tipologie di domanda**, UI separata dalle regole (`questions/` vs `engine/rules.ts`) | Aggiungere un tipo non tocca il motore | 02, 01 §5.1 |
 | 5 | **Punteggio**: 1 punto per domanda, tutto o niente; percentuale intera arrotondata | Più spazi nella stessa domanda = tutti giusti | 01 §6 |
@@ -28,8 +28,9 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 22 | **Icona**: bandiera britannica con sotto "English Quiz" su due righe, generata da script (`npm run icons`) da SVG; favicon = PNG 192 | Richiesta esplicita; lo script è la fonte unica delle icone PWA e della favicon | 05 |
 | 23 | **Tema Bootstrap in blu bandiera inglese** (#012169); nel tema scuro una variante più chiara per la leggibilità; `theme_color` PWA identico | Coerenza con l'icona; override via variabili CSS in `app.css` | 04, 05 |
 | 24 | Il test anti-duplicati considera anche le coppie (`pairs`) dei `match-pairs` | Prima due `match-pairs` con lo stesso prompt ma coppie diverse risultavano doppioni; ora il duplicato è solo se prompt **e** coppie coincidono | 07 |
-| 25 | **`build/` non è in `.gitignore`**: l'output di build è versionato | Richiesta esplicita: la cartella di build deve stare nel repository (es. per pubblicarla direttamente). Resta un artefatto: si rigenera con `npm run build`, mai a mano | 01, 06 |
+| 25 | **`docs/` non è in `.gitignore`**: l'output di build è versionato | Richiesta esplicita: la cartella di build deve stare nel repository (es. per pubblicarla direttamente). Resta un artefatto: si rigenera con `npm run build`, mai a mano | 01, 06 |
 | 26 | **Accessibilità**: una sola regione `role="status"` sempre montata in QuizPage per gli annunci (invio, soluzioni, Try again, New quiz); focus spostato quando l'elemento attivo sparisce; skip link; livelli come radiogroup con frecce | Le regioni live inserite già piene non vengono lette in modo affidabile; senza gestione del focus chi usa la tastiera riparte dall'inizio della pagina | 04 |
+| 27 | **La cartella di output della build si chiama `docs/`** (prima `build/`) | Richiesta esplicita. `docs/` è il nome che GitHub Pages può servire direttamente. Vite: `build.outDir = '../docs'`; `npm run preview` serve `docs/`; `build.bat` aggiornato. Resta un artefatto versionato: si rigenera con `npm run build`, mai a mano | 01, 05, 06 |
 
 ## Ancora aperte
 Vedi `06-piano-implementazione.md`, sezione "Decisioni": hosting, export/import cronologia, ESLint/Prettier.

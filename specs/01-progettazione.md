@@ -54,7 +54,7 @@ Web app **SPA + PWA**, interamente **front-end** (nessun backend), per esercitar
 ```
 EnglishQuiz/
 ├─ specs/                  # documentazione (questa cartella)
-├─ build/                  # output di `npm run build` (NON modificare a mano; è versionato in git)
+├─ docs/                  # output di `npm run build` (NON modificare a mano; è versionato in git)
 ├─ CLAUDE.md, .gitignore, README.md
 └─ src/                    # TUTTO il progetto
    ├─ package.json, package-lock.json, node_modules/
@@ -75,8 +75,8 @@ EnglishQuiz/
 ```
 
 Regole:
-- I comandi npm si eseguono **dentro `src/`**. Vite usa `src/` come root e scrive la build in `../build` (`build.outDir = '../build'`).
-- `build/` è un artefatto: non si edita a mano, ma **è versionato** (non è in `.gitignore`); va rigenerato con `npm run build` e committato quando cambia il codice o i contenuti.
+- I comandi npm si eseguono **dentro `src/`**. Vite usa `src/` come root e scrive la build in `../docs` (`build.outDir = '../docs'`).
+- `docs/` è un artefatto: non si edita a mano, ma **è versionato** (non è in `.gitignore`); va rigenerato con `npm run build` e committato quando cambia il codice o i contenuti.
 - La logica di correzione è in `src/engine/` ed è **pura** (niente React) per essere testabile.
 
 ## 5. Architettura
@@ -146,7 +146,7 @@ In `submitted` gli input sono bloccati (read-only). Le risposte corrette si most
 2. Premo "Show correct answers" → ogni domanda mostra la soluzione.
 3. Funziona su 360×640 e su 1440×900 senza scroll orizzontale.
 4. Dopo il primo caricamento, in modalità offline l'app si avvia e si può fare un quiz.
-5. `npm run build` produce `build/` e `npm run preview` la serve correttamente.
+5. `npm run build` produce `docs/` e `npm run preview` la serve correttamente.
 6. Test di engine e di ogni tipologia verdi.
 7. La barra livello/progresso resta visibile mentre scorro, e "↓ End" porta ai pulsanti finali.
 8. Un quiz inviato compare **una volta sola** in History.
