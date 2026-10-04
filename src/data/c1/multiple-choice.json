@@ -41,6 +41,5266 @@
         "that she"
       ],
       "correct": 0
+    },
+    {
+      "id": "c1-mc-003",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Seldom ___ such a generous offer from a competitor.",
+      "explanation": "After a negative adverb like 'Seldom' at the start, put the auxiliary before the subject: Seldom have we seen such rain.",
+      "wrongReasons": {
+        "0": "Without inversion, the word order is wrong after a fronted 'Seldom'.",
+        "1": "The past simple without 'did' is not inverted, so the clause does not follow 'Seldom' correctly.",
+        "3": "A main verb cannot move before the subject in modern English; we need an auxiliary."
+      },
+      "options": [
+        "we have received",
+        "we received",
+        "have we received",
+        "received we"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-004",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "What surprised me most ___ how calm everyone remained during the storm.",
+      "explanation": "In a 'What' cleft sentence, the 'What' clause is singular and is followed by 'is/was': What I need is time.",
+      "wrongReasons": {
+        "1": "A 'What' clause takes a singular verb, so 'were' does not agree.",
+        "2": "'it' adds an extra subject; the 'What' clause is already the subject.",
+        "3": "Repeating 'what' makes the sentence ungrammatical."
+      },
+      "options": [
+        "was",
+        "were",
+        "it was",
+        "what was"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-005",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "If she had accepted the job in Tokyo, she ___ fluent in Japanese now.",
+      "explanation": "Mixed conditional: past condition (if + past perfect) with a present result (would + base form): If I had studied medicine, I would be a doctor now.",
+      "wrongReasons": {
+        "0": "'would have been' refers to the past, but 'now' shows a present result.",
+        "1": "'will be' is used for real future conditions, not unreal ones.",
+        "2": "'had been' cannot be used in the result clause of a conditional."
+      },
+      "options": [
+        "would have been",
+        "will be",
+        "had been",
+        "would be"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-006",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The new manager quickly ___ a good rapport with her team.",
+      "explanation": "'Establish a rapport (with someone)' is a fixed collocation meaning to build a good relationship: He established a rapport with his students.",
+      "wrongReasons": {
+        "0": "We do not say 'do a rapport'; 'do' collocates with tasks and duties.",
+        "1": "'make up' means to invent or to reconcile, not to build a rapport.",
+        "2": "'take a rapport' is not a natural collocation in English."
+      },
+      "options": [
+        "did",
+        "made up",
+        "took",
+        "established"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-007",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a job application: 'I am writing to ___ for the position of sales director.'",
+      "explanation": "In formal letters, use neutral or formal verbs instead of phrasal or informal ones: I am writing to apply for...",
+      "wrongReasons": {
+        "1": "'go for' is an informal phrasal verb, too casual for an application letter.",
+        "2": "'have a shot' is very informal and also needs 'at'.",
+        "3": "'try out' means to test something and is informal."
+      },
+      "options": [
+        "apply",
+        "go for",
+        "have a shot",
+        "try out"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-008",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ the report twice, she finally sent it to her manager.",
+      "explanation": "A perfect participle clause (Having + past participle) shows an action completed before the main action: Having finished dinner, we went out.",
+      "wrongReasons": {
+        "0": "'Checked' alone has a passive meaning, but she did the checking.",
+        "2": "'Having been checked' is passive and would mean she was checked.",
+        "3": "'To have checked' does not express a completed earlier action here."
+      },
+      "options": [
+        "Checked",
+        "Having checked",
+        "Having been checked",
+        "To have checked"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-009",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Under no circumstances ___ the laboratory without protective glasses.",
+      "explanation": "'Under no circumstances' at the start triggers inversion: Under no circumstances should you open this door.",
+      "wrongReasons": {
+        "0": "The modal must come before the subject after 'Under no circumstances'.",
+        "1": "There is no inversion at all here, and a fronted negative phrase requires it.",
+        "2": "The subject must sit between the modal and the main verb, not after the verb."
+      },
+      "options": [
+        "visitors should enter",
+        "visitors enter",
+        "should enter visitors",
+        "should visitors enter"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-010",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "It was the cleaner, not the guard, ___ noticed the broken window.",
+      "explanation": "In an 'It was ... who' cleft, use 'who' or 'that' for a person who is the subject: It was Tom who called.",
+      "wrongReasons": {
+        "0": "'which' is used for things, not people.",
+        "1": "'whom' is an object form; here the person is the subject of 'noticed'.",
+        "2": "'what' cannot introduce the second part of an 'It was...' cleft."
+      },
+      "options": [
+        "which",
+        "whom",
+        "what",
+        "who"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-011",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "If he weren't so stubborn, he ___ the argument with his sister last week.",
+      "explanation": "Mixed conditional: a present general situation (if + past simple) with a past result (would have + past participle): If I were braver, I would have spoken up yesterday.",
+      "wrongReasons": {
+        "0": "'wouldn't start' refers to the present or future, but 'last week' is past.",
+        "1": "'won't start' is for real future conditions.",
+        "2": "The past perfect alone is not used in the result clause."
+      },
+      "options": [
+        "wouldn't start",
+        "won't start",
+        "hadn't started",
+        "wouldn't have started"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-012",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The scientists hope to ___ light on why some birds migrate at night.",
+      "explanation": "'Shed/throw light on something' means to help explain it: The letters shed light on his early life.",
+      "wrongReasons": {
+        "0": "'put light on' is not the idiom; we say 'shed light on'.",
+        "2": "'give light' refers to producing light, not to explaining something.",
+        "3": "'open light' is not an English collocation."
+      },
+      "options": [
+        "put",
+        "shed",
+        "give",
+        "open"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-013",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most appropriate option for a formal email: 'Please find ___ the documents you requested.'",
+      "explanation": "'Please find attached...' is a standard formula in formal emails: Please find attached my CV.",
+      "wrongReasons": {
+        "1": "'stuck on' is informal and does not describe email attachments.",
+        "2": "'here's' is a contraction used in informal writing and breaks the grammar of 'Please find'.",
+        "3": "'put in' sounds casual and does not form the set phrase."
+      },
+      "options": [
+        "attached",
+        "stuck on",
+        "here's",
+        "put in"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-014",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ in 1890, the bridge is still used by thousands of cars every day.",
+      "explanation": "A past participle clause has a passive meaning: Built in 1890 = It was built in 1890.",
+      "wrongReasons": {
+        "0": "'Building' is active, but the bridge did not build anything.",
+        "1": "'Having built' is active and suggests the bridge built something.",
+        "2": "'To build' expresses purpose, not a past fact about the bridge."
+      },
+      "options": [
+        "Building",
+        "Having built",
+        "To build",
+        "Built"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-015",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Only after the audit had been completed ___ the true scale of the losses.",
+      "explanation": "'Only after + clause' at the start causes inversion in the main clause: Only after he left did I notice the mistake.",
+      "wrongReasons": {
+        "0": "The main clause keeps normal word order, but 'Only after...' requires inversion.",
+        "2": "Emphatic 'did' is still placed after the subject here, so this is not inversion.",
+        "3": "Moving a main verb before its subject is not possible; use 'did' + subject + base verb."
+      },
+      "options": [
+        "the board realised",
+        "did the board realise",
+        "the board did realise",
+        "realised the board"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-016",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "All I want to do this weekend ___ catch up on sleep.",
+      "explanation": "'All + clause' works like 'the only thing' and is followed by singular 'is' and often a bare infinitive: All I did was ask.",
+      "wrongReasons": {
+        "0": "The 'All' clause is singular, so 'are' does not agree.",
+        "1": "'it' adds an unnecessary second subject.",
+        "2": "'that is' means 'in other words' and does not complete this structure."
+      },
+      "options": [
+        "are",
+        "it is",
+        "that is",
+        "is"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-017",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "___ you leave now, you'll miss the rush-hour traffic.",
+      "explanation": "'Provided (that)' means 'only if' and introduces a real condition: Provided you pay on time, there is no fee.",
+      "wrongReasons": {
+        "1": "'Unless' means 'if not', which reverses the intended meaning.",
+        "2": "'Even though' expresses contrast, not a condition.",
+        "3": "'Supposing not' is not a correct way to start a conditional clause."
+      },
+      "options": [
+        "Provided",
+        "Unless",
+        "Even though",
+        "Supposing not"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-018",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The company has come under ___ criticism for its treatment of workers.",
+      "explanation": "'Fierce criticism' is a strong, natural collocation: The plan faced fierce criticism.",
+      "wrongReasons": {
+        "0": "'hard criticism' is unusual; we prefer 'harsh' or 'fierce'.",
+        "2": "'tall' describes height and does not collocate with 'criticism'.",
+        "3": "'thick' describes physical density, not the strength of criticism."
+      },
+      "options": [
+        "hard",
+        "fierce",
+        "tall",
+        "thick"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-019",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a report: 'Sales ___ significantly in the third quarter.'",
+      "explanation": "Formal reports use single precise verbs rather than informal phrases: Profits declined by 5%.",
+      "wrongReasons": {
+        "0": "'went down a lot' is conversational and vague.",
+        "2": "'took a nosedive' is an informal idiom.",
+        "3": "'dropped like a stone' is a colourful informal simile, not suitable for a report."
+      },
+      "options": [
+        "went down a lot",
+        "declined",
+        "took a nosedive",
+        "dropped like a stone"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-020",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ from the top of the tower, the city looks surprisingly small.",
+      "explanation": "A past participle clause can describe the subject passively: Seen from above, the fields look like a chessboard.",
+      "wrongReasons": {
+        "0": "'Seeing' would mean the city is doing the seeing.",
+        "1": "'Having seen' is active and implies the city saw something.",
+        "2": "'To be seeing' is not used to describe how something appears."
+      },
+      "options": [
+        "Seeing",
+        "Having seen",
+        "To be seeing",
+        "Seen"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-021",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Little ___ that the stranger on the train would become her business partner.",
+      "explanation": "Negative 'Little' at the start means 'not at all' and needs inversion: Little did they know what was coming.",
+      "wrongReasons": {
+        "0": "Normal word order is not possible after a fronted 'Little' with this meaning.",
+        "1": "Here 'did' follows the subject, so the required inversion is missing.",
+        "3": "A lexical verb cannot be inverted with its subject; we need the auxiliary 'did'."
+      },
+      "options": [
+        "she suspected",
+        "she did suspect",
+        "did she suspect",
+        "suspected she"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-022",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "It was only when the bill arrived ___ we realised how expensive the restaurant was.",
+      "explanation": "In an 'It was ... that' cleft, the second part is introduced by 'that', even after a time expression: It was in 2010 that we met.",
+      "wrongReasons": {
+        "0": "Repeating 'when' is a common error; the cleft structure needs 'that'.",
+        "1": "'which' refers to a noun, but here we need the cleft link 'that'.",
+        "2": "'so' expresses result and does not fit the cleft pattern."
+      },
+      "options": [
+        "when",
+        "which",
+        "so",
+        "that"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-023",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "You may use the studio at weekends ___ you lock it when you leave.",
+      "explanation": "'As long as' means 'on condition that': You can stay as long as you keep quiet.",
+      "wrongReasons": {
+        "1": "'unless' means 'except if', which gives the opposite meaning.",
+        "2": "'in case' means 'as a precaution', not a condition.",
+        "3": "'even if' means the condition makes no difference, which does not fit here."
+      },
+      "options": [
+        "as long as",
+        "unless",
+        "in case",
+        "even if"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-024",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "Before signing anything, you should ___ legal advice.",
+      "explanation": "'Seek advice' is a formal collocation meaning to ask for advice: Seek medical advice if symptoms continue.",
+      "wrongReasons": {
+        "0": "'search advice' is wrong; 'search' needs 'for' and does not collocate with 'advice'.",
+        "2": "'look advice' is ungrammatical; 'look' needs a preposition.",
+        "3": "'find out' means to discover information, not to ask for advice."
+      },
+      "options": [
+        "search",
+        "seek",
+        "look",
+        "find out"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-025",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a complaint letter: 'I would be grateful if you could ___ this matter as soon as possible.'",
+      "explanation": "'Look into' (or 'investigate') is acceptable in formal letters; slang phrasal verbs are not: Please look into the delay.",
+      "wrongReasons": {
+        "0": "'sort out' is common in speech but too informal for a formal complaint.",
+        "2": "'fix up' is informal and means to repair or arrange.",
+        "3": "'have a go at' is informal and can mean to criticise someone."
+      },
+      "options": [
+        "sort out",
+        "look into",
+        "fix up",
+        "have a go at"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-026",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ the risks, the climbers decided to continue towards the summit.",
+      "explanation": "'Despite' can be followed by an -ing form in a participle-style clause: Despite feeling ill, he went to work.",
+      "wrongReasons": {
+        "0": "'Despite' is never followed by 'of'.",
+        "1": "'Although' needs a full clause with a subject, or a participle without 'that'.",
+        "3": "'In spite' must be followed by 'of'."
+      },
+      "options": [
+        "Despite of knowing",
+        "Although knowing that",
+        "Despite knowing",
+        "In spite knowing"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-027",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "No sooner ___ the lease on the flat than the landlord announced he was selling the building.",
+      "explanation": "'No sooner' is followed by inverted past perfect and then 'than': No sooner had I sat down than the phone rang.",
+      "wrongReasons": {
+        "0": "This keeps normal word order, but 'No sooner' at the start requires inversion.",
+        "1": "With 'No sooner ... than' the standard form is the past perfect: had we signed.",
+        "3": "The past simple without inversion breaks both rules of this structure."
+      },
+      "options": [
+        "we had signed",
+        "did we sign",
+        "had we signed",
+        "we signed"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-028",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "What the company should have done ___ the problem publicly.",
+      "explanation": "After 'What + subject + do/did', we can use 'be' + bare infinitive: What she did was call the police.",
+      "wrongReasons": {
+        "1": "'admitted' is a past form; after 'What ... done was' we use the base form.",
+        "2": "The 'What' clause is singular and the continuous form is wrong here.",
+        "3": "'to' must be followed by a base form, not 'admitted'."
+      },
+      "options": [
+        "was admit",
+        "was admitted",
+        "were admitting",
+        "is to admitted"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-029",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "If it hadn't been for the lifeguard, the boy ___.",
+      "explanation": "'If it hadn't been for + noun' means 'without' and takes a third conditional result: If it hadn't been for you, I would have failed.",
+      "wrongReasons": {
+        "0": "'would drown' refers to the present or future, but the event is past.",
+        "1": "'will have drowned' is a future perfect, not an unreal past result.",
+        "3": "The past perfect alone is not used in the result clause."
+      },
+      "options": [
+        "would drown",
+        "will have drowned",
+        "would have drowned",
+        "had drowned"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-030",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The minister refused to ___ responsibility for the failed policy.",
+      "explanation": "'Accept/take/assume responsibility' are standard collocations: She accepted full responsibility for the error.",
+      "wrongReasons": {
+        "0": "'receive responsibility' is not natural; we 'accept' or 'take' it.",
+        "1": "'bring responsibility' is not a collocation; we 'accept' or 'take' responsibility.",
+        "2": "'get responsibility' is informal and not used for admitting blame."
+      },
+      "options": [
+        "receive",
+        "bring",
+        "get",
+        "accept"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-031",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for an official notice: 'Passengers are ___ to keep their belongings with them at all times.'",
+      "explanation": "Formal notices use passive verbs like 'are requested/required to': Visitors are requested to sign in.",
+      "wrongReasons": {
+        "1": "'told off' means 'scolded' and does not fit a polite request.",
+        "2": "'asked nicely' sounds childish and informal.",
+        "3": "'bugged' is slang for 'annoyed'."
+      },
+      "options": [
+        "requested",
+        "told off",
+        "asked nicely",
+        "bugged"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-032",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "The woman ___ next to me on the plane turned out to be a famous chef.",
+      "explanation": "A present participle can replace a relative clause with an active verb: the woman sitting next to me = the woman who was sitting next to me.",
+      "wrongReasons": {
+        "0": "'sit' is a base form and cannot describe the noun after it.",
+        "2": "'who sitting' lacks the auxiliary 'was'.",
+        "3": "'having sat' suggests a completed earlier action, not an ongoing one."
+      },
+      "options": [
+        "sit",
+        "sitting",
+        "who sitting",
+        "having sat"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-033",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Rarely ___ a debut novel received such universal praise from critics.",
+      "explanation": "After 'Rarely' at the start, use the auxiliary before the subject; here the subject is 'a debut novel', so 'has': Rarely has a film earned so much.",
+      "wrongReasons": {
+        "1": "There is already a subject ('a debut novel'); adding 'it' creates two subjects.",
+        "2": "The subject 'a debut novel' is singular, so 'have' does not agree.",
+        "3": "'did' would need the base form 'receive', not the participle 'received'."
+      },
+      "options": [
+        "has",
+        "it has",
+        "have",
+        "did"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-034",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "The reason ___ he left the band was a disagreement over money.",
+      "explanation": "'The reason why + clause' is a common cleft-like structure: The reason why I called was to apologise.",
+      "wrongReasons": {
+        "0": "'what' cannot follow 'the reason' as a relative word.",
+        "2": "'because' cannot follow 'the reason' directly in this structure.",
+        "3": "'for' alone does not introduce a clause here."
+      },
+      "options": [
+        "what",
+        "why",
+        "because",
+        "for"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-035",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Take an umbrella ___ it rains later.",
+      "explanation": "'In case' means 'as a precaution because something might happen': Take a map in case you get lost.",
+      "wrongReasons": {
+        "1": "'unless' means 'if not' and gives the wrong meaning.",
+        "2": "'provided' means 'on condition that', which does not make sense here.",
+        "3": "'if only' expresses a wish or regret, not a precaution."
+      },
+      "options": [
+        "in case",
+        "unless",
+        "provided",
+        "if only"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-036",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "There is a ___ chance that the flight will be delayed because of the snow.",
+      "explanation": "'A strong chance' (also 'a good chance') collocates naturally: There's a strong chance of rain.",
+      "wrongReasons": {
+        "0": "'heavy' collocates with rain or traffic, not with 'chance'.",
+        "1": "'a large chance' is not idiomatic in English.",
+        "3": "'wide' describes range or distance, not probability."
+      },
+      "options": [
+        "heavy",
+        "large",
+        "strong",
+        "wide"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-037",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for an academic essay: 'There is ___ evidence to support this theory.'",
+      "explanation": "Academic writing prefers precise single words such as 'insufficient' or 'limited': There is insufficient data.",
+      "wrongReasons": {
+        "0": "'not enough of' is grammatically wrong here and too informal.",
+        "1": "'hardly any old' is colloquial and ungrammatical.",
+        "3": "'a bit less' is vague and conversational."
+      },
+      "options": [
+        "not enough of",
+        "hardly any old",
+        "insufficient",
+        "a bit less"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-038",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Not ___ what to say, he simply nodded and left the room.",
+      "explanation": "Negative participle clauses put 'not' before the participle: Not knowing the way, we asked for directions.",
+      "wrongReasons": {
+        "1": "'known' is passive and does not fit: he did not know.",
+        "2": "'Not to know' expresses purpose or advice, not a reason.",
+        "3": "'having known' suggests a completed earlier state, which sounds odd for a moment of uncertainty."
+      },
+      "options": [
+        "knowing",
+        "known",
+        "to know",
+        "having known"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-039",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Not until the final whistle ___ that the team had actually won the league.",
+      "explanation": "A sentence starting with 'Not until...' inverts the main clause: Not until midnight did the guests leave.",
+      "wrongReasons": {
+        "0": "After a fronted 'Not until...' the main clause must be inverted.",
+        "1": "A main verb cannot be placed before the subject; use 'did' + subject.",
+        "2": "The auxiliary must come before the subject, not after it."
+      },
+      "options": [
+        "the fans believed",
+        "believed the fans",
+        "the fans did believe",
+        "did the fans believe"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-040",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "It's not the price ___ worries me; it's the poor quality.",
+      "explanation": "Use 'that' (or 'which' for things) in an 'It's ... that' cleft: It's the noise that bothers me.",
+      "wrongReasons": {
+        "0": "'what' cannot follow the focused noun in an 'It's...' cleft.",
+        "1": "'who' is for people, but 'the price' is a thing.",
+        "3": "'where' refers to places, not to the price."
+      },
+      "options": [
+        "what",
+        "who",
+        "that",
+        "where"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-041",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "But for her quick thinking, the meeting ___ a disaster.",
+      "explanation": "'But for + noun' means 'if it had not been for' and takes would have + past participle for the past: But for the map, we would have got lost.",
+      "wrongReasons": {
+        "0": "'will be' is a real future form, not an unreal past result.",
+        "1": "The past perfect alone cannot be the result clause.",
+        "3": "'would being' is not a correct verb form."
+      },
+      "options": [
+        "will be",
+        "had been",
+        "would have been",
+        "would being"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-042",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The two countries finally ___ an agreement after months of talks.",
+      "explanation": "'Reach an agreement' is the standard collocation: The unions reached an agreement with management.",
+      "wrongReasons": {
+        "1": "'arrive' needs 'at' and is less natural with 'agreement'.",
+        "2": "'came an agreement' is ungrammatical; 'come' would need 'to'.",
+        "3": "'do an agreement' is not used in English."
+      },
+      "options": [
+        "reached",
+        "arrived",
+        "came",
+        "did"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-043",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a business letter: 'We ___ any inconvenience this may cause.'",
+      "explanation": "'We apologise for any inconvenience' is a fixed formal phrase: We apologise for the delay.",
+      "wrongReasons": {
+        "0": "'sorry-ish' is very informal and sounds insincere.",
+        "1": "'feel bad over' is colloquial and uses the wrong preposition.",
+        "3": "'say sorry to' needs a person after 'to', not 'inconvenience'."
+      },
+      "options": [
+        "are sorry-ish about",
+        "feel bad over",
+        "apologise for",
+        "say sorry to"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-044",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "All the paintings ___ in the exhibition were donated by private collectors.",
+      "explanation": "A past participle can replace a passive relative clause: the paintings displayed = the paintings which are displayed.",
+      "wrongReasons": {
+        "0": "'displaying' is active, but the paintings are displayed by someone.",
+        "2": "'having displayed' is active and implies the paintings displayed something.",
+        "3": "'to displaying' is ungrammatical here."
+      },
+      "options": [
+        "displaying",
+        "displayed",
+        "having displayed",
+        "to displaying"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-045",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "___ the warning been issued earlier, the village could have been evacuated in time.",
+      "explanation": "In formal third conditionals, 'if' can be dropped and 'had' moved to the front: Had I known, I would have called.",
+      "wrongReasons": {
+        "1": "'If' needs the auxiliary after the subject: 'If the warning had been issued'.",
+        "2": "'Should' inversion refers to unlikely future events, not unreal past ones.",
+        "3": "'Were' inversion is used for present unreal situations or with 'to', not with 'been issued'."
+      },
+      "options": [
+        "Had",
+        "If",
+        "Should",
+        "Were"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-046",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "What happened next ___ that the whole system crashed.",
+      "explanation": "'What happened was (that) + clause' is a common cleft for telling stories: What happened was that we got lost.",
+      "wrongReasons": {
+        "0": "'did' cannot link the 'What' clause to the clause that follows.",
+        "1": "'had' does not connect the two parts of this cleft sentence.",
+        "3": "'made' changes the meaning and is ungrammatical with 'that' here."
+      },
+      "options": [
+        "did",
+        "had",
+        "was",
+        "made"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-047",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "If I ___ you, I'd ask for a second opinion before the operation.",
+      "explanation": "In second conditionals giving advice we use 'If I were you': If I were you, I'd apologise.",
+      "wrongReasons": {
+        "0": "'am' is used for real present conditions, not for advice with an imaginary situation.",
+        "2": "'had been' refers to the past, but the advice is about now.",
+        "3": "'would' is not normally used in the if-clause."
+      },
+      "options": [
+        "am",
+        "were",
+        "had been",
+        "would be"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-048",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "Her decision to resign came as a ___ surprise to her colleagues.",
+      "explanation": "'Come as a complete surprise' is a common collocation: The news came as a complete surprise.",
+      "wrongReasons": {
+        "1": "'a full surprise' is not idiomatic.",
+        "2": "'a whole surprise' is not used; 'whole' does not intensify 'surprise'.",
+        "3": "'entire' means 'all of something' and does not intensify 'surprise'."
+      },
+      "options": [
+        "complete",
+        "full",
+        "whole",
+        "entire"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-049",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most appropriate opening for a formal letter when you don't know the recipient's name.",
+      "explanation": "When you don't know the recipient's name in a formal letter, use 'Dear Sir or Madam': Dear Sir or Madam, I am writing to...",
+      "wrongReasons": {
+        "0": "'Hi there' is friendly and informal.",
+        "1": "'Hey everyone' is very informal and suits group chats.",
+        "3": "'To whoever' sounds rude and is not a standard opening."
+      },
+      "options": [
+        "Hi there,",
+        "Hey everyone,",
+        "Dear Sir or Madam,",
+        "To whoever,"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-050",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ by the noise, the baby started crying.",
+      "explanation": "A past participle clause shows that the subject receives the action: Frightened by the dog, she ran away.",
+      "wrongReasons": {
+        "0": "'Frightening' would mean the baby frightened someone.",
+        "2": "'Having frightened' is active and would mean the baby frightened something.",
+        "3": "'Frighten' is a base form and cannot begin a participle clause."
+      },
+      "options": [
+        "Frightening",
+        "Frightened",
+        "Having frightened",
+        "Frighten"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-051",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "___ you need any assistance during your stay, please contact reception.",
+      "explanation": "'Should' at the start replaces 'if' in formal first conditionals: Should you have questions, call us.",
+      "wrongReasons": {
+        "0": "'Would' cannot replace 'if' at the start of a conditional clause.",
+        "1": "'Had you need' is ungrammatical; 'had' inversion needs a past participle.",
+        "2": "'Were you need' is ungrammatical; 'were' inversion needs 'to' + verb or an adjective/noun."
+      },
+      "options": [
+        "Would",
+        "Had",
+        "Were",
+        "Should"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-052",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "It was in this very room ___ the treaty was signed in 1921.",
+      "explanation": "When a place phrase is focused in an 'It was...' cleft, use 'that': It was in Paris that they met.",
+      "wrongReasons": {
+        "0": "Adding 'it' creates an extra subject after 'where'.",
+        "2": "'which' would need a noun to refer to, not a prepositional phrase.",
+        "3": "'what' is not used to complete an 'It was...' cleft."
+      },
+      "options": [
+        "where it",
+        "that",
+        "which",
+        "what"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-053",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Supposing the bank ___ your loan, what would you do?",
+      "explanation": "'Supposing' can introduce a hypothetical condition with the past simple: Supposing you lost your job, how would you cope?",
+      "wrongReasons": {
+        "0": "The present tense suggests a real condition, but the result 'would you do' is hypothetical.",
+        "1": "'had refuse' is not a correct form; the past perfect needs 'refused'.",
+        "2": "'would' is not normally used in the condition clause."
+      },
+      "options": [
+        "refuses",
+        "had refuse",
+        "would refuse",
+        "refused"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-054",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The tourism industry plays a ___ role in the island's economy.",
+      "explanation": "'Play a key/vital/major role in' is a fixed collocation: Education plays a key role in development.",
+      "wrongReasons": {
+        "0": "'heavy' does not collocate with 'role'; we say 'key' or 'major'.",
+        "2": "'thick' describes physical width and does not collocate with 'role'.",
+        "3": "'tall' describes height, not importance."
+      },
+      "options": [
+        "heavy",
+        "key",
+        "thick",
+        "tall"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-055",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a policy document: 'Employees must ___ the company's safety regulations.'",
+      "explanation": "'Comply with' is formal and used for rules and laws: All staff must comply with the regulations.",
+      "wrongReasons": {
+        "0": "'stick to' is neutral-informal and less suitable for official documents.",
+        "2": "'go along with' means to accept someone's idea, often reluctantly.",
+        "3": "'play by' (the rules) is an informal idiom."
+      },
+      "options": [
+        "stick to",
+        "comply with",
+        "go along with",
+        "play by"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-056",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ been warned several times, the driver was finally banned from the road.",
+      "explanation": "'Having been + past participle' is a perfect passive participle clause: Having been told off, he apologised.",
+      "wrongReasons": {
+        "1": "'Being been' is ungrammatical.",
+        "2": "'Had been' at the start would form an inverted conditional, which does not fit here.",
+        "3": "'To have been warned' does not explain a reason in this way."
+      },
+      "options": [
+        "Having",
+        "Being",
+        "Had",
+        "To have"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-057",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Hardly ___ the stage when the lights went out.",
+      "explanation": "'Hardly' at the start takes inverted past perfect, followed by 'when': Hardly had we arrived when it began to rain.",
+      "wrongReasons": {
+        "0": "After a fronted 'Hardly' we need inversion, not normal word order.",
+        "2": "With 'Hardly ... when' the standard tense is the past perfect, not the past simple.",
+        "3": "There is no inversion here and the tense is also wrong for this structure."
+      },
+      "options": [
+        "the actor had reached",
+        "had the actor reached",
+        "did the actor reach",
+        "the actor reached"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-058",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "The thing ___ annoys me about the new office is the lack of natural light.",
+      "explanation": "'The thing that + verb ... is' is a cleft-like structure: The thing that matters is your health.",
+      "wrongReasons": {
+        "0": "'what' already means 'the thing that', so 'the thing what' is wrong.",
+        "1": "'who' refers to people, not things.",
+        "2": "'whose' shows possession and needs a noun after it."
+      },
+      "options": [
+        "what",
+        "who",
+        "whose",
+        "that"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-059",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "If the river ___ its banks again, the whole valley will be flooded.",
+      "explanation": "First conditional: if + present simple, will + base form: If it rains, we will stay in.",
+      "wrongReasons": {
+        "1": "'will' is not used in the if-clause of a first conditional.",
+        "2": "'burst' without -s does not agree with 'the river' in the present.",
+        "3": "'would' does not match the real-future result 'will be flooded'."
+      },
+      "options": [
+        "bursts",
+        "will burst",
+        "burst",
+        "would burst"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-060",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "He was ___ asleep when the earthquake struck.",
+      "explanation": "'Fast asleep' is a fixed collocation meaning sleeping deeply: The baby is fast asleep.",
+      "wrongReasons": {
+        "0": "We say 'in a deep sleep' or 'sound asleep', not 'deep asleep'.",
+        "1": "'hard asleep' is not used in English.",
+        "3": "'strong asleep' is not an English collocation."
+      },
+      "options": [
+        "deep",
+        "hard",
+        "fast",
+        "strong"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-061",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a news report: 'The suspect was ___ by police on Tuesday evening.'",
+      "explanation": "Formal reports use 'apprehended' or 'arrested'; slang verbs are avoided: The thief was apprehended at the border.",
+      "wrongReasons": {
+        "0": "'nabbed' is informal slang.",
+        "1": "'collared' is informal British slang for arrested.",
+        "2": "'picked off' means shot or eliminated one by one, which is a different meaning."
+      },
+      "options": [
+        "nabbed",
+        "collared",
+        "picked off",
+        "apprehended"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-062",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "When ___ about the delay, the airline blamed the weather.",
+      "explanation": "A past participle can follow 'when' with a passive meaning: When asked, he refused to comment.",
+      "wrongReasons": {
+        "0": "'asking' would mean the airline asked someone.",
+        "2": "'having asked' is active and changes the meaning.",
+        "3": "'to ask' is not used after 'when' in this way."
+      },
+      "options": [
+        "asking",
+        "asked",
+        "having asked",
+        "to ask"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-063",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "On no account ___ the patient's records be shared with third parties.",
+      "explanation": "'On no account' at the start triggers inversion with the modal: On no account must you touch the wires.",
+      "wrongReasons": {
+        "1": "The subject is already 'the patient's records'; adding 'they' creates a second subject.",
+        "2": "'do' cannot be followed by 'be shared' in this structure.",
+        "3": "'are ... be shared' combines two forms of 'be' and is ungrammatical."
+      },
+      "options": [
+        "must",
+        "they must",
+        "do",
+        "are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-064",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "What we need ___ a clear plan, not more meetings.",
+      "explanation": "A 'What' clause is singular, so it takes 'is/was': What you need is rest.",
+      "wrongReasons": {
+        "0": "The 'What' clause is singular, so 'are' does not agree.",
+        "1": "'be' is the base form and cannot be the main verb of this clause.",
+        "2": "'being' is not a finite verb and cannot complete the sentence."
+      },
+      "options": [
+        "are",
+        "be",
+        "being",
+        "is"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-065",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Had I known about the strike, I ___ the train.",
+      "explanation": "Inverted third conditional: Had + subject + past participle, would have + past participle: Had she called, I would have helped.",
+      "wrongReasons": {
+        "0": "'wouldn't take' refers to the present, but the strike was in the past.",
+        "2": "The past simple cannot be the result of an unreal past condition.",
+        "3": "'won't take' is a real future form."
+      },
+      "options": [
+        "wouldn't take",
+        "wouldn't have taken",
+        "didn't take",
+        "won't take"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-066",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The charity aims to ___ awareness of mental health issues among teenagers.",
+      "explanation": "'Raise awareness (of)' is a fixed collocation: The campaign raised awareness of recycling.",
+      "wrongReasons": {
+        "0": "'rise' is intransitive and cannot take an object like 'awareness'.",
+        "1": "'grow awareness' is avoided in careful formal English.",
+        "2": "'lift awareness' is not idiomatic."
+      },
+      "options": [
+        "rise",
+        "grow",
+        "lift",
+        "raise"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-067",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for an email to a client: 'Could you ___ whether the meeting is still going ahead?'",
+      "explanation": "In formal emails, use precise verbs like 'confirm' or 'advise': Could you confirm the date?",
+      "wrongReasons": {
+        "0": "'let me know quick' is informal and uses an adjective instead of an adverb.",
+        "1": "'give me a heads-up' is informal workplace slang.",
+        "3": "'tell me straight' is blunt and conversational."
+      },
+      "options": [
+        "let me know quick",
+        "give me a heads-up on",
+        "confirm",
+        "tell me straight"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-068",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ to the public in 2015, the park has become a popular spot for families.",
+      "explanation": "A past participle clause can give background information with a passive meaning: Opened in 2015 = It was opened in 2015.",
+      "wrongReasons": {
+        "0": "'Opening' is active and suggests the park opened something.",
+        "1": "'Having opening' is ungrammatical; it should be 'Having opened'.",
+        "2": "'Being opening' combines two -ing forms and is ungrammatical."
+      },
+      "options": [
+        "Opening",
+        "Having opening",
+        "Being opening",
+        "Opened"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-069",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "So complex ___ that even the experts needed weeks to understand it.",
+      "explanation": "'So + adjective' at the start leads to inversion: So loud was the music that we left.",
+      "wrongReasons": {
+        "0": "After a fronted 'So + adjective' the verb must come before the subject.",
+        "1": "'did' cannot be used with an adjective; the verb here is 'be'.",
+        "3": "This uses 'did' and normal word order, which are both wrong after 'So complex'."
+      },
+      "options": [
+        "the software was",
+        "did the software",
+        "was the software",
+        "the software did"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-070",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "It was her grandmother ___ she owed her love of music.",
+      "explanation": "In formal clefts, a preposition can move to the front of 'whom': It was Anna to whom he wrote.",
+      "wrongReasons": {
+        "0": "'owe ... to' needs the preposition; without it the meaning is incomplete.",
+        "1": "'who to' is wrong word order; formally it should be 'to whom'.",
+        "2": "A preposition cannot go before 'that'."
+      },
+      "options": [
+        "whom",
+        "who to",
+        "to that",
+        "to whom"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-071",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Even if you ___ me a fortune, I wouldn't sell my grandfather's watch.",
+      "explanation": "'Even if' + past simple, would + base form expresses a hypothetical situation that would not change the result: Even if he begged, I wouldn't agree.",
+      "wrongReasons": {
+        "1": "The present form clashes with the hypothetical result 'wouldn't sell'.",
+        "2": "'had offer' is ungrammatical; the participle is 'offered'.",
+        "3": "'would' does not normally go in the if-clause."
+      },
+      "options": [
+        "offered",
+        "offer",
+        "had offer",
+        "would offer"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-072",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The judge ___ a heavy fine on the company for polluting the river.",
+      "explanation": "'Impose a fine/tax/ban on' is a formal collocation: The city imposed a ban on cars.",
+      "wrongReasons": {
+        "0": "'put up' means to raise or display, not to give a penalty.",
+        "2": "'make a fine' is not used in English.",
+        "3": "'force' needs 'someone to do something', not 'a fine on'."
+      },
+      "options": [
+        "put up",
+        "imposed",
+        "made",
+        "forced"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-073",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a university letter: 'Applicants ___ to submit two references.'",
+      "explanation": "Formal writing uses 'be required to' for obligations: Students are required to attend.",
+      "wrongReasons": {
+        "0": "'have got' is informal and here also needs 'to'.",
+        "2": "'gotta' is very informal spoken English.",
+        "3": "'need to go' changes the meaning and is informal."
+      },
+      "options": [
+        "have got",
+        "are required",
+        "gotta",
+        "need to go"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-074",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ his car keys, Martin had to walk home in the rain.",
+      "explanation": "'Having + past participle' gives a reason that happened before the main action: Having missed the bus, she took a taxi.",
+      "wrongReasons": {
+        "0": "'Lost' alone would mean Martin was lost.",
+        "1": "'Being lost' means Martin did not know where he was.",
+        "2": "'Having been lost' is passive and would describe Martin, not the keys."
+      },
+      "options": [
+        "Lost",
+        "Being lost",
+        "Having been lost",
+        "Having lost"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-075",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Nowhere ___ more clearly than in the city's crumbling public housing.",
+      "explanation": "'Nowhere' at the start of a sentence requires inversion: Nowhere is the coffee better than here.",
+      "wrongReasons": {
+        "0": "Normal word order is wrong after a fronted 'Nowhere'.",
+        "1": "'does' cannot combine with an adjective; with 'be', invert 'is' directly.",
+        "3": "The adjective cannot come first here; we need verb + subject + adjective."
+      },
+      "options": [
+        "the crisis is visible",
+        "does the crisis visible",
+        "is the crisis visible",
+        "visible is the crisis"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-076",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Where the plan went wrong ___ in underestimating the costs.",
+      "explanation": "'Where + clause + was...' focuses on a place or point: Where we failed was in the marketing.",
+      "wrongReasons": {
+        "1": "The 'Where' clause is singular, so 'were' does not agree.",
+        "2": "'did' cannot link the two parts of this cleft.",
+        "3": "'had' does not connect the 'Where' clause to the phrase that follows."
+      },
+      "options": [
+        "was",
+        "were",
+        "did",
+        "had"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-077",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Unless the committee ___ the proposal by Friday, the project will be cancelled.",
+      "explanation": "'Unless' means 'if not' and is followed by a positive verb in the present for future conditions: Unless you hurry, you'll be late.",
+      "wrongReasons": {
+        "0": "'Unless' already contains the negative, so 'doesn't' creates a double negative meaning.",
+        "1": "'will' is not used after 'unless' in a first conditional.",
+        "3": "The past tense does not match the real future result 'will be cancelled'."
+      },
+      "options": [
+        "doesn't approve",
+        "will approve",
+        "approves",
+        "approved"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-078",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "After the accident, he suffered from ___ pain in his lower back.",
+      "explanation": "'Chronic pain' is a medical collocation for pain that continues for a long time: She has chronic back pain.",
+      "wrongReasons": {
+        "0": "'durable' describes objects that last, not pain.",
+        "2": "'elderly' describes old people, not pain.",
+        "3": "'antique' describes old valuable objects, not medical conditions."
+      },
+      "options": [
+        "durable",
+        "chronic",
+        "elderly",
+        "antique"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-079",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a cover letter: 'I have ___ experience in project management.'",
+      "explanation": "Formal writing uses adjectives like 'extensive' or 'considerable' instead of informal quantifiers: She has extensive experience.",
+      "wrongReasons": {
+        "0": "'loads of' is informal.",
+        "1": "'tons of' is informal and exaggerated.",
+        "3": "'a heap of' is colloquial."
+      },
+      "options": [
+        "loads of",
+        "tons of",
+        "extensive",
+        "a heap of"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-080",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "There were dozens of fans ___ outside the stadium for autographs.",
+      "explanation": "After 'There + be + noun', a present participle can describe what the people are doing: There were people standing in the rain.",
+      "wrongReasons": {
+        "1": "'waited' is a past form and would wrongly suggest a passive meaning.",
+        "2": "'to' must be followed by the base form, not 'waited'.",
+        "3": "'have waited' is a finite verb and cannot follow the noun here."
+      },
+      "options": [
+        "waiting",
+        "waited",
+        "to waited",
+        "have waited"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-081",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Not once ___ for help, even when the project was falling apart.",
+      "explanation": "'Not once' at the start is followed by auxiliary + subject: Not once did she complain.",
+      "wrongReasons": {
+        "0": "Normal word order is not possible after a fronted 'Not once'.",
+        "1": "'did' must come before 'he' for inversion.",
+        "2": "Main verbs are not inverted in modern English; use 'did he ask'."
+      },
+      "options": [
+        "he asked",
+        "he did ask",
+        "asked he",
+        "did he ask"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-082",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "It is the volunteers ___ deserve the credit for this success.",
+      "explanation": "In an 'It is ... who' cleft, the verb agrees with the focused noun: It is the nurses who deserve thanks.",
+      "wrongReasons": {
+        "1": "'which' refers to things, not people.",
+        "2": "'what' cannot follow the focused noun in a cleft.",
+        "3": "'whom' is an object form, but here the volunteers are the subject of 'deserve'."
+      },
+      "options": [
+        "who",
+        "which",
+        "what",
+        "whom"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-083",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "If you heat ice, it ___.",
+      "explanation": "Zero conditional for general truths: if + present simple, present simple: If you mix red and blue, you get purple.",
+      "wrongReasons": {
+        "0": "'would melt' presents a scientific fact as imaginary.",
+        "1": "The future perfect is not used for general truths.",
+        "3": "The past tense does not express a general truth here."
+      },
+      "options": [
+        "would melt",
+        "will have melted",
+        "melts",
+        "melted"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-084",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The government has pledged to ___ measures to reduce air pollution.",
+      "explanation": "'Take measures/steps/action' is a standard collocation: The school took measures to improve safety.",
+      "wrongReasons": {
+        "0": "'do measures' is not natural English.",
+        "1": "'make measures' is a common error; we 'take' measures.",
+        "3": "'give measures' is not a collocation."
+      },
+      "options": [
+        "do",
+        "make",
+        "take",
+        "give"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-085",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for an apology from a company: 'We ___ that your order has been delayed.'",
+      "explanation": "'We regret that...' is a formal way to express sorrow in business writing: We regret that the event is cancelled.",
+      "wrongReasons": {
+        "0": "'gutted' is informal British slang for very disappointed.",
+        "2": "'bummed' is informal American slang.",
+        "3": "'cut up' is informal and means very upset."
+      },
+      "options": [
+        "feel gutted",
+        "regret",
+        "are bummed",
+        "are cut up"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-086",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ carefully, the plants will flower again next spring.",
+      "explanation": "A past participle clause can express a condition: Looked after carefully = If they are looked after carefully.",
+      "wrongReasons": {
+        "0": "'Looking after' would mean the plants look after something.",
+        "1": "'Having looked after' is active and implies the plants did the caring.",
+        "2": "'Look after' is an imperative, which does not fit the sentence."
+      },
+      "options": [
+        "Looking after",
+        "Having looked after",
+        "Look after",
+        "Looked after"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-087",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Only by cutting costs drastically ___ survive the recession.",
+      "explanation": "'Only by + -ing' at the start causes inversion: Only by working together can we succeed.",
+      "wrongReasons": {
+        "0": "After a fronted 'Only by...' the modal must come before the subject.",
+        "2": "This keeps normal order and adds 'be', which makes 'survive' ungrammatical.",
+        "3": "The subject must come right after the modal, and 'be' does not belong here."
+      },
+      "options": [
+        "the firm could",
+        "could the firm",
+        "the firm can be",
+        "could be the firm"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-088",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "What I'd like you to do ___ check the figures before Friday.",
+      "explanation": "After 'What + subject + do', use 'is' + (to) infinitive: What I'd suggest is (to) wait.",
+      "wrongReasons": {
+        "0": "'does' cannot link the 'What' clause to the action.",
+        "1": "The 'What' clause is singular, so 'are' is wrong.",
+        "2": "'it's' adds an extra subject; the 'What' clause is already the subject."
+      },
+      "options": [
+        "does",
+        "are",
+        "it's",
+        "is"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-089",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "If they had invested in better equipment years ago, they ___ so many breakdowns these days.",
+      "explanation": "Mixed conditional: past condition with a present result: If they had planned better, they wouldn't be struggling now.",
+      "wrongReasons": {
+        "0": "'wouldn't have had' describes a past result, but 'these days' is present.",
+        "1": "'won't have' is for a real future condition.",
+        "2": "The past perfect alone is not used in the result clause."
+      },
+      "options": [
+        "wouldn't have had",
+        "won't have",
+        "hadn't had",
+        "wouldn't be having"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-090",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "Her research has had a ___ impact on how we treat the disease.",
+      "explanation": "'A profound/significant impact' is a common formal collocation: The war had a profound impact on the region.",
+      "wrongReasons": {
+        "0": "'deep-seated' collocates with fears or beliefs, not with 'impact'.",
+        "1": "'tall' describes height and does not collocate with 'impact'.",
+        "2": "'thick' describes physical size and cannot describe an impact."
+      },
+      "options": [
+        "deep-seated",
+        "tall",
+        "thick",
+        "profound"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-091",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a scientific article: 'The results ___ that the treatment is effective.'",
+      "explanation": "Scientific writing uses verbs like 'indicate' or 'suggest' to report findings: The data indicate a link.",
+      "wrongReasons": {
+        "0": "'kind of show' is vague and conversational.",
+        "2": "'tell us like' contains the filler 'like' used in speech.",
+        "3": "'make it look' is informal and suggests a false appearance."
+      },
+      "options": [
+        "kind of show",
+        "indicate",
+        "tell us like",
+        "make it look"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-092",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "The documents ___ to the court yesterday contained new evidence.",
+      "explanation": "A past participle can replace a passive relative clause: the documents submitted = the documents which were submitted.",
+      "wrongReasons": {
+        "0": "'submitting' is active, but documents are submitted by people.",
+        "1": "'having submitting' is not a correct form.",
+        "2": "'submit' is a base form and cannot describe the noun here."
+      },
+      "options": [
+        "submitting",
+        "having submitting",
+        "submit",
+        "submitted"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-093",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "___ the government to raise taxes again, it would almost certainly lose the election.",
+      "explanation": "'Were + subject + to-infinitive' is a formal way of saying 'if ... were to': Were he to resign, chaos would follow.",
+      "wrongReasons": {
+        "0": "'Should the government to raise' is wrong; 'should' is followed by a bare infinitive.",
+        "1": "'Had the government to raise' does not express a hypothetical condition.",
+        "3": "'If the government to raise' lacks a verb; it needs 'were': 'If the government were to raise'."
+      },
+      "options": [
+        "Should",
+        "Had",
+        "Were",
+        "If"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-094",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "It wasn't until she moved abroad ___ she began to appreciate her hometown.",
+      "explanation": "'It wasn't until ... that' is a fixed cleft pattern: It wasn't until 9pm that he arrived.",
+      "wrongReasons": {
+        "0": "'than' is used for comparison, not in this cleft pattern.",
+        "2": "'when' is a common error; the fixed pattern is 'not until ... that'.",
+        "3": "'then' is an adverb and cannot introduce the clause here."
+      },
+      "options": [
+        "than",
+        "that",
+        "when",
+        "then"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-095",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "I'll lend you the money on condition that you ___ me back by June.",
+      "explanation": "'On condition that' is followed by the present simple for a future condition: I'll help on condition that you listen.",
+      "wrongReasons": {
+        "0": "'will' is not used after 'on condition that' in this structure.",
+        "2": "The past tense does not fit a real future condition.",
+        "3": "'would' does not match the main clause 'I'll lend'."
+      },
+      "options": [
+        "will pay",
+        "pay",
+        "paid",
+        "would pay"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-096",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "It's a ___ secret that the director is planning to retire.",
+      "explanation": "'An open secret' is a fixed phrase for something supposed to be secret that everyone knows: It's an open secret they are dating.",
+      "wrongReasons": {
+        "0": "'a public secret' is not the idiom.",
+        "1": "'a known secret' is not used; it contradicts itself without being idiomatic.",
+        "2": "'a clear secret' is not an English phrase."
+      },
+      "options": [
+        "public",
+        "known",
+        "clear",
+        "open"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-097",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for an invitation: 'The pleasure of your company is ___ at the annual dinner.'",
+      "explanation": "Formal invitations use set phrases such as 'The pleasure of your company is requested': Your presence is requested at...",
+      "wrongReasons": {
+        "0": "'big time' is informal slang.",
+        "2": "'loads' is informal and does not fit an invitation formula.",
+        "3": "'fancied' is informal and means 'wanted' or 'found attractive'."
+      },
+      "options": [
+        "wanted big time",
+        "requested",
+        "hoped for loads",
+        "fancied"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-098",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ in a small fishing village, she knew a lot about the sea.",
+      "explanation": "'Having + past participle' explains a reason based on an earlier experience: Having lived in Spain, he speaks Spanish well.",
+      "wrongReasons": {
+        "1": "'Grown up' alone means 'adult', not 'having spent childhood'.",
+        "2": "'Being grown up' means being an adult, which changes the meaning.",
+        "3": "'To grow up' expresses purpose or future, not a past reason."
+      },
+      "options": [
+        "Having grown up",
+        "Grown up",
+        "Being grown up",
+        "To grow up"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-099",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "In no way ___ responsible for the delay; the fault lay with the courier.",
+      "explanation": "'In no way' at the start triggers inversion: In no way am I to blame.",
+      "wrongReasons": {
+        "0": "Normal word order is wrong after a fronted 'In no way'.",
+        "1": "'did' cannot be used with the adjective 'responsible'; the verb needed is 'be'.",
+        "3": "This keeps normal order and uses an unsuitable continuous form."
+      },
+      "options": [
+        "our team was",
+        "did our team",
+        "was our team",
+        "our team were being"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-100",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "It's the system, not the staff, ___ to blame for the long queues.",
+      "explanation": "In an 'It's ... that' cleft, the verb agrees with the focused noun; 'the system' is a singular thing: It's the rules that are unfair.",
+      "wrongReasons": {
+        "0": "'the system' is singular, so 'are' does not agree.",
+        "1": "'who' refers to people, but the focus here is 'the system'.",
+        "3": "'what' cannot follow the focused noun in a cleft sentence."
+      },
+      "options": [
+        "that are",
+        "who is",
+        "that is",
+        "what is"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-101",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "If I had been told about the change, I ___ here now waiting for nothing.",
+      "explanation": "Mixed conditional with a continuous present result: If you had warned me, I wouldn't be standing here now.",
+      "wrongReasons": {
+        "0": "'wouldn't have sat' refers to the past, but 'now' shows a present result.",
+        "2": "'won't sit' is for a real future condition.",
+        "3": "The past perfect alone cannot form the result clause."
+      },
+      "options": [
+        "wouldn't have sat",
+        "wouldn't be sitting",
+        "won't sit",
+        "hadn't sat"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-102",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The rescue teams worked ___ to free the trapped miners.",
+      "explanation": "'Around/round the clock' means all day and all night: Nurses work round the clock.",
+      "wrongReasons": {
+        "0": "The idiom uses 'clock', not 'hour'.",
+        "2": "The preposition in the idiom is 'around' or 'round', not 'over'.",
+        "3": "'all the clocks' is not an idiom."
+      },
+      "options": [
+        "around the hour",
+        "around the clock",
+        "over the clock",
+        "all the clocks"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-103",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a legal letter: 'Your account remains unpaid. ___, we will take legal action.'",
+      "explanation": "'Failing + noun' is a formal way to say 'if this does not happen': Failing payment, the contract will end.",
+      "wrongReasons": {
+        "1": "'Or else' sounds threatening and informal.",
+        "2": "'then yeah' adds spoken fillers unsuitable for a legal letter.",
+        "3": "'like' is a spoken filler and makes the sentence informal."
+      },
+      "options": [
+        "Failing payment",
+        "Or else",
+        "If not, then yeah",
+        "Otherwise, like"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-104",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ that the shop was closed, we went to a café instead.",
+      "explanation": "A present participle clause can express a reason: Seeing that it was late, we went home.",
+      "wrongReasons": {
+        "0": "'Seen' is passive and would mean we were seen.",
+        "1": "'To see' expresses purpose, not reason.",
+        "3": "'Being seen' is passive and changes the meaning."
+      },
+      "options": [
+        "Seen",
+        "To see",
+        "Seeing",
+        "Being seen"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-105",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Such ___ that the concert had to be moved to a bigger venue.",
+      "explanation": "'Such + be + noun phrase + that' is a formal inverted pattern: Such was his anger that he left.",
+      "wrongReasons": {
+        "0": "Normal word order does not follow 'Such' in this structure.",
+        "1": "'did' would need a main verb after the subject; this pattern uses 'be': Such was the demand.",
+        "2": "This word order separates the noun phrase and makes the sentence ungrammatical."
+      },
+      "options": [
+        "the demand for tickets was",
+        "did the demand for tickets",
+        "the demand was for tickets",
+        "was the demand for tickets"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-106",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "What really matters to customers ___ reliable delivery and fair prices.",
+      "explanation": "A 'What' clause is treated as singular even if a plural phrase follows: What matters is quality and price.",
+      "wrongReasons": {
+        "1": "The continuous plural form does not agree with the singular 'What' clause.",
+        "2": "'be' is the base form, not a finite verb.",
+        "3": "'have' cannot link the 'What' clause to its complement."
+      },
+      "options": [
+        "is",
+        "are being",
+        "be",
+        "have"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-107",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Should the alarm go off, staff ___ the building immediately.",
+      "explanation": "Formal 'Should + subject + verb' introduces a possible future condition; the result can use a modal or imperative: Should it rain, the event will move indoors.",
+      "wrongReasons": {
+        "1": "'must have left' expresses a deduction about the past, not an instruction.",
+        "2": "The past perfect alone does not express an instruction for the future.",
+        "3": "'would have left' describes an unreal past result."
+      },
+      "options": [
+        "must leave",
+        "must have left",
+        "had left",
+        "would have left"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-108",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The committee will ___ a final decision at next week's meeting.",
+      "explanation": "'Make a decision' is the standard collocation (also 'take a decision' in British English): We must make a decision soon.",
+      "wrongReasons": {
+        "0": "'do a decision' is a common learner error.",
+        "1": "'have a decision' is not natural English.",
+        "2": "'give a decision' is used for judges' rulings, not for committees choosing."
+      },
+      "options": [
+        "do",
+        "have",
+        "give",
+        "make"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-109",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a report: 'Several factors ___ to the project's failure.'",
+      "explanation": "'Contribute to' is a formal verb for causes and effects: Poor planning contributed to the delay.",
+      "wrongReasons": {
+        "1": "'chipped in' is informal and means to help or give money.",
+        "2": "'added up' means to make sense or to total numbers.",
+        "3": "'played into the hands' needs 'of' and means helped an opponent."
+      },
+      "options": [
+        "contributed",
+        "chipped in",
+        "added up",
+        "played into the hands"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-110",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ the instructions, he assembled the bookcase in under an hour.",
+      "explanation": "A present participle clause can show how something was done: Following the map, we found the cave.",
+      "wrongReasons": {
+        "0": "'Followed' is passive and would mean he was followed.",
+        "1": "'Having been followed' is passive and means someone followed him.",
+        "3": "'To be followed' is passive and expresses future or obligation."
+      },
+      "options": [
+        "Followed",
+        "Having been followed",
+        "Following",
+        "To be followed"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-111",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Scarcely ___ the results when journalists started calling her.",
+      "explanation": "'Scarcely' at the start takes inverted past perfect followed by 'when': Scarcely had he spoken when the door opened.",
+      "wrongReasons": {
+        "0": "A fronted 'Scarcely' requires inversion, not normal word order.",
+        "2": "The past simple with normal order breaks both rules of this structure.",
+        "3": "With 'Scarcely ... when' the expected tense is the past perfect."
+      },
+      "options": [
+        "she had announced",
+        "had she announced",
+        "she announced",
+        "did she announce"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-112",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "It was because of the fog ___ the flight was cancelled.",
+      "explanation": "When a reason is focused in an 'It was...' cleft, use 'that': It was because of you that I stayed.",
+      "wrongReasons": {
+        "0": "'why' does not follow 'because of' in a cleft; use 'that'.",
+        "1": "'so' shows result and breaks the cleft structure.",
+        "3": "'which' would need a noun to refer to, not a reason phrase."
+      },
+      "options": [
+        "why",
+        "so",
+        "that",
+        "which"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-113",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "If only we ___ the tickets when they were still cheap!",
+      "explanation": "'If only' + past perfect expresses regret about the past: If only I had listened!",
+      "wrongReasons": {
+        "0": "The past simple after 'if only' refers to the present, but 'when they were still cheap' is past.",
+        "1": "'would book' expresses a wish for future change, not regret about the past.",
+        "3": "The present perfect is not used after 'if only'."
+      },
+      "options": [
+        "booked",
+        "would book",
+        "had booked",
+        "have booked"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-114",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "There has been a ___ increase in online fraud over the past year.",
+      "explanation": "'A sharp increase/rise/fall' describes a sudden large change: Prices saw a sharp increase.",
+      "wrongReasons": {
+        "1": "'pointed' collocates with remarks or questions, not with an increase.",
+        "2": "'acute' collocates with pain or shortages, not with an increase in numbers.",
+        "3": "'keen' collocates with interest or competition, not with an increase."
+      },
+      "options": [
+        "sharp",
+        "pointed",
+        "acute",
+        "keen"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-115",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal ending for a letter that begins 'Dear Ms Patel'.",
+      "explanation": "In British English, a formal letter with the recipient's name ends with 'Yours sincerely': Dear Mr Jones ... Yours sincerely.",
+      "wrongReasons": {
+        "0": "'Cheers' is a casual sign-off.",
+        "1": "'See you soon' is friendly and informal.",
+        "3": "'Lots of love' is for family and close friends."
+      },
+      "options": [
+        "Cheers,",
+        "See you soon,",
+        "Yours sincerely,",
+        "Lots of love,"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-116",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ with the size of the task, the volunteers asked for more help.",
+      "explanation": "'Faced with' is a common passive participle clause meaning 'confronted by': Faced with a choice, she hesitated.",
+      "wrongReasons": {
+        "1": "'Facing' is correct without 'with': we say 'Facing the task' or 'Faced with the task'.",
+        "2": "'Having faced with' mixes active and passive forms incorrectly.",
+        "3": "'Face' is a base form and cannot start this clause."
+      },
+      "options": [
+        "Faced",
+        "Facing",
+        "Having faced with",
+        "Face"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-117",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Only then ___ how much the old village had changed.",
+      "explanation": "'Only then' at the start causes inversion: Only then did they understand the risk.",
+      "wrongReasons": {
+        "0": "Normal word order is wrong after a fronted 'Only then'.",
+        "2": "'did' must come before 'I' to form inversion.",
+        "3": "A main verb cannot be inverted with the subject; use 'did I notice'."
+      },
+      "options": [
+        "I noticed",
+        "did I notice",
+        "I did notice",
+        "noticed I"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-118",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "Something I've never understood ___ why people queue for hours for a new phone.",
+      "explanation": "'Something/One thing + clause + is ...' is a cleft-like structure with singular 'is': One thing I love is the silence.",
+      "wrongReasons": {
+        "0": "'Something' is singular, so 'are' does not agree.",
+        "1": "'it' adds a second subject to the sentence.",
+        "2": "'what' alone does not provide the verb the sentence needs."
+      },
+      "options": [
+        "are",
+        "it is",
+        "what",
+        "is"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-119",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Were the price to drop below ten dollars, investors ___ selling.",
+      "explanation": "'Were + subject + to-infinitive' is a formal second conditional; the result uses would + base form: Were he to call, I would answer.",
+      "wrongReasons": {
+        "0": "'will start' is for real conditions, not the hypothetical 'Were ... to'.",
+        "1": "The past perfect does not belong in the result clause.",
+        "2": "The past simple alone does not express a hypothetical result."
+      },
+      "options": [
+        "will start",
+        "had started",
+        "started",
+        "would start"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-120",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "She ___ a promise to visit her grandparents every Sunday.",
+      "explanation": "'Make a promise' is the standard collocation; we also 'keep' or 'break' a promise: He made a promise to help.",
+      "wrongReasons": {
+        "1": "'do a promise' is not English.",
+        "2": "'say a promise' is not a collocation.",
+        "3": "'tell' is used with stories or lies, not promises."
+      },
+      "options": [
+        "made",
+        "did",
+        "said",
+        "told"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-121",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a press release: 'The company intends to ___ 200 new staff next year.'",
+      "explanation": "Formal writing prefers single precise verbs like 'recruit' or 'employ': The hospital will recruit more nurses.",
+      "wrongReasons": {
+        "0": "'take on loads of' contains the informal quantifier 'loads of'.",
+        "1": "'bring on board some' is a business idiom that sounds informal here.",
+        "2": "'get in' is informal and vague."
+      },
+      "options": [
+        "take on loads of",
+        "bring on board some",
+        "get in",
+        "recruit"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-122",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Anyone ___ to attend the conference must register online by Friday.",
+      "explanation": "A present participle can replace an active relative clause: anyone wishing = anyone who wishes.",
+      "wrongReasons": {
+        "1": "'wished' is passive or past and does not fit: people wish to attend.",
+        "2": "'having wish' is ungrammatical; it should be 'having wished'.",
+        "3": "'who wishing' needs a finite verb: 'who wishes'."
+      },
+      "options": [
+        "wishing",
+        "wished",
+        "having wish",
+        "who wishing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-123",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "At no time ___ that the investment carried any risk.",
+      "explanation": "'At no time' at the start triggers inversion of the auxiliary: At no time was the public informed.",
+      "wrongReasons": {
+        "1": "Normal word order is not possible after a fronted 'At no time'.",
+        "2": "'did' must be followed by a base form, not 'told'.",
+        "3": "This is an active form with no auxiliary and no inversion; the meaning needs the passive."
+      },
+      "options": [
+        "were clients told",
+        "clients were told",
+        "did clients told",
+        "clients told"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-124",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "It is you, not your brother, ___ responsible for the damage.",
+      "explanation": "In an 'It is you who...' cleft, the verb agrees with the focused pronoun 'you': It is you who are late.",
+      "wrongReasons": {
+        "0": "The verb must agree with 'you', so 'is' is wrong.",
+        "1": "'that is' also fails to agree with 'you'.",
+        "2": "'which' cannot refer to a person."
+      },
+      "options": [
+        "who is",
+        "that is",
+        "which are",
+        "who are"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-125",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "Without your support, I ___ the marathon last spring.",
+      "explanation": "'Without + noun' can replace an if-clause; for the past use would have + past participle: Without the map, we would have got lost.",
+      "wrongReasons": {
+        "0": "'would never finish' refers to the present or future, but 'last spring' is past.",
+        "1": "The past simple states a fact and does not express an unreal result.",
+        "3": "The past perfect alone cannot be the result of a conditional."
+      },
+      "options": [
+        "would never finish",
+        "never finished",
+        "would never have finished",
+        "had never finished"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-126",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The film ___ a lasting impression on everyone who saw it.",
+      "explanation": "'Leave/make an impression on someone' is a fixed collocation: Her speech left a strong impression on me.",
+      "wrongReasons": {
+        "0": "'put an impression' is not idiomatic.",
+        "1": "'gave up' means to stop doing something.",
+        "3": "'take an impression' means to copy a shape, such as of teeth."
+      },
+      "options": [
+        "put",
+        "gave up",
+        "left",
+        "took"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-127",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for a notice in a hotel: 'Guests are kindly asked to ___ from smoking in the rooms.'",
+      "explanation": "'Refrain from + -ing' is a formal way to ask people not to do something: Please refrain from talking.",
+      "wrongReasons": {
+        "1": "'stop off' means to visit somewhere briefly.",
+        "2": "'keep off' is used with grass or topics, and is less formal.",
+        "3": "'lay off' is informal and means to stop doing or to dismiss workers."
+      },
+      "options": [
+        "refrain",
+        "stop off",
+        "keep off",
+        "lay off"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-128",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "___ by the success of her first novel, she started writing a second one.",
+      "explanation": "A past participle clause can show the cause of an action: Encouraged by the results, they expanded the project.",
+      "wrongReasons": {
+        "1": "'Encouraging' would mean she encouraged someone.",
+        "2": "'Having encouraged' is active and changes the meaning.",
+        "3": "'To encourage' expresses purpose, not cause."
+      },
+      "options": [
+        "Encouraged",
+        "Encouraging",
+        "Having encouraged",
+        "To encourage"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-129",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "inversion",
+      "prompt": "Not only ___ the museum's opening hours, but it has also cut ticket prices.",
+      "explanation": "After a fronted 'Not only', the auxiliary comes before the subject: Not only has she won, but she has also set a record.",
+      "wrongReasons": {
+        "0": "After 'Not only' at the start the auxiliary must come before the subject.",
+        "2": "The subject has to go between the auxiliary and the participle.",
+        "3": "Normal word order is wrong after a fronted 'Not only'."
+      },
+      "options": [
+        "the council has extended",
+        "has the council extended",
+        "has extended the council",
+        "the council extended"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-130",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "cleft-sentences",
+      "prompt": "What sets this hotel apart ___ its attention to detail.",
+      "explanation": "A 'What' clause takes a singular verb: What sets her apart is her patience.",
+      "wrongReasons": {
+        "0": "The 'What' clause is singular, so 'are' does not agree.",
+        "1": "'does' cannot link the subject clause to its complement.",
+        "3": "'it is' adds an unnecessary extra subject."
+      },
+      "options": [
+        "are",
+        "does",
+        "is",
+        "it is"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-131",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "conditionals",
+      "prompt": "If she ___ more careful, she wouldn't keep losing her keys.",
+      "explanation": "Second conditional for present unreal situations: if + past simple ('were'), would + base form: If he were taller, he would play basketball.",
+      "wrongReasons": {
+        "1": "'had been' refers to the past, but 'keep losing' shows a present habit.",
+        "2": "'is' is used for real conditions, not unreal ones.",
+        "3": "'would' is not normally used in the if-clause."
+      },
+      "options": [
+        "were",
+        "had been",
+        "is",
+        "would be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-132",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "collocations",
+      "prompt": "The prime minister's speech was ___ received by the audience.",
+      "explanation": "'Warmly received/welcomed' means received with enthusiasm: The proposal was warmly received.",
+      "wrongReasons": {
+        "0": "'hotly' collocates with 'debated' or 'contested', not 'received'.",
+        "2": "'heatedly' describes angry arguments, not a positive reception.",
+        "3": "'sunnily' is not used to describe reception."
+      },
+      "options": [
+        "hotly",
+        "warmly",
+        "heatedly",
+        "sunnily"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-133",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "register",
+      "prompt": "Choose the most formal option for an academic paper: 'This study ___ the effects of noise on concentration.'",
+      "explanation": "Academic writing uses verbs such as 'examines', 'investigates' or 'explores': This paper investigates sleep patterns.",
+      "wrongReasons": {
+        "0": "'checks out' is an informal phrasal verb.",
+        "1": "'has a look at' is conversational.",
+        "3": "'goes over quick' is informal and uses an adjective instead of an adverb."
+      },
+      "options": [
+        "checks out",
+        "has a look at",
+        "examines",
+        "goes over quick"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-134",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "participle-clauses",
+      "prompt": "Once ___, the decision cannot be reversed.",
+      "explanation": "After conjunctions like 'once' or 'when', a past participle can be used with a passive meaning: Once opened, keep the bottle in the fridge.",
+      "wrongReasons": {
+        "0": "'making' would mean the decision makes something.",
+        "1": "'having make' is ungrammatical; the participle is 'made'.",
+        "3": "'to make' is not used after 'once' in this way."
+      },
+      "options": [
+        "making",
+        "having make",
+        "made",
+        "to make"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-135",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The new bridge is expected ___ by the end of next year.",
+      "explanation": "Passive reporting verbs take a passive infinitive when the subject receives the action: The bridge is expected to be completed.",
+      "wrongReasons": {
+        "0": "'to complete' is active; a bridge cannot complete something itself.",
+        "2": "'expected' is followed by a to-infinitive, not an -ing form.",
+        "3": "'completing' is active and does not follow 'is expected'."
+      },
+      "options": [
+        "to complete",
+        "to be completed",
+        "being completed",
+        "completing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-136",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "The board recommended that the chief executive ___ immediately.",
+      "explanation": "After verbs like recommend, suggest and insist + that, formal English uses the base form (subjunctive): They insisted that he leave.",
+      "wrongReasons": {
+        "1": "The -s form is not used in the subjunctive after 'recommend that'.",
+        "2": "The past form is not used after 'recommended that' in formal English.",
+        "3": "'will' is not used in a that-clause after 'recommend'."
+      },
+      "options": [
+        "resign",
+        "resigns",
+        "resigned",
+        "will resign"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-137",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "After months of arguing, the two partners finally decided to bury the ___ and work together again.",
+      "explanation": "'Bury the hatchet' means to stop arguing and become friends again: After the match, the rivals buried the hatchet.",
+      "wrongReasons": {
+        "0": "'Axe' is similar in meaning, but the fixed idiom uses 'hatchet'.",
+        "1": "'Knife' does not form an idiom with 'bury'.",
+        "2": "'Bury the sword' is not an English idiom."
+      },
+      "options": [
+        "axe",
+        "knife",
+        "sword",
+        "hatchet"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-138",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "The negotiations ___ when neither side was willing to compromise on salaries.",
+      "explanation": "'Break down' (of talks or a system) means to fail: The peace talks broke down after a week.",
+      "wrongReasons": {
+        "0": "'Break out' means to start suddenly, like a war or a fire.",
+        "1": "'Break up' is used for relationships or crowds ending, not talks failing.",
+        "3": "'Break in' means to enter a building by force."
+      },
+      "options": [
+        "broke out",
+        "broke up",
+        "broke down",
+        "broke in"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-139",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "___ the heavy traffic, we arrived at the airport in good time.",
+      "explanation": "'Despite' is followed by a noun or -ing form, not a clause: Despite the rain, we went out.",
+      "wrongReasons": {
+        "0": "'Although' must be followed by a full clause with a verb.",
+        "2": "'However' links two sentences and cannot introduce a noun phrase like this.",
+        "3": "'Even though' needs a subject and a verb after it."
+      },
+      "options": [
+        "Although",
+        "Despite",
+        "However",
+        "Even though"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-140",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "The results of the experiment were ___ different from what the team had predicted.",
+      "explanation": "An adverb modifies an adjective: considerably different, remarkably good.",
+      "wrongReasons": {
+        "1": "'Considerable' is an adjective and cannot modify another adjective.",
+        "2": "'Consider' is a verb.",
+        "3": "'Considerate' is an adjective meaning kind to others."
+      },
+      "options": [
+        "considerably",
+        "considerable",
+        "consider",
+        "considerate"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-141",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The suspect is believed ___ the country two days before the robbery was discovered.",
+      "explanation": "Use a perfect infinitive after a passive reporting verb for an earlier action: He is believed to have left.",
+      "wrongReasons": {
+        "0": "'to leave' refers to the present or future, but the leaving happened earlier.",
+        "1": "'to be leaving' describes an action in progress now, not a completed past one.",
+        "2": "'is believed' needs a to-infinitive, not a participle."
+      },
+      "options": [
+        "to leave",
+        "to be leaving",
+        "having left",
+        "to have left"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-142",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "It is essential that every passenger ___ a valid ticket before boarding.",
+      "explanation": "After 'It is essential/vital/important that', formal English uses the base form: It is vital that she be informed.",
+      "wrongReasons": {
+        "0": "'has' is the normal present form, but the subjunctive needs 'have'.",
+        "1": "'had' is past and does not fit this present requirement.",
+        "3": "A that-clause needs a finite verb, not an -ing form."
+      },
+      "options": [
+        "has",
+        "had",
+        "have",
+        "having"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-143",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "I didn't mean to tell her about the party; I just let the cat out of the ___.",
+      "explanation": "'Let the cat out of the bag' means to reveal a secret by accident: Tom let the cat out of the bag about the wedding.",
+      "wrongReasons": {
+        "0": "The idiom uses 'bag', not 'box'.",
+        "2": "'Out of the house' is literal and not part of this idiom.",
+        "3": "'Basket' is not used in this idiom."
+      },
+      "options": [
+        "box",
+        "bag",
+        "house",
+        "basket"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-144",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "We'll have to ___ the trip to the coast until the weather improves.",
+      "explanation": "'Put off' means to postpone: They put off the wedding until spring.",
+      "wrongReasons": {
+        "1": "'Put out' means to extinguish a fire or a cigarette.",
+        "2": "'Put up' means to raise or to give someone a place to stay.",
+        "3": "'Put away' means to tidy something into its place."
+      },
+      "options": [
+        "put off",
+        "put out",
+        "put up",
+        "put away"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-145",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "The hotel was expensive; ___, the service was disappointing.",
+      "explanation": "'Moreover' adds a further point, often a stronger one, in the same direction: The plan is costly; moreover, it is risky.",
+      "wrongReasons": {
+        "0": "'Whereas' compares two contrasting facts and does not follow a semicolon like this.",
+        "1": "'Nevertheless' introduces a contrast, but both points here are negative.",
+        "2": "'Otherwise' means 'if not', which makes no sense here."
+      },
+      "options": [
+        "whereas",
+        "nevertheless",
+        "otherwise",
+        "moreover"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-146",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "I've ___ finished the report; I just need to add the conclusion.",
+      "explanation": "'Nearly' is an adverb meaning almost: I've nearly finished.",
+      "wrongReasons": {
+        "0": "'Nearby' means close in distance.",
+        "1": "'Near' is about physical distance, not 'almost'.",
+        "3": "'Nearest' is a superlative adjective."
+      },
+      "options": [
+        "nearby",
+        "near",
+        "nearly",
+        "nearest"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-147",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "I can't stand ___ what to do by people who know less than I do.",
+      "explanation": "After verbs like 'can't stand', use a passive gerund when the subject receives the action: I hate being told what to do.",
+      "wrongReasons": {
+        "0": "'telling' is active: it would mean you tell others.",
+        "2": "'to tell' is active and gives the wrong meaning.",
+        "3": "A bare infinitive cannot follow 'can't stand'."
+      },
+      "options": [
+        "telling",
+        "being told",
+        "to tell",
+        "be told"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-148",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "If only I ___ to my grandmother's advice when I was younger!",
+      "explanation": "'If only' + past perfect expresses regret about the past: If only I had studied harder.",
+      "wrongReasons": {
+        "1": "'would listen' is used for annoying habits or wishes for change, not past regret.",
+        "2": "'listened' expresses regret about the present, not about the past.",
+        "3": "The present perfect cannot follow 'if only' for regret."
+      },
+      "options": [
+        "had listened",
+        "would listen",
+        "listened",
+        "have listened"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-149",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "The new tax rules are just the tip of the ___; far bigger changes are coming.",
+      "explanation": "'The tip of the iceberg' is a small, visible part of a much larger problem: These complaints are just the tip of the iceberg.",
+      "wrongReasons": {
+        "0": "'The tip of the mountain' is not an idiom; we would say 'the top'.",
+        "1": "'Island' does not carry the idea of a hidden larger part.",
+        "2": "'Volcano' does not form this idiom."
+      },
+      "options": [
+        "mountain",
+        "island",
+        "volcano",
+        "iceberg"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-150",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "Researchers are trying to ___ why the bees are disappearing so quickly.",
+      "explanation": "'Find out' means to discover information: Can you find out when the train leaves?",
+      "wrongReasons": {
+        "0": "'Make up' means to invent a story or to become friends again.",
+        "1": "'Figure in' means to include something in a calculation.",
+        "3": "'Turn out' means to happen in a particular way, and it does not take this object."
+      },
+      "options": [
+        "make up",
+        "figure in",
+        "find out",
+        "turn out"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-151",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "Take an umbrella ___ it rains later in the afternoon.",
+      "explanation": "'In case' means as a precaution against something that might happen: Take a map in case you get lost.",
+      "wrongReasons": {
+        "0": "'Unless' means 'if not', which gives the opposite meaning.",
+        "2": "'So that' expresses purpose, but you don't want it to rain.",
+        "3": "'As long as' sets a condition, which does not fit a precaution."
+      },
+      "options": [
+        "unless",
+        "in case",
+        "so that",
+        "as long as"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-152",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "She works very ___ and is always the last to leave the office.",
+      "explanation": "'Hard' is both an adjective and an adverb: She works hard. 'Hardly' means almost not.",
+      "wrongReasons": {
+        "1": "'Hardly' means almost not, which gives the opposite meaning.",
+        "2": "'Hardy' is an adjective meaning strong and able to survive.",
+        "3": "'Harder than' needs something to compare with."
+      },
+      "options": [
+        "hard",
+        "hardly",
+        "hardy",
+        "harder than"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-153",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "All the paintings in the east wing ___ while the roof is being repaired.",
+      "explanation": "Present continuous passive (am/is/are being + past participle) describes something done to the subject now: The files are being checked.",
+      "wrongReasons": {
+        "0": "'are storing' is active; the paintings do not store anything.",
+        "1": "'have stored' is active present perfect and makes the paintings the doers.",
+        "2": "'store' is active present simple and has the wrong meaning."
+      },
+      "options": [
+        "are storing",
+        "have stored",
+        "store",
+        "are being stored"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-154",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "It's high time the government ___ something about air pollution.",
+      "explanation": "'It's (high) time' + subject + past simple says something should already be happening: It's time we left.",
+      "wrongReasons": {
+        "0": "The present form is not used after 'it's high time'.",
+        "1": "'will' is not used after 'it's high time'.",
+        "3": "The present perfect does not follow 'it's high time'."
+      },
+      "options": [
+        "does",
+        "will do",
+        "did",
+        "has done"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-155",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "With the deadline only two days away, the whole team is working against the ___.",
+      "explanation": "'Work against the clock' means to work fast because there is little time: Engineers worked against the clock to fix the bridge.",
+      "wrongReasons": {
+        "0": "'Against time' exists in 'a race against time', but 'working against the time' is incorrect.",
+        "2": "'Watch' is not used in this idiom.",
+        "3": "'Against the hour' is not an English idiom."
+      },
+      "options": [
+        "time",
+        "clock",
+        "watch",
+        "hour"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-156",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "Despite strong opposition, the council decided to ___ the plan to build a new stadium.",
+      "explanation": "'Go ahead with' means to start doing something planned: They went ahead with the launch despite the risks.",
+      "wrongReasons": {
+        "1": "'Come up against' means to face a problem, not to proceed.",
+        "2": "'Get round to' means to finally do something after a delay.",
+        "3": "'Fall back on' means to use something as a reserve when other things fail."
+      },
+      "options": [
+        "go ahead with",
+        "come up against",
+        "get round to",
+        "fall back on"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-157",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "You can borrow my car ___ you return it with a full tank.",
+      "explanation": "'Provided (that)' introduces a condition, like 'only if': You can go provided that you finish your homework.",
+      "wrongReasons": {
+        "0": "'Whereas' shows a contrast, not a condition.",
+        "1": "'In case' expresses a precaution, not a condition for permission.",
+        "2": "'Even if' means the result happens anyway, which is not the meaning here."
+      },
+      "options": [
+        "whereas",
+        "in case",
+        "even if",
+        "provided that"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-158",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "We ___ ever go to the cinema now that we have young children.",
+      "explanation": "'Hardly ever' means almost never: We hardly ever eat out.",
+      "wrongReasons": {
+        "0": "'Almost ever' is not correct; we say 'almost never'.",
+        "1": "'Nearly ever' is not used in English; we say 'nearly always'.",
+        "3": "'Even ever' is not an English expression."
+      },
+      "options": [
+        "almost",
+        "nearly",
+        "hardly",
+        "even"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-159",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The documents must ___ to the tax office no later than 31 January.",
+      "explanation": "Modal + be + past participle forms the passive: The form must be signed.",
+      "wrongReasons": {
+        "0": "'must submit' is active; documents cannot submit themselves.",
+        "2": "'must have submitted' is a past deduction, not an obligation.",
+        "3": "After a modal we need the base form 'be', not 'being'."
+      },
+      "options": [
+        "submit",
+        "be submitted",
+        "have submitted",
+        "being submitted"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-160",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "I'd rather you ___ anyone about the surprise party.",
+      "explanation": "'I'd rather' + another subject + past simple refers to the present or future: I'd rather you stayed.",
+      "wrongReasons": {
+        "1": "A present form is not used after 'I'd rather' with a different subject.",
+        "2": "'will' is not used after 'I'd rather you'.",
+        "3": "'not tell' is missing the auxiliary 'did'."
+      },
+      "options": [
+        "didn't tell",
+        "don't tell",
+        "won't tell",
+        "not tell"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-161",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "You hit the nail on the ___ when you said the real problem was poor communication.",
+      "explanation": "'Hit the nail on the head' means to describe exactly what is causing a situation: She hit the nail on the head with that comment.",
+      "wrongReasons": {
+        "0": "'End' does not form this idiom.",
+        "1": "The idiom uses 'head', not 'top'.",
+        "2": "'Point' may seem logical, but it is not part of the idiom."
+      },
+      "options": [
+        "end",
+        "top",
+        "point",
+        "head"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-162",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "I've decided to ___ sugar for a month to see if I feel healthier.",
+      "explanation": "'Give up' means to stop doing or using something: She gave up smoking last year.",
+      "wrongReasons": {
+        "0": "'Give away' means to give something for free or reveal a secret.",
+        "1": "'Give in' means to stop resisting or to surrender.",
+        "3": "'Give off' means to produce a smell, heat or light."
+      },
+      "options": [
+        "give away",
+        "give in",
+        "give up",
+        "give off"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-163",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "Some critics loved the film, ___ others found it slow and confusing.",
+      "explanation": "'Whereas' contrasts two different facts in one sentence: I like tea, whereas my wife prefers coffee.",
+      "wrongReasons": {
+        "0": "'Despite' cannot be followed by a full clause like 'others found'.",
+        "2": "'Therefore' shows a result, not a contrast.",
+        "3": "'In spite' needs 'of' and a noun, not a clause."
+      },
+      "options": [
+        "despite",
+        "whereas",
+        "therefore",
+        "in spite"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-164",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "The plane landed ___ despite the strong winds.",
+      "explanation": "Use an adverb to describe how an action is done: The plane landed safely.",
+      "wrongReasons": {
+        "1": "'Safe' is an adjective and describes a noun, not how the plane landed.",
+        "2": "'Safety' is a noun.",
+        "3": "'Saved' is a past participle with a different meaning."
+      },
+      "options": [
+        "safely",
+        "safe",
+        "safety",
+        "saved"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-165",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "It ___ that the merger will lead to hundreds of job losses.",
+      "explanation": "Impersonal passive: It + is + reporting verb (past participle) + that-clause: It is thought that prices will rise.",
+      "wrongReasons": {
+        "0": "'has feared' is active and needs a real subject.",
+        "1": "'It fears' is active and suggests 'it' is a person who fears.",
+        "2": "'fear' is a state verb and is not normally used in the continuous here."
+      },
+      "options": [
+        "has feared",
+        "fears",
+        "is fearing",
+        "is feared"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-166",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "She talks about the project as if she ___ in charge of it, but she isn't.",
+      "explanation": "'As if' + past simple (or 'were') shows that something is not true: He acts as if he were the boss.",
+      "wrongReasons": {
+        "0": "'is' suggests she really is in charge, but the sentence says she isn't.",
+        "1": "The present perfect does not show the unreal meaning.",
+        "3": "'will be' refers to the future and is not used for an unreal comparison."
+      },
+      "options": [
+        "is",
+        "has been",
+        "were",
+        "will be"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-167",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "Don't worry about the interview; for someone with your experience it'll be a piece of ___.",
+      "explanation": "'A piece of cake' means something very easy: The exam was a piece of cake.",
+      "wrongReasons": {
+        "0": "'A piece of bread' is literal, not an idiom.",
+        "2": "'Easy as pie' exists, but not 'a piece of pie'.",
+        "3": "'A piece of chocolate' has only a literal meaning."
+      },
+      "options": [
+        "bread",
+        "cake",
+        "pie",
+        "chocolate"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-168",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "The rumours about the singer's retirement ___ to be completely false.",
+      "explanation": "'Turn out' + to-infinitive means to be discovered to be: The stranger turned out to be my cousin.",
+      "wrongReasons": {
+        "1": "'Turn up' means to arrive or appear.",
+        "2": "'Turn down' means to refuse an offer or reduce volume.",
+        "3": "'Turn over' means to flip something or give control to someone."
+      },
+      "options": [
+        "turned out",
+        "turned up",
+        "turned down",
+        "turned over"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-169",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "The flight was cancelled ___ a technical fault in one of the engines.",
+      "explanation": "'Owing to' is followed by a noun phrase and gives a reason: The match was cancelled owing to rain.",
+      "wrongReasons": {
+        "0": "'Since' giving a reason must be followed by a clause, not a noun phrase.",
+        "1": "'Because' needs a clause; with a noun we need 'because of'.",
+        "2": "'So' introduces a result, not a cause."
+      },
+      "options": [
+        "since",
+        "because",
+        "so",
+        "owing to"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-170",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "He was ___ injured in the accident and spent three months in hospital.",
+      "explanation": "Adverbs modify past participles used as adjectives: seriously injured, badly damaged.",
+      "wrongReasons": {
+        "0": "'Seriousness' is a noun.",
+        "1": "'Serious' is an adjective and cannot modify 'injured'.",
+        "3": "'More serious' is a comparative adjective and needs a comparison."
+      },
+      "options": [
+        "seriousness",
+        "serious",
+        "seriously",
+        "more serious"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-171",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "By the time the firefighters arrived, most of the warehouse ___.",
+      "explanation": "Past perfect passive (had been + past participle) shows an action finished before another past moment: The food had been eaten.",
+      "wrongReasons": {
+        "0": "'destroyed' is active here and needs an object.",
+        "2": "'was destroying' is active continuous; the warehouse did not destroy anything.",
+        "3": "Present perfect does not fit a sequence of past events."
+      },
+      "options": [
+        "destroyed",
+        "had been destroyed",
+        "was destroying",
+        "has been destroyed"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-172",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "___ it not been for your quick thinking, we would have missed the last train.",
+      "explanation": "'Had it not been for' is the inverted form of 'If it hadn't been for', for past situations: Had it not been for the map, we'd have got lost.",
+      "wrongReasons": {
+        "1": "'Were it not for' has no 'been' and refers to the present, not the past.",
+        "2": "'Should it not' is used for unlikely future conditions, not past ones.",
+        "3": "'Did it not' is not a conditional inversion."
+      },
+      "options": [
+        "Had",
+        "Were",
+        "Should",
+        "Did"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-173",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "He's been feeling a bit under the ___ since he came back from his trip.",
+      "explanation": "'Under the weather' means slightly ill: I'm feeling a bit under the weather today.",
+      "wrongReasons": {
+        "0": "'Climate' is never used in this idiom.",
+        "1": "'Under the sky' is literal and does not mean ill.",
+        "2": "'Under the rain' is not idiomatic English."
+      },
+      "options": [
+        "climate",
+        "sky",
+        "rain",
+        "weather"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-174",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "Our supplies were beginning to ___, so we headed back to the village.",
+      "explanation": "'Run out' means to be used up completely: Time is running out.",
+      "wrongReasons": {
+        "0": "'Run into' means to meet by chance or hit something.",
+        "1": "'Run over' means to hit with a vehicle or exceed a time limit.",
+        "3": "'Run up' means to build up a debt or a bill."
+      },
+      "options": [
+        "run into",
+        "run over",
+        "run out",
+        "run up"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-175",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "The evidence was weak. ___, the jury found him guilty.",
+      "explanation": "'Nonetheless' introduces a contrast with what was just said: The task was hard. Nonetheless, she finished it.",
+      "wrongReasons": {
+        "0": "'Consequently' shows a logical result, but a guilty verdict is not a result of weak evidence.",
+        "2": "'Furthermore' adds a similar point, not a contrast.",
+        "3": "'Thus' introduces a result, which does not fit here."
+      },
+      "options": [
+        "Consequently",
+        "Nonetheless",
+        "Furthermore",
+        "Thus"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-176",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "The two reports were written ___ by different authors.",
+      "explanation": "An adverb describes how something was done: The two teams worked independently.",
+      "wrongReasons": {
+        "1": "'Independent' is an adjective and cannot describe the verb.",
+        "2": "'Independence' is a noun.",
+        "3": "'Dependent' is an adjective with the opposite meaning."
+      },
+      "options": [
+        "independently",
+        "independent",
+        "independence",
+        "dependent"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-177",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "She had her passport ___ at the airport, so she couldn't board the plane.",
+      "explanation": "Have + object + past participle can describe something bad that happened to someone: He had his car stolen.",
+      "wrongReasons": {
+        "0": "'stole' is the past simple, not the past participle.",
+        "1": "'stealing' would mean the passport was doing the stealing.",
+        "2": "'have something to steal' has a completely different meaning."
+      },
+      "options": [
+        "stole",
+        "stealing",
+        "to steal",
+        "stolen"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-178",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "I wish my neighbours ___ their music so loud every night.",
+      "explanation": "'Wish' + would expresses annoyance at someone's repeated behaviour that we want to change: I wish he would stop shouting.",
+      "wrongReasons": {
+        "0": "'will' is never used after 'wish'; we need the past form 'would'.",
+        "1": "A present form cannot follow 'wish'.",
+        "3": "'hadn't played' refers to a single past event, not a nightly habit."
+      },
+      "options": [
+        "won't play",
+        "don't play",
+        "wouldn't play",
+        "hadn't played"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-179",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "The minister's resignation came out of the ___; nobody had expected it.",
+      "explanation": "'Out of the blue' means suddenly and unexpectedly: She called me out of the blue after ten years.",
+      "wrongReasons": {
+        "0": "'Out of the dark' is not an idiom for something unexpected.",
+        "2": "'Out of thin air' exists, but 'out of the air' is not the idiom here.",
+        "3": "'Out of the sky' is literal, as with a falling object."
+      },
+      "options": [
+        "dark",
+        "blue",
+        "air",
+        "sky"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-180",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "The professor ___ several important points that I hadn't considered.",
+      "explanation": "'Bring up' means to mention a subject: She brought up the question of costs.",
+      "wrongReasons": {
+        "1": "'Bring about' means to cause something to happen.",
+        "2": "'Bring down' means to make a government fall or reduce prices.",
+        "3": "'Bring off' means to succeed in doing something difficult."
+      },
+      "options": [
+        "brought up",
+        "brought about",
+        "brought down",
+        "brought off"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-181",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "___ he had all the qualifications, he wasn't offered the job.",
+      "explanation": "'Although' is followed by a full clause and introduces a contrast: Although it was late, we kept working.",
+      "wrongReasons": {
+        "0": "'However' does not join two clauses in this position.",
+        "1": "'Despite' cannot be followed by a full clause; we would need 'despite having'.",
+        "2": "'In spite of' needs a noun or -ing form, not a clause."
+      },
+      "options": [
+        "However",
+        "Despite",
+        "In spite of",
+        "Although"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-182",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "I ___ disagree with the decision to close the library.",
+      "explanation": "'Strongly' collocates with verbs of opinion: I strongly believe, I strongly object.",
+      "wrongReasons": {
+        "0": "'Strength' is a noun.",
+        "1": "'Strong' is an adjective and cannot modify the verb 'disagree'.",
+        "3": "'Stronger' is a comparative adjective."
+      },
+      "options": [
+        "strength",
+        "strong",
+        "strongly",
+        "stronger"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-183",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The candidates are said ___ for several hours before the results were announced.",
+      "explanation": "A perfect continuous infinitive after a passive reporting verb describes an earlier action in progress: They are said to have been working all night.",
+      "wrongReasons": {
+        "0": "'to wait' does not show that the waiting happened earlier and lasted.",
+        "2": "'wait' is intransitive here, so it has no passive form.",
+        "3": "'are said' needs a to-infinitive, not an -ing form."
+      },
+      "options": [
+        "to wait",
+        "to have been waiting",
+        "to be waited",
+        "waiting"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-184",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "The lawyer demanded that her client ___ access to all the evidence.",
+      "explanation": "The subjunctive passive is 'be' + past participle after demand/insist that: They demanded that he be released.",
+      "wrongReasons": {
+        "1": "'is given' is the normal indicative form, not the subjunctive.",
+        "2": "'was given' is past indicative and not used after 'demanded that' in formal style.",
+        "3": "'gives' is active and makes the client the giver."
+      },
+      "options": [
+        "be given",
+        "is given",
+        "was given",
+        "gives"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-185",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "Buying that cheap printer was a false economy; the ink costs an arm and a ___.",
+      "explanation": "'Cost an arm and a leg' means to be very expensive: That car cost him an arm and a leg.",
+      "wrongReasons": {
+        "0": "The idiom pairs 'arm' with 'leg', not 'foot'.",
+        "1": "'An arm and a hand' is not an idiom.",
+        "2": "'Head' does not complete this idiom."
+      },
+      "options": [
+        "foot",
+        "hand",
+        "head",
+        "leg"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-186",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "It took her months to ___ the shock of losing her job.",
+      "explanation": "'Get over' means to recover from an illness or a shock: He never got over the loss.",
+      "wrongReasons": {
+        "0": "'Get across' means to communicate an idea clearly.",
+        "1": "'Get by' means to manage with little money or few resources.",
+        "3": "'Get through to' means to make someone understand or reach them by phone."
+      },
+      "options": [
+        "get across",
+        "get by",
+        "get over",
+        "get through to"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-187",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "Sales have fallen sharply this year. ___, the company plans to cut costs.",
+      "explanation": "'As a result' introduces a consequence of the previous sentence: It rained all day. As a result, the match was cancelled.",
+      "wrongReasons": {
+        "0": "'Even so' introduces a surprising contrast, not a consequence.",
+        "2": "'On the other hand' presents an opposing point.",
+        "3": "'In contrast' compares two different things, not cause and effect."
+      },
+      "options": [
+        "Even so",
+        "As a result",
+        "On the other hand",
+        "In contrast"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-188",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "The instructions were ___ worded that nobody understood them.",
+      "explanation": "'So' + adverb + that-clause expresses a result: He spoke so quickly that I missed it.",
+      "wrongReasons": {
+        "1": "'Such' is used before a noun phrase, not an adverb.",
+        "2": "'Too' is followed by a to-infinitive, not a that-clause.",
+        "3": "'Very' cannot introduce a that-clause of result."
+      },
+      "options": [
+        "so badly",
+        "such badly",
+        "too badly",
+        "very badly"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-189",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The ancient manuscript ___ to have been written by a single monk.",
+      "explanation": "Personal passive with reporting verbs: subject + is thought/said/believed + to-infinitive: He is thought to be rich.",
+      "wrongReasons": {
+        "0": "'thinks' is active; a manuscript cannot think.",
+        "1": "'has thought' is active and makes the manuscript the thinker.",
+        "2": "The continuous active form gives the wrong meaning."
+      },
+      "options": [
+        "thinks",
+        "has thought",
+        "is thinking",
+        "is thought"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-190",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Suppose you ___ the lottery tomorrow, what would you do first?",
+      "explanation": "'Suppose' + past simple introduces an imaginary present or future situation: Suppose you lost your job?",
+      "wrongReasons": {
+        "0": "With 'would' in the result, the hypothetical needs a past form.",
+        "1": "'will' is not used after 'suppose' in this unreal meaning.",
+        "3": "'had won' refers to the past, but the sentence says 'tomorrow'."
+      },
+      "options": [
+        "win",
+        "will win",
+        "won",
+        "had won"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-191",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "Our plans for a picnic went down the ___ when it started to pour.",
+      "explanation": "'Go down the drain' means to be wasted or to fail completely: All our hard work went down the drain.",
+      "wrongReasons": {
+        "0": "'Down the river' is literal and has no idiomatic meaning here.",
+        "2": "'Go downhill' means to get worse gradually, but 'down the hill' is literal.",
+        "3": "'Down the street' only describes a place."
+      },
+      "options": [
+        "river",
+        "drain",
+        "hill",
+        "street"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-192",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "The company had to ___ two hundred employees after sales collapsed.",
+      "explanation": "'Lay off' means to dismiss workers because there is no work: The plant laid off 500 staff.",
+      "wrongReasons": {
+        "1": "'Lay down' means to establish rules or put something down.",
+        "2": "'Lay out' means to arrange or spend money.",
+        "3": "'Lay aside' means to save or ignore something for now."
+      },
+      "options": [
+        "lay off",
+        "lay down",
+        "lay out",
+        "lay aside"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-193",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "We need to leave now ___ we'll miss the beginning of the concert.",
+      "explanation": "'Or else' introduces what will happen if something isn't done: Hurry, or else you'll be late.",
+      "wrongReasons": {
+        "0": "'As though' compares something to an unreal situation.",
+        "1": "'So that' expresses purpose, but nobody wants to miss the concert.",
+        "2": "'In order to' must be followed by a base verb, not a clause."
+      },
+      "options": [
+        "as though",
+        "so that",
+        "in order to",
+        "or else"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-194",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "Prices have risen ___ over the last decade, and many families are struggling.",
+      "explanation": "Adverbs like dramatically, sharply and steadily describe changes: Sales rose sharply.",
+      "wrongReasons": {
+        "0": "'Drama' is a noun.",
+        "1": "'Dramatic' is an adjective; we would need 'a dramatic rise'.",
+        "3": "'Dramatised' means turned into a play or film."
+      },
+      "options": [
+        "drama",
+        "dramatic",
+        "dramatically",
+        "dramatised"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-195",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Applicants will be informed of the decision once their files ___.",
+      "explanation": "After time words like 'once' or 'when', use a present tense, not 'will', even for the future; here passive present perfect: once the work has been done.",
+      "wrongReasons": {
+        "0": "'will' is not used after 'once' in a future time clause.",
+        "2": "'have reviewed' is active; files cannot review anything.",
+        "3": "'are reviewing' is active and makes the files the doers."
+      },
+      "options": [
+        "will be reviewed",
+        "have been reviewed",
+        "have reviewed",
+        "are reviewing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-196",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Far be it from me ___ you how to raise your children.",
+      "explanation": "The fixed expression 'Far be it from me to' + infinitive means 'I don't want to criticise, but': Far be it from me to complain.",
+      "wrongReasons": {
+        "1": "The fixed phrase takes a to-infinitive, not an -ing form.",
+        "2": "'that I tell' does not fit this fixed expression.",
+        "3": "A bare infinitive cannot follow 'from me' here."
+      },
+      "options": [
+        "to tell",
+        "telling",
+        "that I tell",
+        "tell"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-197",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "I'm not going to beat about the ___: your work this month has been unacceptable.",
+      "explanation": "'Beat about the bush' means to avoid saying something directly: Stop beating about the bush and tell me.",
+      "wrongReasons": {
+        "0": "The idiom uses 'bush', not 'tree'.",
+        "1": "'Field' does not appear in this idiom.",
+        "2": "'Beat about the garden' is not an English idiom."
+      },
+      "options": [
+        "tree",
+        "field",
+        "garden",
+        "bush"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-198",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "I can't ___ his rudeness any longer; I'm going to complain.",
+      "explanation": "'Put up with' means to tolerate something unpleasant: I can't put up with the noise.",
+      "wrongReasons": {
+        "0": "'Catch up with' means to reach the same level as someone.",
+        "1": "'Come up with' means to think of an idea or a plan.",
+        "3": "'Keep up with' means to stay at the same speed or level."
+      },
+      "options": [
+        "catch up with",
+        "come up with",
+        "put up with",
+        "keep up with"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-199",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "___ his age, my grandfather still swims in the sea every morning.",
+      "explanation": "'Notwithstanding' is a formal word meaning 'despite' and takes a noun: Notwithstanding the cost, the plan went ahead.",
+      "wrongReasons": {
+        "0": "'Although' needs a clause, for example 'Although he is old'.",
+        "2": "'Whereas' contrasts two clauses and cannot take a noun alone.",
+        "3": "'Even' alone cannot introduce a noun phrase of contrast."
+      },
+      "options": [
+        "Although",
+        "Notwithstanding",
+        "Whereas",
+        "Even"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-200",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "The old cathedral was ___ destroyed by the earthquake; not a single wall remained standing.",
+      "explanation": "An adverb modifies a past participle in a passive: The town was completely flooded.",
+      "wrongReasons": {
+        "1": "'Complete' is an adjective and cannot modify the verb 'destroyed'.",
+        "2": "'Completion' is a noun.",
+        "3": "'Completed' is a past participle and cannot modify another participle."
+      },
+      "options": [
+        "completely",
+        "complete",
+        "completion",
+        "completed"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-201",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The match was called off because the pitch ___ unplayable by heavy rain.",
+      "explanation": "Use the past perfect passive for an earlier action done to the subject: The road had been blocked by snow.",
+      "wrongReasons": {
+        "0": "'had rendered' is active; the pitch did not render anything unplayable.",
+        "1": "Present perfect does not fit a past narrative.",
+        "2": "'was rendering' is active and has the wrong meaning."
+      },
+      "options": [
+        "had rendered",
+        "has rendered",
+        "was rendering",
+        "had been rendered"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-202",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "I wish I ___ speak Japanese; it would make my business trips much easier.",
+      "explanation": "'Wish' + could expresses regret about an ability we don't have now: I wish I could swim.",
+      "wrongReasons": {
+        "0": "A present form is not used after 'wish'.",
+        "1": "'I wish I would' is not used to talk about your own abilities.",
+        "3": "'will' is never used after 'wish'."
+      },
+      "options": [
+        "can",
+        "would",
+        "could",
+        "will"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-203",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "When the factory closed, hundreds of workers were left out in the ___.",
+      "explanation": "'Left out in the cold' means ignored or excluded from a group or benefit: Smaller firms were left out in the cold.",
+      "wrongReasons": {
+        "0": "'Out in the rain' is literal, not idiomatic.",
+        "2": "'In the air' means likely to happen soon, which is a different idiom.",
+        "3": "'Out in the street' is about being homeless, not excluded."
+      },
+      "options": [
+        "rain",
+        "cold",
+        "air",
+        "street"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-204",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "The thieves were ___ by a shop assistant who recognised them from the news.",
+      "explanation": "'Turn in' someone means to report them to the police: His own brother turned him in.",
+      "wrongReasons": {
+        "1": "'Turn off' means to stop a machine or to make someone lose interest.",
+        "2": "'Turn away' means to refuse someone entry.",
+        "3": "'Turn back' means to return the way you came."
+      },
+      "options": [
+        "turned in",
+        "turned off",
+        "turned away",
+        "turned back"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-205",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "She trained every day for a year ___ she could compete in the national championships.",
+      "explanation": "'So that' expresses purpose and is often followed by can/could: He saved money so that he could travel.",
+      "wrongReasons": {
+        "0": "'As if' describes how something seems, not a purpose.",
+        "1": "'In case' expresses a precaution, not a goal.",
+        "2": "'Unless' means 'if not', which makes no sense here."
+      },
+      "options": [
+        "as if",
+        "in case",
+        "unless",
+        "so that"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-206",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "The film was ___ boring that half the audience left before the end.",
+      "explanation": "'So' + adjective + that-clause expresses a result: It was so cold that the lake froze.",
+      "wrongReasons": {
+        "0": "'Too' is followed by a to-infinitive, not a that-clause.",
+        "1": "'Such' is used with a noun: such a boring film.",
+        "3": "'Enough' comes after the adjective and is followed by a to-infinitive."
+      },
+      "options": [
+        "too",
+        "such",
+        "so",
+        "enough"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-207",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "There is no point in complaining; the decision has already ___.",
+      "explanation": "Present perfect passive: has/have + been + past participle: The order has been sent.",
+      "wrongReasons": {
+        "0": "'has made' is active and needs an object.",
+        "2": "'has been making' is active continuous; a decision does not make anything.",
+        "3": "'has being made' is not a possible verb form."
+      },
+      "options": [
+        "made",
+        "been made",
+        "been making",
+        "being made"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-208",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Whether he ___ guilty or innocent, he has the right to a fair trial.",
+      "explanation": "In formal English, 'whether ... or' can take the subjunctive 'be': Whether it be true or false.",
+      "wrongReasons": {
+        "1": "'being' is not a finite verb and cannot follow 'whether he'.",
+        "2": "A to-infinitive cannot follow 'whether he' here.",
+        "3": "'been' needs an auxiliary such as 'has'."
+      },
+      "options": [
+        "be",
+        "being",
+        "to be",
+        "been"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-209",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "Stop sitting on the ___ and tell us which candidate you support.",
+      "explanation": "'Sit on the fence' means to avoid choosing a side: The senator is still sitting on the fence.",
+      "wrongReasons": {
+        "0": "'On the wall' is not part of this idiom.",
+        "1": "'Bench' has no idiomatic meaning in this phrase.",
+        "2": "'Sitting on the chair' is literal."
+      },
+      "options": [
+        "wall",
+        "bench",
+        "chair",
+        "fence"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-210",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "Could you ___ the main arguments of the report in a few sentences?",
+      "explanation": "'Sum up' means to give a short summary: To sum up, the plan is too expensive.",
+      "wrongReasons": {
+        "0": "'Make out' means to see or hear with difficulty.",
+        "1": "'Add up' means to calculate a total or to make sense.",
+        "3": "'Hold up' means to delay or to rob."
+      },
+      "options": [
+        "make out",
+        "add up",
+        "sum up",
+        "hold up"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-211",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "___ the new law was passed, crime in the city has fallen by a third.",
+      "explanation": "'Since' + a past event is used with the present perfect to show a starting point: Since he moved here, he has made many friends.",
+      "wrongReasons": {
+        "0": "'For' is used with a period of time, not with a clause.",
+        "2": "'During' is followed by a noun, not a clause.",
+        "3": "'While' describes something happening at the same time, which does not fit the present perfect here."
+      },
+      "options": [
+        "For",
+        "Since",
+        "During",
+        "While"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-212",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "Have you finished your homework ___?",
+      "explanation": "'Yet' is used at the end of questions and negatives with the present perfect: Have you eaten yet?",
+      "wrongReasons": {
+        "1": "'Ago' is used with the past simple and a time period, not alone with the present perfect.",
+        "2": "'Still' is used for continuing situations, not completion.",
+        "3": "'Just' goes before the past participle, not at the end."
+      },
+      "options": [
+        "yet",
+        "ago",
+        "still",
+        "just"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-213",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The singer insisted on ___ by her first name throughout the interview.",
+      "explanation": "After a preposition, use a passive gerund (being + past participle) when the subject receives the action: She objected to being ignored.",
+      "wrongReasons": {
+        "0": "'addressing' is active: she would be addressing someone else.",
+        "1": "The base form cannot follow a preposition.",
+        "2": "A preposition is followed by an -ing form, not a to-infinitive."
+      },
+      "options": [
+        "addressing",
+        "address",
+        "to be addressed",
+        "being addressed"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-214",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "If she ___ the job offer last year, she would be living in Canada now.",
+      "explanation": "A mixed conditional uses past perfect in the if-clause and 'would' + verb for a present result: If I had studied medicine, I would be a doctor now.",
+      "wrongReasons": {
+        "0": "'accepted' refers to an unreal present, but the offer was 'last year'.",
+        "1": "'would' is not used in the if-clause.",
+        "3": "The present form gives a real condition, which clashes with 'would'."
+      },
+      "options": [
+        "accepted",
+        "would accept",
+        "had accepted",
+        "accepts"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-215",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "My brother and I don't see eye to ___ on politics, so we avoid the subject.",
+      "explanation": "'See eye to eye' means to agree with someone: We rarely see eye to eye on money.",
+      "wrongReasons": {
+        "0": "'Face to face' is a different idiom meaning in person.",
+        "2": "'Eye to mind' is not an expression in English.",
+        "3": "'Eye to head' does not exist as an idiom."
+      },
+      "options": [
+        "face",
+        "eye",
+        "mind",
+        "head"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-216",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "Fewer young people are ___ farming as a career these days.",
+      "explanation": "'Take up' means to start a hobby, job or activity: He took up painting when he retired.",
+      "wrongReasons": {
+        "1": "'Take in' means to understand or to deceive someone.",
+        "2": "'Take over' means to gain control of something.",
+        "3": "'Take off' means to remove clothes or for a plane to leave the ground."
+      },
+      "options": [
+        "taking up",
+        "taking in",
+        "taking over",
+        "taking off"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-217",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "___ the reasons for the delay, the project must be finished by June.",
+      "explanation": "'Whatever' + noun means 'it doesn't matter which': Whatever the weather, we'll go.",
+      "wrongReasons": {
+        "0": "'Whichever way' refers to manner or direction, not to reasons.",
+        "1": "'However' + adjective or adverb is possible, but not + noun.",
+        "2": "'Whenever' refers to time, not to reasons."
+      },
+      "options": [
+        "Whichever way",
+        "However",
+        "Whenever",
+        "Whatever"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-218",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "The new software is ___ easy to use, even for beginners.",
+      "explanation": "An adverb intensifies an adjective: remarkably easy, surprisingly cheap.",
+      "wrongReasons": {
+        "0": "'Remark' is a noun or verb.",
+        "1": "'Remarkable' is an adjective and cannot modify 'easy'.",
+        "3": "'Remarked' is a past form of the verb."
+      },
+      "options": [
+        "remark",
+        "remarkable",
+        "remarkably",
+        "remarked"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-219",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Visitors ___ not to feed the animals under any circumstances.",
+      "explanation": "Present simple passive is common for rules and notices: Passengers are reminded to keep their bags with them.",
+      "wrongReasons": {
+        "0": "'ask' is active and would mean visitors ask someone else.",
+        "2": "'are asking' is active continuous and reverses the meaning.",
+        "3": "'have asked' is active and makes the visitors the speakers."
+      },
+      "options": [
+        "ask",
+        "are asked",
+        "are asking",
+        "have asked"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-220",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "God ___ the Queen!",
+      "explanation": "Some fixed expressions keep the old subjunctive base form: Long live the king; God save the Queen.",
+      "wrongReasons": {
+        "1": "The -s form is not used in this fixed subjunctive expression.",
+        "2": "The past form changes it into a statement about the past.",
+        "3": "The continuous form does not exist in this fixed expression."
+      },
+      "options": [
+        "save",
+        "saves",
+        "saved",
+        "is saving"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-221",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "The company is in hot ___ after customers' data was leaked online.",
+      "explanation": "'In hot water' means in trouble: He got into hot water for missing the meeting.",
+      "wrongReasons": {
+        "0": "'Hot oil' has no idiomatic meaning here.",
+        "1": "'In hot fire' is not an idiom; 'under fire' means criticised.",
+        "2": "'In the soup' is old-fashioned, and 'hot soup' is not the idiom."
+      },
+      "options": [
+        "oil",
+        "fire",
+        "soup",
+        "water"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-222",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "The police are ___ the cause of the explosion at the chemical plant.",
+      "explanation": "'Look into' means to investigate: The manager promised to look into my complaint.",
+      "wrongReasons": {
+        "0": "'Look forward to' means to wait for something with pleasure.",
+        "1": "'Look up to' means to admire and respect someone.",
+        "3": "'Look down on' means to think you are better than someone."
+      },
+      "options": [
+        "looking forward to",
+        "looking up to",
+        "looking into",
+        "looking down on"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-223",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "He apologised; ___, I'm still angry about what he said.",
+      "explanation": "'All the same' means 'despite this': It's an old car; all the same, I love it.",
+      "wrongReasons": {
+        "0": "'Therefore' shows a result, but being angry is not a result of an apology.",
+        "2": "'In addition' adds a similar point, not a contrast.",
+        "3": "'Accordingly' means 'as a result' and does not show contrast."
+      },
+      "options": [
+        "therefore",
+        "all the same",
+        "in addition",
+        "accordingly"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-224",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "He arrived ___ late that the ceremony had already finished.",
+      "explanation": "'So' + adverb + that-clause expresses a result: She ran so fast that she won.",
+      "wrongReasons": {
+        "1": "'Too' is followed by a to-infinitive, not a that-clause.",
+        "2": "'Very' cannot introduce a result clause.",
+        "3": "'Such' is used before nouns, not adverbs."
+      },
+      "options": [
+        "so",
+        "too",
+        "very",
+        "such"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-225",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The road through the valley ___ for months, so drivers had to take a long detour.",
+      "explanation": "Past continuous passive (was/were being + past participle) describes an action in progress on the subject in the past: The house was being painted.",
+      "wrongReasons": {
+        "0": "'had resurfaced' is active and also loses the idea of duration.",
+        "1": "'was resurfacing' is active; a road cannot resurface itself.",
+        "2": "'resurfaced' is active past simple and needs a doer."
+      },
+      "options": [
+        "had resurfaced",
+        "was resurfacing",
+        "resurfaced",
+        "was being resurfaced"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-226",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "It's about time you ___ responsibility for your own mistakes.",
+      "explanation": "'It's about time' + subject + past simple criticises something that should already have happened: It's about time he apologised.",
+      "wrongReasons": {
+        "0": "The base form is not used after 'it's about time you'.",
+        "1": "An -ing form cannot follow 'you' here without an auxiliary.",
+        "3": "'will' does not follow 'it's about time'."
+      },
+      "options": [
+        "take",
+        "taking",
+        "took",
+        "will take"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-227",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "Learning the basics of coding is one thing, but building an app is a whole different ___.",
+      "explanation": "'A different kettle of fish' means a completely different situation: Teaching adults is a different kettle of fish.",
+      "wrongReasons": {
+        "0": "'A can of worms' is a situation full of new problems, used with 'open', not 'a whole different'.",
+        "2": "'Not my cup of tea' means something you don't like.",
+        "3": "'A piece of cake' means easy, which does not fit the contrast."
+      },
+      "options": [
+        "can of worms",
+        "kettle of fish",
+        "cup of tea",
+        "piece of cake"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-228",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "When the main speaker fell ill, her assistant ___ for her at the conference.",
+      "explanation": "'Stand in for' means to replace someone temporarily: I stood in for my boss at the meeting.",
+      "wrongReasons": {
+        "1": "'Stand off' is not followed by 'for'; a 'stand-off' is a situation where neither side acts.",
+        "2": "'Stand out' means to be easy to notice.",
+        "3": "'Stand by' means to support someone or be ready to act, and is not used with 'for'."
+      },
+      "options": [
+        "stood in",
+        "stood off",
+        "stood out",
+        "stood by"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-229",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "The museum is closed on Mondays, ___ we'll have to visit it on Tuesday.",
+      "explanation": "'So' introduces a result in the second clause: It was cold, so I wore a coat.",
+      "wrongReasons": {
+        "0": "'Because' gives a reason, which reverses the logic.",
+        "1": "'But' introduces a contrast, not a result.",
+        "2": "'Although' introduces a contrast, which does not fit here."
+      },
+      "options": [
+        "because",
+        "but",
+        "although",
+        "so"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-230",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "The village is ___ accessible by boat during the winter months.",
+      "explanation": "'Only' as an adverb limits a phrase: The island is only reachable by ferry.",
+      "wrongReasons": {
+        "0": "'Lonely' is an adjective describing sad feelings.",
+        "1": "'Alone' means without other people and cannot modify 'accessible'.",
+        "3": "'Single' is an adjective meaning one."
+      },
+      "options": [
+        "lonely",
+        "alone",
+        "only",
+        "single"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-231",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Neither of the two reports ___ by the committee so far.",
+      "explanation": "After 'neither of' use a singular verb in formal English; here present perfect passive: Neither of the plans has been approved.",
+      "wrongReasons": {
+        "0": "'have discussed' is active and also plural.",
+        "2": "'has discussed' is active; reports cannot discuss anything.",
+        "3": "'is discussing' is active continuous with the wrong meaning."
+      },
+      "options": [
+        "have discussed",
+        "has been discussed",
+        "has discussed",
+        "is discussing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-232",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "The committee proposed that the meeting ___ until all members could attend.",
+      "explanation": "After 'propose that', formal English uses the base form, here passive: We propose that the rule be changed.",
+      "wrongReasons": {
+        "1": "'is postponed' is indicative, not the formal subjunctive.",
+        "2": "'postpones' is active; a meeting cannot postpone anything.",
+        "3": "'will postpone' is active and uses 'will' in a mandative clause."
+      },
+      "options": [
+        "be postponed",
+        "is postponed",
+        "postpones",
+        "will postpone"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-233",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "The scientist's theory was ahead of its ___, so few colleagues took it seriously.",
+      "explanation": "'Ahead of its time' means too modern to be understood or accepted then: Her designs were ahead of their time.",
+      "wrongReasons": {
+        "0": "'Ahead of its age' is not the fixed expression.",
+        "1": "'Period' does not form this idiom.",
+        "2": "'Ahead of its days' is not idiomatic."
+      },
+      "options": [
+        "age",
+        "period",
+        "days",
+        "time"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-234",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "The government has promised to ___ on tax evasion by large corporations.",
+      "explanation": "'Crack down on' means to deal with something illegal more strictly: Police are cracking down on speeding.",
+      "wrongReasons": {
+        "0": "'Break off' means to end a relationship or stop talking suddenly.",
+        "1": "'Crack up' means to laugh a lot or to have a breakdown.",
+        "3": "'Cut back on' means to reduce spending, not to act strictly against crime."
+      },
+      "options": [
+        "break off",
+        "crack up",
+        "crack down",
+        "cut back"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-235",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "___ the risks involved, very few investors were interested in the project.",
+      "explanation": "'Given' + noun means 'considering': Given his experience, he should get the job.",
+      "wrongReasons": {
+        "0": "'Unless' needs a clause and introduces a condition.",
+        "2": "'Although' needs a clause and expresses contrast.",
+        "3": "'Whereas' contrasts two clauses and cannot take a noun phrase."
+      },
+      "options": [
+        "Unless",
+        "Given",
+        "Although",
+        "Whereas"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-236",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "The manager spoke ___ to the staff about the need for changes.",
+      "explanation": "Use an adverb after a verb to describe how something is done: She spoke frankly.",
+      "wrongReasons": {
+        "1": "'Frank' is an adjective and cannot describe the verb 'spoke'.",
+        "2": "'Frankness' is a noun.",
+        "3": "'Franker' is a comparative adjective."
+      },
+      "options": [
+        "frankly",
+        "frank",
+        "frankness",
+        "franker"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-237",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The old factory is going ___ into a block of luxury flats.",
+      "explanation": "'Going to' + be + past participle is the passive future with 'going to': The park is going to be closed.",
+      "wrongReasons": {
+        "0": "'to convert' is active; the factory is not converting anything.",
+        "1": "'going be' is missing 'to' and is active.",
+        "2": "'going' needs 'to' + verb, not a bare participle."
+      },
+      "options": [
+        "to convert",
+        "be converting",
+        "converted",
+        "to be converted"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-238",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Would you rather I ___ you a lift to the station?",
+      "explanation": "'Would rather' + another subject + past simple refers to the present or future: Would you rather I left?",
+      "wrongReasons": {
+        "0": "The base form is not used after 'would you rather I'.",
+        "1": "'would' is not repeated after 'would rather I'.",
+        "3": "'had given' refers to the past, but the offer is about now."
+      },
+      "options": [
+        "give",
+        "would give",
+        "gave",
+        "had given"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-239",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "Getting a meeting with the director is like getting blood out of a ___.",
+      "explanation": "'Like getting blood out of a stone' means very difficult to get something from someone: Getting a refund was like getting blood out of a stone.",
+      "wrongReasons": {
+        "0": "The idiom uses 'stone', not 'rock'.",
+        "2": "'Brick' is never used in this idiom.",
+        "3": "'Out of a wall' is not the fixed form."
+      },
+      "options": [
+        "rock",
+        "stone",
+        "brick",
+        "wall"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-240",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "The fire alarm ___ in the middle of the night and woke everyone up.",
+      "explanation": "'Go off' (of an alarm or bomb) means to ring or explode: My alarm goes off at six.",
+      "wrongReasons": {
+        "1": "'Go out' means to stop burning or to leave home for fun.",
+        "2": "'Go on' means to continue or to happen.",
+        "3": "'Go over' means to check or review something."
+      },
+      "options": [
+        "went off",
+        "went out",
+        "went on",
+        "went over"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-241",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "The festival will take place ___ the weather is good or bad.",
+      "explanation": "'Whether ... or' means it doesn't matter which of two possibilities happens: We'll go whether you like it or not.",
+      "wrongReasons": {
+        "0": "'Either' needs 'or' but cannot introduce a clause like this.",
+        "1": "'If ... or' cannot introduce two alternatives in this way.",
+        "2": "'Unless' means 'if not' and does not fit with 'or'."
+      },
+      "options": [
+        "either",
+        "if",
+        "unless",
+        "whether"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-242",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "Mark is ___ the most talented player in the team.",
+      "explanation": "'By far' strengthens a superlative: She is by far the best student.",
+      "wrongReasons": {
+        "0": "'Much more' is used with comparatives, not superlatives.",
+        "1": "'Very' cannot modify 'the most' + adjective in this way.",
+        "3": "'Too' means more than needed and cannot modify a superlative."
+      },
+      "options": [
+        "much more",
+        "very",
+        "by far",
+        "too"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-243",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The painting ___ to be a fake, so the museum quietly removed it from display.",
+      "explanation": "Personal passive: subject + was found/shown/proved + to-infinitive: The claim was shown to be false.",
+      "wrongReasons": {
+        "0": "'found' is active; the painting did not find anything.",
+        "2": "'was finding' is active continuous and gives no sense here.",
+        "3": "'had found' is active past perfect, again with the wrong doer."
+      },
+      "options": [
+        "found",
+        "was found",
+        "was finding",
+        "had found"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-244",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "I wish you ___ me earlier; I could have helped you.",
+      "explanation": "'Wish' + past perfect expresses regret about the past: I wish I had known.",
+      "wrongReasons": {
+        "1": "'would tell' is for annoyance or a wish for future change.",
+        "2": "'told' refers to an unreal present, but this regret is about the past.",
+        "3": "A present form cannot follow 'wish'."
+      },
+      "options": [
+        "had told",
+        "would tell",
+        "told",
+        "tell"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-245",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "I can't make ___ or tail of these instructions; they're completely confusing.",
+      "explanation": "'Can't make head or tail of something' means you cannot understand it at all: I can't make head or tail of this map.",
+      "wrongReasons": {
+        "0": "'Front or tail' does not exist as an idiom.",
+        "1": "'Top or tail' is used for preparing vegetables, not for understanding.",
+        "2": "'Face or tail' is not an idiom."
+      },
+      "options": [
+        "front",
+        "top",
+        "face",
+        "head"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-246",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "Unless we ___ costs, we will have to close two of our branches.",
+      "explanation": "'Cut down on' means to reduce the amount of something: I'm trying to cut down on coffee.",
+      "wrongReasons": {
+        "0": "'Cut off' means to disconnect or isolate.",
+        "1": "'Cut in on' means to interrupt a conversation or a dance.",
+        "3": "'Cut out' means to remove completely or to stop working, as an engine."
+      },
+      "options": [
+        "cut off",
+        "cut in on",
+        "cut down on",
+        "cut out"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-247",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "The scheme proved popular; ___, it was extended to three other cities.",
+      "explanation": "'Consequently' introduces a result: The road was icy; consequently, there were many accidents.",
+      "wrongReasons": {
+        "0": "'Nevertheless' introduces a contrast, but extending a popular scheme is a natural result.",
+        "2": "'On the contrary' contradicts the previous statement.",
+        "3": "'Meanwhile' refers to something happening at the same time."
+      },
+      "options": [
+        "nevertheless",
+        "consequently",
+        "on the contrary",
+        "meanwhile"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-248",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "The patient's condition has improved ___, so she can go home tomorrow.",
+      "explanation": "Use an adverb after a verb to say how much something changed: Her health has improved greatly.",
+      "wrongReasons": {
+        "1": "'Significant' is an adjective and cannot describe the verb.",
+        "2": "'Significance' is a noun.",
+        "3": "'Signify' is a verb meaning to mean or show."
+      },
+      "options": [
+        "significantly",
+        "significant",
+        "significance",
+        "signify"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-249",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The athlete denied ___ any money to lose the race.",
+      "explanation": "'Deny' is followed by an -ing form; use 'having been' + past participle for an earlier passive action: He denied having been paid.",
+      "wrongReasons": {
+        "0": "'offering' is active: it would mean he offered money to someone.",
+        "1": "'deny' is not followed by a to-infinitive.",
+        "2": "'deny' does not take a to-infinitive, and this form is also active."
+      },
+      "options": [
+        "offering",
+        "to be offered",
+        "to have offered",
+        "having been offered"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-250",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Were the company ___ its prices, many loyal customers would leave.",
+      "explanation": "'Were + subject + to-infinitive' is a formal inverted conditional for unlikely situations: Were he to resign, there would be chaos.",
+      "wrongReasons": {
+        "0": "The base form cannot follow 'Were the company'.",
+        "1": "A past form cannot follow 'Were the company'; this inverted structure needs 'to' + base verb.",
+        "3": "This inverted structure needs a to-infinitive, not an -ing form."
+      },
+      "options": [
+        "raise",
+        "raised",
+        "to raise",
+        "raising"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-251",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "Since the scandal, the senator has been keeping a low ___ and avoiding journalists.",
+      "explanation": "'Keep a low profile' means to avoid attracting attention: After the trial, she kept a low profile.",
+      "wrongReasons": {
+        "0": "'Keep a low level' is not an idiom.",
+        "2": "'Keep a low face' does not exist; 'keep a straight face' is different.",
+        "3": "'Keep a low voice' only means speaking quietly."
+      },
+      "options": [
+        "level",
+        "profile",
+        "face",
+        "voice"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-252",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "The children's tricks didn't fool their teacher; she ___ them immediately.",
+      "explanation": "'See through' someone means to recognise their trick or lie: I saw through his excuse at once.",
+      "wrongReasons": {
+        "1": "'See off' means to say goodbye to someone at a station or airport.",
+        "2": "'See to' means to deal with or take care of something.",
+        "3": "'See out' means to accompany someone to the door or last until the end."
+      },
+      "options": [
+        "saw through",
+        "saw off",
+        "saw to",
+        "saw out"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-253",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "___ the book is well written, its argument is not very convincing.",
+      "explanation": "'While' can mean 'although' at the start of a sentence: While I understand your point, I disagree.",
+      "wrongReasons": {
+        "0": "'Because' gives a cause, but the two clauses contrast.",
+        "1": "'Since' gives a reason or a starting time, not a contrast.",
+        "2": "'As' gives a reason, which does not fit the contrast."
+      },
+      "options": [
+        "Because",
+        "Since",
+        "As",
+        "While"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-254",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "The two brothers look ___ alike; most people can't tell them apart.",
+      "explanation": "An adverb can intensify 'alike': They look remarkably alike.",
+      "wrongReasons": {
+        "0": "'Strike' is a noun or verb.",
+        "1": "'Striking' is an adjective and cannot modify 'alike'.",
+        "3": "'Struck' is the past form of the verb 'strike'."
+      },
+      "options": [
+        "strike",
+        "striking",
+        "strikingly",
+        "struck"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-255",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "Not a single complaint ___ since the new manager took over.",
+      "explanation": "Use the present perfect passive with 'since' for a period up to now: No changes have been made since May.",
+      "wrongReasons": {
+        "0": "'has received' is active; a complaint cannot receive anything.",
+        "2": "Past continuous does not fit a period that continues up to now.",
+        "3": "Present simple does not fit with 'since'."
+      },
+      "options": [
+        "has received",
+        "has been received",
+        "was receiving",
+        "is received"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-256",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "If he weren't so stubborn, he ___ the argument yesterday.",
+      "explanation": "A mixed conditional with a present cause and a past result uses 'would have' + past participle: If I were braver, I would have spoken up.",
+      "wrongReasons": {
+        "1": "'wouldn't lose' refers to the present, but the argument was yesterday.",
+        "2": "The past simple is not used in the result clause.",
+        "3": "The past perfect belongs in the if-clause, not the result."
+      },
+      "options": [
+        "wouldn't have lost",
+        "wouldn't lose",
+        "didn't lose",
+        "hadn't lost"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-257",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "The final decision is up in the ___ until the investors meet next week.",
+      "explanation": "'Up in the air' means not decided yet: Our holiday plans are still up in the air.",
+      "wrongReasons": {
+        "0": "'Up in the sky' is literal.",
+        "1": "'Up in the wind' is not an idiom.",
+        "2": "'Head in the clouds' means daydreaming, which is a different idiom."
+      },
+      "options": [
+        "sky",
+        "wind",
+        "clouds",
+        "air"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-258",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "After years of hard work, the small start-up finally ___ and became a major brand.",
+      "explanation": "'Take off' can mean to suddenly become successful: Her career took off after the film.",
+      "wrongReasons": {
+        "0": "'Take after' means to resemble an older relative.",
+        "1": "'Take back' means to return something or withdraw a statement.",
+        "3": "'Take apart' means to separate something into pieces."
+      },
+      "options": [
+        "took after",
+        "took back",
+        "took off",
+        "took apart"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-259",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "You won't get a refund ___ you have the original receipt.",
+      "explanation": "'Unless' means 'except if': You can't enter unless you have a ticket.",
+      "wrongReasons": {
+        "0": "'If' reverses the meaning: no refund if you have the receipt.",
+        "2": "'Provided' reverses the meaning in the same way as 'if'.",
+        "3": "'As long as' also means 'only if', which gives the wrong meaning with 'won't'."
+      },
+      "options": [
+        "if",
+        "unless",
+        "provided",
+        "as long as"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-260",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "adverbs",
+      "prompt": "I ___ remember locking the door, but it was open when I got home.",
+      "explanation": "'Distinctly' collocates with 'remember' to mean clearly: I distinctly remember him saying that.",
+      "wrongReasons": {
+        "1": "'Distinct' is an adjective and cannot modify the verb.",
+        "2": "'Distinction' is a noun.",
+        "3": "'Distinctive' is an adjective meaning easy to recognise."
+      },
+      "options": [
+        "distinctly",
+        "distinct",
+        "distinction",
+        "distinctive"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-261",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "passive",
+      "prompt": "The children were made ___ the classroom before they were allowed to go home.",
+      "explanation": "In the active, 'make' takes a bare infinitive, but in the passive it takes a to-infinitive: They were made to wait.",
+      "wrongReasons": {
+        "0": "The bare infinitive is used only in the active: they made them tidy.",
+        "1": "'were made' is not followed by an -ing form.",
+        "2": "'tidied' would wrongly suggest the children themselves were tidied."
+      },
+      "options": [
+        "tidy",
+        "tidying",
+        "tidied",
+        "to tidy"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "c1-mc-262",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "subjunctive",
+      "prompt": "Heaven ___ that anything should happen to the children while we're away!",
+      "explanation": "'Heaven forbid' is a fixed subjunctive expression meaning 'I really hope not': Heaven forbid that it rains on the wedding day.",
+      "wrongReasons": {
+        "0": "The past form does not fit this fixed wish.",
+        "1": "The fixed expression keeps the base form, without -s.",
+        "3": "An -ing form cannot be the main verb here."
+      },
+      "options": [
+        "forbade",
+        "forbids",
+        "forbid",
+        "forbidding"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "c1-mc-263",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "idioms",
+      "prompt": "The new intern really knows the ___; she's been here a week and already understands everything.",
+      "explanation": "'Know the ropes' means to understand how something is done: It takes a month to learn the ropes here.",
+      "wrongReasons": {
+        "0": "'Pull strings' is a different idiom about using influence.",
+        "2": "'Know the lines' refers only to an actor's script.",
+        "3": "'Wires' does not form this idiom."
+      },
+      "options": [
+        "strings",
+        "ropes",
+        "lines",
+        "wires"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "c1-mc-264",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "prompt": "Please ___ the form carefully and return it to reception.",
+      "explanation": "'Fill in' means to complete a form with information: Fill in your name and address.",
+      "wrongReasons": {
+        "1": "'Fill up' means to make a container completely full.",
+        "2": "'Fill out' exists, but 'fill out on' is not a phrasal verb.",
+        "3": "'Fill over' is not a phrasal verb in English."
+      },
+      "options": [
+        "fill in",
+        "fill up",
+        "fill out on",
+        "fill over"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "c1-mc-265",
+      "type": "multiple-choice",
+      "level": "C1",
+      "topic": "linkers",
+      "prompt": "The design is simple, ___ it is extremely effective.",
+      "explanation": "'Yet' introduces a surprising contrast: The car is small, yet it is very comfortable.",
+      "wrongReasons": {
+        "0": "'Besides' adds another point rather than contrasting.",
+        "1": "'Despite' cannot be followed by a clause with a subject and verb.",
+        "2": "'Hence' means 'for this reason', which does not show contrast."
+      },
+      "options": [
+        "besides",
+        "despite",
+        "hence",
+        "yet"
+      ],
+      "correct": 3
     }
   ]
 }
