@@ -18,7 +18,7 @@ Se una richiesta o un'esigenza tecnica contraddice le specifiche: **segnalalo e 
 
 ## Struttura
 - **Tutto ciò che è codice sta in `src/`**, compresi `package.json`, `node_modules`, `public`, `index.html` e le configurazioni (Vite usa `src/` come root). Fuori da `src/` solo `specs/`, `build/` e i file di repository.
-- Output di build **solo** in `build/` (mai modificarlo a mano, è ignorato da git).
+- Output di build **solo** in `build/` (mai modificarlo a mano; è versionato in git, va rigenerato con `npm run build` e committato).
 - Documentazione in `specs/`.
 - Logica di correzione/punteggio pura in `src/engine/`, senza dipendenze da React.
 - Ogni tipologia di domanda = componente in `src/questions/` + riga in `registry.tsx` + regole in `src/engine/rules.ts`.

@@ -28,6 +28,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 22 | **Icona**: bandiera britannica con sotto "English Quiz" su due righe, generata da script (`npm run icons`) da SVG; favicon = PNG 192 | Richiesta esplicita; lo script è la fonte unica delle icone PWA e della favicon | 05 |
 | 23 | **Tema Bootstrap in blu bandiera inglese** (#012169); nel tema scuro una variante più chiara per la leggibilità; `theme_color` PWA identico | Coerenza con l'icona; override via variabili CSS in `app.css` | 04, 05 |
 | 24 | Il test anti-duplicati considera anche le coppie (`pairs`) dei `match-pairs` | Prima due `match-pairs` con lo stesso prompt ma coppie diverse risultavano doppioni; ora il duplicato è solo se prompt **e** coppie coincidono | 07 |
+| 25 | **`build/` non è in `.gitignore`**: l'output di build è versionato | Richiesta esplicita: la cartella di build deve stare nel repository (es. per pubblicarla direttamente). Resta un artefatto: si rigenera con `npm run build`, mai a mano | 01, 06 |
 
 ## Ancora aperte
 Vedi `06-piano-implementazione.md`, sezione "Decisioni": hosting, export/import cronologia, ESLint/Prettier.
