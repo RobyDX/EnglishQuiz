@@ -40,6 +40,2645 @@
       ],
       "wrongIndex": 2,
       "fix": "going"
+    },
+    {
+      "id": "b1-es-003",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'for' with a period of time and 'since' with a starting point: for ten years, since 2015.",
+      "tokens": [
+        "I",
+        "have",
+        "lived",
+        "in",
+        "this",
+        "city",
+        "since",
+        "ten",
+        "years"
+      ],
+      "wrongIndex": 6,
+      "fix": "for"
+    },
+    {
+      "id": "b1-es-004",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The present perfect uses have + past participle: Have you ever been to Spain?",
+      "tokens": [
+        "Have",
+        "you",
+        "ever",
+        "went",
+        "to",
+        "a",
+        "music",
+        "festival"
+      ],
+      "wrongIndex": 3,
+      "fix": "been"
+    },
+    {
+      "id": "b1-es-005",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'has' we need the past participle: she has finished.",
+      "tokens": [
+        "She",
+        "has",
+        "finish",
+        "her",
+        "homework",
+        "already"
+      ],
+      "wrongIndex": 2,
+      "fix": "finished"
+    },
+    {
+      "id": "b1-es-006",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'since' with a point in time like last summer: since Monday, since 2020.",
+      "tokens": [
+        "We",
+        "haven't",
+        "seen",
+        "our",
+        "cousins",
+        "for",
+        "last",
+        "summer"
+      ],
+      "wrongIndex": 5,
+      "fix": "since"
+    },
+    {
+      "id": "b1-es-007",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The past participle of 'break' is 'broken': he has broken it.",
+      "tokens": [
+        "My",
+        "brother",
+        "has",
+        "broke",
+        "his",
+        "phone",
+        "again"
+      ],
+      "wrongIndex": 3,
+      "fix": "broken"
+    },
+    {
+      "id": "b1-es-008",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Questions in the present perfect use has + past participle: Has the bus left yet?",
+      "tokens": [
+        "Has",
+        "the",
+        "train",
+        "leave",
+        "yet"
+      ],
+      "wrongIndex": 3,
+      "fix": "left"
+    },
+    {
+      "id": "b1-es-009",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The past participle of 'eat' is 'eaten': I have never eaten snails.",
+      "tokens": [
+        "I",
+        "have",
+        "never",
+        "eat",
+        "sushi",
+        "before"
+      ],
+      "wrongIndex": 3,
+      "fix": "eaten"
+    },
+    {
+      "id": "b1-es-010",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "With he/she/it the present perfect uses 'has': she has already left.",
+      "tokens": [
+        "He",
+        "have",
+        "already",
+        "sent",
+        "the",
+        "report",
+        "to",
+        "his",
+        "manager"
+      ],
+      "wrongIndex": 1,
+      "fix": "has"
+    },
+    {
+      "id": "b1-es-011",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'for' with a length of time: for two hours, for a week.",
+      "tokens": [
+        "The",
+        "children",
+        "have",
+        "been",
+        "at",
+        "the",
+        "park",
+        "since",
+        "two",
+        "hours"
+      ],
+      "wrongIndex": 7,
+      "fix": "for"
+    },
+    {
+      "id": "b1-es-012",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In negative sentences use 'yet', not 'already': I haven't paid yet.",
+      "tokens": [
+        "We",
+        "haven't",
+        "booked",
+        "the",
+        "hotel",
+        "already"
+      ],
+      "wrongIndex": 5,
+      "fix": "yet"
+    },
+    {
+      "id": "b1-es-013",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "To ask about a time up to now, use How long have you + past participle: How long have you known him?",
+      "tokens": [
+        "How",
+        "long",
+        "do",
+        "you",
+        "known",
+        "your",
+        "best",
+        "friend"
+      ],
+      "wrongIndex": 2,
+      "fix": "have"
+    },
+    {
+      "id": "b1-es-014",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "present-perfect",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'have ever' use the past participle: the best book I have ever read.",
+      "tokens": [
+        "This",
+        "is",
+        "the",
+        "best",
+        "film",
+        "I",
+        "have",
+        "ever",
+        "see"
+      ],
+      "wrongIndex": 8,
+      "fix": "seen"
+    },
+    {
+      "id": "b1-es-015",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The past continuous is was/were + -ing: I was cooking.",
+      "tokens": [
+        "I",
+        "was",
+        "cook",
+        "dinner",
+        "when",
+        "the",
+        "phone",
+        "rang"
+      ],
+      "wrongIndex": 2,
+      "fix": "cooking"
+    },
+    {
+      "id": "b1-es-016",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'was' in the past continuous, use the -ing form: she was driving.",
+      "tokens": [
+        "While",
+        "she",
+        "was",
+        "drive",
+        "to",
+        "work,",
+        "she",
+        "heard",
+        "the",
+        "news",
+        "on",
+        "the",
+        "radio"
+      ],
+      "wrongIndex": 3,
+      "fix": "driving"
+    },
+    {
+      "id": "b1-es-017",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "With 'they' the past continuous uses 'were': they were playing.",
+      "tokens": [
+        "They",
+        "was",
+        "playing",
+        "football",
+        "when",
+        "it",
+        "started",
+        "to",
+        "rain"
+      ],
+      "wrongIndex": 1,
+      "fix": "were"
+    },
+    {
+      "id": "b1-es-018",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Past continuous questions use were + subject + -ing: What were you doing?",
+      "tokens": [
+        "What",
+        "were",
+        "you",
+        "do",
+        "at",
+        "eight",
+        "o'clock",
+        "last",
+        "night"
+      ],
+      "wrongIndex": 3,
+      "fix": "doing"
+    },
+    {
+      "id": "b1-es-019",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'were' use the -ing form, not the past simple: the birds were singing.",
+      "tokens": [
+        "The",
+        "sun",
+        "was",
+        "shining",
+        "and",
+        "the",
+        "birds",
+        "were",
+        "sang"
+      ],
+      "wrongIndex": 8,
+      "fix": "singing"
+    },
+    {
+      "id": "b1-es-020",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The past continuous needs the -ing form: they were having a party.",
+      "tokens": [
+        "At",
+        "midnight",
+        "the",
+        "neighbours",
+        "were",
+        "still",
+        "have",
+        "a",
+        "party"
+      ],
+      "wrongIndex": 6,
+      "fix": "having"
+    },
+    {
+      "id": "b1-es-021",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "With he/she/it the past continuous uses 'was': he was reading.",
+      "tokens": [
+        "He",
+        "were",
+        "reading",
+        "a",
+        "book",
+        "when",
+        "the",
+        "lights",
+        "went",
+        "out"
+      ],
+      "wrongIndex": 1,
+      "fix": "was"
+    },
+    {
+      "id": "b1-es-022",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'while I was' use the -ing form: while I was waiting.",
+      "tokens": [
+        "I",
+        "met",
+        "an",
+        "old",
+        "friend",
+        "while",
+        "I",
+        "was",
+        "wait",
+        "for",
+        "the",
+        "bus"
+      ],
+      "wrongIndex": 8,
+      "fix": "waiting"
+    },
+    {
+      "id": "b1-es-023",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Plural subjects take 'were' in the past continuous: the students were talking.",
+      "tokens": [
+        "When",
+        "the",
+        "teacher",
+        "came",
+        "in,",
+        "the",
+        "students",
+        "was",
+        "talking",
+        "loudly"
+      ],
+      "wrongIndex": 7,
+      "fix": "were"
+    },
+    {
+      "id": "b1-es-024",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The story is in the past, so use the past continuous: while she was running.",
+      "tokens": [
+        "She",
+        "fell",
+        "and",
+        "hurt",
+        "her",
+        "knee",
+        "while",
+        "she",
+        "is",
+        "running",
+        "in",
+        "the",
+        "park"
+      ],
+      "wrongIndex": 8,
+      "fix": "was"
+    },
+    {
+      "id": "b1-es-025",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "past-continuous",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Past continuous questions need the -ing form: Were you sleeping?",
+      "tokens": [
+        "Were",
+        "you",
+        "sleep",
+        "when",
+        "I",
+        "called",
+        "you"
+      ],
+      "wrongIndex": 2,
+      "fix": "sleeping"
+    },
+    {
+      "id": "b1-es-026",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In the zero conditional both verbs are in the present simple, and 'it' takes -s: it melts.",
+      "tokens": [
+        "If",
+        "you",
+        "heat",
+        "ice,",
+        "it",
+        "melt"
+      ],
+      "wrongIndex": 5,
+      "fix": "melts"
+    },
+    {
+      "id": "b1-es-027",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "With 'they' the present simple has no -s: plants die without water.",
+      "tokens": [
+        "If",
+        "you",
+        "don't",
+        "water",
+        "plants,",
+        "they",
+        "dies"
+      ],
+      "wrongIndex": 6,
+      "fix": "die"
+    },
+    {
+      "id": "b1-es-028",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'as soon as' use the present simple, and 'I' takes no -s: as soon as I arrive.",
+      "tokens": [
+        "I",
+        "will",
+        "call",
+        "you",
+        "as",
+        "soon",
+        "as",
+        "I",
+        "arrives"
+      ],
+      "wrongIndex": 8,
+      "fix": "arrive"
+    },
+    {
+      "id": "b1-es-029",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "With 'you' the present simple has no -s: if you mix them.",
+      "tokens": [
+        "If",
+        "you",
+        "mixes",
+        "red",
+        "and",
+        "white,",
+        "you",
+        "get",
+        "pink"
+      ],
+      "wrongIndex": 2,
+      "fix": "mix"
+    },
+    {
+      "id": "b1-es-030",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The first conditional uses will + verb in the result: you will miss the train.",
+      "tokens": [
+        "Unless",
+        "you",
+        "leave",
+        "now,",
+        "you",
+        "missed",
+        "the",
+        "train"
+      ],
+      "wrongIndex": 5,
+      "fix": "will miss"
+    },
+    {
+      "id": "b1-es-031",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In the first conditional the result uses will + base verb: I will buy some bread.",
+      "tokens": [
+        "If",
+        "the",
+        "shop",
+        "is",
+        "open,",
+        "I",
+        "buying",
+        "some",
+        "bread"
+      ],
+      "wrongIndex": 6,
+      "fix": "will buy"
+    },
+    {
+      "id": "b1-es-032",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "With 'you' the negative is 'don't': if you don't pass.",
+      "tokens": [
+        "What",
+        "will",
+        "you",
+        "do",
+        "if",
+        "you",
+        "doesn't",
+        "pass",
+        "the",
+        "exam"
+      ],
+      "wrongIndex": 6,
+      "fix": "don't"
+    },
+    {
+      "id": "b1-es-033",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'People' is plural, so the verb has no -s: people eat.",
+      "tokens": [
+        "If",
+        "people",
+        "eats",
+        "too",
+        "much",
+        "sugar,",
+        "they",
+        "put",
+        "on",
+        "weight"
+      ],
+      "wrongIndex": 2,
+      "fix": "eat"
+    },
+    {
+      "id": "b1-es-034",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In the zero conditional, 'the machine' (it) takes -s: it starts.",
+      "tokens": [
+        "If",
+        "you",
+        "press",
+        "this",
+        "button,",
+        "the",
+        "machine",
+        "start"
+      ],
+      "wrongIndex": 7,
+      "fix": "starts"
+    },
+    {
+      "id": "b1-es-035",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In the first conditional the result uses will + base verb: we will go.",
+      "tokens": [
+        "If",
+        "it",
+        "is",
+        "sunny",
+        "on",
+        "Saturday,",
+        "we",
+        "goes",
+        "to",
+        "the",
+        "beach"
+      ],
+      "wrongIndex": 7,
+      "fix": "will go"
+    },
+    {
+      "id": "b1-es-036",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "conditionals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For facts we use the present simple; 'water' (it) takes -s: water boils.",
+      "tokens": [
+        "Water",
+        "boil",
+        "if",
+        "you",
+        "heat",
+        "it",
+        "to",
+        "100",
+        "degrees"
+      ],
+      "wrongIndex": 1,
+      "fix": "boils"
+    },
+    {
+      "id": "b1-es-037",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The passive uses be + past participle: it was built.",
+      "tokens": [
+        "This",
+        "bridge",
+        "was",
+        "build",
+        "in",
+        "1890"
+      ],
+      "wrongIndex": 3,
+      "fix": "built"
+    },
+    {
+      "id": "b1-es-038",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The present passive is is/are + past participle: Spanish is spoken here.",
+      "tokens": [
+        "English",
+        "is",
+        "speak",
+        "in",
+        "many",
+        "countries"
+      ],
+      "wrongIndex": 2,
+      "fix": "spoken"
+    },
+    {
+      "id": "b1-es-039",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Letters' is plural, so the past passive uses 'were': they were delivered.",
+      "tokens": [
+        "The",
+        "letters",
+        "was",
+        "delivered",
+        "this",
+        "morning"
+      ],
+      "wrongIndex": 2,
+      "fix": "were"
+    },
+    {
+      "id": "b1-es-040",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The present passive is is/are + past participle: paper is made.",
+      "tokens": [
+        "Paper",
+        "is",
+        "make",
+        "from",
+        "wood"
+      ],
+      "wrongIndex": 2,
+      "fix": "made"
+    },
+    {
+      "id": "b1-es-041",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In the passive, use 'by' for the person who does the action: caught by the police.",
+      "tokens": [
+        "The",
+        "thief",
+        "was",
+        "caught",
+        "from",
+        "the",
+        "police"
+      ],
+      "wrongIndex": 4,
+      "fix": "by"
+    },
+    {
+      "id": "b1-es-042",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Last week' is the past, so use the past passive: they were cleaned.",
+      "tokens": [
+        "The",
+        "windows",
+        "are",
+        "cleaned",
+        "last",
+        "week"
+      ],
+      "wrongIndex": 2,
+      "fix": "were"
+    },
+    {
+      "id": "b1-es-043",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The present passive needs the past participle: cars are produced.",
+      "tokens": [
+        "Many",
+        "cars",
+        "are",
+        "produce",
+        "in",
+        "this",
+        "factory",
+        "every",
+        "year"
+      ],
+      "wrongIndex": 3,
+      "fix": "produced"
+    },
+    {
+      "id": "b1-es-044",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "1950 is in the past, so use the past passive: it was opened.",
+      "tokens": [
+        "The",
+        "museum",
+        "is",
+        "opened",
+        "in",
+        "1950"
+      ],
+      "wrongIndex": 2,
+      "fix": "was"
+    },
+    {
+      "id": "b1-es-045",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The bike did not do the action, so use the passive: my bike was stolen.",
+      "tokens": [
+        "My",
+        "bike",
+        "stole",
+        "yesterday"
+      ],
+      "wrongIndex": 2,
+      "fix": "was stolen"
+    },
+    {
+      "id": "b1-es-046",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The past participle of 'take' is 'taken': they were taken.",
+      "tokens": [
+        "These",
+        "photos",
+        "were",
+        "took",
+        "by",
+        "my",
+        "grandfather"
+      ],
+      "wrongIndex": 3,
+      "fix": "taken"
+    },
+    {
+      "id": "b1-es-047",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "passive",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Rooms' is plural, so use 'are': the rooms are cleaned.",
+      "tokens": [
+        "The",
+        "rooms",
+        "is",
+        "cleaned",
+        "every",
+        "day"
+      ],
+      "wrongIndex": 2,
+      "fix": "are"
+    },
+    {
+      "id": "b1-es-048",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After a modal verb use the base form: she can speak.",
+      "tokens": [
+        "She",
+        "can",
+        "speaks",
+        "three",
+        "languages"
+      ],
+      "wrongIndex": 2,
+      "fix": "speak"
+    },
+    {
+      "id": "b1-es-049",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "With he/she/it use 'has to': he has to wear a uniform.",
+      "tokens": [
+        "He",
+        "have",
+        "to",
+        "wear",
+        "a",
+        "uniform",
+        "at",
+        "work"
+      ],
+      "wrongIndex": 1,
+      "fix": "has"
+    },
+    {
+      "id": "b1-es-050",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'should' use the base form: you should go.",
+      "tokens": [
+        "You",
+        "should",
+        "went",
+        "to",
+        "bed",
+        "earlier"
+      ],
+      "wrongIndex": 2,
+      "fix": "go"
+    },
+    {
+      "id": "b1-es-051",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'might' use the base form without -s: it might rain.",
+      "tokens": [
+        "It",
+        "might",
+        "rains",
+        "this",
+        "afternoon"
+      ],
+      "wrongIndex": 2,
+      "fix": "rain"
+    },
+    {
+      "id": "b1-es-052",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For ability in the past use 'could': when I was five, I could swim.",
+      "tokens": [
+        "When",
+        "I",
+        "was",
+        "five,",
+        "I",
+        "can",
+        "swim"
+      ],
+      "wrongIndex": 5,
+      "fix": "could"
+    },
+    {
+      "id": "b1-es-053",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Mustn't' means it is not allowed; 'don't have to' means it is not necessary: you don't have to pay.",
+      "tokens": [
+        "You",
+        "mustn't",
+        "pay",
+        "because",
+        "the",
+        "museum",
+        "is",
+        "free"
+      ],
+      "wrongIndex": 1,
+      "fix": "don't have to"
+    },
+    {
+      "id": "b1-es-054",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Must' has no past form; use 'have to' in past questions: Did you have to work late?",
+      "tokens": [
+        "Did",
+        "you",
+        "must",
+        "work",
+        "late",
+        "yesterday"
+      ],
+      "wrongIndex": 2,
+      "fix": "have to"
+    },
+    {
+      "id": "b1-es-055",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'should' use the base form: I should buy.",
+      "tokens": [
+        "Do",
+        "you",
+        "think",
+        "I",
+        "should",
+        "buying",
+        "a",
+        "new",
+        "laptop"
+      ],
+      "wrongIndex": 5,
+      "fix": "buy"
+    },
+    {
+      "id": "b1-es-056",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'might' use the base form: she might come.",
+      "tokens": [
+        "She",
+        "might",
+        "came",
+        "to",
+        "the",
+        "party",
+        "later"
+      ],
+      "wrongIndex": 2,
+      "fix": "come"
+    },
+    {
+      "id": "b1-es-057",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'can' use the base form: Can you help me?",
+      "tokens": [
+        "Can",
+        "you",
+        "helping",
+        "me",
+        "with",
+        "this",
+        "box"
+      ],
+      "wrongIndex": 2,
+      "fix": "help"
+    },
+    {
+      "id": "b1-es-058",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "modals",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For an obligation in the past, use 'had to': I had to finish it yesterday.",
+      "tokens": [
+        "I",
+        "must",
+        "finish",
+        "the",
+        "report",
+        "yesterday"
+      ],
+      "wrongIndex": 1,
+      "fix": "had to"
+    },
+    {
+      "id": "b1-es-059",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Used to' is followed by the base form: I used to play.",
+      "tokens": [
+        "I",
+        "used",
+        "to",
+        "played",
+        "the",
+        "piano",
+        "as",
+        "a",
+        "child"
+      ],
+      "wrongIndex": 3,
+      "fix": "play"
+    },
+    {
+      "id": "b1-es-060",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In questions with 'did', write 'use to': Did you use to live there?",
+      "tokens": [
+        "Did",
+        "you",
+        "used",
+        "to",
+        "live",
+        "in",
+        "London"
+      ],
+      "wrongIndex": 2,
+      "fix": "use"
+    },
+    {
+      "id": "b1-es-061",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In positive sentences write 'used to': she used to have long hair.",
+      "tokens": [
+        "She",
+        "use",
+        "to",
+        "have",
+        "long",
+        "hair"
+      ],
+      "wrongIndex": 1,
+      "fix": "used"
+    },
+    {
+      "id": "b1-es-062",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'didn't' write 'use to': we didn't use to have a car.",
+      "tokens": [
+        "We",
+        "didn't",
+        "used",
+        "to",
+        "have",
+        "a",
+        "car"
+      ],
+      "wrongIndex": 2,
+      "fix": "use"
+    },
+    {
+      "id": "b1-es-063",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Used to' is followed by the base form, not -ing: he used to work.",
+      "tokens": [
+        "My",
+        "dad",
+        "used",
+        "to",
+        "working",
+        "in",
+        "a",
+        "bank"
+      ],
+      "wrongIndex": 4,
+      "fix": "work"
+    },
+    {
+      "id": "b1-es-064",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In positive sentences write 'used to': there used to be a shop here.",
+      "tokens": [
+        "There",
+        "use",
+        "to",
+        "be",
+        "a",
+        "cinema",
+        "in",
+        "this",
+        "street"
+      ],
+      "wrongIndex": 1,
+      "fix": "used"
+    },
+    {
+      "id": "b1-es-065",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'used to' use the base form: people used to write.",
+      "tokens": [
+        "People",
+        "used",
+        "to",
+        "wrote",
+        "letters",
+        "instead",
+        "of",
+        "emails"
+      ],
+      "wrongIndex": 3,
+      "fix": "write"
+    },
+    {
+      "id": "b1-es-066",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'use to' use the base form without -s: Did he use to walk?",
+      "tokens": [
+        "Did",
+        "he",
+        "use",
+        "to",
+        "walks",
+        "to",
+        "school"
+      ],
+      "wrongIndex": 4,
+      "fix": "walk"
+    },
+    {
+      "id": "b1-es-067",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'used to' use the base form 'be': she used to be shy.",
+      "tokens": [
+        "My",
+        "sister",
+        "used",
+        "to",
+        "been",
+        "very",
+        "shy"
+      ],
+      "wrongIndex": 4,
+      "fix": "be"
+    },
+    {
+      "id": "b1-es-068",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'used to' the verb has no -s: they used to live there.",
+      "tokens": [
+        "They",
+        "used",
+        "to",
+        "lives",
+        "on",
+        "a",
+        "farm"
+      ],
+      "wrongIndex": 3,
+      "fix": "live"
+    },
+    {
+      "id": "b1-es-069",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "used-to",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The past habit form is always 'used to': we used to go camping.",
+      "tokens": [
+        "We",
+        "uses",
+        "to",
+        "go",
+        "camping",
+        "every",
+        "summer"
+      ],
+      "wrongIndex": 1,
+      "fix": "used"
+    },
+    {
+      "id": "b1-es-070",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Enjoy' is followed by the -ing form: I enjoy swimming.",
+      "tokens": [
+        "I",
+        "enjoy",
+        "swim",
+        "in",
+        "the",
+        "sea"
+      ],
+      "wrongIndex": 2,
+      "fix": "swimming"
+    },
+    {
+      "id": "b1-es-071",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Decide' is followed by 'to' + verb: she decided to buy.",
+      "tokens": [
+        "She",
+        "decided",
+        "buying",
+        "a",
+        "new",
+        "car"
+      ],
+      "wrongIndex": 2,
+      "fix": "to buy"
+    },
+    {
+      "id": "b1-es-072",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After a preposition like 'at' use the -ing form: good at cooking.",
+      "tokens": [
+        "He",
+        "is",
+        "very",
+        "good",
+        "at",
+        "cook",
+        "Italian",
+        "food"
+      ],
+      "wrongIndex": 5,
+      "fix": "cooking"
+    },
+    {
+      "id": "b1-es-073",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Want' is followed by 'to' + verb: they want to go.",
+      "tokens": [
+        "They",
+        "want",
+        "going",
+        "abroad",
+        "next",
+        "year"
+      ],
+      "wrongIndex": 2,
+      "fix": "to go"
+    },
+    {
+      "id": "b1-es-074",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In 'look forward to', 'to' is a preposition, so use -ing: looking forward to seeing you.",
+      "tokens": [
+        "My",
+        "parents",
+        "are",
+        "looking",
+        "forward",
+        "to",
+        "visit",
+        "Japan",
+        "in",
+        "the",
+        "spring"
+      ],
+      "wrongIndex": 6,
+      "fix": "visiting"
+    },
+    {
+      "id": "b1-es-075",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Mind' is followed by the -ing form: Would you mind opening the door?",
+      "tokens": [
+        "Would",
+        "you",
+        "mind",
+        "open",
+        "the",
+        "window"
+      ],
+      "wrongIndex": 3,
+      "fix": "opening"
+    },
+    {
+      "id": "b1-es-076",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "When an activity is the subject, use the -ing form: Smoking is bad for you.",
+      "tokens": [
+        "Smoke",
+        "is",
+        "bad",
+        "for",
+        "your",
+        "health"
+      ],
+      "wrongIndex": 0,
+      "fix": "Smoking"
+    },
+    {
+      "id": "b1-es-077",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Hope' is followed by 'to' + verb: we hope to see you.",
+      "tokens": [
+        "We",
+        "hope",
+        "seeing",
+        "you",
+        "soon"
+      ],
+      "wrongIndex": 2,
+      "fix": "to see"
+    },
+    {
+      "id": "b1-es-078",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Give up' is followed by the -ing form: she gave up eating meat.",
+      "tokens": [
+        "She",
+        "gave",
+        "up",
+        "eat",
+        "meat",
+        "last",
+        "year"
+      ],
+      "wrongIndex": 3,
+      "fix": "eating"
+    },
+    {
+      "id": "b1-es-079",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Avoid' is followed by the -ing form: he avoided answering.",
+      "tokens": [
+        "He",
+        "avoided",
+        "answer",
+        "my",
+        "question"
+      ],
+      "wrongIndex": 2,
+      "fix": "answering"
+    },
+    {
+      "id": "b1-es-080",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "gerund",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Promise' is followed by 'to' + verb: I promise to help.",
+      "tokens": [
+        "I",
+        "promise",
+        "helping",
+        "you",
+        "with",
+        "your",
+        "homework",
+        "tomorrow"
+      ],
+      "wrongIndex": 2,
+      "fix": "to help"
+    },
+    {
+      "id": "b1-es-081",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For future plans use the present continuous, am/is/are + -ing: I'm meeting them tonight.",
+      "tokens": [
+        "I'm",
+        "meet",
+        "my",
+        "friends",
+        "tonight"
+      ],
+      "wrongIndex": 1,
+      "fix": "meeting"
+    },
+    {
+      "id": "b1-es-082",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Going to' is followed by the base form: it is going to rain.",
+      "tokens": [
+        "Look",
+        "at",
+        "those",
+        "clouds.",
+        "It",
+        "is",
+        "going",
+        "to",
+        "raining"
+      ],
+      "wrongIndex": 8,
+      "fix": "rain"
+    },
+    {
+      "id": "b1-es-083",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Going to' needs am/is/are before it: we are going to visit them.",
+      "tokens": [
+        "We",
+        "going",
+        "to",
+        "visit",
+        "our",
+        "grandparents",
+        "next",
+        "week"
+      ],
+      "wrongIndex": 1,
+      "fix": "are going"
+    },
+    {
+      "id": "b1-es-084",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'will' use the base form without -s: it will snow.",
+      "tokens": [
+        "I",
+        "think",
+        "it",
+        "will",
+        "snows",
+        "tomorrow"
+      ],
+      "wrongIndex": 4,
+      "fix": "snow"
+    },
+    {
+      "id": "b1-es-085",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "With 'she' the present continuous uses 'is': she is flying.",
+      "tokens": [
+        "She",
+        "are",
+        "flying",
+        "to",
+        "Madrid",
+        "on",
+        "Monday"
+      ],
+      "wrongIndex": 1,
+      "fix": "is"
+    },
+    {
+      "id": "b1-es-086",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For future plans use the present continuous: Are you going to the party?",
+      "tokens": [
+        "Are",
+        "you",
+        "go",
+        "to",
+        "the",
+        "party",
+        "on",
+        "Saturday"
+      ],
+      "wrongIndex": 2,
+      "fix": "going"
+    },
+    {
+      "id": "b1-es-087",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For timetables we use the present simple, and 'the train' (it) takes -s: the train leaves at 7.15.",
+      "tokens": [
+        "The",
+        "train",
+        "leave",
+        "at",
+        "7.15",
+        "tomorrow",
+        "morning"
+      ],
+      "wrongIndex": 2,
+      "fix": "leaves"
+    },
+    {
+      "id": "b1-es-088",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After 'will' use the base form: I will call you.",
+      "tokens": [
+        "I",
+        "will",
+        "calls",
+        "you",
+        "when",
+        "I",
+        "get",
+        "home"
+      ],
+      "wrongIndex": 2,
+      "fix": "call"
+    },
+    {
+      "id": "b1-es-089",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The form is 'going to' + base verb: he is going to buy.",
+      "tokens": [
+        "He",
+        "is",
+        "going",
+        "buy",
+        "a",
+        "new",
+        "bike"
+      ],
+      "wrongIndex": 3,
+      "fix": "to buy"
+    },
+    {
+      "id": "b1-es-090",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For plans use the present continuous: What are you doing this weekend?",
+      "tokens": [
+        "What",
+        "do",
+        "you",
+        "doing",
+        "this",
+        "weekend"
+      ],
+      "wrongIndex": 1,
+      "fix": "are"
+    },
+    {
+      "id": "b1-es-091",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "future-forms",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For an offer or a quick decision use 'will': I will help you.",
+      "tokens": [
+        "Don't",
+        "worry,",
+        "I",
+        "helping",
+        "you",
+        "with",
+        "your",
+        "bags"
+      ],
+      "wrongIndex": 3,
+      "fix": "will help"
+    },
+    {
+      "id": "b1-es-092",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'who' (or 'that') for people: the man who works here.",
+      "tokens": [
+        "The",
+        "woman",
+        "which",
+        "lives",
+        "next",
+        "door",
+        "is",
+        "a",
+        "doctor"
+      ],
+      "wrongIndex": 2,
+      "fix": "who"
+    },
+    {
+      "id": "b1-es-093",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'which' or 'that' for things, not 'who': the car which I bought.",
+      "tokens": [
+        "This",
+        "is",
+        "the",
+        "house",
+        "who",
+        "my",
+        "grandfather",
+        "built"
+      ],
+      "wrongIndex": 4,
+      "fix": "which"
+    },
+    {
+      "id": "b1-es-094",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'where' for places when no preposition follows: the city where I live.",
+      "tokens": [
+        "That's",
+        "the",
+        "restaurant",
+        "which",
+        "we",
+        "had",
+        "our",
+        "first",
+        "date"
+      ],
+      "wrongIndex": 3,
+      "fix": "where"
+    },
+    {
+      "id": "b1-es-095",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'that' or 'which' for things: the film that we saw.",
+      "tokens": [
+        "The",
+        "book",
+        "who",
+        "you",
+        "lent",
+        "me",
+        "was",
+        "great"
+      ],
+      "wrongIndex": 2,
+      "fix": "that"
+    },
+    {
+      "id": "b1-es-096",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For places use 'where': the town where I was born.",
+      "tokens": [
+        "Is",
+        "this",
+        "the",
+        "town",
+        "which",
+        "you",
+        "were",
+        "born"
+      ],
+      "wrongIndex": 4,
+      "fix": "where"
+    },
+    {
+      "id": "b1-es-097",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For people use 'who', not 'which': a person who helps others.",
+      "tokens": [
+        "A",
+        "nurse",
+        "is",
+        "a",
+        "person",
+        "which",
+        "looks",
+        "after",
+        "sick",
+        "people"
+      ],
+      "wrongIndex": 5,
+      "fix": "who"
+    },
+    {
+      "id": "b1-es-098",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'What' cannot start a relative clause; use 'that' or 'which': the phone that I bought.",
+      "tokens": [
+        "The",
+        "phone",
+        "what",
+        "I",
+        "bought",
+        "last",
+        "week",
+        "is",
+        "broken"
+      ],
+      "wrongIndex": 2,
+      "fix": "that"
+    },
+    {
+      "id": "b1-es-099",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'whose' for possession: the boy whose bike was stolen.",
+      "tokens": [
+        "Do",
+        "you",
+        "know",
+        "the",
+        "boy",
+        "who",
+        "bike",
+        "was",
+        "stolen"
+      ],
+      "wrongIndex": 5,
+      "fix": "whose"
+    },
+    {
+      "id": "b1-es-100",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "For places use 'where': the park where we play.",
+      "tokens": [
+        "The",
+        "park",
+        "who",
+        "we",
+        "play",
+        "football",
+        "on",
+        "Sundays",
+        "is",
+        "near",
+        "my",
+        "house"
+      ],
+      "wrongIndex": 2,
+      "fix": "where"
+    },
+    {
+      "id": "b1-es-101",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'who' for people: the students who passed.",
+      "tokens": [
+        "The",
+        "students",
+        "which",
+        "passed",
+        "the",
+        "exam",
+        "got",
+        "a",
+        "certificate"
+      ],
+      "wrongIndex": 2,
+      "fix": "who"
+    },
+    {
+      "id": "b1-es-102",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "relative-clauses",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'that' or 'which' for things: the keys that you gave me.",
+      "tokens": [
+        "I",
+        "lost",
+        "the",
+        "keys",
+        "who",
+        "you",
+        "gave",
+        "me"
+      ],
+      "wrongIndex": 4,
+      "fix": "that"
+    },
+    {
+      "id": "b1-es-103",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Turn off' means stop a machine or light: turn off the TV.",
+      "tokens": [
+        "Please",
+        "turn",
+        "of",
+        "the",
+        "lights",
+        "when",
+        "you",
+        "leave"
+      ],
+      "wrongIndex": 2,
+      "fix": "off"
+    },
+    {
+      "id": "b1-es-104",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Look for' means try to find; 'look after' means take care of: I'm looking for my keys.",
+      "tokens": [
+        "I'm",
+        "looking",
+        "after",
+        "my",
+        "glasses.",
+        "Have",
+        "you",
+        "seen",
+        "them"
+      ],
+      "wrongIndex": 2,
+      "fix": "for"
+    },
+    {
+      "id": "b1-es-105",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Pick up' means collect someone: I'll pick you up at six.",
+      "tokens": [
+        "Can",
+        "you",
+        "pick",
+        "me",
+        "on",
+        "at",
+        "the",
+        "station"
+      ],
+      "wrongIndex": 4,
+      "fix": "up"
+    },
+    {
+      "id": "b1-es-106",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Give up' means stop doing something: she gave up sugar.",
+      "tokens": [
+        "He",
+        "gave",
+        "off",
+        "smoking",
+        "two",
+        "years",
+        "ago"
+      ],
+      "wrongIndex": 2,
+      "fix": "up"
+    },
+    {
+      "id": "b1-es-107",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Take off' is what a plane does when it leaves the ground: the plane took off.",
+      "tokens": [
+        "Hurry",
+        "up!",
+        "The",
+        "plane",
+        "is",
+        "going",
+        "to",
+        "take",
+        "on",
+        "soon"
+      ],
+      "wrongIndex": 8,
+      "fix": "off"
+    },
+    {
+      "id": "b1-es-108",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Find out' means get information: find out the price.",
+      "tokens": [
+        "I",
+        "need",
+        "to",
+        "find",
+        "up",
+        "what",
+        "time",
+        "the",
+        "shop",
+        "opens"
+      ],
+      "wrongIndex": 4,
+      "fix": "out"
+    },
+    {
+      "id": "b1-es-109",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Run out of' means have no more of something: we ran out of bread.",
+      "tokens": [
+        "We",
+        "ran",
+        "off",
+        "milk,",
+        "so",
+        "I",
+        "went",
+        "to",
+        "the",
+        "shop"
+      ],
+      "wrongIndex": 2,
+      "fix": "out of"
+    },
+    {
+      "id": "b1-es-110",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Fill in' means write information on a form: fill in the form.",
+      "tokens": [
+        "Please",
+        "fill",
+        "on",
+        "this",
+        "form",
+        "with",
+        "your",
+        "name",
+        "and",
+        "address"
+      ],
+      "wrongIndex": 2,
+      "fix": "in"
+    },
+    {
+      "id": "b1-es-111",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Put on' means wear clothes; 'put off' means delay: put on your hat.",
+      "tokens": [
+        "Put",
+        "off",
+        "your",
+        "coat.",
+        "It's",
+        "cold",
+        "outside"
+      ],
+      "wrongIndex": 1,
+      "fix": "on"
+    },
+    {
+      "id": "b1-es-112",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Get on well with' means have a good relationship: I get on well with my sister.",
+      "tokens": [
+        "I",
+        "get",
+        "in",
+        "well",
+        "with",
+        "my",
+        "colleagues"
+      ],
+      "wrongIndex": 2,
+      "fix": "on"
+    },
+    {
+      "id": "b1-es-113",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Turn down' makes the sound quieter; 'turn up' makes it louder: turn down the music.",
+      "tokens": [
+        "Could",
+        "you",
+        "turn",
+        "up",
+        "the",
+        "radio?",
+        "I'm",
+        "trying",
+        "to",
+        "sleep"
+      ],
+      "wrongIndex": 3,
+      "fix": "down"
+    },
+    {
+      "id": "b1-es-114",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Because' gives a reason; 'so' gives a result: I stayed home because I was ill.",
+      "tokens": [
+        "I",
+        "stayed",
+        "at",
+        "home",
+        "so",
+        "I",
+        "was",
+        "ill"
+      ],
+      "wrongIndex": 4,
+      "fix": "because"
+    },
+    {
+      "id": "b1-es-115",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Although' is followed by a clause (subject + verb): although it was cold.",
+      "tokens": [
+        "Despite",
+        "it",
+        "was",
+        "cold,",
+        "we",
+        "went",
+        "for",
+        "a",
+        "walk"
+      ],
+      "wrongIndex": 0,
+      "fix": "Although"
+    },
+    {
+      "id": "b1-es-116",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'So' introduces a result: the bus had gone, so we took a taxi.",
+      "tokens": [
+        "The",
+        "last",
+        "bus",
+        "had",
+        "gone,",
+        "because",
+        "we",
+        "took",
+        "a",
+        "taxi",
+        "home"
+      ],
+      "wrongIndex": 5,
+      "fix": "so"
+    },
+    {
+      "id": "b1-es-117",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'However' starts a new sentence with a comma; 'although' joins two clauses: However, he isn't happy.",
+      "tokens": [
+        "He",
+        "is",
+        "very",
+        "rich.",
+        "Although*,",
+        "he",
+        "isn't",
+        "happy"
+      ],
+      "wrongIndex": 4,
+      "fix": "However"
+    },
+    {
+      "id": "b1-es-118",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'but' for a surprising contrast, not 'so': she didn't study, but she passed.",
+      "tokens": [
+        "She",
+        "didn't",
+        "study,",
+        "so",
+        "she",
+        "passed",
+        "the",
+        "exam"
+      ],
+      "wrongIndex": 3,
+      "fix": "but"
+    },
+    {
+      "id": "b1-es-119",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'And' adds similar ideas; 'but' shows contrast: I like tea and she likes it too.",
+      "tokens": [
+        "I",
+        "like",
+        "tea",
+        "but",
+        "my",
+        "sister",
+        "likes",
+        "it",
+        "too"
+      ],
+      "wrongIndex": 3,
+      "fix": "and"
+    },
+    {
+      "id": "b1-es-120",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Although' joins two clauses in one sentence: although it was expensive, I bought it.",
+      "tokens": [
+        "However",
+        "it",
+        "was",
+        "expensive,",
+        "I",
+        "bought",
+        "the",
+        "jacket"
+      ],
+      "wrongIndex": 0,
+      "fix": "Although"
+    },
+    {
+      "id": "b1-es-121",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'So' shows a result: it started to rain, so we went inside.",
+      "tokens": [
+        "It",
+        "started",
+        "to",
+        "rain,",
+        "although",
+        "we",
+        "went",
+        "inside"
+      ],
+      "wrongIndex": 4,
+      "fix": "so"
+    },
+    {
+      "id": "b1-es-122",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Not seeing the paintings is the result, so use 'so': it was closed, so we left.",
+      "tokens": [
+        "The",
+        "museum",
+        "was",
+        "closed,",
+        "because",
+        "we",
+        "couldn't",
+        "see",
+        "the",
+        "paintings"
+      ],
+      "wrongIndex": 4,
+      "fix": "so"
+    },
+    {
+      "id": "b1-es-123",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'although' for a surprising contrast: he passed although he didn't practise.",
+      "tokens": [
+        "He",
+        "passed",
+        "the",
+        "driving",
+        "test",
+        "because",
+        "he",
+        "didn't",
+        "practise",
+        "much"
+      ],
+      "wrongIndex": 5,
+      "fix": "although"
+    },
+    {
+      "id": "b1-es-124",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "linkers",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The noise is the reason, so use 'because': I couldn't sleep because it was hot.",
+      "tokens": [
+        "I",
+        "couldn't",
+        "sleep",
+        "so",
+        "the",
+        "neighbours",
+        "were",
+        "noisy"
+      ],
+      "wrongIndex": 3,
+      "fix": "because"
+    },
+    {
+      "id": "b1-es-125",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We 'tell' someone something; we 'say' something: Can you tell me the way?",
+      "tokens": [
+        "Can",
+        "you",
+        "say",
+        "me",
+        "the",
+        "time,",
+        "please"
+      ],
+      "wrongIndex": 2,
+      "fix": "tell"
+    },
+    {
+      "id": "b1-es-126",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We 'do' homework, not 'make' it: I did my homework.",
+      "tokens": [
+        "I",
+        "made",
+        "my",
+        "homework",
+        "after",
+        "dinner"
+      ],
+      "wrongIndex": 1,
+      "fix": "did"
+    },
+    {
+      "id": "b1-es-127",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Lend' means give for a short time; 'borrow' means take: she lent me her bike.",
+      "tokens": [
+        "She",
+        "borrowed",
+        "me",
+        "her",
+        "bike",
+        "for",
+        "the",
+        "weekend"
+      ],
+      "wrongIndex": 1,
+      "fix": "lent"
+    },
+    {
+      "id": "b1-es-128",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Fun' is a noun (a good time); 'funny' means it makes you laugh: we had fun.",
+      "tokens": [
+        "We",
+        "had",
+        "a",
+        "lot",
+        "of",
+        "funny",
+        "at",
+        "the",
+        "party"
+      ],
+      "wrongIndex": 5,
+      "fix": "fun"
+    },
+    {
+      "id": "b1-es-129",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Bored' describes how you feel; 'boring' describes the thing: the film is boring, I'm bored.",
+      "tokens": [
+        "This",
+        "film",
+        "is",
+        "so",
+        "long.",
+        "I'm",
+        "boring"
+      ],
+      "wrongIndex": 6,
+      "fix": "bored"
+    },
+    {
+      "id": "b1-es-130",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We 'ask' a question, not 'make' it: Can I ask you something?",
+      "tokens": [
+        "Can",
+        "I",
+        "make",
+        "a",
+        "question"
+      ],
+      "wrongIndex": 2,
+      "fix": "ask"
+    },
+    {
+      "id": "b1-es-131",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Remind' means help someone remember: I reminded him to call.",
+      "tokens": [
+        "I",
+        "remembered",
+        "her",
+        "to",
+        "buy",
+        "milk"
+      ],
+      "wrongIndex": 1,
+      "fix": "reminded"
+    },
+    {
+      "id": "b1-es-132",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We 'have' a party: let's have a party.",
+      "tokens": [
+        "Let's",
+        "do",
+        "a",
+        "party",
+        "on",
+        "Friday"
+      ],
+      "wrongIndex": 1,
+      "fix": "have"
+    },
+    {
+      "id": "b1-es-133",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The teacher 'teaches'; the student 'learns': Can you teach me?",
+      "tokens": [
+        "Could",
+        "you",
+        "learn",
+        "me",
+        "how",
+        "to",
+        "play",
+        "chess"
+      ],
+      "wrongIndex": 2,
+      "fix": "teach"
+    },
+    {
+      "id": "b1-es-134",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "'Sensitive' means easily upset; 'sensible' means practical: a sensitive child.",
+      "tokens": [
+        "She",
+        "is",
+        "very",
+        "sensible*.",
+        "She",
+        "cries",
+        "at",
+        "sad",
+        "films"
+      ],
+      "wrongIndex": 3,
+      "fix": "sensitive"
+    },
+    {
+      "id": "b1-es-135",
+      "type": "error-spot",
+      "level": "B1",
+      "topic": "vocabulary",
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Use 'many' with countable plural nouns: many friends, much money.",
+      "tokens": [
+        "I",
+        "have",
+        "much",
+        "friends",
+        "in",
+        "this",
+        "city"
+      ],
+      "wrongIndex": 2,
+      "fix": "many"
     }
   ]
 }
