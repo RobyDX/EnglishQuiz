@@ -16,7 +16,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 10 | Un file JSON per livello e tipologia; caricamento lazy per livello | File gestibili, bundle piccolo (bundle principale ~109 KB gzip) | 07, 03 |
 | 11 | Pulsanti Check answers / Show correct answers / Try again / New quiz / Change level **solo alla fine della pagina, non fissi** | L'utente deve scorrere fino in fondo | 04 |
 | 12 | **Barra livello/progresso sempre visibile** sotto la navbar + pulsante "↓ End" a destra | Il pulsante porta ai pulsanti finali | 04, 01 F12 |
-| 13 | Nome **"English Quiz"** (con spazio); About con autore Roberto Nacchia (RobyDx) | Nel manifest, titolo, navbar | 04, 05 |
+| 13 | Nome **"English Quiz"** (con spazio); About: fatta da Roberto Nacchia tramite Generative AI per aiutare le persone a esercitarsi in inglese (il soprannome RobyDx è stato tolto) | Nel manifest, titolo, navbar | 04, 05 |
 | 14 | **Persistenza solo in `localStorage`** (`eq.prefs`, `eq.history` max 50, `eq.seen.<livello>`); il quiz in corso non si salva; niente sincronizzazione | Nessun backend. Dati per browser/indirizzo | 03 |
 | 15 | Ogni quiz si registra in cronologia **una sola volta**; niente effetti collaterali dentro gli updater di `setState`; doppioni storici ignorati al caricamento | Bug trovato: in StrictMode l'updater girava due volte e salvava due voci | 01 §5.2, 03 |
 | 16 | **HashRouter** e `base: './'` | Hosting statico ovunque, anche in sottocartelle | 01, 05 |
@@ -26,6 +26,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 20 | Test con Vitest + Testing Library: motore, ogni tipologia, dati (schema, duplicati, parole italiane, spiegazioni complete), flusso UI. Quote 2000/livello verificate solo con `CHECK_QUOTAS=1` | Il set di prova (178 domande) non può rispettare le quote | 07 |
 | 21 | Set di prova di 178 domande per verificare tutte le tipologie; il resto dei contenuti si scrive a lotti | Il lavoro editoriale è la parte più lunga | 06 Fase 4 |
 | 22 | **Icona**: bandiera britannica con sotto "English Quiz" su due righe, generata da script (`npm run icons`) da SVG; favicon = PNG 192 | Richiesta esplicita; lo script è la fonte unica delle icone PWA e della favicon | 05 |
+| 23 | **Tema Bootstrap in blu bandiera inglese** (#012169); nel tema scuro una variante più chiara per la leggibilità; `theme_color` PWA identico | Coerenza con l'icona; override via variabili CSS in `app.css` | 04, 05 |
 
 ## Ancora aperte
 Vedi `06-piano-implementazione.md`, sezione "Decisioni": hosting, export/import cronologia, ESLint/Prettier.

@@ -23,7 +23,7 @@ Web app **SPA + PWA**, interamente **front-end** (nessun backend), per esercitar
 | F10 | Numero di domande selezionabile (5 / 10 / 20) nella schermata di avvio. |
 | F11 | **Feedback sugli errori.** Per ogni risposta errata (o vuota) l'app mostra: la risposta data dall'utente, la risposta corretta, **perché è sbagliata** (*Why it's wrong*) e **la regola** (*Rule*), tutto in inglese. Il feedback compare subito dopo "Check answers", senza dover premere "Show correct answers". Ogni risposta sbagliata ha una spiegazione **propria** (non riusata tra opzioni diverse). Vedi `04-ui-ux.md` e `07-contenuti.md`. |
 | F12 | **Barra livello/progresso sempre visibile** durante il quiz (livello, "n / totale answered") sotto la navbar, con a destra un pulsante **"↓ End"** che scorre fino alla fine della pagina. |
-| F13 | Nome dell'app: **"English Quiz"** (con lo spazio). La pagina About riporta l'autore: Roberto Nacchia (RobyDx). |
+| F13 | Nome dell'app: **"English Quiz"** (con lo spazio). La pagina About dice che l'app è stata fatta da Roberto Nacchia tramite Generative AI, per aiutare le persone a esercitarsi in inglese (senza soprannome). |
 
 ### 2.2 Non funzionali
 - **React** (SPA), nessun backend, nessuna chiamata di rete a runtime oltre agli asset dell'app.

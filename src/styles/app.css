@@ -1,4 +1,74 @@
 /* Minimal overrides: Bootstrap does the rest. */
+/* Theme: the navy blue of the British flag (#012169) replaces Bootstrap's primary blue. */
+:root,
+[data-bs-theme='light'] {
+  --bs-primary: #012169;
+  --bs-primary-rgb: 1, 33, 105;
+  --bs-primary-text-emphasis: #011443;
+  --bs-primary-bg-subtle: #dde3f1;
+  --bs-primary-border-subtle: #9aa9cc;
+  --bs-link-color: #012169;
+  --bs-link-color-rgb: 1, 33, 105;
+  --bs-link-hover-color: #011443;
+  --bs-link-hover-color-rgb: 1, 20, 67;
+  --eq-ink: #012169; /* primary used as text/outline colour */
+  --eq-primary-hover: #011a54;
+  --eq-primary-active: #011443;
+}
+[data-bs-theme='dark'] {
+  /* lighter navy: still the flag's blue family, but readable on a dark background */
+  --bs-primary: #2f56b3;
+  --bs-primary-rgb: 47, 86, 179;
+  --bs-primary-text-emphasis: #9db6ec;
+  --bs-primary-bg-subtle: #14234d;
+  --bs-primary-border-subtle: #1d3677;
+  --bs-link-color: #9db6ec;
+  --bs-link-color-rgb: 157, 182, 236;
+  --bs-link-hover-color: #c3d2f4;
+  --bs-link-hover-color-rgb: 195, 210, 244;
+  --eq-ink: #9db6ec;
+  --eq-primary-hover: #3a63c4;
+  --eq-primary-active: #2a4c9f;
+}
+
+.btn-primary {
+  --bs-btn-bg: var(--bs-primary);
+  --bs-btn-border-color: var(--bs-primary);
+  --bs-btn-hover-bg: var(--eq-primary-hover);
+  --bs-btn-hover-border-color: var(--eq-primary-hover);
+  --bs-btn-active-bg: var(--eq-primary-active);
+  --bs-btn-active-border-color: var(--eq-primary-active);
+  --bs-btn-disabled-bg: var(--bs-primary);
+  --bs-btn-disabled-border-color: var(--bs-primary);
+  --bs-btn-focus-shadow-rgb: var(--bs-primary-rgb);
+}
+.btn-outline-primary {
+  --bs-btn-color: var(--eq-ink);
+  --bs-btn-border-color: var(--eq-ink);
+  --bs-btn-hover-bg: var(--bs-primary);
+  --bs-btn-hover-border-color: var(--bs-primary);
+  --bs-btn-hover-color: #fff;
+  --bs-btn-active-bg: var(--eq-primary-active);
+  --bs-btn-active-border-color: var(--eq-primary-active);
+  --bs-btn-active-color: #fff;
+  --bs-btn-disabled-color: var(--eq-ink);
+  --bs-btn-disabled-border-color: var(--eq-ink);
+  --bs-btn-focus-shadow-rgb: var(--bs-primary-rgb);
+}
+.text-primary {
+  color: var(--eq-ink) !important;
+}
+.form-check-input:checked {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+.form-check-input:focus,
+.form-control:focus,
+.form-select:focus {
+  border-color: color-mix(in srgb, var(--bs-primary) 65%, #fff);
+  box-shadow: 0 0 0 0.25rem rgba(var(--bs-primary-rgb), 0.25);
+}
+
 body {
   font-size: 1rem; /* 16px: avoids iOS zoom on inputs */
 }

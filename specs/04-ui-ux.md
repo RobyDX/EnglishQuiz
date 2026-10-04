@@ -1,6 +1,6 @@
 # UI / UX
 
-Grafica con **Bootstrap 5**, approccio **mobile-first**. Tema chiaro con supporto `prefers-color-scheme: dark` tramite `data-bs-theme` (Bootstrap 5.3).
+Grafica con **Bootstrap 5**, approccio **mobile-first**. **Colore del tema: il blu della bandiera inglese (#012169)** al posto del blu primario di Bootstrap (`--bs-primary`, pulsanti `btn-primary`/`btn-outline-primary`, link, focus, radio/checkbox, navbar). Nel tema scuro si usa una variante di blu più chiaro (#2f56b3 per i riempimenti, #9db6ec per testi e contorni) per mantenere la leggibilità. Gli override sono in `src/styles/app.css`. Tema chiaro con supporto `prefers-color-scheme: dark` tramite `data-bs-theme` (Bootstrap 5.3).
 
 ## Mappa delle schermate (HashRouter)
 | Route | Pagina | Contenuto |
@@ -8,7 +8,7 @@ Grafica con **Bootstrap 5**, approccio **mobile-first**. Tema chiaro con support
 | `#/` | HomePage | Scelta livello, numero domande, pulsante "Start" |
 | `#/quiz/:level` | QuizPage | Domande, pulsante "Check answers", risultato |
 | `#/history` | HistoryPage | Ultimi risultati, pulsante "Clear history" |
-| `#/about` | AboutPage | Info sull'app, autore (Roberto Nacchia, detto RobyDx), versione, come installare l'app |
+| `#/about` | AboutPage | Info sull'app, come è stata fatta (Roberto Nacchia, tramite Generative AI, per aiutare a esercitarsi in inglese), versione, come installare l'app |
 
 Navbar sticky con titolo "English Quiz" (scritto con lo spazio) e link Home / History / About (collassa in hamburger su mobile).
 

@@ -24,9 +24,9 @@ export default function AboutPage() {
         English Quiz helps you practise English at six CEFR levels (A1–C2). Each quiz mixes different kinds of exercises. When an answer is
         wrong, you see why and the rule behind it.
       </p>
-      <h2 className="h5">The author</h2>
+      <h2 className="h5">How it was made</h2>
       <p>
-        English Quiz is made by <strong>Roberto Nacchia</strong>, also known as <strong>RobyDx</strong>.
+        English Quiz was made by <strong>Roberto Nacchia</strong> using Generative AI, to help people practise their English.
       </p>
       <h2 className="h5">Use it offline</h2>
       <p>
