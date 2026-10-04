@@ -39,6 +39,2926 @@
       "correctPositions": [
         1
       ]
+    },
+    {
+      "id": "b2-pw-003",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With the verb 'be', adverbs of frequency go after it: she is always the first to arrive.",
+      "word": "always",
+      "tokens": [
+        "Our",
+        "manager",
+        "is",
+        "the",
+        "first",
+        "person",
+        "to",
+        "arrive",
+        "at",
+        "the",
+        "office"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-004",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With the present perfect, 'never' goes between 'has/have' and the past participle: he has never travelled.",
+      "word": "never",
+      "tokens": [
+        "My",
+        "brother",
+        "has",
+        "travelled",
+        "outside",
+        "Europe"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-005",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Hardly ever' goes before the main verb, like other frequency adverbs: we hardly ever eat out.",
+      "word": "hardly ever",
+      "tokens": [
+        "We",
+        "eat",
+        "out",
+        "during",
+        "the",
+        "week"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "b2-pw-006",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In questions, 'ever' goes after the subject and before the past participle: have you ever tried it?",
+      "word": "ever",
+      "tokens": [
+        "Have",
+        "you",
+        "tried",
+        "Korean",
+        "food"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-007",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With 'be', 'seldom' goes after the verb: the museum is seldom crowded.",
+      "word": "seldom",
+      "tokens": [
+        "The",
+        "museum",
+        "is",
+        "crowded",
+        "on",
+        "weekday",
+        "mornings"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-008",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With an auxiliary, 'rarely' goes between the auxiliary and the main verb: we have rarely lost.",
+      "word": "rarely",
+      "tokens": [
+        "Our",
+        "team",
+        "has",
+        "lost",
+        "a",
+        "match",
+        "at",
+        "home",
+        "this",
+        "season"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-009",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Barely' goes after a modal verb and before the main verb: I could barely hear.",
+      "word": "barely",
+      "tokens": [
+        "I",
+        "could",
+        "hear",
+        "the",
+        "speaker",
+        "from",
+        "the",
+        "back",
+        "of",
+        "the",
+        "hall"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-010",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Hardly' goes after the modal and before the main verb: I can hardly wait (= I am very excited).",
+      "word": "hardly",
+      "tokens": [
+        "She",
+        "can",
+        "wait",
+        "for",
+        "the",
+        "summer",
+        "holidays"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-011",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Scarcely' goes between the modal and the main verb: he could scarcely walk.",
+      "word": "scarcely",
+      "tokens": [
+        "The",
+        "old",
+        "man",
+        "could",
+        "walk",
+        "without",
+        "his",
+        "stick"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-012",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Nearly' goes before the main verb in the past simple: I nearly fell (= I almost fell, but I didn't).",
+      "word": "nearly",
+      "tokens": [
+        "I",
+        "fell",
+        "off",
+        "my",
+        "bike",
+        "on",
+        "the",
+        "icy",
+        "road"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "b2-pw-013",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With the present perfect, 'almost' goes between 'have' and the past participle: they have almost finished.",
+      "word": "almost",
+      "tokens": [
+        "The",
+        "children",
+        "have",
+        "finished",
+        "decorating",
+        "the",
+        "classroom"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-014",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Degree adverbs like 'extremely' go directly before the adjective they modify: extremely difficult.",
+      "word": "extremely",
+      "tokens": [
+        "The",
+        "final",
+        "exam",
+        "was",
+        "difficult",
+        "for",
+        "most",
+        "students"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-015",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Incredibly' modifies the adjective, so it goes directly before it: incredibly expensive.",
+      "word": "incredibly",
+      "tokens": [
+        "The",
+        "new",
+        "phone",
+        "is",
+        "expensive",
+        "for",
+        "what",
+        "it",
+        "does"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-016",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Fairly' goes directly before the adjective it modifies: fairly easy.",
+      "word": "fairly",
+      "tokens": [
+        "The",
+        "instructions",
+        "were",
+        "easy",
+        "to",
+        "follow"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-017",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Rather' goes directly before the adjective: the room was rather small.",
+      "word": "rather",
+      "tokens": [
+        "The",
+        "hotel",
+        "room",
+        "was",
+        "small",
+        "for",
+        "a",
+        "family",
+        "of",
+        "four"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-018",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Completely' goes before the adjective it modifies: the streets were completely empty.",
+      "word": "completely",
+      "tokens": [
+        "By",
+        "midnight",
+        "the",
+        "streets",
+        "were",
+        "empty"
+      ],
+      "correctPositions": [
+        5
+      ]
+    },
+    {
+      "id": "b2-pw-019",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Absolutely' is used before strong adjectives and goes directly before them: absolutely breathtaking.",
+      "word": "absolutely",
+      "tokens": [
+        "The",
+        "view",
+        "from",
+        "the",
+        "top",
+        "of",
+        "the",
+        "mountain",
+        "was",
+        "breathtaking"
+      ],
+      "correctPositions": [
+        9
+      ]
+    },
+    {
+      "id": "b2-pw-020",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Totally' goes directly before the adjective it modifies: totally unrealistic.",
+      "word": "totally",
+      "tokens": [
+        "In",
+        "my",
+        "opinion",
+        "the",
+        "plan",
+        "is",
+        "unrealistic"
+      ],
+      "correctPositions": [
+        6
+      ]
+    },
+    {
+      "id": "b2-pw-021",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Enough' goes after an adjective: big enough, not 'enough big'.",
+      "word": "enough",
+      "tokens": [
+        "The",
+        "hall",
+        "isn't",
+        "big",
+        "for",
+        "two",
+        "hundred",
+        "guests"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-022",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Enough' goes before a noun: enough chairs.",
+      "word": "enough",
+      "tokens": [
+        "Do",
+        "we",
+        "have",
+        "chairs",
+        "for",
+        "everyone"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-023",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Enough' goes after an adverb: fast enough to qualify.",
+      "word": "enough",
+      "tokens": [
+        "He",
+        "didn't",
+        "run",
+        "fast",
+        "to",
+        "qualify",
+        "for",
+        "the",
+        "final"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-024",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'So' goes before an adjective in the pattern 'so + adjective + that': so salty that...",
+      "word": "so",
+      "tokens": [
+        "The",
+        "soup",
+        "was",
+        "salty",
+        "that",
+        "nobody",
+        "could",
+        "eat",
+        "it"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-025",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Such' goes before 'a/an + adjective + noun': such a boring speech that...",
+      "word": "such",
+      "tokens": [
+        "It",
+        "was",
+        "a",
+        "boring",
+        "speech",
+        "that",
+        "people",
+        "started",
+        "to",
+        "leave"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-026",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Never' goes after a modal verb and before the main verb: you should never leave it.",
+      "word": "never",
+      "tokens": [
+        "You",
+        "should",
+        "leave",
+        "your",
+        "bag",
+        "unattended",
+        "at",
+        "the",
+        "airport"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-027",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With 'will', 'always' goes between the modal and the main verb: I will always remember.",
+      "word": "always",
+      "tokens": [
+        "I",
+        "will",
+        "remember",
+        "the",
+        "day",
+        "we",
+        "met"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-028",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In 'if' clauses, 'ever' goes after 'be': if you are ever in town, call me.",
+      "word": "ever",
+      "tokens": [
+        "If",
+        "you",
+        "are",
+        "in",
+        "Edinburgh,",
+        "give",
+        "me",
+        "a",
+        "call"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-029",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "After a superlative, 'ever' goes between the auxiliary and the past participle: the best film I have ever seen.",
+      "word": "ever",
+      "tokens": [
+        "It",
+        "was",
+        "the",
+        "most",
+        "beautiful",
+        "sunset",
+        "I",
+        "had",
+        "seen"
+      ],
+      "correctPositions": [
+        8
+      ]
+    },
+    {
+      "id": "b2-pw-030",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Hardly ever' (= almost never) goes before the main verb: they hardly ever watch TV.",
+      "word": "hardly ever",
+      "tokens": [
+        "My",
+        "parents",
+        "watch",
+        "television",
+        "these",
+        "days"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-031",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a passive sentence, 'rarely' goes after 'be' and before the past participle: snow is rarely seen.",
+      "word": "rarely",
+      "tokens": [
+        "Snow",
+        "is",
+        "seen",
+        "in",
+        "this",
+        "part",
+        "of",
+        "the",
+        "country"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-032",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With 'be', 'seldom' goes after the verb: they are seldom honest.",
+      "word": "seldom",
+      "tokens": [
+        "Politicians",
+        "are",
+        "honest",
+        "about",
+        "their",
+        "mistakes"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-033",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Never' goes between 'has' and the past participle: it has never been to the vet.",
+      "word": "never",
+      "tokens": [
+        "Our",
+        "cat",
+        "has",
+        "been",
+        "to",
+        "the",
+        "vet"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-034",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Almost never' goes before the main verb: I almost never drink coffee late.",
+      "word": "almost never",
+      "tokens": [
+        "I",
+        "drink",
+        "coffee",
+        "after",
+        "six",
+        "in",
+        "the",
+        "evening"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "b2-pw-035",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With 'be', 'always' goes after the verb: the trains are always on time.",
+      "word": "always",
+      "tokens": [
+        "The",
+        "trains",
+        "are",
+        "on",
+        "time",
+        "in",
+        "Switzerland"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-036",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Adverbs of frequency go before the main verb: she always bakes a cake.",
+      "word": "always",
+      "tokens": [
+        "My",
+        "grandmother",
+        "bakes",
+        "a",
+        "cake",
+        "for",
+        "our",
+        "birthdays"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-037",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Never' goes before the main verb in the present simple: it never crashes.",
+      "word": "never",
+      "tokens": [
+        "My",
+        "laptop",
+        "crashes",
+        "when",
+        "I",
+        "am",
+        "working",
+        "at",
+        "home"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-038",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With main-verb 'have', 'hardly' can go before the verb (we hardly had any time) or after it, before 'any' (we had hardly any time).",
+      "word": "hardly",
+      "tokens": [
+        "We",
+        "had",
+        "any",
+        "time",
+        "to",
+        "look",
+        "around",
+        "the",
+        "city"
+      ],
+      "correctPositions": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-039",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Barely' goes between the auxiliary and the past participle: the baby has barely slept.",
+      "word": "barely",
+      "tokens": [
+        "The",
+        "baby",
+        "has",
+        "slept",
+        "since",
+        "midnight"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-040",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Nearly' goes between 'have' and the past participle: the tickets have nearly sold out.",
+      "word": "nearly",
+      "tokens": [
+        "The",
+        "concert",
+        "tickets",
+        "have",
+        "sold",
+        "out"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-041",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Almost' goes after 'is' and before the noun phrase: it's almost time to start.",
+      "word": "almost",
+      "tokens": [
+        "It's",
+        "time",
+        "for",
+        "the",
+        "meeting",
+        "to",
+        "start"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "b2-pw-042",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Extremely' goes directly before the adverb it modifies: they worked extremely hard.",
+      "word": "extremely",
+      "tokens": [
+        "The",
+        "volunteers",
+        "worked",
+        "hard",
+        "during",
+        "the",
+        "floods"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-043",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Incredibly' goes directly before the adjective: incredibly helpful.",
+      "word": "incredibly",
+      "tokens": [
+        "The",
+        "local",
+        "people",
+        "were",
+        "helpful",
+        "to",
+        "us"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-044",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Informal 'pretty' (= fairly) goes directly before the adjective: pretty straightforward.",
+      "word": "pretty",
+      "tokens": [
+        "The",
+        "questions",
+        "in",
+        "the",
+        "interview",
+        "were",
+        "straightforward"
+      ],
+      "correctPositions": [
+        6
+      ]
+    },
+    {
+      "id": "b2-pw-045",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Quite' goes directly before the adjective it modifies: quite interesting.",
+      "word": "quite",
+      "tokens": [
+        "The",
+        "exhibition",
+        "was",
+        "interesting",
+        "but",
+        "a",
+        "bit",
+        "expensive"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-046",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Deeply' goes directly before the adjective it intensifies: deeply disappointed.",
+      "word": "deeply",
+      "tokens": [
+        "The",
+        "whole",
+        "team",
+        "was",
+        "disappointed",
+        "by",
+        "the",
+        "result"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-047",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'So' goes before the adjective: so excited that they couldn't sleep.",
+      "word": "so",
+      "tokens": [
+        "The",
+        "children",
+        "were",
+        "excited",
+        "that",
+        "they",
+        "couldn't",
+        "sleep"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-048",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Such' goes before 'adjective + plural noun': such kind people that...",
+      "word": "such",
+      "tokens": [
+        "They",
+        "are",
+        "kind",
+        "people",
+        "that",
+        "everyone",
+        "likes",
+        "them"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-049",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Enough' follows the adjective it modifies: warm enough for a swim.",
+      "word": "enough",
+      "tokens": [
+        "Is",
+        "the",
+        "water",
+        "warm",
+        "for",
+        "a",
+        "swim"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-050",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Enough' goes after the adjective and before the 'to' infinitive: old enough to drive.",
+      "word": "enough",
+      "tokens": [
+        "She",
+        "is",
+        "not",
+        "old",
+        "to",
+        "drive",
+        "a",
+        "car"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-051",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Never' goes between 'have' and the past participle: I have never felt so nervous.",
+      "word": "never",
+      "tokens": [
+        "I",
+        "have",
+        "felt",
+        "so",
+        "nervous",
+        "before",
+        "an",
+        "exam"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-052",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With a modal verb, 'always' goes after the modal: you can always call me.",
+      "word": "always",
+      "tokens": [
+        "You",
+        "can",
+        "call",
+        "me",
+        "if",
+        "you",
+        "need",
+        "help"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-053",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Rarely' goes before the main verb in the present simple: she rarely gives us homework.",
+      "word": "rarely",
+      "tokens": [
+        "Our",
+        "teacher",
+        "gives",
+        "us",
+        "homework",
+        "at",
+        "the",
+        "weekend"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-054",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Hardly' goes before the main verb in the past simple: I hardly recognised him (= almost not).",
+      "word": "hardly",
+      "tokens": [
+        "I",
+        "recognised",
+        "my",
+        "old",
+        "school",
+        "friend",
+        "after",
+        "twenty",
+        "years"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "b2-pw-055",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "frequency",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Scarcely ever' (= almost never) goes before the main verb: we scarcely ever go.",
+      "word": "scarcely ever",
+      "tokens": [
+        "We",
+        "go",
+        "to",
+        "the",
+        "cinema",
+        "now",
+        "that",
+        "we",
+        "have",
+        "children"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "b2-pw-056",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Turn off' is separable: with a noun object, the particle can go before or after it (turn off the lights / turn the lights off).",
+      "word": "off",
+      "tokens": [
+        "Please",
+        "turn",
+        "the",
+        "lights",
+        "when",
+        "you",
+        "leave"
+      ],
+      "correctPositions": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-057",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With a pronoun object, the particle of a separable phrasal verb goes after the pronoun: pick it up, not 'pick up it'.",
+      "word": "up",
+      "tokens": [
+        "She",
+        "picked",
+        "it",
+        "from",
+        "the",
+        "floor"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-058",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Look after' (= take care of) is inseparable: the particle goes straight after the verb.",
+      "word": "after",
+      "tokens": [
+        "Who",
+        "will",
+        "look",
+        "your",
+        "plants",
+        "while",
+        "you",
+        "are",
+        "away"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-059",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Put up with' (= tolerate) has three parts that stay together: put up with this noise.",
+      "word": "with",
+      "tokens": [
+        "I",
+        "can't",
+        "put",
+        "up",
+        "this",
+        "noise",
+        "any",
+        "longer"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-060",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Turn down' (= refuse) is separable: turn down our request / turn our request down.",
+      "word": "down",
+      "tokens": [
+        "The",
+        "council",
+        "has",
+        "turned",
+        "our",
+        "request"
+      ],
+      "correctPositions": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": "b2-pw-061",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Run out of' (= have no more) keeps its parts together: we have run out of milk.",
+      "word": "out",
+      "tokens": [
+        "We",
+        "have",
+        "run",
+        "of",
+        "milk",
+        "again"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-062",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Run into' (= meet by chance) is inseparable: ran into an old friend.",
+      "word": "into",
+      "tokens": [
+        "I",
+        "ran",
+        "an",
+        "old",
+        "friend",
+        "at",
+        "the",
+        "station"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-063",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Look up' is separable: look up these words / look these words up.",
+      "word": "up",
+      "tokens": [
+        "Could",
+        "you",
+        "look",
+        "these",
+        "words",
+        "in",
+        "the",
+        "dictionary"
+      ],
+      "correctPositions": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": "b2-pw-064",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With a pronoun, the particle goes after it: throw them away, not 'throw away them'.",
+      "word": "away",
+      "tokens": [
+        "Don't",
+        "throw",
+        "them"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-065",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Go on' (= continue) is intransitive, so 'on' goes straight after the verb: it went on for hours.",
+      "word": "on",
+      "tokens": [
+        "The",
+        "meeting",
+        "went",
+        "for",
+        "three",
+        "hours"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-066",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "With a pronoun object, 'back' goes after the pronoun: pay you back.",
+      "word": "back",
+      "tokens": [
+        "I'll",
+        "pay",
+        "you",
+        "next",
+        "week"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-067",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Get over' (= recover from) is inseparable: get over an illness.",
+      "word": "over",
+      "tokens": [
+        "It",
+        "took",
+        "him",
+        "months",
+        "to",
+        "get",
+        "the",
+        "flu"
+      ],
+      "correctPositions": [
+        6
+      ]
+    },
+    {
+      "id": "b2-pw-068",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Give up' is separable with a noun or gerund object: gave up smoking / gave smoking up.",
+      "word": "up",
+      "tokens": [
+        "My",
+        "uncle",
+        "gave",
+        "smoking",
+        "ten",
+        "years",
+        "ago"
+      ],
+      "correctPositions": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-069",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Look forward to' keeps its parts together: we are looking forward to the holidays.",
+      "word": "forward",
+      "tokens": [
+        "We",
+        "are",
+        "all",
+        "looking",
+        "to",
+        "the",
+        "holidays"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-070",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The present perfect passive is 'has/have been + past participle': it has been closed.",
+      "word": "been",
+      "tokens": [
+        "The",
+        "bridge",
+        "has",
+        "closed",
+        "for",
+        "repairs",
+        "since",
+        "March"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-071",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The present continuous passive is 'is being + past participle': the car is being serviced.",
+      "word": "being",
+      "tokens": [
+        "Our",
+        "car",
+        "is",
+        "serviced",
+        "at",
+        "the",
+        "moment"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-072",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In the passive, 'by' introduces the agent after the past participle: written by a nurse.",
+      "word": "by",
+      "tokens": [
+        "The",
+        "novel",
+        "was",
+        "written",
+        "a",
+        "former",
+        "nurse"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-073",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The future passive is 'will be + past participle': the results will be announced.",
+      "word": "be",
+      "tokens": [
+        "The",
+        "results",
+        "will",
+        "announced",
+        "on",
+        "Friday"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-074",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The perfect passive infinitive is 'to have been + past participle': believed to have been stolen.",
+      "word": "been",
+      "tokens": [
+        "The",
+        "painting",
+        "is",
+        "believed",
+        "to",
+        "have",
+        "stolen",
+        "in",
+        "the",
+        "1990s"
+      ],
+      "correctPositions": [
+        6
+      ]
+    },
+    {
+      "id": "b2-pw-075",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The past continuous passive is 'was being + past participle': he was being questioned.",
+      "word": "being",
+      "tokens": [
+        "The",
+        "suspect",
+        "was",
+        "questioned",
+        "when",
+        "the",
+        "lawyer",
+        "arrived"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-076",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The past perfect passive is 'had been + past participle': the tickets had been sold.",
+      "word": "had",
+      "tokens": [
+        "The",
+        "tickets",
+        "been",
+        "sold",
+        "before",
+        "we",
+        "got",
+        "there"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-077",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Get + past participle' is an informal passive: did anyone get hurt?",
+      "word": "get",
+      "tokens": [
+        "Did",
+        "anyone",
+        "hurt",
+        "in",
+        "the",
+        "accident"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-078",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "After 'need to', the passive infinitive is 'to be + past participle': need to be cleaned.",
+      "word": "be",
+      "tokens": [
+        "The",
+        "windows",
+        "need",
+        "to",
+        "cleaned",
+        "before",
+        "the",
+        "guests",
+        "arrive"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-079",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The present simple passive is 'is/are + past participle': English is spoken.",
+      "word": "is",
+      "tokens": [
+        "English",
+        "spoken",
+        "in",
+        "many",
+        "countries",
+        "around",
+        "the",
+        "world"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "b2-pw-080",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The past simple passive uses 'was/were + past participle': the prizes were handed out.",
+      "word": "were",
+      "tokens": [
+        "The",
+        "prizes",
+        "handed",
+        "out",
+        "by",
+        "the",
+        "mayor"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-081",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "After 'remember', the passive gerund is 'being + past participle': she remembers being told off.",
+      "word": "being",
+      "tokens": [
+        "She",
+        "remembers",
+        "told",
+        "off",
+        "by",
+        "her",
+        "teacher",
+        "as",
+        "a",
+        "child"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-082",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Have something done' after 'hate' becomes 'having + object + past participle': I hate having my photo taken.",
+      "word": "having",
+      "tokens": [
+        "I",
+        "hate",
+        "my",
+        "photo",
+        "taken"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-083",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'By' comes after the past participle to say who did the action: cleaned by volunteers.",
+      "word": "by",
+      "tokens": [
+        "The",
+        "streets",
+        "were",
+        "cleaned",
+        "volunteers",
+        "after",
+        "the",
+        "festival"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-084",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Whose' shows possession and goes directly before the noun it owns: the author whose book won.",
+      "word": "whose",
+      "tokens": [
+        "That's",
+        "the",
+        "author",
+        "book",
+        "won",
+        "the",
+        "prize",
+        "last",
+        "year"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-085",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Who' goes straight after the person it describes: the woman who lives next door.",
+      "word": "who",
+      "tokens": [
+        "The",
+        "woman",
+        "lives",
+        "next",
+        "door",
+        "is",
+        "a",
+        "pilot"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-086",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In a clause between commas (extra information), 'which' comes right after the comma that follows the noun: my phone, which I bought...",
+      "word": "which",
+      "tokens": [
+        "My",
+        "phone,",
+        "I",
+        "bought",
+        "last",
+        "month,",
+        "has",
+        "already",
+        "broken"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-087",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "After a preposition, use 'whom' for people: the man to whom I spoke.",
+      "word": "whom",
+      "tokens": [
+        "The",
+        "man",
+        "to",
+        "I",
+        "spoke",
+        "was",
+        "very",
+        "helpful"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-088",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Where' follows a place noun and starts the relative clause: the café where we met.",
+      "word": "where",
+      "tokens": [
+        "This",
+        "is",
+        "the",
+        "café",
+        "we",
+        "first",
+        "met"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-089",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'When' follows a time noun and starts the relative clause: the day when we moved.",
+      "word": "when",
+      "tokens": [
+        "I",
+        "still",
+        "remember",
+        "the",
+        "day",
+        "we",
+        "moved",
+        "to",
+        "London"
+      ],
+      "correctPositions": [
+        5
+      ]
+    },
+    {
+      "id": "b2-pw-090",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Whose' goes between the person and the thing they have: the students whose projects were chosen.",
+      "word": "whose",
+      "tokens": [
+        "The",
+        "students",
+        "projects",
+        "were",
+        "chosen",
+        "will",
+        "travel",
+        "to",
+        "Berlin"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-091",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Which' after a comma can refer to the whole previous clause: we missed the bus, which meant...",
+      "word": "which",
+      "tokens": [
+        "We",
+        "missed",
+        "the",
+        "last",
+        "bus,",
+        "meant",
+        "we",
+        "had",
+        "to",
+        "walk",
+        "home"
+      ],
+      "correctPositions": [
+        5
+      ]
+    },
+    {
+      "id": "b2-pw-092",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Why' follows 'the reason' to start the relative clause: the reason why she left.",
+      "word": "why",
+      "tokens": [
+        "That's",
+        "the",
+        "reason",
+        "she",
+        "left",
+        "the",
+        "company"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-093",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Who' goes straight after the pronoun it describes: anyone who wants a ticket.",
+      "word": "who",
+      "tokens": [
+        "Anyone",
+        "wants",
+        "a",
+        "ticket",
+        "should",
+        "call",
+        "this",
+        "number"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "b2-pw-094",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In clauses between commas we say 'most of whom / all of which': most of whom were tourists.",
+      "word": "of",
+      "tokens": [
+        "Several",
+        "people,",
+        "most",
+        "whom",
+        "were",
+        "tourists,",
+        "were",
+        "injured"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-095",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "After 'all of', use 'whom' for people: the players, all of whom were exhausted.",
+      "word": "whom",
+      "tokens": [
+        "The",
+        "players,",
+        "all",
+        "of",
+        "were",
+        "exhausted,",
+        "celebrated",
+        "the",
+        "win"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-096",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Where' follows the place noun it describes: the village where my mother grew up.",
+      "word": "where",
+      "tokens": [
+        "The",
+        "village",
+        "my",
+        "mother",
+        "grew",
+        "up",
+        "has",
+        "changed",
+        "a",
+        "lot"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-097",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Although' introduces a contrasting clause with a subject and verb: although the weather was awful.",
+      "word": "although",
+      "tokens": [
+        "We",
+        "enjoyed",
+        "the",
+        "trip",
+        "the",
+        "weather",
+        "was",
+        "awful"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-098",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Despite' is followed by a noun phrase and goes directly before it: despite the heavy rain.",
+      "word": "despite",
+      "tokens": [
+        "The",
+        "match",
+        "went",
+        "ahead",
+        "the",
+        "heavy",
+        "rain"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-099",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Unless' (= if not) begins the condition clause: unless you book in advance.",
+      "word": "unless",
+      "tokens": [
+        "You",
+        "won't",
+        "get",
+        "a",
+        "seat",
+        "you",
+        "book",
+        "in",
+        "advance"
+      ],
+      "correctPositions": [
+        5
+      ]
+    },
+    {
+      "id": "b2-pw-100",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Whereas' joins two contrasting clauses and goes between them: she loves jazz whereas I prefer rock.",
+      "word": "whereas",
+      "tokens": [
+        "My",
+        "sister",
+        "loves",
+        "jazz",
+        "I",
+        "prefer",
+        "rock",
+        "music"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-101",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'In case' introduces a possible future problem we prepare for: take water in case you get thirsty.",
+      "word": "in case",
+      "tokens": [
+        "Take",
+        "some",
+        "water",
+        "you",
+        "get",
+        "thirsty",
+        "on",
+        "the",
+        "way"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-102",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'So that' introduces a purpose clause, often with 'could': so that everyone could understand.",
+      "word": "so that",
+      "tokens": [
+        "She",
+        "spoke",
+        "slowly",
+        "everyone",
+        "could",
+        "understand",
+        "her"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-103",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The linker is 'in spite of' + noun: in spite of the delays.",
+      "word": "of",
+      "tokens": [
+        "In",
+        "spite",
+        "the",
+        "delays,",
+        "we",
+        "arrived",
+        "on",
+        "time"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-104",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Even though' is a stronger 'although': even though he was tired.",
+      "word": "though",
+      "tokens": [
+        "Even",
+        "he",
+        "was",
+        "tired,",
+        "he",
+        "finished",
+        "the",
+        "report"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "b2-pw-105",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'As long as' (= only if) introduces a condition clause: as long as you drive carefully.",
+      "word": "as long as",
+      "tokens": [
+        "You",
+        "can",
+        "borrow",
+        "my",
+        "car",
+        "you",
+        "drive",
+        "carefully"
+      ],
+      "correctPositions": [
+        5
+      ]
+    },
+    {
+      "id": "b2-pw-106",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The linker is 'due to' + noun, giving a reason: due to the strike.",
+      "word": "to",
+      "tokens": [
+        "The",
+        "trains",
+        "were",
+        "cancelled",
+        "due",
+        "the",
+        "strike"
+      ],
+      "correctPositions": [
+        5
+      ]
+    },
+    {
+      "id": "b2-pw-107",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'In order to' + infinitive expresses purpose: in order to catch the train.",
+      "word": "order",
+      "tokens": [
+        "He",
+        "left",
+        "early",
+        "in",
+        "to",
+        "catch",
+        "the",
+        "first",
+        "train"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-108",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Even though' introduces a surprising contrast clause: she went to work even though she was ill.",
+      "word": "even though",
+      "tokens": [
+        "She",
+        "went",
+        "to",
+        "work",
+        "she",
+        "had",
+        "a",
+        "temperature"
+      ],
+      "correctPositions": [
+        4
+      ]
+    },
+    {
+      "id": "b2-pw-109",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'While' can join two contrasting clauses: some love the city while others prefer the country.",
+      "word": "while",
+      "tokens": [
+        "Some",
+        "people",
+        "love",
+        "the",
+        "city",
+        "others",
+        "prefer",
+        "the",
+        "countryside"
+      ],
+      "correctPositions": [
+        5
+      ]
+    },
+    {
+      "id": "b2-pw-110",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Criticism of the past uses 'should have + past participle': you should have told me.",
+      "word": "have",
+      "tokens": [
+        "You",
+        "should",
+        "told",
+        "me",
+        "about",
+        "the",
+        "problem",
+        "earlier"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-111",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Not' goes directly after the modal: you must not use your phone.",
+      "word": "not",
+      "tokens": [
+        "You",
+        "must",
+        "use",
+        "your",
+        "phone",
+        "during",
+        "the",
+        "exam"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-112",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The expression is 'had better + infinitive': we had better leave now.",
+      "word": "better",
+      "tokens": [
+        "We",
+        "had",
+        "leave",
+        "now",
+        "or",
+        "we'll",
+        "miss",
+        "the",
+        "train"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-113",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Ought' is always followed by 'to + infinitive': you ought to apologise.",
+      "word": "to",
+      "tokens": [
+        "You",
+        "ought",
+        "apologise",
+        "to",
+        "your",
+        "sister"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-114",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "In the future, use 'will be able to' instead of 'can': I won't be able to come.",
+      "word": "able",
+      "tokens": [
+        "I",
+        "won't",
+        "be",
+        "to",
+        "come",
+        "to",
+        "your",
+        "party"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-115",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "For negative deduction about the past, use 'can't have + past participle': she can't have seen us.",
+      "word": "have",
+      "tokens": [
+        "She",
+        "can't",
+        "seen",
+        "us,",
+        "or",
+        "she",
+        "would",
+        "have",
+        "waved"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-116",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Possibility in the past is 'might have + past participle': they might have missed the bus.",
+      "word": "have",
+      "tokens": [
+        "They",
+        "might",
+        "missed",
+        "the",
+        "bus"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-117",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The negative of 'had better' is 'had better not + infinitive': you'd better not tell anyone.",
+      "word": "not",
+      "tokens": [
+        "You'd",
+        "better",
+        "tell",
+        "anyone",
+        "about",
+        "this"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-118",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Deduction about an action in progress in the past: 'must have been + -ing': he must have been sleeping.",
+      "word": "been",
+      "tokens": [
+        "He",
+        "must",
+        "have",
+        "sleeping",
+        "when",
+        "you",
+        "called"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-119",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Lack of obligation is 'don't need to + infinitive': you don't need to bring anything.",
+      "word": "need",
+      "tokens": [
+        "You",
+        "don't",
+        "to",
+        "bring",
+        "anything",
+        "to",
+        "the",
+        "party"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-120",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Present deduction uses 'must be': she must be the new head teacher.",
+      "word": "be",
+      "tokens": [
+        "That",
+        "woman",
+        "must",
+        "the",
+        "new",
+        "head",
+        "teacher"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-121",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Needn't have + past participle' means we did something that was not necessary: we needn't have hurried.",
+      "word": "have",
+      "tokens": [
+        "We",
+        "needn't",
+        "hurried",
+        "because",
+        "the",
+        "train",
+        "was",
+        "late"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-122",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Prohibition can be expressed with 'be not allowed to': visitors are not allowed to take photos.",
+      "word": "allowed",
+      "tokens": [
+        "Visitors",
+        "are",
+        "not",
+        "to",
+        "take",
+        "photos",
+        "inside",
+        "the",
+        "museum"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-123",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The past perfect (had + past participle) shows an action finished before another past action: the train had left.",
+      "word": "had",
+      "tokens": [
+        "When",
+        "we",
+        "reached",
+        "the",
+        "station",
+        "the",
+        "train",
+        "left"
+      ],
+      "correctPositions": [
+        7
+      ]
+    },
+    {
+      "id": "b2-pw-124",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The past perfect continuous is 'had been + -ing': she had been working there for years.",
+      "word": "been",
+      "tokens": [
+        "She",
+        "had",
+        "working",
+        "there",
+        "for",
+        "ten",
+        "years",
+        "when",
+        "she",
+        "resigned"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-125",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The past continuous (was/were + -ing) describes an action in progress when something happened: I was walking home.",
+      "word": "was",
+      "tokens": [
+        "I",
+        "walking",
+        "home",
+        "when",
+        "I",
+        "saw",
+        "the",
+        "accident"
+      ],
+      "correctPositions": [
+        1
+      ]
+    },
+    {
+      "id": "b2-pw-126",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "Use 'were + -ing' for a background action interrupted by another: they were playing when it began.",
+      "word": "were",
+      "tokens": [
+        "The",
+        "children",
+        "playing",
+        "in",
+        "the",
+        "garden",
+        "when",
+        "the",
+        "storm",
+        "began"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-127",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "After 'by the time', the earlier action is in the past perfect: the thieves had escaped.",
+      "word": "had",
+      "tokens": [
+        "By",
+        "the",
+        "time",
+        "the",
+        "police",
+        "arrived",
+        "the",
+        "thieves",
+        "escaped"
+      ],
+      "correctPositions": [
+        8
+      ]
+    },
+    {
+      "id": "b2-pw-128",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Barely' goes between 'had' and the past participle: we had barely sat down when...",
+      "word": "barely",
+      "tokens": [
+        "We",
+        "had",
+        "sat",
+        "down",
+        "when",
+        "the",
+        "fire",
+        "alarm",
+        "went",
+        "off"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-129",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Never' goes between 'had' and the past participle: I had never seen snow before.",
+      "word": "never",
+      "tokens": [
+        "I",
+        "had",
+        "seen",
+        "snow",
+        "before",
+        "I",
+        "moved",
+        "to",
+        "Canada"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-130",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'While' introduces the longer background action in the past continuous: while I was having a shower.",
+      "word": "while",
+      "tokens": [
+        "My",
+        "phone",
+        "rang",
+        "I",
+        "was",
+        "having",
+        "a",
+        "shower"
+      ],
+      "correctPositions": [
+        3
+      ]
+    },
+    {
+      "id": "b2-pw-131",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Had been + -ing' explains a past situation by an earlier continuing activity: they had been arguing.",
+      "word": "been",
+      "tokens": [
+        "They",
+        "had",
+        "arguing",
+        "all",
+        "morning,",
+        "so",
+        "the",
+        "atmosphere",
+        "was",
+        "tense"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-132",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "'Hardly' goes between 'had' and the past participle: he had hardly left when...",
+      "word": "hardly",
+      "tokens": [
+        "He",
+        "had",
+        "left",
+        "the",
+        "office",
+        "when",
+        "it",
+        "started",
+        "to",
+        "snow"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-133",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The past perfect shows the earlier cause of a past situation: the ground was wet because it had rained.",
+      "word": "had",
+      "tokens": [
+        "The",
+        "ground",
+        "was",
+        "wet",
+        "because",
+        "it",
+        "rained",
+        "during",
+        "the",
+        "night"
+      ],
+      "correctPositions": [
+        6
+      ]
+    },
+    {
+      "id": "b2-pw-134",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The past continuous sets the scene in a story: the sun was shining.",
+      "word": "was",
+      "tokens": [
+        "The",
+        "sun",
+        "shining",
+        "and",
+        "the",
+        "birds",
+        "were",
+        "singing"
+      ],
+      "correctPositions": [
+        2
+      ]
+    },
+    {
+      "id": "b2-pw-135",
+      "type": "place-word",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Where does the word go in the sentence?",
+      "explanation": "The linker is 'by the time', followed by the past perfect: by the time we got there, it had closed.",
+      "word": "time",
+      "tokens": [
+        "By",
+        "the",
+        "we",
+        "got",
+        "there,",
+        "the",
+        "shop",
+        "had",
+        "closed"
+      ],
+      "correctPositions": [
+        2
+      ]
     }
   ]
 }

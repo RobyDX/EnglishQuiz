@@ -37,6 +37,1666 @@
         "I used to getting up early."
       ],
       "correct": 0
+    },
+    {
+      "id": "b2-sc-003",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The third conditional uses if + past perfect and would have + past participle: If I had known, I would have left earlier.",
+      "wrongReasons": {
+        "0": "Do not use 'would' in the if-clause; use the past perfect 'had known'.",
+        "2": "After 'had' you need the past participle 'known', not the base form 'know'.",
+        "3": "The result of a third conditional needs 'would have', not 'will have'."
+      },
+      "options": [
+        "If I would have known about the traffic, I would have left earlier.",
+        "If I had known about the traffic, I would have left earlier.",
+        "If I had know about the traffic, I would have left earlier.",
+        "If I had known about the traffic, I will have left earlier."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-004",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Tell' needs a person as object, but 'say' does not: She told me that... / She said that...",
+      "wrongReasons": {
+        "1": "'Say' cannot take a person directly as object; use 'told me' or 'said to me'.",
+        "2": "'Tell' must be followed by the person you speak to, for example 'told me'.",
+        "3": "Do not put 'to' after 'tell'; the person follows the verb directly."
+      },
+      "options": [
+        "She told me that she was feeling tired.",
+        "She said me that she was feeling tired.",
+        "She told that she was feeling tired.",
+        "She told to me that she was feeling tired."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-005",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The present continuous passive is am/is/are + being + past participle: The bridge is being repaired.",
+      "wrongReasons": {
+        "0": "The bridge does not repair itself, so the verb must be passive: 'is being repaired'.",
+        "1": "The continuous passive needs 'being' after 'is', not 'been'.",
+        "2": "'Has' is followed by 'been', and the moment now needs 'is being repaired'."
+      },
+      "options": [
+        "The bridge is repairing at the moment.",
+        "The bridge is been repaired at the moment.",
+        "The bridge has being repaired at the moment.",
+        "The bridge is being repaired at the moment."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-006",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Relative clauses between commas (extra information) use 'who' for people and never 'that': My sister, who lives in Berlin, ...",
+      "wrongReasons": {
+        "0": "'That' cannot introduce a relative clause between commas.",
+        "1": "'Which' is for things; for a person use 'who'.",
+        "3": "'Whom' is an object pronoun; here the pronoun is the subject, so use 'who'."
+      },
+      "options": [
+        "My sister, that lives in Berlin, is an architect.",
+        "My sister, which lives in Berlin, is an architect.",
+        "My sister, who lives in Berlin, is an architect.",
+        "My sister, whom lives in Berlin, is an architect."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-007",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Which sentence is correct?",
+      "explanation": "To talk about a present situation we want to be different, use wish + past simple: I wish I had more free time.",
+      "wrongReasons": {
+        "0": "After 'wish' for the present, move the verb back to the past: 'had'.",
+        "2": "We do not use 'would' after 'I wish I...'; use the past simple.",
+        "3": "'Wish' is not followed by 'will'; for a future hope use 'hope'."
+      },
+      "options": [
+        "I wish I have more free time.",
+        "I wish I had more free time.",
+        "I wish I would have more free time.",
+        "I wish I will have more free time."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-008",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Must have + past participle' expresses a strong deduction about the past: She must have forgotten.",
+      "wrongReasons": {
+        "1": "After 'must' use the base form; for the past you need 'must have forgotten'.",
+        "2": "Modals are followed by the base form 'have', never 'has'.",
+        "3": "Positive deductions about the past use 'must have', not 'can have'."
+      },
+      "options": [
+        "She must have forgotten about the meeting; she never misses one.",
+        "She must forgot about the meeting; she never misses one.",
+        "She must has forgotten about the meeting; she never misses one.",
+        "She can have forgotten about the meeting; she never misses one."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-009",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In 'look forward to', 'to' is a preposition, so it is followed by the -ing form: I'm looking forward to seeing you.",
+      "wrongReasons": {
+        "0": "Here 'to' is a preposition, so it needs the -ing form 'seeing'.",
+        "1": "The correct preposition after 'look forward' is 'to', not 'for'.",
+        "2": "A future event needs the simple -ing form 'seeing', not 'have seen'."
+      },
+      "options": [
+        "I'm looking forward to see you next month.",
+        "I'm looking forward for seeing you next month.",
+        "I'm looking forward to have seen you next month.",
+        "I'm looking forward to seeing you next month."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-010",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use the past perfect for an action that happened before another past action: When I arrived, the train had already left.",
+      "wrongReasons": {
+        "0": "The story is in the past, so the earlier action needs the past perfect 'had left'.",
+        "1": "After 'had' use the past participle 'left'.",
+        "3": "'Went' is the past simple; the past participle is 'gone'."
+      },
+      "options": [
+        "When I arrived at the station, the train has already left.",
+        "When I arrived at the station, the train had already leave.",
+        "When I arrived at the station, the train had already left.",
+        "When I arrived at the station, the train had already went."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-011",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The future continuous (will be + -ing) describes an action in progress at a future time: This time next week I'll be lying on a beach.",
+      "wrongReasons": {
+        "0": "After 'will' use the base form 'be', not 'being'.",
+        "2": "'Will' is a modal and is not followed by 'to'.",
+        "3": "The future continuous needs the -ing form 'lying'."
+      },
+      "options": [
+        "This time next week, I'll being lying on a beach in Greece.",
+        "This time next week, I'll be lying on a beach in Greece.",
+        "This time next week, I will to be lying on a beach in Greece.",
+        "This time next week, I'll be lie on a beach in Greece."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-012",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Despite' and 'in spite of' are followed by a noun or -ing form, without 'of' after 'despite': Despite the rain, we enjoyed it.",
+      "wrongReasons": {
+        "1": "'Despite' is never followed by 'of'.",
+        "2": "'Although' must be followed by a clause, such as 'it was raining'.",
+        "3": "The full expression is 'in spite of', so 'of' is missing."
+      },
+      "options": [
+        "Despite the rain, we enjoyed the match.",
+        "Despite of the rain, we enjoyed the match.",
+        "Although the rain, we enjoyed the match.",
+        "In spite the rain, we enjoyed the match."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-013",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The second conditional uses if + past simple and would + base form for unreal present situations: If she studied harder, she would pass.",
+      "wrongReasons": {
+        "0": "'Would' does not normally go in the if-clause of a second conditional.",
+        "1": "Present 'studies' belongs to the first conditional; it cannot be followed by 'would pass'.",
+        "2": "With the past simple in the if-clause, the result needs 'would', not 'will'."
+      },
+      "options": [
+        "If she would study harder, she would pass the exam.",
+        "If she studies harder, she would pass the exam.",
+        "If she studied harder, she will pass the exam.",
+        "If she studied harder, she would pass the exam."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-014",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Reported questions use normal statement word order, with no auxiliary 'do': He asked me where I lived.",
+      "wrongReasons": {
+        "0": "In a reported question we do not use 'did' or question word order.",
+        "1": "Reported questions do not keep the question form 'do I live'; also the tense moves back to 'lived'.",
+        "3": "'Ask' takes the person directly as object, without 'to'."
+      },
+      "options": [
+        "He asked me where did I live.",
+        "He asked me where do I live.",
+        "He asked me where I lived.",
+        "He asked to me where I lived."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-015",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The future passive is will + be + past participle: The results will be announced next week.",
+      "wrongReasons": {
+        "0": "The future passive needs 'be' between 'will' and the past participle.",
+        "2": "After 'be' in the passive, use the past participle 'announced'.",
+        "3": "After 'will' use the base form 'be', not 'being'."
+      },
+      "options": [
+        "The results will announced next week.",
+        "The results will be announced next week.",
+        "The results will be announce next week.",
+        "The results will being announced next week."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-016",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Whose' shows possession in relative clauses: the man whose dog bit my son.",
+      "wrongReasons": {
+        "1": "'Who's' means 'who is'; possession needs 'whose'.",
+        "2": "Do not use 'that his'; one word, 'whose', shows possession.",
+        "3": "'Which' does not show possession and is not used for people."
+      },
+      "options": [
+        "That's the man whose dog bit my son.",
+        "That's the man who's dog bit my son.",
+        "That's the man that his dog bit my son.",
+        "That's the man which dog bit my son."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-017",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Which sentence is correct?",
+      "explanation": "To regret something in the past, use wish + past perfect: She wishes she hadn't sold her guitar.",
+      "wrongReasons": {
+        "0": "A past regret needs the past perfect 'hadn't sold', not the past simple.",
+        "1": "'Would have' is not used after 'wish' for past regrets.",
+        "2": "The present perfect is not used after 'wish'; use 'hadn't sold'."
+      },
+      "options": [
+        "She wishes she didn't sell her old guitar.",
+        "She wishes she wouldn't have sold her old guitar.",
+        "She wishes she hasn't sold her old guitar.",
+        "She wishes she hadn't sold her old guitar."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-018",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Can't' expresses a negative deduction (it is impossible): He can't be at home; I saw him at the gym.",
+      "wrongReasons": {
+        "0": "'Mustn't' means something is forbidden; for impossibility use 'can't'.",
+        "1": "Do not use 'to' after the modal 'can't'.",
+        "3": "Modals do not use the auxiliary 'do' to make negatives."
+      },
+      "options": [
+        "He mustn't be at home; I saw him at the gym five minutes ago.",
+        "He can't to be at home; I saw him at the gym five minutes ago.",
+        "He can't be at home; I saw him at the gym five minutes ago.",
+        "He doesn't must be at home; I saw him at the gym five minutes ago."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-019",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Avoid' is followed by the -ing form: She avoided answering the question.",
+      "wrongReasons": {
+        "0": "'Avoid' is never followed by 'to' + infinitive.",
+        "2": "The base form cannot follow 'avoid'; use 'answering'.",
+        "3": "There is no 'to' after 'avoid'; just use the -ing form."
+      },
+      "options": [
+        "She avoided to answer the question.",
+        "She avoided answering the question.",
+        "She avoided answer the question.",
+        "She avoided to answering the question."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-020",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use the past continuous for a longer background action and the past simple for a short action that interrupts it: While she was cooking, the phone rang.",
+      "wrongReasons": {
+        "1": "'Was' needs '-ing' or a past participle; the short interruption is just 'rang'.",
+        "2": "The present perfect continuous does not fit a story in the past; use 'was cooking'.",
+        "3": "The continuous form needs the auxiliary 'was'."
+      },
+      "options": [
+        "While she was cooking dinner, the phone rang.",
+        "While she was cooking dinner, the phone was ring.",
+        "While she has been cooking dinner, the phone rang.",
+        "While she cooking dinner, the phone rang."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-021",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The future perfect (will have + past participle) shows an action complete before a future time: By the end of the year we will have saved enough.",
+      "wrongReasons": {
+        "0": "The word order is wrong; the future perfect is 'will have saved'.",
+        "1": "After 'have' use the past participle 'saved'.",
+        "2": "'Are having saved' is not a tense; use 'will have saved'."
+      },
+      "options": [
+        "By the end of the year, we will save have enough money for a car.",
+        "By the end of the year, we will have save enough money for a car.",
+        "By the end of the year, we are having saved enough money for a car.",
+        "By the end of the year, we will have saved enough money for a car."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-022",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Although' joins two clauses by itself, so we do not add 'but': Although he was tired, he kept working.",
+      "wrongReasons": {
+        "0": "Use either 'although' or 'but', never both in the same sentence.",
+        "1": "'Despite' is followed by a noun or -ing form, not a full clause.",
+        "3": "To join a contrasting clause use 'even though', not 'even' alone."
+      },
+      "options": [
+        "Although he was tired, but he kept working.",
+        "Despite he was tired, he kept working.",
+        "Although he was tired, he kept working.",
+        "Even he was tired, he kept working."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-023",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Unless' means 'if not', so the verb after it is positive and in the present: Unless it rains, we will go out.",
+      "wrongReasons": {
+        "0": "Do not use 'will' after 'unless', and do not add a negative because 'unless' is already negative.",
+        "2": "'Unless' already means 'if not', so 'doesn't' creates a double negative.",
+        "3": "After 'unless' we use the present simple to talk about the future, not 'will'."
+      },
+      "options": [
+        "Unless it won't rain, we will have the picnic in the park.",
+        "Unless it rains, we will have the picnic in the park.",
+        "Unless it doesn't rain, we will have the picnic in the park.",
+        "Unless it will rain, we will have the picnic in the park."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-024",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Reported negative commands use tell + person + not to + base form: The teacher told us not to use our phones.",
+      "wrongReasons": {
+        "1": "After 'to' we need the base form, and 'not' normally comes before 'to'.",
+        "2": "Imperatives like 'don't use' change to 'not to use' in reported speech.",
+        "3": "'Say' cannot be followed directly by the person; use 'told us'."
+      },
+      "options": [
+        "The teacher told us not to use our phones.",
+        "The teacher told us to not using our phones.",
+        "The teacher told us don't use our phones.",
+        "The teacher said us not to use our phones."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-025",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Which sentence is correct?",
+      "explanation": "We can say 'subject + is said to + infinitive' to report general opinions: She is said to be the best surgeon.",
+      "wrongReasons": {
+        "0": "The pattern 'is said' is followed by 'to' + infinitive, not the -ing form.",
+        "1": "This must be passive ('is said'), because other people say it about her.",
+        "2": "With a personal subject use 'is said to be'; 'It is said that...' needs 'It' as subject."
+      },
+      "options": [
+        "She is said being the best surgeon in the city.",
+        "She says to be the best surgeon in the city.",
+        "She is said that she is the best surgeon in the city.",
+        "She is said to be the best surgeon in the city."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-026",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Where' replaces 'in which', so no preposition is needed at the end: the town where I grew up.",
+      "wrongReasons": {
+        "0": "'Where' already includes the meaning of 'in', so the final 'in' is extra.",
+        "1": "With 'which' you need a preposition: 'which I grew up in' or 'in which I grew up'.",
+        "3": "Do not put a preposition before 'where'; say 'in which' or just 'where'."
+      },
+      "options": [
+        "This is the town where I grew up in.",
+        "This is the town which I grew up.",
+        "This is the town where I grew up.",
+        "This is the town in where I grew up."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-027",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Wish + would' expresses annoyance at someone else's behaviour: I wish you would stop interrupting me.",
+      "wrongReasons": {
+        "0": "'Will' is not used after 'wish'; to complain about behaviour use 'would'.",
+        "2": "After 'wish' the present simple 'stop' is wrong; use 'would stop'.",
+        "3": "After 'would' use the base form 'stop'."
+      },
+      "options": [
+        "I wish you will stop interrupting me.",
+        "I wish you would stop interrupting me.",
+        "I wish you stop interrupting me.",
+        "I wish you would stopping interrupting me."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-028",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Needn't have + past participle' means you did something that was not necessary: You needn't have bought milk.",
+      "wrongReasons": {
+        "1": "The modal 'needn't' is followed directly by 'have', without 'to'.",
+        "2": "'Didn't need' must be followed by 'to' + base form, e.g. 'didn't need to buy'.",
+        "3": "After a modal use 'have', not 'had'."
+      },
+      "options": [
+        "You needn't have bought any milk; we already had some.",
+        "You needn't to have bought any milk; we already had some.",
+        "You didn't need have bought any milk; we already had some.",
+        "You needn't had bought any milk; we already had some."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-029",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Manage' is followed by 'to' + infinitive: He managed to fix the computer.",
+      "wrongReasons": {
+        "0": "'Manage' takes 'to' + infinitive, not the -ing form.",
+        "1": "'Manage' needs 'to' before the verb.",
+        "2": "After the infinitive 'to' use the base form 'fix'."
+      },
+      "options": [
+        "He managed fixing the computer by himself.",
+        "He managed fix the computer by himself.",
+        "He managed to fixing the computer by himself.",
+        "He managed to fix the computer by himself."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-030",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The past perfect continuous shows how long an action had continued before a past moment: They had been walking for hours when they found a café.",
+      "wrongReasons": {
+        "0": "'Have been walking' is a present tense and does not match 'found'; use 'had been walking'.",
+        "1": "After 'had been' the verb needs the -ing form 'walking'.",
+        "3": "'Were been' is not a tense; use 'had been walking'."
+      },
+      "options": [
+        "They have been walking for hours when they finally found a café.",
+        "They had been walk for hours when they finally found a café.",
+        "They had been walking for hours when they finally found a café.",
+        "They were been walking for hours when they finally found a café."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-031",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use 'be going to' for predictions based on present evidence: Look at those clouds! It's going to rain.",
+      "wrongReasons": {
+        "0": "After 'will' use the base form 'rain', and evidence suggests 'going to'.",
+        "2": "After 'going to' use the base form 'rain'.",
+        "3": "The structure needs '-ing': 'It's going to rain'."
+      },
+      "options": [
+        "Look at those dark clouds! It will raining.",
+        "Look at those dark clouds! It's going to rain.",
+        "Look at those dark clouds! It's going to raining.",
+        "Look at those dark clouds! It's go to rain."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-032",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'So that' + subject + could/would expresses purpose in the past: She took a taxi so that she wouldn't be late.",
+      "wrongReasons": {
+        "1": "The expression is 'so as not to be late'; 'so as' is not followed by a clause.",
+        "2": "Purpose is not expressed with 'for not to'; use 'so as not to' or 'so that'.",
+        "3": "'In order that' needs a full clause with a subject and verb."
+      },
+      "options": [
+        "She took a taxi so that she wouldn't be late.",
+        "She took a taxi so as she wouldn't be late.",
+        "She took a taxi for not to be late.",
+        "She took a taxi in order that not be late."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-033",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "To ask about an imaginary situation, use would + base form and if + past simple: What would you do if you won?",
+      "wrongReasons": {
+        "0": "The two clauses are reversed: 'would' should not be in the if-clause, and 'will' does not match an unreal situation.",
+        "1": "'Will' is not used in the if-clause; the second conditional needs the past simple 'won'.",
+        "2": "'Had' must be followed by a past participle ('won'), and here the simple past 'won' is needed anyway."
+      },
+      "options": [
+        "What will you do if you would win the lottery?",
+        "What would you do if you will win the lottery?",
+        "What would you do if you had win the lottery?",
+        "What would you do if you won the lottery?"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-034",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Reported yes/no questions use 'if' or 'whether' + statement word order: She asked if I had finished.",
+      "wrongReasons": {
+        "0": "After 'if' use statement word order: 'if I had finished'.",
+        "1": "A reported yes/no question is introduced by 'if' or 'whether', not 'that'.",
+        "3": "Reported questions need 'if/whether', statement order and a backshifted tense."
+      },
+      "options": [
+        "She asked if had I finished the report.",
+        "She asked that I had finished the report.",
+        "She asked if I had finished the report.",
+        "She asked me have I finished the report."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-035",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Have something done' means someone else does a job for you: I had my car serviced.",
+      "wrongReasons": {
+        "0": "In 'have something done' the verb must be a past participle: 'serviced'.",
+        "2": "Do not use 'to be' in this pattern; just 'had my car serviced'.",
+        "3": "'Last week' is finished past time, so use 'had', not 'have'."
+      },
+      "options": [
+        "I had my car service last week.",
+        "I had my car serviced last week.",
+        "I had my car to be serviced last week.",
+        "I have my car serviced last week."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-036",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In formal English a preposition can go before 'whom': the scientist to whom the prize was given.",
+      "wrongReasons": {
+        "1": "The verb needs 'to' (given to someone), so the preposition is missing.",
+        "2": "'That' cannot follow a preposition; use 'to whom'.",
+        "3": "The preposition 'to' already appears before 'whom', so do not repeat it."
+      },
+      "options": [
+        "The scientist to whom the prize was given is only thirty.",
+        "The scientist whom the prize was given is only thirty.",
+        "The scientist to that the prize was given is only thirty.",
+        "The scientist to whom the prize was given to is only thirty."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-037",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'If only' + could expresses a wish about ability in the present: If only I could speak Spanish!",
+      "wrongReasons": {
+        "0": "For an unreal present wish, 'can' moves back to 'could'.",
+        "1": "Modal verbs like 'could' are followed by the base form without 'to'.",
+        "2": "Two modals cannot go together; 'could' alone expresses ability."
+      },
+      "options": [
+        "If only I can speak Spanish!",
+        "If only I could to speak Spanish!",
+        "If only I would can speak Spanish!",
+        "If only I could speak Spanish!"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-038",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Might have + past participle' expresses a possibility about the past: They might have taken the wrong road.",
+      "wrongReasons": {
+        "0": "After 'might' use the base form, and for the past use 'might have taken'.",
+        "1": "After 'have' use the past participle 'taken', not 'took'.",
+        "3": "Do not put 'to' after the modal 'might'."
+      },
+      "options": [
+        "They might took the wrong road.",
+        "They might have took the wrong road.",
+        "They might have taken the wrong road.",
+        "They might to have taken the wrong road."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-039",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the active, 'make' + object is followed by the base form without 'to': They made us wait.",
+      "wrongReasons": {
+        "0": "Active 'make' + object takes the base form without 'to'.",
+        "2": "The -ing form is not used after 'make' + object.",
+        "3": "The object comes directly after 'made', without 'to'."
+      },
+      "options": [
+        "They made us to wait for two hours.",
+        "They made us wait for two hours.",
+        "They made us waiting for two hours.",
+        "They made to us wait for two hours."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-040",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use the past perfect to give the earlier cause of a past situation: I didn't recognise him because he had grown a beard.",
+      "wrongReasons": {
+        "1": "The present perfect does not match the past 'didn't recognise'; use 'had grown'.",
+        "2": "The past participle of 'grow' is 'grown', not 'grew'.",
+        "3": "'Was grown' is passive; he did the action, so use 'had grown'."
+      },
+      "options": [
+        "I didn't recognise him because he had grown a beard.",
+        "I didn't recognise him because he has grown a beard.",
+        "I didn't recognise him because he had grew a beard.",
+        "I didn't recognise him because he was grown a beard."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-041",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The present simple is used for timetables and schedules: The train leaves at 7.15 tomorrow.",
+      "wrongReasons": {
+        "0": "With a singular subject the present simple needs -s: 'leaves'.",
+        "1": "'Is' cannot be followed by the base form; use 'leaves' or 'is leaving'.",
+        "2": "After 'will' use the base form 'leave'."
+      },
+      "options": [
+        "The train leave at 7.15 tomorrow morning.",
+        "The train is leave at 7.15 tomorrow morning.",
+        "The train will leaving at 7.15 tomorrow morning.",
+        "The train leaves at 7.15 tomorrow morning."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-042",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'In spite of' can be followed by an -ing form: In spite of having little money, they travelled.",
+      "wrongReasons": {
+        "0": "'In spite of' is followed by a noun or -ing form, not a clause.",
+        "1": "The word 'of' is missing from 'in spite of'.",
+        "3": "'Despite' does not take 'of'."
+      },
+      "options": [
+        "In spite of they had little money, they travelled around the world.",
+        "In spite having little money, they travelled around the world.",
+        "In spite of having little money, they travelled around the world.",
+        "Despite of having little money, they travelled around the world."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-043",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the third conditional the result clause is would have + past participle: it wouldn't have lost customers.",
+      "wrongReasons": {
+        "0": "The present perfect 'has invested' cannot introduce an unreal past result; use 'had invested'.",
+        "2": "'Won't have' does not express an imaginary past result; use 'wouldn't have'.",
+        "3": "After a modal like 'would' use the base form 'have', not 'had'."
+      },
+      "options": [
+        "If the company has invested in new technology, it wouldn't have lost so many customers.",
+        "If the company had invested in new technology, it wouldn't have lost so many customers.",
+        "If the company had invested in new technology, it won't have lost so many customers.",
+        "If the company had invested in new technology, it wouldn't had lost so many customers."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-044",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In reported speech 'will' usually becomes 'would' + base form: He said he would call me the next day.",
+      "wrongReasons": {
+        "1": "'Say' is not followed directly by a person; use 'He told me' or 'He said'.",
+        "2": "'Told' needs an object such as 'me' after it.",
+        "3": "After 'would' use the base form 'call', not the past form 'called'."
+      },
+      "options": [
+        "He said he would call me the next day.",
+        "He said me he would call me the next day.",
+        "He told he would call me the next day.",
+        "He said he would called me the next day."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-045",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The past modal passive is modal + have been + past participle: The documents should have been signed.",
+      "wrongReasons": {
+        "0": "Documents cannot sign anything, so the passive 'have been signed' is needed.",
+        "1": "'Yesterday' is past, so you need 'should have been signed'.",
+        "2": "After 'been' use the past participle 'signed'."
+      },
+      "options": [
+        "The documents should have signed yesterday.",
+        "The documents should be signed yesterday.",
+        "The documents should have been sign yesterday.",
+        "The documents should have been signed yesterday."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-046",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "To comment on a whole clause, use ', which': He failed the test, which surprised everyone.",
+      "wrongReasons": {
+        "0": "'That' cannot follow a comma to refer back to a whole idea.",
+        "1": "'What' is not used to refer back to a previous clause; use 'which'.",
+        "3": "'Who' refers to a person, but here the pronoun refers to the whole event."
+      },
+      "options": [
+        "He failed the driving test, that surprised everyone.",
+        "He failed the driving test, what surprised everyone.",
+        "He failed the driving test, which surprised everyone.",
+        "He failed the driving test, who surprised everyone."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-047",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'If only' + past perfect expresses regret about the past: If only we had booked earlier.",
+      "wrongReasons": {
+        "0": "The present perfect is not used after 'if only'; past regret needs 'had booked'.",
+        "2": "After 'would' a past form is impossible, and past regret needs 'had booked'.",
+        "3": "After 'had' use the past participle 'booked'."
+      },
+      "options": [
+        "If only we have booked the tickets earlier.",
+        "If only we had booked the tickets earlier.",
+        "If only we would booked the tickets earlier.",
+        "If only we had book the tickets earlier."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-048",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Should have + past participle' expresses criticism or regret about the past: We should have left earlier.",
+      "wrongReasons": {
+        "1": "'Of' is a spelling mistake for the sound of 'have'; write 'should have'.",
+        "2": "After 'have' you need the past participle 'left'.",
+        "3": "After 'should' use the base form 'have', not 'had'."
+      },
+      "options": [
+        "We should have left earlier.",
+        "We should of left earlier.",
+        "We should have leave earlier.",
+        "We should had left earlier."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-049",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Mind' is followed by the -ing form: Would you mind opening the window?",
+      "wrongReasons": {
+        "0": "'Mind' is followed by the -ing form, not 'to' + infinitive.",
+        "1": "The base form cannot follow 'mind'; use 'opening'.",
+        "2": "'If' must be followed by a clause, such as 'if I opened'."
+      },
+      "options": [
+        "Would you mind to open the window?",
+        "Would you mind open the window?",
+        "Would you mind if opening the window?",
+        "Would you mind opening the window?"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-050",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'By the time' + past simple is often followed by the past perfect: By the time the police arrived, the thieves had escaped.",
+      "wrongReasons": {
+        "0": "The present perfect does not fit a past story; use 'had escaped'.",
+        "1": "After 'had' you need the past participle 'escaped'.",
+        "3": "'Had arrive' is wrong; the earlier clause simply needs 'arrived'."
+      },
+      "options": [
+        "By the time the police arrived, the thieves have escaped.",
+        "By the time the police arrived, the thieves had escape.",
+        "By the time the police arrived, the thieves had escaped.",
+        "By the time the police had arrive, the thieves had escaped."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-051",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In time clauses with 'as soon as', 'when' or 'until' we use the present simple for the future: I'll tell her as soon as she arrives.",
+      "wrongReasons": {
+        "0": "Do not use 'will' in a time clause after 'as soon as'.",
+        "2": "'Would' does not fit a real future time clause; use the present simple.",
+        "3": "With 'she' the present simple needs -s: 'arrives'."
+      },
+      "options": [
+        "I'll tell her as soon as she will arrive.",
+        "I'll tell her as soon as she arrives.",
+        "I'll tell her as soon as she would arrive.",
+        "I'll tell her as soon as she arrive."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-052",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'However' can start a new sentence and is followed by a comma: The roads were icy. However, the bus arrived on time.",
+      "wrongReasons": {
+        "1": "'Although' joins two clauses and cannot stand alone with a comma.",
+        "2": "'Despite' needs a noun after it and cannot be used alone.",
+        "3": "'Even though' introduces a clause; it cannot be followed by a comma like 'however'."
+      },
+      "options": [
+        "The roads were icy. However, the bus arrived on time.",
+        "The roads were icy. Although, the bus arrived on time.",
+        "The roads were icy. Despite, the bus arrived on time.",
+        "The roads were icy. Even though, the bus arrived on time."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-053",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "In the second conditional the if-clause uses the past simple, even when it comes second: I would call him if I had his number.",
+      "wrongReasons": {
+        "0": "The if-clause should contain the past simple 'had', not 'would have'.",
+        "1": "'Will' does not match a past simple if-clause; an unreal situation needs 'would'.",
+        "2": "The present perfect 'have had' is not used in a second conditional if-clause."
+      },
+      "options": [
+        "I would call him if I would have his number.",
+        "I will call him if I had his number.",
+        "I would call him if I have had his number.",
+        "I would call him if I had his number."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-054",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Suggest' is followed by an -ing form or by a that-clause, not by an infinitive: Maria suggested going to the museum.",
+      "wrongReasons": {
+        "0": "'Suggest' is not followed by 'to' + infinitive; use '-ing' or 'that we go'.",
+        "1": "'Suggest' does not take the pattern object + infinitive; say 'suggested that we go'.",
+        "3": "After 'that' you need a full verb form such as 'we go' or 'we should go'."
+      },
+      "options": [
+        "Maria suggested to go to the new museum.",
+        "Maria suggested us to go to the new museum.",
+        "Maria suggested going to the new museum.",
+        "Maria suggested that we going to the new museum."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-055",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'It is believed that...' is an impersonal passive used for general beliefs: It is believed that the painting was stolen.",
+      "wrongReasons": {
+        "0": "'It' cannot believe anything; the impersonal structure is passive: 'It is believed'.",
+        "2": "The painting did not steal anything; it 'was stolen'.",
+        "3": "With 'It is believed' use a that-clause; the infinitive pattern needs 'The painting is believed to...'."
+      },
+      "options": [
+        "It believes that the painting was stolen in 1990.",
+        "It is believed that the painting was stolen in 1990.",
+        "It is believed that the painting stole in 1990.",
+        "It is believed the painting to have been stolen in 1990."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-056",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "When the relative pronoun is the object, it can be left out: The film we watched last night was moving.",
+      "wrongReasons": {
+        "1": "The relative clause already refers to the film, so do not add 'it'.",
+        "2": "'What' cannot follow a noun as a relative pronoun; use 'that', 'which' or nothing.",
+        "3": "'Who' is only for people, not for films."
+      },
+      "options": [
+        "The film we watched last night was really moving.",
+        "The film we watched it last night was really moving.",
+        "The film what we watched last night was really moving.",
+        "The film who we watched last night was really moving."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-057",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After 'wish', 'were' is used for all persons in careful English: I wish I were taller.",
+      "wrongReasons": {
+        "0": "After 'wish' the present 'am' changes to the past 'were'.",
+        "1": "'Wish' does not take 'will'; use the past form 'were'.",
+        "2": "'Been' needs an auxiliary; for the present use 'were', for the past 'had been'."
+      },
+      "options": [
+        "I wish I am taller.",
+        "I wish I will be taller.",
+        "I wish I been taller.",
+        "I wish I were taller."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-058",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Which sentence correctly says that wearing a suit is not necessary?",
+      "explanation": "'Don't have to' means something is not necessary, while 'mustn't' means it is forbidden: You don't have to wear a suit.",
+      "wrongReasons": {
+        "0": "'Mustn't' means it is forbidden, not that it is unnecessary.",
+        "1": "'Must' does not form negatives with 'don't'.",
+        "3": "The modal 'needn't' is followed by the base form without 'to'."
+      },
+      "options": [
+        "You mustn't wear a suit to the party.",
+        "You don't must wear a suit to the party.",
+        "You don't have to wear a suit to the party.",
+        "You needn't to wear a suit to the party."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-059",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Let' + object is followed by the base form without 'to': My parents let me stay out late.",
+      "wrongReasons": {
+        "0": "'Let' + object takes the base form without 'to'.",
+        "2": "The -ing form is not used after 'let' + object.",
+        "3": "'Allow' + object needs 'to': 'allowed me to stay'."
+      },
+      "options": [
+        "My parents let me to stay out late at weekends.",
+        "My parents let me stay out late at weekends.",
+        "My parents let me staying out late at weekends.",
+        "My parents allowed me stay out late at weekends."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-060",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The past perfect continuous explains the cause of a past result: She was tired because she had been working all day.",
+      "wrongReasons": {
+        "1": "The present perfect continuous does not match the past 'was tired'.",
+        "2": "After 'had been' use the -ing form 'working'.",
+        "3": "The continuous form needs 'been': 'had been working'."
+      },
+      "options": [
+        "She was tired because she had been working all day.",
+        "She was tired because she has been working all day.",
+        "She was tired because she had been work all day.",
+        "She was tired because she had working all day."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-061",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The present continuous is used for fixed future arrangements: We're meeting the clients on Thursday.",
+      "wrongReasons": {
+        "0": "The present continuous needs the auxiliary 'are'.",
+        "1": "After 'are' use the -ing form 'meeting'.",
+        "2": "After 'will' use the base form or 'be meeting'."
+      },
+      "options": [
+        "We meeting the clients on Thursday afternoon.",
+        "We're meet the clients on Thursday afternoon.",
+        "We'll meeting the clients on Thursday afternoon.",
+        "We're meeting the clients on Thursday afternoon."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-062",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'In case' is followed by the present simple to talk about a possible future event: Take a map in case you get lost.",
+      "wrongReasons": {
+        "0": "Do not use 'will' after 'in case'; use the present simple.",
+        "1": "'In case of' is followed by a noun; before a clause use 'in case'.",
+        "3": "'Would' does not fit a real precaution about the future; use 'get'."
+      },
+      "options": [
+        "Take a map in case you will get lost.",
+        "Take a map in case of you get lost.",
+        "Take a map in case you get lost.",
+        "Take a map in case you would get lost."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-063",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Provided that' works like 'if' and takes the present simple for future conditions: Provided that you return it, you can borrow it.",
+      "wrongReasons": {
+        "0": "Like 'if', 'provided that' is followed by the present simple, not 'will'.",
+        "2": "'Would' does not belong in a real condition introduced by 'provided that'.",
+        "3": "The past 'returned' does not match the real future result 'you can borrow it'."
+      },
+      "options": [
+        "Provided that you will return the car by Friday, you can borrow it.",
+        "Provided that you return the car by Friday, you can borrow it.",
+        "Provided that you would return the car by Friday, you can borrow it.",
+        "Provided that you returned the car by Friday, you can borrow it."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-064",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Indirect questions with 'whether' keep statement word order and often move the tense back: whether the flight had been cancelled.",
+      "wrongReasons": {
+        "1": "Indirect questions do not invert the subject and verb after 'whether'.",
+        "2": "Keep the subject before the verb in an indirect question: 'whether the flight was'.",
+        "3": "A flight is cancelled by someone, so the passive 'had been cancelled' is needed."
+      },
+      "options": [
+        "They wanted to know whether the flight had been cancelled.",
+        "They wanted to know whether had the flight been cancelled.",
+        "They wanted to know whether was the flight cancelled.",
+        "They wanted to know whether the flight had cancelled."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-065",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The past simple passive is was/were + past participle, and the doer is introduced by 'by': It was opened by the mayor.",
+      "wrongReasons": {
+        "0": "Without 'was' this is not a complete passive sentence.",
+        "1": "The hospital did not do the opening, so use the past participle 'opened'.",
+        "2": "In the passive the person who does the action is introduced by 'by', not 'from'."
+      },
+      "options": [
+        "The new hospital opened by the mayor in May.",
+        "The new hospital was opening by the mayor in May.",
+        "The new hospital was opened from the mayor in May.",
+        "The new hospital was opened by the mayor in May."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-066",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After 'everything', 'anything' and 'nothing' we use 'that' (or no pronoun), not 'what': Everything that she said was true.",
+      "wrongReasons": {
+        "0": "'What' already means 'the thing that', so it cannot follow 'everything'.",
+        "1": "The pronoun 'it' repeats the object, which the relative pronoun already replaces.",
+        "3": "'Who' is for people; 'everything' refers to things."
+      },
+      "options": [
+        "Everything what she said was true.",
+        "Everything which she said it was true.",
+        "Everything that she said was true.",
+        "Everything who she said was true."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-067",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Which sentence is correct?",
+      "explanation": "With 'wish', 'can' becomes 'could' + base form: He wishes he could find a better job.",
+      "wrongReasons": {
+        "0": "After 'wish', 'can' moves back to 'could'.",
+        "2": "After 'could' use the base form 'find', without -s.",
+        "3": "Do not put 'to' after the modal 'could'."
+      },
+      "options": [
+        "He wishes he can find a better job.",
+        "He wishes he could find a better job.",
+        "He wishes he could finds a better job.",
+        "He wishes he could to find a better job."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-068",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'May not have + past participle' says it is possible that something did not happen: She may not have received my email.",
+      "wrongReasons": {
+        "1": "After 'may not' you need 'have' + past participle for a past possibility.",
+        "2": "The negative goes after the modal: 'may not have', not 'may haven't'.",
+        "3": "After a modal use the base form 'have', not 'has'."
+      },
+      "options": [
+        "She may not have received my email yet.",
+        "She may not received my email yet.",
+        "She may haven't received my email yet.",
+        "She may not has received my email yet."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-069",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After a preposition we use the -ing form: She is interested in learning photography.",
+      "wrongReasons": {
+        "0": "The adjective 'interested' goes with the preposition 'in'.",
+        "1": "After the preposition 'in' use the -ing form 'learning'.",
+        "2": "The correct preposition is 'in', not 'on'."
+      },
+      "options": [
+        "She is interested to learning photography.",
+        "She is interested in learn photography.",
+        "She is interested on learning photography.",
+        "She is interested in learning photography."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-070",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After 'as soon as' the past perfect can show that one action was completed before the next: As soon as we had finished lunch, we went for a walk.",
+      "wrongReasons": {
+        "0": "The present perfect does not match the past simple 'went'.",
+        "1": "After 'had' use the past participle 'finished'.",
+        "3": "The second action is the main event, so use the past simple 'went'."
+      },
+      "options": [
+        "As soon as we have finished lunch, we went for a walk.",
+        "As soon as we had finish lunch, we went for a walk.",
+        "As soon as we had finished lunch, we went for a walk.",
+        "As soon as we had finished lunch, we had go for a walk."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-071",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Be about to' + base form means something will happen very soon: She is about to start her new job.",
+      "wrongReasons": {
+        "0": "The expression is 'be about to' + base form, not the -ing form.",
+        "2": "'To' is needed in 'be about to'.",
+        "3": "After 'to' use the base form 'start'."
+      },
+      "options": [
+        "She is about starting her new job.",
+        "She is about to start her new job.",
+        "She is about start her new job.",
+        "She is about to starting her new job."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-072",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Even though' introduces a strong contrast and is followed by a clause: He didn't get the job, even though he had excellent qualifications.",
+      "wrongReasons": {
+        "1": "'Even' alone cannot join two clauses; use 'even though'.",
+        "2": "'Despite' needs a noun or -ing form, e.g. 'despite having'.",
+        "3": "'Even though' is followed by a clause, not 'of' + noun."
+      },
+      "options": [
+        "He didn't get the job, even though he had excellent qualifications.",
+        "He didn't get the job, even he had excellent qualifications.",
+        "He didn't get the job, despite he had excellent qualifications.",
+        "He didn't get the job, even though of his excellent qualifications."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-073",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "To give advice we often say 'If I were you, I would...': If I were you, I would apologise.",
+      "wrongReasons": {
+        "0": "This situation is imaginary, so use the past form 'were', not 'am'.",
+        "1": "An imaginary situation needs 'would' in the result clause, not 'will'.",
+        "2": "The result clause needs 'would' + base form: 'I would apologise'."
+      },
+      "options": [
+        "If I am you, I would apologise to her.",
+        "If I was you, I will apologise to her.",
+        "If I were you, I apologise to her.",
+        "If I were you, I would apologise to her."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-074",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Admit' is followed by an -ing form or by a that-clause: He admitted breaking the window.",
+      "wrongReasons": {
+        "0": "'Admit' is not followed by 'to' + base form; use 'admitted breaking' or 'admitted to breaking'.",
+        "1": "'Admit' does not take a person as direct object; say 'admitted to me' or just 'admitted'.",
+        "3": "The base form cannot follow 'admit'; use the -ing form 'breaking'."
+      },
+      "options": [
+        "He admitted to break the window.",
+        "He admitted me that he broke the window.",
+        "He admitted breaking the window.",
+        "He admitted break the window."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-075",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Which sentence is correct?",
+      "explanation": "The present perfect passive is has/have + been + past participle: My phone has been stolen.",
+      "wrongReasons": {
+        "0": "The phone did not steal anything; you need the passive 'has been stolen'.",
+        "2": "After 'been' you need the past participle 'stolen'.",
+        "3": "'Been' follows 'has/have', not 'is'."
+      },
+      "options": [
+        "My phone has stolen!",
+        "My phone has been stolen!",
+        "My phone has been steal!",
+        "My phone is been stolen!"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-076",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After 'the reason' we use 'why' or 'that' to introduce the relative clause: The reason why she left is a mystery.",
+      "wrongReasons": {
+        "1": "'Because' is not a relative pronoun; after 'the reason' use 'why' or 'that'.",
+        "2": "'Which' does not work here without a preposition; use 'why'.",
+        "3": "'Where' refers to places, not to reasons."
+      },
+      "options": [
+        "The reason why she left is still a mystery.",
+        "The reason because she left is still a mystery.",
+        "The reason which she left is still a mystery.",
+        "The reason where she left is still a mystery."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-077",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Wish + would' is used for things we want to change but cannot control, like the weather: I wish it would stop raining.",
+      "wrongReasons": {
+        "0": "'Wish' is not followed by the present simple; use 'would stop'.",
+        "1": "'Will' does not follow 'wish'; use 'would' or say 'I hope it stops'.",
+        "2": "'Would' must be followed by the base form 'stop'."
+      },
+      "options": [
+        "I wish it stops raining.",
+        "I wish it will stop raining.",
+        "I wish it would stopped raining.",
+        "I wish it would stop raining."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-078",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Had better' is followed by the base form without 'to': You had better take an umbrella.",
+      "wrongReasons": {
+        "0": "'Had better' is followed by the base form without 'to'.",
+        "1": "The -ing form cannot follow 'had better'.",
+        "3": "The expression is fixed: 'had better', not 'have better'."
+      },
+      "options": [
+        "You had better to take an umbrella.",
+        "You had better taking an umbrella.",
+        "You had better take an umbrella.",
+        "You have better take an umbrella."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-079",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Decide' takes 'to' + infinitive, and the negative is 'decide not to': We decided not to go.",
+      "wrongReasons": {
+        "0": "After 'to' use the base form 'go', and put 'not' before 'to'.",
+        "2": "'Decide' is followed by 'to' + infinitive, not the -ing form.",
+        "3": "Do not use 'don't' after 'decide'; the negative is 'not to go'."
+      },
+      "options": [
+        "We decided to not going to the concert.",
+        "We decided not to go to the concert.",
+        "We decided not going to the concert.",
+        "We decided don't go to the concert."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-080",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "After 'It was the first time' we use the past perfect: It was the first time I had ever seen snow.",
+      "wrongReasons": {
+        "1": "After 'It was the first time', the present perfect changes to the past perfect.",
+        "2": "After 'had' use the past participle 'seen', not 'saw'.",
+        "3": "This expression needs the past perfect 'had seen', not the past continuous."
+      },
+      "options": [
+        "It was the first time I had ever seen snow.",
+        "It was the first time I have ever seen snow.",
+        "It was the first time I had ever saw snow.",
+        "It was the first time I was ever seeing snow."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-081",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Which sentence is correct?",
+      "explanation": "We use 'will' for promises and offers made at the moment of speaking: I promise I'll help you later.",
+      "wrongReasons": {
+        "0": "After 'will' use the base form 'help'.",
+        "1": "'Going' must be followed by 'to': 'going to help'.",
+        "2": "Do not put 'to' after 'will'."
+      },
+      "options": [
+        "I promise I'll helping you with your homework later.",
+        "I promise I'm going help you with your homework later.",
+        "I promise I will to help you with your homework later.",
+        "I promise I'll help you with your homework later."
+      ],
+      "correct": 3
+    },
+    {
+      "id": "b2-sc-082",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Whereas' contrasts two facts and joins them by itself: Whereas my brother loves sport, I prefer reading.",
+      "wrongReasons": {
+        "0": "'Whereas' already joins the clauses, so 'but' is extra.",
+        "1": "'Despite' cannot be followed by a full clause.",
+        "3": "'Whereas' is followed by a clause, not 'of' + noun."
+      },
+      "options": [
+        "Whereas my brother loves sport, but I prefer reading.",
+        "Despite my brother loves sport, I prefer reading.",
+        "Whereas my brother loves sport, I prefer reading.",
+        "Whereas of my brother loving sport, I prefer reading."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "b2-sc-083",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Phrasal verbs keep their particle in the passive: The children are being looked after by their grandparents.",
+      "wrongReasons": {
+        "0": "The phrasal verb is 'look after', so 'after' must stay in the passive.",
+        "2": "The children receive the care, so the verb must be passive: 'are being looked after'.",
+        "3": "After 'are' you need 'being' for the continuous passive, not 'be'."
+      },
+      "options": [
+        "The children are being looked by their grandparents.",
+        "The children are being looked after by their grandparents.",
+        "The children are looking after by their grandparents.",
+        "The children are be looked after by their grandparents."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "b2-sc-084",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use 'who' for people in defining relative clauses, followed by the base form after a modal: anyone who can speak Japanese.",
+      "wrongReasons": {
+        "1": "'Which' is for things; 'anyone' is a person, so use 'who'.",
+        "2": "After the modal 'can' the verb stays in the base form 'speak'.",
+        "3": "'Whose' shows possession and must be followed by a noun."
+      },
+      "options": [
+        "Is there anyone here who can speak Japanese?",
+        "Is there anyone here which can speak Japanese?",
+        "Is there anyone here who can speaks Japanese?",
+        "Is there anyone here whose can speak Japanese?"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "b2-sc-085",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Which sentence is correct?",
+      "explanation": "'Due to' is followed by a noun phrase and gives the reason: The museum was closed due to a power cut.",
+      "wrongReasons": {
+        "0": "The expression is 'due to'; the word 'to' is missing.",
+        "1": "'Due to' needs a noun phrase, not a full clause.",
+        "2": "'Because' needs a clause; before a noun use 'because of'."
+      },
+      "options": [
+        "The museum was closed due a power cut.",
+        "The museum was closed due to there was a power cut.",
+        "The museum was closed because a power cut.",
+        "The museum was closed due to a power cut."
+      ],
+      "correct": 3
     }
   ]
 }

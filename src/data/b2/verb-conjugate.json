@@ -37,6 +37,3040 @@
           "stealing"
         ]
       ]
+    },
+    {
+      "id": "b2-vc-003",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Third conditional: if + past perfect, then would have + past participle. Example: If I had known, I would have called.",
+      "wrongReasons": {
+        "left": "This is about an unreal past, so the if-clause needs the past perfect, not the past simple.",
+        "would have left": "Do not use 'would have' in the if-clause; use 'had' + past participle."
+      },
+      "text": "If we ___ (leave) earlier, we wouldn't have missed the last train.",
+      "answers": [
+        [
+          "had left",
+          "'d left"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-004",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Mixed conditional: a past condition (if + past perfect) with a present result (would + verb). Example: If I had saved money, I would be rich now.",
+      "wrongReasons": {
+        "didn't cut": "The cut happened in the past, so the if-clause needs the past perfect 'hadn't cut'.",
+        "wouldn't cut": "'Would' does not go in the if-clause."
+      },
+      "text": "If the council ___ (not / cut) the budget, the library would still be open today.",
+      "answers": [
+        [
+          "hadn't cut",
+          "had not cut"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-005",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Third conditional result clause: would have + past participle. Example: We would have won if we had played better.",
+      "wrongReasons": {
+        "would accept": "The condition is in the past (had been), so the result needs 'would have' + past participle.",
+        "had accepted": "The result clause needs 'would have accepted', not the past perfect."
+      },
+      "text": "She ___ (accept) the job offer if the salary had been higher.",
+      "answers": [
+        [
+          "would have accepted",
+          "'d have accepted"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-006",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Zero conditional for facts: if + present simple, present simple. Example: If you heat butter, it melts.",
+      "wrongReasons": {
+        "reached": "This is a general scientific fact, so use the present simple, not the past.",
+        "will reach": "In a zero conditional the if-clause uses the present simple, not 'will'."
+      },
+      "text": "If water ___ (reach) 100 degrees Celsius, it boils.",
+      "answers": [
+        [
+          "reaches"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-007",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'unless' (= if not) we use a present tense to talk about the future. Example: Unless you hurry, you will be late.",
+      "wrongReasons": {
+        "will stop": "After 'unless' we use the present simple for the future, not 'will'.",
+        "doesn't stop": "'Unless' already means 'if not', so do not add another negative."
+      },
+      "text": "Unless the rain ___ (stop) soon, the match will be cancelled.",
+      "answers": [
+        [
+          "stops"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-008",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Second conditional for unreal present situations: if + past simple, could/would + verb. Example: If I had wings, I could fly.",
+      "wrongReasons": {
+        "has": "He does not have a car, so this is unreal; the if-clause needs the past simple.",
+        "would have": "'Would' does not go in the if-clause of a second conditional."
+      },
+      "text": "If he ___ (have) a car, he could drive us to the airport tonight.",
+      "answers": [
+        [
+          "had"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-009",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Provided that' works like 'if' and is followed by a present tense for a real future condition. Example: Provided that it is sunny, we will go out.",
+      "wrongReasons": {
+        "will return": "After 'provided that' use the present simple, not 'will'.",
+        "returned": "The main clause is 'you can', a real condition, so use the present simple, not the past."
+      },
+      "text": "Provided that you ___ (return) the book by Friday, you can borrow it.",
+      "answers": [
+        [
+          "return"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-010",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Third conditional: if + past perfect for an unreal past condition. Example: If she had checked, she would have seen the error.",
+      "wrongReasons": {
+        "tested": "The result is 'would have noticed', so the if-clause needs the past perfect.",
+        "would test": "'Would' is not used in the if-clause, and the situation is in the past."
+      },
+      "text": "If the scientists ___ (test) the vaccine more carefully, they would have noticed the side effects.",
+      "answers": [
+        [
+          "had tested",
+          "'d tested"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-011",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Second conditional for imaginary situations: if + past simple, would + verb. Example: If I won a prize, I would share it.",
+      "wrongReasons": {
+        "find": "This is an imaginary situation, so the if-clause needs the past simple.",
+        "would find": "Do not put 'would' in the if-clause."
+      },
+      "text": "What would you do if you ___ (find) a wallet full of cash in the street?",
+      "answers": [
+        [
+          "found"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-012",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Third conditional result: wouldn't have + past participle. Example: I wouldn't have fallen if I had been careful.",
+      "wrongReasons": {
+        "wouldn't get": "The situation is in the past, so use 'wouldn't have' + past participle.",
+        "hadn't got": "The result clause needs 'would', not the past perfect."
+      },
+      "text": "We ___ (not / get) lost if we had brought a map.",
+      "answers": [
+        [
+          "wouldn't have got",
+          "would not have got",
+          "wouldn't have gotten",
+          "would not have gotten"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-013",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'As long as' means 'only if' and takes a present tense for the future. Example: As long as you practise, you will improve.",
+      "wrongReasons": {
+        "will work": "After 'as long as' use the present simple, not 'will'.",
+        "worked": "The main clause is about the real future (will finish), so the condition uses the present simple."
+      },
+      "text": "As long as the team ___ (work) together, we will finish the project on time.",
+      "answers": [
+        [
+          "works",
+          "work"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-014",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Mixed conditional: a past condition with a present result uses would + verb. Example: If I had learned Spanish, I would speak it now.",
+      "wrongReasons": {
+        "would have lived": "'Now' shows a present result, so use 'would' + verb, not 'would have'.",
+        "will live": "This is an unreal situation, so use 'would', not 'will'."
+      },
+      "text": "If I had taken that job in Canada, I ___ (live) in Toronto now.",
+      "answers": [
+        [
+          "would be living",
+          "'d be living",
+          "would live",
+          "'d live"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-015",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Mixed conditional: if + past perfect, would + verb for a result in the present. Example: If he hadn't moved, he would be our neighbour now.",
+      "wrongReasons": {
+        "would have been": "'Now' refers to the present, so the result is 'would be', not 'would have been'.",
+        "will be": "The situation is unreal, so use 'would', not 'will'."
+      },
+      "text": "If she hadn't missed the flight, she ___ (be) here with us now.",
+      "answers": [
+        [
+          "would be",
+          "'d be"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-016",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Should you + verb' is a formal way to say 'if you + verb'. Example: Should you have any questions, please ask.",
+      "wrongReasons": {
+        "needs": "After 'should' use the base form of the verb, without -s.",
+        "to need": "After 'should' do not use 'to'."
+      },
+      "text": "Should you ___ (need) any help with the software, please call our support team.",
+      "answers": [
+        [
+          "need"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-017",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Second conditional: if + past simple, would + verb for an unreal present situation. Example: If the shop sold bread, I would go there.",
+      "wrongReasons": {
+        "opens": "The result uses 'would', so the if-clause needs the past simple.",
+        "would open": "'Would' does not go in the if-clause."
+      },
+      "text": "If the museum ___ (open) on Mondays, more tourists would visit it.",
+      "answers": [
+        [
+          "opened"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-018",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'On condition that' is like 'if' and takes a present tense for a future condition. Example: You can go on condition that you call me.",
+      "wrongReasons": {
+        "won't install": "After 'on condition that' use the present simple, not 'will'.",
+        "didn't install": "The main clause 'I'll lend' is real and future, so use the present simple."
+      },
+      "text": "I'll lend you my laptop on condition that you ___ (not / install) any games on it.",
+      "answers": [
+        [
+          "don't install",
+          "do not install"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-019",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Third conditional: if + past perfect, would have + past participle. Example: If we had seen the sign, we would have stopped.",
+      "wrongReasons": {
+        "saw": "The result is 'would have braked', so the if-clause needs the past perfect.",
+        "would see": "Do not use 'would' in the if-clause of a third conditional."
+      },
+      "text": "If the driver ___ (see) the cyclist in time, he would have braked.",
+      "answers": [
+        [
+          "had seen",
+          "'d seen"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-020",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "First conditional: if + present simple, will + verb for a real future possibility. Example: If you don't hurry, you will miss the bus.",
+      "wrongReasons": {
+        "won't water": "In a first conditional the if-clause uses the present simple, not 'will'.",
+        "didn't water": "The main clause uses 'will', so the if-clause needs the present simple, not the past."
+      },
+      "text": "Your plants will die if you ___ (not / water) them regularly.",
+      "answers": [
+        [
+          "don't water",
+          "do not water"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-021",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Mixed conditional: if + past perfect for a past condition, would + verb for a present result. Example: If I had slept well, I wouldn't be tired now.",
+      "wrongReasons": {
+        "invested": "'Ten years ago' is an unreal past condition, so use the past perfect.",
+        "would have invested": "'Would' does not go in the if-clause."
+      },
+      "text": "If the company ___ (invest) in new technology ten years ago, it wouldn't be in trouble now.",
+      "answers": [
+        [
+          "had invested"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-022",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Suppose' works like 'if'; with an imaginary situation it takes the past simple. Example: Suppose you lost your phone, what would you do?",
+      "wrongReasons": {
+        "win": "The main clause uses 'would', so this is imaginary and needs the past simple.",
+        "would win": "Do not use 'would' after 'suppose' in the condition."
+      },
+      "text": "Suppose you ___ (win) the lottery, what would you buy first?",
+      "answers": [
+        [
+          "won"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-023",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Zero conditional for things that are always true: if + present simple, present simple. Example: If you press this button, the light comes on.",
+      "wrongReasons": {
+        "mixed": "This is always true, so use the present simple, not the past.",
+        "will mix": "In a zero conditional, do not use 'will' in the if-clause."
+      },
+      "text": "If you ___ (mix) red and blue, you get purple.",
+      "answers": [
+        [
+          "mix"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-024",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In reported speech the present perfect usually moves back to the past perfect. Example: \"I've eaten.\" → He said he had eaten.",
+      "wrongReasons": {
+        "has already seen": "After the past verb 'said', the present perfect moves back to the past perfect.",
+        "already saw": "The original uses the present perfect, so report it with the past perfect 'had seen'."
+      },
+      "text": "\"I have already seen this film,\" Anna said. → Anna said she ___ (already / see) that film.",
+      "answers": [
+        [
+          "had already seen",
+          "'d already seen"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-025",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In reported speech 'will' changes to 'would'. Example: \"I'll help.\" → She said she would help.",
+      "wrongReasons": {
+        "will finish": "After a past reporting verb, 'will' changes to 'would'.",
+        "finished": "The original talks about the future with 'will', so use 'would finish'."
+      },
+      "text": "\"We will finish the report tomorrow,\" they said. → They said they ___ (finish) the report the next day.",
+      "answers": [
+        [
+          "would finish",
+          "'d finish"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-026",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present continuous moves back to the past continuous in reported speech. Example: \"I'm working.\" → He said he was working.",
+      "wrongReasons": {
+        "am coming": "After 'asked', the present continuous moves back to the past continuous.",
+        "came": "The original question is continuous, so keep the continuous form: 'was coming'."
+      },
+      "text": "\"Are you coming to the party?\" she asked me. → She asked me if I ___ (come) to the party.",
+      "answers": [
+        [
+          "was coming"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-027",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In reported speech 'can' changes to 'could'. Example: \"I can swim.\" → She said she could swim.",
+      "wrongReasons": {
+        "can speak": "After a past reporting verb, 'can' changes to 'could'.",
+        "speak": "You need the modal 'could' to report the original 'can'."
+      },
+      "text": "\"Can you speak Japanese?\" the interviewer asked. → The interviewer asked if I ___ (can / speak) Japanese.",
+      "answers": [
+        [
+          "could speak"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-028",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Advise someone' is followed by 'to' + verb. Example: She advised him to rest.",
+      "wrongReasons": {
+        "cutting": "'Advise someone' is followed by the infinitive with 'to', not the -ing form.",
+        "cut": "You need 'to' before the verb after 'advise me'."
+      },
+      "text": "The doctor advised me ___ (cut) down on sugar.",
+      "answers": [
+        [
+          "to cut"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-029",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Suggest' is followed by the -ing form or by 'that' + clause, never by 'to' + verb. Example: She suggested going for a walk.",
+      "wrongReasons": {
+        "to take": "'Suggest' is never followed by the infinitive with 'to'.",
+        "take": "After 'suggest' use the -ing form (or 'that we take'), not the bare verb."
+      },
+      "text": "Tom suggested ___ (take) a taxi because it was raining heavily.",
+      "answers": [
+        [
+          "taking",
+          "that we take",
+          "that we should take",
+          "we take",
+          "we should take"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-030",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Apologise for' is followed by the -ing form, because 'for' is a preposition. Example: He apologised for breaking the vase.",
+      "wrongReasons": {
+        "be": "After the preposition 'for' the verb must take the -ing form.",
+        "to be": "'Apologise for' cannot be followed by 'to' + verb."
+      },
+      "text": "She apologised for ___ (be) late for the meeting.",
+      "answers": [
+        [
+          "being"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-031",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In reported speech the present continuous becomes the past continuous. Example: \"I'm leaving.\" → She said she was leaving.",
+      "wrongReasons": {
+        "is meeting": "After 'said', move the present continuous back to the past continuous.",
+        "met": "The original is a continuous arrangement, so keep the continuous form: 'was meeting'."
+      },
+      "text": "\"I'm meeting the clients this afternoon,\" said Lucy. → Lucy said she ___ (meet) the clients that afternoon.",
+      "answers": [
+        [
+          "was meeting"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-032",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In reported questions the present perfect moves back to the past perfect. Example: \"How long have you worked here?\" → She asked how long I had worked there.",
+      "wrongReasons": {
+        "have lived": "In a reported question after 'asked', the present perfect moves back to the past perfect.",
+        "lived": "The original question uses the present perfect ('How long have you lived...?'), so use the past perfect."
+      },
+      "text": "My neighbour asked me how long I ___ (live) in the town.",
+      "answers": [
+        [
+          "had lived",
+          "'d lived",
+          "had been living",
+          "'d been living"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-033",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "To report a negative order, use 'tell someone not to' + verb. Example: He told me not to shout.",
+      "wrongReasons": {
+        "don't use": "Reported orders use 'not to' + verb, not the imperative 'don't'.",
+        "not using": "After 'told someone' use 'not to' + verb, not the -ing form."
+      },
+      "text": "The teacher told the students ___ (not / use) their phones during the test.",
+      "answers": [
+        [
+          "not to use"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-034",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "When we report a promise with 'will', it changes to 'would'. Example: \"I'll write.\" → She promised she would write.",
+      "wrongReasons": {
+        "will call": "After the past verb 'promised', 'will' becomes 'would'.",
+        "called": "The promise is about the future, so use 'would call', not the past simple."
+      },
+      "text": "\"I will call you when I land,\" Mark promised. → Mark promised that he ___ (call) me when he landed.",
+      "answers": [
+        [
+          "would call",
+          "'d call"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-035",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Deny' is followed by the -ing form (or 'having' + past participle). Example: She denied taking the money.",
+      "wrongReasons": {
+        "to break": "'Deny' is not followed by 'to' + verb.",
+        "broke": "After 'deny' use the -ing form, not the past simple."
+      },
+      "text": "The suspect denied ___ (break) into the warehouse.",
+      "answers": [
+        [
+          "breaking",
+          "having broken"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-036",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Warn someone not to' + verb reports a negative warning. Example: She warned us not to go near the edge.",
+      "wrongReasons": {
+        "don't touch": "Reported warnings use 'not to' + verb, not the imperative.",
+        "not touching": "'Warn someone' is followed by 'not to' + verb, not the -ing form."
+      },
+      "text": "\"Don't touch the paintings!\" the guard said to the children. → The guard warned the children ___ (not / touch) the paintings.",
+      "answers": [
+        [
+          "not to touch"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-037",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In reported questions the present perfect moves back to the past perfect. Example: \"Have you finished?\" → He asked if I had finished.",
+      "wrongReasons": {
+        "has arrived": "After 'asked', move the present perfect back to the past perfect.",
+        "arrived": "The original uses the present perfect with 'yet', so report it with the past perfect."
+      },
+      "text": "\"Has the parcel arrived yet?\" she asked. → She asked whether the parcel ___ (arrive) yet.",
+      "answers": [
+        [
+          "had arrived"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-038",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In reported speech the present continuous changes to the past continuous. Example: \"We're getting married.\" → They said they were getting married.",
+      "wrongReasons": {
+        "are moving": "After 'told me', the present continuous moves back to the past continuous.",
+        "moved": "The original is a future plan in the present continuous, so use 'were moving'."
+      },
+      "text": "\"We are moving to Spain next year,\" my cousins told me. → My cousins told me they ___ (move) to Spain the following year.",
+      "answers": [
+        [
+          "were moving"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-039",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Insist on' is followed by the -ing form. Example: She insisted on driving us home.",
+      "wrongReasons": {
+        "to pay": "After the preposition 'on' we cannot use 'to' + verb.",
+        "pay": "After 'insist on' the verb needs the -ing form."
+      },
+      "text": "Jack insisted on ___ (pay) for the meal.",
+      "answers": [
+        [
+          "paying"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-040",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In reported questions 'will' becomes 'would'. Example: \"Will you come?\" → She asked if I would come.",
+      "wrongReasons": {
+        "will be": "After 'asked', 'will' changes to 'would'.",
+        "was": "The question was about the future, so use 'would be', not the past simple."
+      },
+      "text": "\"Will the train be late?\" a passenger asked. → A passenger asked if the train ___ (be) late.",
+      "answers": [
+        [
+          "would be"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-041",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect continuous moves back to the past perfect continuous. Example: \"I've been waiting.\" → He said he had been waiting.",
+      "wrongReasons": {
+        "has been working": "After 'said', the present perfect continuous moves back to the past perfect continuous.",
+        "was working": "The original shows duration up to the moment of speaking, so use 'had been working'."
+      },
+      "text": "\"I've been working on this novel for two years,\" the author said. → The author said she ___ (work) on that novel for two years.",
+      "answers": [
+        [
+          "had been working",
+          "'d been working",
+          "had worked",
+          "'d worked"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-042",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Remind someone' is followed by 'to' + verb. Example: He reminded me to buy milk.",
+      "wrongReasons": {
+        "locking": "'Remind someone' is followed by 'to' + verb, not the -ing form.",
+        "lock": "You need 'to' before the verb after 'reminded me'."
+      },
+      "text": "Emma reminded me ___ (lock) the back door before leaving.",
+      "answers": [
+        [
+          "to lock"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-043",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In reported questions the present continuous becomes the past continuous, with normal word order. Example: \"Where are you going?\" → She asked where I was going.",
+      "wrongReasons": {
+        "am doing": "After 'asked', move the present continuous back to the past continuous.",
+        "did": "The original question is continuous, so you need 'was doing'."
+      },
+      "text": "\"What are you doing in my office?\" the boss asked. → The boss asked what I ___ (do) in his office.",
+      "answers": [
+        [
+          "was doing"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-044",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "reported-speech",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Admit' is followed by the -ing form (or 'having' + past participle). Example: He admitted breaking the window.",
+      "wrongReasons": {
+        "to make": "'Admit' is not normally followed by 'to' + verb.",
+        "make": "After 'admit' use the -ing form, not the base form."
+      },
+      "text": "The lawyer admitted ___ (make) a serious mistake.",
+      "answers": [
+        [
+          "making",
+          "having made"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-045",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future passive: will be + past participle. Example: The results will be published tomorrow.",
+      "wrongReasons": {
+        "will open": "The bridge does not open itself; the mayor opens it, so use the passive.",
+        "is opened": "'Next month' refers to the future, so use 'will be opened'."
+      },
+      "text": "The new bridge ___ (open) by the mayor next month.",
+      "answers": [
+        [
+          "will be opened",
+          "is going to be opened",
+          "is to be opened"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-046",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past simple passive: was/were + past participle. Example: The letters were sent yesterday.",
+      "wrongReasons": {
+        "arrested": "The thieves did not arrest someone; someone arrested them, so use the passive.",
+        "have been arrested": "'Last night' is finished past time, so use the past simple, not the present perfect."
+      },
+      "text": "The thieves ___ (arrest) last night outside the bank.",
+      "answers": [
+        [
+          "were arrested"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-047",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Present perfect passive: has/have been + past participle; 'yet' goes with the present perfect. Example: The room hasn't been cleaned yet.",
+      "wrongReasons": {
+        "wasn't written": "'Yet' goes with the present perfect, not the past simple.",
+        "hasn't written": "A report cannot write; it is written by someone, so use 'been written'."
+      },
+      "text": "This report ___ (not / write) yet, so we can't send it to the client.",
+      "answers": [
+        [
+          "hasn't been written",
+          "has not been written"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-048",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Present continuous passive: is/are being + past participle. Example: The house is being painted.",
+      "wrongReasons": {
+        "is repaired": "'At the moment' shows an action in progress, so use 'is being repaired'.",
+        "is repairing": "The road does not repair anything; it is repaired by workers, so use the passive."
+      },
+      "text": "The road is closed because it ___ (repair) at the moment.",
+      "answers": [
+        [
+          "is being repaired"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-049",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past perfect passive: had been + past participle, for an action before another past moment. Example: When I arrived, the cake had been eaten.",
+      "wrongReasons": {
+        "had sold": "The tickets did not sell anything; they were sold, so you need 'had been sold'.",
+        "were sold": "'By the time' shows the selling happened before we arrived, so use the past perfect passive."
+      },
+      "text": "By the time we reached the box office, the last tickets ___ (sell) to a tour group.",
+      "answers": [
+        [
+          "had been sold"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-050",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past simple passive: was/were + past participle, often with 'by' + agent. Example: The telephone was invented by Bell.",
+      "wrongReasons": {
+        "discovered": "Penicillin did not discover anything, so use the passive 'was discovered'.",
+        "has been discovered": "'In 1928' is a finished time, so use the past simple passive."
+      },
+      "text": "Penicillin ___ (discover) by Alexander Fleming in 1928.",
+      "answers": [
+        [
+          "was discovered"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-051",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Present simple passive: am/is/are + past participle for general facts. Example: Rice is grown in Asia.",
+      "wrongReasons": {
+        "speaks": "A language cannot speak; people speak it, so use the passive.",
+        "is speaking": "This is a general fact, so use the present simple passive 'is spoken'."
+      },
+      "text": "English ___ (speak) in many countries around the world.",
+      "answers": [
+        [
+          "is spoken"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-052",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Need' + passive infinitive (to be + past participle) shows what must be done to something. Example: The car needs to be washed.",
+      "wrongReasons": {
+        "to sign": "The documents do not sign anything; they must be signed, so use 'to be signed'.",
+        "signed": "After 'need' you need 'to be' before the past participle."
+      },
+      "text": "The documents need ___ (sign) by both parties before Friday.",
+      "answers": [
+        [
+          "to be signed",
+          "signing"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-053",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use 'be believed/said + to have + past participle' for an earlier action. Example: He is said to have won many prizes.",
+      "wrongReasons": {
+        "to leave": "The leaving happened before the believing (last week), so use the perfect infinitive 'to have left'.",
+        "left": "After 'is believed' you need an infinitive with 'to'."
+      },
+      "text": "The suspect is believed ___ (leave) the country last week.",
+      "answers": [
+        [
+          "to have left"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-054",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Causative 'have something done': have + object + past participle, when someone does a job for you. Example: She had her car repaired.",
+      "wrongReasons": {
+        "cutting": "In 'have something done' the verb is a past participle, not the -ing form.",
+        "to cut": "'Have something done' uses the past participle, without 'to'."
+      },
+      "text": "I had my hair ___ (cut) yesterday at the new salon.",
+      "answers": [
+        [
+          "cut"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-055",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Causative 'get something done': get + object + past participle. Example: I got my phone fixed.",
+      "wrongReasons": {
+        "renovate": "After 'get + object' for a service, use the past participle, not the base form.",
+        "renovating": "The kitchen is renovated by builders, so use the past participle 'renovated'."
+      },
+      "text": "We are getting our kitchen ___ (renovate) this summer.",
+      "answers": [
+        [
+          "renovated"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-056",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Since' + a past point usually goes with the present perfect; in the passive: has been + past participle. Example: The bridge has been closed since May.",
+      "wrongReasons": {
+        "is inspected": "'Since the accident' links the past to now, so use the present perfect passive.",
+        "was inspected": "'Since' needs the present perfect, not the past simple."
+      },
+      "text": "Since the accident, the factory ___ (inspect) every six months.",
+      "answers": [
+        [
+          "has been inspected"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-057",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past continuous passive: was/were being + past participle for an action in progress. Example: The road was being repaired when I drove past.",
+      "wrongReasons": {
+        "was operated": "The operation was in progress when the power cut happened, so use the continuous 'was being operated'.",
+        "was operating": "The patient did not operate; the doctors operated on him, so use the passive."
+      },
+      "text": "The patient ___ (operate) on when the power cut happened.",
+      "answers": [
+        [
+          "was being operated"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-058",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Modal passive: modal + be + past participle. Example: This form must be completed in pen.",
+      "wrongReasons": {
+        "change": "The password does not change itself; someone changes it, so use 'be changed'.",
+        "been changed": "After 'must' use the base form 'be', not 'been'."
+      },
+      "text": "Your password must ___ (change) every three months.",
+      "answers": [
+        [
+          "be changed"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-059",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Impersonal passive: It is said / believed / thought that... Example: It is thought that he lives abroad.",
+      "wrongReasons": {
+        "says": "Nobody specific is speaking; people in general say it, so use 'is said'.",
+        "is saying": "Use the present simple passive 'is said' for general beliefs."
+      },
+      "text": "It ___ (say) that the castle is haunted.",
+      "answers": [
+        [
+          "is said"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-060",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past modal passive: should have been + past participle. Example: The bill should have been paid last week.",
+      "wrongReasons": {
+        "be sent": "'Yesterday' shows the past, so use 'have been sent'.",
+        "have sent": "The emails do not send anything; they are sent, so you need 'been sent'."
+      },
+      "text": "These emails should ___ (send) yesterday, but nobody remembered.",
+      "answers": [
+        [
+          "have been sent"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-061",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Present perfect passive with 'since': have/has been + past participle. Example: Ten houses have been built since January.",
+      "wrongReasons": {
+        "were planted": "'Since the project started' needs the present perfect, not the past simple.",
+        "have planted": "Trees do not plant; they are planted, so use 'have been planted'."
+      },
+      "text": "More than 500 trees ___ (plant) in the park since the project started.",
+      "answers": [
+        [
+          "have been planted"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-062",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past simple passive: was + past participle. Example: The flight was delayed because of fog.",
+      "wrongReasons": {
+        "cancelled": "The meeting did not cancel anything; someone cancelled it, so use the passive.",
+        "is cancelled": "The director 'was' ill, so the story is in the past: use 'was cancelled'."
+      },
+      "text": "The meeting ___ (cancel) because the director was ill.",
+      "answers": [
+        [
+          "was cancelled",
+          "was canceled",
+          "had been cancelled",
+          "had been canceled"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-063",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past simple passive for finished past events: were + past participle. Example: Many homes were damaged in the storm.",
+      "wrongReasons": {
+        "destroyed": "The buildings did not destroy anything; they were destroyed, so use the passive.",
+        "have been destroyed": "'In 1755' is a finished past time, so use the past simple passive."
+      },
+      "text": "Many ancient buildings ___ (destroy) during the earthquake of 1755.",
+      "answers": [
+        [
+          "were destroyed"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-064",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'So far' goes with the present perfect; passive: has been + past participle. Example: The song has been played a million times so far.",
+      "wrongReasons": {
+        "was translated": "'So far' means up to now, so use the present perfect, not the past simple.",
+        "has translated": "A novel does not translate; it is translated, so use 'has been translated'."
+      },
+      "text": "The novel ___ (translate) into more than thirty languages so far.",
+      "answers": [
+        [
+          "has been translated"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-065",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "passive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Present continuous passive (is being + past participle) for something happening around now. Example: My laptop is being fixed this week.",
+      "wrongReasons": {
+        "is servicing": "The car does not service anything; mechanics service it, so use the passive.",
+        "has serviced": "The car is the object of the action, and it is happening now: use 'is being serviced'."
+      },
+      "text": "I can't use my car this week because it ___ (service) at the garage.",
+      "answers": [
+        [
+          "is being serviced"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-066",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + past simple for a present situation we want to be different. Example: I wish I lived near the sea.",
+      "wrongReasons": {
+        "have": "After 'I wish' for a present situation, use the past simple, not the present.",
+        "would have": "We do not use 'would' after 'I wish I'; use the past simple."
+      },
+      "text": "I wish I ___ (have) more free time to read.",
+      "answers": [
+        [
+          "had"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-067",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + past perfect for regrets about the past. Example: I wish I hadn't shouted at him.",
+      "wrongReasons": {
+        "didn't say": "'Yesterday' is in the past, so a regret needs the past perfect.",
+        "wouldn't say": "'Wish + would' is for annoying habits, not past regrets."
+      },
+      "text": "She wishes she ___ (not / say) those things to her sister yesterday.",
+      "answers": [
+        [
+          "hadn't said",
+          "had not said"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-068",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + would + verb to complain about someone else's annoying behaviour. Example: I wish he would stop interrupting me.",
+      "wrongReasons": {
+        "will stop": "After 'wish' we use 'would', not 'will'.",
+        "stop": "After 'wish' the present simple is not possible; use 'would stop'."
+      },
+      "text": "I wish my neighbours ___ (stop) playing loud music at night.",
+      "answers": [
+        [
+          "would stop",
+          "stopped"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-069",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'If only' + past perfect expresses a strong regret about the past. Example: If only we had left earlier!",
+      "wrongReasons": {
+        "knew": "The regret is about a past moment (before I bought), so use the past perfect.",
+        "would know": "Do not use 'would' after 'if only' for past regrets."
+      },
+      "text": "If only I ___ (know) about the sale before I bought this coat!",
+      "answers": [
+        [
+          "had known",
+          "'d known"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-070",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + could + verb for an ability we would like to have. Example: I wish I could swim.",
+      "wrongReasons": {
+        "can play": "After 'wish', 'can' changes to 'could'.",
+        "would play": "This is about ability, so use 'could', not 'would'."
+      },
+      "text": "He wishes he ___ (can / play) the guitar like his brother.",
+      "answers": [
+        [
+          "could play"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-071",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'It's time' + subject + past simple means something should happen now. Example: It's time you went to bed.",
+      "wrongReasons": {
+        "go": "After 'It's time we', use the past simple, even though the meaning is present.",
+        "will go": "'It's time' + subject is followed by the past simple, not 'will'."
+      },
+      "text": "It's time we ___ (go) home; the last bus leaves in ten minutes.",
+      "answers": [
+        [
+          "went"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-072",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'I'd rather' + another person + past simple for present or future preferences. Example: I'd rather you came tomorrow.",
+      "wrongReasons": {
+        "don't smoke": "After 'I'd rather you', use the past simple, not the present.",
+        "wouldn't smoke": "Do not use 'would' after 'I'd rather you'."
+      },
+      "text": "I'd rather you ___ (not / smoke) in the house.",
+      "answers": [
+        [
+          "didn't smoke",
+          "did not smoke"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-073",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + past simple for an unreal present; with 'be' we often use 'were' for all persons. Example: I wish I were rich.",
+      "wrongReasons": {
+        "am": "After 'wish', use the past form 'were', not the present.",
+        "would be": "Do not use 'would' after 'I wish I'; use 'were'."
+      },
+      "text": "I wish I ___ (be) taller so I could reach the top shelf.",
+      "answers": [
+        [
+          "were",
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-074",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'If only' + would + verb expresses a wish for a change we cannot control. Example: If only the bus would come!",
+      "wrongReasons": {
+        "stops": "After 'if only' do not use the present simple.",
+        "will stop": "After 'if only', use 'would', not 'will'."
+      },
+      "text": "If only it ___ (stop) raining! We want to go to the beach.",
+      "answers": [
+        [
+          "would stop"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-075",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + past perfect for regrets about past choices. Example: I wish I had chosen a different course.",
+      "wrongReasons": {
+        "studied": "University was in the past, so the regret needs the past perfect.",
+        "would study": "'Would' is not used for wishes about the past."
+      },
+      "text": "Do you wish you ___ (study) law instead of medicine at university?",
+      "answers": [
+        [
+          "had studied"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-076",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + past perfect for something that did not happen in the past. Example: I wish you had invited me.",
+      "wrongReasons": {
+        "told": "'From the beginning' is in the past, so use the past perfect.",
+        "would tell": "This is a regret about the past, so 'would' is wrong; use the past perfect."
+      },
+      "text": "I wish you ___ (tell) me the truth from the beginning.",
+      "answers": [
+        [
+          "had told",
+          "'d told"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-077",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + past simple for a present situation. Example: She wishes she had a bigger flat.",
+      "wrongReasons": {
+        "live": "After 'wish' for a present situation, use the past simple.",
+        "would live": "Do not use 'would' when the subject of 'wish' and the verb are the same person."
+      },
+      "text": "They wish they ___ (live) closer to the city centre.",
+      "answers": [
+        [
+          "lived",
+          "were living"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-078",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'If only' + past perfect for a regret about a past action. Example: If only I hadn't lost my keys.",
+      "wrongReasons": {
+        "didn't sell": "The sale happened in the past, so the regret needs the past perfect.",
+        "wouldn't sell": "'Would' is not used for regrets about the past."
+      },
+      "text": "If only we ___ (not / sell) the house; prices have doubled since then.",
+      "answers": [
+        [
+          "hadn't sold",
+          "had not sold"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-079",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + would/past simple to say we want someone to behave differently. Example: I wish you would listen to me.",
+      "wrongReasons": {
+        "will call": "After 'wish', 'will' changes to 'would'.",
+        "call": "After 'wish' the present simple is not used; say 'would call' or 'called'."
+      },
+      "text": "My mother wishes I ___ (call) her more often.",
+      "answers": [
+        [
+          "would call",
+          "called"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-080",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'I'd rather' + subject + past simple for preferences about other people's actions, even in the future. Example: I'd rather they arrived early.",
+      "wrongReasons": {
+        "meet": "After 'I'd rather we', use the past simple 'met'.",
+        "will meet": "Do not use 'will' after 'I'd rather' + subject."
+      },
+      "text": "I'd rather we ___ (meet) at the café than at the office tomorrow.",
+      "answers": [
+        [
+          "met"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-081",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Would rather' + base form when the subject is the same person. Example: I'd rather walk than take the bus.",
+      "wrongReasons": {
+        "to stay": "'Would rather' is followed by the base form, without 'to'.",
+        "staying": "'Would rather' is not followed by the -ing form."
+      },
+      "text": "He would rather ___ (stay) at home than go to the cinema tonight.",
+      "answers": [
+        [
+          "stay"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-082",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + past perfect for a regret about something you did. Example: I wish I hadn't stayed up so late.",
+      "wrongReasons": {
+        "didn't eat": "You already ate the cake, so the regret needs the past perfect.",
+        "wouldn't eat": "'Would' is not used for regrets about the past."
+      },
+      "text": "I wish I ___ (not / eat) so much cake; now I feel sick.",
+      "answers": [
+        [
+          "hadn't eaten",
+          "had not eaten"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-083",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'It's high time' + subject + past simple means something is urgent and should already have happened. Example: It's high time you found a job.",
+      "wrongReasons": {
+        "does": "After 'It's high time' + subject, use the past simple.",
+        "will do": "'It's high time' is not followed by 'will'."
+      },
+      "text": "It's high time the government ___ (do) something about air pollution.",
+      "answers": [
+        [
+          "did"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-084",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + past perfect for a past regret. Example: She wishes she had travelled more when she was young.",
+      "wrongReasons": {
+        "accepted": "'Last year' is in the past, so use the past perfect for the regret.",
+        "would accept": "'Would' cannot describe a past regret."
+      },
+      "text": "Sam wishes he ___ (accept) the job in London last year.",
+      "answers": [
+        [
+          "had accepted"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-085",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "wish",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Wish + past simple (often 'were') for a present situation you dislike. Example: I wish it weren't Monday.",
+      "wrongReasons": {
+        "isn't": "After 'wish', use the past form 'weren't', not the present.",
+        "wouldn't be": "For a present state, use 'weren't', not 'wouldn't be'."
+      },
+      "text": "I wish it ___ (not / be) so cold in here.",
+      "answers": [
+        [
+          "weren't",
+          "wasn't",
+          "were not",
+          "was not"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-086",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Must have + past participle for a confident deduction about the past. Example: He must have forgotten the meeting.",
+      "wrongReasons": {
+        "leave": "The deduction is about something that already happened, so use 'must have' + past participle.",
+        "left": "After a modal, use 'have' + past participle, not the past simple."
+      },
+      "text": "Laura must ___ (leave) already; her coat isn't on the hook.",
+      "answers": [
+        [
+          "have left"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-087",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Can't have + past participle means you are sure something did not happen. Example: She can't have heard you.",
+      "wrongReasons": {
+        "see": "'Yesterday' shows the past, so use 'can't have' + past participle.",
+        "saw": "A modal is never followed by the past simple."
+      },
+      "text": "He can't ___ (see) us yesterday; he was in Paris all week.",
+      "answers": [
+        [
+          "have seen"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-088",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Should have + past participle criticises a past action that did not happen. Example: You should have called me.",
+      "wrongReasons": {
+        "tell": "This is about the past, so use 'should have' + past participle.",
+        "told": "After 'should', use 'have told', not the past simple."
+      },
+      "text": "You should ___ (tell) me you were coming; I would have cooked something.",
+      "answers": [
+        [
+          "have told"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-089",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Might be + -ing for a possible action in progress now. Example: She might be sleeping.",
+      "wrongReasons": {
+        "have": "'At the moment' shows an action in progress, so use 'be having'.",
+        "having": "After a modal you need 'be' before the -ing form."
+      },
+      "text": "Don't call now; they might ___ (have) dinner at the moment.",
+      "answers": [
+        [
+          "be having"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-090",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Needn't have + past participle: we did something that was not necessary. Example: You needn't have brought a gift.",
+      "wrongReasons": {
+        "take": "The situation is in the past (was), so use 'needn't have' + past participle.",
+        "took": "After 'needn't', use 'have' + past participle, not the past simple."
+      },
+      "text": "We needn't ___ (take) a taxi; the hotel was only five minutes away.",
+      "answers": [
+        [
+          "have taken"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-091",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "May have + past participle for a possible explanation of a past event. Example: He may have missed the bus.",
+      "wrongReasons": {
+        "fall": "'When you were running' is in the past, so use 'may have' + past participle.",
+        "fell": "A modal cannot be followed by the past simple."
+      },
+      "text": "The keys may ___ (fall) out of your pocket when you were running.",
+      "answers": [
+        [
+          "have fallen"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-092",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Don't have to = it is not necessary. Example: You don't have to wear a suit.",
+      "wrongReasons": {
+        "doesn't have to": "The subject is 'you', so use 'don't', not 'doesn't'.",
+        "haven't to": "We make 'have to' negative with 'don't', not 'haven't'."
+      },
+      "text": "You ___ (not / have to) bring food; lunch is included in the price.",
+      "answers": [
+        [
+          "don't have to",
+          "do not have to"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-093",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Had to is the past of 'must' and 'have to' for obligation. Example: We had to wait for an hour.",
+      "wrongReasons": {
+        "have to": "'When I was a child' is in the past, so use 'had to'.",
+        "must": "'Must' has no past form; use 'had to' for past obligation."
+      },
+      "text": "When I was a child, I ___ (have to) wear a uniform to school.",
+      "answers": [
+        [
+          "had to"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-094",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Could have + past participle for a past possibility that did not happen. Example: We could have gone, but it rained.",
+      "wrongReasons": {
+        "win": "The race is in the past, so use 'could have' + past participle.",
+        "won": "After 'could', use 'have won', not the past simple."
+      },
+      "text": "She could ___ (win) the race if she hadn't fallen.",
+      "answers": [
+        [
+          "have won"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-095",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Can't have + past participle for a negative deduction about what has happened. Example: They can't have finished already.",
+      "wrongReasons": {
+        "arrive": "The deduction is about something that has or has not happened, so use 'have arrived'.",
+        "arrived": "After 'can't', use 'have' + past participle."
+      },
+      "text": "Joe's car isn't outside, so he can't ___ (arrive) yet.",
+      "answers": [
+        [
+          "have arrived"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-096",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Can' has no perfect form, so we use 'have been able to'. Example: I haven't been able to call her.",
+      "wrongReasons": {
+        "could sleep": "After 'haven't' you need the past participle 'been able to', not 'could'.",
+        "be able to sleep": "After 'haven't', use the past participle 'been', not 'be'."
+      },
+      "text": "I haven't ___ (be able to / sleep) well since I moved to this noisy street.",
+      "answers": [
+        [
+          "been able to sleep"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-097",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Ought to have + past participle for something that was the right thing to do but did not happen. Example: You ought to have asked first.",
+      "wrongReasons": {
+        "apologise": "'Yesterday ... but you didn't' shows the past, so use 'ought to have' + past participle.",
+        "apologised": "After 'ought to', use 'have' + past participle."
+      },
+      "text": "You ought to ___ (apologise) to her yesterday, but you didn't.",
+      "answers": [
+        [
+          "have apologised",
+          "have apologized"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-098",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Might be + -ing for a possible explanation of what is happening now. Example: She might be working late.",
+      "wrongReasons": {
+        "sleep": "We are guessing about an action in progress now, so use 'be sleeping'.",
+        "sleeping": "After 'might', add 'be' before the -ing form."
+      },
+      "text": "Ben isn't answering his phone. He might ___ (sleep).",
+      "answers": [
+        [
+          "be sleeping"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-099",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Didn't need to + verb means something was not necessary. Example: I didn't need to buy a ticket.",
+      "wrongReasons": {
+        "studying": "'Didn't need' is followed by 'to' + verb here, not the -ing form.",
+        "study": "After 'didn't need' you must add 'to' before the verb."
+      },
+      "text": "We didn't need ___ (study) for the test in the end because it was cancelled.",
+      "answers": [
+        [
+          "to study"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-100",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Must have been + -ing for a confident deduction about an activity that lasted until now. Example: You must have been working all day.",
+      "wrongReasons": {
+        "wait": "The waiting has lasted for hours until now, so use 'have been waiting'.",
+        "be waiting": "'For hours' shows duration up to now, so use 'have been waiting'."
+      },
+      "text": "They must ___ (wait) for hours; they look so bored.",
+      "answers": [
+        [
+          "have been waiting",
+          "have waited"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-101",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Had better + (not) + base form gives strong advice. Example: You'd better not be late.",
+      "wrongReasons": {
+        "don't park": "The negative of 'had better' is 'had better not', not 'don't'.",
+        "not to park": "'Had better' is followed by the base form, without 'to'."
+      },
+      "text": "You'd better ___ (not / park) here; it's a fire exit.",
+      "answers": [
+        [
+          "not park"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-102",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Might have + past participle for a possible past explanation. Example: She might have lost her phone.",
+      "wrongReasons": {
+        "miss": "The missing would have happened in the past, so use 'might have missed'.",
+        "missed": "After 'might', use 'have' + past participle."
+      },
+      "text": "He was supposed to arrive at six; he might ___ (miss) the train.",
+      "answers": [
+        [
+          "have missed"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-103",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Can't have + past participle shows surprise or disbelief about a past action. Example: You can't have lost it again!",
+      "wrongReasons": {
+        "forget": "The forgetting has already happened, so use 'can't have forgotten'.",
+        "forgot": "After 'can't', use 'have' + past participle, not the past simple."
+      },
+      "text": "Surely you can't ___ (forget) her birthday again!",
+      "answers": [
+        [
+          "have forgotten"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-104",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Modal + be + past participle when the subject receives the action. Example: Bags must be left at the entrance.",
+      "wrongReasons": {
+        "accompany": "Visitors do not accompany the staff here; they are accompanied, so use 'be accompanied'.",
+        "have accompanied": "This is a present rule, so use 'be accompanied', not a past form."
+      },
+      "text": "Visitors must ___ (accompany) by a member of staff at all times.",
+      "answers": [
+        [
+          "be accompanied"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-105",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Had to + verb for a past obligation or necessity. Example: The bus was late, so we had to walk.",
+      "wrongReasons": {
+        "must ask": "'Must' has no past form; use 'had to ask'.",
+        "have to ask": "The story is in the past (couldn't), so use 'had to'."
+      },
+      "text": "I couldn't find the hotel, so I ___ (have to / ask) a police officer for directions.",
+      "answers": [
+        [
+          "had to ask"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-106",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past continuous for a longer action interrupted by a shorter one in the past simple. Example: I was cooking when she arrived.",
+      "wrongReasons": {
+        "took": "The shower was already in progress when the phone rang, so use the past continuous.",
+        "had taken": "The shower was not finished before the call; it was in progress, so use 'was taking'."
+      },
+      "text": "When the phone rang, I ___ (take) a shower.",
+      "answers": [
+        [
+          "was taking"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-107",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past perfect for an action completed before another past event. Example: When we got there, the film had started.",
+      "wrongReasons": {
+        "burnt": "'By the time' shows it happened before they arrived, so use the past perfect.",
+        "was burning": "'Down' shows the action was complete, so use 'had burnt', not a continuous form."
+      },
+      "text": "By the time the firefighters arrived, the building ___ (burn) down.",
+      "answers": [
+        [
+          "had burnt",
+          "had burned"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-108",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past perfect (continuous) for an action that lasted up to a moment in the past. Example: He had lived there for years when I met him.",
+      "wrongReasons": {
+        "was working": "'For ten years' up to that moment needs the past perfect, not the past continuous.",
+        "worked": "To show duration up to a past moment, use 'had been working'."
+      },
+      "text": "When I met her, she ___ (work) at the bank for ten years.",
+      "answers": [
+        [
+          "had been working",
+          "'d been working",
+          "had worked",
+          "'d worked"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-109",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past simple for a short action that interrupts a longer one. Example: I was reading when the doorbell rang.",
+      "wrongReasons": {
+        "were going": "The lights going out was a sudden, short event, so use the past simple.",
+        "had gone": "The lights went out during dinner, not before it, so use the past simple."
+      },
+      "text": "We were having dinner when suddenly the lights ___ (go) out.",
+      "answers": [
+        [
+          "went"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-110",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past perfect to explain a situation in the past by an earlier action. Example: She was tired because she had run ten kilometres.",
+      "wrongReasons": {
+        "grew": "He grew the beard before I saw him, so use the past perfect.",
+        "was growing": "The beard was already there, so the action was complete: use 'had grown'."
+      },
+      "text": "I didn't recognise him because he ___ (grow) a beard.",
+      "answers": [
+        [
+          "had grown",
+          "'d grown"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-111",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past perfect with 'already' for something that happened before another past event. Example: When I called, he had already gone.",
+      "wrongReasons": {
+        "already left": "The train left before we arrived, so use the past perfect 'had already left'.",
+        "has already left": "The story is in the past (got), so use the past perfect, not the present perfect."
+      },
+      "text": "When we got to the station, the train ___ (already / leave).",
+      "answers": [
+        [
+          "had already left"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-112",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'It was the first time', use the past perfect. Example: It was the first time she had seen snow.",
+      "wrongReasons": {
+        "ever tasted": "After 'It was the first time', the verb must be in the past perfect.",
+        "have ever tasted": "'It was' is in the past, so use 'had', not 'have'."
+      },
+      "text": "It was the first time I ___ (ever / taste) sushi.",
+      "answers": [
+        [
+          "had ever tasted",
+          "'d ever tasted"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-113",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past continuous for the background action when something else happened. Example: We were walking home when it started to rain.",
+      "wrongReasons": {
+        "read": "Reading was the background action in progress, so use the past continuous.",
+        "had read": "The reading was still going on when the wasp stung me, so use 'was reading'."
+      },
+      "text": "I ___ (read) quietly in the garden when a wasp stung me.",
+      "answers": [
+        [
+          "was reading"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-114",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past perfect continuous for an activity that continued up to a past moment. Example: They had been waiting for an hour when the bus came.",
+      "wrongReasons": {
+        "rehearsed": "'By the time' and 'for three hours' need the past perfect (continuous).",
+        "were rehearsing": "The rehearsal lasted up to the start of the concert, so use 'had been rehearsing'."
+      },
+      "text": "By the time the concert started, the band ___ (rehearse) for three hours.",
+      "answers": [
+        [
+          "had been rehearsing",
+          "had rehearsed"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-115",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past continuous for an action in progress at the moment of a shorter past event. Example: She was talking on the phone when the boss came in.",
+      "wrongReasons": {
+        "drove": "He was in the middle of driving when he was stopped, so use the past continuous.",
+        "had driven": "The driving was still happening at that moment, so use 'was driving'."
+      },
+      "text": "He ___ (drive) too fast when the police stopped him.",
+      "answers": [
+        [
+          "was driving"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-116",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past perfect with 'never ... before' for experience up to a past moment. Example: She had never seen the sea before that trip.",
+      "wrongReasons": {
+        "never flew": "'Never ... before' up to a past moment needs the past perfect.",
+        "have never flown": "The story is in the past (was), so use 'had', not 'have'."
+      },
+      "text": "I ___ (never / fly) before, so I was very nervous on the plane.",
+      "answers": [
+        [
+          "had never flown",
+          "'d never flown"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-117",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'as soon as' in a past story, use the past simple or the past perfect for the first action. Example: As soon as he arrived, we left.",
+      "wrongReasons": {
+        "was finishing": "The clapping began after the speech ended, so the speech was complete, not in progress.",
+        "has finished": "The story is in the past (stood up), so do not use the present perfect."
+      },
+      "text": "As soon as she ___ (finish) her speech, everyone stood up and clapped.",
+      "answers": [
+        [
+          "finished",
+          "had finished"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-118",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past perfect continuous for a long activity before a past moment. Example: I had been studying all day when my friends called.",
+      "wrongReasons": {
+        "were walking": "'For hours' before finding the cabin needs the past perfect continuous.",
+        "walked": "To show how long the walk lasted before a past event, use 'had been walking'."
+      },
+      "text": "They ___ (walk) for hours when they finally found the cabin.",
+      "answers": [
+        [
+          "had been walking",
+          "'d been walking",
+          "had walked",
+          "'d walked"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-119",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past continuous for an activity interrupted by a sudden event. Example: He was shaving when the power went off.",
+      "wrongReasons": {
+        "cooked": "The cooking was in progress when the alarm went off, so use the past continuous.",
+        "had cooked": "Dinner was not finished; it was still being cooked, so use 'was cooking'."
+      },
+      "text": "I ___ (cook) dinner when the smoke alarm went off, so I burned the pasta.",
+      "answers": [
+        [
+          "was cooking"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-120",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past simple for a complete short action that happened during a longer one. Example: The phone rang while I was sleeping.",
+      "wrongReasons": {
+        "was stealing": "The theft is a complete event in the story, so use the past simple.",
+        "has stolen": "The story is in the past (was shopping), so use the past simple, not the present perfect."
+      },
+      "text": "Somebody ___ (steal) my bike while I was shopping.",
+      "answers": [
+        [
+          "stole"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-121",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past perfect for a state that started before a past moment. Example: I discovered that they had known each other since school.",
+      "wrongReasons": {
+        "knew": "'For years' before the moment of realising needs the past perfect.",
+        "has known": "The story is in the past (realised), so use 'had known'."
+      },
+      "text": "The detective realised that the victim ___ (know) the murderer for years.",
+      "answers": [
+        [
+          "had known",
+          "'d known"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-122",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past perfect for an action that happened before the moment of discovery. Example: When I got home, someone had broken the window.",
+      "wrongReasons": {
+        "ate": "The eating happened before Mia opened the fridge, so use the past perfect.",
+        "has eaten": "The story is in the past (opened), so use 'had eaten'."
+      },
+      "text": "When Mia opened the fridge, she discovered that someone ___ (eat) her yoghurt.",
+      "answers": [
+        [
+          "had eaten"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-123",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past continuous for an activity in progress when something interrupted it. Example: The children were playing when it began to snow.",
+      "wrongReasons": {
+        "danced": "The dancing was in progress when the music stopped, so use the past continuous.",
+        "had danced": "The dancing had not finished; it was going on, so use 'were dancing'."
+      },
+      "text": "The guests ___ (dance) when the music suddenly stopped.",
+      "answers": [
+        [
+          "were dancing",
+          "had been dancing"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-124",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Past perfect for an action before another past action (realising). Example: She noticed she had left her umbrella on the train.",
+      "wrongReasons": {
+        "forgot": "The forgetting happened before the moment of realising, so use the past perfect.",
+        "have forgotten": "The story is in the past (realised), so use 'had forgotten'."
+      },
+      "text": "It was only after the exam that I realised I ___ (forget) to answer the last question.",
+      "answers": [
+        [
+          "had forgotten",
+          "'d forgotten"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-125",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "narrative-tenses",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'By' + a past time is followed by the past perfect. Example: By midnight, they had finished the work.",
+      "wrongReasons": {
+        "sold": "'By the end of the day' needs the past perfect, because the selling was complete before that moment.",
+        "have sold": "The day is finished and the story is in the past, so use 'had sold'."
+      },
+      "text": "By the end of the day, we ___ (sell) every single ticket.",
+      "answers": [
+        [
+          "had sold",
+          "'d sold"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-126",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future continuous for an action in progress at a certain time in the future. Example: At 9 tomorrow, I'll be flying to Rome.",
+      "wrongReasons": {
+        "will lie": "'This time next week' needs an action in progress, so use 'will be lying'.",
+        "am lying": "The present continuous here would mean now; use the future continuous for that future moment."
+      },
+      "text": "This time next week, I ___ (lie) on a beach in Portugal.",
+      "answers": [
+        [
+          "will be lying",
+          "'ll be lying"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-127",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future perfect for an action completed before a future time. Example: By June, I will have finished my degree.",
+      "wrongReasons": {
+        "will open": "'By the end of the year' needs the future perfect, because the action will be complete before then.",
+        "opens": "This is about the future, so the present simple is wrong here."
+      },
+      "text": "By the end of the year, the company ___ (open) five new stores.",
+      "answers": [
+        [
+          "will have opened"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-128",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future perfect: will have + past participle for something complete before a future moment. Example: By the time she arrives, we'll have eaten.",
+      "wrongReasons": {
+        "will finish": "'By the time' shows the painting will be complete before you arrive, so use 'will have finished'.",
+        "finish": "The main clause about the future needs 'will have finished', not the present simple."
+      },
+      "text": "By the time you get home, I ___ (finish) painting the kitchen.",
+      "answers": [
+        [
+          "will have finished",
+          "'ll have finished"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-129",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future continuous for an action in progress at a future time. Example: Don't come at six; I'll be working.",
+      "wrongReasons": {
+        "will have": "At eight the dinner will be in progress, so use the continuous 'will be having'.",
+        "have": "The present simple does not describe an action in progress at a future time."
+      },
+      "text": "Don't phone me at eight; I ___ (have) dinner with my in-laws then.",
+      "answers": [
+        [
+          "will be having",
+          "'ll be having",
+          "am having",
+          "'m having"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-130",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'as soon as', 'when', 'before', etc., use a present tense to talk about the future. Example: I'll text you when I arrive.",
+      "wrongReasons": {
+        "will get": "After 'as soon as', do not use 'will'; use the present simple.",
+        "got": "This is about the future, so use the present simple, not the past."
+      },
+      "text": "I'll call you as soon as I ___ (get) to the hotel.",
+      "answers": [
+        [
+          "get",
+          "have got"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-131",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future perfect with 'for' to show duration up to a future time. Example: Next month I'll have been here for a year.",
+      "wrongReasons": {
+        "will be": "'By next June' with 'for twenty-five years' needs the future perfect.",
+        "are": "This is about a future time, so the present simple is wrong."
+      },
+      "text": "By next June, they ___ (be) married for twenty-five years.",
+      "answers": [
+        [
+          "will have been",
+          "'ll have been"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-132",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In future time clauses after 'when', use the present simple or present perfect, not 'will'. Example: When you have read it, give it back.",
+      "wrongReasons": {
+        "will finish": "After 'when' in a future time clause, do not use 'will'.",
+        "finished": "This is about the future, so use the present simple or present perfect."
+      },
+      "text": "When you ___ (finish) the book, can you lend it to me?",
+      "answers": [
+        [
+          "finish",
+          "have finished"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-133",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future perfect (continuous) for duration up to a future point. Example: In May she will have been teaching for twenty years.",
+      "wrongReasons": {
+        "will work": "'For exactly ten years' up to next month needs the future perfect.",
+        "am working": "The present continuous does not show duration up to a future point."
+      },
+      "text": "Next month I ___ (work) here for exactly ten years.",
+      "answers": [
+        [
+          "will have been working",
+          "will have worked",
+          "'ll have been working",
+          "'ll have worked"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-134",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future perfect for something that will already be done before another future event. Example: The shop will have closed by the time we get there.",
+      "wrongReasons": {
+        "will start": "'By the time' shows the film will already be running when we arrive, so use 'will have started'.",
+        "starts": "With 'by the time' the main clause needs the future perfect."
+      },
+      "text": "The film ___ (start) by the time we get to the cinema, so let's hurry.",
+      "answers": [
+        [
+          "will have started",
+          "'ll have started"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-135",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future perfect: will have + past participle for an action finished before a future time. Example: By 10 p.m. I'll have done my homework.",
+      "wrongReasons": {
+        "will check": "'By two o'clock' shows the action will be complete before then, so use 'will have checked'.",
+        "check": "This is about the future with 'by', so the present simple is wrong."
+      },
+      "text": "Our flight lands at noon, so by two o'clock we ___ (check) into the hotel.",
+      "answers": [
+        [
+          "will have checked",
+          "'ll have checked"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-136",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future continuous for an action that will be in progress at a specific future time. Example: At noon tomorrow I'll be sitting an exam.",
+      "wrongReasons": {
+        "will fly": "'At this time tomorrow' needs an action in progress: 'will be flying'.",
+        "fly": "The present simple cannot describe an action in progress at a future time."
+      },
+      "text": "At this time tomorrow, the astronauts ___ (fly) towards the space station.",
+      "answers": [
+        [
+          "will be flying"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-137",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'once' in a future time clause, use the present simple or present perfect. Example: Once you have paid, you will get a receipt.",
+      "wrongReasons": {
+        "will come": "After 'once' do not use 'will'; use the present simple.",
+        "came": "This is about the future, so the past simple is wrong."
+      },
+      "text": "Once the new law ___ (come) into force, smoking in parks will be banned.",
+      "answers": [
+        [
+          "comes",
+          "has come"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-138",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'By' + a future time usually takes the future perfect. Example: By 2050, cities will have changed a lot.",
+      "wrongReasons": {
+        "will find": "'By 2040' means before that date, so use the future perfect 'will have found'.",
+        "find": "This is a prediction about the future, so the present simple is wrong."
+      },
+      "text": "By 2040, scientists ___ (find) a cure for many types of cancer, I hope.",
+      "answers": [
+        [
+          "will have found",
+          "'ll have found"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-139",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Present continuous for fixed future arrangements. Example: I'm meeting Tom for lunch tomorrow.",
+      "wrongReasons": {
+        "will visit": "This is a fixed arrangement, so use the present continuous, not 'will'.",
+        "visit": "The present simple is not used for personal future arrangements."
+      },
+      "text": "I can't come on Saturday because I ___ (visit) my grandparents; we arranged it weeks ago.",
+      "answers": [
+        [
+          "am visiting",
+          "'m visiting",
+          "am going to visit",
+          "'m going to visit",
+          "will be visiting",
+          "'ll be visiting"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-140",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After 'while' in a future time clause, use the present simple, not 'will'. Example: I'll water your plants while you are on holiday.",
+      "wrongReasons": {
+        "will be": "After 'while' in a future time clause, do not use 'will'.",
+        "was": "This is about the future, so use the present simple 'am'."
+      },
+      "text": "You can borrow my car while I ___ (be) away.",
+      "answers": [
+        [
+          "am",
+          "'m"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-141",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In the main clause of a future condition, use 'will' + verb. Example: Unless you hurry, you'll be late.",
+      "wrongReasons": {
+        "miss": "The main clause talks about the future, so use 'will miss'.",
+        "would miss": "This is a real future situation, so use 'will', not 'would'."
+      },
+      "text": "Unless we leave now, we ___ (miss) the beginning of the show.",
+      "answers": [
+        [
+          "will miss",
+          "'ll miss",
+          "are going to miss",
+          "'re going to miss"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-142",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future perfect (continuous) for duration up to a future event. Example: By the time he finishes, he will have worked for twelve hours.",
+      "wrongReasons": {
+        "will teach": "'By the time' and 'for forty years' need the future perfect.",
+        "teaches": "The present simple does not show duration up to a future moment."
+      },
+      "text": "By the time she retires, Professor Lee ___ (teach) at this university for forty years.",
+      "answers": [
+        [
+          "will have taught",
+          "will have been teaching"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-143",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "We use 'will' / 'won't' for promises. Example: I won't be late again, I promise.",
+      "wrongReasons": {
+        "don't tell": "Promises about the future use 'won't', not the present simple.",
+        "am not telling": "A promise is a decision at the moment of speaking, so use 'won't tell'."
+      },
+      "text": "I promise I ___ (not / tell) anyone your secret.",
+      "answers": [
+        [
+          "won't tell",
+          "will not tell"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-144",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Future perfect with 'already' for something finished before a future moment. Example: When you call, I'll probably have gone to bed.",
+      "wrongReasons": {
+        "will probably eat": "'Already' shows the meal will be finished before you arrive, so use 'will have eaten'.",
+        "are probably eating": "The meal will be finished, not in progress, so use the future perfect."
+      },
+      "text": "When you arrive, we ___ (probably / eat) already, so have a snack on the way.",
+      "answers": [
+        [
+          "will probably have eaten",
+          "'ll probably have eaten",
+          "probably will have eaten"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-145",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "future-forms",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "Use 'will' for offers and decisions made at the moment of speaking. Example: It's cold. I'll close the window.",
+      "wrongReasons": {
+        "help": "An offer made now about the next moment needs 'will help'.",
+        "am helping": "This is a sudden offer, not a planned arrangement, so use 'will'."
+      },
+      "text": "Hold on, I ___ (help) you carry those heavy bags.",
+      "answers": [
+        [
+          "'ll help",
+          "will help"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-146",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Afford' is followed by 'to' + verb. Example: We can't afford to go on holiday.",
+      "wrongReasons": {
+        "buying": "'Afford' is followed by the infinitive with 'to', not the -ing form.",
+        "buy": "You need 'to' before the verb after 'afford'."
+      },
+      "text": "I can't afford ___ (buy) a new car this year.",
+      "answers": [
+        [
+          "to buy"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-147",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Would you mind' is followed by the -ing form. Example: Would you mind waiting a moment?",
+      "wrongReasons": {
+        "to open": "'Mind' is followed by the -ing form, not 'to' + verb.",
+        "open": "After 'mind' the verb needs -ing."
+      },
+      "text": "Would you mind ___ (open) the window? It's very hot in here.",
+      "answers": [
+        [
+          "opening"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-148",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Manage' is followed by 'to' + verb. Example: He managed to fix the car.",
+      "wrongReasons": {
+        "finishing": "'Manage' takes 'to' + verb, not the -ing form.",
+        "finish": "You need 'to' before the verb after 'managed'."
+      },
+      "text": "She managed ___ (finish) the marathon despite her injury.",
+      "answers": [
+        [
+          "to finish"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-149",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Remember + -ing' is about a memory of a past action; 'remember to' is about a duty. Example: I remember meeting her at a party.",
+      "wrongReasons": {
+        "to lock": "'Remember to do' is about not forgetting a duty; here you have a memory of a past action, so use -ing.",
+        "lock": "After 'remember' use the -ing form or 'to' + verb, never the bare verb."
+      },
+      "text": "I remember ___ (lock) the door, so I'm sure the house is safe.",
+      "answers": [
+        [
+          "locking",
+          "having locked"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-150",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Stop + -ing' means to quit an activity; 'stop to do' means to stop in order to do something. Example: She stopped eating meat.",
+      "wrongReasons": {
+        "to smoke": "'Stop to smoke' means you stopped another activity in order to smoke, which is the opposite meaning.",
+        "smoke": "After 'stop' use the -ing form for the activity you quit."
+      },
+      "text": "My doctor told me I smoked too much, so I stopped ___ (smoke) last year.",
+      "answers": [
+        [
+          "smoking"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-151",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Forget to do' is about a future duty or task. Example: Don't forget to buy bread.",
+      "wrongReasons": {
+        "sending": "'Forget + -ing' is about a past memory; for a task to do, use 'to send'.",
+        "send": "You need 'to' before the verb after 'forget'."
+      },
+      "text": "Don't forget ___ (send) the invoice to the client.",
+      "answers": [
+        [
+          "to send"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-152",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "In 'look forward to', 'to' is a preposition, so it is followed by the -ing form. Example: I look forward to hearing from you.",
+      "wrongReasons": {
+        "see": "Here 'to' is a preposition, so the verb must take -ing.",
+        "seen": "After the preposition 'to' use the -ing form, not the past participle."
+      },
+      "text": "We're really looking forward to ___ (see) you at the wedding.",
+      "answers": [
+        [
+          "seeing"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-153",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Make someone do' uses the base form without 'to' in the active. Example: She made me apologise.",
+      "wrongReasons": {
+        "to rewrite": "After 'make + person' in the active, use the base form without 'to'.",
+        "rewriting": "'Make someone' is followed by the base form, not the -ing form."
+      },
+      "text": "The teacher made us ___ (rewrite) the whole essay.",
+      "answers": [
+        [
+          "rewrite"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-154",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Be used to' means 'be accustomed to' and is followed by the -ing form. Example: I'm used to getting up early.",
+      "wrongReasons": {
+        "work": "In 'be used to', 'to' is a preposition, so use the -ing form.",
+        "worked": "After 'be used to' the verb takes -ing, not the past form."
+      },
+      "text": "She is used to ___ (work) night shifts at the hospital.",
+      "answers": [
+        [
+          "working"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-155",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Agree' is followed by 'to' + verb. Example: He agreed to help us.",
+      "wrongReasons": {
+        "sharing": "'Agree' takes 'to' + verb, not the -ing form.",
+        "share": "You need 'to' before the verb after 'agreed'."
+      },
+      "text": "They agreed ___ (share) the costs of the repair.",
+      "answers": [
+        [
+          "to share"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-156",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Avoid' is followed by the -ing form. Example: She avoids driving at night.",
+      "wrongReasons": {
+        "to answer": "'Avoid' is never followed by 'to' + verb.",
+        "answer": "After 'avoid' the verb needs the -ing form."
+      },
+      "text": "He avoided ___ (answer) the journalist's questions.",
+      "answers": [
+        [
+          "answering"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-157",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Regret to tell/inform' is a formal way to give bad news; 'regret + -ing' means being sorry about a past action. Example: We regret to say the flight is cancelled.",
+      "wrongReasons": {
+        "telling": "'Regret telling' means you are sorry you told someone something before; for giving bad news now, use 'regret to tell'.",
+        "tell": "After 'regret' use 'to' + verb or the -ing form, never the bare verb."
+      },
+      "text": "I regret ___ (tell) you that your application has been unsuccessful.",
+      "answers": [
+        [
+          "to tell"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-158",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'It's no use' is followed by the -ing form. Example: It's no use crying about it.",
+      "wrongReasons": {
+        "to complain": "'It's no use' is followed by the -ing form, not 'to' + verb.",
+        "complain": "After 'It's no use' the verb needs -ing."
+      },
+      "text": "It's no use ___ (complain); the manager won't change his mind.",
+      "answers": [
+        [
+          "complaining"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-159",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Let someone do' uses the base form without 'to'. Example: They let us play in the garden.",
+      "wrongReasons": {
+        "to stay": "After 'let + person', use the base form without 'to'.",
+        "staying": "'Let someone' is followed by the base form, not the -ing form."
+      },
+      "text": "My parents let me ___ (stay) out until midnight.",
+      "answers": [
+        [
+          "stay"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-160",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Consider' is followed by the -ing form. Example: We are considering buying a house.",
+      "wrongReasons": {
+        "to move": "'Consider' takes the -ing form, not 'to' + verb.",
+        "move": "After 'considering' the verb needs -ing."
+      },
+      "text": "The company is considering ___ (move) its headquarters to Berlin.",
+      "answers": [
+        [
+          "moving"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-161",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Pretend' is followed by 'to' + verb; the negative is 'pretend not to'. Example: He pretended not to see me.",
+      "wrongReasons": {
+        "not hearing": "'Pretend' is followed by 'not to' + verb, not the -ing form.",
+        "didn't hear": "After 'pretended' you need an infinitive: 'not to hear'."
+      },
+      "text": "She pretended ___ (not / hear) what I said.",
+      "answers": [
+        [
+          "not to hear",
+          "not to have heard"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-162",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Would like' is followed by 'to' + verb. Example: I'd like to learn the piano.",
+      "wrongReasons": {
+        "visiting": "'Would like' takes 'to' + verb, not the -ing form.",
+        "visit": "You need 'to' before the verb after 'would like'."
+      },
+      "text": "I'd like ___ (visit) Japan one day.",
+      "answers": [
+        [
+          "to visit"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-163",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After a preposition such as 'of', use the -ing form. Example: She was accused of cheating.",
+      "wrongReasons": {
+        "lie": "After the preposition 'of', the verb must take the -ing form.",
+        "lied": "After 'of' use the -ing form, not the past simple."
+      },
+      "text": "He was accused of ___ (lie) to the police.",
+      "answers": [
+        [
+          "lying"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-164",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "'Risk' is followed by the -ing form. Example: Don't risk missing your flight.",
+      "wrongReasons": {
+        "to lose": "'Risk' takes the -ing form, not 'to' + verb.",
+        "lose": "After 'risk' the verb needs -ing."
+      },
+      "text": "We can't risk ___ (lose) our biggest customer.",
+      "answers": [
+        [
+          "losing"
+        ]
+      ]
+    },
+    {
+      "id": "b2-vc-165",
+      "type": "verb-conjugate",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "After the preposition in 'think of/about', use the -ing form. Example: She's thinking about changing jobs.",
+      "wrongReasons": {
+        "take": "After the preposition 'of', the verb must take -ing.",
+        "to take": "'Think of' is followed by the -ing form, not 'to' + verb."
+      },
+      "text": "I'm thinking of ___ (take) a year off to travel.",
+      "answers": [
+        [
+          "taking"
+        ]
+      ]
     }
   ]
 }

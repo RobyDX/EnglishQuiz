@@ -47,6 +47,2288 @@
       "answers": [
         "unless"
       ]
+    },
+    {
+      "id": "b2-wb-003",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Although' is followed by a full clause (subject + verb): Although she was tired, she kept working.",
+      "wrongReasons": {
+        "Despite": "'Despite' must be followed by a noun or an -ing form, not by a clause like 'the museum was crowded'.",
+        "In spite": "'In spite' is incomplete: we need 'in spite of', and even then it takes a noun, not a clause.",
+        "However": "'However' starts a new sentence or follows a semicolon; it cannot join these two clauses in this way."
+      },
+      "bank": [
+        "Although",
+        "However",
+        "Despite",
+        "In spite"
+      ],
+      "text": "___ the museum was crowded, we managed to see every painting.",
+      "answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "b2-wb-004",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Whereas' contrasts two different facts: My brother loves jazz, whereas I prefer rock.",
+      "wrongReasons": {
+        "so that": "'so that' expresses purpose (in order to), but there is no purpose here, only a contrast.",
+        "as long as": "'as long as' introduces a condition, but the sentence simply compares two regions.",
+        "in case": "'in case' means 'as a precaution', which makes no sense when describing geography."
+      },
+      "bank": [
+        "so that",
+        "whereas",
+        "as long as",
+        "in case"
+      ],
+      "text": "The north of the country is dry and flat, ___ the south is green and mountainous.",
+      "answers": [
+        "whereas"
+      ]
+    },
+    {
+      "id": "b2-wb-005",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'In case' means 'as a precaution because something might happen': Take a map in case you get lost.",
+      "wrongReasons": {
+        "unless": "'unless' means 'if not'. 'Bring a charger unless your battery runs out' gives the wrong meaning.",
+        "so as": "'so as' needs 'to' + infinitive (so as to avoid), not a subject and verb.",
+        "even though": "'even though' shows contrast, but bringing a charger is a precaution, not a contrast."
+      },
+      "bank": [
+        "even though",
+        "in case",
+        "so as",
+        "unless"
+      ],
+      "text": "Bring a charger with you ___ your phone battery runs out during the trip.",
+      "answers": [
+        "in case"
+      ]
+    },
+    {
+      "id": "b2-wb-006",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Owing to' gives a reason and is followed by a noun: The match was cancelled owing to the storm.",
+      "wrongReasons": {
+        "although": "'although' introduces a contrast and needs a clause; the fog is a cause, not a contrast.",
+        "so": "'so' introduces a result, not a reason. It cannot come before the cause 'thick fog'.",
+        "in order to": "'in order to' expresses purpose and is followed by a verb, not a noun like 'fog'."
+      },
+      "bank": [
+        "although",
+        "owing to",
+        "so",
+        "in order to"
+      ],
+      "text": "All flights to the island were delayed ___ thick fog at the airport.",
+      "answers": [
+        "owing to"
+      ]
+    },
+    {
+      "id": "b2-wb-007",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Even though' adds a strong contrast and is followed by a clause: She went out even though it was snowing.",
+      "wrongReasons": {
+        "despite": "'despite' cannot be followed by a full clause such as 'he had practised'; it needs a noun or -ing.",
+        "because": "'because' gives a reason, but practising every day is not a reason to fail.",
+        "as a result": "'as a result' introduces a consequence, which is the opposite of the logic here."
+      },
+      "bank": [
+        "as a result",
+        "even though",
+        "despite",
+        "because"
+      ],
+      "text": "He failed the driving test ___ he had practised every day for a month.",
+      "answers": [
+        "even though"
+      ]
+    },
+    {
+      "id": "b2-wb-008",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Moreover' adds a further point that supports the first one: The flat is cheap. Moreover, it is close to work.",
+      "wrongReasons": {
+        "Nevertheless": "'Nevertheless' shows contrast, but both sentences say positive things about the software.",
+        "Otherwise": "'Otherwise' means 'if not', which does not connect two advantages.",
+        "Instead": "'Instead' introduces an alternative, but here we are adding a second advantage."
+      },
+      "bank": [
+        "Moreover",
+        "Instead",
+        "Nevertheless",
+        "Otherwise"
+      ],
+      "text": "The new software is easy to use. ___, it costs much less than the old system.",
+      "answers": [
+        "Moreover"
+      ]
+    },
+    {
+      "id": "b2-wb-009",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'So that' expresses purpose and is followed by a clause, often with can/could: I left early so that I could catch the train.",
+      "wrongReasons": {
+        "in order to": "'in order to' is followed by a base verb, not by a subject + verb like 'the new students could'.",
+        "such": "'such' is used before a noun phrase (such a slow speaker), not to introduce purpose.",
+        "therefore": "'therefore' introduces a logical result, not the aim of an action."
+      },
+      "bank": [
+        "such",
+        "so that",
+        "therefore",
+        "in order to"
+      ],
+      "text": "The teacher spoke slowly ___ the new students could follow the lesson.",
+      "answers": [
+        "so that"
+      ]
+    },
+    {
+      "id": "b2-wb-010",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'As long as' means 'only if': You can borrow my car as long as you drive carefully.",
+      "wrongReasons": {
+        "whereas": "'whereas' compares two different facts; it does not set a condition.",
+        "although": "'although' shows contrast, but the landlord is giving a condition.",
+        "in spite of": "'in spite of' is followed by a noun, not a clause, and it shows contrast, not a condition."
+      },
+      "bank": [
+        "as long as",
+        "in spite of",
+        "whereas",
+        "although"
+      ],
+      "text": "The landlord said we could keep a cat ___ it did not damage the furniture.",
+      "answers": [
+        "as long as"
+      ]
+    },
+    {
+      "id": "b2-wb-011",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Despite' is followed by a noun or -ing form; 'although' is followed by a clause: Despite the rain, we went out. Although it was raining, we went out.",
+      "wrongReasons": {
+        "Although": "'Although' needs a subject and verb after it (although it had a huge budget), not a noun phrase like 'its huge budget'.",
+        "Because": "'Because' needs a clause, and a huge budget is not a reason for failure.",
+        "Unless": "'Unless' introduces a condition (if not), which does not fit a fact about the past."
+      },
+      "bank": [
+        "Because",
+        "Although",
+        "Unless",
+        "Despite"
+      ],
+      "text": "___ its huge budget, the film was not a success at the box office.",
+      "answers": [
+        "Despite"
+      ]
+    },
+    {
+      "id": "b2-wb-012",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Whereas' contrasts two facts; 'otherwise' means 'if not': Hurry, otherwise we'll miss the bus.",
+      "wrongReasons": {
+        "0:otherwise": "'otherwise' means 'if not'; it does not compare two people's habits.",
+        "0:so that": "'so that' expresses purpose; my spending is not the purpose of my sister's saving.",
+        "0:because of": "'because of' is followed by a noun and gives a reason, not a contrast between two people.",
+        "1:whereas": "'whereas' compares two facts, but here we need 'if I am not careful', which is 'otherwise'.",
+        "1:so that": "'so that' would mean that being careful has the aim of never buying a flat, which is illogical.",
+        "1:because of": "'because of' needs a noun after it, not a full clause like 'I will never buy a flat'."
+      },
+      "bank": [
+        "because of",
+        "so that",
+        "whereas",
+        "otherwise"
+      ],
+      "text": "My sister saves most of her salary, ___ I spend mine as soon as I get it. I should be careful, ___ I will never buy a flat.",
+      "answers": [
+        "whereas",
+        "otherwise"
+      ]
+    },
+    {
+      "id": "b2-wb-013",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Therefore' introduces a logical result: The road was closed; therefore, we took the bus.",
+      "wrongReasons": {
+        "although": "'although' shows contrast, but reducing staff is a result of losing the client.",
+        "despite": "'despite' needs a noun after it and shows contrast, not a result.",
+        "whereas": "'whereas' compares two separate facts; it cannot show that one thing caused another."
+      },
+      "bank": [
+        "therefore",
+        "despite",
+        "although",
+        "whereas"
+      ],
+      "text": "The company lost its biggest client last year and ___ had to reduce its staff.",
+      "answers": [
+        "therefore"
+      ]
+    },
+    {
+      "id": "b2-wb-014",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Apart from' means 'except for' or 'in addition to' and is followed by a noun or -ing: Apart from the price, I liked everything.",
+      "wrongReasons": {
+        "Unless": "'Unless' introduces a condition and needs a clause, not a noun like 'a small scratch'.",
+        "Even if": "'Even if' introduces a hypothetical condition with a clause, not a noun phrase.",
+        "Whereas": "'Whereas' must join two clauses that contrast; it cannot be followed by a noun phrase alone."
+      },
+      "bank": [
+        "Unless",
+        "Even if",
+        "Apart from",
+        "Whereas"
+      ],
+      "text": "___ a small scratch on the door, the second-hand car was in perfect condition.",
+      "answers": [
+        "Apart from"
+      ]
+    },
+    {
+      "id": "b2-wb-015",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'As soon as' means 'immediately after': Call me as soon as you arrive.",
+      "wrongReasons": {
+        "so": "'so' introduces a result; the rain stopping did not happen because the children ran.",
+        "in spite of": "'in spite of' needs a noun or -ing form, not a clause like 'the rain stopped'.",
+        "provided": "'provided' introduces a condition, but this sentence describes a past event in time order."
+      },
+      "bank": [
+        "so",
+        "provided",
+        "as soon as",
+        "in spite of"
+      ],
+      "text": "The children ran outside ___ the rain stopped.",
+      "answers": [
+        "as soon as"
+      ]
+    },
+    {
+      "id": "b2-wb-016",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "linkers",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Instead of' + -ing means 'in place of doing': Instead of driving, we walked.",
+      "wrongReasons": {
+        "Rather": "'Rather' alone is incomplete here; we would need 'rather than'.",
+        "Despite": "'Despite complaining' means 'although you complain', which does not fit a suggestion to do something different.",
+        "Due": "'Due' needs 'to' after it (due to) and gives a reason, not an alternative action."
+      },
+      "bank": [
+        "Instead of",
+        "Rather",
+        "Despite",
+        "Due"
+      ],
+      "text": "___ complaining about the noise, why don't you talk to your neighbours?",
+      "answers": [
+        "Instead of"
+      ]
+    },
+    {
+      "id": "b2-wb-017",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Whose' shows possession in a relative clause: That's the man whose dog bit me.",
+      "wrongReasons": {
+        "who": "'who fields' is not possible; we need a possessive word because the fields belong to the farmer.",
+        "which": "'which' refers to things and is not possessive, so 'which fields had been flooded' loses the link to the farmer.",
+        "whom": "'whom' is an object pronoun for people; it cannot show possession."
+      },
+      "bank": [
+        "which",
+        "whose",
+        "who",
+        "whom"
+      ],
+      "text": "I spoke to a farmer ___ fields had been flooded by the river.",
+      "answers": [
+        "whose"
+      ]
+    },
+    {
+      "id": "b2-wb-018",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Where' introduces a relative clause about a place: This is the café where we first met.",
+      "wrongReasons": {
+        "which": "'which' would need a preposition (in which), because nobody spoke English IN the village.",
+        "when": "'when' refers to a time, but 'a small village' is a place.",
+        "whose": "'whose' shows possession and must be followed by a noun, not by 'nobody'."
+      },
+      "bank": [
+        "which",
+        "when",
+        "whose",
+        "where"
+      ],
+      "text": "We stayed in a small village ___ nobody spoke English.",
+      "answers": [
+        "where"
+      ]
+    },
+    {
+      "id": "b2-wb-019",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In relative clauses between commas (extra information), use 'which' (not 'that') for things: My laptop, which is new, already has a problem.",
+      "wrongReasons": {
+        "that": "'that' cannot be used in a relative clause between commas that adds extra information.",
+        "what": "'what' means 'the thing that' and cannot refer back to a noun like 'the Eiffel Tower'.",
+        "who": "'who' is for people, and the Eiffel Tower is a thing."
+      },
+      "bank": [
+        "that",
+        "what",
+        "which",
+        "who"
+      ],
+      "text": "The Eiffel Tower, ___ was built for a world fair, was not popular at first.",
+      "answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "b2-wb-020",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'When' introduces a relative clause about a time: I remember the day when we moved house.",
+      "wrongReasons": {
+        "where": "'where' refers to a place, but 'the summer' is a period of time.",
+        "which": "'which' would need a preposition here (in which), because we drove IN the summer.",
+        "whose": "'whose' shows possession and must be followed by a noun."
+      },
+      "bank": [
+        "whose",
+        "where",
+        "which",
+        "when"
+      ],
+      "text": "Do you remember the summer ___ we drove across Spain in that old van?",
+      "answers": [
+        "when"
+      ]
+    },
+    {
+      "id": "b2-wb-021",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Whom' is the formal object form of 'who', especially after a preposition: the person to whom I wrote.",
+      "wrongReasons": {
+        "who": "After a preposition like 'with', formal English uses 'whom', not 'who'.",
+        "which": "'which' is for things, but a scientist is a person.",
+        "whose": "'whose' needs a noun after it (whose office), so 'with whose I shared' is incomplete."
+      },
+      "bank": [
+        "which",
+        "whom",
+        "whose",
+        "who"
+      ],
+      "text": "The scientist with ___ I shared an office later won a major prize.",
+      "answers": [
+        "whom"
+      ]
+    },
+    {
+      "id": "b2-wb-022",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'What' means 'the thing(s) that' and has no noun before it: What I need is a holiday.",
+      "wrongReasons": {
+        "Which": "'Which' needs a noun before it to refer to; here there is no noun, so we need 'What' (= the thing that).",
+        "That": "'That surprised me most' would be a separate sentence; it cannot be the subject of 'was'.",
+        "Who": "'Who' refers to a person, but the thing that surprised me was a quality of the city."
+      },
+      "bank": [
+        "That",
+        "Which",
+        "Who",
+        "What"
+      ],
+      "text": "___ surprised me most about the city was how friendly the people were.",
+      "answers": [
+        "What"
+      ]
+    },
+    {
+      "id": "b2-wb-023",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Which' can refer to a whole previous clause: He arrived late, which annoyed everyone.",
+      "wrongReasons": {
+        "what": "'what' cannot refer back to a previous clause after a comma.",
+        "that": "'that' cannot be used after a comma to refer to a whole clause.",
+        "it": "'it' would create two sentences joined only by a comma, which is a punctuation error."
+      },
+      "bank": [
+        "what",
+        "that",
+        "it",
+        "which"
+      ],
+      "text": "The train was cancelled at the last minute, ___ meant we had to take a taxi.",
+      "answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "b2-wb-024",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Who' refers to people as the subject of a relative clause: The woman who lives next door is a nurse.",
+      "wrongReasons": {
+        "whose": "'whose' must be followed by a noun (whose boots), not directly by a verb.",
+        "which": "'which' is for things and animals, not for players.",
+        "where": "'where' refers to a place, but 'players' are people."
+      },
+      "bank": [
+        "where",
+        "whose",
+        "which",
+        "who"
+      ],
+      "text": "Players ___ arrive late for training will not be selected for Saturday's match.",
+      "answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "b2-wb-025",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After 'all', 'everything' or 'nothing' we use 'that' (not 'what'): All that matters is your health.",
+      "wrongReasons": {
+        "what": "'what' already contains 'the thing that', so 'everything what' repeats the idea and is wrong.",
+        "who": "'who' refers to people, but 'everything' refers to things.",
+        "whose": "'whose' shows possession and needs a noun after it."
+      },
+      "bank": [
+        "who",
+        "that",
+        "whose",
+        "what"
+      ],
+      "text": "Everything ___ the witness told the police turned out to be true.",
+      "answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "b2-wb-026",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Whose' shows possession; 'which' can follow a preposition: the house in which I grew up.",
+      "wrongReasons": {
+        "0:which": "'which' does not show possession; we need 'whose' because the novel belongs to the author.",
+        "0:who": "'who novel' is impossible; 'who' cannot be followed directly by a noun to show possession.",
+        "0:where": "'where' refers to a place, but here we need possession: the author's novel.",
+        "1:whose": "'whose' must be followed by a noun; it cannot stand alone before 'more than'.",
+        "1:which": "'which' would need a preposition (in which) because the people will be IN the library.",
+        "1:who": "'who' refers to people, but here the clause describes the library, a place."
+      },
+      "bank": [
+        "where",
+        "who",
+        "which",
+        "whose"
+      ],
+      "text": "The author ___ novel won the award is giving a talk at the city library, ___ more than two hundred people are expected.",
+      "answers": [
+        "whose",
+        "where"
+      ]
+    },
+    {
+      "id": "b2-wb-027",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Of whom' and 'of which' are used after quantity words in relative clauses after a comma: I have two cousins, both of whom are doctors.",
+      "wrongReasons": {
+        "them": "'all of them' would need a new sentence or a linking word; after a comma we need a relative pronoun.",
+        "who": "After a preposition like 'of', we use 'whom', not 'who'.",
+        "which": "'which' is for things, but brothers are people."
+      },
+      "bank": [
+        "them",
+        "whom",
+        "which",
+        "who"
+      ],
+      "text": "She has three brothers, all of ___ work in the family business.",
+      "answers": [
+        "whom"
+      ]
+    },
+    {
+      "id": "b2-wb-028",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Where' replaces 'in which' for places: the factory where (= in which) my father worked.",
+      "wrongReasons": {
+        "that": "'that I was born' is missing a preposition; we would need 'that I was born in'.",
+        "who": "'who' refers to people, not to a building.",
+        "when": "'when' refers to a time, but 'the hospital' is a place."
+      },
+      "bank": [
+        "where",
+        "when",
+        "who",
+        "that"
+      ],
+      "text": "The hospital ___ I was born was knocked down last year.",
+      "answers": [
+        "where"
+      ]
+    },
+    {
+      "id": "b2-wb-029",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Use 'which' for things in a defining clause after a preposition: the reason for which he resigned.",
+      "wrongReasons": {
+        "whom": "'whom' is for people, but 'the project' is a thing.",
+        "that": "'that' cannot come directly after a preposition such as 'on'.",
+        "what": "'what' cannot follow a noun and a preposition to refer back to 'the project'."
+      },
+      "bank": [
+        "what",
+        "that",
+        "which",
+        "whom"
+      ],
+      "text": "The project on ___ she spent three years has finally been published.",
+      "answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "b2-wb-030",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "relative-clauses",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Why' introduces a relative clause after 'the reason': That's the reason why I left.",
+      "wrongReasons": {
+        "which": "'the reason which the manager resigned' needs a preposition (for which); alone it is wrong.",
+        "where": "'where' refers to a place, not to a reason.",
+        "whose": "'whose' needs a noun after it to show possession."
+      },
+      "bank": [
+        "whose",
+        "where",
+        "which",
+        "why"
+      ],
+      "text": "Nobody understood the reason ___ the manager suddenly resigned.",
+      "answers": [
+        "why"
+      ]
+    },
+    {
+      "id": "b2-wb-031",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The third conditional uses 'if' + past perfect and 'would have' + past participle: If I had known, I would have helped.",
+      "wrongReasons": {
+        "would": "'would' is not used in the if-clause of a third conditional; we need the past perfect (had left).",
+        "have": "'we have left' is present perfect, which cannot describe an unreal past situation.",
+        "did": "'did left' is not a correct verb form; the past perfect is 'had left'."
+      },
+      "bank": [
+        "had",
+        "have",
+        "did",
+        "would"
+      ],
+      "text": "If we ___ left ten minutes earlier, we wouldn't have missed the ferry.",
+      "answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "b2-wb-032",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The second conditional uses 'would' + base verb in the main clause: If I had more time, I would learn Japanese.",
+      "wrongReasons": {
+        "will": "'will' belongs to the first conditional; with 'If I lived' (unreal present) we need 'would'.",
+        "had": "'had cycle' is not a correct verb form.",
+        "am": "'am cycle' is impossible; 'am' cannot be followed by a base verb."
+      },
+      "bank": [
+        "had",
+        "would",
+        "will",
+        "am"
+      ],
+      "text": "If I lived closer to the office, I ___ cycle to work every day.",
+      "answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "b2-wb-033",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Unless' means 'if ... not': You won't pass unless you study (= if you don't study).",
+      "wrongReasons": {
+        "If": "'If the government acts quickly, many shops will close' gives the opposite meaning; quick action should save the shops.",
+        "Provided": "'Provided' sets a positive condition, so it would also mean that quick action causes the shops to close.",
+        "As long as": "'As long as' means 'only if', which again would make quick action the cause of the closures."
+      },
+      "bank": [
+        "If",
+        "As long as",
+        "Unless",
+        "Provided"
+      ],
+      "text": "___ the government acts quickly, many small shops will close this year.",
+      "answers": [
+        "Unless"
+      ]
+    },
+    {
+      "id": "b2-wb-034",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "A mixed conditional can link a past condition to a present result: If I had taken the job, I would be rich now.",
+      "wrongReasons": {
+        "have been": "'would have been living in London now' mixes a past form with 'now'; for a present result we use 'would be'.",
+        "being": "'would being' is not possible; 'would' is followed by a base verb.",
+        "been": "'would been' is wrong; 'been' needs 'have' before it."
+      },
+      "bank": [
+        "have been",
+        "being",
+        "be",
+        "been"
+      ],
+      "text": "If she had accepted the offer from the bank, she would ___ living in London now.",
+      "answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "b2-wb-035",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Provided (that)' means 'only if': You can come provided that you bring some food.",
+      "wrongReasons": {
+        "unless": "'unless' means 'if not', so the sentence would say the bank lends money only to people without an income.",
+        "otherwise": "'otherwise' means 'if not' and usually starts a new clause after a comma; it cannot introduce this condition.",
+        "whether": "'whether' introduces a choice between possibilities, not a requirement for the loan."
+      },
+      "bank": [
+        "unless",
+        "provided",
+        "whether",
+        "otherwise"
+      ],
+      "text": "The bank will lend you the money ___ you can show a regular income.",
+      "answers": [
+        "provided"
+      ]
+    },
+    {
+      "id": "b2-wb-036",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Were' is used for all persons in formal second conditionals: If I were you, I would apologise.",
+      "wrongReasons": {
+        "am": "'am' is present simple; an imaginary situation in the second conditional needs a past form (were).",
+        "would be": "'would' is not used in the if-clause; it belongs to the main clause.",
+        "have been": "'have been' is present perfect and does not express an unreal present situation."
+      },
+      "bank": [
+        "were",
+        "would be",
+        "am",
+        "have been"
+      ],
+      "text": "If I ___ in your position, I would ask for a second opinion.",
+      "answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "b2-wb-037",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "In a third conditional, the main clause uses 'would/could/might have' + past participle: If he had trained, he could have won.",
+      "wrongReasons": {
+        "can": "'can have won' is not used for an unreal past result; we need 'could have'.",
+        "will": "'will have won' is a future perfect form; it does not express an imagined past result.",
+        "had": "'had have won' is not a correct verb form."
+      },
+      "bank": [
+        "could",
+        "had",
+        "can",
+        "will"
+      ],
+      "text": "If the referee had seen the foul, our team ___ have won the match.",
+      "answers": [
+        "could"
+      ]
+    },
+    {
+      "id": "b2-wb-038",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The zero conditional uses the present simple in both clauses for general truths: If you heat ice, it melts.",
+      "wrongReasons": {
+        "would boil": "'would boil' is for imaginary situations, but this is a scientific fact.",
+        "boiled": "'boiled' is past simple; general truths use the present simple.",
+        "will have boiled": "'will have boiled' looks at a completed future action, not at a general truth."
+      },
+      "bank": [
+        "would boil",
+        "boils",
+        "boiled",
+        "will have boiled"
+      ],
+      "text": "If you heat water to 100 degrees at sea level, it ___.",
+      "answers": [
+        "boils"
+      ]
+    },
+    {
+      "id": "b2-wb-039",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Should' at the start of a clause is a formal way of saying 'if': Should you need help, call me (= if you need help).",
+      "wrongReasons": {
+        "Would": "'Would you have any questions' is a question form, not a conditional; it does not mean 'if'.",
+        "Had": "'Had you have' is incorrect; inverted 'had' needs a past participle (had you had).",
+        "Were": "'Were you have' is wrong; inverted 'were' needs 'to' + infinitive (were you to have)."
+      },
+      "bank": [
+        "Should",
+        "Had",
+        "Would",
+        "Were"
+      ],
+      "text": "___ you have any questions about your booking, please contact our office.",
+      "answers": [
+        "Should"
+      ]
+    },
+    {
+      "id": "b2-wb-040",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Otherwise' means 'if not': Wear a coat, otherwise you'll get cold.",
+      "wrongReasons": {
+        "unless": "'unless' must be followed by a clause with a subject and verb, not by a comma.",
+        "if": "'if' cannot stand alone between commas; it needs a condition clause after it.",
+        "provided": "'provided' introduces a condition clause and cannot be used alone before a comma."
+      },
+      "bank": [
+        "unless",
+        "otherwise",
+        "provided",
+        "if"
+      ],
+      "text": "You need to book a table in advance; ___, you might not get a seat on a Saturday night.",
+      "answers": [
+        "otherwise"
+      ]
+    },
+    {
+      "id": "b2-wb-041",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "First conditional: if + present simple, will + base verb. 'Unless' means 'if not': If it rains, we'll stay in. We'll go unless it rains.",
+      "wrongReasons": {
+        "0:will": "'will' is not used in the if-clause of a first conditional; we need the present simple (rains).",
+        "0:unless": "'unless' is a conjunction, not a verb, so 'If it unless' makes no sense.",
+        "0:would": "'it would' needs a base verb after it, and 'would' does not belong in this if-clause.",
+        "1:rains": "'rains' is a verb, but the gap needs an auxiliary before 'be moved'.",
+        "1:unless": "'unless' cannot be used before 'be moved'; we need a modal auxiliary.",
+        "1:would": "'would' is for unreal situations; with 'If it rains' (real possibility) we need 'will'."
+      },
+      "bank": [
+        "unless",
+        "would",
+        "will",
+        "rains"
+      ],
+      "text": "If it ___ tomorrow, the outdoor concert ___ be moved to the sports hall.",
+      "answers": [
+        "rains",
+        "will"
+      ]
+    },
+    {
+      "id": "b2-wb-042",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Wish' / 'if only' + past perfect express regret about the past: I wish I hadn't said that.",
+      "wrongReasons": {
+        "didn't": "'didn't deleted' is incorrect; 'didn't' must be followed by a base verb, and regret about the past needs 'hadn't'.",
+        "wouldn't": "'wouldn't deleted' is incorrect; 'would' needs a base verb, and it does not express past regret.",
+        "haven't": "'haven't deleted' is present perfect, which is not used after 'if only' for past regret."
+      },
+      "bank": [
+        "didn't",
+        "wouldn't",
+        "haven't",
+        "hadn't"
+      ],
+      "text": "If only I ___ deleted that file; now I have to write the whole report again.",
+      "answers": [
+        "hadn't"
+      ]
+    },
+    {
+      "id": "b2-wb-043",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Suppose' or 'supposing' introduces an imaginary situation, often with a past tense: Suppose you won the lottery, what would you do?",
+      "wrongReasons": {
+        "Unless": "'Unless you lost your passport, what would you do' does not make sense; 'unless' means 'if not'.",
+        "Although": "'Although' introduces a contrast with a real fact, not an imaginary situation followed by a question.",
+        "Despite": "'Despite' cannot be followed by a clause like 'you lost your passport'."
+      },
+      "bank": [
+        "Although",
+        "Unless",
+        "Despite",
+        "Suppose"
+      ],
+      "text": "___ you lost your passport abroad, what would you do first?",
+      "answers": [
+        "Suppose"
+      ]
+    },
+    {
+      "id": "b2-wb-044",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "conditionals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Even if' means 'whether or not this happens, the result is the same': I'll go even if it rains.",
+      "wrongReasons": {
+        "unless": "'unless' (= if not) would mean I will finish only if I don't have to walk, which is the wrong idea.",
+        "as long as": "'as long as' makes walking a requirement for finishing, which is not the speaker's meaning.",
+        "so that": "'so that' expresses purpose; walking is not the aim of finishing the race."
+      },
+      "bank": [
+        "unless",
+        "even if",
+        "as long as",
+        "so that"
+      ],
+      "text": "I'm going to finish this marathon ___ I have to walk the last ten kilometres.",
+      "answers": [
+        "even if"
+      ]
+    },
+    {
+      "id": "b2-wb-045",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Put off' means 'postpone': They put off the meeting until Friday.",
+      "wrongReasons": {
+        "put up": "'put up' means 'build' or 'raise' (put up a tent), not 'postpone'.",
+        "put on": "'put on' means 'wear' or 'organise a show', which does not fit a decision.",
+        "put out": "'put out' means 'stop a fire' or 'inconvenience someone', not 'delay'."
+      },
+      "bank": [
+        "put off",
+        "put on",
+        "put out",
+        "put up"
+      ],
+      "text": "The council has ___ the decision about the new bridge until next spring.",
+      "answers": [
+        "put off"
+      ]
+    },
+    {
+      "id": "b2-wb-046",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Come across' means 'find by chance': I came across some old letters in the attic.",
+      "wrongReasons": {
+        "came up": "'came up' means 'was mentioned' or 'appeared'; it does not take an object like 'a box'.",
+        "came round": "'came round' means 'visited' or 'became conscious again', not 'found'.",
+        "came off": "'came off' means 'became detached' or 'succeeded', which makes no sense with a box of photos."
+      },
+      "bank": [
+        "came across",
+        "came off",
+        "came round",
+        "came up"
+      ],
+      "text": "While cleaning the garage, I ___ a box of photos from my grandparents' wedding.",
+      "answers": [
+        "came across"
+      ]
+    },
+    {
+      "id": "b2-wb-047",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Run out of' means 'have no more of something': We've run out of milk.",
+      "wrongReasons": {
+        "run into": "'run into' means 'meet by chance' or 'hit', which does not fit 'petrol'.",
+        "run over": "'run over' means 'hit with a vehicle' or 'go past a time limit'.",
+        "run after": "'run after' means 'chase', which makes no sense with petrol."
+      },
+      "bank": [
+        "run out of",
+        "run after",
+        "run into",
+        "run over"
+      ],
+      "text": "We had to stop at a small village because we had ___ petrol.",
+      "answers": [
+        "run out of"
+      ]
+    },
+    {
+      "id": "b2-wb-048",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Turn down' means 'refuse an offer': She turned down the job because the salary was low.",
+      "wrongReasons": {
+        "turned up": "'turned up' means 'arrived' or 'increased the volume', not 'refused'.",
+        "turned into": "'turned into' means 'became', which does not fit an offer.",
+        "turned over": "'turned over' means 'moved onto the other side' or 'gave control', not 'refused'."
+      },
+      "bank": [
+        "turned up",
+        "turned over",
+        "turned into",
+        "turned down"
+      ],
+      "text": "He ___ the offer of a promotion because it meant moving to another city.",
+      "answers": [
+        "turned down"
+      ]
+    },
+    {
+      "id": "b2-wb-049",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Look into' means 'investigate': The police are looking into the robbery.",
+      "wrongReasons": {
+        "look after": "'look after' means 'take care of' a person or thing, not 'investigate' a complaint.",
+        "look up to": "'look up to' means 'admire', which does not fit a complaint.",
+        "look forward to": "'look forward to' means 'feel happy about something in the future', which is illogical with a complaint."
+      },
+      "bank": [
+        "look after",
+        "look up to",
+        "look forward to",
+        "look into"
+      ],
+      "text": "The manager promised to ___ the customer's complaint and reply within a week.",
+      "answers": [
+        "look into"
+      ]
+    },
+    {
+      "id": "b2-wb-050",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Get over' means 'recover from' an illness or a bad experience: It took her months to get over the flu.",
+      "wrongReasons": {
+        "get away": "'get away' means 'escape' or 'go on holiday'; it does not take an object like 'the disappointment'.",
+        "get by": "'get by' means 'manage with little money or knowledge', not 'recover'.",
+        "get through to": "'get through to' means 'make someone understand' or 'contact by phone'."
+      },
+      "bank": [
+        "get through to",
+        "get away",
+        "get over",
+        "get by"
+      ],
+      "text": "It took the team a long time to ___ the disappointment of losing the final.",
+      "answers": [
+        "get over"
+      ]
+    },
+    {
+      "id": "b2-wb-051",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Set up' means 'start or establish' a business or organisation: She set up her own company at 25.",
+      "wrongReasons": {
+        "set off": "'set off' means 'start a journey' or 'make an alarm ring', not 'establish'.",
+        "set back": "'set back' means 'delay progress', which is not what the students did.",
+        "set aside": "'set aside' means 'save for a purpose' (set aside money), not 'found an organisation'."
+      },
+      "bank": [
+        "set up",
+        "set back",
+        "set off",
+        "set aside"
+      ],
+      "text": "Two former students ___ a charity that provides free laptops to schools.",
+      "answers": [
+        "set up"
+      ]
+    },
+    {
+      "id": "b2-wb-052",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Take up' means 'start a new hobby or activity': He took up yoga last year.",
+      "wrongReasons": {
+        "took off": "'took off' means 'removed clothes' or 'left the ground' (a plane), not 'started a hobby'.",
+        "took over": "'took over' means 'took control of', for example a company.",
+        "took after": "'took after' means 'resembled an older relative', which does not fit 'painting'."
+      },
+      "bank": [
+        "took after",
+        "took off",
+        "took over",
+        "took up"
+      ],
+      "text": "After retiring, my father ___ painting and now sells his work at local markets.",
+      "answers": [
+        "took up"
+      ]
+    },
+    {
+      "id": "b2-wb-053",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Break down' means 'stop working' (a machine) and 'carry on' means 'continue': The lift broke down. Carry on working.",
+      "wrongReasons": {
+        "0:carry on": "'Our coach carry on' is wrong: the subject needs a past verb, and the coach clearly stopped.",
+        "0:broke up": "'broke up' means 'ended a relationship' or 'ended a school term', not 'stopped working'.",
+        "0:carry out": "'carry out' means 'perform a task' and needs an object; it does not describe a coach stopping.",
+        "1:broke down": "'had to broke down' is wrong; after 'had to' we need a base verb, and the meaning is 'continue'.",
+        "1:broke up": "'broke up' is a past form, and after 'had to' we need a base verb.",
+        "1:carry out": "'carry out' needs an object (carry out a plan); it does not simply mean 'continue'."
+      },
+      "bank": [
+        "broke down",
+        "carry out",
+        "carry on",
+        "broke up"
+      ],
+      "text": "Our coach ___ halfway up the mountain, so we had to ___ on foot.",
+      "answers": [
+        "broke down",
+        "carry on"
+      ]
+    },
+    {
+      "id": "b2-wb-054",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Make up' can mean 'invent' a story or excuse: He made up an excuse for being late.",
+      "wrongReasons": {
+        "made out": "'made out' means 'managed to see or understand' something with difficulty.",
+        "made for": "'made for' means 'moved towards' a place, not 'invented'.",
+        "made off": "'made off' means 'escaped quickly', and it needs 'with' before an object."
+      },
+      "bank": [
+        "made up",
+        "made off",
+        "made for",
+        "made out"
+      ],
+      "text": "The boy ___ a story about a dog eating his homework, but the teacher didn't believe him.",
+      "answers": [
+        "made up"
+      ]
+    },
+    {
+      "id": "b2-wb-055",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Bring up' can mean 'raise a child' or 'mention a topic': She brought up the issue at the meeting.",
+      "wrongReasons": {
+        "brought about": "'brought about' means 'caused' a change, not 'mentioned' a topic.",
+        "brought back": "'brought back' means 'returned' something or 'reminded of the past'.",
+        "brought down": "'brought down' means 'made a government fall' or 'reduced', not 'mentioned'."
+      },
+      "bank": [
+        "brought down",
+        "brought up",
+        "brought about",
+        "brought back"
+      ],
+      "text": "During the meeting, one of the nurses ___ the problem of staff shortages.",
+      "answers": [
+        "brought up"
+      ]
+    },
+    {
+      "id": "b2-wb-056",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Give up' means 'stop doing something' or 'stop trying': She gave up smoking ten years ago.",
+      "wrongReasons": {
+        "give away": "'give away' means 'give something for free' or 'reveal a secret'; it needs an object.",
+        "give off": "'give off' means 'produce heat, light or a smell', which does not describe climbers.",
+        "give out": "'give out' means 'distribute' or 'stop working' (my legs gave out), not 'stop trying'."
+      },
+      "bank": [
+        "give off",
+        "give away",
+        "give up",
+        "give out"
+      ],
+      "text": "The climbers refused to ___ even when the weather became dangerous.",
+      "answers": [
+        "give up"
+      ]
+    },
+    {
+      "id": "b2-wb-057",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Point out' means 'tell someone something they had not noticed': She pointed out a mistake in my report.",
+      "wrongReasons": {
+        "pointed at": "'pointed at' means 'showed with a finger' and is followed by a thing or person, not a 'that' clause.",
+        "handed out": "'handed out' means 'distributed', which cannot be followed by 'that'.",
+        "carried out": "'carried out' means 'performed a task' (carried out a survey) and cannot be followed by a 'that' clause."
+      },
+      "bank": [
+        "carried out",
+        "handed out",
+        "pointed out",
+        "pointed at"
+      ],
+      "text": "My editor ___ that the dates in the second chapter were wrong.",
+      "answers": [
+        "pointed out"
+      ]
+    },
+    {
+      "id": "b2-wb-058",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Fall out with' means 'argue and stop being friends': He fell out with his brother over money.",
+      "wrongReasons": {
+        "fell for": "'fell for' means 'fell in love with' or 'was tricked by'; it is not followed by 'with'.",
+        "fell behind": "'fell behind' means 'did not keep up' with work or other people.",
+        "fell through": "'fell through' means that a plan failed; it does not describe an argument."
+      },
+      "bank": [
+        "fell out",
+        "fell through",
+        "fell behind",
+        "fell for"
+      ],
+      "text": "The two neighbours ___ with each other over a tree that blocked the light.",
+      "answers": [
+        "fell out"
+      ]
+    },
+    {
+      "id": "b2-wb-059",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "We 'make a decision' (not 'do a decision'): We need to make a decision by Monday.",
+      "wrongReasons": {
+        "do": "We do not say 'do a decision'; 'do' goes with tasks and work (do the homework).",
+        "get": "'get a decision' is not a natural collocation; the committee itself decides, so it 'makes' a decision.",
+        "have": "'have a decision' is not a natural collocation in English."
+      },
+      "bank": [
+        "have",
+        "do",
+        "get",
+        "make"
+      ],
+      "text": "The committee will ___ a final decision about the budget next week.",
+      "answers": [
+        "make"
+      ]
+    },
+    {
+      "id": "b2-wb-060",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Heavy traffic' is the natural collocation for a lot of cars on the road: We were late because of heavy traffic.",
+      "wrongReasons": {
+        "strong": "'strong' collocates with wind, coffee or opinions, not with traffic.",
+        "big": "'big traffic' is not natural English; we describe a large amount of traffic as 'heavy'.",
+        "thick": "'thick' goes with fog, smoke or a book, not with traffic."
+      },
+      "bank": [
+        "thick",
+        "heavy",
+        "big",
+        "strong"
+      ],
+      "text": "We were stuck in ___ traffic for two hours on the way to the airport.",
+      "answers": [
+        "heavy"
+      ]
+    },
+    {
+      "id": "b2-wb-061",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Affect' is a verb (to influence); 'effect' is usually a noun (a result): The weather affected our plans.",
+      "wrongReasons": {
+        "effected": "'effected' is a rare formal verb meaning 'caused to happen'; the usual verb for 'influenced' is 'affected'.",
+        "infected": "'infected' is used for diseases and viruses, not for a strike.",
+        "afflicted": "'afflicted' means 'caused serious suffering', usually by illness; it is too strong and unusual here."
+      },
+      "bank": [
+        "affected",
+        "effected",
+        "infected",
+        "afflicted"
+      ],
+      "text": "The strike ___ thousands of passengers who were trying to travel home for the holidays.",
+      "answers": [
+        "affected"
+      ]
+    },
+    {
+      "id": "b2-wb-062",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Raise' needs an object (raise prices, raise your hand); 'rise' has no object (prices rise).",
+      "wrongReasons": {
+        "rose": "'rose' is the past simple of 'rise' and cannot follow 'has'; also 'rise' takes no object.",
+        "risen": "'risen' is the past participle of 'rise', which has no object, so it cannot take 'the rent'.",
+        "arose": "'arose' means 'appeared' (a problem arose) and is a past simple form, not a participle."
+      },
+      "bank": [
+        "risen",
+        "rose",
+        "arose",
+        "raised"
+      ],
+      "text": "The landlord has ___ the rent by fifteen per cent this year.",
+      "answers": [
+        "raised"
+      ]
+    },
+    {
+      "id": "b2-wb-063",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Remind' means 'make someone remember'; 'remember' means 'keep in your memory': Remind me to call Tom.",
+      "wrongReasons": {
+        "remember": "'remember me to buy' is not the right pattern; 'remember' is what you do, 'remind' is what you make someone else do.",
+        "recall": "'recall' means 'remember something from the past' and is not followed by 'me to'.",
+        "memorise": "'memorise' means 'learn by heart', which does not fit buying stamps."
+      },
+      "bank": [
+        "remember",
+        "memorise",
+        "remind",
+        "recall"
+      ],
+      "text": "Could you ___ me to buy some stamps when we pass the post office?",
+      "answers": [
+        "remind"
+      ]
+    },
+    {
+      "id": "b2-wb-064",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Lend' means 'give for a short time'; 'borrow' means 'take for a short time': Can you lend me your pen?",
+      "wrongReasons": {
+        "borrow": "We say 'borrow something FROM someone'; 'borrow me your camera' is wrong.",
+        "owe": "'owe' means 'need to pay back a debt', which does not fit the request.",
+        "rent": "'rent' involves paying money, but here the speaker is asking a favour."
+      },
+      "bank": [
+        "lend",
+        "owe",
+        "borrow",
+        "rent"
+      ],
+      "text": "Could you ___ me your camera for the weekend? I'll give it back on Monday.",
+      "answers": [
+        "lend"
+      ]
+    },
+    {
+      "id": "b2-wb-065",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Economical' means 'saving money or fuel'; 'economic' means 'related to the economy': an economical car.",
+      "wrongReasons": {
+        "economic": "'economic' describes the economy (economic growth), not something that saves money.",
+        "economy": "'economy' is a noun; after 'very' we need an adjective.",
+        "economist": "'economist' is a person who studies the economy, not a quality of a car."
+      },
+      "bank": [
+        "economical",
+        "economy",
+        "economic",
+        "economist"
+      ],
+      "text": "This small car is very ___ because it uses very little fuel.",
+      "answers": [
+        "economical"
+      ]
+    },
+    {
+      "id": "b2-wb-066",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Sensible' means 'practical and reasonable'; 'sensitive' means 'easily upset or affected': a sensible decision.",
+      "wrongReasons": {
+        "sensitive": "'sensitive' means 'easily hurt or affected' (sensitive skin), not 'reasonable'.",
+        "sensational": "'sensational' means 'very exciting or shocking', which does not fit wearing a helmet.",
+        "senseless": "'senseless' means 'without meaning or purpose', the opposite of the idea here."
+      },
+      "bank": [
+        "sensible",
+        "sensational",
+        "senseless",
+        "sensitive"
+      ],
+      "text": "Wearing a helmet when you ride a bike is the ___ thing to do.",
+      "answers": [
+        "sensible"
+      ]
+    },
+    {
+      "id": "b2-wb-067",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Pay attention to' is a fixed collocation: Please pay attention to the instructions.",
+      "wrongReasons": {
+        "take": "'take attention' is not an English collocation; we 'take notice of' but 'pay attention to'.",
+        "make": "'make attention' is not an English collocation.",
+        "do": "'do attention' is not an English collocation."
+      },
+      "bank": [
+        "pay",
+        "make",
+        "do",
+        "take"
+      ],
+      "text": "Drivers should ___ attention to road signs, especially in unfamiliar areas.",
+      "answers": [
+        "pay"
+      ]
+    },
+    {
+      "id": "b2-wb-068",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "We 'achieve' an ambition and 'reach' a verdict: She achieved her ambition. The jury reached a verdict.",
+      "wrongReasons": {
+        "0:reached": "We don't usually say 'reach an ambition'; ambitions are 'achieved' or 'realised'.",
+        "0:won": "'won' goes with prizes, races and competitions, not with 'her ambition'.",
+        "0:earned": "'earned' goes with money or respect, not with a personal ambition.",
+        "1:achieved": "We don't say 'achieve a verdict'; a jury 'reaches' a verdict.",
+        "1:won": "You cannot 'win a verdict'; 'win' goes with the case, not with the jury's decision.",
+        "1:earned": "'earned a verdict' is not natural; we 'earn' money or trust."
+      },
+      "bank": [
+        "earned",
+        "achieved",
+        "won",
+        "reached"
+      ],
+      "text": "After months of training, she finally ___ her ambition of running a marathon. The jury ___ a verdict after two days of discussion.",
+      "answers": [
+        "achieved",
+        "reached"
+      ]
+    },
+    {
+      "id": "b2-wb-069",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Convince' means 'make someone believe something': She convinced me that she was telling the truth.",
+      "wrongReasons": {
+        "insisted": "'insisted' is followed by 'that' or 'on', not directly by a person like 'the jury'.",
+        "suggested": "'suggested' is not followed directly by a person; we say 'suggested to the jury that...'.",
+        "explained": "'explained' needs 'to' before the person (explained to the jury)."
+      },
+      "bank": [
+        "convinced",
+        "insisted",
+        "suggested",
+        "explained"
+      ],
+      "text": "The lawyer ___ the jury that her client was innocent.",
+      "answers": [
+        "convinced"
+      ]
+    },
+    {
+      "id": "b2-wb-070",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "A 'deadline' is the time by which something must be finished: The deadline for the essay is Friday.",
+      "wrongReasons": {
+        "timetable": "A 'timetable' is a list of times for trains, buses or lessons, not a final time limit.",
+        "schedule": "A 'schedule' is a plan of activities over time, not one final limit.",
+        "period": "A 'period' is a length of time, not a single moment by which something must be done."
+      },
+      "bank": [
+        "timetable",
+        "schedule",
+        "period",
+        "deadline"
+      ],
+      "text": "The ___ for applications is midnight on 30 June, so don't leave it too late.",
+      "answers": [
+        "deadline"
+      ]
+    },
+    {
+      "id": "b2-wb-071",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Do research' is the usual collocation: She is doing research into ocean pollution.",
+      "wrongReasons": {
+        "making": "'make research' is a common learner mistake; we say 'do research'.",
+        "taking": "'take research' is not an English collocation.",
+        "having": "'have research' is not used to mean 'carry out research'."
+      },
+      "bank": [
+        "taking",
+        "making",
+        "doing",
+        "having"
+      ],
+      "text": "The university is ___ research into new treatments for heart disease.",
+      "answers": [
+        "doing"
+      ]
+    },
+    {
+      "id": "b2-wb-072",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "vocabulary",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Journey' is the act of travelling from one place to another; 'trip' is a short visit; 'travel' is usually a verb or uncountable noun.",
+      "wrongReasons": {
+        "travel": "'travel' is usually an uncountable noun or a verb; we don't say 'the travel to work'.",
+        "voyage": "A 'voyage' is a long journey by sea or into space, not a daily trip to work.",
+        "excursion": "An 'excursion' is a short trip for pleasure, often in a group, not a daily commute."
+      },
+      "bank": [
+        "excursion",
+        "travel",
+        "journey",
+        "voyage"
+      ],
+      "text": "The ___ to work takes me about forty minutes by train.",
+      "answers": [
+        "journey"
+      ]
+    },
+    {
+      "id": "b2-wb-073",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Avoid' is followed by the -ing form: She avoids driving at night.",
+      "wrongReasons": {
+        "to make": "'avoid' is never followed by 'to' + infinitive.",
+        "make": "'avoid' cannot be followed by a bare base verb.",
+        "made": "'made' is a past form and cannot follow 'avoid'."
+      },
+      "bank": [
+        "made",
+        "make",
+        "making",
+        "to make"
+      ],
+      "text": "Try to avoid ___ the same mistake twice in your essay.",
+      "answers": [
+        "making"
+      ]
+    },
+    {
+      "id": "b2-wb-074",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Refuse' is followed by 'to' + infinitive: He refused to answer the question.",
+      "wrongReasons": {
+        "paying": "'refuse' is not followed by the -ing form.",
+        "pay": "'refuse' needs 'to' before the verb; 'refused pay' is wrong.",
+        "paid": "'paid' is a past form and cannot follow 'refused'."
+      },
+      "bank": [
+        "paying",
+        "pay",
+        "paid",
+        "to pay"
+      ],
+      "text": "The customer refused ___ for the meal because it was cold.",
+      "answers": [
+        "to pay"
+      ]
+    },
+    {
+      "id": "b2-wb-075",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Stop + -ing' means 'no longer do'; 'stop + to' means 'stop in order to do': He stopped smoking. He stopped to buy a paper.",
+      "wrongReasons": {
+        "checking": "'stopped checking' would mean we no longer checked the tyres; here we stopped the car in order to check them.",
+        "check": "'stopped check' is not correct; 'stop' needs 'to' or -ing.",
+        "checked": "'stopped checked' has two past verbs together, which is wrong."
+      },
+      "bank": [
+        "check",
+        "to check",
+        "checked",
+        "checking"
+      ],
+      "text": "On the way to the coast, we stopped ___ the tyres at a petrol station.",
+      "answers": [
+        "to check"
+      ]
+    },
+    {
+      "id": "b2-wb-076",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Remember + -ing' refers to a memory of the past: I remember meeting her at a party in 2015.",
+      "wrongReasons": {
+        "to visit": "'remember to visit' refers to a future duty (don't forget), not to a memory of the past.",
+        "visit": "'remember visit' is wrong; 'remember' needs -ing or 'to' before another verb.",
+        "visited": "'remember visited' is wrong; two finite verbs cannot follow each other like this."
+      },
+      "bank": [
+        "visit",
+        "visiting",
+        "to visit",
+        "visited"
+      ],
+      "text": "I clearly remember ___ that castle with my parents when I was six.",
+      "answers": [
+        "visiting"
+      ]
+    },
+    {
+      "id": "b2-wb-077",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Make' + object + base verb (no 'to'): The film made me cry.",
+      "wrongReasons": {
+        "to wait": "In the active voice, 'make someone' is followed by a base verb without 'to'.",
+        "waiting": "'make someone' is not followed by the -ing form.",
+        "waited": "'made us waited' is wrong; after 'make + object' we use the base verb."
+      },
+      "bank": [
+        "wait",
+        "waiting",
+        "to wait",
+        "waited"
+      ],
+      "text": "The doctor made us ___ for over an hour before she saw us.",
+      "answers": [
+        "wait"
+      ]
+    },
+    {
+      "id": "b2-wb-078",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Look forward to' is followed by -ing because 'to' is a preposition: I look forward to hearing from you.",
+      "wrongReasons": {
+        "see": "In 'look forward to', 'to' is a preposition, so it must be followed by -ing, not a base verb.",
+        "to see": "'looking forward to to see' repeats 'to' and uses the wrong form.",
+        "saw": "'saw' is a past form and cannot follow a preposition."
+      },
+      "bank": [
+        "see",
+        "saw",
+        "seeing",
+        "to see"
+      ],
+      "text": "We are really looking forward to ___ you at the wedding in June.",
+      "answers": [
+        "seeing"
+      ]
+    },
+    {
+      "id": "b2-wb-079",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Want' + object + 'to' + infinitive: My parents want me to study medicine.",
+      "wrongReasons": {
+        "come": "'want someone' must be followed by 'to' + infinitive, not a bare verb.",
+        "coming": "'want me coming' is not the standard pattern; we use 'want someone to do'.",
+        "that she comes": "'want' is not followed by a 'that' clause, and 'she' does not match 'me'."
+      },
+      "bank": [
+        "come",
+        "that she comes",
+        "coming",
+        "to come"
+      ],
+      "text": "My boss wants me ___ to the meeting in Berlin next week.",
+      "answers": [
+        "to come"
+      ]
+    },
+    {
+      "id": "b2-wb-080",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Suggest' is followed by -ing or a 'that' clause, never by 'to' + infinitive: He suggested taking a taxi.",
+      "wrongReasons": {
+        "to take": "'suggest' is not followed by 'to' + infinitive.",
+        "take": "'suggested take' is wrong; 'suggest' needs -ing or a 'that' clause.",
+        "us to take": "'suggest someone to do' is a common mistake; we say 'suggested that we take' or 'suggested taking'."
+      },
+      "bank": [
+        "take",
+        "taking",
+        "to take",
+        "us to take"
+      ],
+      "text": "Our guide suggested ___ the cable car to the top of the hill.",
+      "answers": [
+        "taking"
+      ]
+    },
+    {
+      "id": "b2-wb-081",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Let' + object + base verb: My parents let me stay up late.",
+      "wrongReasons": {
+        "to use": "'let someone' is followed by the base verb without 'to'.",
+        "using": "'let someone' is not followed by the -ing form.",
+        "used": "'let the students used' is wrong; after 'let + object' we need the base form."
+      },
+      "bank": [
+        "using",
+        "use",
+        "used",
+        "to use"
+      ],
+      "text": "The teacher let the students ___ dictionaries during the exam.",
+      "answers": [
+        "use"
+      ]
+    },
+    {
+      "id": "b2-wb-082",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Manage' takes 'to' + infinitive; 'mind' takes -ing: We managed to finish. Do you mind waiting?",
+      "wrongReasons": {
+        "0:waiting": "'manage' is followed by 'to' + infinitive, and 'waiting a parking space' makes no sense.",
+        "0:finding": "'manage' is not followed by the -ing form; we say 'managed to find'.",
+        "0:to wait": "'managed to wait a parking space' is meaningless; 'wait' needs 'for'.",
+        "1:to find": "'mind' is not followed by 'to' + infinitive, and 'find in the car' does not fit.",
+        "1:finding": "'finding in the car' has no object and does not fit the request to wait.",
+        "1:to wait": "'mind' is followed by the -ing form, so 'mind to wait' is wrong."
+      },
+      "bank": [
+        "finding",
+        "to find",
+        "to wait",
+        "waiting"
+      ],
+      "text": "We finally managed ___ a parking space. Would you mind ___ in the car while I get the tickets?",
+      "answers": [
+        "to find",
+        "waiting"
+      ]
+    },
+    {
+      "id": "b2-wb-083",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Be used to' + -ing means 'be accustomed to': She is used to working at night.",
+      "wrongReasons": {
+        "get": "'is used to get' is wrong; in 'be used to', 'to' is a preposition and needs -ing.",
+        "to get": "'used to to get' repeats 'to' and uses the wrong form.",
+        "got": "'got' is a past form and cannot follow 'to' here."
+      },
+      "bank": [
+        "get",
+        "to get",
+        "got",
+        "getting"
+      ],
+      "text": "After ten years on the farm, he is used to ___ up at five o'clock every morning.",
+      "answers": [
+        "getting"
+      ]
+    },
+    {
+      "id": "b2-wb-084",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Regret + -ing' means being sorry about something you did in the past: I regret leaving school so early.",
+      "wrongReasons": {
+        "to sell": "'regret to' is used for giving bad news (We regret to inform you), not for a past action you are sorry about.",
+        "sell": "'regretted sell' is wrong; 'regret' needs -ing or 'to' before another verb.",
+        "sold": "'regretted sold' puts two past verbs together, which is wrong."
+      },
+      "bank": [
+        "sold",
+        "sell",
+        "to sell",
+        "selling"
+      ],
+      "text": "My grandfather always regretted ___ his old motorbike in the 1970s.",
+      "answers": [
+        "selling"
+      ]
+    },
+    {
+      "id": "b2-wb-085",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Can't help' + -ing means 'be unable to stop yourself': I can't help laughing when I see that video.",
+      "wrongReasons": {
+        "to worry": "In the meaning 'unable to stop', 'can't help' is followed by -ing, not 'to'.",
+        "worry": "'can't help worry' is wrong; the verb after 'can't help' must be in the -ing form.",
+        "worried": "'can't help worried' is wrong; we need the -ing form after 'can't help'."
+      },
+      "bank": [
+        "worrying",
+        "worried",
+        "worry",
+        "to worry"
+      ],
+      "text": "I know the exam went well, but I can't help ___ about the results.",
+      "answers": [
+        "worrying"
+      ]
+    },
+    {
+      "id": "b2-wb-086",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "verb-patterns",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Allow' + object + 'to' + infinitive: The museum doesn't allow visitors to take photos.",
+      "wrongReasons": {
+        "bring": "'allow someone' needs 'to' before the verb, unlike 'let'.",
+        "bringing": "'allow fans bringing' is wrong; with an object, 'allow' takes 'to' + infinitive.",
+        "brought": "'allow fans brought' is wrong; we need 'to' + base verb."
+      },
+      "bank": [
+        "bringing",
+        "brought",
+        "to bring",
+        "bring"
+      ],
+      "text": "The stadium does not allow fans ___ glass bottles inside.",
+      "answers": [
+        "to bring"
+      ]
+    },
+    {
+      "id": "b2-wb-087",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Must have' + past participle expresses a strong deduction about the past: The ground is wet; it must have rained.",
+      "wrongReasons": {
+        "can't": "'can't have gone out' would mean we are sure they did NOT go out, but the evidence suggests they did.",
+        "should": "'should have gone out' expresses advice or criticism about the past, not a deduction.",
+        "would": "'would have gone out' is used in conditionals, not for a logical conclusion."
+      },
+      "bank": [
+        "can't",
+        "must",
+        "would",
+        "should"
+      ],
+      "text": "The lights are off and nobody is answering. They ___ have gone out.",
+      "answers": [
+        "must"
+      ]
+    },
+    {
+      "id": "b2-wb-088",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Can't have' + past participle means we are sure something did not happen: He can't have seen me; he didn't wave.",
+      "wrongReasons": {
+        "must": "'must have read' would mean we are sure she read it, but she has been busy in a meeting.",
+        "might": "'might have read' shows possibility, but the evidence makes it nearly impossible.",
+        "had to": "'had to have read' expresses obligation, not deduction, and is not natural here."
+      },
+      "bank": [
+        "can't",
+        "must",
+        "had to",
+        "might"
+      ],
+      "text": "She ___ have read the email yet; she has been in a meeting all morning.",
+      "answers": [
+        "can't"
+      ]
+    },
+    {
+      "id": "b2-wb-089",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Should have' + past participle criticises a past action: You should have told me earlier.",
+      "wrongReasons": {
+        "must": "'must have checked' would be a deduction (I'm sure you checked), not a criticism.",
+        "can": "'can have checked' is not used to express past criticism.",
+        "will": "'will have checked' is the future perfect, which does not express criticism."
+      },
+      "bank": [
+        "should",
+        "must",
+        "can",
+        "will"
+      ],
+      "text": "You ___ have checked the weather forecast before you went sailing.",
+      "answers": [
+        "should"
+      ]
+    },
+    {
+      "id": "b2-wb-090",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Don't have to' means 'it is not necessary': You don't have to come if you're busy.",
+      "wrongReasons": {
+        "mustn't": "'mustn't' means 'it is forbidden', but the speaker says you can bring food if you want.",
+        "can't": "'can't' means 'it is not possible or allowed', which contradicts 'you can if you want'.",
+        "shouldn't": "'shouldn't' gives advice against doing something, which does not match 'you can if you want'."
+      },
+      "bank": [
+        "mustn't",
+        "don't have to",
+        "can't",
+        "shouldn't"
+      ],
+      "text": "You ___ bring food to the party; there will be plenty, but you can if you want.",
+      "answers": [
+        "don't have to"
+      ]
+    },
+    {
+      "id": "b2-wb-091",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Mustn't' means 'it is forbidden': You mustn't use your phone during the exam.",
+      "wrongReasons": {
+        "don't have to": "'don't have to' means 'it is not necessary', but leaving bags is forbidden, not optional.",
+        "needn't": "'needn't' means 'it is not necessary', which is too weak for a safety rule.",
+        "might not": "'might not' expresses possibility, not a rule."
+      },
+      "bank": [
+        "mustn't",
+        "might not",
+        "don't have to",
+        "needn't"
+      ],
+      "text": "Passengers ___ leave their bags unattended anywhere in the airport.",
+      "answers": [
+        "mustn't"
+      ]
+    },
+    {
+      "id": "b2-wb-092",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Might have' + past participle means 'perhaps something happened': I can't find my keys; I might have left them at work.",
+      "wrongReasons": {
+        "must": "'must have missed' expresses certainty, but the speaker is not sure and offers other possibilities.",
+        "should": "'should have missed' would suggest it was a good idea to miss the train, which makes no sense.",
+        "can't": "'can't have missed' means it is impossible, which contradicts 'I'm not sure'."
+      },
+      "bank": [
+        "must",
+        "can't",
+        "might",
+        "should"
+      ],
+      "text": "I'm not sure where Tom is. He ___ have missed his train, or perhaps he's stuck in traffic.",
+      "answers": [
+        "might"
+      ]
+    },
+    {
+      "id": "b2-wb-093",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Needn't have' + past participle means you did something that was not necessary: You needn't have bought flowers.",
+      "wrongReasons": {
+        "mustn't": "'mustn't have cooked' is not a correct form for a past action that was unnecessary.",
+        "couldn't": "'couldn't have cooked' means it was impossible, but you clearly did cook.",
+        "wouldn't": "'wouldn't have cooked' is used in conditionals and does not express that cooking was unnecessary."
+      },
+      "bank": [
+        "wouldn't",
+        "needn't",
+        "mustn't",
+        "couldn't"
+      ],
+      "text": "You ___ have cooked so much food; only four people came to dinner.",
+      "answers": [
+        "needn't"
+      ]
+    },
+    {
+      "id": "b2-wb-094",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Could' expresses general ability in the past: When I was young, I could swim for hours.",
+      "wrongReasons": {
+        "can": "'can' is present; for ability in the past we use 'could'.",
+        "must": "'must' expresses obligation or deduction, not past ability.",
+        "should": "'should' gives advice, not ability in the past."
+      },
+      "bank": [
+        "can",
+        "should",
+        "must",
+        "could"
+      ],
+      "text": "When she was only five, my sister ___ play the piano better than most adults.",
+      "answers": [
+        "could"
+      ]
+    },
+    {
+      "id": "b2-wb-095",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Was/were able to' is used for a specific success in the past: The fire spread, but everyone was able to escape.",
+      "wrongReasons": {
+        "must": "'must get out' expresses present obligation, not something the workers succeeded in doing in the past.",
+        "can": "'can' is present, but the fire happened in the past.",
+        "should": "'should' expresses advice, not what the workers succeeded in doing."
+      },
+      "bank": [
+        "must",
+        "were able to",
+        "can",
+        "should"
+      ],
+      "text": "The building caught fire, but luckily all the workers ___ get out safely.",
+      "answers": [
+        "were able to"
+      ]
+    },
+    {
+      "id": "b2-wb-096",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Must' expresses a present deduction; 'can't' expresses that something is impossible: She must be tired. That can't be true.",
+      "wrongReasons": {
+        "0:can't": "'you can't be exhausted' would mean it is impossible, but twelve hours of work makes it very likely.",
+        "0:had to": "'had to' expresses past obligation; it cannot make a deduction about how you feel now.",
+        "0:may not": "'may not be' suggests the opposite of the logical conclusion after twelve hours of work.",
+        "1:must": "'That must be true' would mean we believe her, but the speaker is surprised and doubtful.",
+        "1:had to": "'That had to be true' is a past form and does not express the speaker's disbelief about what Anna says now.",
+        "1:may not": "'may not be true' is too weak for the speaker's strong disbelief."
+      },
+      "bank": [
+        "may not",
+        "can't",
+        "had to",
+        "must"
+      ],
+      "text": "You've been working for twelve hours; you ___ be exhausted. But Anna says she isn't tired at all. That ___ be true!",
+      "answers": [
+        "must",
+        "can't"
+      ]
+    },
+    {
+      "id": "b2-wb-097",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Had better' + base verb gives strong advice: You'd better leave now or you'll miss the bus.",
+      "wrongReasons": {
+        "used to": "'used to book' describes a past habit, but the speaker is talking about what to do soon.",
+        "ought": "'ought' needs 'to' before the verb (ought to book).",
+        "must have": "'must have book' is wrong; 'must have' is followed by a past participle and is used for deduction."
+      },
+      "bank": [
+        "ought",
+        "used to",
+        "must have",
+        "had better"
+      ],
+      "text": "We ___ book the hotel soon; prices always go up in August.",
+      "answers": [
+        "had better"
+      ]
+    },
+    {
+      "id": "b2-wb-098",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'May' can express permission in a formal style: Visitors may take photos in the garden.",
+      "wrongReasons": {
+        "must": "'must use' would mean guests are forced to swim, which is not the intended meaning.",
+        "need": "'need use' is wrong; positive 'need' takes 'to' (need to use), and it means necessity.",
+        "would": "'would use' describes a past habit or a hypothetical action, not permission."
+      },
+      "bank": [
+        "may",
+        "would",
+        "must",
+        "need"
+      ],
+      "text": "Guests ___ use the swimming pool between 7 a.m. and 10 p.m.",
+      "answers": [
+        "may"
+      ]
+    },
+    {
+      "id": "b2-wb-099",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Couldn't have' + past participle means something was impossible in the past: He couldn't have stolen it; he was abroad.",
+      "wrongReasons": {
+        "mustn't": "'mustn't have' is not normally used for past deduction in British English; we use 'can't' or 'couldn't have'.",
+        "shouldn't": "'shouldn't have committed' expresses criticism, not impossibility.",
+        "needn't": "'needn't have committed' means it was unnecessary, which makes no sense here."
+      },
+      "bank": [
+        "shouldn't",
+        "couldn't",
+        "needn't",
+        "mustn't"
+      ],
+      "text": "The suspect ___ have committed the crime because he was in hospital at the time.",
+      "answers": [
+        "couldn't"
+      ]
+    },
+    {
+      "id": "b2-wb-100",
+      "type": "word-bank",
+      "level": "B2",
+      "topic": "modals",
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "'Will' can express a confident prediction about the present: That'll be the postman at the door.",
+      "wrongReasons": {
+        "can": "'That can be the plumber' expresses general possibility, not a confident guess about now.",
+        "need": "'need' expresses necessity, not a prediction.",
+        "ought": "'ought' needs 'to' before the verb."
+      },
+      "bank": [
+        "need",
+        "ought",
+        "can",
+        "will"
+      ],
+      "text": "Someone is ringing the doorbell. That ___ be the plumber; he said he'd come at ten.",
+      "answers": [
+        "will"
+      ]
     }
   ]
 }
