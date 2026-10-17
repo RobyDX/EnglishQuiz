@@ -23,7 +23,7 @@ Web app **SPA + PWA**, interamente **front-end** (nessun backend), per esercitar
 | F10 | Numero di domande selezionabile (5 / 10 / 20 / 40) nella schermata di avvio: la scelta è una tile che avvia subito il quiz. |
 | F11 | **Feedback sugli errori.** Per ogni risposta errata (o vuota) l'app mostra: la risposta data dall'utente, la risposta corretta, **perché è sbagliata** (*Why it's wrong*) e **la regola** (*Rule*), tutto in inglese. Il feedback compare subito dopo "Check answers", senza dover premere "Show correct answers". Ogni risposta sbagliata ha una spiegazione **propria** (non riusata tra opzioni diverse). Vedi `04-ui-ux.md` e `07-contenuti.md`. |
 | F12 | **Barra livello/progresso sempre visibile** durante il quiz (livello, "n / totale answered") sotto la navbar, con a destra un pulsante **"↓ End"** che scorre fino alla fine della pagina. |
-| F14 | **Test di livello** (`#/placement`): 40 domande a scelta, **una alla volta**, che **avanzano da sole** appena si risponde (niente "Check answers", niente ritorno indietro). La difficoltà si adatta alle risposte e alla fine l'app mostra il **livello stimato**, il punteggio per livello e gli argomenti più deboli, con il pulsante per esercitarsi su quel livello. Il test ha un **limite di tempo di 20 minuti** (timer visibile): allo scadere si interrompe. Il risultato è salvato in `localStorage` (`eq.placement`). Vedi §11. |
+| F14 | **Test di livello** (`#/placement`): 40 domande a scelta, **una alla volta**, con navigazione libera avanti/indietro e 40 tile numerate in cima (spunta verde sulle risposte date); set fisso di difficoltà crescente, senza feedback durante il test. Alla fine l'app mostra il **livello stimato**, il punteggio per livello e gli argomenti più deboli, con il pulsante per esercitarsi su quel livello. Il test ha un **limite di tempo di 40 minuti** (timer visibile): allo scadere si interrompe. Il risultato è salvato in `localStorage` (`eq.placement`). Vedi §11. |
 | F13 | Nome dell'app: **"English Quiz"** (con lo spazio). La pagina About dice che l'app è stata fatta da Roberto Nacchia tramite Generative AI, per aiutare le persone a esercitarsi in inglese (senza soprannome). |
 
 ### 2.2 Non funzionali
@@ -155,14 +155,11 @@ In `submitted` gli input sono bloccati (read-only). Le risposte corrette si most
 ## 11. Test di livello (placement)
 **Obiettivo**: stimare il livello CEFR dell'utente in circa 10 minuti, usando lo stesso catalogo dei quiz.
 
-**Domande.** 40 in totale (`PLACEMENT_TOTAL`), solo tipologie a scelta singola (`multiple-choice`, `verb-form`, `sentence-choice`, `odd-one-out`): una risposta = un tocco, quindi si può avanzare da soli. Nei livelli dove alcune di queste tipologie non esistono (es. C2) si usano quelle disponibili. Si pesca a caso, evitando prima le domande già viste di recente (`eq.seen.<livello>`) e mai la stessa domanda due volte nello stesso test. Le opzioni si mescolano come nei quiz.
+**Domande.** 40 in totale (`PLACEMENT_TOTAL`), solo tipologie a scelta singola (`multiple-choice`, `verb-form`, `sentence-choice`, `odd-one-out`). Il set è **fisso e scelto all'inizio**, ripartito tra i livelli (`PLACEMENT_QUOTAS`: A1 6, A2 7, B1 7, B2 7, C1 7, C2 6) e ordinato dal più facile al più difficile. Nei livelli dove le tipologie ammesse sono poche (es. C2) si pesca dagli altri livelli vicini. Si pesca a caso, evitando prima le domande già viste di recente (`eq.seen.<livello>`) e mai la stessa domanda due volte nello stesso test. Le opzioni si mescolano come nei quiz.
 
-**Adattamento (scala su/giù).** Si parte da **B1**. A ogni risposta:
-- *giusta*: dopo **2 risposte giuste di fila** nello stesso livello si sale di un livello (massimo C2) e il conteggio riparte;
-- *sbagliata*: si scende subito di un livello (minimo A1) e il conteggio riparte.
-Questa regola converge intorno al livello in cui l'utente risponde bene circa il 70% delle volte.
+**Navigazione.** Il test **non è adattivo**: l'utente può andare avanti e indietro, saltare domande e cambiare le risposte date, tramite i pulsanti *Previous*/*Next* e 40 tile numerate in cima (la tile ha la spunta verde se la domanda ha risposta). Scegliere una risposta non fa avanzare da solo. Il test termina con **"Finish test"** (o a tempo scaduto); le domande senza risposta non contano nella stima.
 
-**Stima.** Per ogni livello si contano risposte date e giuste. Il **livello stimato** è il più alto con **almeno 5 risposte** e **almeno il 70%** di giuste; se nessun livello lo raggiunge, è A1. (Simulando utenti virtuali, la stima coincide col livello vero nel ~70% dei casi, è di un livello sotto in ~20% e sbaglia di 2 o più livelli in ~2,5%; con soglia 3 invece di 5 gli errori grandi erano ~4%.) La logica è pura, in `src/engine/placement.ts` (nessuna dipendenza da React), con test.
+**Stima.** Per ogni livello si contano risposte date e giuste. Il **livello stimato** è il più alto con **almeno 5 risposte** e **almeno il 70%** di giuste; se nessun livello lo raggiunge, è A1. La logica è pura, in `src/engine/placement.ts` (nessuna dipendenza da React), con test.
 
 **Argomenti deboli.** Gli argomenti (`topic`) con almeno 2 errori, in ordine decrescente, al massimo 5.
 

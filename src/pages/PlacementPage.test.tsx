@@ -1,6 +1,6 @@
 import { StrictMode } from 'react';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
-import { act, cleanup, render, screen, waitFor } from '@testing-library/react';
+import { act, cleanup, render, screen, waitFor, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { MemoryRouter, Route, Routes } from 'react-router-dom';
 import { LEVELS, type Level, type Question } from '../types';
@@ -39,13 +39,16 @@ function renderApp(strict = false, start = '/placement') {
   );
 }
 
-/** Answers `n` questions, always right or always wrong. */
+/** Answers the first `n` questions, always right or always wrong, moving on with "Next". */
 async function answer(user: ReturnType<typeof userEvent.setup>, n: number, right: boolean) {
   for (let i = 0; i < n; i++) {
     await screen.findByText(`Question ${i + 1} / 40`);
     await user.click(screen.getByLabelText(right ? 'right' : 'wrong one'));
+    if (i < n - 1) await user.click(screen.getByRole('button', { name: 'Next' }));
   }
 }
+
+const finish = (user: ReturnType<typeof userEvent.setup>) => user.click(screen.getByRole('button', { name: 'Finish test' }));
 
 beforeEach(() => localStorage.clear());
 afterEach(cleanup);
@@ -55,21 +58,56 @@ describe('PlacementPage', () => {
     const user = userEvent.setup();
     renderApp();
     expect(screen.getByRole('heading', { name: 'Find your level' })).toBeInTheDocument();
-    expect(screen.getByText(/40 questions in 20 minutes, one at a time/)).toBeInTheDocument();
+    expect(screen.getByText(/40 questions in 40 minutes, one at a time/)).toBeInTheDocument();
     expect(screen.queryByText(/certification/i)).not.toBeInTheDocument();
     await user.click(screen.getByRole('button', { name: 'Start the test' }));
     expect(await screen.findByText('Question 1 / 40')).toBeInTheDocument();
   });
 
-  it('moves on by itself as soon as an answer is chosen (no confirm button, no going back)', async () => {
+  it('does not advance by itself and lets you go back and change an answer', async () => {
     const user = userEvent.setup();
     renderApp();
     await user.click(screen.getByRole('button', { name: 'Start the test' }));
     await screen.findByText('Question 1 / 40');
-    expect(screen.queryByRole('button', { name: /check answers|next|back|previous/i })).not.toBeInTheDocument();
-    await user.click(screen.getByLabelText('right'));
+    expect(screen.getByRole('button', { name: 'Previous' })).toBeDisabled();
+    await user.click(screen.getByLabelText('wrong one'));
+    expect(screen.getByText('Question 1 / 40')).toBeInTheDocument();
+    await user.click(screen.getByRole('button', { name: 'Next' }));
     expect(await screen.findByText('Question 2 / 40')).toBeInTheDocument();
     expect(screen.getByRole('status')).toHaveTextContent('Question 2 of 40');
+    await user.click(screen.getByRole('button', { name: 'Previous' }));
+    expect(screen.getByLabelText('wrong one')).toBeChecked();
+    await user.click(screen.getByLabelText('right'));
+    expect(screen.getByLabelText('right')).toBeChecked();
+  });
+
+  it('shows 40 tiles that jump to a question and get a green check once answered', async () => {
+    const user = userEvent.setup();
+    renderApp();
+    await user.click(screen.getByRole('button', { name: 'Start the test' }));
+    await screen.findByText('Question 1 / 40');
+    const tiles = within(screen.getByRole('navigation', { name: 'Questions' })).getAllByRole('button');
+    expect(tiles).toHaveLength(40);
+    expect(screen.queryByText('✓')).not.toBeInTheDocument();
+    await user.click(screen.getByLabelText('right'));
+    expect(screen.getByRole('button', { name: 'Question 1, answered' })).toHaveTextContent('✓');
+    expect(screen.getByRole('button', { name: 'Question 2, not answered' })).not.toHaveTextContent('✓');
+    await user.click(screen.getByRole('button', { name: 'Question 25, not answered' }));
+    expect(await screen.findByText('Question 25 / 40')).toBeInTheDocument();
+    expect(screen.getByRole('button', { name: 'Question 25, not answered' })).toHaveAttribute('aria-current', 'step');
+  });
+
+  it('finishes on a button, scoring only the answered questions', async () => {
+    const user = userEvent.setup();
+    renderApp();
+    await user.click(screen.getByRole('button', { name: 'Start the test' }));
+    await screen.findByText('Question 1 / 40');
+    expect(screen.getByRole('button', { name: 'Finish test' })).toBeDisabled();
+    await user.click(screen.getByLabelText('right'));
+    await finish(user);
+    await screen.findByRole('heading', { name: 'Your level' });
+    const saved = JSON.parse(localStorage.getItem('eq.placement')!);
+    expect(LEVELS.reduce((n: number, l) => n + saved.perLevel[l].answered, 0)).toBe(1);
   });
 
   it('stops the test when the time runs out and scores the answers given', async () => {
@@ -79,11 +117,10 @@ describe('PlacementPage', () => {
       renderApp();
       await user.click(screen.getByRole('button', { name: 'Start the test' }));
       await screen.findByText('Question 1 / 40');
-      expect(screen.getByRole('timer')).toHaveTextContent('20:00');
+      expect(screen.getByRole('timer')).toHaveTextContent('40:00');
       await user.click(screen.getByLabelText('right'));
-      await screen.findByText('Question 2 / 40');
       await act(async () => {
-        vi.advanceTimersByTime(21 * 60 * 1000);
+        vi.advanceTimersByTime(41 * 60 * 1000);
       });
       expect(await screen.findByRole('heading', { name: 'Your level' })).toBeInTheDocument();
       expect(JSON.parse(localStorage.getItem('eq.placement')!).level).toBeDefined();
@@ -100,7 +137,7 @@ describe('PlacementPage', () => {
       await user.click(screen.getByRole('button', { name: 'Start the test' }));
       await screen.findByText('Question 1 / 40');
       await act(async () => {
-        vi.advanceTimersByTime(21 * 60 * 1000);
+        vi.advanceTimersByTime(41 * 60 * 1000);
       });
       expect(await screen.findByText(/Time is up/)).toBeInTheDocument();
       expect(localStorage.getItem('eq.placement')).toBeNull();
@@ -114,6 +151,7 @@ describe('PlacementPage', () => {
     renderApp();
     await user.click(screen.getByRole('button', { name: 'Start the test' }));
     await answer(user, 40, true);
+    await finish(user);
     expect(await screen.findByRole('heading', { name: 'Your level' })).toBeInTheDocument();
     expect(document.querySelector('.display-3')).toHaveTextContent('C2');
     expect(screen.getByText('Proficiency')).toBeInTheDocument();
@@ -129,6 +167,7 @@ describe('PlacementPage', () => {
     renderApp();
     await user.click(screen.getByRole('button', { name: 'Start the test' }));
     await answer(user, 40, false);
+    await finish(user);
     await screen.findByRole('heading', { name: 'Your level' });
     expect(screen.getByRole('button', { name: 'Practise A1' })).toBeInTheDocument();
     expect(screen.getByText('Topics to review')).toBeInTheDocument();
@@ -145,7 +184,7 @@ describe('PlacementPage', () => {
       const prompt = document.querySelector('.question-prompt')!.textContent!;
       expect(seen.has(prompt), prompt).toBe(false);
       seen.add(prompt);
-      await user.click(screen.getByLabelText('right'));
+      if (i < 39) await user.click(screen.getByRole('button', { name: 'Next' }));
     }
   });
 
@@ -155,7 +194,6 @@ describe('PlacementPage', () => {
     await user.click(screen.getByRole('button', { name: 'Start the test' }));
     await screen.findByText('Question 1 / 40');
     await user.click(screen.getByLabelText('right'));
-    await screen.findByText('Question 2 / 40');
     await user.click(screen.getByRole('button', { name: 'Quit test' }));
     expect(await screen.findByRole('heading', { name: 'Practise your English' })).toBeInTheDocument();
     expect(localStorage.getItem('eq.placement')).toBeNull();
@@ -166,6 +204,7 @@ describe('PlacementPage', () => {
     renderApp();
     await user.click(screen.getByRole('button', { name: 'Start the test' }));
     await answer(user, 40, true);
+    await finish(user);
     await user.click(await screen.findByRole('button', { name: 'Practise C2' }));
     expect(await screen.findByText('quiz page')).toBeInTheDocument();
   });

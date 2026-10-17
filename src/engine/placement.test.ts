@@ -1,14 +1,14 @@
 import { describe, expect, it } from 'vitest';
 import {
   estimateLevel,
-  initialStep,
+  buildPlacementSet,
   isPlacementQuestion,
-  nextStep,
   pickPlacementQuestion,
-  PLACEMENT_START,
+  PLACEMENT_QUOTAS,
+  PLACEMENT_TOTAL,
   type PlacementRecord,
 } from './placement';
-import type { Level, Question } from '../types';
+import { LEVELS, type Level, type Question } from '../types';
 
 const rec = (level: Level, correct: boolean, topic = 't'): PlacementRecord => ({ level, topic, correct });
 const many = (level: Level, right: number, wrong: number, topic = 't') => [
@@ -27,34 +27,30 @@ const mc = (id: string, level: Level = 'A1'): Question => ({
   correct: 0,
 });
 
-describe('placement staircase', () => {
-  it('starts at B1', () => {
-    expect(initialStep()).toEqual({ level: PLACEMENT_START, streak: 0 });
-    expect(PLACEMENT_START).toBe('B1');
+describe('buildPlacementSet', () => {
+  const pool = (level: Level, n: number) => Array.from({ length: n }, (_, i) => mc(`${level}-${i}`, level));
+  const pools = Object.fromEntries(LEVELS.map((l) => [l, pool(l, 30)])) as Record<Level, Question[]>;
+
+  it('quotas add up to the total', () => {
+    expect(LEVELS.reduce((n, l) => n + PLACEMENT_QUOTAS[l], 0)).toBe(PLACEMENT_TOTAL);
   });
 
-  it('goes up after two correct answers in a row, down after one wrong answer', () => {
-    let s = initialStep();
-    s = nextStep(s, true);
-    expect(s).toEqual({ level: 'B1', streak: 1 });
-    s = nextStep(s, true);
-    expect(s).toEqual({ level: 'B2', streak: 0 });
-    s = nextStep(s, true);
-    s = nextStep(s, false);
-    expect(s).toEqual({ level: 'B1', streak: 0 });
+  it('builds 40 distinct questions, easiest level first, following the quotas', () => {
+    const set = buildPlacementSet(pools);
+    expect(set).toHaveLength(PLACEMENT_TOTAL);
+    expect(new Set(set.map((q) => q.id)).size).toBe(PLACEMENT_TOTAL);
+    expect(set.map((q) => q.level)).toEqual(LEVELS.flatMap((l) => Array<Level>(PLACEMENT_QUOTAS[l]).fill(l)));
   });
 
-  it('a wrong answer resets the streak', () => {
-    let s = nextStep(initialStep(), true);
-    s = nextStep(s, false);
-    expect(s).toEqual({ level: 'A2', streak: 0 });
-    s = nextStep(s, true);
-    expect(s.level).toBe('A2');
+  it('fills a short level from the closest ones and never duplicates', () => {
+    const set = buildPlacementSet({ ...pools, C2: pool('C2', 2) });
+    expect(set).toHaveLength(PLACEMENT_TOTAL);
+    expect(new Set(set.map((q) => q.id)).size).toBe(PLACEMENT_TOTAL);
   });
 
-  it('never goes above C2 or below A1', () => {
-    expect(nextStep({ level: 'C2', streak: 1 }, true).level).toBe('C2');
-    expect(nextStep({ level: 'A1', streak: 0 }, false).level).toBe('A1');
+  it('returns what exists if the catalogue is too small', () => {
+    expect(buildPlacementSet({ A1: pool('A1', 3) })).toHaveLength(3);
+    expect(buildPlacementSet({})).toEqual([]);
   });
 });
 
