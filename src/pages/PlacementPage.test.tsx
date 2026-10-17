@@ -1,6 +1,6 @@
 import { StrictMode } from 'react';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
-import { cleanup, render, screen, waitFor } from '@testing-library/react';
+import { act, cleanup, render, screen, waitFor } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { MemoryRouter, Route, Routes } from 'react-router-dom';
 import { LEVELS, type Level, type Question } from '../types';
@@ -55,7 +55,7 @@ describe('PlacementPage', () => {
     const user = userEvent.setup();
     renderApp();
     expect(screen.getByRole('heading', { name: 'Find your level' })).toBeInTheDocument();
-    expect(screen.getByText(/40 questions, one at a time/)).toBeInTheDocument();
+    expect(screen.getByText(/40 questions in 20 minutes, one at a time/)).toBeInTheDocument();
     expect(screen.queryByText(/certification/i)).not.toBeInTheDocument();
     await user.click(screen.getByRole('button', { name: 'Start the test' }));
     expect(await screen.findByText('Question 1 / 40')).toBeInTheDocument();
@@ -70,6 +70,43 @@ describe('PlacementPage', () => {
     await user.click(screen.getByLabelText('right'));
     expect(await screen.findByText('Question 2 / 40')).toBeInTheDocument();
     expect(screen.getByRole('status')).toHaveTextContent('Question 2 of 40');
+  });
+
+  it('stops the test when the time runs out and scores the answers given', async () => {
+    vi.useFakeTimers({ shouldAdvanceTime: true });
+    try {
+      const user = userEvent.setup({ advanceTimers: vi.advanceTimersByTime });
+      renderApp();
+      await user.click(screen.getByRole('button', { name: 'Start the test' }));
+      await screen.findByText('Question 1 / 40');
+      expect(screen.getByRole('timer')).toHaveTextContent('20:00');
+      await user.click(screen.getByLabelText('right'));
+      await screen.findByText('Question 2 / 40');
+      await act(async () => {
+        vi.advanceTimersByTime(21 * 60 * 1000);
+      });
+      expect(await screen.findByRole('heading', { name: 'Your level' })).toBeInTheDocument();
+      expect(JSON.parse(localStorage.getItem('eq.placement')!).level).toBeDefined();
+    } finally {
+      vi.useRealTimers();
+    }
+  });
+
+  it('goes back to the intro, saving nothing, if time runs out before any answer', async () => {
+    vi.useFakeTimers({ shouldAdvanceTime: true });
+    try {
+      const user = userEvent.setup({ advanceTimers: vi.advanceTimersByTime });
+      renderApp();
+      await user.click(screen.getByRole('button', { name: 'Start the test' }));
+      await screen.findByText('Question 1 / 40');
+      await act(async () => {
+        vi.advanceTimersByTime(21 * 60 * 1000);
+      });
+      expect(await screen.findByText(/Time is up/)).toBeInTheDocument();
+      expect(localStorage.getItem('eq.placement')).toBeNull();
+    } finally {
+      vi.useRealTimers();
+    }
   });
 
   it('an all-correct run ends at C2 and saves the result', async () => {

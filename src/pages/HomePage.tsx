@@ -74,15 +74,14 @@ export default function HomePage() {
       </Row>
 
       <h2 className="h5">Number of questions</h2>
-      <ButtonGroup className="mb-4" aria-label="Number of questions">
-        {QUESTION_COUNTS.map((n) => (
-          <Button key={n} variant={count === n ? 'primary' : 'outline-primary'} aria-pressed={count === n} onClick={() => setCount(n)}>
-            {n}
-          </Button>
-        ))}
-      </ButtonGroup>
-
-      <div className="d-grid d-sm-block">
+      <div className="d-flex flex-wrap align-items-center gap-3 mb-4">
+        <ButtonGroup aria-label="Number of questions">
+          {QUESTION_COUNTS.map((n) => (
+            <Button key={n} variant={count === n ? 'primary' : 'outline-primary'} aria-pressed={count === n} onClick={() => setCount(n)}>
+              {n}
+            </Button>
+          ))}
+        </ButtonGroup>
         <Button size="lg" disabled={!level} onClick={start}>
           Start
         </Button>

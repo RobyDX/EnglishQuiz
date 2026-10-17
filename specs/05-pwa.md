@@ -37,7 +37,7 @@ Icone in `public/`: **bandiera britannica con sotto la scritta "English Quiz"** 
 - Tutti i livelli sono precacheati (i JSON sono piccoli).
 
 ## Installazione
-- Pulsante "Installa app" nella AboutPage che usa l'evento `beforeinstallprompt` (dove supportato).
+- Pulsante "Install" nella navbar (nascosto se l'app è già installata) che porta alla pagina `#/install` con la spiegazione e il pulsante "Install app"; usa l'evento `beforeinstallprompt` (dove supportato; l'evento è catturato all'avvio in `hooks/useInstall.ts`). AboutPage ha solo un link alla pagina.
 - Per iOS: testo di istruzioni "Condividi → Aggiungi a Home".
 
 ## Verifica (checklist)
