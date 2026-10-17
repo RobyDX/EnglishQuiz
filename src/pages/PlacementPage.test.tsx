@@ -190,9 +190,10 @@ describe('HomePage placement box', () => {
     const user = userEvent.setup();
     renderApp(false, '/');
     expect(screen.queryByRole('button', { name: 'Start' })).not.toBeInTheDocument();
-    expect(screen.getByRole('button', { name: 'Start with 40 questions' })).toBeDisabled();
+    expect(screen.queryByRole('button', { name: /Start with/ })).not.toBeInTheDocument();
     await user.click(screen.getByRole('radio', { name: /A2/ }));
     for (const n of [5, 10, 20, 40]) expect(screen.getByRole('button', { name: `Start with ${n} questions` })).toBeEnabled();
+    for (const b of screen.getAllByRole('button', { name: /Start with/ })) expect(b).not.toHaveClass('active', 'btn-primary');
     await user.click(screen.getByRole('button', { name: 'Start with 40 questions' }));
     expect(await screen.findByText('quiz page')).toBeInTheDocument();
     expect(JSON.parse(localStorage.getItem('eq.prefs')!)).toMatchObject({ lastLevel: 'A2', questionCount: 40 });

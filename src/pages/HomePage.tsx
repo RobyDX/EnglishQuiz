@@ -10,7 +10,6 @@ export default function HomePage() {
   const prefs = loadPrefs();
   const placement = loadPlacement();
   const [level, setLevel] = useState<Level | undefined>(prefs.lastLevel);
-  const [count, setCount] = useState<QuestionCount>(prefs.questionCount);
   const cards = useRef<(HTMLDivElement | null)[]>([]);
 
   // Radio group keyboard pattern: arrows move and select, Home/End go to the first/last level.
@@ -38,7 +37,6 @@ export default function HomePage() {
 
   const start = (n: QuestionCount) => {
     if (!level) return;
-    setCount(n);
     savePrefs({ lastLevel: level, questionCount: n });
     navigate(`/quiz/${level}?n=${n}`);
   };
@@ -74,18 +72,22 @@ export default function HomePage() {
         ))}
       </Row>
 
-      <h2 className="h5">Start a quiz</h2>
-      <p className="text-secondary">{level ? 'Tap the number of questions to begin.' : 'Choose a level, then tap the number of questions to begin.'}</p>
-      <Row xs={2} md={4} className="g-3 mb-4" role="group" aria-label="Number of questions">
-        {QUESTION_COUNTS.map((n) => (
-          <Col key={n}>
-            <Button variant={count === n ? 'primary' : 'outline-primary'} className="w-100 py-3" disabled={!level} onClick={() => start(n)} aria-label={`Start with ${n} questions`}>
-              <span className="d-block display-6 fw-bold lh-1">{n}</span>
-              <small>questions</small>
-            </Button>
-          </Col>
-        ))}
-      </Row>
+      {level && (
+        <>
+          <h2 className="h5">Start a quiz</h2>
+          <p className="text-secondary">Tap the number of questions to begin.</p>
+          <Row xs={2} md={4} className="g-3 mb-4" role="group" aria-label="Number of questions">
+            {QUESTION_COUNTS.map((n) => (
+              <Col key={n}>
+                <Button variant="outline-primary" className="w-100 py-3" onClick={() => start(n)} aria-label={`Start with ${n} questions`}>
+                  <span className="d-block display-6 fw-bold lh-1">{n}</span>
+                  <small>questions</small>
+                </Button>
+              </Col>
+            ))}
+          </Row>
+        </>
+      )}
 
       <Card className="mt-4">
         <Card.Body className="d-flex flex-column flex-sm-row align-items-sm-center justify-content-between gap-2">
