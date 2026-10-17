@@ -12,6 +12,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'prompt',
+      manifestFilename: 'manifest.json', // .json is served by every web server, .webmanifest is not
       manifest: {
         name: 'English Quiz',
         short_name: 'English Quiz',
