@@ -12,7 +12,7 @@ Grafica con **Bootstrap 5**, approccio **mobile-first**. **Colore del tema: il b
 | `#/install` | InstallPage | Spiega che installando l'app si apre come app su PC e smartphone (anche offline); pulsante "Install app" (evento `beforeinstallprompt`) oppure, dove non disponibile, istruzioni (iOS: Share → Add to Home Screen). Se già installata lo dice |
 | `#/about` | AboutPage | Info sull'app, come è stata fatta (Roberto Nacchia, tramite Generative AI, per aiutare a esercitarsi in inglese), versione, come installare l'app |
 
-Navbar sticky con l'icona dell'app (`pwa-192.png`, 32 px) davanti al titolo "English Quiz" (scritto con lo spazio) e una **pulsantiera sempre visibile** (niente hamburger/accordion, va a capo su mobile): **Home** (icona "?" dei quiz), **History** (orologio), **About** (info) e **Install** (freccia di download; solo se l'app non è già installata, cioè non in `display-mode: standalone`). Install porta a `#/install`.
+Navbar sticky con l'icona dell'app (`pwa-192.png`, 32 px) davanti al titolo "English Quiz" (scritto con lo spazio) e una **pulsantiera sempre visibile, solo icone** (nome in `aria-label` e tooltip) (niente hamburger/accordion, va a capo su mobile): **Home** (icona "?" dei quiz), **History** (orologio), **About** (info) e **Install** (freccia di download; solo se l'app non è già installata, cioè non in `display-mode: standalone`). Install porta a `#/install`.
 
 ## HomePage
 - 6 card/pulsanti livello in griglia: `row-cols-2 row-cols-md-3`, ognuna con codice (A1), nome ("Beginner") e breve descrizione.
