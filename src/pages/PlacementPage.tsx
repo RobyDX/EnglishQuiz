@@ -4,41 +4,16 @@ import { useNavigate } from 'react-router-dom';
 import { loadLevel } from '../data';
 import { gradeQuestion } from '../engine/rules';
 import {
+  buildPlacementSet,
   estimateLevel,
-  initialStep,
-  nextStep,
-  pickPlacementQuestion,
   PLACEMENT_TIME_SECONDS,
   PLACEMENT_TOTAL,
-  type PlacementRecord,
   type PlacementResult,
-  type Step,
 } from '../engine/placement';
 import { addSeen, loadSeen, savePlacement } from '../hooks/store';
 import { LEVEL_INFO } from '../levels';
 import { QuestionBody } from '../questions/registry';
 import { LEVELS, type Level, type PlacementSaved, type Question } from '../types';
-
-interface Run {
-  step: Step;
-  records: PlacementRecord[];
-  used: Set<string>;
-  pools: Partial<Record<Level, Question[]>>;
-}
-
-const newRun = (): Run => ({ step: initialStep(), records: [], used: new Set(), pools: {} });
-
-/** The levels ordered by distance from `level` (itself first): used if a level has no question left. */
-const byDistance = (level: Level) => [...LEVELS].sort((a, b) => Math.abs(LEVELS.indexOf(a) - LEVELS.indexOf(level)) - Math.abs(LEVELS.indexOf(b) - LEVELS.indexOf(level)));
-
-async function nextQuestion(run: Run): Promise<Question | undefined> {
-  for (const level of byDistance(run.step.level)) {
-    run.pools[level] ??= await loadLevel(level);
-    const q = pickPlacementQuestion(run.pools[level]!, run.used, loadSeen(level));
-    if (q) return q;
-  }
-  return undefined;
-}
 
 const formatTime = (s: number) => `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
 
@@ -47,29 +22,33 @@ type Phase = 'intro' | 'running' | 'done';
 export default function PlacementPage() {
   const navigate = useNavigate();
   const [phase, setPhase] = useState<Phase>('intro');
-  const [question, setQuestion] = useState<Question>();
-  const [answered, setAnswered] = useState(0);
-  const [waiting, setWaiting] = useState(false);
+  const [questions, setQuestions] = useState<Question[]>([]);
+  const [answers, setAnswers] = useState<Record<number, unknown>>({});
+  const [index, setIndex] = useState(0);
   const [result, setResult] = useState<PlacementResult>();
   const [error, setError] = useState<string>();
   // The page's only role="status" region, always mounted.
   const [announcement, setAnnouncement] = useState('');
   const [secondsLeft, setSecondsLeft] = useState(PLACEMENT_TIME_SECONDS);
   const phaseRef = useRef<Phase>('intro');
-  const run = useRef<Run>(newRun());
+  // The latest test, readable from the timer callback and the finish handler.
+  const latest = useRef({ questions, answers });
+  latest.current = { questions, answers };
   const deadline = useRef(0);
   const timeUp = useRef<() => void>(() => {});
-  // Refs, not state: a second tap must be ignored before the next render.
+  // A ref, not state: a second tap on "Start" must be ignored before the next render.
   const locked = useRef(false);
   const titleRef = useRef<HTMLHeadingElement>(null);
   const resultRef = useRef<HTMLHeadingElement>(null);
+  const total = questions.length;
+  const answeredCount = Object.keys(answers).length;
 
   useEffect(() => {
-    if (phase !== 'running' || !question) return;
-    setAnnouncement(`Question ${answered + 1} of ${PLACEMENT_TOTAL}`);
+    if (phase !== 'running' || total === 0) return;
+    setAnnouncement(`Question ${index + 1} of ${total}`);
     window.scrollTo({ top: 0 });
     titleRef.current?.focus();
-  }, [phase, question, answered]);
+  }, [phase, total, index]);
 
   useEffect(() => {
     if (phase !== 'done' || !result) return;
@@ -92,14 +71,15 @@ export default function PlacementPage() {
   const start = async () => {
     if (locked.current) return;
     locked.current = true;
-    run.current = newRun();
     phaseRef.current = 'running';
     setError(undefined);
     try {
-      const q = await nextQuestion(run.current);
-      if (!q) throw new Error('empty');
-      setAnswered(0);
-      setQuestion(q);
+      const pools = Object.fromEntries(await Promise.all(LEVELS.map(async (l) => [l, await loadLevel(l)]))) as Record<Level, Question[]>;
+      const set = buildPlacementSet(pools, loadSeen);
+      if (set.length === 0) throw new Error('empty');
+      setQuestions(set);
+      setAnswers({});
+      setIndex(0);
       deadline.current = Date.now() + PLACEMENT_TIME_SECONDS * 1000;
       setSecondsLeft(PLACEMENT_TIME_SECONDS);
       setPhase('running');
@@ -111,55 +91,27 @@ export default function PlacementPage() {
     }
   };
 
-  const finish = (r: Run) => {
+  /** Scores the answers given so far; the questions left unanswered do not count. */
+  const finish = () => {
     if (phaseRef.current === 'done') return;
+    const { questions: qs, answers: given } = latest.current;
+    const records = qs.flatMap((q, i) => (i in given ? [{ level: q.level, topic: q.topic, correct: gradeQuestion(q, given[i]) }] : []));
+    if (records.length === 0) {
+      phaseRef.current = 'intro';
+      setQuestions([]);
+      setPhase('intro');
+      setError('Time is up before you answered any question. Try again.');
+      return;
+    }
     phaseRef.current = 'done';
-    const est = estimateLevel(r.records);
+    for (const l of LEVELS) addSeen(l, qs.filter((q, i) => q.level === l && i in given).map((q) => q.id));
+    const est = estimateLevel(records);
     const perLevel = Object.fromEntries(LEVELS.map((l) => [l, { answered: est.perLevel[l].answered, correct: est.perLevel[l].correct }])) as PlacementSaved['perLevel'];
     savePlacement({ date: new Date().toISOString(), level: est.level, perLevel });
     setResult(est);
     setPhase('done');
   };
-
-  timeUp.current = () => {
-    if (run.current.records.length === 0) {
-      setQuestion(undefined);
-      setPhase('intro');
-      setError('Time is up before you answered any question. Try again.');
-    } else {
-      finish(run.current);
-    }
-  };
-
-  const onAnswer = async (value: unknown) => {
-    const r = run.current;
-    if (locked.current || !question) return;
-    if (Date.now() >= deadline.current) return timeUp.current();
-    locked.current = true;
-    setWaiting(true);
-    r.records.push({ level: question.level, topic: question.topic, correct: gradeQuestion(question, value) });
-    r.used.add(question.id);
-    addSeen(question.level, [question.id]);
-    r.step = nextStep(r.step, r.records[r.records.length - 1].correct);
-
-    if (r.records.length >= PLACEMENT_TOTAL) {
-      finish(r);
-    } else {
-      try {
-        const q = await nextQuestion(r);
-        if (q) {
-          setQuestion(q);
-          setAnswered(r.records.length);
-        } else {
-          finish(r); // no question left at all: finish with what we have
-        }
-      } catch {
-        setError('Could not load the questions.');
-      }
-    }
-    setWaiting(false);
-    locked.current = false;
-  };
+  timeUp.current = finish;
 
   let body;
   if (phase === 'intro') {
@@ -167,7 +119,7 @@ export default function PlacementPage() {
       <>
         <h1 className="h3">Find your level</h1>
         <p className="text-secondary">
-          {PLACEMENT_TOTAL} questions in {PLACEMENT_TIME_SECONDS / 60} minutes, one at a time. The next question appears as soon as you answer, and you cannot go back. The questions get easier or harder depending on your answers.
+          {PLACEMENT_TOTAL} questions in {PLACEMENT_TIME_SECONDS / 60} minutes, one at a time, from easier to harder. You can move between the questions, skip some and change your answers before you finish.
         </p>
         {error && <p className="text-danger">{error}</p>}
         <div className="d-grid d-sm-flex gap-2">
@@ -180,7 +132,9 @@ export default function PlacementPage() {
         </div>
       </>
     );
-  } else if (phase === 'running' && question) {
+  } else if (phase === 'running' && total > 0) {
+    const question = questions[index];
+    const unanswered = total - answeredCount;
     body = (
       <>
         <div className="quiz-bar mb-3">
@@ -192,36 +146,68 @@ export default function PlacementPage() {
               </span>
               {' · '}
               <span>
-                Question {answered + 1} / {PLACEMENT_TOTAL}
+                Question {index + 1} / {total}
               </span>
             </span>
           </div>
-          <ProgressBar now={(answered / PLACEMENT_TOTAL) * 100} style={{ height: 6 }} aria-label="Progress" />
+          <ProgressBar now={(answeredCount / total) * 100} style={{ height: 6 }} aria-label="Answered" />
         </div>
+
+        <nav aria-label="Questions" className="d-flex flex-wrap gap-1 mb-3">
+          {questions.map((q, i) => {
+            const done = i in answers;
+            return (
+              <Button
+                key={q.id}
+                size="sm"
+                variant={i === index ? 'primary' : 'outline-secondary'}
+                className="px-0 text-nowrap"
+                style={{ width: '2.9rem' }}
+                aria-label={`Question ${i + 1}, ${done ? 'answered' : 'not answered'}`}
+                aria-current={i === index ? 'step' : undefined}
+                onClick={() => setIndex(i)}
+              >
+                {i + 1}
+                {done && (
+                  <span className={i === index ? 'ms-1' : 'ms-1 text-success fw-bold'} aria-hidden="true">
+                    ✓
+                  </span>
+                )}
+              </Button>
+            );
+          })}
+        </nav>
 
         <Card className="mb-3 question-card" as="section" aria-labelledby="placement-question-title">
           <Card.Header>
             <h2 id="placement-question-title" ref={titleRef} tabIndex={-1} className="h6 mb-0">
-              Question {answered + 1}
+              Question {index + 1}
             </h2>
           </Card.Header>
           <Card.Body key={question.id}>
             <p className="question-prompt">{question.prompt}</p>
-            <QuestionBody question={question} answer={undefined} onChange={onAnswer} disabled={waiting} />
+            <QuestionBody question={question} answer={answers[index]} onChange={(value) => setAnswers((a) => ({ ...a, [index]: value }))} disabled={false} />
           </Card.Body>
         </Card>
         {error && <p className="text-danger">{error}</p>}
-        {waiting && !error && (
-          <div className="text-center text-secondary" aria-hidden="true">
-            <Spinner size="sm" animation="border" />
-          </div>
-        )}
 
-        <div className="action-bar d-grid d-sm-flex justify-content-sm-center py-3">
+        <div className="action-bar d-grid d-sm-flex justify-content-sm-center gap-2 py-3">
+          <Button variant="outline-primary" disabled={index === 0} onClick={() => setIndex(index - 1)}>
+            Previous
+          </Button>
+          <Button variant="outline-primary" disabled={index === total - 1} onClick={() => setIndex(index + 1)}>
+            Next
+          </Button>
+          <Button variant="success" disabled={answeredCount === 0} onClick={finish}>
+            Finish test
+          </Button>
           <Button variant="outline-secondary" onClick={() => navigate('/')}>
             Quit test
           </Button>
         </div>
+        <p className="text-center text-secondary small">
+          {unanswered === 0 ? 'All questions answered.' : `${unanswered} ${unanswered === 1 ? 'question is' : 'questions are'} not answered yet; they will not count.`}
+        </p>
       </>
     );
   } else if (phase === 'done' && result) {
@@ -277,7 +263,7 @@ export default function PlacementPage() {
           <Button size="lg" onClick={() => navigate(`/quiz/${result.level}?n=10`)}>
             Practise {result.level}
           </Button>
-          <Button variant="outline-primary" onClick={() => { setResult(undefined); setQuestion(undefined); phaseRef.current = 'intro'; setPhase('intro'); }}>
+          <Button variant="outline-primary" onClick={() => { setResult(undefined); setQuestions([]); phaseRef.current = 'intro'; setPhase('intro'); }}>
             Retake the test
           </Button>
           <Button variant="outline-secondary" onClick={() => navigate('/')}>
