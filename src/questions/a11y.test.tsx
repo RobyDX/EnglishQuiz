@@ -96,7 +96,7 @@ describe('pages', () => {
     expect(screen.getByRole('radio', { name: /^C2/ })).toHaveFocus();
     await user.keyboard('{ArrowRight}'); // wraps around
     expect(screen.getByRole('radio', { name: /^A1/ })).toHaveAttribute('aria-checked', 'true');
-    expect(screen.getByRole('button', { name: 'Start' })).toBeEnabled();
+    expect(screen.getByRole('button', { name: 'Start with 10 questions' })).toBeEnabled();
   });
 
   it('has a skip link to the main content', async () => {

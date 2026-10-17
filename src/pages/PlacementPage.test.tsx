@@ -185,4 +185,16 @@ describe('HomePage placement box', () => {
     expect(screen.getByText('Your level: B2')).toBeInTheDocument();
     await waitFor(() => expect(screen.getByRole('button', { name: 'Retake the test' })).toBeInTheDocument());
   });
+
+  it('starts the quiz straight from a question-count tile (5/10/20/40), with no Start button', async () => {
+    const user = userEvent.setup();
+    renderApp(false, '/');
+    expect(screen.queryByRole('button', { name: 'Start' })).not.toBeInTheDocument();
+    expect(screen.getByRole('button', { name: 'Start with 40 questions' })).toBeDisabled();
+    await user.click(screen.getByRole('radio', { name: /A2/ }));
+    for (const n of [5, 10, 20, 40]) expect(screen.getByRole('button', { name: `Start with ${n} questions` })).toBeEnabled();
+    await user.click(screen.getByRole('button', { name: 'Start with 40 questions' }));
+    expect(await screen.findByText('quiz page')).toBeInTheDocument();
+    expect(JSON.parse(localStorage.getItem('eq.prefs')!)).toMatchObject({ lastLevel: 'A2', questionCount: 40 });
+  });
 });

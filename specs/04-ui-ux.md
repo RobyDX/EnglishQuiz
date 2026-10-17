@@ -5,7 +5,7 @@ Grafica con **Bootstrap 5**, approccio **mobile-first**. **Colore del tema: il b
 ## Mappa delle schermate (HashRouter)
 | Route | Pagina | Contenuto |
 |-------|--------|-----------|
-| `#/` | HomePage | Scelta livello, numero domande, pulsante "Start" |
+| `#/` | HomePage | Scelta livello, tile del numero di domande (avviano il quiz) |
 | `#/quiz/:level` | QuizPage | Domande, pulsante "Check answers", risultato |
 | `#/placement` | PlacementPage | Test di livello: 40 domande una alla volta, risultato con livello stimato |
 | `#/history` | HistoryPage | Ultimi risultati, pulsante "Clear history" |
@@ -16,9 +16,8 @@ Navbar sticky con l'icona dell'app (`pwa-192.png`, 32 px) davanti al titolo "Eng
 
 ## HomePage
 - 6 card/pulsanti livello in griglia: `row-cols-2 row-cols-md-3`, ognuna con codice (A1), nome ("Beginner") e breve descrizione.
-- Selettore numero domande (`btn-group`: 5 / 10 / 20).
-- Pulsante primario "Start" (disabilitato finché non c'è un livello), **sulla stessa riga della scelta del numero di domande** (va a capo su schermi stretti). Il livello è preselezionato dall'ultimo usato.
-- Sotto "Start", un riquadro **"Not sure about your level?"** con il pulsante **"Find your level"** (porta a `#/placement`). Se c'è un risultato salvato (`eq.placement`) il riquadro mostra "Your level: B1" con la data del test e il pulsante **"Retake the test"**.
+- Numero di domande come **tile** (5 / 10 / 20 / 40, numero grande + "questions"): **la pressione avvia subito il quiz** (nessun pulsante "Start"). Le tile sono disabilitate finché non è scelto un livello.
+- Sotto le tile, un riquadro **"Not sure about your level?"** con il pulsante **"Find your level"** (porta a `#/placement`). Se c'è un risultato salvato (`eq.placement`) il riquadro mostra "Your level: B1" con la data del test e il pulsante **"Retake the test"**.
 
 | Livello | Nome |
 |---------|------|
@@ -103,4 +102,4 @@ Per le domande corrette si mostra solo ✓ Correct. "Show correct answers" mostr
 Tutti i testi, incluse le spiegazioni, sono in **inglese**.
 
 ## Testi UI (solo inglese)
-Find your level · Not sure about your level? · Start the test · Quit test · Your level · Practise · Retake the test · Check answers · Show correct answers · Hide correct answers · Skip to main content · Try again · New quiz · Change level · You left N questions unanswered. Submit anyway? · Correct answer · Your answer · No answer · Why it's wrong · Rule · Excellent / Good / Pass / Needs review · Start · History · About · Install app · New version available – Update.
+Find your level · Not sure about your level? · Start the test · Quit test · Your level · Practise · Retake the test · Check answers · Show correct answers · Hide correct answers · Skip to main content · Try again · New quiz · Change level · You left N questions unanswered. Submit anyway? · Correct answer · Your answer · No answer · Why it's wrong · Rule · Excellent / Good / Pass / Needs review · History · About · Install app · New version available – Update.
