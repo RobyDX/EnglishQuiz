@@ -9,14 +9,15 @@ Grafica con **Bootstrap 5**, approccio **mobile-first**. **Colore del tema: il b
 | `#/quiz/:level` | QuizPage | Domande, pulsante "Check answers", risultato |
 | `#/placement` | PlacementPage | Test di livello: 40 domande una alla volta, risultato con livello stimato |
 | `#/history` | HistoryPage | Ultimi risultati, pulsante "Clear history" |
+| `#/install` | InstallPage | Spiega che installando l'app si apre come app su PC e smartphone (anche offline); pulsante "Install app" (evento `beforeinstallprompt`) oppure, dove non disponibile, istruzioni (iOS: Share → Add to Home Screen). Se già installata lo dice |
 | `#/about` | AboutPage | Info sull'app, come è stata fatta (Roberto Nacchia, tramite Generative AI, per aiutare a esercitarsi in inglese), versione, come installare l'app |
 
-Navbar sticky con titolo "English Quiz" (scritto con lo spazio) e link Home / History / About (collassa in hamburger su mobile).
+Navbar sticky con l'icona dell'app (`pwa-192.png`, 32 px) davanti al titolo "English Quiz" (scritto con lo spazio) e una **pulsantiera sempre visibile** (niente hamburger/accordion, va a capo su mobile): **Home** (icona "?" dei quiz), **History** (orologio), **About** (info) e **Install** (freccia di download; solo se l'app non è già installata, cioè non in `display-mode: standalone`). Install porta a `#/install`.
 
 ## HomePage
 - 6 card/pulsanti livello in griglia: `row-cols-2 row-cols-md-3`, ognuna con codice (A1), nome ("Beginner") e breve descrizione.
 - Selettore numero domande (`btn-group`: 5 / 10 / 20).
-- Pulsante primario "Start" (disabilitato finché non c'è un livello). Il livello è preselezionato dall'ultimo usato.
+- Pulsante primario "Start" (disabilitato finché non c'è un livello), **sulla stessa riga della scelta del numero di domande** (va a capo su schermi stretti). Il livello è preselezionato dall'ultimo usato.
 - Sotto "Start", un riquadro **"Not sure about your level?"** con il pulsante **"Find your level"** (porta a `#/placement`). Se c'è un risultato salvato (`eq.placement`) il riquadro mostra "Your level: B1" con la data del test e il pulsante **"Retake the test"**.
 
 | Livello | Nome |
@@ -40,8 +41,8 @@ Navbar sticky con titolo "English Quiz" (scritto con lo spazio) e link Home / Hi
 
 ## PlacementPage (`#/placement`)
 **Layout**: `col-12 col-lg-8 mx-auto`. Tre stati:
-1. **Intro**: titolo "Find your level", testo breve (40 questions, one at a time, the next one appears as soon as you answer, you cannot go back) e pulsante primario **"Start the test"**.
-2. **Test**: barra di avanzamento sticky (`quiz-bar`) con "Question n / 40" e `progress` (senza "↓ End": la pagina è corta). Sotto, **una sola card** con tipologia, consegna e le opzioni. **Appena si sceglie una risposta si passa alla domanda successiva**, senza conferma e senza feedback sulla correttezza (si vede solo alla fine). In fondo alla pagina, il pulsante secondario **"Quit test"** (torna alla Home, il test non viene salvato).
+1. **Intro**: titolo "Find your level", testo breve (40 questions in 20 minutes, one at a time, the next one appears as soon as you answer, you cannot go back) e pulsante primario **"Start the test"**.
+2. **Test**: barra di avanzamento sticky (`quiz-bar`) con il **timer a ritroso** (`role="timer"`, m:ss, rosso nell'ultimo minuto), "Question n / 40" e `progress` (a tempo scaduto il test si interrompe e si mostra il risultato calcolato sulle risposte date (se non ne è stata data nessuna si torna all'intro con un avviso e non si salva nulla); senza "↓ End": la pagina è corta). Sotto, **una sola card** con tipologia, consegna e le opzioni. **Appena si sceglie una risposta si passa alla domanda successiva**, senza conferma e senza feedback sulla correttezza (si vede solo alla fine). In fondo alla pagina, il pulsante secondario **"Quit test"** (torna alla Home, il test non viene salvato).
 3. **Risultato**: titolo "Your level", il livello stimato in grande (es. **B1** + nome), una barra `progress` per ogni livello con "risposte giuste / date" (i livelli senza risposte sono grigi), l'elenco degli **argomenti più deboli** (se ce ne sono) e in fondo i pulsanti **"Practise B1"** (apre un quiz normale di quel livello, 10 domande), **"Retake the test"** e **"Home"**.
 
 **Accessibilità.** Una sola regione `role="status"` sempre montata annuncia "Question n of 40" a ogni avanzamento e il livello stimato alla fine; a ogni nuova domanda il focus va al titolo della card (`tabIndex=-1`); a fine test il focus va al titolo del risultato. Le opzioni sono i normali radio / pulsanti delle domande a scelta, usabili da tastiera.

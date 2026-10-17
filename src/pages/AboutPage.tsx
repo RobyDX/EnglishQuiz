@@ -1,22 +1,6 @@
-import { useEffect, useState } from 'react';
-import { Button } from 'react-bootstrap';
-
-interface InstallPromptEvent extends Event {
-  prompt: () => Promise<void>;
-}
+import { Link } from 'react-router-dom';
 
 export default function AboutPage() {
-  const [installEvent, setInstallEvent] = useState<InstallPromptEvent | null>(null);
-
-  useEffect(() => {
-    const handler = (e: Event) => {
-      e.preventDefault();
-      setInstallEvent(e as InstallPromptEvent);
-    };
-    window.addEventListener('beforeinstallprompt', handler);
-    return () => window.removeEventListener('beforeinstallprompt', handler);
-  }, []);
-
   return (
     <div className="col-12 col-lg-8 mx-auto">
       <h1 className="h3">About</h1>
@@ -32,16 +16,9 @@ export default function AboutPage() {
       <p>
         After the first visit the app works without an internet connection. You can install it on your device.
       </p>
-      {installEvent && (
-        <Button
-          onClick={async () => {
-            await installEvent.prompt();
-            setInstallEvent(null);
-          }}
-        >
-          Install app
-        </Button>
-      )}
+      <p>
+        <Link to="/install">How to install the app</Link>
+      </p>
       <p className="text-secondary small mt-3">On iPhone or iPad: tap Share, then &ldquo;Add to Home Screen&rdquo;.</p>
       <p className="text-secondary small">Version {__APP_VERSION__}</p>
     </div>

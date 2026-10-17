@@ -8,6 +8,7 @@ import {
   initialStep,
   nextStep,
   pickPlacementQuestion,
+  PLACEMENT_TIME_SECONDS,
   PLACEMENT_TOTAL,
   type PlacementRecord,
   type PlacementResult,
@@ -39,6 +40,8 @@ async function nextQuestion(run: Run): Promise<Question | undefined> {
   return undefined;
 }
 
+const formatTime = (s: number) => `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
+
 type Phase = 'intro' | 'running' | 'done';
 
 export default function PlacementPage() {
@@ -51,7 +54,11 @@ export default function PlacementPage() {
   const [error, setError] = useState<string>();
   // The page's only role="status" region, always mounted.
   const [announcement, setAnnouncement] = useState('');
+  const [secondsLeft, setSecondsLeft] = useState(PLACEMENT_TIME_SECONDS);
+  const phaseRef = useRef<Phase>('intro');
   const run = useRef<Run>(newRun());
+  const deadline = useRef(0);
+  const timeUp = useRef<() => void>(() => {});
   // Refs, not state: a second tap must be ignored before the next render.
   const locked = useRef(false);
   const titleRef = useRef<HTMLHeadingElement>(null);
@@ -71,18 +78,33 @@ export default function PlacementPage() {
     resultRef.current?.focus();
   }, [phase, result]);
 
+  // Countdown against a fixed deadline (robust to throttled timers); at zero the test stops.
+  useEffect(() => {
+    if (phase !== 'running') return;
+    const id = setInterval(() => {
+      const left = Math.max(0, Math.ceil((deadline.current - Date.now()) / 1000));
+      setSecondsLeft(left);
+      if (left === 0) timeUp.current();
+    }, 1000);
+    return () => clearInterval(id);
+  }, [phase]);
+
   const start = async () => {
     if (locked.current) return;
     locked.current = true;
     run.current = newRun();
+    phaseRef.current = 'running';
     setError(undefined);
     try {
       const q = await nextQuestion(run.current);
       if (!q) throw new Error('empty');
       setAnswered(0);
       setQuestion(q);
+      deadline.current = Date.now() + PLACEMENT_TIME_SECONDS * 1000;
+      setSecondsLeft(PLACEMENT_TIME_SECONDS);
       setPhase('running');
     } catch {
+      phaseRef.current = 'intro';
       setError('Could not load the questions.');
     } finally {
       locked.current = false;
@@ -90,6 +112,8 @@ export default function PlacementPage() {
   };
 
   const finish = (r: Run) => {
+    if (phaseRef.current === 'done') return;
+    phaseRef.current = 'done';
     const est = estimateLevel(r.records);
     const perLevel = Object.fromEntries(LEVELS.map((l) => [l, { answered: est.perLevel[l].answered, correct: est.perLevel[l].correct }])) as PlacementSaved['perLevel'];
     savePlacement({ date: new Date().toISOString(), level: est.level, perLevel });
@@ -97,9 +121,20 @@ export default function PlacementPage() {
     setPhase('done');
   };
 
+  timeUp.current = () => {
+    if (run.current.records.length === 0) {
+      setQuestion(undefined);
+      setPhase('intro');
+      setError('Time is up before you answered any question. Try again.');
+    } else {
+      finish(run.current);
+    }
+  };
+
   const onAnswer = async (value: unknown) => {
     const r = run.current;
     if (locked.current || !question) return;
+    if (Date.now() >= deadline.current) return timeUp.current();
     locked.current = true;
     setWaiting(true);
     r.records.push({ level: question.level, topic: question.topic, correct: gradeQuestion(question, value) });
@@ -132,7 +167,7 @@ export default function PlacementPage() {
       <>
         <h1 className="h3">Find your level</h1>
         <p className="text-secondary">
-          {PLACEMENT_TOTAL} questions, one at a time. The next question appears as soon as you answer, and you cannot go back. The questions get easier or harder depending on your answers.
+          {PLACEMENT_TOTAL} questions in {PLACEMENT_TIME_SECONDS / 60} minutes, one at a time. The next question appears as soon as you answer, and you cannot go back. The questions get easier or harder depending on your answers.
         </p>
         {error && <p className="text-danger">{error}</p>}
         <div className="d-grid d-sm-flex gap-2">
@@ -152,7 +187,13 @@ export default function PlacementPage() {
           <div className="d-flex justify-content-between align-items-center mb-1">
             <h1 className="h5 mb-0">Find your level</h1>
             <span className="text-secondary">
-              Question {answered + 1} / {PLACEMENT_TOTAL}
+              <span className={secondsLeft <= 60 ? 'text-danger fw-semibold' : ''} role="timer" aria-label="Time left">
+                {formatTime(secondsLeft)}
+              </span>
+              {' · '}
+              <span>
+                Question {answered + 1} / {PLACEMENT_TOTAL}
+              </span>
             </span>
           </div>
           <ProgressBar now={(answered / PLACEMENT_TOTAL) * 100} style={{ height: 6 }} aria-label="Progress" />
@@ -236,7 +277,7 @@ export default function PlacementPage() {
           <Button size="lg" onClick={() => navigate(`/quiz/${result.level}?n=10`)}>
             Practise {result.level}
           </Button>
-          <Button variant="outline-primary" onClick={() => { setResult(undefined); setQuestion(undefined); setPhase('intro'); }}>
+          <Button variant="outline-primary" onClick={() => { setResult(undefined); setQuestion(undefined); phaseRef.current = 'intro'; setPhase('intro'); }}>
             Retake the test
           </Button>
           <Button variant="outline-secondary" onClick={() => navigate('/')}>
