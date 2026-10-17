@@ -55,7 +55,7 @@ describe('PlacementPage', () => {
     const user = userEvent.setup();
     renderApp();
     expect(screen.getByRole('heading', { name: 'Find your level' })).toBeInTheDocument();
-    expect(screen.getByText(/40 questions in 20 minutes, one at a time/)).toBeInTheDocument();
+    expect(screen.getByText(/40 questions in 40 minutes, one at a time/)).toBeInTheDocument();
     expect(screen.queryByText(/certification/i)).not.toBeInTheDocument();
     await user.click(screen.getByRole('button', { name: 'Start the test' }));
     expect(await screen.findByText('Question 1 / 40')).toBeInTheDocument();

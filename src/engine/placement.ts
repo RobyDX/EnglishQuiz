@@ -5,8 +5,8 @@ import { LEVELS, type Level, type Question, type QuestionType } from '../types';
 
 /** Number of questions in a placement test (specs/01 §11). */
 export const PLACEMENT_TOTAL = 40;
-/** Time limit for the whole test: 30 seconds per question on average. */
-export const PLACEMENT_TIME_SECONDS = 20 * 60;
+/** Time limit for the whole test: 60 seconds per question on average. */
+export const PLACEMENT_TIME_SECONDS = 40 * 60;
 export const PLACEMENT_START: Level = 'B1';
 /** Consecutive correct answers needed to move one level up. */
 export const PLACEMENT_UP_AFTER = 2;

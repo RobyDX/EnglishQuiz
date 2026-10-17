@@ -40,7 +40,7 @@ Navbar sticky con l'icona dell'app (`pwa-192.png`, 32 px) davanti al titolo "Eng
 
 ## PlacementPage (`#/placement`)
 **Layout**: `col-12 col-lg-8 mx-auto`. Tre stati:
-1. **Intro**: titolo "Find your level", testo breve (40 questions in 20 minutes, one at a time, the next one appears as soon as you answer, you cannot go back) e pulsante primario **"Start the test"**.
+1. **Intro**: titolo "Find your level", testo breve (40 questions in 40 minutes, one at a time, the next one appears as soon as you answer, you cannot go back) e pulsante primario **"Start the test"**.
 2. **Test**: barra di avanzamento sticky (`quiz-bar`) con il **timer a ritroso** (`role="timer"`, m:ss, rosso nell'ultimo minuto), "Question n / 40" e `progress` (a tempo scaduto il test si interrompe e si mostra il risultato calcolato sulle risposte date (se non ne è stata data nessuna si torna all'intro con un avviso e non si salva nulla); senza "↓ End": la pagina è corta). Sotto, **una sola card** con tipologia, consegna e le opzioni. **Appena si sceglie una risposta si passa alla domanda successiva**, senza conferma e senza feedback sulla correttezza (si vede solo alla fine). In fondo alla pagina, il pulsante secondario **"Quit test"** (torna alla Home, il test non viene salvato).
 3. **Risultato**: titolo "Your level", il livello stimato in grande (es. **B1** + nome), una barra `progress` per ogni livello con "risposte giuste / date" (i livelli senza risposte sono grigi), l'elenco degli **argomenti più deboli** (se ce ne sono) e in fondo i pulsanti **"Practise B1"** (apre un quiz normale di quel livello, 10 domande), **"Retake the test"** e **"Home"**.
 
