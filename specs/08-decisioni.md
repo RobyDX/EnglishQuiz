@@ -37,6 +37,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 31 | Start sulla stessa riga della scelta del numero di domande | Richiesta esplicita | 04 |
 | 32 | **Numero di domande come tile che avvia il quiz**; niente pulsante Start (sostituisce la 31); aggiunta la modalità da **40** domande | Richiesta esplicita | 01, 04 |
 | 33 | Il manifest si chiama **`manifest.json`** (non `.webmanifest`): `manifestFilename` in `vite.config.ts` | Alcuni server (es. IIS) non servono l'estensione `.webmanifest` e rispondono 404; `.json` è noto a tutti | 05 |
+| 34 | Le tile del numero di domande sono **nascoste finché non c'è un livello** e **mai selezionate** (tutte uguali, `outline-primary`) | Richiesta esplicita: sono azioni che avviano il quiz, non uno stato | 04 |
 
 ## Ancora aperte
 Vedi `06-piano-implementazione.md`, sezione "Decisioni": hosting, export/import cronologia, ESLint/Prettier.

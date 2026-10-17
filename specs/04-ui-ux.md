@@ -16,7 +16,7 @@ Navbar sticky con l'icona dell'app (`pwa-192.png`, 32 px) davanti al titolo "Eng
 
 ## HomePage
 - 6 card/pulsanti livello in griglia: `row-cols-2 row-cols-md-3`, ognuna con codice (A1), nome ("Beginner") e breve descrizione.
-- Numero di domande come **tile** (5 / 10 / 20 / 40, numero grande + "questions"): **la pressione avvia subito il quiz** (nessun pulsante "Start"). Le tile sono disabilitate finché non è scelto un livello.
+- Numero di domande come **tile** (5 / 10 / 20 / 40, numero grande + "questions"): **la pressione avvia subito il quiz** (nessun pulsante "Start"). Le tile **compaiono solo dopo che è stato scelto un livello** (quello dell'ultimo quiz è preselezionato) e **nessuna è mai evidenziata/selezionata**: sono pulsanti d'azione, non una scelta.
 - Sotto le tile, un riquadro **"Not sure about your level?"** con il pulsante **"Find your level"** (porta a `#/placement`). Se c'è un risultato salvato (`eq.placement`) il riquadro mostra "Your level: B1" con la data del test e il pulsante **"Retake the test"**.
 
 | Livello | Nome |
