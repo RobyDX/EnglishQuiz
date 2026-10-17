@@ -9,7 +9,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 3 | **Tutto in inglese** nell'app (UI, domande, spiegazioni); specs in italiano | Pubblico italiano, ma l'immersione è l'obiettivo. Niente i18n, niente traduzioni (tipo `translate-choice` sostituito da `sentence-choice`) | 01, 02 |
 | 4 | **15 tipologie di domanda**, UI separata dalle regole (`questions/` vs `engine/rules.ts`) | Aggiungere un tipo non tocca il motore | 02, 01 §5.1 |
 | 5 | **Punteggio**: 1 punto per domanda, tutto o niente; percentuale intera arrotondata | Più spazi nella stessa domanda = tutti giusti | 01 §6 |
-| 6 | Quiz da **5 / 10 / 20** domande, default 10; tipologie alternate (round-robin); si evitano le ultime ~100 domande già viste per livello | Meno ripetizioni | 01 §7 |
+| 6 | Quiz da **5 / 10 / 20 / 40** domande, default 10; tipologie alternate (round-robin); si evitano le ultime ~100 domande già viste per livello | Meno ripetizioni | 01 §7 |
 | 7 | **Feedback sugli errori** subito dopo "Check answers": Your answer, Correct answer, Why it's wrong, Rule | Richiesta esplicita: perché è sbagliato e qual è la regola | 04, 01 F11 |
 | 8 | **Ogni risposta sbagliata ha una spiegazione propria** (`wrongReasons`); per `word-bank` una per ogni parola e per ogni spazio (`<n>:<parola>`); se manca, un fallback legato alla risposta | Con *a / an / the*, "the" richiede una spiegazione diversa da "a". I test lo impongono | 02, 07 |
 | 9 | **2000 domande per livello** (12000 totali), quote per livello e tipologia | Prima 60, poi 600, poi 2000. Si produce a lotti, un livello alla volta | 07 |
@@ -35,6 +35,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 29 | **Navbar con pulsantiera sempre visibile** (niente hamburger), icona app prima del titolo, icona quiz su Home; **pagina `#/install`** con pulsante Install in navbar quando l'app non è installata | Richiesta esplicita. Icone SVG inline (nessuna dipendenza). L'evento `beforeinstallprompt` è catturato a livello di modulo | 04, 05 |
 | 30 | **Timer di 20 minuti** (30 s a domanda) per il test di livello; a scadenza il test si ferma e si valuta sulle risposte date | Richiesta esplicita, tempo scelto da noi. Nessuna risposta ⇒ si torna all'intro senza salvare | 01 §11, 04 |
 | 31 | Start sulla stessa riga della scelta del numero di domande | Richiesta esplicita | 04 |
+| 32 | **Numero di domande come tile che avvia il quiz**; niente pulsante Start (sostituisce la 31); aggiunta la modalità da **40** domande | Richiesta esplicita | 01, 04 |
 
 ## Ancora aperte
 Vedi `06-piano-implementazione.md`, sezione "Decisioni": hosting, export/import cronologia, ESLint/Prettier.

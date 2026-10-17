@@ -28,7 +28,7 @@ function skipToMain(e: MouseEvent<HTMLAnchorElement>) {
 }
 
 // Bootstrap-Icons-style glyphs, inline to avoid a dependency.
-const svgProps = { width: 16, height: 16, viewBox: '0 0 16 16', fill: 'currentColor', 'aria-hidden': true, focusable: false } as const;
+const svgProps = { width: 20, height: 20, viewBox: '0 0 16 16', fill: 'currentColor', 'aria-hidden': true, focusable: false } as const;
 const QuizIcon = () => (
   <svg {...svgProps}>
     <path d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14m0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16" />
@@ -55,11 +55,11 @@ const InstallIcon = () => (
   </svg>
 );
 
-function NavButton({ to, end, icon, children }: { to: string; end?: boolean; icon: ReactNode; children: ReactNode }) {
+// Icon-only button: the name goes in aria-label and in the tooltip.
+function NavButton({ to, end, icon, label }: { to: string; end?: boolean; icon: ReactNode; label: string }) {
   return (
-    <NavLink to={to} end={end} className={({ isActive }) => `btn btn-sm d-inline-flex align-items-center gap-1 ${isActive ? 'btn-light' : 'btn-outline-light'}`}>
+    <NavLink to={to} end={end} aria-label={label} title={label} className={({ isActive }) => `btn d-inline-flex align-items-center ${isActive ? 'btn-light' : 'btn-outline-light'}`}>
       {icon}
-      {children}
     </NavLink>
   );
 }
@@ -97,19 +97,11 @@ export default function Layout() {
             )}
           </Navbar.Brand>
           <nav aria-label="Main" className="d-flex flex-wrap gap-2">
-            <NavButton to="/" end icon={<QuizIcon />}>
-              Home
-            </NavButton>
-            <NavButton to="/history" icon={<ClockIcon />}>
-              History
-            </NavButton>
-            <NavButton to="/about" icon={<InfoIcon />}>
-              About
-            </NavButton>
+            <NavButton to="/" end icon={<QuizIcon />} label="Home" />
+            <NavButton to="/history" icon={<ClockIcon />} label="History" />
+            <NavButton to="/about" icon={<InfoIcon />} label="About" />
             {!standalone && (
-              <NavButton to="/install" icon={<InstallIcon />}>
-                Install
-              </NavButton>
+              <NavButton to="/install" icon={<InstallIcon />} label="Install" />
             )}
           </nav>
         </Container>

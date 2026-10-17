@@ -9,5 +9,5 @@ export const LEVEL_INFO: Record<Level, { name: string; description: string }> = 
   C2: { name: 'Proficiency', description: 'Near-native nuance and style' },
 };
 
-export const QUESTION_COUNTS = [5, 10, 20] as const;
+export const QUESTION_COUNTS = [5, 10, 20, 40] as const;
 export type QuestionCount = (typeof QUESTION_COUNTS)[number];
