@@ -7,18 +7,36 @@ import { LEVELS, type Level, type Question, type QuestionType } from '../types';
 export const PLACEMENT_TOTAL = 40;
 /** Time limit for the whole test: 60 seconds per question on average. */
 export const PLACEMENT_TIME_SECONDS = 40 * 60;
-/** Questions per level in the fixed test (sums to PLACEMENT_TOTAL). */
-export const PLACEMENT_QUOTAS: Record<Level, number> = { A1: 6, A2: 7, B1: 7, B2: 7, C1: 7, C2: 6 };
 /** A level counts as "reached" with at least this percentage of correct answers... */
 export const PLACEMENT_PASS_PERCENT = 70;
-/** ...given at least this many answers at that level. */
+/** ...given at least this many questions at that level. */
 export const PLACEMENT_MIN_ANSWERS = 5;
 const WEAK_TOPIC_MIN_WRONG = 2;
 const WEAK_TOPICS_MAX = 5;
+/** How many of the latest question types to avoid repeating, when possible. */
+const RECENT_TYPES = 2;
 
-/** Single-tap types only: choosing an answer is enough to move on to the next question. */
-const PLACEMENT_TYPES: ReadonlySet<QuestionType> = new Set(['multiple-choice', 'verb-form', 'sentence-choice', 'odd-one-out']);
-export const isPlacementQuestion = (q: Question) => PLACEMENT_TYPES.has(q.type);
+/**
+ * Types where a single tap is the whole answer: choosing moves on to the next question.
+ * The other types have several fields, words to arrange or free text, and need "Next".
+ */
+const SINGLE_TAP_TYPES: ReadonlySet<QuestionType> = new Set([
+  'multiple-choice',
+  'verb-form',
+  'sentence-choice',
+  'odd-one-out',
+  'error-spot',
+  'place-word',
+]);
+export const isSingleTap = (q: Question) => SINGLE_TAP_TYPES.has(q.type);
+
+export type Outcome = 'correct' | 'wrong' | 'skipped';
+
+/** Staircase: a right answer makes the next question one level harder; a wrong answer or a skip, one level easier. */
+export function nextLevel(level: Level, outcome: Outcome): Level {
+  const i = LEVELS.indexOf(level) + (outcome === 'correct' ? 1 : -1);
+  return LEVELS[Math.min(LEVELS.length - 1, Math.max(0, i))];
+}
 
 export interface PlacementRecord {
   level: Level;
@@ -38,7 +56,11 @@ export interface PlacementResult {
   weakTopics: { topic: string; wrong: number }[];
 }
 
-/** Estimated level = the highest one with enough answers and enough correct ones (A1 if none). */
+/**
+ * Estimated level: the highest one with enough questions and enough right answers (A1 if none).
+ * With the up/down staircase the questions pile up around the person's level, so that is where the
+ * evidence is: a level is reached when most of its questions (skipped ones count as wrong) were right.
+ */
 export function estimateLevel(records: PlacementRecord[]): PlacementResult {
   const perLevel = Object.fromEntries(LEVELS.map((l) => [l, { answered: 0, correct: 0, percent: 0 }])) as Record<Level, LevelStat>;
   const wrongByTopic = new Map<string, number>();
@@ -63,48 +85,30 @@ export function estimateLevel(records: PlacementRecord[]): PlacementResult {
 }
 
 /**
- * Picks a random question that is suitable for the placement test, not used yet in this test,
- * preferring the ones not seen recently. Returns undefined if the pool has none left.
+ * Picks the next question at `level` (any type): not used yet in this test, preferring the ones not seen
+ * recently and a type different from the last two. If the level has nothing left, the closest level is used.
+ * Returns undefined only if the whole catalogue has run out.
  */
-export function pickPlacementQuestion(
-  pool: Question[],
+export function pickAdaptiveQuestion(
+  pools: Partial<Record<Level, Question[]>>,
+  level: Level,
   used: ReadonlySet<string>,
-  seen: ReadonlySet<string> = new Set(),
+  seenOf: (level: Level) => ReadonlySet<string> = () => new Set(),
+  recentTypes: readonly QuestionType[] = [],
   rng: Rng = Math.random,
 ): Question | undefined {
-  const candidates = pool.filter((q) => isPlacementQuestion(q) && !used.has(q.id));
-  const fresh = candidates.filter((q) => !seen.has(q.id));
-  const chosen = pickRandom(fresh.length ? fresh : candidates, rng);
-  return chosen && prepareQuestion(chosen, rng);
-}
-
-/**
- * The fixed question set of a test: `PLACEMENT_QUOTAS[level]` questions per level, easiest level first.
- * Pools are keyed by level; if a level has too few suitable questions the missing ones are taken
- * from the closest levels. Returns fewer than PLACEMENT_TOTAL only if the whole catalogue runs out.
- */
-export function buildPlacementSet(
-  pools: Partial<Record<Level, Question[]>>,
-  seenOf: (level: Level) => ReadonlySet<string> = () => new Set(),
-  rng: Rng = Math.random,
-): Question[] {
-  const used = new Set<string>();
-  const byLevel = new Map<Level, Question[]>();
-  const take = (level: Level): Question | undefined => {
-    const q = pickPlacementQuestion(pools[level] ?? [], used, seenOf(level), rng);
-    if (q) used.add(q.id);
-    return q;
-  };
-  for (const level of LEVELS) {
-    const picked: Question[] = [];
-    const order = [...LEVELS].sort((a, b) => Math.abs(LEVELS.indexOf(a) - LEVELS.indexOf(level)) - Math.abs(LEVELS.indexOf(b) - LEVELS.indexOf(level)));
-    while (picked.length < PLACEMENT_QUOTAS[level]) {
-      let q: Question | undefined;
-      for (const l of order) if ((q = take(l))) break;
-      if (!q) break;
-      picked.push(q);
-    }
-    byLevel.set(level, picked);
+  const at = LEVELS.indexOf(level);
+  const byDistance = [...LEVELS].sort((a, b) => Math.abs(LEVELS.indexOf(a) - at) - Math.abs(LEVELS.indexOf(b) - at));
+  for (const l of byDistance) {
+    const candidates = (pools[l] ?? []).filter((q) => !used.has(q.id));
+    if (candidates.length === 0) continue;
+    const seen = seenOf(l);
+    const fresh = candidates.filter((q) => !seen.has(q.id));
+    const base = fresh.length ? fresh : candidates;
+    const avoid = new Set(recentTypes.slice(-RECENT_TYPES));
+    const varied = base.filter((q) => !avoid.has(q.type));
+    const chosen = pickRandom(varied.length ? varied : base, rng);
+    return chosen && prepareQuestion(chosen, rng);
   }
-  return LEVELS.flatMap((l) => byLevel.get(l)!);
+  return undefined;
 }
