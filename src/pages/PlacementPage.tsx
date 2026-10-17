@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { Badge, Button, Card, ProgressBar, Spinner } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
+import QuestionCard from '../components/QuestionCard';
 import { loadLevel } from '../data';
 import { gradeQuestion } from '../engine/rules';
 import {
@@ -25,6 +26,7 @@ export default function PlacementPage() {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [answers, setAnswers] = useState<Record<number, unknown>>({});
   const [index, setIndex] = useState(0);
+  const [showSolutions, setShowSolutions] = useState(false);
   const [result, setResult] = useState<PlacementResult>();
   const [error, setError] = useState<string>();
   // The page's only role="status" region, always mounted.
@@ -80,6 +82,7 @@ export default function PlacementPage() {
       setQuestions(set);
       setAnswers({});
       setIndex(0);
+      setShowSolutions(false);
       deadline.current = Date.now() + PLACEMENT_TIME_SECONDS * 1000;
       setSecondsLeft(PLACEMENT_TIME_SECONDS);
       setPhase('running');
@@ -186,7 +189,10 @@ export default function PlacementPage() {
           </Card.Header>
           <Card.Body key={question.id}>
             <p className="question-prompt">{question.prompt}</p>
-            <QuestionBody question={question} answer={answers[index]} onChange={(value) => setAnswers((a) => ({ ...a, [index]: value }))} disabled={false} />
+            <QuestionBody question={question} answer={answers[index]} onChange={(value) => {
+                setAnswers((a) => ({ ...a, [index]: value }));
+                if (index < total - 1) setIndex(index + 1);
+              }} disabled={false} />
           </Card.Body>
         </Card>
         {error && <p className="text-danger">{error}</p>}
@@ -259,11 +265,31 @@ export default function PlacementPage() {
           </>
         )}
 
+        <div className="d-flex justify-content-between align-items-center mb-2">
+          <h2 className="h5 mb-0">Review your answers</h2>
+          <Button size="sm" variant="outline-secondary" aria-pressed={showSolutions} onClick={() => setShowSolutions(!showSolutions)}>
+            {showSolutions ? 'Hide correct answers' : 'Show correct answers'}
+          </Button>
+        </div>
+        {questions.map((q, i) => (
+          <QuestionCard
+            key={q.id}
+            index={i}
+            question={q}
+            answer={answers[i]}
+            onChange={() => {}}
+            submitted
+            correct={i in answers && gradeQuestion(q, answers[i])}
+            showSolution={showSolutions}
+            onEnter={() => {}}
+          />
+        ))}
+
         <div className="action-bar d-grid d-sm-flex gap-2 justify-content-sm-center py-3">
           <Button size="lg" onClick={() => navigate(`/quiz/${result.level}?n=10`)}>
             Practise {result.level}
           </Button>
-          <Button variant="outline-primary" onClick={() => { setResult(undefined); setQuestions([]); phaseRef.current = 'intro'; setPhase('intro'); }}>
+          <Button variant="outline-primary" onClick={() => { setResult(undefined); setQuestions([]); setAnswers({}); phaseRef.current = 'intro'; setPhase('intro'); }}>
             Retake the test
           </Button>
           <Button variant="outline-secondary" onClick={() => navigate('/')}>

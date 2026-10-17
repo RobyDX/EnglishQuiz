@@ -39,12 +39,11 @@ function renderApp(strict = false, start = '/placement') {
   );
 }
 
-/** Answers the first `n` questions, always right or always wrong, moving on with "Next". */
+/** Answers the first `n` questions, always right or always wrong; choosing an answer moves on by itself. */
 async function answer(user: ReturnType<typeof userEvent.setup>, n: number, right: boolean) {
   for (let i = 0; i < n; i++) {
     await screen.findByText(`Question ${i + 1} / 40`);
     await user.click(screen.getByLabelText(right ? 'right' : 'wrong one'));
-    if (i < n - 1) await user.click(screen.getByRole('button', { name: 'Next' }));
   }
 }
 
@@ -64,21 +63,19 @@ describe('PlacementPage', () => {
     expect(await screen.findByText('Question 1 / 40')).toBeInTheDocument();
   });
 
-  it('does not advance by itself and lets you go back and change an answer', async () => {
+  it('moves on when an answer is chosen, and lets you go back and change it', async () => {
     const user = userEvent.setup();
     renderApp();
     await user.click(screen.getByRole('button', { name: 'Start the test' }));
     await screen.findByText('Question 1 / 40');
     expect(screen.getByRole('button', { name: 'Previous' })).toBeDisabled();
     await user.click(screen.getByLabelText('wrong one'));
-    expect(screen.getByText('Question 1 / 40')).toBeInTheDocument();
-    await user.click(screen.getByRole('button', { name: 'Next' }));
     expect(await screen.findByText('Question 2 / 40')).toBeInTheDocument();
     expect(screen.getByRole('status')).toHaveTextContent('Question 2 of 40');
     await user.click(screen.getByRole('button', { name: 'Previous' }));
     expect(screen.getByLabelText('wrong one')).toBeChecked();
     await user.click(screen.getByLabelText('right'));
-    expect(screen.getByLabelText('right')).toBeChecked();
+    expect(await screen.findByText('Question 2 / 40')).toBeInTheDocument();
   });
 
   it('shows 40 tiles that jump to a question and get a green check once answered', async () => {
@@ -172,6 +169,37 @@ describe('PlacementPage', () => {
     expect(screen.getByRole('button', { name: 'Practise A1' })).toBeInTheDocument();
     expect(screen.getByText('Topics to review')).toBeInTheDocument();
     expect(screen.getAllByText(/mistakes/).length).toBeGreaterThan(0);
+  });
+
+  it('stays on the last question after answering it, and reviews every question with the corrections after finishing', async () => {
+    const user = userEvent.setup();
+    renderApp();
+    await user.click(screen.getByRole('button', { name: 'Start the test' }));
+    await answer(user, 40, false);
+    expect(screen.getByText('Question 40 / 40')).toBeInTheDocument();
+    await finish(user);
+    await screen.findByRole('heading', { name: 'Review your answers' });
+    expect(screen.getAllByText('✗ Incorrect')).toHaveLength(40);
+    expect(screen.getAllByText('Your answer:')).toHaveLength(40);
+    expect(screen.getAllByText('Correct answer:')).toHaveLength(40);
+    expect(screen.getAllByText("Why it's wrong:")).toHaveLength(40);
+    expect(screen.getAllByText('Rule:')).toHaveLength(40);
+  });
+
+  it('review marks right answers and unanswered ones; "Show correct answers" reveals the solution of the right ones', async () => {
+    const user = userEvent.setup();
+    renderApp();
+    await user.click(screen.getByRole('button', { name: 'Start the test' }));
+    await screen.findByText('Question 1 / 40');
+    await user.click(screen.getByLabelText('right'));
+    await finish(user);
+    await screen.findByRole('heading', { name: 'Review your answers' });
+    expect(screen.getAllByText('✓ Correct')).toHaveLength(1);
+    expect(screen.getAllByText('✗ Incorrect')).toHaveLength(39);
+    expect(screen.getAllByText('No answer')).toHaveLength(39);
+    expect(screen.getAllByText('Correct answer:')).toHaveLength(39);
+    await user.click(screen.getByRole('button', { name: 'Show correct answers' }));
+    expect(screen.getAllByText('Correct answer:')).toHaveLength(40);
   });
 
   it('never asks the same question twice in a test', async () => {
