@@ -3003,30 +3003,6 @@
       "correct": 1
     },
     {
-      "id": "b2-vf-126",
-      "type": "verb-form",
-      "level": "B2",
-      "topic": "future-forms",
-      "topics": [
-        "verb-tenses"
-      ],
-      "prompt": "This time next week, I ___ on a beach in Greece.",
-      "explanation": "Future continuous: will be + -ing, for an action in progress at a future time. At 8 p.m. tomorrow, I'll be watching the match.",
-      "wrongReasons": {
-        "1": "'This time next week' needs an action in progress, so use the future continuous.",
-        "2": "The present simple does not fit an action in progress in the future.",
-        "3": "The future perfect shows completion, not an ongoing activity."
-      },
-      "verb": "lie",
-      "options": [
-        "will be lying",
-        "will lie",
-        "lie",
-        "will have lain"
-      ],
-      "correct": 0
-    },
-    {
       "id": "b2-vf-127",
       "type": "verb-form",
       "level": "B2",
@@ -3409,30 +3385,6 @@
         "have gone"
       ],
       "correct": 2
-    },
-    {
-      "id": "b2-vf-143",
-      "type": "verb-form",
-      "level": "B2",
-      "topic": "future-forms",
-      "topics": [
-        "verb-tenses"
-      ],
-      "prompt": "I promise I ___ anyone your secret.",
-      "explanation": "Use 'will/won't' for promises: I promise I won't be late.",
-      "wrongReasons": {
-        "1": "Promises about the future use 'will', not the present simple.",
-        "2": "The present perfect is about the past, but a promise is about the future.",
-        "3": "The past continuous does not fit a promise."
-      },
-      "verb": "not tell",
-      "options": [
-        "won't tell",
-        "don't tell",
-        "haven't told",
-        "wasn't telling"
-      ],
-      "correct": 0
     },
     {
       "id": "b2-vf-144",
@@ -3961,6 +3913,5756 @@
         "visited"
       ],
       "correct": 0
+    },
+    {
+      "id": "b2-vf-166",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The meeting has been postponed ___ next week.",
+      "explanation": "\"Until\" shows a limit in time.",
+      "options": [
+        "by",
+        "until",
+        "at",
+        "in"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"By\" shows a deadline.",
+        "2": "\"At next week\" is not correct.",
+        "3": "\"In next week\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-167",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "If I ___ speak Chinese, I'd apply for that job in Beijing.",
+      "explanation": "\"If I could\" is an unreal ability.",
+      "options": [
+        "will",
+        "could",
+        "would",
+        "can"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "The second conditional needs a past form.",
+        "0": "\"Will\" is not used in the if-clause.",
+        "2": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b2-vf-168",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "The manager agreed ___ our request for extra leave.",
+      "explanation": "\"Agree\" is followed by \"to + infinitive\".",
+      "options": [
+        "to grant",
+        "grant",
+        "to granting",
+        "granting"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Agree\" is followed by an infinitive.",
+        "1": "\"Agree\" is followed by \"to + infinitive\".",
+        "2": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-169",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "___ of my friends live in the same street.",
+      "explanation": "\"Both of\" takes a plural verb.",
+      "options": [
+        "Each",
+        "Every",
+        "Neither",
+        "Both"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Each\" takes a singular verb.",
+        "1": "\"Every of\" is not possible.",
+        "2": "\"Neither\" takes a singular verb in formal English."
+      }
+    },
+    {
+      "id": "b2-vf-170",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "He ___ be at least eighty years old, but he looks much younger.",
+      "explanation": "\"Must\" expresses a strong deduction.",
+      "options": [
+        "needn't",
+        "must",
+        "may not",
+        "can't"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Can't be at least eighty\" contradicts the sense.",
+        "2": "\"May not\" expresses a possibility of not being.",
+        "0": "\"Needn't\" means it is not necessary."
+      }
+    },
+    {
+      "id": "b2-vf-171",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He was arrested ___ driving without a licence.",
+      "explanation": "\"Arrested for\" introduces the offence.",
+      "options": [
+        "with",
+        "at",
+        "of",
+        "for"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Arrested of\" is not correct.",
+        "0": "\"Arrested with\" is not correct.",
+        "1": "\"Arrested at\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-172",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "They ___ for three hours when the rain finally stopped.",
+      "explanation": "The past perfect continuous shows duration before a past moment.",
+      "options": [
+        "were walking",
+        "had been walking",
+        "have been walking",
+        "walked"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The past perfect continuous shows duration before another event.",
+        "2": "The present perfect does not fit past events.",
+        "3": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "b2-vf-173",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "She was surprised ___ the number of people at the party.",
+      "explanation": "\"Surprised at/by\" introduces the cause.",
+      "options": [
+        "at",
+        "for",
+        "of",
+        "in"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Surprised for\" is not standard.",
+        "3": "\"Surprised in\" is not standard.",
+        "2": "\"Surprised of\" is not standard."
+      }
+    },
+    {
+      "id": "b2-vf-174",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Unless you ___ now, you will miss the last train.",
+      "explanation": "\"Unless\" is followed by a present tense for the future.",
+      "options": [
+        "would leave",
+        "will leave",
+        "leave",
+        "left"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Will\" is not used in an \"unless\" clause.",
+        "3": "A past form changes the meaning.",
+        "0": "\"Would\" is not used in an \"unless\" clause."
+      }
+    },
+    {
+      "id": "b2-vf-175",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "He didn't make ___ mistakes in the test, so he got a good mark.",
+      "explanation": "\"Many\" goes with countable plural nouns.",
+      "options": [
+        "many",
+        "much",
+        "a little",
+        "little"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Mistakes\" is countable.",
+        "2": "\"a little\" does not work here, because \"Mistakes\" is countable.",
+        "3": "\"little\" does not work here, because \"Mistakes\" is countable."
+      }
+    },
+    {
+      "id": "b2-vf-176",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He was ashamed ___ his behaviour at the party.",
+      "explanation": "\"Ashamed of\" is the fixed collocation.",
+      "options": [
+        "with",
+        "at",
+        "for",
+        "of"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Ashamed at\" is not standard.",
+        "2": "\"Ashamed for\" is possible but \"of\" is the usual.",
+        "0": "\"Ashamed with\" is not standard."
+      }
+    },
+    {
+      "id": "b2-vf-177",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "We congratulated Peter ___ his promotion.",
+      "explanation": "\"Congratulate on\" is the fixed collocation.",
+      "options": [
+        "for",
+        "on",
+        "at",
+        "with"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Congratulate for\" is not standard.",
+        "2": "\"Congratulate at\" is not correct.",
+        "3": "\"Congratulate with\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-178",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "It is essential that everyone ___ a vaccine before travelling to the region.",
+      "explanation": "\"Everyone\" takes a singular verb.",
+      "options": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Everyone\" takes a singular verb.",
+        "3": "A finite verb is needed.",
+        "2": "The sentence is about the present or future."
+      }
+    },
+    {
+      "id": "b2-vf-179",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "The river ___ polluted for decades before the government took action.",
+      "explanation": "The past perfect shows duration before another past event.",
+      "options": [
+        "has been",
+        "was",
+        "had been",
+        "is"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The past perfect shows an earlier situation.",
+        "1": "The earlier duration needs the past perfect.",
+        "3": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "b2-vf-180",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "I haven't got ___ time to talk now.",
+      "explanation": "\"Any\" is used in negative sentences.",
+      "options": [
+        "few",
+        "many",
+        "any",
+        "a few"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Time\" is uncountable.",
+        "0": "\"Few\" is used with countable nouns.",
+        "3": "\"A few\" is used with countable nouns."
+      }
+    },
+    {
+      "id": "b2-vf-181",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "There was nobody in the room, but ___ had left the light on.",
+      "explanation": "\"Someone\" refers to an unknown person.",
+      "options": [
+        "anyone",
+        "nobody",
+        "everybody",
+        "someone"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Anyone\" is used in negatives and questions.",
+        "1": "\"Nobody\" contradicts the sentence.",
+        "2": "\"Everybody\" does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-182",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "After three hours of struggling, I finally ___ fix the problem.",
+      "explanation": "\"Managed to\" expresses success on a particular occasion.",
+      "options": [
+        "managed to",
+        "would",
+        "must",
+        "could"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Could\" is not used for a specific successful achievement.",
+        "1": "\"Would\" does not express this meaning.",
+        "2": "\"Must\" does not express achievement."
+      }
+    },
+    {
+      "id": "b2-vf-183",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "The museum is open every day ___ Mondays, when it is closed for cleaning.",
+      "explanation": "\"Except\" means excluding.",
+      "options": [
+        "unless",
+        "without",
+        "except",
+        "besides"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Besides\" means in addition to, not excluding.",
+        "0": "\"Unless\" introduces a clause, not a noun.",
+        "1": "\"Without\" does not mean excluding a day."
+      }
+    },
+    {
+      "id": "b2-vf-184",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "We ___ use the lift. It's broken.",
+      "explanation": "\"Can't\" expresses impossibility.",
+      "options": [
+        "mustn't",
+        "shouldn't",
+        "needn't",
+        "can't"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Needn't\" means it is not necessary.",
+        "0": "\"Mustn't\" is a prohibition.",
+        "1": "\"Shouldn't\" gives advice."
+      }
+    },
+    {
+      "id": "b2-vf-185",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Whatever you ___ do, don't touch that switch.",
+      "explanation": "\"Whatever you may do\" is a concessive structure.",
+      "options": [
+        "have",
+        "will to",
+        "must to",
+        "may"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Will\" is not followed by \"to\".",
+        "0": "\"Have do\" is not grammatical.",
+        "2": "\"Must\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "b2-vf-186",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "He gave me ___ useful advice before the interview.",
+      "explanation": "\"Some\" goes with uncountable nouns.",
+      "options": [
+        "some",
+        "a",
+        "an",
+        "many"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Advice\" is uncountable.",
+        "1": "\"a\" does not work here, because \"Advice\" is uncountable.",
+        "3": "\"many\" does not work here, because \"Advice\" is uncountable."
+      }
+    },
+    {
+      "id": "b2-vf-187",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "If you ___ come to the meeting, please let us know in advance.",
+      "explanation": "\"Can't\" expresses inability.",
+      "options": [
+        "can't",
+        "mustn't",
+        "shouldn't to",
+        "needn't"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Mustn't\" is a prohibition.",
+        "3": "\"Needn't\" means it is not necessary.",
+        "2": "\"Shouldn't\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "b2-vf-188",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Scientists ___ that the climate will continue to warm.",
+      "explanation": "The present simple reports a general belief.",
+      "options": [
+        "are predicted",
+        "predicts",
+        "predicting",
+        "predict"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "The scientists are the doers.",
+        "2": "An auxiliary is missing.",
+        "1": "\"Scientists\" is plural."
+      }
+    },
+    {
+      "id": "b2-vf-189",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The sooner you tell her, ___.",
+      "explanation": "\"The sooner ... the better\".",
+      "options": [
+        "better",
+        "the better",
+        "the more good",
+        "the best"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"The\" is needed in the double comparative.",
+        "3": "A comparative is needed.",
+        "2": "\"Good\" has an irregular comparative."
+      }
+    },
+    {
+      "id": "b2-vf-190",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "We need to ___ the problem before it gets worse.",
+      "explanation": "\"Solve\" is the usual verb for problems.",
+      "options": [
+        "solve",
+        "dissolve",
+        "resolve",
+        "absolve"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Resolve\" is also correct, but \"solve\" is the common choice.",
+        "1": "\"Dissolve\" means to melt in liquid.",
+        "3": "\"Absolve\" means to free from blame."
+      }
+    },
+    {
+      "id": "b2-vf-191",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ the exam yet. The results aren't out.",
+      "explanation": "\"Can't have passed\" is a negative deduction about the past.",
+      "options": [
+        "needn't have passed",
+        "can't have passed",
+        "mustn't have passed",
+        "shouldn't pass"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Mustn't have\" is not used for deductions.",
+        "0": "\"Needn't have\" is about unnecessary actions.",
+        "3": "This refers to the present or future."
+      }
+    },
+    {
+      "id": "b2-vf-192",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He's very proud ___ his daughter.",
+      "explanation": "\"Proud of\".",
+      "options": [
+        "for",
+        "at",
+        "of",
+        "with"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Proud for\" is not correct.",
+        "3": "\"Proud with\" is not correct.",
+        "1": "\"Proud at\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-193",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "He told us that he ___ to Japan three times.",
+      "explanation": "The present perfect shifts back to the past perfect.",
+      "options": [
+        "was",
+        "had been",
+        "is",
+        "has been"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "Reported speech shifts back.",
+        "0": "This changes the meaning.",
+        "2": "A present tense does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-194",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "I'd sooner ___ at home than go out in this weather.",
+      "explanation": "\"Would sooner\" + base form expresses preference.",
+      "options": [
+        "stay",
+        "to stay",
+        "stayed",
+        "staying"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Would sooner\" is followed by the base form.",
+        "1": "\"to stay\" does not work here, because \"Would sooner\" is followed by the base form.",
+        "2": "A past form would change the meaning."
+      }
+    },
+    {
+      "id": "b2-vf-195",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "I have ___ time to spare at the moment, so I can help you.",
+      "explanation": "\"Plenty of\" goes with uncountable nouns.",
+      "options": [
+        "few",
+        "plenty of",
+        "many",
+        "a few"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Time\" is uncountable.",
+        "3": "\"a few\" does not work here, because \"Time\" is uncountable.",
+        "0": "\"few\" does not work here, because \"Time\" is uncountable."
+      }
+    },
+    {
+      "id": "b2-vf-196",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "They ___ in Rome for a week before going to Naples.",
+      "explanation": "\"Stayed\" is the past simple.",
+      "options": [
+        "stayed",
+        "stays",
+        "staying",
+        "stay"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "The sentence is in the past.",
+        "2": "An auxiliary is missing.",
+        "1": "\"stays\" does not work here, because the sentence is in the past."
+      }
+    },
+    {
+      "id": "b2-vf-197",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "He ___ be so rude. He's usually so polite!",
+      "explanation": "\"Needn't\" is followed by the base form.",
+      "options": [
+        "needn't",
+        "wouldn't to",
+        "can't help",
+        "oughtn't"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Can't help\" needs -ing.",
+        "3": "\"Oughtn't\" is possible but less common than a different structure.",
+        "1": "\"Wouldn't\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "b2-vf-198",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "The meeting ___ at nine o'clock tomorrow, so don't be late.",
+      "explanation": "The present simple is used for a scheduled event.",
+      "options": [
+        "is start",
+        "will starting",
+        "starts",
+        "started"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Will\" is followed by a base form.",
+        "0": "\"Is start\" is ungrammatical.",
+        "3": "The sentence is about the future."
+      }
+    },
+    {
+      "id": "b2-vf-199",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "If I ___ the lottery, I would give up my job and travel round the world.",
+      "explanation": "The second conditional uses the past simple.",
+      "options": [
+        "would win",
+        "win",
+        "won",
+        "had won"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The second conditional needs a past form.",
+        "0": "\"Would\" is not used in the if-clause.",
+        "3": "The third conditional refers to the past."
+      }
+    },
+    {
+      "id": "b2-vf-200",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "We need to ___ the date of the meeting before we send the invitations.",
+      "explanation": "\"Confirm\" means to make certain.",
+      "options": [
+        "confine",
+        "confuse",
+        "conform",
+        "confirm"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Conform\" means to obey a rule.",
+        "0": "\"Confine\" means to restrict.",
+        "1": "\"Confuse\" means to make unclear."
+      }
+    },
+    {
+      "id": "b2-vf-201",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The coach ___ at six, so we must be there by half past five.",
+      "explanation": "The present simple is used for a timetable.",
+      "options": [
+        "leaves",
+        "leaving",
+        "is leave",
+        "will leaving"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Is leave\" is ungrammatical.",
+        "3": "\"Will\" is followed by a base form.",
+        "1": "An auxiliary is missing."
+      }
+    },
+    {
+      "id": "b2-vf-202",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "If we ___ more trees, the air would be much cleaner.",
+      "explanation": "The second conditional uses the past simple.",
+      "options": [
+        "had planted",
+        "planted",
+        "plant",
+        "would plant"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The second conditional needs a past form.",
+        "3": "\"Would\" is not used in the if-clause.",
+        "0": "This refers to the past."
+      }
+    },
+    {
+      "id": "b2-vf-203",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "A new law ___ next month to protect workers' rights.",
+      "explanation": "\"Be going to\" + passive infinitive.",
+      "options": [
+        "is going to introduce",
+        "will introducing",
+        "is going to be introduced",
+        "is going to be introducing"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "A law cannot introduce itself.",
+        "3": "The passive progressive is not formed this way.",
+        "1": "The auxiliary is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-204",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "As soon as the rain ___, we'll go for a walk.",
+      "explanation": "A time clause uses the present for the future.",
+      "options": [
+        "stopped",
+        "would stop",
+        "stops",
+        "will stop"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Will\" is not used after \"as soon as\".",
+        "0": "A past form does not fit.",
+        "1": "\"Would\" is not used after \"as soon as\"."
+      }
+    },
+    {
+      "id": "b2-vf-205",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "We ___ in a traffic jam for an hour when the police arrived.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "options": [
+        "have been sitting",
+        "had been sitting",
+        "sat",
+        "were sitting"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "The past perfect continuous shows duration.",
+        "0": "The present perfect does not fit.",
+        "2": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "b2-vf-206",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "She is ___ best player in the team.",
+      "explanation": "A superlative takes \"the\".",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "–"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"A\" cannot be used with a superlative.",
+        "1": "\"An\" cannot be used with a superlative.",
+        "3": "A superlative needs \"the\"."
+      }
+    },
+    {
+      "id": "b2-vf-207",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "She looks exhausted. She ___ hard all week.",
+      "explanation": "\"Must have been working\" stresses an activity in progress.",
+      "options": [
+        "must have been working",
+        "should have worked",
+        "must work",
+        "can have worked"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The deduction is about a continuous past activity.",
+        "1": "\"Should have\" expresses criticism.",
+        "3": "\"Can have\" is not used for positive deductions."
+      }
+    },
+    {
+      "id": "b2-vf-208",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "We congratulated her ___ her promotion.",
+      "explanation": "\"Congratulate someone on\".",
+      "options": [
+        "at",
+        "for",
+        "on",
+        "to"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Congratulate for\" is not standard.",
+        "0": "\"Congratulate at\" is not correct.",
+        "3": "\"Congratulate to\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-209",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If he ___ so rude, people would like him more.",
+      "explanation": "\"If he weren't\" is an unreal present.",
+      "options": [
+        "weren't",
+        "isn't",
+        "hasn't been",
+        "wouldn't be"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The second conditional needs a past form.",
+        "3": "\"Would\" is not used in the if-clause.",
+        "2": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-210",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "We didn't see ___ of the other guests until dinner.",
+      "explanation": "\"Any of\" is used in negative sentences.",
+      "options": [
+        "no",
+        "some",
+        "any",
+        "none"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"None\" is already negative.",
+        "0": "\"No of\" is not grammatical.",
+        "1": "\"Some\" is not used in negatives like this."
+      }
+    },
+    {
+      "id": "b2-vf-211",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The film starts ___ eight o'clock.",
+      "explanation": "\"At\" is used with clock times.",
+      "options": [
+        "on",
+        "in",
+        "by",
+        "at"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"In eight o'clock\" is not correct.",
+        "0": "\"On eight o'clock\" is not correct.",
+        "2": "\"By eight\" shows a deadline."
+      }
+    },
+    {
+      "id": "b2-vf-212",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "She is married ___ a famous actor.",
+      "explanation": "\"Married to\" is the fixed collocation.",
+      "options": [
+        "at",
+        "by",
+        "with",
+        "to"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Married with\" is not standard.",
+        "1": "\"Married by\" means someone performed the ceremony.",
+        "0": "\"Married at\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-213",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "I'm not responsible ___ what he does.",
+      "explanation": "\"Responsible for\" is the fixed collocation.",
+      "options": [
+        "for",
+        "of",
+        "with",
+        "at"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Responsible of\" is not correct.",
+        "3": "\"Responsible at\" is not correct.",
+        "2": "\"Responsible with\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-214",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "She ___ me that she was going to resign.",
+      "explanation": "\"Told\" takes a personal object.",
+      "options": [
+        "said",
+        "told",
+        "talked",
+        "spoke"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Said me\" is not grammatical.",
+        "3": "\"Spoke me\" is not grammatical.",
+        "2": "\"Talked me\" is not grammatical."
+      }
+    },
+    {
+      "id": "b2-vf-215",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If only I ___ the answer! It's on the tip of my tongue.",
+      "explanation": "\"If only\" + past simple expresses a present wish.",
+      "options": [
+        "would know",
+        "knew",
+        "had known",
+        "know"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"If only\" for a present wish uses a past form.",
+        "2": "This refers to the past.",
+        "0": "\"Would\" is less natural for a state."
+      }
+    },
+    {
+      "id": "b2-vf-216",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "She ___ for a new job since January but hasn't had any luck.",
+      "explanation": "\"Since\" with an ongoing activity calls for the present perfect continuous.",
+      "options": [
+        "has been looking",
+        "is looking",
+        "looked",
+        "looks"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "The present simple does not show duration.",
+        "1": "The present continuous does not show duration from a start.",
+        "2": "The simple past does not connect to now."
+      }
+    },
+    {
+      "id": "b2-vf-217",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "There was ___ little sugar left that we couldn't make a cake.",
+      "explanation": "\"So little ... that\" shows a result.",
+      "options": [
+        "such",
+        "too",
+        "very",
+        "so"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Such\" needs a noun phrase.",
+        "1": "\"Too\" does not take \"that\".",
+        "2": "\"Very\" cannot be followed by \"that\"."
+      }
+    },
+    {
+      "id": "b2-vf-218",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The plane ___ off when the passengers began to applaud.",
+      "explanation": "The past continuous shows an action in progress.",
+      "options": [
+        "has taken",
+        "took",
+        "takes",
+        "was taking"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "The past continuous shows the action in progress.",
+        "2": "The sentence is in the past.",
+        "0": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-219",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "It's the first time I ___ such a delicious meal.",
+      "explanation": "\"It's the first time\" takes the present perfect.",
+      "options": [
+        "have had",
+        "am having",
+        "have",
+        "had"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"The first time\" takes the present perfect.",
+        "2": "A present tense does not fit.",
+        "1": "The present continuous does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-220",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "She wore ___ unusual hat to the wedding.",
+      "explanation": "\"An\" is used before a vowel sound.",
+      "options": [
+        "an",
+        "–",
+        "the",
+        "a"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Unusual\" starts with a vowel sound.",
+        "2": "The hat has not been mentioned before.",
+        "1": "A singular noun needs an article."
+      }
+    },
+    {
+      "id": "b2-vf-221",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The explanation was ___ simpler than I had expected, so I understood it at once.",
+      "explanation": "\"Much\" intensifies the comparative \"simpler\".",
+      "options": [
+        "so",
+        "much",
+        "too",
+        "very"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Very\" cannot modify a comparative adjective.",
+        "2": "\"Too\" suggests an excess that does not fit.",
+        "0": "\"So\" would need a result clause with \"that\"."
+      }
+    },
+    {
+      "id": "b2-vf-222",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "I can't ___ his rudeness any longer.",
+      "explanation": "\"Put up with\" means to tolerate.",
+      "options": [
+        "put up to",
+        "put up for",
+        "put up on",
+        "put up with"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Put up to\" is not a phrasal verb.",
+        "1": "\"Put up for\" has another meaning.",
+        "2": "\"Put up on\" is not a phrasal verb."
+      }
+    },
+    {
+      "id": "b2-vf-223",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "He asked whether I ___ any experience of teaching.",
+      "explanation": "A present tense shifts back in reported speech.",
+      "options": [
+        "had",
+        "would have",
+        "have",
+        "am having"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "Reported questions shift back.",
+        "1": "\"Would\" changes the meaning.",
+        "3": "\"Have\" is stative here."
+      }
+    },
+    {
+      "id": "b2-vf-224",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "There is ___ traffic on the roads today because of the holiday.",
+      "explanation": "\"Very little\" goes with uncountable nouns.",
+      "options": [
+        "very little",
+        "very few",
+        "many",
+        "a few"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Traffic\" is uncountable.",
+        "3": "\"a few\" does not work here, because \"Traffic\" is uncountable.",
+        "2": "\"many\" does not work here, because \"Traffic\" is uncountable."
+      }
+    },
+    {
+      "id": "b2-vf-225",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Don't call me at eight; I ___ dinner then.",
+      "explanation": "\"At eight\" suggests an action in progress.",
+      "options": [
+        "will have",
+        "have",
+        "had",
+        "will be having"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "The future continuous shows an action in progress.",
+        "1": "A present tense does not fit.",
+        "2": "The sentence is about the future."
+      }
+    },
+    {
+      "id": "b2-vf-226",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "They have known ___ for years.",
+      "explanation": "\"Each other\" is a reciprocal pronoun.",
+      "options": [
+        "one",
+        "other",
+        "themselves",
+        "each other"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Themselves\" is reflexive.",
+        "0": "\"One\" does not fit here.",
+        "1": "\"Other\" cannot stand alone."
+      }
+    },
+    {
+      "id": "b2-vf-227",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "He admitted ___ the window when he was playing football.",
+      "explanation": "\"Admit\" is followed by a gerund.",
+      "options": [
+        "to have break",
+        "breaking",
+        "break",
+        "to break"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Admit\" is followed by a gerund.",
+        "2": "\"break\" does not work here, because \"Admit\" is followed by a gerund.",
+        "0": "This is not a correct form."
+      }
+    },
+    {
+      "id": "b2-vf-228",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "She is one of ___ best students in the school.",
+      "explanation": "A superlative takes \"the\".",
+      "options": [
+        "–",
+        "a",
+        "the",
+        "an"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "A superlative needs \"the\".",
+        "3": "\"an\" does not work here, because a superlative needs \"the\".",
+        "0": "\"–\" does not work here, because a superlative needs \"the\"."
+      }
+    },
+    {
+      "id": "b2-vf-229",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "They have decided ___ their house and move abroad.",
+      "explanation": "\"Decide\" is followed by \"to + infinitive\".",
+      "options": [
+        "selling",
+        "to selling",
+        "to sell",
+        "sell"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Decide\" is followed by an infinitive.",
+        "3": "\"Decide\" is followed by \"to + infinitive\".",
+        "1": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-230",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "She dances ___ than any other girl in the school.",
+      "explanation": "The comparative of an adverb of manner takes \"more\".",
+      "options": [
+        "more gracefully",
+        "most gracefully",
+        "gracefuller",
+        "more graceful"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "An adverb is needed to modify \"dances\".",
+        "2": "Long adverbs take \"more\".",
+        "1": "A comparative is needed with \"than\"."
+      }
+    },
+    {
+      "id": "b2-vf-231",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "The documents ___ at the moment, so please wait a few minutes.",
+      "explanation": "The present continuous passive shows an action in progress.",
+      "options": [
+        "are being checked",
+        "are checked",
+        "is being checked",
+        "have been checked"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The simple passive does not show an action in progress.",
+        "3": "The present perfect shows completion.",
+        "2": "The subject is plural."
+      }
+    },
+    {
+      "id": "b2-vf-232",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If I had known about the delay, I ___ earlier.",
+      "explanation": "The third conditional uses \"would have\" + participle in the result.",
+      "options": [
+        "will have left",
+        "would leave",
+        "had left",
+        "would have left"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "This refers to a present or future result.",
+        "0": "The conditional is unreal.",
+        "2": "The result clause needs a modal."
+      }
+    },
+    {
+      "id": "b2-vf-233",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "If she had told me, I ___ her.",
+      "explanation": "The third conditional uses \"would have\" + participle.",
+      "options": [
+        "will help",
+        "had helped",
+        "would have helped",
+        "would help"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "This refers to the present.",
+        "0": "The conditional is unreal.",
+        "1": "The result clause needs a modal."
+      }
+    },
+    {
+      "id": "b2-vf-234",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "I ___ remember where I left my keys. It's driving me mad.",
+      "explanation": "\"Can't\" expresses inability.",
+      "options": [
+        "mustn't",
+        "can't",
+        "needn't",
+        "shan't"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Needn't\" is about necessity.",
+        "0": "\"Mustn't\" is a prohibition.",
+        "3": "\"Shan't\" is a refusal."
+      }
+    },
+    {
+      "id": "b2-vf-235",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "It's high time we ___ a decision about the project.",
+      "explanation": "\"It's high time\" + past simple expresses that something is overdue.",
+      "options": [
+        "will make",
+        "make",
+        "made",
+        "have made"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "After \"it's high time\" a past form is used.",
+        "3": "The present perfect does not fit.",
+        "0": "\"Will\" is not used after \"it's high time\"."
+      }
+    },
+    {
+      "id": "b2-vf-236",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ take your umbrella. It's not going to rain.",
+      "explanation": "\"Needn't\" means there is no need.",
+      "options": [
+        "mustn't",
+        "needn't",
+        "shouldn't to",
+        "can't"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Mustn't\" would forbid it.",
+        "3": "\"Can't\" would mean impossible.",
+        "2": "\"Shouldn't\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "b2-vf-237",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "She can't stand ___ in long queues.",
+      "explanation": "\"Can't stand\" is followed by a gerund.",
+      "options": [
+        "to wait",
+        "waiting",
+        "to waiting",
+        "wait"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Can't stand\" is normally followed by a gerund.",
+        "3": "\"Can't stand\" is followed by a gerund.",
+        "2": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-238",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The ___ you practise, the better you will become.",
+      "explanation": "\"The more ... the better\" is a double comparative.",
+      "options": [
+        "many",
+        "more",
+        "much",
+        "most"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Most\" cannot form a double comparative.",
+        "2": "\"Much\" is not used in this structure.",
+        "0": "\"Many\" is used with countable nouns."
+      }
+    },
+    {
+      "id": "b2-vf-239",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "I wish I ___ more time to prepare for the interview.",
+      "explanation": "\"Wish\" + past perfect expresses a regret.",
+      "options": [
+        "had",
+        "had had",
+        "would have",
+        "have had"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "A wish about the past needs the past perfect.",
+        "0": "This refers to the present.",
+        "2": "\"Would\" does not express past regret."
+      }
+    },
+    {
+      "id": "b2-vf-240",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "You ___ to wear a helmet on the building site.",
+      "explanation": "\"Be required to\" expresses an obligation in the passive.",
+      "options": [
+        "are requiring",
+        "require",
+        "are required",
+        "requires"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The subject receives the requirement.",
+        "3": "\"requires\" does not work here, because the subject receives the requirement.",
+        "0": "An active continuous does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-241",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The exam was ___ easier than I had feared, and I finished early.",
+      "explanation": "\"Much\" intensifies a comparative.",
+      "options": [
+        "much",
+        "too",
+        "so",
+        "very"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Very\" cannot modify a comparative.",
+        "1": "\"Too\" has a negative sense.",
+        "2": "\"So\" does not fit before a comparative."
+      }
+    },
+    {
+      "id": "b2-vf-242",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "The new law will ___ into force next month.",
+      "explanation": "\"Come into force\" is the standard collocation.",
+      "options": [
+        "turn",
+        "come",
+        "get",
+        "go"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Go into force\" is not standard.",
+        "2": "\"Get into force\" is not standard.",
+        "0": "\"Turn into force\" is not standard."
+      }
+    },
+    {
+      "id": "b2-vf-243",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "It's the second time he ___ his phone this week.",
+      "explanation": "\"It's the second time\" takes the present perfect.",
+      "options": [
+        "had lost",
+        "lost",
+        "loses",
+        "has lost"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"The second time\" takes the present perfect.",
+        "2": "A present simple does not fit.",
+        "0": "The past perfect needs a past reference."
+      }
+    },
+    {
+      "id": "b2-vf-244",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "The new rules ___ come into force next year.",
+      "explanation": "\"Be to\" + infinitive expresses a plan or an arrangement.",
+      "options": [
+        "must",
+        "are to",
+        "should to",
+        "are bound"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Bound\" needs \"to\" after it.",
+        "0": "\"Must come into force\" is not natural for a planned event.",
+        "2": "\"Should\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "b2-vf-245",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Several mistakes ___ in the original report, but they have now been corrected.",
+      "explanation": "The past simple passive shows a completed event.",
+      "options": [
+        "were finding",
+        "were found",
+        "have found",
+        "found"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "The mistakes did not find anything.",
+        "2": "\"have found\" does not work here, because the mistakes did not find anything.",
+        "0": "A passive continuous is needed for a longer action."
+      }
+    },
+    {
+      "id": "b2-vf-246",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "They ___ to have left already, because the house is empty.",
+      "explanation": "\"Appear to have\" + participle expresses an impression about the past.",
+      "options": [
+        "appear",
+        "appearing",
+        "appears",
+        "appeared"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"They\" takes the plural form.",
+        "3": "The present result suggests the present form.",
+        "1": "\"Appearing\" needs an auxiliary."
+      }
+    },
+    {
+      "id": "b2-vf-247",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Look at the traffic! We ___ be late for the concert.",
+      "explanation": "\"Be bound to\" expresses near-certainty about a future event.",
+      "options": [
+        "ought to",
+        "are bound to",
+        "must to",
+        "are going to"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Must\" is not followed by \"to\".",
+        "3": "This is possible but has no sense of near-certainty.",
+        "0": "This expresses advice, not a prediction."
+      }
+    },
+    {
+      "id": "b2-vf-248",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Remember ___ the door before you leave the house.",
+      "explanation": "\"Remember to\" + infinitive refers to a task.",
+      "options": [
+        "lock",
+        "to lock",
+        "to locking",
+        "locking"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "A gerund refers to a past memory.",
+        "0": "\"Remember\" is followed by \"to\" or -ing.",
+        "2": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-249",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "She is addicted ___ chocolate.",
+      "explanation": "\"Addicted to\" is the fixed collocation.",
+      "options": [
+        "of",
+        "with",
+        "to",
+        "for"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Addicted with\" is not correct.",
+        "0": "\"Addicted of\" is not correct.",
+        "3": "\"Addicted for\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-250",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This is the ___ book I have ever read, and I couldn't put it down.",
+      "explanation": "A long adjective forms the superlative with \"most\".",
+      "options": [
+        "exciting",
+        "excitingest",
+        "more exciting",
+        "most exciting"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"More\" compares only two.",
+        "1": "Long adjectives take \"most\".",
+        "0": "A superlative is needed."
+      }
+    },
+    {
+      "id": "b2-vf-251",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I'll lend you the money provided you ___ it back next week.",
+      "explanation": "\"Provided\" is followed by a present tense.",
+      "options": [
+        "pay",
+        "will pay",
+        "would pay",
+        "paid"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Will\" is not used after \"provided\".",
+        "3": "A past form changes the meaning.",
+        "2": "\"Would\" is not used after \"provided\"."
+      }
+    },
+    {
+      "id": "b2-vf-252",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I'd like to know what he ___ when he said that.",
+      "explanation": "\"Meant\" is the past simple.",
+      "options": [
+        "has meant",
+        "means",
+        "meant",
+        "mean"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The sentence is in the past.",
+        "3": "A past form is needed.",
+        "0": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-253",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "We ___ to the airport by taxi, as the bus was cancelled.",
+      "explanation": "The past simple reports a finished event.",
+      "options": [
+        "had got",
+        "were getting",
+        "got",
+        "have got"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The simple past reports a finished event.",
+        "0": "The past perfect needs a later reference.",
+        "3": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-254",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "The lights were off and nobody answered the door. They ___ out.",
+      "explanation": "\"Must have been\" is a strong deduction about the past.",
+      "options": [
+        "can have been",
+        "must be",
+        "must have been",
+        "should be"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The deduction is about the past event, so a perfect form is needed.",
+        "3": "\"Should be\" expresses an expectation, not a deduction.",
+        "0": "\"Can have been\" is not used for positive deductions."
+      }
+    },
+    {
+      "id": "b2-vf-255",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If you ___ at the traffic lights, you would have seen the sign.",
+      "explanation": "The past perfect is needed in the if-clause.",
+      "options": [
+        "had looked",
+        "looked",
+        "look",
+        "would look"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "A past simple does not give a third conditional.",
+        "3": "\"Would\" is not used in the if-clause.",
+        "2": "A present tense does not give a third conditional."
+      }
+    },
+    {
+      "id": "b2-vf-256",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He is afraid ___ spiders.",
+      "explanation": "\"Afraid of\" is the fixed collocation.",
+      "options": [
+        "from",
+        "with",
+        "at",
+        "of"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Afraid from\" is not correct.",
+        "2": "\"Afraid at\" is not correct.",
+        "1": "\"Afraid with\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-257",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This is the ___ restaurant in town; I recommend it to everyone.",
+      "explanation": "\"Best\" is the superlative of \"good\".",
+      "options": [
+        "better",
+        "most good",
+        "goodest",
+        "best"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "A superlative is needed.",
+        "1": "\"Good\" has an irregular superlative.",
+        "2": "\"goodest\" does not work here, because \"Good\" has an irregular superlative."
+      }
+    },
+    {
+      "id": "b2-vf-258",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "We'll be there ___ six o'clock at the latest.",
+      "explanation": "\"By\" shows a deadline.",
+      "options": [
+        "until",
+        "by",
+        "on",
+        "in"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Until\" shows continuing action.",
+        "3": "\"In six o'clock\" is not correct.",
+        "2": "\"On six o'clock\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-259",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "The new law ___ to protect workers from unfair dismissal.",
+      "explanation": "The passive describes the purpose.",
+      "options": [
+        "has designed",
+        "designs",
+        "is designed",
+        "designing"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The law is the receiver.",
+        "3": "An auxiliary is missing.",
+        "0": "\"has designed\" does not work here, because the law is the receiver."
+      }
+    },
+    {
+      "id": "b2-vf-260",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The town ___ by thousands of tourists every summer.",
+      "explanation": "The present simple passive reports a routine.",
+      "options": [
+        "visiting",
+        "is visited",
+        "visits",
+        "has visited"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The town is the receiver.",
+        "0": "An auxiliary is missing.",
+        "3": "\"has visited\" does not work here, because the town is the receiver."
+      }
+    },
+    {
+      "id": "b2-vf-261",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "You ___ show your ticket to the inspector on the train.",
+      "explanation": "\"Must\" expresses an obligation.",
+      "options": [
+        "might",
+        "must",
+        "can't",
+        "needn't"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Needn't\" means it is not necessary.",
+        "0": "\"Might\" expresses a possibility.",
+        "2": "\"Can't\" means it is not allowed."
+      }
+    },
+    {
+      "id": "b2-vf-262",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ me you were coming. I would have prepared a proper meal.",
+      "explanation": "\"Should have\" + past participle criticises a past omission.",
+      "options": [
+        "needn't have told",
+        "might have told",
+        "should have told",
+        "must have told"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Must have told\" is a deduction, not a criticism.",
+        "1": "\"Might have\" expresses a possibility, not a criticism.",
+        "0": "\"Needn't have\" means it was unnecessary."
+      }
+    },
+    {
+      "id": "b2-vf-263",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "We ___ leave before the rush hour, but we left too late.",
+      "explanation": "\"Should have\" expresses a past regret.",
+      "options": [
+        "could be",
+        "needn't have",
+        "must have",
+        "should have"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Could be\" refers to the present.",
+        "2": "\"Must have\" expresses deduction.",
+        "1": "\"Needn't have\" expresses unnecessary action."
+      }
+    },
+    {
+      "id": "b2-vf-264",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "They asked us to bring ___ own food to the picnic.",
+      "explanation": "\"Our\" is the possessive adjective.",
+      "options": [
+        "us",
+        "ours",
+        "our",
+        "we"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Ours\" is a possessive pronoun.",
+        "0": "\"Us\" is an object pronoun.",
+        "3": "\"We\" is a subject pronoun."
+      }
+    },
+    {
+      "id": "b2-vf-265",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The ___ you eat, the more weight you will gain.",
+      "explanation": "\"The more ... the more\" is a double comparative.",
+      "options": [
+        "more",
+        "much",
+        "many",
+        "most"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "A superlative does not fit.",
+        "1": "\"Much\" does not form this structure.",
+        "2": "\"Many\" is used with countable nouns."
+      }
+    },
+    {
+      "id": "b2-vf-266",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "I can see ___ people in the park; it must be too cold.",
+      "explanation": "\"Very few\" is used with countable plural nouns.",
+      "options": [
+        "very little",
+        "very few",
+        "much",
+        "a little"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"People\" is countable.",
+        "2": "\"much\" does not work here, because \"People\" is countable.",
+        "0": "\"very little\" does not work here, because \"People\" is countable."
+      }
+    },
+    {
+      "id": "b2-vf-267",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "I'm tired ___ listening to the same story again and again.",
+      "explanation": "\"Tired of\" means bored with.",
+      "options": [
+        "from",
+        "with",
+        "of",
+        "at"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Tired from\" means exhausted by effort.",
+        "1": "\"Tired with\" is not the usual collocation.",
+        "3": "\"Tired at\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-268",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "\"Don't touch the wires,\" the engineer told us. → The engineer told us ___ the wires.",
+      "explanation": "A negative command is reported with \"not to\".",
+      "options": [
+        "don't touch",
+        "not to touch",
+        "that we not touch",
+        "to not touching"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The imperative is not kept in reported speech.",
+        "3": "\"To\" is followed by a base form.",
+        "2": "This is not the usual reporting structure."
+      }
+    },
+    {
+      "id": "b2-vf-269",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "If we ___ the problem earlier, it wouldn't be so serious now.",
+      "explanation": "The mixed conditional links a past condition to a present result.",
+      "options": [
+        "notice",
+        "noticed",
+        "had noticed",
+        "would notice"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "A mixed conditional uses the past perfect in the if-clause.",
+        "3": "\"Would\" is not used in the if-clause.",
+        "0": "A present tense does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-270",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I wish I ___ speak Italian; I'd love to work in Rome.",
+      "explanation": "\"Wish\" + \"could\" expresses a wish about ability.",
+      "options": [
+        "could",
+        "can",
+        "would",
+        "will"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "A wish about the present needs a past form.",
+        "3": "\"Will\" does not express a wish.",
+        "2": "\"Would\" does not express ability."
+      }
+    },
+    {
+      "id": "b2-vf-271",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "He doesn't ___ to be the right person for the job.",
+      "explanation": "\"Doesn't seem to be\" uses the base form.",
+      "options": [
+        "seems",
+        "seeming",
+        "seemed",
+        "seem"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "After \"doesn't\" use the base form.",
+        "2": "\"seemed\" does not work here, because after \"doesn't\" use the base form.",
+        "1": "\"seeming\" does not work here, because after \"doesn't\" use the base form."
+      }
+    },
+    {
+      "id": "b2-vf-272",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "The doctor told him to ___ smoking.",
+      "explanation": "\"Give up\" means to stop.",
+      "options": [
+        "give out",
+        "give up",
+        "give in",
+        "give away"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Give in\" means to surrender.",
+        "0": "\"Give out\" means to distribute.",
+        "3": "\"Give away\" means to donate."
+      }
+    },
+    {
+      "id": "b2-vf-273",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I'll lend you the book as soon as I ___ it.",
+      "explanation": "A time clause uses the present perfect to show completion.",
+      "options": [
+        "will finish",
+        "am finishing",
+        "finished",
+        "have finished"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Will\" is not used after \"as soon as\".",
+        "2": "A past tense does not fit.",
+        "1": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "b2-vf-274",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "He stopped ___ to answer his phone.",
+      "explanation": "\"Stop to do\" means pausing in order to do something.",
+      "options": [
+        "to talk",
+        "talking",
+        "talk",
+        "to talking"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Stop talking\" means he ended the activity.",
+        "2": "\"Stop\" is followed by a gerund or \"to\".",
+        "3": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-275",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The guide told us that the church ___ in the fourteenth century.",
+      "explanation": "The past perfect passive shows an earlier event.",
+      "options": [
+        "had been built",
+        "was built",
+        "has been built",
+        "is built"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "Reported speech shifts back.",
+        "2": "The present perfect does not fit.",
+        "3": "A present tense does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-276",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "The suspect is said ___ the country last month.",
+      "explanation": "\"To have left\" shows an action before the time of reporting.",
+      "options": [
+        "having left",
+        "to be leaving",
+        "to leave",
+        "to have left"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "The simple infinitive does not show an earlier action.",
+        "1": "The continuous form does not show an earlier action.",
+        "0": "A participle does not follow \"is said\"."
+      }
+    },
+    {
+      "id": "b2-vf-277",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "She hasn't spoken to me ___ the argument last month.",
+      "explanation": "\"Since\" introduces a starting point.",
+      "options": [
+        "since",
+        "during",
+        "from",
+        "for"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"For\" needs a length of time.",
+        "1": "\"During\" does not fit.",
+        "2": "\"From\" does not combine with the present perfect."
+      }
+    },
+    {
+      "id": "b2-vf-278",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "He is ___ the most patient person I know.",
+      "explanation": "\"By far\" strengthens a superlative.",
+      "options": [
+        "for far",
+        "far by",
+        "by far",
+        "at far"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The word order is wrong.",
+        "0": "\"For far\" is not a collocation.",
+        "3": "\"At far\" is not a collocation."
+      }
+    },
+    {
+      "id": "b2-vf-279",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "When we got to the beach, it ___ heavily.",
+      "explanation": "The past continuous shows a situation in progress.",
+      "options": [
+        "rained",
+        "rains",
+        "has rained",
+        "was raining"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "The past continuous shows an action in progress.",
+        "2": "The present perfect does not fit.",
+        "1": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "b2-vf-280",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "I'll never forget ___ the Taj Mahal for the first time.",
+      "explanation": "\"Forget + gerund\" refers to a memory.",
+      "options": [
+        "seeing",
+        "to seeing",
+        "to see",
+        "see"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Forget to see\" refers to a future task.",
+        "3": "\"Forget\" is followed by a gerund or \"to\".",
+        "1": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-281",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If she ___ harder, she would have passed the exam.",
+      "explanation": "The third conditional needs the past perfect in the if-clause.",
+      "options": [
+        "would study",
+        "has studied",
+        "studied",
+        "had studied"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "The third conditional needs the past perfect.",
+        "0": "\"Would\" is not used in the if-clause.",
+        "1": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-282",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "He's not ___ clever as his brother.",
+      "explanation": "\"Not as ... as\" is a negative comparison.",
+      "options": [
+        "like",
+        "than",
+        "so as",
+        "as"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"So ... as\" is old-fashioned.",
+        "1": "\"Than\" follows a comparative.",
+        "0": "\"Like\" does not fit this structure."
+      }
+    },
+    {
+      "id": "b2-vf-283",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "We were told ___ for the results until Monday.",
+      "explanation": "\"Be told to\" + infinitive reports an instruction.",
+      "options": [
+        "that wait",
+        "waiting",
+        "to wait",
+        "wait"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "After \"told\" an infinitive is used.",
+        "3": "After a passive \"told\" the \"to\" infinitive is used.",
+        "0": "\"That\" needs a clause."
+      }
+    },
+    {
+      "id": "b2-vf-284",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I didn't recognise her because she ___ so much.",
+      "explanation": "The past perfect shows an earlier event.",
+      "options": [
+        "had changed",
+        "was changing",
+        "changed",
+        "has changed"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The past perfect shows an earlier change.",
+        "3": "The present perfect does not fit.",
+        "1": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "b2-vf-285",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Is there ___ in the fridge for lunch?",
+      "explanation": "\"Anything\" is used in questions.",
+      "options": [
+        "something",
+        "everything",
+        "anything",
+        "nothing"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Nothing\" is already negative.",
+        "0": "\"Something\" is used in positive sentences.",
+        "1": "\"Everything\" does not fit the question."
+      }
+    },
+    {
+      "id": "b2-vf-286",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "I wish I ___ more money when I was younger.",
+      "explanation": "\"Wish\" + past perfect expresses a regret about the past.",
+      "options": [
+        "saved",
+        "had saved",
+        "have saved",
+        "would save"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "A wish about the past needs the past perfect.",
+        "3": "\"Would\" does not express a regret.",
+        "2": "A past perfect is needed."
+      }
+    },
+    {
+      "id": "b2-vf-287",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "She complained ___ the waiter about the cold soup.",
+      "explanation": "\"Complain to\" introduces the person.",
+      "options": [
+        "at",
+        "to",
+        "for",
+        "with"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Complain for\" is not correct.",
+        "0": "\"Complain at\" is not standard.",
+        "3": "\"Complain with\" is not standard."
+      }
+    },
+    {
+      "id": "b2-vf-288",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "It's ___ cold that I can't feel my fingers.",
+      "explanation": "\"So + adjective + that\" shows a result.",
+      "options": [
+        "too",
+        "so",
+        "such",
+        "very"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Such\" needs a noun phrase.",
+        "0": "\"Too\" does not take \"that\".",
+        "3": "\"Very\" cannot be followed by \"that\"."
+      }
+    },
+    {
+      "id": "b2-vf-289",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "We were surprised ___ his reaction.",
+      "explanation": "\"Surprised at/by\".",
+      "options": [
+        "at",
+        "in",
+        "for",
+        "of"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Surprised of\" is not correct.",
+        "2": "\"Surprised for\" is not correct.",
+        "1": "\"Surprised in\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-290",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "They have been friends ___ they were at school.",
+      "explanation": "\"Since\" introduces a starting point.",
+      "options": [
+        "during",
+        "from",
+        "since",
+        "for"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"For\" needs a length of time.",
+        "0": "\"During\" does not fit.",
+        "1": "\"From\" does not combine with the present perfect."
+      }
+    },
+    {
+      "id": "b2-vf-291",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "They are experts ___ renewable energy.",
+      "explanation": "\"Expert in\" a field is the common collocation.",
+      "options": [
+        "in",
+        "of",
+        "at",
+        "on"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Expert on\" is possible, but \"in\" is common with a field.",
+        "2": "\"Expert at\" is used with skills.",
+        "1": "\"Expert of\" is not standard."
+      }
+    },
+    {
+      "id": "b2-vf-292",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ have told me that earlier. Now it's too late to change anything.",
+      "explanation": "\"Might have\" can express mild reproach.",
+      "options": [
+        "would",
+        "might",
+        "need",
+        "could to"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Would have\" does not express reproach here.",
+        "3": "\"Could\" is not followed by \"to\".",
+        "2": "\"Need have told\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-293",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "He lives in ___ small flat near the university.",
+      "explanation": "\"A\" introduces a singular countable noun.",
+      "options": [
+        "–",
+        "an",
+        "the",
+        "a"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Small\" starts with a consonant sound.",
+        "2": "\"The\" would refer to a specific flat.",
+        "0": "A singular noun needs an article."
+      }
+    },
+    {
+      "id": "b2-vf-294",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This is by far the ___ book I have ever read.",
+      "explanation": "\"By far the most\" intensifies a superlative.",
+      "options": [
+        "boringer",
+        "most boring",
+        "more boring",
+        "boringest"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"More\" compares only two.",
+        "3": "Long adjectives take \"most\".",
+        "0": "Long adjectives take \"more\"."
+      }
+    },
+    {
+      "id": "b2-vf-295",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "\"Where did you go last night?\" she asked me. → She asked me where I ___ the night before.",
+      "explanation": "The past simple becomes the past perfect.",
+      "options": [
+        "went",
+        "had gone",
+        "did go",
+        "have gone"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "Reported speech usually shifts the past simple back.",
+        "3": "The present perfect does not fit past reporting.",
+        "2": "The inverted question form is not kept."
+      }
+    },
+    {
+      "id": "b2-vf-296",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The teacher asked us to concentrate ___ the task.",
+      "explanation": "\"Concentrate on\" is the fixed collocation.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "with"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Concentrate in\" is not correct.",
+        "1": "\"Concentrate at\" is not correct.",
+        "3": "\"Concentrate with\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-297",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "The painting is believed ___ stolen in 1998.",
+      "explanation": "\"To have been\" shows an earlier action in a passive.",
+      "options": [
+        "having been",
+        "to have been",
+        "to being",
+        "to be"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "The simple infinitive does not show an earlier action.",
+        "2": "\"To\" is followed by a base form.",
+        "0": "A participle does not follow \"is believed\"."
+      }
+    },
+    {
+      "id": "b2-vf-298",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "He was ___ nervous that he forgot his own name.",
+      "explanation": "\"So + adjective + that\" shows a result.",
+      "options": [
+        "so",
+        "too",
+        "such",
+        "very"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Such\" needs a noun phrase.",
+        "1": "\"Too\" does not take \"that\".",
+        "3": "\"Very\" cannot be followed by \"that\"."
+      }
+    },
+    {
+      "id": "b2-vf-299",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "We ___ for the bus for twenty minutes when it finally arrived.",
+      "explanation": "The past perfect continuous shows duration before another past event.",
+      "options": [
+        "were waiting",
+        "have been waiting",
+        "had been waiting",
+        "waited"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The past perfect continuous shows duration before an event.",
+        "3": "The simple past does not show duration.",
+        "1": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-300",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "He walked out of the room without ___ a word.",
+      "explanation": "After a preposition use a gerund.",
+      "options": [
+        "said",
+        "saying",
+        "to say",
+        "say"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "After a preposition use -ing.",
+        "3": "\"say\" does not work here, because after a preposition use -ing.",
+        "0": "\"said\" does not work here, because after a preposition use -ing."
+      }
+    },
+    {
+      "id": "b2-vf-301",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "I'm tired ___ listening to his excuses.",
+      "explanation": "\"Tired of\" means bored with.",
+      "options": [
+        "of",
+        "with",
+        "at",
+        "from"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Tired from\" means exhausted by effort.",
+        "1": "\"Tired with\" is not the usual collocation.",
+        "2": "\"Tired at\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-302",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "I ___ have gone to the party, but I was too tired.",
+      "explanation": "\"Could have\" + participle expresses a past possibility that did not happen.",
+      "options": [
+        "could",
+        "would to",
+        "should",
+        "must"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Must have gone\" is a deduction.",
+        "2": "\"Should have gone\" expresses regret or obligation.",
+        "1": "\"Would\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "b2-vf-303",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "If governments ___ more in public transport, fewer people would drive.",
+      "explanation": "The second conditional uses the past simple.",
+      "options": [
+        "will invest",
+        "invested",
+        "invest",
+        "would invest"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The second conditional needs the past simple.",
+        "0": "\"Will\" is not used in the if-clause.",
+        "3": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b2-vf-304",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Supposing you ___ the lottery, what would you do first?",
+      "explanation": "\"Supposing\" + past simple introduces a hypothetical situation.",
+      "options": [
+        "will win",
+        "win",
+        "had won",
+        "won"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "Hypothetical situations use a past form.",
+        "2": "This refers to the past.",
+        "0": "\"Will\" is not used in a hypothetical condition."
+      }
+    },
+    {
+      "id": "b2-vf-305",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "The teacher suggested ___ the exam by one week.",
+      "explanation": "\"Suggest\" is followed by a gerund.",
+      "options": [
+        "to postponing",
+        "postpone",
+        "postponing",
+        "to postpone"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Suggest\" is followed by a gerund.",
+        "1": "\"Suggest\" is followed by a gerund or \"that\" clause.",
+        "0": "\"To\" is not used here."
+      }
+    },
+    {
+      "id": "b2-vf-306",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Nobody likes ___ for something they did not do.",
+      "explanation": "A passive gerund follows \"like\" when the subject receives the action.",
+      "options": [
+        "being blamed",
+        "to blame",
+        "blaming",
+        "to be blamed"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "After \"like\" for a general feeling a gerund is more natural here.",
+        "2": "An active gerund changes the meaning.",
+        "1": "An active infinitive changes the meaning."
+      }
+    },
+    {
+      "id": "b2-vf-307",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "He ___ for this firm for ten years before he moved to London.",
+      "explanation": "The past perfect shows an earlier period.",
+      "options": [
+        "was working",
+        "has worked",
+        "worked",
+        "had worked"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "The past perfect shows an earlier period.",
+        "2": "The simple past does not show the sequence.",
+        "0": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "b2-vf-308",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "I wish I ___ taller. Then I could play basketball.",
+      "explanation": "\"Wish\" + past expresses a present wish.",
+      "options": [
+        "had been",
+        "were",
+        "will be",
+        "am"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "A wish about the present uses a past form.",
+        "2": "\"Will\" does not express a wish.",
+        "0": "This refers to the past."
+      }
+    },
+    {
+      "id": "b2-vf-309",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "He seems ___ a lot of weight since last year.",
+      "explanation": "\"To have lost\" shows an earlier action.",
+      "options": [
+        "losing",
+        "having lost",
+        "to lose",
+        "to have lost"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Seem\" is followed by an infinitive.",
+        "2": "A simple infinitive does not show an earlier action.",
+        "1": "\"having lost\" does not work here, because \"Seem\" is followed by an infinitive."
+      }
+    },
+    {
+      "id": "b2-vf-310",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "She would have been promoted if she ___ the deadline.",
+      "explanation": "The if-clause uses the past perfect.",
+      "options": [
+        "wouldn't miss",
+        "hadn't missed",
+        "hasn't missed",
+        "didn't miss"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "The third conditional needs the past perfect.",
+        "0": "\"Would\" is not used in the if-clause.",
+        "2": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-311",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "By the time the plane lands, we ___ for nine hours.",
+      "explanation": "The future perfect continuous shows duration up to a future moment.",
+      "options": [
+        "are travelling",
+        "have travelled",
+        "will travel",
+        "will have been travelling"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "The future perfect continuous shows duration.",
+        "1": "A present form does not fit.",
+        "0": "The present continuous does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-312",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "She was so tired that she ___ asleep in front of the TV.",
+      "explanation": "\"Fell\" is the past of \"fall\".",
+      "options": [
+        "fall",
+        "fell",
+        "fallen",
+        "felt"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Felt\" is the past of \"feel\".",
+        "0": "The sentence is in the past.",
+        "2": "An auxiliary is missing."
+      }
+    },
+    {
+      "id": "b2-vf-313",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He was born ___ 1990.",
+      "explanation": "\"In\" is used with years.",
+      "options": [
+        "at",
+        "by",
+        "on",
+        "in"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"At 1990\" is not correct.",
+        "2": "\"On 1990\" is not correct.",
+        "1": "\"By 1990\" shows a deadline."
+      }
+    },
+    {
+      "id": "b2-vf-314",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "The prisoners ___ to remain in their cells until further notice.",
+      "explanation": "The passive shows who receives the order.",
+      "options": [
+        "were ordering",
+        "were ordered",
+        "ordered",
+        "are ordering"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The prisoners receive the order.",
+        "0": "An active continuous form does not fit.",
+        "3": "An active form does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-315",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "I look forward ___ you at the conference.",
+      "explanation": "\"Look forward to\" is followed by -ing.",
+      "options": [
+        "seeing",
+        "to see",
+        "to seeing",
+        "for seeing"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "After \"look forward to\" use -ing.",
+        "0": "The preposition \"to\" is needed.",
+        "3": "\"Look forward for\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-316",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "There isn't ___ bread in the house; I'll go and buy some.",
+      "explanation": "\"Any\" is used in negatives.",
+      "options": [
+        "a few",
+        "many",
+        "few",
+        "any"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Bread\" is uncountable.",
+        "0": "\"a few\" does not work here, because \"Bread\" is uncountable.",
+        "2": "\"few\" does not work here, because \"Bread\" is uncountable."
+      }
+    },
+    {
+      "id": "b2-vf-317",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "You can borrow my car as long as you ___ it back by six.",
+      "explanation": "\"As long as\" is followed by the present for the future.",
+      "options": [
+        "will bring",
+        "would bring",
+        "bring",
+        "brought"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Will\" is not used after \"as long as\".",
+        "3": "A past form changes the meaning.",
+        "1": "\"Would\" is not used after \"as long as\"."
+      }
+    },
+    {
+      "id": "b2-vf-318",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The cost of living has increased ___ five per cent.",
+      "explanation": "\"By\" introduces the amount of change.",
+      "options": [
+        "by",
+        "with",
+        "of",
+        "to"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"With\" does not introduce an amount of change.",
+        "2": "\"Of\" does not introduce an amount of change.",
+        "3": "\"To\" gives the final level."
+      }
+    },
+    {
+      "id": "b2-vf-319",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "We would have enjoyed the trip more if the weather ___ better.",
+      "explanation": "The if-clause uses the past perfect.",
+      "options": [
+        "would be",
+        "were",
+        "was",
+        "had been"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "The third conditional needs the past perfect.",
+        "1": "This refers to the present.",
+        "0": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b2-vf-320",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Would you mind ___ the music down a little?",
+      "explanation": "\"Would you mind\" + gerund is a polite request.",
+      "options": [
+        "to turning",
+        "turn",
+        "turning",
+        "to turn"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Mind\" is followed by a gerund.",
+        "1": "\"turn\" does not work here, because \"Mind\" is followed by a gerund.",
+        "0": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-321",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "She told me she ___ for the company for over twenty years.",
+      "explanation": "The present perfect shifts to the past perfect.",
+      "options": [
+        "has worked",
+        "had worked",
+        "was working",
+        "works"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "Reported speech shifts back.",
+        "3": "A present tense does not shift back.",
+        "2": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "b2-vf-322",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "\"I have never been to Japan,\" she said. → She said she ___ to Japan.",
+      "explanation": "The present perfect becomes the past perfect.",
+      "options": [
+        "has never been",
+        "would never be",
+        "never was",
+        "had never been"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "The present perfect shifts back in reported speech.",
+        "2": "The past perfect is needed.",
+        "1": "\"Would\" changes the meaning."
+      }
+    },
+    {
+      "id": "b2-vf-323",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "She is used to ___ at six every morning.",
+      "explanation": "\"Be used to\" is followed by a gerund.",
+      "options": [
+        "get up",
+        "to get up",
+        "getting",
+        "getting up"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "After \"used to\" with the meaning of habit use -ing.",
+        "2": "\"Getting\" needs a particle.",
+        "1": "\"Be used to\" is followed by -ing."
+      }
+    },
+    {
+      "id": "b2-vf-324",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "She ___ the washing-up when the doorbell rang.",
+      "explanation": "The past continuous shows an interrupted action.",
+      "options": [
+        "does",
+        "was doing",
+        "did",
+        "has done"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The past continuous shows an action in progress.",
+        "3": "The present perfect does not fit.",
+        "0": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "b2-vf-325",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If it ___ for your help, I would never have finished the project.",
+      "explanation": "\"If it hadn't been for\" means without.",
+      "options": [
+        "weren't",
+        "hadn't been",
+        "wasn't",
+        "hasn't been"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The third conditional needs the past perfect.",
+        "0": "This refers to the present.",
+        "3": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-326",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If I ___ you, I would accept the offer immediately.",
+      "explanation": "\"If I were you\" is a fixed advice structure.",
+      "options": [
+        "am",
+        "will be",
+        "was",
+        "were"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "The second conditional needs a past form.",
+        "2": "\"Were\" is the formal form in this advice structure.",
+        "1": "\"Will\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b2-vf-327",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "I can't afford ___ a new car this year.",
+      "explanation": "\"Afford\" is followed by \"to + infinitive\".",
+      "options": [
+        "to buying",
+        "to buy",
+        "buy",
+        "buying"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Afford\" is followed by an infinitive.",
+        "2": "\"Afford\" is followed by \"to + infinitive\".",
+        "0": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-328",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "I told you not to touch anything, but you touched ___ again.",
+      "explanation": "\"It\" refers back to \"anything\".",
+      "options": [
+        "those",
+        "they",
+        "it",
+        "them"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Anything\" is singular.",
+        "0": "\"Those\" is a demonstrative.",
+        "1": "\"They\" is a subject pronoun."
+      }
+    },
+    {
+      "id": "b2-vf-329",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "I don't know ___ she lives.",
+      "explanation": "\"Where\" introduces a question about place.",
+      "options": [
+        "which",
+        "what",
+        "where",
+        "who"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Which\" would need an antecedent.",
+        "1": "\"What she lives\" is not correct.",
+        "3": "\"Who\" refers to people."
+      }
+    },
+    {
+      "id": "b2-vf-330",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "He ___ the exam. He studied day and night for weeks.",
+      "explanation": "\"Can't have\" + past participle expresses a negative deduction about the past.",
+      "options": [
+        "shouldn't fail",
+        "can't have failed",
+        "needn't have failed",
+        "mustn't have failed"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Mustn't have\" is not used for deductions.",
+        "0": "\"Shouldn't fail\" refers to the future.",
+        "2": "\"Needn't have\" means an action was unnecessary."
+      }
+    },
+    {
+      "id": "b2-vf-331",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Her new job is ___ demanding than her old one.",
+      "explanation": "\"Far more\" intensifies a comparative.",
+      "options": [
+        "very more",
+        "far more",
+        "far much",
+        "too more"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Far\" and \"much\" cannot be combined.",
+        "0": "\"Very\" cannot modify a comparative.",
+        "3": "\"Too\" cannot modify a comparative."
+      }
+    },
+    {
+      "id": "b2-vf-332",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The teacher blamed him ___ the mistake.",
+      "explanation": "\"Blame someone for something\".",
+      "options": [
+        "of",
+        "with",
+        "for",
+        "on"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Blame of\" is not correct.",
+        "3": "\"Blame him on\" would reverse the structure.",
+        "1": "\"Blame with\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-333",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I'd like ___ to the cinema tonight if you feel like it.",
+      "explanation": "\"Would like to\" is followed by a base form.",
+      "options": [
+        "gone",
+        "going",
+        "to go",
+        "go"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Would like\" is followed by an infinitive.",
+        "3": "\"Would like\" is followed by \"to\".",
+        "0": "A participle does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-334",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He left ___ the morning before anyone was awake.",
+      "explanation": "\"In the morning\".",
+      "options": [
+        "by",
+        "on",
+        "at",
+        "in"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"At the morning\" is not correct.",
+        "1": "\"On the morning\" needs a date or description.",
+        "0": "\"By the morning\" shows a deadline."
+      }
+    },
+    {
+      "id": "b2-vf-335",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "She ___ to be the best surgeon in the country.",
+      "explanation": "\"Is said to be\" is a passive reporting structure.",
+      "options": [
+        "is saying",
+        "says",
+        "has say",
+        "is said"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "The person is described, not the speaker.",
+        "0": "This changes the meaning.",
+        "2": "After \"has\" use a participle."
+      }
+    },
+    {
+      "id": "b2-vf-336",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The guide told us that the castle ___ in the twelfth century.",
+      "explanation": "The past perfect passive shows an earlier event.",
+      "options": [
+        "was built",
+        "is built",
+        "had been built",
+        "has been built"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "Reported speech shifts back to the past perfect.",
+        "3": "The present perfect does not fit.",
+        "1": "A present tense does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-337",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "She has been working here ___ she left university.",
+      "explanation": "\"Since\" introduces a starting point.",
+      "options": [
+        "during",
+        "from",
+        "for",
+        "since"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"For\" needs a length of time.",
+        "0": "\"During\" does not fit.",
+        "1": "\"From\" does not combine with the present perfect."
+      }
+    },
+    {
+      "id": "b2-vf-338",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "The film is worth ___ twice.",
+      "explanation": "\"Worth\" is followed by a gerund.",
+      "options": [
+        "seeing",
+        "see",
+        "to seeing",
+        "to see"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Worth\" is followed by -ing.",
+        "1": "\"see\" does not work here, because \"Worth\" is followed by -ing.",
+        "2": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-339",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The lecture was ___ boring that I fell asleep.",
+      "explanation": "\"So + adjective + that\" shows a result.",
+      "options": [
+        "very",
+        "such",
+        "too",
+        "so"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Such\" needs a noun phrase.",
+        "2": "\"Too\" does not take \"that\".",
+        "0": "\"Very\" cannot be followed by \"that\"."
+      }
+    },
+    {
+      "id": "b2-vf-340",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "She has been waiting for him ___ nine o'clock.",
+      "explanation": "\"Since\" introduces a starting point.",
+      "options": [
+        "at",
+        "since",
+        "for",
+        "from"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"For\" needs a length of time.",
+        "0": "\"At\" does not combine with the present perfect.",
+        "3": "\"From\" does not combine with the present perfect."
+      }
+    },
+    {
+      "id": "b2-vf-341",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "The company has ___ offices in Europe, Asia and America.",
+      "explanation": "\"Several\" goes with countable plurals.",
+      "options": [
+        "much",
+        "several",
+        "little",
+        "a little"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Offices\" is countable.",
+        "3": "\"a little\" does not work here, because \"Offices\" is countable.",
+        "2": "\"little\" does not work here, because \"Offices\" is countable."
+      }
+    },
+    {
+      "id": "b2-vf-342",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "He looked ___ when he heard the bad news.",
+      "explanation": "\"Upset\" describes how he felt.",
+      "options": [
+        "upsets",
+        "upset",
+        "upsetting",
+        "upsettingly"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Upsetting\" describes the cause.",
+        "0": "\"Upsets\" is a verb form.",
+        "3": "\"Upsettingly\" is an adverb."
+      }
+    },
+    {
+      "id": "b2-vf-343",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I wish I ___ so tired; I'd love to go out tonight.",
+      "explanation": "\"Wish\" + past form.",
+      "options": [
+        "wasn't",
+        "weren't",
+        "am not",
+        "won't be"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Weren't\" is the formal form after \"wish\".",
+        "2": "A wish needs a past form.",
+        "3": "\"Won't\" does not express a wish."
+      }
+    },
+    {
+      "id": "b2-vf-344",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "The house ___ roof was damaged has been repaired.",
+      "explanation": "\"Whose\" shows possession.",
+      "options": [
+        "who",
+        "whose",
+        "which",
+        "that"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Who\" cannot show possession.",
+        "2": "\"Which roof\" is not correct for possession.",
+        "3": "\"That\" cannot show possession."
+      }
+    },
+    {
+      "id": "b2-vf-345",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "The two girls introduced ___ to the teacher.",
+      "explanation": "\"Themselves\" is the reflexive pronoun.",
+      "options": [
+        "them",
+        "theirselves",
+        "each other",
+        "themselves"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Them\" would refer to other people.",
+        "2": "This changes the meaning.",
+        "1": "\"Theirselves\" is not standard."
+      }
+    },
+    {
+      "id": "b2-vf-346",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The film is based ___ a true story.",
+      "explanation": "\"Based on\" shows the source.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "with"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Based at\" means located at.",
+        "0": "\"Based in\" means located in.",
+        "3": "\"Based with\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-347",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Should you ___ any problems, please contact our helpline.",
+      "explanation": "\"Should + subject + base form\" is a formal conditional.",
+      "options": [
+        "experienced",
+        "experience",
+        "experiences",
+        "to experience"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "After \"should\" use the base form.",
+        "0": "\"experienced\" does not work here, because after \"should\" use the base form.",
+        "3": "\"to experience\" does not work here, because after \"should\" use the base form."
+      }
+    },
+    {
+      "id": "b2-vf-348",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "I'm afraid the manager ___ available until next Monday.",
+      "explanation": "\"Won't be\" expresses a future state.",
+      "options": [
+        "won't be",
+        "doesn't",
+        "isn't going to being",
+        "hasn't"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "This is ungrammatical.",
+        "1": "An auxiliary is missing.",
+        "3": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-349",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I ___ him for years, but I still don't know his real name.",
+      "explanation": "The present perfect shows duration up to now.",
+      "options": [
+        "have known",
+        "know",
+        "knew",
+        "am knowing"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The present simple does not show duration.",
+        "2": "The simple past does not connect to now.",
+        "3": "\"Know\" is a stative verb."
+      }
+    },
+    {
+      "id": "b2-vf-350",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "She isn't answering her phone. She ___ in a meeting at the moment.",
+      "explanation": "\"May well be\" expresses a strong probability in the present.",
+      "options": [
+        "must have",
+        "may well been",
+        "can well be",
+        "may well be"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "After \"well\" the modal needs \"be\" for the present, not a past participle.",
+        "0": "\"Must have\" is a deduction about the past, not the present.",
+        "2": "\"Can well be\" is not the usual combination for a probability."
+      }
+    },
+    {
+      "id": "b2-vf-351",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "He is ___ honest man, so you can trust him.",
+      "explanation": "\"An\" is used before a vowel sound.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "–"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Honest\" starts with a vowel sound.",
+        "2": "The man is not specific.",
+        "3": "A singular noun needs an article."
+      }
+    },
+    {
+      "id": "b2-vf-352",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "It's a film ___ you will enjoy if you like adventure.",
+      "explanation": "\"That\" introduces a defining clause.",
+      "options": [
+        "whose",
+        "whom",
+        "what",
+        "that"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"What\" cannot follow a noun.",
+        "1": "\"Whom\" refers to people.",
+        "0": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "b2-vf-353",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "She was angry ___ me for forgetting her birthday.",
+      "explanation": "\"Angry with someone for doing\".",
+      "options": [
+        "to",
+        "with",
+        "of",
+        "for"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Angry of\" is not correct.",
+        "0": "\"Angry to\" is not correct.",
+        "3": "\"Angry for\" would reverse the structure."
+      }
+    },
+    {
+      "id": "b2-vf-354",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "They congratulated me ___ passing my driving test.",
+      "explanation": "\"Congratulate on\" is the fixed collocation.",
+      "options": [
+        "with",
+        "on",
+        "for",
+        "at"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Congratulate for\" is not standard.",
+        "3": "\"Congratulate at\" is not correct.",
+        "0": "\"Congratulate with\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-355",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "While I ___ the newspaper, the doorbell rang.",
+      "explanation": "The past continuous shows an interrupted action.",
+      "options": [
+        "have read",
+        "read",
+        "was reading",
+        "am reading"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The past continuous shows an action in progress.",
+        "0": "The present perfect does not fit.",
+        "3": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "b2-vf-356",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The flight ___ at 6.30 tomorrow morning.",
+      "explanation": "The present simple is used for timetables.",
+      "options": [
+        "leaving",
+        "is leave",
+        "will leaving",
+        "leaves"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Is leave\" is ungrammatical.",
+        "2": "\"Will\" is followed by a base form.",
+        "0": "An auxiliary is missing."
+      }
+    },
+    {
+      "id": "b2-vf-357",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "We ___ so much food. Nobody was hungry.",
+      "explanation": "\"Needn't have\" + participle means we did it but it was unnecessary.",
+      "options": [
+        "mustn't have cooked",
+        "shouldn't cook",
+        "can't have cooked",
+        "needn't have cooked"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Mustn't have\" is not used like this.",
+        "2": "\"Can't have\" expresses a negative deduction.",
+        "1": "This refers to the present or future."
+      }
+    },
+    {
+      "id": "b2-vf-358",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ better apologise to her before it's too late.",
+      "explanation": "\"Had better\" gives strong advice.",
+      "options": [
+        "did",
+        "should",
+        "would",
+        "had"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Would better\" is not used.",
+        "1": "\"Should better\" is not used.",
+        "0": "\"Did better\" has another meaning."
+      }
+    },
+    {
+      "id": "b2-vf-359",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "She was made ___ the whole report again.",
+      "explanation": "\"Be made to\" + infinitive is the passive of \"make someone do\".",
+      "options": [
+        "to rewriting",
+        "rewriting",
+        "to rewrite",
+        "rewrite"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "After a passive \"make\" the \"to\" infinitive is used.",
+        "1": "A gerund does not follow a passive \"make\".",
+        "0": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-360",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The hotel is close ___ the airport.",
+      "explanation": "\"Close to\" shows proximity.",
+      "options": [
+        "from",
+        "to",
+        "at",
+        "by"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Close at\" is not correct.",
+        "0": "\"Close from\" is not correct.",
+        "3": "\"Close by\" has no object."
+      }
+    },
+    {
+      "id": "b2-vf-361",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "He ___ to the police that he had seen the robbery.",
+      "explanation": "\"Say\" is followed by a clause.",
+      "options": [
+        "talked",
+        "said",
+        "spoke",
+        "told"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Told to the police\" is not natural.",
+        "2": "\"Spoke that\" is not natural.",
+        "0": "\"Talked that\" is not natural."
+      }
+    },
+    {
+      "id": "b2-vf-362",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "He ___ his arm while he was playing football.",
+      "explanation": "The past simple reports a finished event.",
+      "options": [
+        "breaks",
+        "broke",
+        "has broken",
+        "was broken"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "A finished time reference calls for the past simple.",
+        "0": "The sentence is in the past.",
+        "3": "The subject did not receive the action."
+      }
+    },
+    {
+      "id": "b2-vf-363",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The traffic was ___ than usual, so I was late for work.",
+      "explanation": "\"Worse\" is the irregular comparative of \"bad\".",
+      "options": [
+        "worse",
+        "more bad",
+        "worst",
+        "badder"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "A comparison needs a comparative.",
+        "3": "\"Bad\" has an irregular comparative.",
+        "1": "\"more bad\" does not work here, because \"Bad\" has an irregular comparative."
+      }
+    },
+    {
+      "id": "b2-vf-364",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "We would have stayed longer if the weather ___ better.",
+      "explanation": "The if-clause uses the past perfect.",
+      "options": [
+        "was",
+        "had been",
+        "were",
+        "would be"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The third conditional needs the past perfect.",
+        "2": "This refers to the present.",
+        "3": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b2-vf-365",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "If you want a quiet seat, you ___ arrive early.",
+      "explanation": "\"Had better\" + base form gives strong advice.",
+      "options": [
+        "did better",
+        "would better",
+        "had better",
+        "should better"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Would better\" is not used.",
+        "3": "\"Should better\" is not used.",
+        "0": "\"Did better\" has a different meaning."
+      }
+    },
+    {
+      "id": "b2-vf-366",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He's been in prison ___ five years.",
+      "explanation": "\"For\" is used with a length of time.",
+      "options": [
+        "since",
+        "during",
+        "from",
+        "for"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Since\" needs a point in time.",
+        "1": "\"During\" does not take a length of time.",
+        "2": "\"From\" does not combine with the present perfect."
+      }
+    },
+    {
+      "id": "b2-vf-367",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "The new law ___ into force last month.",
+      "explanation": "\"Came into force\" is the past of \"come into force\".",
+      "options": [
+        "come",
+        "comes",
+        "coming",
+        "came"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "The sentence is in the past.",
+        "1": "\"comes\" does not work here, because the sentence is in the past.",
+        "2": "An auxiliary is missing."
+      }
+    },
+    {
+      "id": "b2-vf-368",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I ___ this film before, so I don't want to see it again.",
+      "explanation": "The present perfect connects a past action to the present.",
+      "options": [
+        "had already seen",
+        "have already seen",
+        "already saw",
+        "am already seeing"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The present perfect connects past experience to now.",
+        "0": "The past perfect needs a past reference.",
+        "3": "The present continuous does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-369",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ be joking! That price is far too high.",
+      "explanation": "\"You can't be joking\" expresses disbelief.",
+      "options": [
+        "shouldn't",
+        "needn't",
+        "can't",
+        "mustn't"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Mustn't\" is a prohibition.",
+        "1": "\"Needn't\" means it is not necessary.",
+        "0": "\"Shouldn't\" gives advice."
+      }
+    },
+    {
+      "id": "b2-vf-370",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "The window ___ by the children, so they are in trouble.",
+      "explanation": "The past passive reports the event.",
+      "options": [
+        "was broken",
+        "has broke",
+        "broken",
+        "broke"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "The window cannot break itself in this sentence.",
+        "1": "A participle is needed.",
+        "2": "An auxiliary is missing."
+      }
+    },
+    {
+      "id": "b2-vf-371",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "She said she ___ the report by the end of the week.",
+      "explanation": "\"Will\" becomes \"would\" in reported speech.",
+      "options": [
+        "finishes",
+        "has finished",
+        "will finish",
+        "would finish"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "Reported speech shifts \"will\" to \"would\".",
+        "0": "A present tense does not shift.",
+        "1": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "b2-vf-372",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ at me like that! I haven't done anything wrong.",
+      "explanation": "\"Needn't\" means there is no need; the full sentence is a complaint.",
+      "options": [
+        "can't shout",
+        "mustn't shout",
+        "needn't shout",
+        "shouldn't shout"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Mustn't\" is stronger than the meaning of \"no need\".",
+        "3": "\"Shouldn't shout\" is advice, while \"needn't\" means no need.",
+        "0": "\"Can't shout\" refers to inability."
+      }
+    },
+    {
+      "id": "b2-vf-373",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This is different ___ what I expected.",
+      "explanation": "\"Different from/to\" is the usual collocation.",
+      "options": [
+        "of",
+        "at",
+        "from",
+        "with"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Different of\" is not correct.",
+        "3": "\"Different with\" is not correct.",
+        "1": "\"Different at\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-374",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "\"Have you got a pen?\" \"Sorry, I haven't. You ___ ask Maria. She always has one.\"",
+      "explanation": "\"Could\" can make a suggestion.",
+      "options": [
+        "could",
+        "must",
+        "may have",
+        "would to"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Must\" would be too strong for a suggestion.",
+        "3": "\"Would\" is not followed by \"to\".",
+        "2": "\"May have\" refers to the past."
+      }
+    },
+    {
+      "id": "b2-vf-375",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "She's been living in Spain ___ two years.",
+      "explanation": "\"For\" is used with a length of time.",
+      "options": [
+        "during",
+        "since",
+        "from",
+        "for"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Since\" needs a point in time.",
+        "0": "\"During\" does not take a length of time here.",
+        "2": "\"From\" does not fit the present perfect."
+      }
+    },
+    {
+      "id": "b2-vf-376",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "We spent the weekend ___ the countryside.",
+      "explanation": "\"In the countryside\".",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"On the countryside\" is not usual.",
+        "2": "\"At the countryside\" is not usual.",
+        "3": "\"To the countryside\" shows movement."
+      }
+    },
+    {
+      "id": "b2-vf-377",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "By the time you read this, I ___ on a plane to Sydney.",
+      "explanation": "\"By the time\" + future continuous shows an action in progress.",
+      "options": [
+        "sit",
+        "will be sitting",
+        "will sit",
+        "am sitting"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The future continuous shows an action in progress.",
+        "0": "A present tense does not fit.",
+        "3": "The present continuous does not point to a future time."
+      }
+    },
+    {
+      "id": "b2-vf-378",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "She sings ___ than any of the other girls in the choir.",
+      "explanation": "\"Better\" is the comparative of \"well\".",
+      "options": [
+        "more good",
+        "well",
+        "better",
+        "best"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Best\" is a superlative.",
+        "1": "\"Well\" is the base form.",
+        "0": "\"Good\" has an irregular comparative."
+      }
+    },
+    {
+      "id": "b2-vf-379",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He prevented them ___ entering the building.",
+      "explanation": "\"Prevent someone from doing\".",
+      "options": [
+        "at",
+        "from",
+        "to",
+        "of"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Prevent of\" is not correct.",
+        "2": "\"Prevent to\" is not correct.",
+        "0": "\"Prevent at\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-380",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "They went on ___ about politics for another hour.",
+      "explanation": "\"Go on + gerund\" means continue.",
+      "options": [
+        "to talk",
+        "talk",
+        "to talking",
+        "talking"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Went on to talk\" would mean a new activity.",
+        "1": "\"Go on\" is followed by a gerund or \"to\".",
+        "2": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-381",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "The scientists have been studying the problem ___ many years.",
+      "explanation": "\"For\" is used with a length of time.",
+      "options": [
+        "since",
+        "during",
+        "for",
+        "from"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Since\" needs a point in time.",
+        "1": "\"During\" does not take a length of time.",
+        "3": "\"From\" does not combine with the present perfect."
+      }
+    },
+    {
+      "id": "b2-vf-382",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ park here. It's reserved for staff.",
+      "explanation": "\"Mustn't\" expresses a prohibition.",
+      "options": [
+        "needn't",
+        "mustn't",
+        "wouldn't",
+        "don't have to"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Needn't\" means no need.",
+        "3": "\"Don't have to\" means no need.",
+        "2": "\"Wouldn't\" is not a rule."
+      }
+    },
+    {
+      "id": "b2-vf-383",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "We ___ lost if we hadn't taken a map with us.",
+      "explanation": "The third conditional uses \"would have\" + participle.",
+      "options": [
+        "will get",
+        "would have got",
+        "would get",
+        "had got"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "This refers to the present or future.",
+        "0": "The conditional is unreal.",
+        "3": "The result clause needs a modal."
+      }
+    },
+    {
+      "id": "b2-vf-384",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He was fined ___ driving too fast.",
+      "explanation": "\"Fined for\" introduces the offence.",
+      "options": [
+        "at",
+        "of",
+        "for",
+        "with"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Fined of\" is not correct.",
+        "3": "\"Fined with\" is not correct.",
+        "0": "\"Fined at\" is not correct."
+      }
+    },
+    {
+      "id": "b2-vf-385",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "It's no use ___ about the past; we must think about the future.",
+      "explanation": "\"It's no use\" is followed by a gerund.",
+      "options": [
+        "worrying",
+        "to worry",
+        "worry",
+        "to worrying"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"It's no use\" is followed by a gerund.",
+        "2": "\"worry\" does not work here, because \"It's no use\" is followed by a gerund.",
+        "3": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-386",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "She gave me a ___ of advice about how to prepare for the interview.",
+      "explanation": "\"A piece of advice\" is the standard partitive.",
+      "options": [
+        "part",
+        "slice",
+        "piece",
+        "bit of"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Bit of\" is already in the structure.",
+        "0": "\"Part of advice\" is not standard.",
+        "1": "\"Slice\" is used with food."
+      }
+    },
+    {
+      "id": "b2-vf-387",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "He has ___ money, so he can't afford a holiday.",
+      "explanation": "\"Little\" means almost none.",
+      "options": [
+        "a few",
+        "many",
+        "little",
+        "few"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Money\" is uncountable.",
+        "0": "\"a few\" does not work here, because \"Money\" is uncountable.",
+        "1": "\"many\" does not work here, because \"Money\" is uncountable."
+      }
+    },
+    {
+      "id": "b2-vf-388",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "I wasn't sure where he was. He ___ gone home early for all I knew.",
+      "explanation": "\"Might have\" expresses a possibility about the past.",
+      "options": [
+        "might has",
+        "might have",
+        "would to have",
+        "must had"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "After \"might\" use \"have\".",
+        "3": "After \"must\" use \"have\".",
+        "2": "\"Would\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "b2-vf-389",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "The two companies ___ a deal after weeks of negotiation.",
+      "explanation": "\"Reach a deal\" is the standard collocation.",
+      "options": [
+        "arrived",
+        "got",
+        "reached",
+        "came"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Arrive a deal\" is not a collocation.",
+        "1": "\"Get a deal\" is less formal and unusual in this context.",
+        "3": "\"Come a deal\" is not a collocation."
+      }
+    },
+    {
+      "id": "b2-vf-390",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "I'm not sure if I can come. I ___ have to work on Saturday.",
+      "explanation": "\"Might\" expresses a possibility.",
+      "options": [
+        "must",
+        "would to",
+        "shall",
+        "might"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Would\" is not followed by \"to\".",
+        "2": "\"Shall\" is not used for possibility.",
+        "0": "\"Must\" expresses strong obligation."
+      }
+    },
+    {
+      "id": "b2-vf-391",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "We ___ a lovely week in Italy when the news came that my grandmother was ill.",
+      "explanation": "The past continuous shows an interrupted action.",
+      "options": [
+        "were having",
+        "have had",
+        "had",
+        "are having"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The past continuous shows an action in progress.",
+        "1": "The present perfect does not fit.",
+        "3": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "b2-vf-392",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "We ___ in Paris for three days before we moved on to Brussels.",
+      "explanation": "The past perfect shows an earlier action.",
+      "options": [
+        "had stayed",
+        "were staying",
+        "stay",
+        "have stayed"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "The present perfect does not fit.",
+        "2": "The sentence is in the past.",
+        "1": "The past perfect shows an earlier action."
+      }
+    },
+    {
+      "id": "b2-vf-393",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "He didn't mind ___ for his friend for over an hour.",
+      "explanation": "\"Mind\" is followed by a gerund.",
+      "options": [
+        "waiting",
+        "wait",
+        "to wait",
+        "to waiting"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Mind\" is followed by a gerund.",
+        "1": "\"wait\" does not work here, because \"Mind\" is followed by a gerund.",
+        "3": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-394",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He was ashamed ___ having lied to his parents.",
+      "explanation": "\"Ashamed of\" is followed by -ing.",
+      "options": [
+        "with",
+        "at",
+        "for",
+        "of"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Ashamed for\" is possible but \"of\" is the usual.",
+        "0": "\"Ashamed with\" is not standard.",
+        "1": "\"Ashamed at\" is not standard."
+      }
+    },
+    {
+      "id": "b2-vf-395",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "I'm looking ___ my glasses; have you seen them?",
+      "explanation": "\"Look for\" means to search.",
+      "options": [
+        "at",
+        "for",
+        "into",
+        "after"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Look at\" means to direct your eyes.",
+        "3": "\"Look after\" means to take care of.",
+        "2": "\"Look into\" means to investigate."
+      }
+    },
+    {
+      "id": "b2-vf-396",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Unless you ___ me the truth, I can't help you.",
+      "explanation": "\"Unless\" is followed by a present tense.",
+      "options": [
+        "told",
+        "tell",
+        "would tell",
+        "will tell"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Will\" is not used after \"unless\".",
+        "0": "A past form changes the meaning.",
+        "2": "\"Would\" is not used after \"unless\"."
+      }
+    },
+    {
+      "id": "b2-vf-397",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "I'm sorry, but I can't ___ you what happened. It's a secret.",
+      "explanation": "\"Tell\" takes a personal object.",
+      "options": [
+        "say",
+        "tell",
+        "talk",
+        "speak"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Say you\" is not grammatical without \"to\".",
+        "3": "\"Speak you\" is not grammatical.",
+        "2": "\"Talk you\" is not grammatical."
+      }
+    },
+    {
+      "id": "b2-vf-398",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "I'd rather you ___ the window; it's cold in here.",
+      "explanation": "\"I'd rather you closed\" is a polite request.",
+      "options": [
+        "had closed",
+        "close",
+        "closed",
+        "will close"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "After \"I'd rather\" + person use a past form.",
+        "3": "\"Will\" is not used after \"I'd rather\".",
+        "0": "This refers to the past."
+      }
+    },
+    {
+      "id": "b2-vf-399",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "There's no point in ___ money you don't have.",
+      "explanation": "After a preposition use a gerund.",
+      "options": [
+        "spending",
+        "to spend",
+        "spent",
+        "spend"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "After a preposition use -ing.",
+        "3": "\"spend\" does not work here, because after a preposition use -ing.",
+        "2": "\"spent\" does not work here, because after a preposition use -ing."
+      }
+    },
+    {
+      "id": "b2-vf-400",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "___ of the two brothers lives in London; one lives in Paris.",
+      "explanation": "\"Neither\" refers to two.",
+      "options": [
+        "Neither",
+        "Both",
+        "All",
+        "None"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"None\" is for three or more.",
+        "1": "\"Both\" would mean both live in London.",
+        "2": "\"All\" is for more than two."
+      }
+    },
+    {
+      "id": "b2-vf-401",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "I'm going to the shop; do we need ___ milk?",
+      "explanation": "\"Any\" is used in questions.",
+      "options": [
+        "few",
+        "many",
+        "any",
+        "a few"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Milk\" is uncountable.",
+        "3": "\"a few\" does not work here, because \"Milk\" is uncountable.",
+        "0": "\"few\" does not work here, because \"Milk\" is uncountable."
+      }
+    },
+    {
+      "id": "b2-vf-402",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This medicine ___ be taken on an empty stomach. It's dangerous.",
+      "explanation": "\"Must not\" expresses a prohibition.",
+      "options": [
+        "need not",
+        "may not",
+        "should not to",
+        "must not"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Need not\" means it is not necessary.",
+        "1": "\"May not\" would only suggest permission is withheld.",
+        "2": "\"Should\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "b2-vf-403",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "I ___ in this office for five years when the company moved to a new building.",
+      "explanation": "The past perfect shows an earlier period.",
+      "options": [
+        "had worked",
+        "was working",
+        "worked",
+        "have worked"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The past perfect shows a period before another event.",
+        "3": "The present perfect does not fit.",
+        "1": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "b2-vf-404",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "He ___ his keys when he was running for the bus.",
+      "explanation": "\"Must have\" + participle is a deduction about the past.",
+      "options": [
+        "must drop",
+        "must be dropping",
+        "must have dropped",
+        "must had dropped"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "A deduction about the past needs a perfect form.",
+        "1": "A continuous form does not fit.",
+        "3": "After \"must\" use \"have\"."
+      }
+    },
+    {
+      "id": "b2-vf-405",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "He answered the question ___ and without any hesitation.",
+      "explanation": "\"Confidently\" modifies a verb.",
+      "options": [
+        "confidently",
+        "confident",
+        "confidence",
+        "more confident"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "An adverb is needed to modify \"answered\".",
+        "2": "\"Confidence\" is a noun.",
+        "3": "A comparative is not needed."
+      }
+    },
+    {
+      "id": "b2-vf-406",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "She avoided ___ the question by changing the subject.",
+      "explanation": "\"Avoid\" is followed by a gerund.",
+      "options": [
+        "to answering",
+        "to answer",
+        "answering",
+        "answer"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Avoid\" is followed by a gerund.",
+        "3": "\"answer\" does not work here, because \"Avoid\" is followed by a gerund.",
+        "0": "\"To\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-vf-407",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "When the lights went ___, everyone started screaming.",
+      "explanation": "\"Go out\" describes lights failing.",
+      "options": [
+        "off",
+        "down",
+        "out",
+        "away"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Went off\" is possible but \"went out\" is the standard for lights failing.",
+        "1": "\"Went down\" has another meaning.",
+        "3": "\"Went away\" has another meaning."
+      }
+    },
+    {
+      "id": "b2-vf-408",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "We ___ dinner at eight tomorrow, so don't be late.",
+      "explanation": "The present continuous expresses a future arrangement.",
+      "options": [
+        "had",
+        "are having",
+        "have",
+        "will have"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The present continuous expresses a fixed arrangement.",
+        "3": "\"Will\" is not used for a fixed arrangement here.",
+        "0": "The sentence is about the future."
+      }
+    },
+    {
+      "id": "b2-vf-409",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "\"I'll call you tomorrow,\" he said. → He said that he ___ me the next day.",
+      "explanation": "\"Will\" becomes \"would\" in reported speech.",
+      "options": [
+        "calls",
+        "would call",
+        "called",
+        "will call"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "Reported speech shifts \"will\" to \"would\".",
+        "2": "This would report a past action.",
+        "0": "A present tense does not shift back."
+      }
+    },
+    {
+      "id": "b2-vf-410",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Please ___ the window; it's very hot in here.",
+      "explanation": "The imperative uses the base form.",
+      "options": [
+        "opens",
+        "opening",
+        "opened",
+        "open"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "The imperative uses the base form.",
+        "1": "\"opening\" does not work here, because the imperative uses the base form.",
+        "0": "\"opens\" does not work here, because the imperative uses the base form."
+      }
+    },
+    {
+      "id": "b2-vf-411",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Not only ___ the hotel expensive, but it was also dirty.",
+      "explanation": "\"Not only\" is followed by inversion.",
+      "options": [
+        "were",
+        "is",
+        "was",
+        "did"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The sentence is in the past.",
+        "0": "\"The hotel\" is singular.",
+        "3": "\"Did\" would need a base form."
+      }
+    },
+    {
+      "id": "b2-vf-412",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "She hurt ___ while she was playing tennis.",
+      "explanation": "\"Herself\" is the reflexive pronoun.",
+      "options": [
+        "hers",
+        "she",
+        "her",
+        "herself"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Her\" refers to another person.",
+        "0": "\"Hers\" is a possessive pronoun.",
+        "1": "\"She\" is a subject pronoun."
+      }
+    },
+    {
+      "id": "b2-vf-413",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "I'd rather you ___ smoke in here, if you don't mind.",
+      "explanation": "\"I'd rather you didn't\" is a polite request not to do something.",
+      "options": [
+        "won't",
+        "wouldn't",
+        "didn't",
+        "don't"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "After \"I'd rather\" + person the verb uses a past form.",
+        "0": "\"Won't\" is not used after \"I'd rather\".",
+        "1": "\"Wouldn't\" is not used after \"I'd rather\" here."
+      }
+    },
+    {
+      "id": "b2-vf-414",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "He denied ___ the money from the safe.",
+      "explanation": "\"Deny\" is followed by a perfect gerund for an earlier action.",
+      "options": [
+        "to take",
+        "to have taken",
+        "having taken",
+        "have taken"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Deny\" is followed by a gerund.",
+        "3": "\"have taken\" does not work here, because \"Deny\" is followed by a gerund.",
+        "0": "\"to take\" does not work here, because \"Deny\" is followed by a gerund."
+      }
+    },
+    {
+      "id": "b2-vf-415",
+      "type": "verb-form",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "If the computer crashes, try ___ it off and on again.",
+      "explanation": "\"Try + gerund\" means experiment.",
+      "options": [
+        "turning",
+        "turn",
+        "to turning",
+        "to turn"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Try to turn\" means attempt with difficulty.",
+        "1": "\"Try\" is followed by a gerund or \"to\".",
+        "2": "\"To\" is followed by a base form."
+      }
     }
   ]
 }

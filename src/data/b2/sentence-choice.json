@@ -1126,29 +1126,6 @@
       "correct": 3
     },
     {
-      "id": "b2-sc-050",
-      "type": "sentence-choice",
-      "level": "B2",
-      "topic": "narrative-tenses",
-      "topics": [
-        "verb-tenses"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "'By the time' + past simple is often followed by the past perfect: By the time the police arrived, the thieves had escaped.",
-      "wrongReasons": {
-        "0": "The present perfect does not fit a past story; use 'had escaped'.",
-        "1": "After 'had' you need the past participle 'escaped'.",
-        "3": "'Had arrive' is wrong; the earlier clause simply needs 'arrived'."
-      },
-      "options": [
-        "By the time the police arrived, the thieves have escaped.",
-        "By the time the police arrived, the thieves had escape.",
-        "By the time the police arrived, the thieves had escaped.",
-        "By the time the police had arrive, the thieves had escaped."
-      ],
-      "correct": 2
-    },
-    {
       "id": "b2-sc-051",
       "type": "sentence-choice",
       "level": "B2",
@@ -1724,29 +1701,6 @@
       "correct": 1
     },
     {
-      "id": "b2-sc-076",
-      "type": "sentence-choice",
-      "level": "B2",
-      "topic": "relative-clauses",
-      "topics": [
-        "pronouns-relative-clauses"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "After 'the reason' we use 'why' or 'that' to introduce the relative clause: The reason why she left is a mystery.",
-      "wrongReasons": {
-        "1": "'Because' is not a relative pronoun; after 'the reason' use 'why' or 'that'.",
-        "2": "'Which' does not work here without a preposition; use 'why'.",
-        "3": "'Where' refers to places, not to reasons."
-      },
-      "options": [
-        "The reason why she left is still a mystery.",
-        "The reason because she left is still a mystery.",
-        "The reason which she left is still a mystery.",
-        "The reason where she left is still a mystery."
-      ],
-      "correct": 0
-    },
-    {
       "id": "b2-sc-077",
       "type": "sentence-choice",
       "level": "B2",
@@ -1952,6 +1906,2715 @@
         "The museum was closed due to a power cut."
       ],
       "correct": 3
+    },
+    {
+      "id": "b2-sc-086",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"A little\" is used with uncountable nouns in a positive sense.",
+      "options": [
+        "I've got a little money, so I can lend you some.",
+        "I've got a few money, so I can lend you some.",
+        "I've got few money, so I can lend you some."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Few\" is not used with uncountable nouns.",
+        "1": "\"A few\" is not used with uncountable nouns."
+      }
+    },
+    {
+      "id": "b2-sc-087",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Lend\" means to give temporarily.",
+      "options": [
+        "She asked me to lend from her my dictionary.",
+        "She asked me to borrow her my dictionary.",
+        "She asked me to lend her my dictionary."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Borrow\" means to receive.",
+        "0": "\"Lend from\" is not correct."
+      }
+    },
+    {
+      "id": "b2-sc-088",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Decide\" is followed by an infinitive.",
+      "options": [
+        "He decided leaving early.",
+        "He decided to leave early.",
+        "He decided for leaving early."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Decide\" is followed by an infinitive.",
+        "2": "\"Decide for\" is not correct."
+      }
+    },
+    {
+      "id": "b2-sc-089",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"For\" is used with a length of time.",
+      "options": [
+        "She has been working here since ten years.",
+        "She is working here for ten years.",
+        "She has been working here for ten years."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Since\" needs a point in time.",
+        "1": "The present continuous does not show duration."
+      }
+    },
+    {
+      "id": "b2-sc-090",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Must have\" + participle.",
+      "options": [
+        "She must have forgotten the keys.",
+        "She must forgot the keys.",
+        "She must has forgotten the keys."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Have\" is missing.",
+        "2": "After \"must\" use \"have\"."
+      }
+    },
+    {
+      "id": "b2-sc-091",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Not as ... as\" is a negative comparison.",
+      "options": [
+        "The film was not so better as I expected.",
+        "The film was not as good as I expected.",
+        "The film was not as good than I expected."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"As ... as\" uses the base form.",
+        "2": "\"Than\" does not follow \"as\"."
+      }
+    },
+    {
+      "id": "b2-sc-092",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Whose\" shows possession.",
+      "options": [
+        "The man which wallet was stolen called the police.",
+        "The man whose wallet was stolen called the police.",
+        "The man who wallet was stolen called the police."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Who\" cannot show possession.",
+        "0": "\"Which\" refers to things."
+      }
+    },
+    {
+      "id": "b2-sc-093",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Suffer from\" is the standard collocation.",
+      "options": [
+        "Many people suffer with stress-related illnesses.",
+        "Many people suffer of stress-related illnesses.",
+        "Many people suffer from stress-related illnesses."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Suffer of\" is not standard.",
+        "0": "\"Suffer with\" is informal."
+      }
+    },
+    {
+      "id": "b2-sc-094",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Colder and colder\" shows a continuing change.",
+      "options": [
+        "The weather is getting more cold and more cold.",
+        "The weather is getting colder and colder.",
+        "The weather is getting coldest and coldest."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Cold\" takes -er.",
+        "2": "A superlative does not fit."
+      }
+    },
+    {
+      "id": "b2-sc-095",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Apply for\" introduces the job.",
+      "options": [
+        "She has applied to a job in a bank.",
+        "She has applied at a job in a bank.",
+        "She has applied for a job in a bank."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Apply to\" introduces the organisation.",
+        "1": "\"Apply at\" introduces a place."
+      }
+    },
+    {
+      "id": "b2-sc-096",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Apologise for\" is followed by -ing.",
+      "options": [
+        "She apologised for arriving late.",
+        "She apologised to arrive late.",
+        "She apologised of arriving late."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Apologise of\" is not correct.",
+        "1": "\"Apologise to\" is not followed by a gerund of reason."
+      }
+    },
+    {
+      "id": "b2-sc-097",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Would rather\" + base form.",
+      "options": [
+        "I'd rather to stay at home tonight.",
+        "I'd rather stay at home tonight.",
+        "I'd rather staying at home tonight."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Would rather\" is followed by a base form.",
+        "2": "This version is wrong in another way: \"Would rather\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-sc-098",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Too\" shows an excess.",
+      "options": [
+        "He drives too fast.",
+        "He drives to fast.",
+        "He drives too fastly."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Too\" is the adverb of excess.",
+        "2": "\"Fast\" is also the adverb."
+      }
+    },
+    {
+      "id": "b2-sc-099",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Every\" takes a singular noun.",
+      "options": [
+        "Every students must bring their own laptop.",
+        "All student must bring their own laptop.",
+        "Every student must bring his or her own laptop."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Every\" is followed by a singular noun.",
+        "1": "\"All\" is followed by a plural noun."
+      }
+    },
+    {
+      "id": "b2-sc-100",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Tell\" takes a personal object.",
+      "options": [
+        "He said me that he was tired.",
+        "He told that he was tired.",
+        "He told me that he was tired."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Say\" is not followed by a personal object.",
+        "1": "\"Tell\" needs a personal object."
+      }
+    },
+    {
+      "id": "b2-sc-101",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Neither\" takes a singular verb.",
+      "options": [
+        "Neither of my parents speak French.",
+        "Neither of my parent speaks French.",
+        "Neither of my parents speaks French."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "Formal English uses a singular verb after \"neither\".",
+        "1": "\"Parents\" is plural after \"of\"."
+      }
+    },
+    {
+      "id": "b2-sc-102",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Arrive at\" for smaller places.",
+      "options": [
+        "We arrived at the airport early.",
+        "We arrived in the airport early.",
+        "We arrived to the airport early."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Arrive to\" is not correct.",
+        "1": "\"Arrive in\" is used for towns."
+      }
+    },
+    {
+      "id": "b2-sc-103",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Tell\" takes a personal object.",
+      "options": [
+        "He spoke me the truth about the accident.",
+        "He told me the truth about the accident.",
+        "He said me the truth about the accident."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Say\" is not followed by a personal object.",
+        "0": "\"Speak\" is not followed by a personal object."
+      }
+    },
+    {
+      "id": "b2-sc-104",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The future perfect shows completion by a future time.",
+      "options": [
+        "I will have finished by Friday.",
+        "I will finish by Friday having.",
+        "I finished by Friday."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The word order is wrong.",
+        "2": "The past simple does not fit a future deadline."
+      }
+    },
+    {
+      "id": "b2-sc-105",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Each of\" takes a singular verb.",
+      "options": [
+        "Each of the room has its own bathroom.",
+        "Each of the rooms has its own bathroom.",
+        "Each of the rooms have its own bathroom."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Each\" takes a singular verb.",
+        "0": "\"Of\" is followed by a plural noun."
+      }
+    },
+    {
+      "id": "b2-sc-106",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"The number of\" takes a singular verb.",
+      "options": [
+        "The number of car has increased.",
+        "The number of cars has increased.",
+        "The number of cars have increased."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"The number of\" takes a singular verb.",
+        "0": "The noun after \"of\" is plural."
+      }
+    },
+    {
+      "id": "b2-sc-107",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Will\" becomes \"would\" in reported speech.",
+      "options": [
+        "She said that she will call me later.",
+        "She said that she calls me later.",
+        "She said that she would call me later."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "Reported speech shifts \"will\" to \"would\".",
+        "1": "A present tense does not fit reported speech."
+      }
+    },
+    {
+      "id": "b2-sc-108",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Arrive at\" is used with smaller places.",
+      "options": [
+        "We arrived to the station at six.",
+        "We arrived at the station at six.",
+        "We arrived in the station at six."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Arrive to\" is not correct.",
+        "2": "\"Arrive in\" is used with towns and countries."
+      }
+    },
+    {
+      "id": "b2-sc-109",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The past perfect shows an earlier action.",
+      "options": [
+        "By the time we got there, the film has started.",
+        "By the time we got there, the film had started.",
+        "By the time we got there, the film started."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The earlier action needs the past perfect.",
+        "0": "The present perfect does not fit a past event."
+      }
+    },
+    {
+      "id": "b2-sc-110",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Not as ... as\" makes a negative comparison.",
+      "options": [
+        "The test was not as more difficult as I thought.",
+        "The test was not so difficult than I thought.",
+        "The test was not as difficult as I thought."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Than\" does not follow \"so\".",
+        "0": "\"As ... as\" needs the base form."
+      }
+    },
+    {
+      "id": "b2-sc-111",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The second conditional uses \"were\".",
+      "options": [
+        "If I am rich, I would travel the world.",
+        "If I would be rich, I would travel the world.",
+        "If I were rich, I would travel the world."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Would\" is not used in the if-clause.",
+        "0": "The conditional type is mixed."
+      }
+    },
+    {
+      "id": "b2-sc-112",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Needn't have\" + participle.",
+      "options": [
+        "You needn't to have come.",
+        "You don't need have come.",
+        "You needn't have come."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Needn't\" is not followed by \"to\".",
+        "1": "\"Need\" has a different form."
+      }
+    },
+    {
+      "id": "b2-sc-113",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Look for\" means to search.",
+      "options": [
+        "I'm looking at my keys; I can't find them anywhere.",
+        "I'm looking after my keys; I can't find them anywhere.",
+        "I'm looking for my keys; I can't find them anywhere."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Look at\" means to direct your eyes.",
+        "1": "\"Look after\" means to take care of."
+      }
+    },
+    {
+      "id": "b2-sc-114",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The present perfect continuous shows duration.",
+      "options": [
+        "I am waiting for an hour.",
+        "I wait for an hour.",
+        "I have been waiting for an hour."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The present continuous does not show duration.",
+        "1": "The present simple does not show duration."
+      }
+    },
+    {
+      "id": "b2-sc-115",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"A little\" goes with uncountable nouns.",
+      "options": [
+        "I have few money left in my wallet.",
+        "I have a few money left in my wallet.",
+        "I have a little money left in my wallet."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Money\" is uncountable.",
+        "0": "This version is wrong in another way: \"Money\" is uncountable."
+      }
+    },
+    {
+      "id": "b2-sc-116",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The present perfect passive.",
+      "options": [
+        "The documents have been checked.",
+        "The documents had been checking.",
+        "The documents have checked."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "A passive needs \"been\".",
+        "1": "The documents are the receiver."
+      }
+    },
+    {
+      "id": "b2-sc-117",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Cause an accident\" is the standard collocation.",
+      "options": [
+        "The accident was caused by bad weather.",
+        "The accident was made by bad weather.",
+        "The accident was done by bad weather."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Make an accident\" is not a collocation.",
+        "2": "\"Do an accident\" is not a collocation."
+      }
+    },
+    {
+      "id": "b2-sc-118",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Few\" has a negative meaning: almost none.",
+      "options": [
+        "She has little friends here, so she feels lonely.",
+        "She has a few friends here, so she feels lonely.",
+        "She has few friends here, so she feels lonely."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"A few\" is positive and does not explain the loneliness.",
+        "0": "\"Little\" is not used with countable plural nouns."
+      }
+    },
+    {
+      "id": "b2-sc-119",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"In\" is used with villages.",
+      "options": [
+        "He was born on a small village.",
+        "He was born in a small village.",
+        "He was born at a small village."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Born at\" is used with exact places.",
+        "0": "\"Born on\" is not used."
+      }
+    },
+    {
+      "id": "b2-sc-120",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Each other\" is reciprocal.",
+      "options": [
+        "The two sisters help one other a lot.",
+        "The two sisters help each other a lot.",
+        "The two sisters help themselves a lot."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Themselves\" would mean each helps herself.",
+        "0": "\"One another\" or \"each other\" is correct."
+      }
+    },
+    {
+      "id": "b2-sc-121",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Responsible for\".",
+      "options": [
+        "He is responsible of the accident.",
+        "He is responsible for the accident.",
+        "He is responsible with the accident."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Responsible of\" is not correct.",
+        "2": "\"Responsible with\" is not correct."
+      }
+    },
+    {
+      "id": "b2-sc-122",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Borrow from\" means to take temporarily.",
+      "options": [
+        "She lent a book from the library.",
+        "She borrowed a book from the library.",
+        "She borrowed a book of the library."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Lend\" means to give.",
+        "2": "\"Borrow from\" is correct."
+      }
+    },
+    {
+      "id": "b2-sc-123",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Himself\" is the reflexive pronoun.",
+      "options": [
+        "He hurt him while he was cooking.",
+        "He hurt himself while he was cooking.",
+        "He hurt his while he was cooking."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Him\" refers to another person.",
+        "2": "\"His\" needs a noun."
+      }
+    },
+    {
+      "id": "b2-sc-124",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Since\" calls for the present perfect.",
+      "options": [
+        "We are living here since 2012.",
+        "We live here since 2012.",
+        "We have lived here since 2012."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Since\" needs the present perfect.",
+        "0": "This version is wrong in another way: \"Since\" needs the present perfect."
+      }
+    },
+    {
+      "id": "b2-sc-125",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Near\" is followed directly by its object.",
+      "options": [
+        "We stayed at a small hotel near the beach.",
+        "We stayed in a small hotel near to the beach.",
+        "We stayed at small hotel near the beach."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Near\" does not take \"to\" here.",
+        "2": "A singular noun needs an article."
+      }
+    },
+    {
+      "id": "b2-sc-126",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Because of\" is followed by a noun.",
+      "options": [
+        "The flight was cancelled because fog.",
+        "The flight was cancelled because of fog.",
+        "The flight cancelled because of fog."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Because\" is followed by a clause, \"because of\" by a noun.",
+        "2": "The flight is the receiver."
+      }
+    },
+    {
+      "id": "b2-sc-127",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Borrow from\" means to receive temporarily.",
+      "options": [
+        "I owed some money from my brother.",
+        "I borrowed some money from my brother.",
+        "I lent some money from my brother."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Lend\" means to give, not to receive.",
+        "0": "\"Owe\" is followed by \"to\"."
+      }
+    },
+    {
+      "id": "b2-sc-128",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Needn't have\" + participle means unnecessary.",
+      "options": [
+        "You mustn't have waited for me.",
+        "You don't need have waited for me.",
+        "You needn't have waited for me."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Mustn't have\" is not used for this meaning.",
+        "1": "\"Need\" is not followed by \"have\" in this way."
+      }
+    },
+    {
+      "id": "b2-sc-129",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The third conditional uses the past perfect.",
+      "options": [
+        "If she studied, she would have passed.",
+        "If she had studied, she would have passed.",
+        "If she would study, she would have passed."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The third conditional needs the past perfect.",
+        "2": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b2-sc-130",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Who\" refers to people.",
+      "options": [
+        "The boy which broke the window ran away.",
+        "The boy whose broke the window ran away.",
+        "The boy who broke the window ran away."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Which\" refers to things.",
+        "1": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "b2-sc-131",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Fewer\" goes with countable plural nouns.",
+      "options": [
+        "There are less people here than yesterday.",
+        "There are few people here than yesterday.",
+        "There are fewer people here than yesterday."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"People\" is countable, so \"fewer\" is needed.",
+        "1": "\"Few\" cannot form a comparison."
+      }
+    },
+    {
+      "id": "b2-sc-132",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Boring\" describes something that causes boredom.",
+      "options": [
+        "The film was so bored that we left early.",
+        "The film was so boring that we left early.",
+        "The film was so boringly that we left early."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Bored\" describes a person.",
+        "2": "After \"was\" we need an adjective."
+      }
+    },
+    {
+      "id": "b2-sc-133",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Make an impression\" is the standard collocation.",
+      "options": [
+        "She made a good impression on everyone.",
+        "She had a good impression on everyone.",
+        "She did a good impression on everyone."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Do an impression\" means to imitate.",
+        "1": "\"Have an impression\" has a different meaning."
+      }
+    },
+    {
+      "id": "b2-sc-134",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "A superlative takes \"the\".",
+      "options": [
+        "She is tallest in the class.",
+        "She is the most tall in the class.",
+        "She is the tallest in the class."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "A superlative needs \"the\".",
+        "1": "Short adjectives take -est."
+      }
+    },
+    {
+      "id": "b2-sc-135",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Be used to\" is followed by a gerund.",
+      "options": [
+        "She is used to living alone.",
+        "She is used to live alone.",
+        "She is used living alone."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "After \"be used to\" use -ing.",
+        "2": "\"To\" is missing."
+      }
+    },
+    {
+      "id": "b2-sc-136",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Stay at\" introduces the place.",
+      "options": [
+        "We stayed to a hotel near the beach.",
+        "We stayed at hotel near the beach.",
+        "We stayed at a hotel near the beach."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Stay to\" is not correct.",
+        "1": "A singular noun needs an article."
+      }
+    },
+    {
+      "id": "b2-sc-137",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"The whole + noun\".",
+      "options": [
+        "I enjoyed whole the performance, especially the last act.",
+        "I enjoyed the whole performance, especially the last act.",
+        "I enjoyed all performance, especially the last act."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Whole\" comes after \"the\".",
+        "2": "\"All\" needs \"the\" before a singular noun here."
+      }
+    },
+    {
+      "id": "b2-sc-138",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Play the + instrument\" is the standard pattern.",
+      "options": [
+        "He plays a violin in the city orchestra.",
+        "He plays the violin in the city orchestra.",
+        "He plays violin in the city orchestra."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "With instruments we use \"the\" after \"play\".",
+        "0": "\"A violin\" would mean any instrument rather than the skill."
+      }
+    },
+    {
+      "id": "b2-sc-139",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Ask someone to\" + infinitive.",
+      "options": [
+        "The manager asked that I to prepare a report.",
+        "The manager asked me preparing a report.",
+        "The manager asked me to prepare a report."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Ask\" is followed by an infinitive.",
+        "0": "The structure is incorrect."
+      }
+    },
+    {
+      "id": "b2-sc-140",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Put on\" means to wear.",
+      "options": [
+        "He put his coat on and left.",
+        "He put in his coat and left.",
+        "He put on it his coat and left."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The word order is wrong.",
+        "1": "\"Put in\" has a different meaning."
+      }
+    },
+    {
+      "id": "b2-sc-141",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Not as ... as\" makes a comparison.",
+      "options": [
+        "He is not as old as he looks.",
+        "He is not as old than he looks.",
+        "He is not so older as he looks."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"As ... as\" uses the base form.",
+        "1": "\"Than\" does not follow \"as\"."
+      }
+    },
+    {
+      "id": "b2-sc-142",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Unless\" means \"if not\".",
+      "options": [
+        "Unless you will hurry, you'll miss the bus.",
+        "Unless you don't hurry, you'll miss the bus.",
+        "Unless you hurry, you'll miss the bus."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Unless\" already has a negative meaning.",
+        "0": "\"Will\" is not used after \"unless\"."
+      }
+    },
+    {
+      "id": "b2-sc-143",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Apply for\" introduces the job.",
+      "options": [
+        "He applied for a job as a waiter.",
+        "He applied to a job as a waiter.",
+        "He applied at a job as a waiter."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Apply for\" introduces the job.",
+        "2": "\"Apply at\" introduces a place."
+      }
+    },
+    {
+      "id": "b2-sc-144",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Much\" intensifies a comparative.",
+      "options": [
+        "The weather was more better than we expected.",
+        "The weather was very better than we expected.",
+        "The weather was much better than we expected."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Very\" cannot modify a comparative.",
+        "0": "\"More\" and \"-er\" cannot be combined."
+      }
+    },
+    {
+      "id": "b2-sc-145",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Should have\" + participle.",
+      "options": [
+        "You should called me.",
+        "You should have called me.",
+        "You should have call me."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Have\" is missing.",
+        "2": "A participle is needed."
+      }
+    },
+    {
+      "id": "b2-sc-146",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Plan to\" + infinitive.",
+      "options": [
+        "The council plans for build more affordable housing.",
+        "The council plans building more affordable housing.",
+        "The council plans to build more affordable housing."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Plan\" is followed by an infinitive.",
+        "0": "\"Plan for build\" is incorrect."
+      }
+    },
+    {
+      "id": "b2-sc-147",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"It's high time\" + past simple expresses that something is overdue.",
+      "options": [
+        "It's high time you found a job.",
+        "It's high time you find a job.",
+        "It's high time you to find a job."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "After \"it's high time\" use a past form.",
+        "2": "A subject is followed by a verb, not \"to\"."
+      }
+    },
+    {
+      "id": "b2-sc-148",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"More carefully\" is the comparative adverb.",
+      "options": [
+        "He drives carefuller than his brother.",
+        "He drives more carefully than his brother.",
+        "He drives more careful than his brother."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "An adverb is needed to modify \"drives\".",
+        "0": "Long adverbs take \"more\"."
+      }
+    },
+    {
+      "id": "b2-sc-149",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Information\" is uncountable.",
+      "options": [
+        "I need some information about the course.",
+        "I need informations about the course.",
+        "I need an information about the course."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Information\" is uncountable.",
+        "1": "\"Information\" has no plural."
+      }
+    },
+    {
+      "id": "b2-sc-150",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"The + adjective\" refers to a group.",
+      "options": [
+        "The poors often suffer most during an economic crisis.",
+        "Poor often suffer most during an economic crisis.",
+        "The poor often suffer most during an economic crisis."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "Adjectives used as nouns do not take -s.",
+        "1": "The adjective needs \"the\" to refer to a group."
+      }
+    },
+    {
+      "id": "b2-sc-151",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Can't have\" + participle.",
+      "options": [
+        "They can't has arrived yet.",
+        "They can't have arrived yet.",
+        "They can't arrived yet."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Have\" is missing.",
+        "0": "After \"can't\" use \"have\"."
+      }
+    },
+    {
+      "id": "b2-sc-152",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Resign from\" is the correct collocation.",
+      "options": [
+        "He resigned from his position last week.",
+        "He resigned to his position last week.",
+        "He resigned of his position last week."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Resign from\" is the correct collocation.",
+        "1": "\"Resign to\" has a different meaning."
+      }
+    },
+    {
+      "id": "b2-sc-153",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Too + adjective + for + object + to + verb\".",
+      "options": [
+        "The film was too long that I could enjoy.",
+        "The film was too long for me enjoy.",
+        "The film was too long for me to enjoy."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"To\" is needed before the infinitive.",
+        "0": "\"Too\" does not take \"that\"."
+      }
+    },
+    {
+      "id": "b2-sc-154",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Call off\" means to cancel.",
+      "options": [
+        "They called up the meeting.",
+        "They called the meeting of.",
+        "They called off the meeting."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The particle is \"off\".",
+        "0": "\"Call up\" has another meaning."
+      }
+    },
+    {
+      "id": "b2-sc-155",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"For\" is used with a length of time.",
+      "options": [
+        "We are staying here for three days since.",
+        "We have been staying here since three days.",
+        "We have been staying here for three days."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Since\" needs a point in time.",
+        "0": "The word order is incorrect."
+      }
+    },
+    {
+      "id": "b2-sc-156",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Whom\" is the object relative pronoun.",
+      "options": [
+        "The girl whose I met is a doctor.",
+        "The girl whom I met is a doctor.",
+        "The girl who's I met is a doctor."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Who's\" means \"who is\".",
+        "0": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "b2-sc-157",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"News\" is uncountable.",
+      "options": [
+        "She has some interesting news for you.",
+        "She has an interesting news for you.",
+        "She has some interesting newses for you."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"News\" is uncountable.",
+        "2": "\"News\" has no plural."
+      }
+    },
+    {
+      "id": "b2-sc-158",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Afraid of\" is the fixed collocation.",
+      "options": [
+        "I'm afraid of heights.",
+        "I'm afraid from heights.",
+        "I'm afraid with heights."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Afraid from\" is not correct.",
+        "2": "\"Afraid with\" is not correct."
+      }
+    },
+    {
+      "id": "b2-sc-159",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"A few\" is used with countable plural nouns.",
+      "options": [
+        "I have only few friends here.",
+        "I have only a few friends here.",
+        "I have only a little friends here."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Only a few\" is the usual pattern for a small number.",
+        "2": "\"A little\" is for uncountable nouns."
+      }
+    },
+    {
+      "id": "b2-sc-160",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Arrive at\" is correct for smaller places.",
+      "options": [
+        "We arrived at the airport two hours early.",
+        "We arrived to the airport two hours early.",
+        "We arrived on the airport two hours early."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Arrive to\" is not correct.",
+        "2": "\"Arrive on\" is not correct."
+      }
+    },
+    {
+      "id": "b2-sc-161",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"More carefully\" is the comparative adverb.",
+      "options": [
+        "She drives more careful than her brother.",
+        "She drives more carefully than her brother.",
+        "She drives carefuler than her brother."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "An adverb is needed to modify \"drives\".",
+        "2": "Long adverbs take \"more\"."
+      }
+    },
+    {
+      "id": "b2-sc-162",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Lay off\" means to dismiss.",
+      "options": [
+        "The company laid up fifty workers last month.",
+        "The company laid off fifty workers last month.",
+        "The company laid in fifty workers last month."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Lay in\" means to store.",
+        "0": "\"Lay up\" means to be unable to work through illness."
+      }
+    },
+    {
+      "id": "b2-sc-163",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Whose\" shows possession.",
+      "options": [
+        "I know the man whose daughter works here.",
+        "I know the man whom daughter works here.",
+        "I know the man who daughter works here."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Who\" cannot show possession.",
+        "1": "\"Whom\" cannot show possession."
+      }
+    },
+    {
+      "id": "b2-sc-164",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Progress\" is uncountable.",
+      "options": [
+        "He made a lot of progresses this term.",
+        "He did a lot of progress this term.",
+        "He made a lot of progress this term."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Progress\" is uncountable.",
+        "1": "\"Do progress\" is not a collocation."
+      }
+    },
+    {
+      "id": "b2-sc-165",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Both\" takes a plural noun and a plural verb.",
+      "options": [
+        "Both of my parents were born in Italy.",
+        "Both of my parent were born in Italy.",
+        "Both my parents was born in Italy."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Both\" takes a plural verb.",
+        "1": "\"Both of\" is followed by a plural noun."
+      }
+    },
+    {
+      "id": "b2-sc-166",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Look forward to\" is followed by -ing.",
+      "options": [
+        "I'm looking forward to visit the new museum.",
+        "I'm looking forward to visiting the new museum.",
+        "I'm looking forward for visiting the new museum."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "After \"look forward to\" use -ing.",
+        "2": "\"Look forward for\" is not correct."
+      }
+    },
+    {
+      "id": "b2-sc-167",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Faster\" is the comparative of \"fast\".",
+      "options": [
+        "He runs faster than I do.",
+        "He runs more fast than I do.",
+        "He runs fastly than I do."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Fast\" takes -er.",
+        "2": "\"Fast\" is also the adverb."
+      }
+    },
+    {
+      "id": "b2-sc-168",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Make a mistake\" is the standard collocation.",
+      "options": [
+        "He did a mistake in the report.",
+        "He made a mistake in the report.",
+        "He had a mistake in the report."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Do a mistake\" is not a collocation.",
+        "2": "\"Have a mistake\" is not a collocation."
+      }
+    },
+    {
+      "id": "b2-sc-169",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Herself\" is the reflexive pronoun.",
+      "options": [
+        "She taught herself to play the piano.",
+        "She taught her to play the piano.",
+        "She taught hers to play the piano."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Her\" refers to another person.",
+        "2": "\"Hers\" is a possessive pronoun."
+      }
+    },
+    {
+      "id": "b2-sc-170",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Call off\" means to cancel.",
+      "options": [
+        "They called of the wedding at the last minute.",
+        "They called the wedding off at last the minute.",
+        "They called off the wedding at the last minute."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The word order is incorrect.",
+        "0": "The particle is \"off\"."
+      }
+    },
+    {
+      "id": "b2-sc-171",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Afraid of\" is followed by -ing.",
+      "options": [
+        "She is afraid of speaking in public.",
+        "She is afraid from speaking in public.",
+        "She is afraid to speaking in public."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Afraid to\" is followed by a base form.",
+        "1": "\"Afraid from\" is not correct."
+      }
+    },
+    {
+      "id": "b2-sc-172",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Much\" goes with uncountable nouns.",
+      "options": [
+        "There isn't a few time left.",
+        "There isn't many time left.",
+        "There isn't much time left."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Time\" is uncountable.",
+        "0": "\"A few\" is used with countable nouns."
+      }
+    },
+    {
+      "id": "b2-sc-173",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"The number of\" takes a singular verb.",
+      "options": [
+        "The number of cars on the roads has increased.",
+        "The number of car on the roads has increased.",
+        "The number of cars on the roads have increased."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"The number of\" takes a singular verb.",
+        "1": "\"Cars\" is plural after \"of\"."
+      }
+    },
+    {
+      "id": "b2-sc-174",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Think of\" is followed by -ing.",
+      "options": [
+        "I'm thinking of applying for a job abroad.",
+        "I'm thinking in applying for a job abroad.",
+        "I'm thinking to apply for a job abroad."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "After \"think of\" use -ing.",
+        "1": "\"Think in\" is not correct here."
+      }
+    },
+    {
+      "id": "b2-sc-175",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The present perfect shows duration.",
+      "options": [
+        "I live here since ten years.",
+        "I have lived here for ten years.",
+        "I am living here for ten years."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Since\" needs a point in time.",
+        "2": "The present continuous does not show duration."
+      }
+    },
+    {
+      "id": "b2-sc-176",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Advice\" is uncountable.",
+      "options": [
+        "I need some advice about my studies.",
+        "I need advices about my studies.",
+        "I need an advice about my studies."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Advice\" is uncountable.",
+        "1": "\"Advice\" has no plural."
+      }
+    },
+    {
+      "id": "b2-sc-177",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Surprised at/by\" introduces the cause.",
+      "options": [
+        "They were surprised at the news.",
+        "They were surprised in the news.",
+        "They were surprised for the news."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Surprised in\" is not standard.",
+        "2": "\"Surprised for\" is not standard."
+      }
+    },
+    {
+      "id": "b2-sc-178",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The present perfect with \"for\".",
+      "options": [
+        "She has worked here for ten years.",
+        "She works here since ten years.",
+        "She is working here for ten years."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Since\" needs a point in time.",
+        "2": "The present continuous does not show duration."
+      }
+    },
+    {
+      "id": "b2-sc-179",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Enjoy oneself\" needs a reflexive pronoun.",
+      "options": [
+        "They enjoyed them at the party.",
+        "They enjoyed theirselves at the party.",
+        "They enjoyed themselves at the party."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "A reflexive pronoun is needed.",
+        "1": "\"Theirselves\" is not standard."
+      }
+    },
+    {
+      "id": "b2-sc-180",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Fully booked\" uses an adverb and a participle.",
+      "options": [
+        "The hotel was full booked, so we stayed elsewhere.",
+        "The hotel was fully booked, so we stayed elsewhere.",
+        "The hotel was fully book, so we stayed elsewhere."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "An adverb is needed to modify \"booked\".",
+        "2": "A participle is needed."
+      }
+    },
+    {
+      "id": "b2-sc-181",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Must\" is followed by a base form.",
+      "options": [
+        "Passengers must to show their boarding passes.",
+        "Passengers must showing their boarding passes.",
+        "Passengers must show their boarding passes."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Must\" is followed by a base form.",
+        "1": "This version is wrong in another way: \"Must\" is followed by a base form."
+      }
+    },
+    {
+      "id": "b2-sc-182",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Family-run\" is a compound adjective.",
+      "options": [
+        "We stayed at a family-running hotel near the harbour.",
+        "We stayed at a family-run hotel near the harbour.",
+        "We stayed at a family-run hotels near the harbour."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The compound adjective needs a participle.",
+        "2": "A singular noun follows \"a\"."
+      }
+    },
+    {
+      "id": "b2-sc-183",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Lend\" means to give temporarily.",
+      "options": [
+        "I lent from her my bike last week.",
+        "I lent her my bike last week.",
+        "I borrowed her my bike last week."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Borrow\" means to receive.",
+        "0": "\"Lend from\" is not correct."
+      }
+    },
+    {
+      "id": "b2-sc-184",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Tallest\" is the superlative.",
+      "options": [
+        "He is the taller boy in the school.",
+        "He is the most tall boy in the school.",
+        "He is the tallest boy in the school."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Tall\" takes -est.",
+        "0": "\"Taller\" compares two."
+      }
+    },
+    {
+      "id": "b2-sc-185",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"No point\" is the correct form.",
+      "options": [
+        "There's not point in arguing about it now.",
+        "There isn't no point in arguing about it now.",
+        "There's no point in arguing about it now."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"No\" is the determiner here, not \"not\".",
+        "1": "This is a double negative."
+      }
+    },
+    {
+      "id": "b2-sc-186",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Experience\" is uncountable.",
+      "options": [
+        "Applicants must have a relevant experiences.",
+        "Applicants must have relevant experience.",
+        "Applicants must have relevants experience."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Experience\" in this sense is uncountable.",
+        "2": "Adjectives do not take plural forms."
+      }
+    },
+    {
+      "id": "b2-sc-187",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Reported questions use statement order.",
+      "options": [
+        "She asked me where I do live.",
+        "She asked me where did I live.",
+        "She asked me where I lived."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "Reported questions use statement order.",
+        "0": "The tense must shift back."
+      }
+    },
+    {
+      "id": "b2-sc-188",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Make an impression\" is the standard collocation.",
+      "options": [
+        "She did a good impression on the interviewer.",
+        "She made a good impression on the interviewer.",
+        "She took a good impression on the interviewer."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Do an impression\" has a different meaning.",
+        "2": "\"Take an impression\" is not a collocation."
+      }
+    },
+    {
+      "id": "b2-sc-189",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"I'd rather you didn't\" is a polite request.",
+      "options": [
+        "I'd rather you didn't tell anyone.",
+        "I'd rather you don't tell anyone.",
+        "I'd rather you won't tell anyone."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "After \"I'd rather\" + person use a past form.",
+        "2": "\"Won't\" is not used after \"I'd rather\"."
+      }
+    },
+    {
+      "id": "b2-sc-190",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Air pollution\" is singular.",
+      "options": [
+        "Air pollution is a serious problem in many cities.",
+        "Air pollutions is a serious problem in many cities.",
+        "Air pollution are a serious problem in many cities."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Pollution\" is uncountable.",
+        "1": "\"Pollution\" is uncountable here."
+      }
+    },
+    {
+      "id": "b2-sc-191",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The passive form is \"was promoted\".",
+      "options": [
+        "She was promote after only two years.",
+        "She was promoted after only two years.",
+        "She promoted after only two years."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The subject is the receiver.",
+        "0": "A passive needs a participle."
+      }
+    },
+    {
+      "id": "b2-sc-192",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Advice\" is uncountable.",
+      "options": [
+        "He gave me good advices.",
+        "He gave me some good advice.",
+        "He gave me a good advice."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Advice\" is uncountable.",
+        "0": "\"Advice\" has no plural."
+      }
+    },
+    {
+      "id": "b2-sc-193",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"News\" takes a singular verb.",
+      "options": [
+        "The news was a complete surprise.",
+        "The news were a complete surprise.",
+        "The news was a complete surprised."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"News\" is uncountable.",
+        "2": "\"Surprised\" is a participle."
+      }
+    },
+    {
+      "id": "b2-sc-194",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Apologise for\" is followed by -ing.",
+      "options": [
+        "He apologised to be late.",
+        "He apologised of being late.",
+        "He apologised for being late."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Apologise of\" is not correct.",
+        "0": "\"Apologise to\" introduces the person."
+      }
+    },
+    {
+      "id": "b2-sc-195",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Since\" introduces a starting point.",
+      "options": [
+        "I've known him from 2015.",
+        "I've known him since 2015.",
+        "I've known him for 2015."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"For\" is used with a length of time.",
+        "0": "\"From\" does not combine with the present perfect here."
+      }
+    },
+    {
+      "id": "b2-sc-196",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Which\" refers to things.",
+      "options": [
+        "The book what I bought yesterday is excellent.",
+        "The book which I bought yesterday is excellent.",
+        "The book who I bought yesterday is excellent."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"What\" is not a relative pronoun here.",
+        "2": "\"Who\" refers to people."
+      }
+    },
+    {
+      "id": "b2-sc-197",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Who\" is the subject relative pronoun for people.",
+      "options": [
+        "The man who lives next door is a pilot.",
+        "The man which lives next door is a pilot.",
+        "The man whose lives next door is a pilot."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Which\" refers to things.",
+        "2": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "b2-sc-198",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Instruments take \"the\".",
+      "options": [
+        "He plays the guitar very well.",
+        "He plays guitar very well.",
+        "He plays a guitar very well."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "Instruments take \"the\" after \"play\".",
+        "2": "\"A guitar\" refers to one object."
+      }
+    },
+    {
+      "id": "b2-sc-199",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The superlative of a long adjective takes \"the most\".",
+      "options": [
+        "She is the most talented singer in the choir.",
+        "She is a most talented singer in the choir.",
+        "She is the talentedest singer in the choir."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "Long adjectives take \"most\".",
+        "1": "\"A most\" gives the meaning \"very\", not the superlative."
+      }
+    },
+    {
+      "id": "b2-sc-200",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Each other\" is reciprocal.",
+      "options": [
+        "We must help each other in difficult times.",
+        "We must help ourselves in difficult times.",
+        "We must help one other in difficult times."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Ourselves\" would mean each helps himself.",
+        "2": "\"One another\" or \"each other\" is correct."
+      }
+    },
+    {
+      "id": "b2-sc-201",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The past simple passive reports a finished event.",
+      "options": [
+        "The bridge was build in 1990.",
+        "The bridge built in 1990.",
+        "The bridge was built in 1990."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "A passive needs \"was\".",
+        "0": "A passive needs a participle."
+      }
+    },
+    {
+      "id": "b2-sc-202",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Married to\" is the fixed collocation.",
+      "options": [
+        "She is married to an engineer.",
+        "She is married with an engineer.",
+        "She is married by an engineer."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Married with\" is not standard.",
+        "2": "\"Married by\" means someone performed the ceremony."
+      }
+    },
+    {
+      "id": "b2-sc-203",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Youngest\" is the superlative.",
+      "options": [
+        "She is the younger of the three sisters.",
+        "She is the youngest of the three sisters.",
+        "She is the most young of the three sisters."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Younger\" compares only two.",
+        "2": "\"Young\" takes -est."
+      }
+    },
+    {
+      "id": "b2-sc-204",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Take after\" means to resemble.",
+      "options": [
+        "She takes up her mother in many ways.",
+        "She takes her mother after in many ways.",
+        "She takes after her mother in many ways."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "A phrasal verb with an object keeps the particle after the verb.",
+        "0": "\"Take up\" has a different meaning."
+      }
+    },
+    {
+      "id": "b2-sc-205",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"By\" introduces the amount of change.",
+      "options": [
+        "The price rose by ten per cent.",
+        "The price rose of ten per cent.",
+        "The price rose with ten per cent."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"With\" does not introduce the amount of change.",
+        "1": "\"Of\" does not introduce the amount of change."
+      }
+    },
+    {
+      "id": "b2-sc-206",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Who\" is a relative pronoun for people.",
+      "options": [
+        "The girl which won the race is my cousin.",
+        "The girl whose won the race is my cousin.",
+        "The girl who won the race is my cousin."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Which\" refers to things.",
+        "1": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "b2-sc-207",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Fewer\" goes with countable plural nouns.",
+      "options": [
+        "There are few visitors this year than last year.",
+        "There are fewer visitors this year than last year.",
+        "There are less visitors this year than last year."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Visitors\" is countable, so \"fewer\" is needed.",
+        "0": "\"Few\" cannot form a comparison."
+      }
+    },
+    {
+      "id": "b2-sc-208",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Look forward to\" is the fixed phrase.",
+      "options": [
+        "They are looking forward to the holiday.",
+        "They are looking forward at the holiday.",
+        "They are looking forward for the holiday."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Look forward for\" is not correct.",
+        "1": "\"Look forward at\" is not correct."
+      }
+    },
+    {
+      "id": "b2-sc-209",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Interested\" describes how I feel.",
+      "options": [
+        "I'm very interest in modern art.",
+        "I'm very interesting in modern art.",
+        "I'm very interested in modern art."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Interesting\" describes the cause.",
+        "0": "A participle is needed."
+      }
+    },
+    {
+      "id": "b2-sc-210",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"By far the best\" intensifies a superlative.",
+      "options": [
+        "He is far by the best player in the team.",
+        "He is by far best player in the team.",
+        "He is by far the best player in the team."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The word order is wrong.",
+        "1": "The superlative needs \"the\"."
+      }
+    },
+    {
+      "id": "b2-sc-211",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Ought to have\" + participle criticises a past omission.",
+      "options": [
+        "He ought have called us earlier.",
+        "He ought to had called us earlier.",
+        "He ought to have called us earlier."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Ought\" needs \"to\".",
+        "1": "After \"to have\" use a participle."
+      }
+    },
+    {
+      "id": "b2-sc-212",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Entitled to\" is the correct collocation.",
+      "options": [
+        "The staff are entitled with four weeks' holiday.",
+        "The staff are entitled to four weeks' holiday.",
+        "The staff are entitled for four weeks' holiday."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Entitled to\" is the correct collocation.",
+        "0": "\"Entitled with\" is not correct."
+      }
+    },
+    {
+      "id": "b2-sc-213",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Any\" is used in negative sentences.",
+      "options": [
+        "There isn't no milk left in the fridge.",
+        "There aren't any milk left in the fridge.",
+        "There isn't any milk left in the fridge."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "This is a double negative.",
+        "1": "\"Milk\" is uncountable."
+      }
+    },
+    {
+      "id": "b2-sc-214",
+      "type": "sentence-choice",
+      "level": "B2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Suggest\" is followed by a gerund.",
+      "options": [
+        "She suggested go to the cinema.",
+        "She suggested to go to the cinema.",
+        "She suggested going to the cinema."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Suggest\" is followed by -ing.",
+        "0": "This version is wrong in another way: \"Suggest\" is followed by -ing."
+      }
     }
   ]
 }
