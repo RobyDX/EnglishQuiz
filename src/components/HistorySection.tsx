@@ -3,15 +3,15 @@ import { Badge, Button, Table } from 'react-bootstrap';
 import { bandOf } from '../engine/score';
 import { clearHistory, loadHistory } from '../hooks/store';
 
-export default function HistoryPage() {
+export default function HistorySection() {
   const [entries, setEntries] = useState(loadHistory);
   const titleRef = useRef<HTMLHeadingElement>(null);
   return (
-    <div className="col-12 col-lg-8 mx-auto">
+    <section aria-labelledby="history-title" className="mt-5">
       <div className="d-flex justify-content-between align-items-center mb-3">
-        <h1 ref={titleRef} tabIndex={-1} className="h3 mb-0">
+        <h2 id="history-title" ref={titleRef} tabIndex={-1} className="h5 mb-0">
           History
-        </h1>
+        </h2>
         {entries.length > 0 && (
           <Button
             variant="outline-danger"
@@ -55,6 +55,6 @@ export default function HistoryPage() {
           </tbody>
         </Table>
       )}
-    </div>
+    </section>
   );
 }
