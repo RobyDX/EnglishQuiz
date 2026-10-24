@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, type KeyboardEvent } from 'react';
-import { Button, Card, Col, Row } from 'react-bootstrap';
+import { Accordion, Button, Card, Col, Row } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
 import { loadLevel } from '../data';
 import { countByTopic, filterByTopics } from '../engine/topics';
@@ -110,35 +110,43 @@ export default function QuizSetupPage() {
 
       {level && (
         <>
-          <div className="d-flex justify-content-between align-items-baseline">
-            <h2 className="h5">Topics</h2>
-            {topics.length > 0 && (
-              <Button variant="link" size="sm" className="p-0" onClick={() => saveTopics([])}>
-                All topics
-              </Button>
-            )}
-          </div>
-          <p className="text-secondary small">Pick one or more topics, or none to practise all of them.</p>
-          <div className="d-flex flex-wrap gap-2 mb-2" role="group" aria-label="Topics">
-            {TOPICS.map((t) => {
-              const selected = activeTopics.includes(t);
-              const count = counts?.[t];
-              return (
-                <Button
-                  key={t}
-                  size="sm"
-                  variant={selected ? 'primary' : 'outline-primary'}
-                  aria-pressed={selected}
-                  disabled={count === 0}
-                  onClick={() => toggleTopic(t)}
-                >
-                  {TOPIC_LABELS[t]}
-                  {count !== undefined && <span className="opacity-75"> ({count})</span>}
-                </Button>
-              );
-            })}
-          </div>
-          <p className={`small mb-4 ${failed ? 'text-danger' : 'text-secondary'}`} aria-live="polite">
+          <Accordion className="mb-2">
+            <Accordion.Item eventKey="topics">
+              <Accordion.Header as="h2">
+                <span className="h5 mb-0 me-2">Topics</span>
+                <span className="text-secondary small">{activeTopics.length ? `${activeTopics.length} selected` : 'All topics'}</span>
+              </Accordion.Header>
+              <Accordion.Body>
+                <p className="text-secondary small">Pick one or more topics, or none to practise all of them.</p>
+                <div className="d-grid d-sm-flex flex-sm-wrap gap-2" role="group" aria-label="Topics">
+                  {TOPICS.map((t) => {
+                    const selected = activeTopics.includes(t);
+                    const count = counts?.[t];
+                    return (
+                      <Button
+                        key={t}
+                        size="sm"
+                        className="text-start text-sm-center"
+                        variant={selected ? 'primary' : 'outline-primary'}
+                        aria-pressed={selected}
+                        disabled={count === 0}
+                        onClick={() => toggleTopic(t)}
+                      >
+                        {TOPIC_LABELS[t]}
+                        {count !== undefined && <span className="opacity-75"> ({count})</span>}
+                      </Button>
+                    );
+                  })}
+                </div>
+                {topics.length > 0 && (
+                  <Button variant="link" size="sm" className="p-0 mt-2" onClick={() => saveTopics([])}>
+                    All topics
+                  </Button>
+                )}
+              </Accordion.Body>
+            </Accordion.Item>
+          </Accordion>
+          <p className={`small mt-2 mb-4 ${failed ? 'text-danger' : 'text-secondary'}`} aria-live="polite">
             {failed
               ? 'Could not load this level. Connect to the internet to download it; it will then work offline.'
               : matched === undefined

@@ -34,11 +34,26 @@ function renderHome() {
 beforeEach(() => localStorage.clear());
 afterEach(() => cleanup());
 
+const openTopics = () => userEvent.click(screen.getByRole('button', { name: /^Topics/ }));
+
 describe('QuizSetupPage topic filter', () => {
+  it('keeps the topics in a closed accordion until the user opens it, summarising the selection', async () => {
+    renderHome();
+    await userEvent.click(screen.getByRole('radio', { name: /A1/ }));
+    const header = await screen.findByRole('button', { name: /^Topics/ });
+    expect(header).toHaveAttribute('aria-expanded', 'false');
+    expect(header).toHaveTextContent('All topics');
+    await userEvent.click(header);
+    expect(header).toHaveAttribute('aria-expanded', 'true');
+    await userEvent.click(await screen.findByRole('button', { name: /Everyday life/ }));
+    expect(header).toHaveTextContent('1 selected');
+  });
+
   it('shows the topics only after a level is chosen, with the number of questions per topic', async () => {
     renderHome();
     expect(screen.queryByRole('group', { name: 'Topics' })).not.toBeInTheDocument();
     await userEvent.click(screen.getByRole('radio', { name: /A1/ }));
+    await openTopics();
     expect(await screen.findByRole('button', { name: /Verb tenses\s*\(2\)/ })).toBeInTheDocument();
     expect(screen.getByRole('button', { name: /Everyday life\s*\(1\)/ })).toBeInTheDocument();
   });
@@ -46,12 +61,14 @@ describe('QuizSetupPage topic filter', () => {
   it('disables the topics without questions at the level', async () => {
     renderHome();
     await userEvent.click(screen.getByRole('radio', { name: /A1/ }));
+    await openTopics();
     expect(await screen.findByRole('button', { name: /Modal verbs/ })).toBeDisabled();
   });
 
   it('counts each question once, even when it has several selected topics', async () => {
     renderHome();
     await userEvent.click(screen.getByRole('radio', { name: /A1/ }));
+    await openTopics();
     await userEvent.click(await screen.findByRole('button', { name: /Verb tenses/ }));
     await userEvent.click(screen.getByRole('button', { name: /Prepositions/ }));
     expect(await screen.findByText('2 questions match your selection')).toBeInTheDocument();
@@ -61,6 +78,7 @@ describe('QuizSetupPage topic filter', () => {
   it('starts the quiz with the selected topics and saves them', async () => {
     renderHome();
     await userEvent.click(screen.getByRole('radio', { name: /A1/ }));
+    await openTopics();
     await userEvent.click(await screen.findByRole('button', { name: /Everyday life/ }));
     await userEvent.click(screen.getByRole('button', { name: 'Start with 5 questions' }));
     expect(await screen.findByText('quiz?n=5&topics=everyday-life')).toBeInTheDocument();
@@ -70,6 +88,7 @@ describe('QuizSetupPage topic filter', () => {
   it('starts with all topics when none is selected, and "All topics" clears the selection', async () => {
     renderHome();
     await userEvent.click(screen.getByRole('radio', { name: /A1/ }));
+    await openTopics();
     await userEvent.click(await screen.findByRole('button', { name: /Everyday life/ }));
     await userEvent.click(screen.getByRole('button', { name: 'All topics' }));
     expect(await screen.findByText('3 questions match your selection')).toBeInTheDocument();
