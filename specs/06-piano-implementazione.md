@@ -82,6 +82,10 @@ Strumenti di produzione in `src/scripts/content/` (Python, senza dipendenze): le
 - [x] HomePage: riquadro "Find your level" / ultimo risultato
 - [x] Build in `docs/`
 
+## Ristrutturazione della navigazione
+- [x] Specifiche: `04` (mappa, HomePage, QuizSetupPage, PlacementPage), `05`, `08` (decisione 40)
+- [x] HomePage con tile, QuizSetupPage con History, pagina Test con livello attuale, About e Install riscritte, navbar aggiornata, test
+
 ## Definizione di "fatto"
 Soddisfatti i criteri di accettazione in `01-progettazione.md` §9 e la checklist PWA in `05-pwa.md`.
 

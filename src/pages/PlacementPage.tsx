@@ -13,7 +13,7 @@ import {
   PLACEMENT_TOTAL,
   type PlacementResult,
 } from '../engine/placement';
-import { addSeen, loadSeen, savePlacement } from '../hooks/store';
+import { addSeen, loadPlacement, loadSeen, savePlacement } from '../hooks/store';
 import { LEVEL_INFO } from '../levels';
 import { QuestionBody } from '../questions/registry';
 import { LEVELS, type Level, type PlacementSaved, type Question } from '../types';
@@ -197,16 +197,34 @@ export default function PlacementPage() {
 
   let body;
   if (phase === 'intro') {
+    const saved = loadPlacement();
     body = (
       <>
-        <h1 className="h3">Find your level</h1>
-        <p className="text-secondary">
-          {PLACEMENT_TOTAL} questions in {PLACEMENT_TIME_SECONDS / 60} minutes, one at a time. The test starts easy: a right answer makes the next question harder, a wrong answer or a skip makes it easier. You can skip a question you do not know and look back at the earlier ones, but you cannot change your answers.
+        <h1 className="h3">Level test</h1>
+        <p>
+          The level test estimates your CEFR level, from A1 (beginner) to C2 (proficiency). It is useful if you do not know where to start, or if you want to check your progress after some practice.
         </p>
+        <p className="text-secondary">
+          {PLACEMENT_TOTAL} questions in {PLACEMENT_TIME_SECONDS / 60} minutes, one at a time. The test starts easy: a right answer makes the next question harder, a wrong answer or a skip makes it easier. You can skip a question you do not know and look back at the earlier ones, but you cannot change your answers. At the end you see your level and how you did at each level, and you can start a quiz at that level.
+        </p>
+        {saved ? (
+          <Card className="mb-3" border="primary">
+            <Card.Body>
+              <h2 className="h6 text-secondary mb-1">Your current level</h2>
+              <p className="mb-0">
+                <span className="display-5 fw-bold me-2">{saved.level}</span>
+                <span className="fw-semibold">{LEVEL_INFO[saved.level].name}</span>
+              </p>
+              <small className="text-secondary">Tested on {new Date(saved.date).toLocaleDateString('en-GB', { dateStyle: 'medium' })}</small>
+            </Card.Body>
+          </Card>
+        ) : (
+          <p className="fw-semibold">You have not taken the test yet.</p>
+        )}
         {error && <p className="text-danger">{error}</p>}
         <div className="d-grid d-sm-flex gap-2">
           <Button size="lg" onClick={start}>
-            Start the test
+            {saved ? 'Retake the test' : 'Start the test'}
           </Button>
           <Button size="lg" variant="outline-secondary" onClick={() => navigate('/')}>
             Home

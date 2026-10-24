@@ -37,19 +37,20 @@ const poolOf = (level: Level): Question[] =>
 
 vi.mock('../data', () => ({ loadLevel: (level: Level) => Promise.resolve(poolOf(level)) }));
 
-import HomePage from './HomePage';
+import QuizSetupPage from './QuizSetupPage';
 import PlacementPage from './PlacementPage';
 
 type User = ReturnType<typeof userEvent.setup>;
 
-function renderApp(strict = false, start = '/placement') {
+function renderApp(strict = false, start = '/test') {
   const Wrapper = strict ? StrictMode : ({ children }: { children: React.ReactNode }) => <>{children}</>;
   return render(
     <Wrapper>
       <MemoryRouter initialEntries={[start]}>
         <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/placement" element={<PlacementPage />} />
+          <Route path="/" element={<p>home page</p>} />
+          <Route path="/quiz" element={<QuizSetupPage />} />
+          <Route path="/test" element={<PlacementPage />} />
           <Route path="/quiz/:level" element={<p>quiz page</p>} />
         </Routes>
       </MemoryRouter>
@@ -87,7 +88,7 @@ describe('PlacementPage: the staircase', () => {
   it('explains the test and starts on a button, without a certification disclaimer', async () => {
     const user = userEvent.setup();
     renderApp();
-    expect(screen.getByRole('heading', { name: 'Find your level' })).toBeInTheDocument();
+    expect(screen.getByRole('heading', { name: 'Level test' })).toBeInTheDocument();
     expect(screen.getByText(/40 questions in 40 minutes, one at a time/)).toBeInTheDocument();
     expect(screen.getByText(/a right answer makes the next question harder, a wrong answer or a skip makes it easier/)).toBeInTheDocument();
     expect(screen.queryByText(/certification/i)).not.toBeInTheDocument();
@@ -353,7 +354,8 @@ describe('PlacementPage: finishing', () => {
     await tap(user, true, 1);
     await finish(user);
     await user.click(await screen.findByRole('button', { name: 'Retake the test' }));
-    expect(screen.getByRole('button', { name: 'Start the test' })).toBeInTheDocument();
+    expect(screen.getByRole('heading', { name: 'Level test' })).toBeInTheDocument();
+    expect(screen.getByText('Your current level')).toBeInTheDocument(); // the test just finished was saved
   });
 
   it('works in StrictMode and quits back to the home page without saving', async () => {
@@ -365,7 +367,7 @@ describe('PlacementPage: finishing', () => {
     await screen.findByText('Question 2 / 40');
     expect(levelOnScreen()).toBe('A2'); // one step only, even in StrictMode
     await user.click(screen.getByRole('button', { name: 'Quit test' }));
-    expect(await screen.findByRole('heading', { name: 'Practise your English' })).toBeInTheDocument();
+    expect(await screen.findByText('home page')).toBeInTheDocument();
     expect(localStorage.getItem('eq.placement')).toBeNull();
   });
 });
@@ -408,24 +410,36 @@ describe('PlacementPage: the time limit', () => {
   });
 });
 
-describe('HomePage placement box', () => {
-  it('invites to find the level, then shows the last result', async () => {
-    const user = userEvent.setup();
-    renderApp(false, '/');
-    expect(screen.getByText('Not sure about your level?')).toBeInTheDocument();
-    await user.click(screen.getByRole('button', { name: 'Find your level' }));
-    expect(await screen.findByRole('heading', { name: 'Find your level' })).toBeInTheDocument();
-    cleanup();
+describe('Test page current level', () => {
+  it('describes the test and invites to take it when there is no result yet', () => {
+    renderApp();
+    expect(screen.getByRole('heading', { name: 'Level test' })).toBeInTheDocument();
+    expect(screen.getByText(/estimates your CEFR level/)).toBeInTheDocument();
+    expect(screen.getByText('You have not taken the test yet.')).toBeInTheDocument();
+    expect(screen.queryByText('Your current level')).not.toBeInTheDocument();
+    expect(screen.getByRole('button', { name: 'Start the test' })).toBeInTheDocument();
+  });
 
+  it('shows the current level and the date when the test was taken before', () => {
     localStorage.setItem('eq.placement', JSON.stringify({ date: '2026-10-04T10:00:00.000Z', level: 'B2', perLevel: {} }));
-    renderApp(false, '/');
-    expect(screen.getByText('Your level: B2')).toBeInTheDocument();
-    await waitFor(() => expect(screen.getByRole('button', { name: 'Retake the test' })).toBeInTheDocument());
+    renderApp();
+    expect(screen.getByText('Your current level')).toBeInTheDocument();
+    expect(screen.getByText('B2')).toBeInTheDocument();
+    expect(screen.getByText(/Tested on 4 Oct 2026/)).toBeInTheDocument();
+    expect(screen.getByRole('button', { name: 'Retake the test' })).toBeInTheDocument();
+    expect(screen.queryByText('You have not taken the test yet.')).not.toBeInTheDocument();
+  });
+});
+
+describe('QuizSetupPage', () => {
+  it('has no level test box any more', () => {
+    renderApp(false, '/quiz');
+    expect(screen.queryByText('Not sure about your level?')).not.toBeInTheDocument();
   });
 
   it('starts the quiz straight from a question-count tile (5/10/20/40), with no Start button', async () => {
     const user = userEvent.setup();
-    renderApp(false, '/');
+    renderApp(false, '/quiz');
     expect(screen.queryByRole('button', { name: 'Start' })).not.toBeInTheDocument();
     expect(screen.queryByRole('button', { name: /Start with/ })).not.toBeInTheDocument();
     await user.click(screen.getByRole('radio', { name: /A2/ }));

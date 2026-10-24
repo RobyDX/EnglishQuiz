@@ -10,7 +10,7 @@ import { LEVELS, TOPICS, type Level, type Topic } from '../types';
 
 export default function QuizPage() {
   const { level } = useParams();
-  if (!LEVELS.includes(level as Level)) return <Navigate to="/" replace />;
+  if (!LEVELS.includes(level as Level)) return <Navigate to="/quiz" replace />;
   return <Quiz level={level as Level} />;
 }
 
@@ -50,7 +50,7 @@ function Quiz({ level }: { level: Level }) {
     body = (
       <Alert variant="warning">
         {error}{' '}
-        <Button variant="link" className="p-0 align-baseline" onClick={() => navigate('/')}>
+        <Button variant="link" className="p-0 align-baseline" onClick={() => navigate('/quiz')}>
           Change level
         </Button>
       </Alert>
@@ -151,7 +151,7 @@ function Quiz({ level }: { level: Level }) {
               >
                 New quiz
               </Button>
-              <Button variant="outline-secondary" onClick={() => navigate('/')}>
+              <Button variant="outline-secondary" onClick={() => navigate('/quiz')}>
                 Change level
               </Button>
             </>

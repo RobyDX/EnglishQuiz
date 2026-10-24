@@ -7,8 +7,8 @@ import type { TrueFalseQuestion, WordBankQuestion, WordOrderQuestion } from '../
 import GapQuestion from './GapQuestion';
 import TrueFalse from './TrueFalse';
 import WordOrder from './WordOrder';
-import HomePage from '../pages/HomePage';
-import HistoryPage from '../pages/HistoryPage';
+import QuizSetupPage from '../pages/QuizSetupPage';
+import HistorySection from '../components/HistorySection';
 import Layout from '../components/Layout';
 
 afterEach(() => {
@@ -80,7 +80,7 @@ describe('pages', () => {
     const user = userEvent.setup();
     render(
       <MemoryRouter>
-        <HomePage />
+        <QuizSetupPage />
       </MemoryRouter>,
     );
     const radios = screen.getAllByRole('radio');
@@ -116,7 +116,7 @@ describe('pages', () => {
   it('keeps the focus on the page after clearing the history', async () => {
     const user = userEvent.setup();
     localStorage.setItem('eq.history', JSON.stringify([{ date: '2026-10-04T10:00:00Z', level: 'A1', total: 5, correct: 4, percent: 80 }]));
-    render(<HistoryPage />);
+    render(<HistorySection />);
     await user.click(screen.getByRole('button', { name: 'Clear history' }));
     expect(screen.getByRole('heading', { name: 'History' })).toHaveFocus();
   });
