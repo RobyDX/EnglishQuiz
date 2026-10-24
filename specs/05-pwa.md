@@ -39,7 +39,7 @@ Icone in `public/`: **bandiera britannica con sotto la scritta "English Quiz"** 
 - Motivo: con 2000 domande per livello i dati valevano circa 1,5 MB gzip (con 5000 circa 3,5 MB); scaricarli tutti all'installazione sprecava banda (decisione 38).
 
 ## Installazione
-- Pulsante "Install" nella navbar (nascosto se l'app è già installata) che porta alla pagina `#/install` con la spiegazione e il pulsante "Install app"; usa l'evento `beforeinstallprompt` (dove supportato; l'evento è catturato all'avvio in `hooks/useInstall.ts`). La home page e AboutPage rimandano alla pagina. La pagina `#/install` spiega cos'è l'installazione di una PWA e come si fa su PC, Mac, Android e iOS, con immagini schematiche in `public/install/*.svg` (precache).
+- Pulsante "Install" nella navbar (nascosto se l'app è già installata) che porta alla pagina `#/install` con la spiegazione e il pulsante "Install app"; usa l'evento `beforeinstallprompt` (dove supportato; l'evento è catturato all'avvio in `hooks/useInstall.ts`). La home page e AboutPage rimandano alla pagina. La pagina `#/install` spiega cos'è l'installazione di una PWA e come si fa su PC, Mac, Android e iOS, in una guida breve solo testo (nessuna immagine); la home ha anche il pulsante "Install app".
 - Per iOS: testo di istruzioni "Condividi → Aggiungi a Home".
 
 ## Verifica (checklist)

@@ -9,7 +9,7 @@ Grafica con **Bootstrap 5**, approccio **mobile-first**. **Colore del tema: il b
 | `#/quiz` | QuizSetupPage | Scelta livello e argomenti, tile del numero di domande (avviano il quiz) e **History** dei quiz |
 | `#/quiz/:level` | QuizPage | Domande, pulsante "Check answers", risultato |
 | `#/test` | PlacementPage | Descrizione del test di livello, **livello attuale** (se il test è già stato fatto), test adattivo di 40 domande, risultato con livello stimato |
-| `#/install` | InstallPage | Cos'è l'installazione di una PWA e come si fa su PC, Mac, Android, iOS (con immagini); pulsante "Install app" dove il browser lo permette. Se già installata lo dice |
+| `#/install` | InstallPage | Cos'è l'installazione di una PWA e come si fa su PC, Mac, Android, iOS in una guida breve (solo testo, 2-3 passi per piattaforma, nessuna immagine); pulsante "Install app" dove il browser lo permette. Se già installata lo dice |
 | `#/about` | AboutPage | Autore, come è stata realizzata (Generative AI, spec driven), licenza d'uso libero, versione |
 
 Le vecchie rotte `#/history` e `#/placement` non esistono più: reindirizzano a `#/quiz` e `#/test`.
@@ -17,7 +17,7 @@ Le vecchie rotte `#/history` e `#/placement` non esistono più: reindirizzano a 
 Navbar sticky con l'icona dell'app (`pwa-192.png`, 32 px) davanti al titolo "English Quiz" (scritto con lo spazio; l'icona e il titolo portano alla home) e una **pulsantiera sempre visibile, solo icone** (nome in `aria-label` e tooltip) (niente hamburger/accordion, va a capo su mobile): **Home** (icona casa), **Quiz** (icona "?"), **Test** (icona bersaglio), **About** (info) e **Install** (freccia di download; solo se l'app non è già installata, cioè non in `display-mode: standalone`).
 
 ## HomePage (`#/`)
-- Titolo "English Quiz", un paragrafo di introduzione (esercizi di inglese dal livello A1 al C2, correzione con spiegazione, funziona anche offline) e un secondo paragrafo che dice che **l'app può essere installata** su computer e smartphone, con link "Learn how to install it" verso `#/install` (nascosto se già installata).
+- Titolo "English Quiz", un paragrafo di introduzione (esercizi di inglese dal livello A1 al C2, correzione con spiegazione, funziona anche offline) e un secondo paragrafo che dice che **l'app può essere installata** su computer e smartphone, con il pulsante **"Install app"** (visibile solo quando il browser permette l'installazione diretta, `beforeinstallprompt`) e il link "Learn how to install it" verso `#/install`. Entrambi nascosti se l'app è già installata.
 - Sotto, **4 tile di navigazione** (card cliccabili in griglia `row-cols-1 row-cols-md-2`, ognuna un unico link con titolo e descrizione ben descrittiva): **Quiz** (scegli livello e argomenti, rispondi e controlla; spiega gli errori; cronologia dei risultati), **Level test** (40 domande adattive, scopri il tuo livello CEFR), **About** (chi l'ha fatta e come), **Installation** (come installare l'app su PC, Mac, Android e iPhone). Se l'app è già installata la tile Installation resta, ma dice che è già installata.
 
 ## QuizSetupPage (`#/quiz`)

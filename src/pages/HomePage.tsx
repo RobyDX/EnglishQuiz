@@ -1,4 +1,4 @@
-import { Card, Col, Row } from 'react-bootstrap';
+import { Button, Card, Col, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { useInstall } from '../hooks/useInstall';
 
@@ -9,7 +9,7 @@ interface Tile {
 }
 
 export default function HomePage() {
-  const { standalone } = useInstall();
+  const { standalone, canPrompt, install } = useInstall();
   const tiles: Tile[] = [
     {
       to: '/quiz',
@@ -45,10 +45,15 @@ export default function HomePage() {
       <p>
         It is free and works in your browser, but it can also be <strong>installed</strong> like a normal app on your computer or smartphone, and then it works
         offline.{' '}
-        {!standalone && (
-          <Link to="/install">Learn how to install it</Link>
-        )}
+        {!standalone && <Link to="/install">Learn how to install it</Link>}
       </p>
+      {!standalone && canPrompt && (
+        <p>
+          <Button size="lg" onClick={install}>
+            Install app
+          </Button>
+        </p>
+      )}
       <Row xs={1} md={2} className="g-3 mt-2 mb-4">
         {tiles.map((t) => (
           <Col key={t.to}>
