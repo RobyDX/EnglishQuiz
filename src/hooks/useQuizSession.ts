@@ -39,7 +39,7 @@ export function useQuizSession(level: Level, count: number, topics: readonly Top
         addSeen(level, questions.map((q) => q.id));
         setSession({ questions, answers: {}, showSolutions: false });
       })
-      .catch(() => !cancelled && setError('Could not load the questions.'));
+      .catch(() => !cancelled && setError('Could not load the questions. Connect to the internet to download this level; it will then work offline.'));
     return () => {
       cancelled = true;
     };
