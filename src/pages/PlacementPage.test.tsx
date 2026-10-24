@@ -424,10 +424,54 @@ describe('Test page current level', () => {
     localStorage.setItem('eq.placement', JSON.stringify({ date: '2026-10-04T10:00:00.000Z', level: 'B2', perLevel: {} }));
     renderApp();
     expect(screen.getByText('Your current level')).toBeInTheDocument();
-    expect(screen.getByText('B2')).toBeInTheDocument();
+    expect(screen.getAllByText('B2').length).toBeGreaterThan(0);
     expect(screen.getByText(/Tested on 4 Oct 2026/)).toBeInTheDocument();
     expect(screen.getByRole('button', { name: 'Retake the test' })).toBeInTheDocument();
     expect(screen.queryByText('You have not taken the test yet.')).not.toBeInTheDocument();
+  });
+});
+
+describe('Test history', () => {
+  const entry = (date: string, level: string, answered: number, correct: number) => ({ date, level, perLevel: { A1: { answered, correct } } });
+
+  it('lists the saved tests, most recent first, and the last one from older versions', () => {
+    localStorage.setItem('eq.placement', JSON.stringify(entry('2026-10-05T10:00:00.000Z', 'B1', 40, 30)));
+    localStorage.setItem('eq.placementHistory', JSON.stringify([entry('2026-09-01T10:00:00.000Z', 'A2', 40, 20)]));
+    renderApp();
+    expect(screen.getByRole('heading', { name: 'Test history' })).toBeInTheDocument();
+    const rows = screen.getAllByRole('row').slice(1);
+    expect(rows).toHaveLength(2);
+    expect(rows[0]).toHaveTextContent('B1');
+    expect(rows[0]).toHaveTextContent('30 / 40');
+    expect(rows[0]).toHaveTextContent('75%');
+    expect(rows[1]).toHaveTextContent('A2');
+  });
+
+  it('is empty at first', () => {
+    renderApp();
+    expect(screen.getByText('No tests yet. Your results will appear here.')).toBeInTheDocument();
+    expect(screen.queryByRole('button', { name: 'Clear history' })).not.toBeInTheDocument();
+  });
+
+  it('clears the history and the current level, keeping the focus on the section title', async () => {
+    const user = userEvent.setup();
+    localStorage.setItem('eq.placementHistory', JSON.stringify([entry('2026-09-01T10:00:00.000Z', 'A2', 40, 20)]));
+    localStorage.setItem('eq.placement', JSON.stringify(entry('2026-09-01T10:00:00.000Z', 'A2', 40, 20)));
+    renderApp();
+    await user.click(screen.getByRole('button', { name: 'Clear history' }));
+    expect(screen.getByRole('heading', { name: 'Test history' })).toHaveFocus();
+    expect(screen.getByText('No tests yet. Your results will appear here.')).toBeInTheDocument();
+    expect(screen.getByText('You have not taken the test yet.')).toBeInTheDocument();
+    expect(localStorage.getItem('eq.placement')).toBeNull();
+  });
+
+  it('adds every finished test to the history', async () => {
+    const user = userEvent.setup();
+    await startTest(user);
+    await tap(user, true, 1);
+    await finish(user);
+    await screen.findByRole('button', { name: 'Retake the test' });
+    expect(JSON.parse(localStorage.getItem('eq.placementHistory')!)).toHaveLength(1);
   });
 });
 
