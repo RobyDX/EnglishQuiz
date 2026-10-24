@@ -36,7 +36,7 @@ Icone in `public/`: **bandiera britannica con sotto la scritta "English Quiz"** 
 - Il primo caricamento richiede rete; poi l'app si avvia offline.
 - Offline si possono usare **solo i livelli già aperti almeno una volta** online. Un livello mai aperto mostra "Could not load this level. Connect to the internet to download it; it will then work offline." (Home) e nessuna tile di numero di domande attiva. Il test di livello richiede tutti i livelli: offline mostra un messaggio analogo.
 - Indicatore discreto "Offline" opzionale (evento `online/offline`).
-- Motivo: con 2000 domande per livello i dati valgono circa 1,5 MB gzip; scaricarli tutti all'installazione sprecava banda (decisione 38).
+- Motivo: con 2000 domande per livello i dati valevano circa 1,5 MB gzip (con 5000 circa 3,5 MB); scaricarli tutti all'installazione sprecava banda (decisione 38).
 
 ## Installazione
 - Pulsante "Install" nella navbar (nascosto se l'app è già installata) che porta alla pagina `#/install` con la spiegazione e il pulsante "Install app"; usa l'evento `beforeinstallprompt` (dove supportato; l'evento è catturato all'avvio in `hooks/useInstall.ts`). AboutPage ha solo un link alla pagina.

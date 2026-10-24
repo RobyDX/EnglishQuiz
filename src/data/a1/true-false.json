@@ -3511,6 +3511,5284 @@
           "answer": false
         }
       ]
+    },
+    {
+      "id": "a1-tf-136",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"travels by bus\", \"goes to France\", \"for ten days\".",
+      "passage": "Alice goes to France in July. She travels by bus. She stays in a small flat for ten days. Every day she goes to the beach and takes photos. The weather is good and she sleeps well. The sea is warm and the people are friendly.",
+      "statements": [
+        {
+          "text": "Alice travels by train.",
+          "answer": false
+        },
+        {
+          "text": "Alice goes to France.",
+          "answer": true
+        },
+        {
+          "text": "Alice stays for thirteen days.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-137",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"She gets up at six o'clock\", \"goes to school by car\", \"goes to bed at half past eight\".",
+      "passage": "Mia is eleven. She gets up at six o'clock and has toast for breakfast. She goes to school by car. In the evening she reads a book. She goes to bed at half past eight. She has many friends and likes her class. It is a busy day, but she is always happy.",
+      "statements": [
+        {
+          "text": "Mia gets up at six o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Mia goes to school by bus.",
+          "answer": false
+        },
+        {
+          "text": "Mia goes to bed at nine o'clock.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-138",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"recycles glass\", \"Every spring\", \"with his brother\".",
+      "passage": "Ian lives near a river. Every spring, he walks there with his brother. He loves nature and puts all the rubbish in the bin. At home, he recycles glass every week. He says that nature is a gift for everybody. It is a quiet and beautiful place.",
+      "statements": [
+        {
+          "text": "Ian recycles plastic.",
+          "answer": false
+        },
+        {
+          "text": "Ian walks there in spring.",
+          "answer": true
+        },
+        {
+          "text": "Ian walks with his dog.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-139",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"Every summer\", \"lives near a forest\", \"recycles plastic\".",
+      "passage": "Clara lives near a forest. Every summer, she walks there with her sister. She loves nature and puts all the rubbish in the bin. At home, she recycles plastic every week. It is a quiet and beautiful place. The air is clean and the water is clear.",
+      "statements": [
+        {
+          "text": "Clara walks there in summer.",
+          "answer": true
+        },
+        {
+          "text": "Clara lives near a mountain.",
+          "answer": false
+        },
+        {
+          "text": "Clara recycles plastic.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-140",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"It eats mice\", \"it is brown\", \"lives in forests\".",
+      "passage": "An owl is a bird. It lives in forests. It eats mice. It has two legs and it is brown. Many people love to see this animal in a book, in a film or at the zoo. Children often ask many questions about it. It is an interesting animal.",
+      "statements": [
+        {
+          "text": "The owl eats fruit.",
+          "answer": false
+        },
+        {
+          "text": "The owl is orange.",
+          "answer": false
+        },
+        {
+          "text": "The owl lives in forests.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-141",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"At two o'clock\", \"uses a laptop\", \"writes ten emails\".",
+      "passage": "Joe works in an office. Every day, he uses a laptop and a phone. He writes ten emails in the morning. At two o'clock, he has a meeting with his boss, Kenji. He likes the job because it is never boring. It is a busy place, but everybody helps each other.",
+      "statements": [
+        {
+          "text": "The meeting is at two o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Joe uses a laptop at work.",
+          "answer": true
+        },
+        {
+          "text": "Joe writes twelve emails in the morning.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-142",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"works four days a week\", \"finishes at six o'clock\", \"is a cook\".",
+      "passage": "Vera is a cook. She works at the restaurant and helps meals. She starts work at seven o'clock and finishes at six o'clock. She works four days a week. It is a hard job, but she likes it a lot. She is tired in the evening, but happy.",
+      "statements": [
+        {
+          "text": "Vera works four days a week.",
+          "answer": true
+        },
+        {
+          "text": "Vera finishes work at five o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Vera is a nurse.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-143",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"uses a computer\", \"writes three emails\", \"boss, Ravi\".",
+      "passage": "Adam works in an office. Every day, he uses a computer and a phone. He writes three emails in the morning. At two o'clock, he has a meeting with his boss, Ravi. The office is big and quiet, and his colleagues are nice. He likes the job because it is never boring.",
+      "statements": [
+        {
+          "text": "Adam uses a laptop at work.",
+          "answer": false
+        },
+        {
+          "text": "Adam writes three emails in the morning.",
+          "answer": true
+        },
+        {
+          "text": "The boss is Ravi.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-144",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has four legs\", \"it is brown\", \"It eats grass\".",
+      "passage": "A cow is a farm animal. It lives in farms. It eats grass. It has four legs and it is brown. Many people love to see this animal in a book, in a film or at the zoo. It is an interesting animal. Children often ask many questions about it.",
+      "statements": [
+        {
+          "text": "The cow has two legs.",
+          "answer": false
+        },
+        {
+          "text": "The cow is brown.",
+          "answer": true
+        },
+        {
+          "text": "The cow eats fish.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-145",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"recycles paper\", \"Every autumn\", \"lives near a mountain\".",
+      "passage": "Julia lives near a mountain. Every autumn, she walks there with her brother. She loves nature and puts all the rubbish in the bin. At home, she recycles paper every week. She says that nature is a gift for everybody. The air is clean and the water is clear.",
+      "statements": [
+        {
+          "text": "Julia recycles paper.",
+          "answer": true
+        },
+        {
+          "text": "Julia walks there in summer.",
+          "answer": false
+        },
+        {
+          "text": "Julia lives near a beach.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-146",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The school is next to the hospital\", \"There are eight shops in the main street\", \"The library is in front of the cinema\".",
+      "passage": "Yuki lives in a small town. In the town there is a school, a hospital and a café. The school is next to the hospital. The library is in front of the cinema. There are eight shops in the main street. Everybody in the town knows Yuki. It is a quiet and friendly place.",
+      "statements": [
+        {
+          "text": "The school is next to the hospital.",
+          "answer": true
+        },
+        {
+          "text": "There are ten shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The library is in front of the cinema.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-147",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"a blue one\", \"with his mother\", \"On Saturday\".",
+      "passage": "On Saturday, Tom goes to the shopping centre with his mother. He wants a new bag. He finds a blue one in a small shop. It costs twelve euros. He buys it and is very happy. There are many people and many beautiful things. The streets are busy and the sun is bright.",
+      "statements": [
+        {
+          "text": "Tom buys a blue bag.",
+          "answer": true
+        },
+        {
+          "text": "Tom goes with his father.",
+          "answer": false
+        },
+        {
+          "text": "Tom goes shopping on Friday.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-148",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"three hours\", \"favourite hobby is reading\", \"in his kitchen\".",
+      "passage": "Paul's favourite hobby is reading. Every Saturday, he spends three hours on it in his kitchen. He is never bored on that day. On Monday, he goes back to school. He wants to be better every week. It makes him feel calm and happy.",
+      "statements": [
+        {
+          "text": "Paul spends three hours on it.",
+          "answer": true
+        },
+        {
+          "text": "Paul's hobby is fishing.",
+          "answer": false
+        },
+        {
+          "text": "Paul does it in his garden.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-149",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has lunch at half past one\", \"always drink water\", \"always eat ice cream\".",
+      "passage": "On Sunday, Hugo's family has lunch at half past one. His mother cooks pasta with tomato sauce. They always drink water with lunch. After lunch they always eat ice cream. Everybody talks and laughs at the table. The kitchen is full of nice smells on that day.",
+      "statements": [
+        {
+          "text": "The family has lunch at half past one.",
+          "answer": true
+        },
+        {
+          "text": "They always drink lemonade.",
+          "answer": false
+        },
+        {
+          "text": "They always eat ice cream after lunch.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-150",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lunch at twelve o'clock\", \"favourite subject is maths\", \"has six lessons\".",
+      "passage": "Luca is a student. On Wednesday, he has six lessons. His favourite subject is maths. He has lunch at twelve o'clock. After lunch, he has music and science. He always does his homework in the evening. He likes school and has many good friends there.",
+      "statements": [
+        {
+          "text": "Luca has lunch at twelve o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Luca's favourite subject is maths.",
+          "answer": true
+        },
+        {
+          "text": "Luca has seven lessons on Wednesday.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-151",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My favourite food is soup\", \"I am twelve years old\", \"I have a hamster\".",
+      "passage": "My name is Joe. I am twelve years old and I live in Dublin. There are four people in my family: my sister, my brother and my grandfather and me. I have a hamster. My favourite food is soup. I go to school every day and I love my friends. My room is small, but I like it a lot.",
+      "statements": [
+        {
+          "text": "My favourite food is fish.",
+          "answer": false
+        },
+        {
+          "text": "I am twelve years old.",
+          "answer": true
+        },
+        {
+          "text": "I have a hamster.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-152",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has six lessons\", \"lunch at one o'clock\", \"has English and art\".",
+      "passage": "Nina is a student. On Monday, she has six lessons. Her favourite subject is music. She has lunch at one o'clock. After lunch, she has English and art. The teachers are kind and the classes are interesting. She always does her homework in the evening.",
+      "statements": [
+        {
+          "text": "Nina has seven lessons on Monday.",
+          "answer": false
+        },
+        {
+          "text": "Nina has lunch at two o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Nina has English after lunch.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-153",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"On Wednesday\", \"drink a lot of water\", \"has a stomachache\".",
+      "passage": "Zoe has a stomachache. On Wednesday, she goes to the doctor. The doctor says: stay in bed for four days and drink a lot of water. Zoe stays at home and takes some medicine. She wants to feel better soon. Her mother looks after her and makes some soup.",
+      "statements": [
+        {
+          "text": "Zoe goes to the doctor on Wednesday.",
+          "answer": true
+        },
+        {
+          "text": "The doctor says to drink juice.",
+          "answer": false
+        },
+        {
+          "text": "Zoe has a stomachache.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-154",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with her sister\", \"recycles paper\", \"Every summer\".",
+      "passage": "Mia lives near a mountain. Every summer, she walks there with her sister. She loves nature and puts all the rubbish in the bin. At home, she recycles paper every week. The air is clean and the water is clear. She says that nature is a gift for everybody.",
+      "statements": [
+        {
+          "text": "Mia walks with her dog.",
+          "answer": false
+        },
+        {
+          "text": "Mia recycles paper.",
+          "answer": true
+        },
+        {
+          "text": "Mia walks there in summer.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-155",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has four legs\", \"It eats leaves\", \"it is yellow and brown\".",
+      "passage": "A giraffe is a tall animal. It lives in Africa. It eats leaves. It has four legs and it is yellow and brown. Many people love to see this animal in a book, in a film or at the zoo. Scientists study this animal to learn more. It is an interesting animal.",
+      "statements": [
+        {
+          "text": "The giraffe has eight legs.",
+          "answer": false
+        },
+        {
+          "text": "The giraffe eats leaves.",
+          "answer": true
+        },
+        {
+          "text": "The giraffe is yellow and brown.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-156",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are six toys on the shelf\", \"bedroom is big\", \"The walls are blue\".",
+      "passage": "Hugo's bedroom is big. The walls are blue. There is a sofa next to the window. There are six toys on the shelf. He sleeps in this room every night. It is a quiet and comfortable place. He loves the room because it is warm and bright.",
+      "statements": [
+        {
+          "text": "There are five toys on the shelf.",
+          "answer": false
+        },
+        {
+          "text": "The bedroom is big.",
+          "answer": true
+        },
+        {
+          "text": "The walls in the bedroom are blue.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-157",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"at the sports centre\", \"with two friends\", \"loves football\".",
+      "passage": "Kenji loves football. He plays football on Monday and Wednesday at the sports centre. He plays with two friends. They always have fun and then eat ice cream. He is tired after the game, but very happy. It is a great way to stay strong.",
+      "statements": [
+        {
+          "text": "Kenji does this at the park.",
+          "answer": false
+        },
+        {
+          "text": "Kenji does it with two friends.",
+          "answer": true
+        },
+        {
+          "text": "Kenji loves hockey.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-158",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"Every Saturday\", \"in her garden\", \"favourite hobby is gardening\".",
+      "passage": "Zoe's favourite hobby is gardening. Every Saturday, she spends four hours on it in her garden. She is never bored on that day. On Monday, she goes back to school. It makes her feel calm and happy. Her family likes to see the results.",
+      "statements": [
+        {
+          "text": "Zoe does gardening on Saturday.",
+          "answer": true
+        },
+        {
+          "text": "Zoe does it in her kitchen.",
+          "answer": false
+        },
+        {
+          "text": "Zoe's hobby is gardening.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-159",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are four people in my family\", \"I live in Berlin\", \"My favourite food is pizza\".",
+      "passage": "My name is Karl. I am twelve years old and I live in Berlin. There are four people in my family: my father, my aunt and my grandmother and me. I have a parrot. My favourite food is pizza. I go to school every day and I love my friends. My room is small, but I like it a lot.",
+      "statements": [
+        {
+          "text": "There are three people in my family.",
+          "answer": false
+        },
+        {
+          "text": "I live in Berlin.",
+          "answer": true
+        },
+        {
+          "text": "My favourite food is pizza.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-160",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"starts work at seven o'clock\", \"finishes at four o'clock\", \"is a cook\".",
+      "passage": "Ben is a cook. He works at the restaurant and helps meals. He starts work at seven o'clock and finishes at four o'clock. He works five days a week. He is tired in the evening, but happy. It is a hard job, but he likes it a lot.",
+      "statements": [
+        {
+          "text": "Ben starts work at eight o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Ben finishes work at four o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Ben is a baker.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-161",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"favourite subject is PE\", \"lunch at one o'clock\", \"has history and maths\".",
+      "passage": "Mia is a student. On Tuesday, she has four lessons. Her favourite subject is PE. She has lunch at one o'clock. After lunch, she has history and maths. She always does her homework in the evening. She likes school and has many good friends there.",
+      "statements": [
+        {
+          "text": "Mia's favourite subject is science.",
+          "answer": false
+        },
+        {
+          "text": "Mia has lunch at one o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Mia has English after lunch.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-162",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"two hours\", \"favourite hobby is singing\", \"in her kitchen\".",
+      "passage": "Ruby's favourite hobby is singing. Every Sunday, she spends two hours on it in her kitchen. She is never bored on that day. On Monday, she goes back to school. It makes her feel calm and happy. She wants to be better every week.",
+      "statements": [
+        {
+          "text": "Ruby spends two hours on it.",
+          "answer": true
+        },
+        {
+          "text": "Ruby's hobby is singing.",
+          "answer": true
+        },
+        {
+          "text": "Ruby does it in her garden.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-163",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"birthday is in January\", \"is nine today\", \"a big chocolate cake\".",
+      "passage": "Karl's birthday is in January. He is nine today. He invites five friends to the party. They eat a big chocolate cake and play games in the garden. Everybody sings and dances, and the afternoon is full of fun. All the children say it is a wonderful day.",
+      "statements": [
+        {
+          "text": "Karl's birthday is in January.",
+          "answer": true
+        },
+        {
+          "text": "Karl is ten today.",
+          "answer": false
+        },
+        {
+          "text": "The cake is a lemon cake.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-164",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives in a small town\", \"The school is in front of the station\", \"The market is next to the bank\".",
+      "passage": "Iris lives in a small town. In the town there is a market, a bank and a library. The market is next to the bank. The school is in front of the station. There are seven shops in the main street. The streets are clean and the people are kind. Everybody in the town knows Iris.",
+      "statements": [
+        {
+          "text": "Iris lives in a small town.",
+          "answer": true
+        },
+        {
+          "text": "The school is behind the station.",
+          "answer": false
+        },
+        {
+          "text": "The market is far from the bank.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-165",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are five shops in the main street\", \"The market is in front of the park\", \"The library is next to the station\".",
+      "passage": "Lina lives in a small town. In the town there is a library, a station and a school. The library is next to the station. The market is in front of the park. There are five shops in the main street. It is a quiet and friendly place. The streets are clean and the people are kind.",
+      "statements": [
+        {
+          "text": "There are six shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The market is behind the park.",
+          "answer": false
+        },
+        {
+          "text": "The library is next to the station.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-166",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"stay in bed for three days\", \"drink a lot of juice\", \"has a fever\".",
+      "passage": "Vera has a fever. On Tuesday, she goes to the doctor. The doctor says: stay in bed for three days and drink a lot of juice. Vera stays at home and takes some medicine. Her friends call her every day. She wants to feel better soon.",
+      "statements": [
+        {
+          "text": "Vera must stay in bed for three days.",
+          "answer": true
+        },
+        {
+          "text": "The doctor says to drink juice.",
+          "answer": true
+        },
+        {
+          "text": "Vera has a headache.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-167",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with her dog\", \"recycles plastic\", \"Every summer\".",
+      "passage": "Yuki lives near a forest. Every summer, she walks there with her dog. She loves nature and puts all the rubbish in the bin. At home, she recycles plastic every week. It is a quiet and beautiful place. She says that nature is a gift for everybody.",
+      "statements": [
+        {
+          "text": "Yuki walks with her friend.",
+          "answer": false
+        },
+        {
+          "text": "Yuki recycles plastic.",
+          "answer": true
+        },
+        {
+          "text": "Yuki walks there in autumn.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-168",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with her sister\", \"Every summer\", \"recycles paper\".",
+      "passage": "Eva lives near a mountain. Every summer, she walks there with her sister. She loves nature and puts all the rubbish in the bin. At home, she recycles paper every week. It is a quiet and beautiful place. She says that nature is a gift for everybody.",
+      "statements": [
+        {
+          "text": "Eva walks with her sister.",
+          "answer": true
+        },
+        {
+          "text": "Eva walks there in spring.",
+          "answer": false
+        },
+        {
+          "text": "Eva recycles paper.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-169",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has maths and history\", \"favourite subject is art\", \"has seven lessons\".",
+      "passage": "Carlos is a student. On Monday, he has seven lessons. His favourite subject is art. He has lunch at twelve o'clock. After lunch, he has maths and history. He always does his homework in the evening. He likes school and has many good friends there.",
+      "statements": [
+        {
+          "text": "Carlos has geography after lunch.",
+          "answer": false
+        },
+        {
+          "text": "Carlos's favourite subject is art.",
+          "answer": true
+        },
+        {
+          "text": "Carlos has seven lessons on Monday.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-170",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"works six days a week\", \"starts work at nine o'clock\", \"finishes at four o'clock\".",
+      "passage": "Luca is a teacher. He works at the school and helps students. He starts work at nine o'clock and finishes at four o'clock. He works six days a week. It is a hard job, but he likes it a lot. He is tired in the evening, but happy.",
+      "statements": [
+        {
+          "text": "Luca works six days a week.",
+          "answer": true
+        },
+        {
+          "text": "Luca starts work at seven o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Luca finishes work at four o'clock.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-171",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has music and PE\", \"lunch at half past twelve\", \"favourite subject is science\".",
+      "passage": "Mark is a student. On Tuesday, he has five lessons. His favourite subject is science. He has lunch at half past twelve. After lunch, he has music and PE. He likes school and has many good friends there. He always does his homework in the evening.",
+      "statements": [
+        {
+          "text": "Mark has English after lunch.",
+          "answer": false
+        },
+        {
+          "text": "Mark has lunch at half past twelve.",
+          "answer": true
+        },
+        {
+          "text": "Mark's favourite subject is science.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-172",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"at the sports centre\", \"on Wednesday and Monday\", \"with five friends\".",
+      "passage": "Nora loves hockey. She plays hockey on Wednesday and Monday at the sports centre. She plays with five friends. They always have fun and then eat ice cream. It is a great way to stay strong. She is tired after the game, but very happy.",
+      "statements": [
+        {
+          "text": "Nora does this at the school.",
+          "answer": false
+        },
+        {
+          "text": "Nora does this on Wednesday.",
+          "answer": true
+        },
+        {
+          "text": "Nora does it with seven friends.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-173",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has seven lessons\", \"lunch at half past twelve\", \"favourite subject is geography\".",
+      "passage": "Sean is a student. On Tuesday, he has seven lessons. His favourite subject is geography. He has lunch at half past twelve. After lunch, he has history and English. He likes school and has many good friends there. The teachers are kind and the classes are interesting.",
+      "statements": [
+        {
+          "text": "Sean has seven lessons on Tuesday.",
+          "answer": true
+        },
+        {
+          "text": "Sean has lunch at half past twelve.",
+          "answer": true
+        },
+        {
+          "text": "Sean's favourite subject is PE.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-174",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"is a farmer\", \"finishes at five o'clock\", \"starts work at eight o'clock\".",
+      "passage": "Dan is a farmer. He works at the farm and helps cows. He starts work at eight o'clock and finishes at five o'clock. He works six days a week. His colleagues are friendly and helpful. It is a hard job, but he likes it a lot.",
+      "statements": [
+        {
+          "text": "Dan is a farmer.",
+          "answer": true
+        },
+        {
+          "text": "Dan finishes work at five o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Dan starts work at seven o'clock.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-175",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The walls are orange\", \"There are seven pictures on the shelf\", \"She sleeps in this room\".",
+      "passage": "Alice's bedroom is small. The walls are orange. There is a desk next to the window. There are seven pictures on the shelf. She sleeps in this room every night. She often reads there before going to sleep. It is a quiet and comfortable place.",
+      "statements": [
+        {
+          "text": "The walls in the bedroom are orange.",
+          "answer": true
+        },
+        {
+          "text": "There are nine pictures on the shelf.",
+          "answer": false
+        },
+        {
+          "text": "Alice sleeps in the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-176",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has four lessons\", \"has English and art\", \"lunch at half past twelve\".",
+      "passage": "Hugo is a student. On Thursday, he has four lessons. His favourite subject is history. He has lunch at half past twelve. After lunch, he has English and art. He likes school and has many good friends there. The teachers are kind and the classes are interesting.",
+      "statements": [
+        {
+          "text": "Hugo has four lessons on Thursday.",
+          "answer": true
+        },
+        {
+          "text": "Hugo has English after lunch.",
+          "answer": true
+        },
+        {
+          "text": "Hugo has lunch at two o'clock.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-177",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"in his kitchen\", \"Every Saturday\", \"three hours\".",
+      "passage": "Noah's favourite hobby is cooking. Every Saturday, he spends three hours on it in his kitchen. He is never bored on that day. On Monday, he goes back to school. His family likes to see the results. He wants to be better every week.",
+      "statements": [
+        {
+          "text": "Noah does it in his kitchen.",
+          "answer": true
+        },
+        {
+          "text": "Noah does cooking on Sunday.",
+          "answer": false
+        },
+        {
+          "text": "Noah spends five hours on it.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-178",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"On Friday\", \"drink a lot of water\", \"stay in bed for five days\".",
+      "passage": "Jack has a headache. On Friday, he goes to the doctor. The doctor says: stay in bed for five days and drink a lot of water. Jack stays at home and takes some medicine. His friends call him every day. He wants to feel better soon.",
+      "statements": [
+        {
+          "text": "Jack goes to the doctor on Tuesday.",
+          "answer": false
+        },
+        {
+          "text": "The doctor says to drink water.",
+          "answer": true
+        },
+        {
+          "text": "Jack must stay in bed for seven days.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-179",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"works six days a week\", \"starts work at eight o'clock\", \"finishes at six o'clock\".",
+      "passage": "Sara is a farmer. She works at the farm and helps cows. She starts work at eight o'clock and finishes at six o'clock. She works six days a week. It is a hard job, but she likes it a lot. She is tired in the evening, but happy.",
+      "statements": [
+        {
+          "text": "Sara works three days a week.",
+          "answer": false
+        },
+        {
+          "text": "Sara starts work at eight o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Sara finishes work at five o'clock.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-180",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives near a lake\", \"with his dog\", \"recycles paper\".",
+      "passage": "Jack lives near a lake. Every summer, he walks there with his dog. He loves nature and puts all the rubbish in the bin. At home, he recycles paper every week. The air is clean and the water is clear. He says that nature is a gift for everybody.",
+      "statements": [
+        {
+          "text": "Jack lives near a lake.",
+          "answer": true
+        },
+        {
+          "text": "Jack walks with his friend.",
+          "answer": false
+        },
+        {
+          "text": "Jack recycles paper.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-181",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"loves hockey\", \"on Friday and Tuesday\", \"with two friends\".",
+      "passage": "Yuki loves hockey. She plays hockey on Friday and Tuesday at the park. She plays with two friends. They always have fun and then eat ice cream. She is tired after the game, but very happy. It is a great way to stay strong.",
+      "statements": [
+        {
+          "text": "Yuki loves hockey.",
+          "answer": true
+        },
+        {
+          "text": "Yuki does this on Friday.",
+          "answer": true
+        },
+        {
+          "text": "Yuki does it with four friends.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-182",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"grandfather cooks soup and bread\", \"always eat ice cream\", \"always drink juice\".",
+      "passage": "On Sunday, Hugo's family has lunch at twelve o'clock. His grandfather cooks soup and bread. They always drink juice with lunch. After lunch they always eat ice cream. The kitchen is full of nice smells on that day. Everybody talks and laughs at the table.",
+      "statements": [
+        {
+          "text": "His grandfather cooks soup and bread.",
+          "answer": true
+        },
+        {
+          "text": "They always eat ice cream after lunch.",
+          "answer": true
+        },
+        {
+          "text": "They always drink lemonade.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-183",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"drink a lot of water\", \"stay in bed for three days\", \"On Thursday\".",
+      "passage": "Amy has a headache. On Thursday, she goes to the doctor. The doctor says: stay in bed for three days and drink a lot of water. Amy stays at home and takes some medicine. She wants to feel better soon. Her friends call her every day.",
+      "statements": [
+        {
+          "text": "The doctor says to drink water.",
+          "answer": true
+        },
+        {
+          "text": "Amy must stay in bed for five days.",
+          "answer": false
+        },
+        {
+          "text": "Amy goes to the doctor on Wednesday.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-184",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives near a beach\", \"Every spring\", \"with her brother\".",
+      "passage": "Ella lives near a beach. Every spring, she walks there with her brother. She loves nature and puts all the rubbish in the bin. At home, she recycles glass every week. She says that nature is a gift for everybody. The air is clean and the water is clear.",
+      "statements": [
+        {
+          "text": "Ella lives near a beach.",
+          "answer": true
+        },
+        {
+          "text": "Ella walks there in summer.",
+          "answer": false
+        },
+        {
+          "text": "Ella walks with her dog.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-185",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"in June\", \"for nine days\", \"travels by plane\".",
+      "passage": "Pablo goes to Mexico in June. He travels by plane. He stays in a small flat for nine days. Every day he goes to the beach and takes photos. The weather is good and he sleeps well. It is a beautiful trip and he is very happy.",
+      "statements": [
+        {
+          "text": "The holiday is in June.",
+          "answer": true
+        },
+        {
+          "text": "Pablo stays for nine days.",
+          "answer": true
+        },
+        {
+          "text": "Pablo travels by bus.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-186",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"in his kitchen\", \"favourite hobby is fishing\", \"three hours\".",
+      "passage": "Max's favourite hobby is fishing. Every Saturday, he spends three hours on it in his kitchen. He is never bored on that day. On Monday, he goes back to school. It makes him feel calm and happy. His family likes to see the results.",
+      "statements": [
+        {
+          "text": "Max does it in his garden.",
+          "answer": false
+        },
+        {
+          "text": "Max's hobby is cooking.",
+          "answer": false
+        },
+        {
+          "text": "Max spends three hours on it.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-187",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"loves swimming\", \"on Thursday and Friday\", \"with six friends\".",
+      "passage": "Emma loves swimming. She goes swimming on Thursday and Friday at the school. She swims with six friends. They always have fun and then eat ice cream. She is tired after the game, but very happy. The players are friendly and the coach is kind.",
+      "statements": [
+        {
+          "text": "Emma loves swimming.",
+          "answer": true
+        },
+        {
+          "text": "Emma does this on Sunday.",
+          "answer": false
+        },
+        {
+          "text": "Emma does it with eight friends.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-188",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"recycles glass\", \"lives near a mountain\", \"with her friend\".",
+      "passage": "Yuki lives near a mountain. Every autumn, she walks there with her friend. She loves nature and puts all the rubbish in the bin. At home, she recycles glass every week. The air is clean and the water is clear. It is a quiet and beautiful place.",
+      "statements": [
+        {
+          "text": "Yuki recycles glass.",
+          "answer": true
+        },
+        {
+          "text": "Yuki lives near a mountain.",
+          "answer": true
+        },
+        {
+          "text": "Yuki walks with her dog.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-189",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"Clara is eleven\", \"goes to school by bike\", \"goes to bed at half past nine\".",
+      "passage": "Clara is eleven. She gets up at seven o'clock and has bread and jam for breakfast. She goes to school by bike. In the evening she plays games. She goes to bed at half past nine. She has many friends and likes her class. She loves school and her teachers are very kind.",
+      "statements": [
+        {
+          "text": "Clara is eleven.",
+          "answer": true
+        },
+        {
+          "text": "Clara goes to school by bike.",
+          "answer": true
+        },
+        {
+          "text": "Clara goes to bed at eight o'clock.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-190",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"likes winter very much\", \"winter is cold\", \"lives in Toronto\".",
+      "passage": "In Toronto, winter is cold and snowy. People wear a thick coat. Julia lives in Toronto and likes winter very much. She goes out every day, even when the weather is bad. It is a good time to go out and see the city. The weather changes a lot during the year.",
+      "statements": [
+        {
+          "text": "Julia likes spring.",
+          "answer": false
+        },
+        {
+          "text": "In Toronto, winter is hot.",
+          "answer": false
+        },
+        {
+          "text": "Julia lives in Toronto.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-191",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are six shops in the main street\", \"lives in a small town\", \"The museum is next to the café\".",
+      "passage": "Adam lives in a small town. In the town there is a museum, a café and a station. The museum is next to the café. The hospital is in front of the bank. There are six shops in the main street. The streets are clean and the people are kind. It is a quiet and friendly place.",
+      "statements": [
+        {
+          "text": "There are seven shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "Adam lives in a big city.",
+          "answer": false
+        },
+        {
+          "text": "The museum is next to the café.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-192",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"writes ten emails\", \"boss, Luca\", \"At eleven o'clock\".",
+      "passage": "Sara works in an office. Every day, she uses a computer and a phone. She writes ten emails in the morning. At eleven o'clock, she has a meeting with her boss, Luca. She likes the job because it is never boring. It is a busy place, but everybody helps each other.",
+      "statements": [
+        {
+          "text": "Sara writes twelve emails in the morning.",
+          "answer": false
+        },
+        {
+          "text": "The boss is Luca.",
+          "answer": true
+        },
+        {
+          "text": "The meeting is at eleven o'clock.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-193",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are three shops in the main street\", \"lives in a small town\", \"The station is next to the market\".",
+      "passage": "Jack lives in a small town. In the town there is a station, a market and a museum. The station is next to the market. The cinema is in front of the library. There are three shops in the main street. Everybody in the town knows Jack. The streets are clean and the people are kind.",
+      "statements": [
+        {
+          "text": "There are four shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "Jack lives in a small town.",
+          "answer": true
+        },
+        {
+          "text": "The station is next to the market.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-194",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"in his room\", \"favourite hobby is cooking\", \"Every Saturday\".",
+      "passage": "Ali's favourite hobby is cooking. Every Saturday, he spends four hours on it in his room. He is never bored on that day. On Monday, he goes back to school. He wants to be better every week. His family likes to see the results.",
+      "statements": [
+        {
+          "text": "Ali does it in his kitchen.",
+          "answer": false
+        },
+        {
+          "text": "Ali's hobby is cooking.",
+          "answer": true
+        },
+        {
+          "text": "Ali does cooking on Sunday.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-195",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I have a parrot\", \"I live in Sydney\", \"There are five people in my family\".",
+      "passage": "My name is Amy. I am eleven years old and I live in Sydney. There are five people in my family: my father, my aunt, my uncle and my brother and me. I have a parrot. My favourite food is chicken. We are a happy family and we often play games together. I go to school every day and I love my friends.",
+      "statements": [
+        {
+          "text": "I have a parrot.",
+          "answer": true
+        },
+        {
+          "text": "I live in Tokyo.",
+          "answer": false
+        },
+        {
+          "text": "There are four people in my family.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-196",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"finishes at four o'clock\", \"works six days a week\", \"starts work at eight o'clock\".",
+      "passage": "Amy is a librarian. She works at the library and helps books. She starts work at eight o'clock and finishes at four o'clock. She works six days a week. She is tired in the evening, but happy. It is a hard job, but she likes it a lot.",
+      "statements": [
+        {
+          "text": "Amy finishes work at six o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Amy works three days a week.",
+          "answer": false
+        },
+        {
+          "text": "Amy starts work at eight o'clock.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-197",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"for five days\", \"in September\", \"travels by bus\".",
+      "passage": "Sara goes to Turkey in September. She travels by bus. She stays in a tent for five days. Every day she goes to the beach and takes photos. The sea is warm and the people are friendly. It is a beautiful trip and she is very happy.",
+      "statements": [
+        {
+          "text": "Sara stays for eight days.",
+          "answer": false
+        },
+        {
+          "text": "The holiday is in September.",
+          "answer": true
+        },
+        {
+          "text": "Sara travels by bus.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-198",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are nine plants on the shelf\", \"bedroom is big\", \"The walls are pink\".",
+      "passage": "Alice's bedroom is big. The walls are pink. There is a bed next to the window. There are nine plants on the shelf. She sleeps in this room every night. It is a quiet and comfortable place. She loves the room because it is warm and bright.",
+      "statements": [
+        {
+          "text": "There are eight plants on the shelf.",
+          "answer": false
+        },
+        {
+          "text": "The bedroom is small.",
+          "answer": false
+        },
+        {
+          "text": "The walls in the bedroom are pink.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-199",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives in farms\", \"it is brown\", \"has four legs\".",
+      "passage": "A horse is a farm animal. It lives in farms. It eats grass. It has four legs and it is brown. Many people love to see this animal in a book, in a film or at the zoo. Scientists study this animal to learn more. Children often ask many questions about it.",
+      "statements": [
+        {
+          "text": "The horse lives in farms.",
+          "answer": true
+        },
+        {
+          "text": "The horse is grey.",
+          "answer": false
+        },
+        {
+          "text": "The horse has four legs.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-200",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"On Thursday\", \"has a toothache\", \"drink a lot of water\".",
+      "passage": "Leo has a toothache. On Thursday, he goes to the doctor. The doctor says: stay in bed for five days and drink a lot of water. Leo stays at home and takes some medicine. His friends call him every day. He wants to feel better soon.",
+      "statements": [
+        {
+          "text": "Leo goes to the doctor on Tuesday.",
+          "answer": false
+        },
+        {
+          "text": "Leo has a toothache.",
+          "answer": true
+        },
+        {
+          "text": "The doctor says to drink water.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-201",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"writes six emails\", \"At two o'clock\", \"uses a computer\".",
+      "passage": "Ruby works in an office. Every day, she uses a computer and a phone. She writes six emails in the morning. At two o'clock, she has a meeting with her boss, Zoe. She likes the job because it is never boring. The office is big and quiet, and her colleagues are nice.",
+      "statements": [
+        {
+          "text": "Ruby writes eight emails in the morning.",
+          "answer": false
+        },
+        {
+          "text": "The meeting is at two o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Ruby uses a computer at work.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-202",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lunch at one o'clock\", \"favourite subject is geography\", \"has history and music\".",
+      "passage": "Victor is a student. On Friday, he has five lessons. His favourite subject is geography. He has lunch at one o'clock. After lunch, he has history and music. He always does his homework in the evening. He likes school and has many good friends there.",
+      "statements": [
+        {
+          "text": "Victor has lunch at two o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Victor's favourite subject is English.",
+          "answer": false
+        },
+        {
+          "text": "Victor has history after lunch.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-203",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"At eleven o'clock\", \"boss, Leo\", \"uses a laptop\".",
+      "passage": "Dan works in an office. Every day, he uses a laptop and a phone. He writes eleven emails in the morning. At eleven o'clock, he has a meeting with his boss, Leo. It is a busy place, but everybody helps each other. The office is big and quiet, and his colleagues are nice.",
+      "statements": [
+        {
+          "text": "The meeting is at three o'clock.",
+          "answer": false
+        },
+        {
+          "text": "The boss is Hana.",
+          "answer": false
+        },
+        {
+          "text": "Dan uses a laptop at work.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-204",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"bedroom is big\", \"He sleeps in this room\", \"There are six pictures on the shelf\".",
+      "passage": "Leo's bedroom is big. The walls are yellow. There is a bed next to the window. There are six pictures on the shelf. He sleeps in this room every night. He often reads there before going to sleep. He loves the room because it is warm and bright.",
+      "statements": [
+        {
+          "text": "The bedroom is big.",
+          "answer": true
+        },
+        {
+          "text": "Leo sleeps in the kitchen.",
+          "answer": false
+        },
+        {
+          "text": "There are five pictures on the shelf.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-205",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"goes to Greece\", \"travels by plane\", \"for eight days\".",
+      "passage": "Joe goes to Greece in August. He travels by plane. He stays in a hotel for eight days. Every day he goes to the beach and takes photos. The weather is good and he sleeps well. The sea is warm and the people are friendly.",
+      "statements": [
+        {
+          "text": "Joe goes to Turkey.",
+          "answer": false
+        },
+        {
+          "text": "Joe travels by plane.",
+          "answer": true
+        },
+        {
+          "text": "Joe stays for eight days.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-206",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"recycles paper\", \"with his sister\", \"Every summer\".",
+      "passage": "Adam lives near a river. Every summer, he walks there with his sister. He loves nature and puts all the rubbish in the bin. At home, he recycles paper every week. The air is clean and the water is clear. He says that nature is a gift for everybody.",
+      "statements": [
+        {
+          "text": "Adam recycles plastic.",
+          "answer": false
+        },
+        {
+          "text": "Adam walks with his sister.",
+          "answer": true
+        },
+        {
+          "text": "Adam walks there in spring.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-207",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"At three o'clock\", \"boss, Sam\", \"uses a laptop\".",
+      "passage": "Max works in an office. Every day, he uses a laptop and a phone. He writes nine emails in the morning. At three o'clock, he has a meeting with his boss, Sam. The office is big and quiet, and his colleagues are nice. It is a busy place, but everybody helps each other.",
+      "statements": [
+        {
+          "text": "The meeting is at ten o'clock.",
+          "answer": false
+        },
+        {
+          "text": "The boss is Nina.",
+          "answer": false
+        },
+        {
+          "text": "Max uses a laptop at work.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-208",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"goes to Egypt\", \"for seven days\", \"travels by plane\".",
+      "passage": "Ella goes to Egypt in June. She travels by plane. She stays in a tent for seven days. Every day she goes to the beach and takes photos. The sea is warm and the people are friendly. The weather is good and she sleeps well.",
+      "statements": [
+        {
+          "text": "Ella goes to Turkey.",
+          "answer": false
+        },
+        {
+          "text": "Ella stays for seven days.",
+          "answer": true
+        },
+        {
+          "text": "Ella travels by plane.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-209",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"Sofia is twelve\", \"goes to bed at half past nine\", \"goes to school by bike\".",
+      "passage": "Sofia is twelve. She gets up at half past eight and has bread and jam for breakfast. She goes to school by bike. In the evening she reads a book. She goes to bed at half past nine. It is a busy day, but she is always happy. She has many friends and likes her class.",
+      "statements": [
+        {
+          "text": "Sofia is thirteen.",
+          "answer": false
+        },
+        {
+          "text": "Sofia goes to bed at nine o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Sofia goes to school by bike.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-210",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"Every Sunday\", \"in his room\", \"two hours\".",
+      "passage": "Peter's favourite hobby is dancing. Every Sunday, he spends two hours on it in his room. He is never bored on that day. On Monday, he goes back to school. He wants to be better every week. It makes him feel calm and happy.",
+      "statements": [
+        {
+          "text": "Peter does dancing on Sunday.",
+          "answer": true
+        },
+        {
+          "text": "Peter does it in his kitchen.",
+          "answer": false
+        },
+        {
+          "text": "Peter spends two hours on it.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-211",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"for nine days\", \"in June\", \"goes to Greece\".",
+      "passage": "Ella goes to Greece in June. She travels by train. She stays in a tent for nine days. Every day she goes to the beach and takes photos. The sea is warm and the people are friendly. The weather is good and she sleeps well.",
+      "statements": [
+        {
+          "text": "Ella stays for twelve days.",
+          "answer": false
+        },
+        {
+          "text": "The holiday is in June.",
+          "answer": true
+        },
+        {
+          "text": "Ella goes to Greece.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-212",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"always drink juice\", \"always eat apple pie\", \"mother cooks chicken and potatoes\".",
+      "passage": "On Sunday, Julia's family has lunch at half past twelve. Her mother cooks chicken and potatoes. They always drink juice with lunch. After lunch they always eat apple pie. The kitchen is full of nice smells on that day. It is the best meal of the week for the whole family.",
+      "statements": [
+        {
+          "text": "They always drink water.",
+          "answer": false
+        },
+        {
+          "text": "They always eat ice cream after lunch.",
+          "answer": false
+        },
+        {
+          "text": "Her mother cooks chicken and potatoes.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-213",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"loves hockey\", \"at the sports centre\", \"with three friends\".",
+      "passage": "Ella loves hockey. She plays hockey on Saturday and Thursday at the sports centre. She plays with three friends. They always have fun and then eat ice cream. The players are friendly and the coach is kind. It is a great way to stay strong.",
+      "statements": [
+        {
+          "text": "Ella loves hockey.",
+          "answer": true
+        },
+        {
+          "text": "Ella does this at the park.",
+          "answer": false
+        },
+        {
+          "text": "Ella does it with five friends.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-214",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"starts work at nine o'clock\", \"works five days a week\", \"is a waiter\".",
+      "passage": "Dan is a waiter. He works at the restaurant and helps tables. He starts work at nine o'clock and finishes at six o'clock. He works five days a week. His colleagues are friendly and helpful. It is a hard job, but he likes it a lot.",
+      "statements": [
+        {
+          "text": "Dan starts work at nine o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Dan works six days a week.",
+          "answer": false
+        },
+        {
+          "text": "Dan is a waiter.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-215",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"goes to Portugal\", \"in July\", \"for ten days\".",
+      "passage": "Leo goes to Portugal in July. He travels by bus. He stays in a small flat for ten days. Every day he goes to the beach and takes photos. It is a beautiful trip and he is very happy. The sea is warm and the people are friendly.",
+      "statements": [
+        {
+          "text": "Leo goes to Portugal.",
+          "answer": true
+        },
+        {
+          "text": "The holiday is in August.",
+          "answer": false
+        },
+        {
+          "text": "Leo stays for ten days.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-216",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"in June\", \"travels by car\", \"goes to Greece\".",
+      "passage": "Lea goes to Greece in June. She travels by car. She stays in a tent for six days. Every day she goes to the beach and takes photos. It is a beautiful trip and she is very happy. The weather is good and she sleeps well.",
+      "statements": [
+        {
+          "text": "The holiday is in July.",
+          "answer": false
+        },
+        {
+          "text": "Lea travels by train.",
+          "answer": false
+        },
+        {
+          "text": "Lea goes to Greece.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-217",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"four hours\", \"in her room\", \"favourite hobby is singing\".",
+      "passage": "Lea's favourite hobby is singing. Every Saturday, she spends four hours on it in her room. She is never bored on that day. On Monday, she goes back to school. Her family likes to see the results. It makes her feel calm and happy.",
+      "statements": [
+        {
+          "text": "Lea spends six hours on it.",
+          "answer": false
+        },
+        {
+          "text": "Lea does it in her kitchen.",
+          "answer": false
+        },
+        {
+          "text": "Lea's hobby is singing.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-218",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives near a lake\", \"recycles plastic\", \"Every summer\".",
+      "passage": "Vera lives near a lake. Every summer, she walks there with her brother. She loves nature and puts all the rubbish in the bin. At home, she recycles plastic every week. She says that nature is a gift for everybody. It is a quiet and beautiful place.",
+      "statements": [
+        {
+          "text": "Vera lives near a lake.",
+          "answer": true
+        },
+        {
+          "text": "Vera recycles glass.",
+          "answer": false
+        },
+        {
+          "text": "Vera walks there in spring.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-219",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has eight legs\", \"It eats crabs\", \"it is red\".",
+      "passage": "An octopus is a sea animal. It lives in the sea. It eats crabs. It has eight legs and it is red. Many people love to see this animal in a book, in a film or at the zoo. Scientists study this animal to learn more. It is an interesting animal.",
+      "statements": [
+        {
+          "text": "The octopus has eight legs.",
+          "answer": true
+        },
+        {
+          "text": "The octopus eats insects.",
+          "answer": false
+        },
+        {
+          "text": "The octopus is red.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-220",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with five friends\", \"on Saturday and Thursday\", \"loves tennis\".",
+      "passage": "Oscar loves tennis. He plays tennis on Saturday and Thursday at the sports centre. He plays with five friends. They always have fun and then eat ice cream. He is tired after the game, but very happy. The players are friendly and the coach is kind.",
+      "statements": [
+        {
+          "text": "Oscar does it with five friends.",
+          "answer": true
+        },
+        {
+          "text": "Oscar does this on Sunday.",
+          "answer": false
+        },
+        {
+          "text": "Oscar loves volleyball.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-221",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"goes to bed at ten o'clock\", \"goes to school by train\", \"She gets up at half past seven\".",
+      "passage": "Ella is eight. She gets up at half past seven and has bread and jam for breakfast. She goes to school by train. In the evening she watches TV. She goes to bed at ten o'clock. She has many friends and likes her class. She loves school and her teachers are very kind.",
+      "statements": [
+        {
+          "text": "Ella goes to bed at ten o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Ella goes to school by bike.",
+          "answer": false
+        },
+        {
+          "text": "Ella gets up at half past seven.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-222",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"it is orange\", \"It eats meat\", \"has four legs\".",
+      "passage": "A tiger is a wild cat. It lives in Asia. It eats meat. It has four legs and it is orange. Many people love to see this animal in a book, in a film or at the zoo. Children often ask many questions about it. It is an interesting animal.",
+      "statements": [
+        {
+          "text": "The tiger is orange.",
+          "answer": true
+        },
+        {
+          "text": "The tiger eats meat.",
+          "answer": true
+        },
+        {
+          "text": "The tiger has eight legs.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-223",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"in September\", \"goes to Turkey\", \"travels by car\".",
+      "passage": "Oscar goes to Turkey in September. He travels by car. He stays in a tent for four days. Every day he goes to the beach and takes photos. It is a beautiful trip and he is very happy. The weather is good and he sleeps well.",
+      "statements": [
+        {
+          "text": "The holiday is in July.",
+          "answer": false
+        },
+        {
+          "text": "Oscar goes to Turkey.",
+          "answer": true
+        },
+        {
+          "text": "Oscar travels by car.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-224",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"starts work at nine o'clock\", \"is a mechanic\", \"finishes at four o'clock\".",
+      "passage": "Mark is a mechanic. He works at the garage and helps cars. He starts work at nine o'clock and finishes at four o'clock. He works six days a week. It is a hard job, but he likes it a lot. He is tired in the evening, but happy.",
+      "statements": [
+        {
+          "text": "Mark starts work at seven o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Mark is a mechanic.",
+          "answer": true
+        },
+        {
+          "text": "Mark finishes work at four o'clock.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-225",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am thirteen years old\", \"I have a cat\", \"There are five people in my family\".",
+      "passage": "My name is Yuki. I am thirteen years old and I live in Toronto. There are five people in my family: my uncle, my brother, my grandmother and my grandfather and me. I have a cat. My favourite food is soup. My room is small, but I like it a lot. We are a happy family and we often play games together.",
+      "statements": [
+        {
+          "text": "I am fourteen years old.",
+          "answer": false
+        },
+        {
+          "text": "I have a dog.",
+          "answer": false
+        },
+        {
+          "text": "There are five people in my family.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-226",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"favourite subject is history\", \"has PE and geography\", \"has five lessons\".",
+      "passage": "Jack is a student. On Friday, he has five lessons. His favourite subject is history. He has lunch at one o'clock. After lunch, he has PE and geography. The teachers are kind and the classes are interesting. He always does his homework in the evening.",
+      "statements": [
+        {
+          "text": "Jack's favourite subject is history.",
+          "answer": true
+        },
+        {
+          "text": "Jack has maths after lunch.",
+          "answer": false
+        },
+        {
+          "text": "Jack has six lessons on Friday.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-227",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives near a beach\", \"with his brother\", \"recycles plastic\".",
+      "passage": "Pablo lives near a beach. Every summer, he walks there with his brother. He loves nature and puts all the rubbish in the bin. At home, he recycles plastic every week. The air is clean and the water is clear. He says that nature is a gift for everybody.",
+      "statements": [
+        {
+          "text": "Pablo lives near a beach.",
+          "answer": true
+        },
+        {
+          "text": "Pablo walks with his sister.",
+          "answer": false
+        },
+        {
+          "text": "Pablo recycles plastic.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-228",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with his brother\", \"Every autumn\", \"recycles glass\".",
+      "passage": "Ian lives near a beach. Every autumn, he walks there with his brother. He loves nature and puts all the rubbish in the bin. At home, he recycles glass every week. He says that nature is a gift for everybody. It is a quiet and beautiful place.",
+      "statements": [
+        {
+          "text": "Ian walks with his sister.",
+          "answer": false
+        },
+        {
+          "text": "Ian walks there in autumn.",
+          "answer": true
+        },
+        {
+          "text": "Ian recycles plastic.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-229",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The museum is next to the hospital\", \"lives in a small town\", \"There are eight shops in the main street\".",
+      "passage": "Dan lives in a small town. In the town there is a museum, a hospital and a bank. The museum is next to the hospital. The market is in front of the park. There are eight shops in the main street. It is a quiet and friendly place. Everybody in the town knows Dan.",
+      "statements": [
+        {
+          "text": "The museum is far from the hospital.",
+          "answer": false
+        },
+        {
+          "text": "Dan lives in a small town.",
+          "answer": true
+        },
+        {
+          "text": "There are eight shops in the main street.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-230",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"People wear boots\", \"likes autumn very much\", \"autumn is cool\".",
+      "passage": "In Dublin, autumn is cool and windy. People wear boots. Anna lives in Dublin and likes autumn very much. She goes out every day, even when the weather is bad. The weather changes a lot during the year. The streets are full of people all day.",
+      "statements": [
+        {
+          "text": "In autumn, people wear a light jacket.",
+          "answer": false
+        },
+        {
+          "text": "Anna likes winter.",
+          "answer": false
+        },
+        {
+          "text": "In Dublin, autumn is cool.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-231",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with four friends\", \"loves tennis\", \"at the sports centre\".",
+      "passage": "Tom loves tennis. He plays tennis on Tuesday and Thursday at the sports centre. He plays with four friends. They always have fun and then eat ice cream. The players are friendly and the coach is kind. It is a great way to stay strong.",
+      "statements": [
+        {
+          "text": "Tom does it with four friends.",
+          "answer": true
+        },
+        {
+          "text": "Tom loves swimming.",
+          "answer": false
+        },
+        {
+          "text": "Tom does this at the sports centre.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-232",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"on Friday and Monday\", \"with four friends\", \"loves tennis\".",
+      "passage": "Nina loves tennis. She plays tennis on Friday and Monday at the park. She plays with four friends. They always have fun and then eat ice cream. The players are friendly and the coach is kind. She is tired after the game, but very happy.",
+      "statements": [
+        {
+          "text": "Nina does this on Friday.",
+          "answer": true
+        },
+        {
+          "text": "Nina does it with six friends.",
+          "answer": false
+        },
+        {
+          "text": "Nina loves tennis.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-233",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"writes nine emails\", \"At two o'clock\", \"boss, Victor\".",
+      "passage": "Max works in an office. Every day, he uses a tablet and a phone. He writes nine emails in the morning. At two o'clock, he has a meeting with his boss, Victor. The office is big and quiet, and his colleagues are nice. He likes the job because it is never boring.",
+      "statements": [
+        {
+          "text": "Max writes eleven emails in the morning.",
+          "answer": false
+        },
+        {
+          "text": "The meeting is at two o'clock.",
+          "answer": true
+        },
+        {
+          "text": "The boss is Omar.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-234",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"goes to bed at half past nine\", \"goes to school by bike\", \"Alice is fifteen\".",
+      "passage": "Alice is fifteen. She gets up at half past eight and has a banana for breakfast. She goes to school by bike. In the evening she watches TV. She goes to bed at half past nine. It is a busy day, but she is always happy. She has many friends and likes her class.",
+      "statements": [
+        {
+          "text": "Alice goes to bed at half past nine.",
+          "answer": true
+        },
+        {
+          "text": "Alice goes to school by car.",
+          "answer": false
+        },
+        {
+          "text": "Alice is fifteen.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-235",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"stay in bed for three days\", \"has a fever\", \"On Friday\".",
+      "passage": "Iris has a fever. On Friday, she goes to the doctor. The doctor says: stay in bed for three days and drink a lot of juice. Iris stays at home and takes some medicine. She wants to feel better soon. Her mother looks after her and makes some soup.",
+      "statements": [
+        {
+          "text": "Iris must stay in bed for five days.",
+          "answer": false
+        },
+        {
+          "text": "Iris has a toothache.",
+          "answer": false
+        },
+        {
+          "text": "Iris goes to the doctor on Friday.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-236",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"a blue one\", \"costs fifteen euros\", \"with her mother\".",
+      "passage": "On Sunday, Ella goes to the shopping centre with her mother. She wants a new shirt. She finds a blue one in a small shop. It costs fifteen euros. She buys it and is very happy. The streets are busy and the sun is bright. It is a long day, but she enjoys every minute.",
+      "statements": [
+        {
+          "text": "Ella buys a blue shirt.",
+          "answer": true
+        },
+        {
+          "text": "It costs 20 euros.",
+          "answer": false
+        },
+        {
+          "text": "Ella goes with her father.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-237",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"in her kitchen\", \"favourite hobby is dancing\", \"five hours\".",
+      "passage": "Laura's favourite hobby is dancing. Every Sunday, she spends five hours on it in her kitchen. She is never bored on that day. On Monday, she goes back to school. She wants to be better every week. It makes her feel calm and happy.",
+      "statements": [
+        {
+          "text": "Laura does it in her kitchen.",
+          "answer": true
+        },
+        {
+          "text": "Laura's hobby is reading.",
+          "answer": false
+        },
+        {
+          "text": "Laura spends five hours on it.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-238",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"recycles plastic\", \"Every summer\", \"with her friend\".",
+      "passage": "Sofia lives near a beach. Every summer, she walks there with her friend. She loves nature and puts all the rubbish in the bin. At home, she recycles plastic every week. It is a quiet and beautiful place. The air is clean and the water is clear.",
+      "statements": [
+        {
+          "text": "Sofia recycles plastic.",
+          "answer": true
+        },
+        {
+          "text": "Sofia walks there in autumn.",
+          "answer": false
+        },
+        {
+          "text": "Sofia walks with her friend.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-239",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"On Friday\", \"stay in bed for five days\", \"has a toothache\".",
+      "passage": "Emma has a toothache. On Friday, she goes to the doctor. The doctor says: stay in bed for five days and drink a lot of water. Emma stays at home and takes some medicine. Her mother looks after her and makes some soup. She wants to feel better soon.",
+      "statements": [
+        {
+          "text": "Emma goes to the doctor on Monday.",
+          "answer": false
+        },
+        {
+          "text": "Emma must stay in bed for five days.",
+          "answer": true
+        },
+        {
+          "text": "Emma has a fever.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-240",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am nine years old\", \"My favourite food is soup\", \"I have a parrot\".",
+      "passage": "My name is Max. I am nine years old and I live in Athens. There are five people in my family: my father, my brother, my aunt and my grandfather and me. I have a parrot. My favourite food is soup. My room is small, but I like it a lot. I go to school every day and I love my friends.",
+      "statements": [
+        {
+          "text": "I am nine years old.",
+          "answer": true
+        },
+        {
+          "text": "My favourite food is fish.",
+          "answer": false
+        },
+        {
+          "text": "I have a cat.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-241",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"loves tennis\", \"on Tuesday and Saturday\", \"with four friends\".",
+      "passage": "Ian loves tennis. He plays tennis on Tuesday and Saturday at the park. He plays with four friends. They always have fun and then eat ice cream. The players are friendly and the coach is kind. It is a great way to stay strong.",
+      "statements": [
+        {
+          "text": "Ian loves tennis.",
+          "answer": true
+        },
+        {
+          "text": "Ian does this on Sunday.",
+          "answer": false
+        },
+        {
+          "text": "Ian does it with four friends.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-242",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"On Friday\", \"costs 30 euros\", \"with his mother\".",
+      "passage": "On Friday, Sam goes to the shopping centre with his mother. He wants a new jacket. He finds a blue one in a small shop. It costs 30 euros. He buys it and is very happy. It is a long day, but he enjoys every minute. The streets are busy and the sun is bright.",
+      "statements": [
+        {
+          "text": "Sam goes shopping on Saturday.",
+          "answer": false
+        },
+        {
+          "text": "It costs 30 euros.",
+          "answer": true
+        },
+        {
+          "text": "Sam goes with his mother.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-243",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"works four days a week\", \"finishes at four o'clock\", \"is a driver\".",
+      "passage": "Sofia is a driver. She works at the bus and helps passengers. She starts work at eight o'clock and finishes at four o'clock. She works four days a week. It is a hard job, but she likes it a lot. She is tired in the evening, but happy.",
+      "statements": [
+        {
+          "text": "Sofia works four days a week.",
+          "answer": true
+        },
+        {
+          "text": "Sofia finishes work at four o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Sofia is a cook.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-244",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has two legs\", \"lives in lakes\", \"It eats bread and grass\".",
+      "passage": "A duck is a bird. It lives in lakes. It eats bread and grass. It has two legs and it is white. Many people love to see this animal in a book, in a film or at the zoo. Scientists study this animal to learn more. It is an interesting animal.",
+      "statements": [
+        {
+          "text": "The duck has four legs.",
+          "answer": false
+        },
+        {
+          "text": "The duck lives in lakes.",
+          "answer": true
+        },
+        {
+          "text": "The duck eats bread and grass.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-245",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has a fever\", \"drink a lot of tea\", \"stay in bed for three days\".",
+      "passage": "Lea has a fever. On Monday, she goes to the doctor. The doctor says: stay in bed for three days and drink a lot of tea. Lea stays at home and takes some medicine. She wants to feel better soon. Her friends call her every day.",
+      "statements": [
+        {
+          "text": "Lea has a headache.",
+          "answer": false
+        },
+        {
+          "text": "The doctor says to drink juice.",
+          "answer": false
+        },
+        {
+          "text": "Lea must stay in bed for three days.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-246",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"on Thursday and Monday\", \"loves swimming\", \"with four friends\".",
+      "passage": "Mia loves swimming. She goes swimming on Thursday and Monday at the park. She swims with four friends. They always have fun and then eat ice cream. It is a great way to stay strong. She is tired after the game, but very happy.",
+      "statements": [
+        {
+          "text": "Mia does this on Sunday.",
+          "answer": false
+        },
+        {
+          "text": "Mia loves swimming.",
+          "answer": true
+        },
+        {
+          "text": "Mia does it with four friends.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-247",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are five plants on the shelf\", \"bedroom is small\", \"He sleeps in this room\".",
+      "passage": "Sean's bedroom is small. The walls are orange. There is a bed next to the window. There are five plants on the shelf. He sleeps in this room every night. He loves the room because it is warm and bright. It is a quiet and comfortable place.",
+      "statements": [
+        {
+          "text": "There are five plants on the shelf.",
+          "answer": true
+        },
+        {
+          "text": "The bedroom is big.",
+          "answer": false
+        },
+        {
+          "text": "Sean sleeps in the kitchen.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-248",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"goes to bed at eight o'clock\", \"He gets up at half past six\", \"Ravi is eight\".",
+      "passage": "Ravi is eight. He gets up at half past six and has bread and jam for breakfast. He goes to school by bus. In the evening he plays games. He goes to bed at eight o'clock. It is a busy day, but he is always happy. He has many friends and likes his class.",
+      "statements": [
+        {
+          "text": "Ravi goes to bed at half past eight.",
+          "answer": false
+        },
+        {
+          "text": "Ravi gets up at half past eight.",
+          "answer": false
+        },
+        {
+          "text": "Ravi is eight.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-249",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"four hours\", \"in his kitchen\", \"Every Saturday\".",
+      "passage": "Mark's favourite hobby is fishing. Every Saturday, he spends four hours on it in his kitchen. He is never bored on that day. On Monday, he goes back to school. He wants to be better every week. It makes him feel calm and happy.",
+      "statements": [
+        {
+          "text": "Mark spends four hours on it.",
+          "answer": true
+        },
+        {
+          "text": "Mark does it in his garden.",
+          "answer": false
+        },
+        {
+          "text": "Mark does fishing on Sunday.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-250",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with his mother\", \"On Saturday\", \"costs ten euros\".",
+      "passage": "On Saturday, Pablo goes to the shopping centre with his mother. He wants a new jacket. He finds a blue one in a small shop. It costs ten euros. He buys it and is very happy. The streets are busy and the sun is bright. There are many people and many beautiful things.",
+      "statements": [
+        {
+          "text": "Pablo goes with his father.",
+          "answer": false
+        },
+        {
+          "text": "Pablo goes shopping on Saturday.",
+          "answer": true
+        },
+        {
+          "text": "It costs 20 euros.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-251",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"always eat cake\", \"always drink water\", \"grandfather cooks pizza\".",
+      "passage": "On Sunday, Sean's family has lunch at half past twelve. His grandfather cooks pizza. They always drink water with lunch. After lunch they always eat cake. It is the best meal of the week for the whole family. The kitchen is full of nice smells on that day.",
+      "statements": [
+        {
+          "text": "They always eat fruit after lunch.",
+          "answer": false
+        },
+        {
+          "text": "They always drink juice.",
+          "answer": false
+        },
+        {
+          "text": "His grandfather cooks pizza.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-252",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"People wear a light jacket\", \"spring is warm\", \"lives in Berlin\".",
+      "passage": "In Berlin, spring is warm and rainy. People wear a light jacket. Sara lives in Berlin and likes spring very much. She goes out every day, even when the weather is bad. The streets are full of people all day. The weather changes a lot during the year.",
+      "statements": [
+        {
+          "text": "In spring, people wear a light jacket.",
+          "answer": true
+        },
+        {
+          "text": "In Berlin, spring is warm.",
+          "answer": true
+        },
+        {
+          "text": "Sara lives in Dublin.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-253",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The park is in front of the bank\", \"There are eight shops in the main street\", \"The market is next to the hospital\".",
+      "passage": "Kate lives in a small town. In the town there is a market, a hospital and a museum. The market is next to the hospital. The park is in front of the bank. There are eight shops in the main street. It is a quiet and friendly place. The streets are clean and the people are kind.",
+      "statements": [
+        {
+          "text": "The park is behind the bank.",
+          "answer": false
+        },
+        {
+          "text": "There are eight shops in the main street.",
+          "answer": true
+        },
+        {
+          "text": "The market is far from the hospital.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-254",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"boss, Pablo\", \"At ten o'clock\", \"writes eleven emails\".",
+      "passage": "Karl works in an office. Every day, he uses a computer and a phone. He writes eleven emails in the morning. At ten o'clock, he has a meeting with his boss, Pablo. It is a busy place, but everybody helps each other. He likes the job because it is never boring.",
+      "statements": [
+        {
+          "text": "The boss is Hugo.",
+          "answer": false
+        },
+        {
+          "text": "The meeting is at ten o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Karl writes thirteen emails in the morning.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-255",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"costs twenty euros\", \"with his mother\", \"On Saturday\".",
+      "passage": "On Saturday, Leo goes to the shopping centre with his mother. He wants a new shirt. He finds a blue one in a small shop. It costs twenty euros. He buys it and is very happy. The streets are busy and the sun is bright. It is a long day, but he enjoys every minute.",
+      "statements": [
+        {
+          "text": "It costs 30 euros.",
+          "answer": false
+        },
+        {
+          "text": "Leo goes with his father.",
+          "answer": false
+        },
+        {
+          "text": "Leo goes shopping on Saturday.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-256",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"boss, Amy\", \"writes eleven emails\", \"uses a computer\".",
+      "passage": "Lea works in an office. Every day, she uses a computer and a phone. She writes eleven emails in the morning. At ten o'clock, she has a meeting with her boss, Amy. It is a busy place, but everybody helps each other. The office is big and quiet, and her colleagues are nice.",
+      "statements": [
+        {
+          "text": "The boss is Amy.",
+          "answer": true
+        },
+        {
+          "text": "Lea writes eleven emails in the morning.",
+          "answer": true
+        },
+        {
+          "text": "Lea uses a laptop at work.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-257",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"works six days a week\", \"starts work at nine o'clock\", \"finishes at six o'clock\".",
+      "passage": "Iris is a mechanic. She works at the garage and helps cars. She starts work at nine o'clock and finishes at six o'clock. She works six days a week. Her colleagues are friendly and helpful. She is tired in the evening, but happy.",
+      "statements": [
+        {
+          "text": "Iris works three days a week.",
+          "answer": false
+        },
+        {
+          "text": "Iris starts work at nine o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Iris finishes work at six o'clock.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-258",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"invites eight friends\", \"is eleven today\", \"a big chocolate cake\".",
+      "passage": "Amy's birthday is in October. She is eleven today. She invites eight friends to the party. They eat a big chocolate cake and play games in the garden. Everybody sings and dances, and the afternoon is full of fun. The garden is full of balloons and music.",
+      "statements": [
+        {
+          "text": "Amy invites eight friends.",
+          "answer": true
+        },
+        {
+          "text": "Amy is twelve today.",
+          "answer": false
+        },
+        {
+          "text": "The cake is a lemon cake.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-259",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"a blue one\", \"with his mother\", \"On Saturday\".",
+      "passage": "On Saturday, Mark goes to the shopping centre with his mother. He wants a new pair of shoes. He finds a blue one in a small shop. It costs twenty euros. He buys it and is very happy. The streets are busy and the sun is bright. There are many people and many beautiful things.",
+      "statements": [
+        {
+          "text": "Mark buys a blue pair of shoes.",
+          "answer": true
+        },
+        {
+          "text": "Mark goes with his father.",
+          "answer": false
+        },
+        {
+          "text": "Mark goes shopping on Saturday.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-260",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"recycles plastic\", \"with his dog\", \"lives near a beach\".",
+      "passage": "Ali lives near a beach. Every autumn, he walks there with his dog. He loves nature and puts all the rubbish in the bin. At home, he recycles plastic every week. It is a quiet and beautiful place. He says that nature is a gift for everybody.",
+      "statements": [
+        {
+          "text": "Ali recycles plastic.",
+          "answer": true
+        },
+        {
+          "text": "Ali walks with his sister.",
+          "answer": false
+        },
+        {
+          "text": "Ali lives near a beach.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-261",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"boss, Felix\", \"uses a tablet\", \"writes three emails\".",
+      "passage": "Ian works in an office. Every day, he uses a tablet and a phone. He writes three emails in the morning. At ten o'clock, he has a meeting with his boss, Felix. He likes the job because it is never boring. The office is big and quiet, and his colleagues are nice.",
+      "statements": [
+        {
+          "text": "The boss is Sofia.",
+          "answer": false
+        },
+        {
+          "text": "Ian uses a tablet at work.",
+          "answer": true
+        },
+        {
+          "text": "Ian writes three emails in the morning.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-262",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are four people in my family\", \"I live in London\", \"I have a hamster\".",
+      "passage": "My name is Sara. I am eight years old and I live in London. There are four people in my family: my father, my aunt and my grandfather and me. I have a hamster. My favourite food is chicken. I go to school every day and I love my friends. My room is small, but I like it a lot.",
+      "statements": [
+        {
+          "text": "There are four people in my family.",
+          "answer": true
+        },
+        {
+          "text": "I live in Berlin.",
+          "answer": false
+        },
+        {
+          "text": "I have a goldfish.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-263",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with his dog\", \"Every summer\", \"lives near a mountain\".",
+      "passage": "Kenji lives near a mountain. Every summer, he walks there with his dog. He loves nature and puts all the rubbish in the bin. At home, he recycles paper every week. It is a quiet and beautiful place. The air is clean and the water is clear.",
+      "statements": [
+        {
+          "text": "Kenji walks with his dog.",
+          "answer": true
+        },
+        {
+          "text": "Kenji walks there in autumn.",
+          "answer": false
+        },
+        {
+          "text": "Kenji lives near a river.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-264",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"uses a computer\", \"At eleven o'clock\", \"boss, Ryan\".",
+      "passage": "Victor works in an office. Every day, he uses a computer and a phone. He writes nine emails in the morning. At eleven o'clock, he has a meeting with his boss, Ryan. He likes the job because it is never boring. The office is big and quiet, and his colleagues are nice.",
+      "statements": [
+        {
+          "text": "Victor uses a computer at work.",
+          "answer": true
+        },
+        {
+          "text": "The meeting is at two o'clock.",
+          "answer": false
+        },
+        {
+          "text": "The boss is Ryan.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-265",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"stay in bed for three days\", \"On Friday\", \"has a stomachache\".",
+      "passage": "Clara has a stomachache. On Friday, she goes to the doctor. The doctor says: stay in bed for three days and drink a lot of juice. Clara stays at home and takes some medicine. She wants to feel better soon. Her mother looks after her and makes some soup.",
+      "statements": [
+        {
+          "text": "Clara must stay in bed for three days.",
+          "answer": true
+        },
+        {
+          "text": "Clara goes to the doctor on Friday.",
+          "answer": true
+        },
+        {
+          "text": "Clara has a headache.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-266",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"At ten o'clock\", \"boss, Felix\", \"uses a laptop\".",
+      "passage": "Felix works in an office. Every day, he uses a laptop and a phone. He writes twelve emails in the morning. At ten o'clock, he has a meeting with his boss, Felix. He likes the job because it is never boring. The office is big and quiet, and his colleagues are nice.",
+      "statements": [
+        {
+          "text": "The meeting is at two o'clock.",
+          "answer": false
+        },
+        {
+          "text": "The boss is Felix.",
+          "answer": true
+        },
+        {
+          "text": "Felix uses a computer at work.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-267",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"a big banana cake\", \"is seven today\", \"invites eight friends\".",
+      "passage": "Mia's birthday is in May. She is seven today. She invites eight friends to the party. They eat a big banana cake and play games in the garden. The garden is full of balloons and music. All the children say it is a wonderful day.",
+      "statements": [
+        {
+          "text": "The cake is a lemon cake.",
+          "answer": false
+        },
+        {
+          "text": "Mia is seven today.",
+          "answer": true
+        },
+        {
+          "text": "Mia invites ten friends.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-268",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"likes spring very much\", \"spring is warm\", \"lives in London\".",
+      "passage": "In London, spring is warm and rainy. People wear a light jacket. Julia lives in London and likes spring very much. She goes out every day, even when the weather is bad. It is a good time to go out and see the city. The streets are full of people all day.",
+      "statements": [
+        {
+          "text": "Julia likes autumn.",
+          "answer": false
+        },
+        {
+          "text": "In London, spring is cold.",
+          "answer": false
+        },
+        {
+          "text": "Julia lives in London.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-269",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"favourite subject is English\", \"has six lessons\", \"lunch at twelve o'clock\".",
+      "passage": "Alice is a student. On Monday, she has six lessons. Her favourite subject is English. She has lunch at twelve o'clock. After lunch, she has maths and art. She likes school and has many good friends there. She always does her homework in the evening.",
+      "statements": [
+        {
+          "text": "Alice's favourite subject is English.",
+          "answer": true
+        },
+        {
+          "text": "Alice has seven lessons on Monday.",
+          "answer": false
+        },
+        {
+          "text": "Alice has lunch at two o'clock.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-270",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"writes five emails\", \"At two o'clock\", \"boss, Leo\".",
+      "passage": "Omar works in an office. Every day, he uses a tablet and a phone. He writes five emails in the morning. At two o'clock, he has a meeting with his boss, Leo. The office is big and quiet, and his colleagues are nice. It is a busy place, but everybody helps each other.",
+      "statements": [
+        {
+          "text": "Omar writes five emails in the morning.",
+          "answer": true
+        },
+        {
+          "text": "The meeting is at ten o'clock.",
+          "answer": false
+        },
+        {
+          "text": "The boss is Yuki.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-271",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has five lessons\", \"favourite subject is music\", \"has English and art\".",
+      "passage": "Victor is a student. On Tuesday, he has five lessons. His favourite subject is music. He has lunch at half past twelve. After lunch, he has English and art. He always does his homework in the evening. He likes school and has many good friends there.",
+      "statements": [
+        {
+          "text": "Victor has six lessons on Tuesday.",
+          "answer": false
+        },
+        {
+          "text": "Victor's favourite subject is English.",
+          "answer": false
+        },
+        {
+          "text": "Victor has English after lunch.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-272",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"four hours\", \"Every Saturday\", \"in his garden\".",
+      "passage": "Tom's favourite hobby is cooking. Every Saturday, he spends four hours on it in his garden. He is never bored on that day. On Monday, he goes back to school. He wants to be better every week. His family likes to see the results.",
+      "statements": [
+        {
+          "text": "Tom spends six hours on it.",
+          "answer": false
+        },
+        {
+          "text": "Tom does cooking on Saturday.",
+          "answer": true
+        },
+        {
+          "text": "Tom does it in his garden.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-273",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"five hours\", \"in his room\", \"favourite hobby is reading\".",
+      "passage": "Felix's favourite hobby is reading. Every Saturday, he spends five hours on it in his room. He is never bored on that day. On Monday, he goes back to school. He wants to be better every week. It makes him feel calm and happy.",
+      "statements": [
+        {
+          "text": "Felix spends seven hours on it.",
+          "answer": false
+        },
+        {
+          "text": "Felix does it in his room.",
+          "answer": true
+        },
+        {
+          "text": "Felix's hobby is reading.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-274",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives in Berlin\", \"likes summer very much\", \"summer is hot\".",
+      "passage": "In Berlin, summer is hot and sunny. People wear shorts. Noah lives in Berlin and likes summer very much. He goes out every day, even when the weather is bad. The streets are full of people all day. The weather changes a lot during the year.",
+      "statements": [
+        {
+          "text": "Noah lives in Rome.",
+          "answer": false
+        },
+        {
+          "text": "Noah likes summer.",
+          "answer": true
+        },
+        {
+          "text": "In Berlin, summer is hot.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-275",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The walls are purple\", \"There are nine toys on the shelf\", \"bedroom is big\".",
+      "passage": "Dan's bedroom is big. The walls are purple. There is a desk next to the window. There are nine toys on the shelf. He sleeps in this room every night. He often reads there before going to sleep. He loves the room because it is warm and bright.",
+      "statements": [
+        {
+          "text": "The walls in the bedroom are green.",
+          "answer": false
+        },
+        {
+          "text": "There are nine toys on the shelf.",
+          "answer": true
+        },
+        {
+          "text": "The bedroom is small.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-276",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"Every Saturday\", \"favourite hobby is painting\", \"five hours\".",
+      "passage": "Clara's favourite hobby is painting. Every Saturday, she spends five hours on it in her room. She is never bored on that day. On Monday, she goes back to school. It makes her feel calm and happy. She wants to be better every week.",
+      "statements": [
+        {
+          "text": "Clara does painting on Saturday.",
+          "answer": true
+        },
+        {
+          "text": "Clara's hobby is painting.",
+          "answer": true
+        },
+        {
+          "text": "Clara spends seven hours on it.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-277",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"in September\", \"travels by plane\", \"for nine days\".",
+      "passage": "Kenji goes to Turkey in September. He travels by plane. He stays in a tent for nine days. Every day he goes to the beach and takes photos. The weather is good and he sleeps well. It is a beautiful trip and he is very happy.",
+      "statements": [
+        {
+          "text": "The holiday is in September.",
+          "answer": true
+        },
+        {
+          "text": "Kenji travels by bus.",
+          "answer": false
+        },
+        {
+          "text": "Kenji stays for nine days.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-278",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The station is in front of the school\", \"lives in a small town\", \"The café is next to the park\".",
+      "passage": "Lina lives in a small town. In the town there is a café, a park and a bank. The café is next to the park. The station is in front of the school. There are seven shops in the main street. The streets are clean and the people are kind. It is a quiet and friendly place.",
+      "statements": [
+        {
+          "text": "The station is behind the school.",
+          "answer": false
+        },
+        {
+          "text": "Lina lives in a small town.",
+          "answer": true
+        },
+        {
+          "text": "The café is far from the park.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-279",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"travels by train\", \"for nine days\", \"in August\".",
+      "passage": "Anna goes to Turkey in August. She travels by train. She stays in a hotel for nine days. Every day she goes to the beach and takes photos. The weather is good and she sleeps well. The sea is warm and the people are friendly.",
+      "statements": [
+        {
+          "text": "Anna travels by bus.",
+          "answer": false
+        },
+        {
+          "text": "Anna stays for twelve days.",
+          "answer": false
+        },
+        {
+          "text": "The holiday is in August.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-280",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"three hours\", \"favourite hobby is cooking\", \"Every Sunday\".",
+      "passage": "Ella's favourite hobby is cooking. Every Sunday, she spends three hours on it in her garden. She is never bored on that day. On Monday, she goes back to school. It makes her feel calm and happy. Her family likes to see the results.",
+      "statements": [
+        {
+          "text": "Ella spends three hours on it.",
+          "answer": true
+        },
+        {
+          "text": "Ella's hobby is drawing.",
+          "answer": false
+        },
+        {
+          "text": "Ella does cooking on Sunday.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-281",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"always eat apple pie\", \"father cooks beef and carrots\", \"has lunch at two o'clock\".",
+      "passage": "On Sunday, Sam's family has lunch at two o'clock. His father cooks beef and carrots. They always drink milk with lunch. After lunch they always eat apple pie. Everybody talks and laughs at the table. It is the best meal of the week for the whole family.",
+      "statements": [
+        {
+          "text": "They always eat apple pie after lunch.",
+          "answer": true
+        },
+        {
+          "text": "His father cooks beef and carrots.",
+          "answer": true
+        },
+        {
+          "text": "The family has lunch at one o'clock.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-282",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"always eat apple pie\", \"always drink water\", \"mother cooks pasta with tomato sauce\".",
+      "passage": "On Sunday, Hana's family has lunch at twelve o'clock. Her mother cooks pasta with tomato sauce. They always drink water with lunch. After lunch they always eat apple pie. Everybody talks and laughs at the table. The kitchen is full of nice smells on that day.",
+      "statements": [
+        {
+          "text": "They always eat apple pie after lunch.",
+          "answer": true
+        },
+        {
+          "text": "They always drink milk.",
+          "answer": false
+        },
+        {
+          "text": "Her mother cooks chicken and potatoes.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-283",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are four books on the shelf\", \"The walls are orange\", \"bedroom is small\".",
+      "passage": "Ali's bedroom is small. The walls are orange. There is a sofa next to the window. There are four books on the shelf. He sleeps in this room every night. He loves the room because it is warm and bright. It is a quiet and comfortable place.",
+      "statements": [
+        {
+          "text": "There are six books on the shelf.",
+          "answer": false
+        },
+        {
+          "text": "The walls in the bedroom are orange.",
+          "answer": true
+        },
+        {
+          "text": "The bedroom is small.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-284",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives in a small town\", \"There are eight shops in the main street\", \"The library is in front of the school\".",
+      "passage": "Pablo lives in a small town. In the town there is a park, a hospital and a café. The park is next to the hospital. The library is in front of the school. There are eight shops in the main street. The streets are clean and the people are kind. Everybody in the town knows Pablo.",
+      "statements": [
+        {
+          "text": "Pablo lives in a small town.",
+          "answer": true
+        },
+        {
+          "text": "There are ten shops in the main street.",
+          "answer": false
+        },
+        {
+          "text": "The library is behind the school.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-285",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"travels by car\", \"in June\", \"goes to Spain\".",
+      "passage": "Ruby goes to Spain in June. She travels by car. She stays in a tent for ten days. Every day she goes to the beach and takes photos. It is a beautiful trip and she is very happy. The weather is good and she sleeps well.",
+      "statements": [
+        {
+          "text": "Ruby travels by train.",
+          "answer": false
+        },
+        {
+          "text": "The holiday is in June.",
+          "answer": true
+        },
+        {
+          "text": "Ruby goes to Greece.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-286",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"has a cough\", \"drink a lot of tea\", \"On Friday\".",
+      "passage": "Lucy has a cough. On Friday, she goes to the doctor. The doctor says: stay in bed for three days and drink a lot of tea. Lucy stays at home and takes some medicine. Her friends call her every day. She wants to feel better soon.",
+      "statements": [
+        {
+          "text": "Lucy has a cough.",
+          "answer": true
+        },
+        {
+          "text": "The doctor says to drink water.",
+          "answer": false
+        },
+        {
+          "text": "Lucy goes to the doctor on Monday.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-287",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"People wear a light jacket\", \"spring is warm\", \"lives in Athens\".",
+      "passage": "In Athens, spring is warm and rainy. People wear a light jacket. Maria lives in Athens and likes spring very much. She goes out every day, even when the weather is bad. It is a good time to go out and see the city. The streets are full of people all day.",
+      "statements": [
+        {
+          "text": "In spring, people wear shorts.",
+          "answer": false
+        },
+        {
+          "text": "In Athens, spring is warm.",
+          "answer": true
+        },
+        {
+          "text": "Maria lives in Berlin.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-288",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My favourite food is pasta\", \"I have a parrot\", \"There are three people in my family\".",
+      "passage": "My name is Lina. I am fourteen years old and I live in Dublin. There are three people in my family: my brother and my sister and me. I have a parrot. My favourite food is pasta. My room is small, but I like it a lot. We are a happy family and we often play games together.",
+      "statements": [
+        {
+          "text": "My favourite food is pasta.",
+          "answer": true
+        },
+        {
+          "text": "I have a goldfish.",
+          "answer": false
+        },
+        {
+          "text": "There are three people in my family.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-289",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives in London\", \"People wear boots\", \"autumn is cool\".",
+      "passage": "In London, autumn is cool and windy. People wear boots. Max lives in London and likes autumn very much. He goes out every day, even when the weather is bad. It is a good time to go out and see the city. The weather changes a lot during the year.",
+      "statements": [
+        {
+          "text": "Max lives in Tokyo.",
+          "answer": false
+        },
+        {
+          "text": "In autumn, people wear boots.",
+          "answer": true
+        },
+        {
+          "text": "In London, autumn is cool.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-290",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"birthday is in August\", \"is eleven today\", \"invites eight friends\".",
+      "passage": "Adam's birthday is in August. He is eleven today. He invites eight friends to the party. They eat a big strawberry cake and play games in the garden. The garden is full of balloons and music. All the children say it is a wonderful day.",
+      "statements": [
+        {
+          "text": "Adam's birthday is in May.",
+          "answer": false
+        },
+        {
+          "text": "Adam is eleven today.",
+          "answer": true
+        },
+        {
+          "text": "Adam invites eight friends.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-291",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"goes to school by car\", \"She gets up at nine o'clock\", \"Amy is fifteen\".",
+      "passage": "Amy is fifteen. She gets up at nine o'clock and has bread and jam for breakfast. She goes to school by car. In the evening she reads a book. She goes to bed at half past eight. It is a busy day, but she is always happy. She has many friends and likes her class.",
+      "statements": [
+        {
+          "text": "Amy goes to school by car.",
+          "answer": true
+        },
+        {
+          "text": "Amy gets up at six o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Amy is fifteen.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-292",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"Nora is thirteen\", \"goes to bed at nine o'clock\", \"goes to school by car\".",
+      "passage": "Nora is thirteen. She gets up at nine o'clock and has a banana for breakfast. She goes to school by car. In the evening she plays games. She goes to bed at nine o'clock. She loves school and her teachers are very kind. It is a busy day, but she is always happy.",
+      "statements": [
+        {
+          "text": "Nora is thirteen.",
+          "answer": true
+        },
+        {
+          "text": "Nora goes to bed at ten o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Nora goes to school by train.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-293",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"There are three shops in the main street\", \"The school is in front of the bank\", \"lives in a small town\".",
+      "passage": "Max lives in a small town. In the town there is a park, a library and a museum. The park is next to the library. The school is in front of the bank. There are three shops in the main street. It is a quiet and friendly place. Everybody in the town knows Max.",
+      "statements": [
+        {
+          "text": "There are three shops in the main street.",
+          "answer": true
+        },
+        {
+          "text": "The school is in front of the bank.",
+          "answer": true
+        },
+        {
+          "text": "Max lives in a big city.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-294",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives near a lake\", \"recycles paper\", \"Every autumn\".",
+      "passage": "Iris lives near a lake. Every autumn, she walks there with her dog. She loves nature and puts all the rubbish in the bin. At home, she recycles paper every week. She says that nature is a gift for everybody. It is a quiet and beautiful place.",
+      "statements": [
+        {
+          "text": "Iris lives near a forest.",
+          "answer": false
+        },
+        {
+          "text": "Iris recycles glass.",
+          "answer": false
+        },
+        {
+          "text": "Iris walks there in autumn.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-295",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"works five days a week\", \"starts work at seven o'clock\", \"is a librarian\".",
+      "passage": "Ruby is a librarian. She works at the library and helps books. She starts work at seven o'clock and finishes at five o'clock. She works five days a week. Her colleagues are friendly and helpful. It is a hard job, but she likes it a lot.",
+      "statements": [
+        {
+          "text": "Ruby works six days a week.",
+          "answer": false
+        },
+        {
+          "text": "Ruby starts work at eight o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Ruby is a librarian.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-296",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The walls are pink\", \"bedroom is small\", \"He sleeps in this room\".",
+      "passage": "Sam's bedroom is small. The walls are pink. There is a desk next to the window. There are six pictures on the shelf. He sleeps in this room every night. He often reads there before going to sleep. It is a quiet and comfortable place.",
+      "statements": [
+        {
+          "text": "The walls in the bedroom are orange.",
+          "answer": false
+        },
+        {
+          "text": "The bedroom is small.",
+          "answer": true
+        },
+        {
+          "text": "Sam sleeps in this room.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-297",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"starts work at eight o'clock\", \"is a baker\", \"finishes at six o'clock\".",
+      "passage": "Joe is a baker. He works at the bakery and helps bread. He starts work at eight o'clock and finishes at six o'clock. He works six days a week. His colleagues are friendly and helpful. It is a hard job, but he likes it a lot.",
+      "statements": [
+        {
+          "text": "Joe starts work at eight o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Joe is a teacher.",
+          "answer": false
+        },
+        {
+          "text": "Joe finishes work at six o'clock.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-298",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"costs 25 euros\", \"with her mother\", \"a blue one\".",
+      "passage": "On Sunday, Clara goes to the shopping centre with her mother. She wants a new pair of shoes. She finds a blue one in a small shop. It costs 25 euros. She buys it and is very happy. The streets are busy and the sun is bright. There are many people and many beautiful things.",
+      "statements": [
+        {
+          "text": "It costs 25 euros.",
+          "answer": true
+        },
+        {
+          "text": "Clara goes with her mother.",
+          "answer": true
+        },
+        {
+          "text": "Clara buys a orange pair of shoes.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-299",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"starts work at eight o'clock\", \"finishes at five o'clock\", \"is a vet\".",
+      "passage": "Felix is a vet. He works at the clinic and helps animals. He starts work at eight o'clock and finishes at five o'clock. He works six days a week. His colleagues are friendly and helpful. He is tired in the evening, but happy.",
+      "statements": [
+        {
+          "text": "Felix starts work at eight o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Felix finishes work at five o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Felix is a teacher.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-300",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"summer is hot\", \"likes summer very much\", \"lives in Dublin\".",
+      "passage": "In Dublin, summer is hot and sunny. People wear shorts. Ben lives in Dublin and likes summer very much. He goes out every day, even when the weather is bad. The weather changes a lot during the year. The streets are full of people all day.",
+      "statements": [
+        {
+          "text": "In Dublin, summer is cool.",
+          "answer": false
+        },
+        {
+          "text": "Ben likes summer.",
+          "answer": true
+        },
+        {
+          "text": "Ben lives in Dublin.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-301",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"On Tuesday\", \"stay in bed for three days\", \"has a toothache\".",
+      "passage": "Vera has a toothache. On Tuesday, she goes to the doctor. The doctor says: stay in bed for three days and drink a lot of tea. Vera stays at home and takes some medicine. She wants to feel better soon. Her friends call her every day.",
+      "statements": [
+        {
+          "text": "Vera goes to the doctor on Wednesday.",
+          "answer": false
+        },
+        {
+          "text": "Vera must stay in bed for five days.",
+          "answer": false
+        },
+        {
+          "text": "Vera has a toothache.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-302",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with four friends\", \"on Thursday and Monday\", \"at the school\".",
+      "passage": "Hana loves basketball. She plays basketball on Thursday and Monday at the school. She plays with four friends. They always have fun and then eat ice cream. It is a great way to stay strong. The players are friendly and the coach is kind.",
+      "statements": [
+        {
+          "text": "Hana does it with four friends.",
+          "answer": true
+        },
+        {
+          "text": "Hana does this on Sunday.",
+          "answer": false
+        },
+        {
+          "text": "Hana does this at the school.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-303",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with his sister\", \"lives near a mountain\", \"Every autumn\".",
+      "passage": "Dan lives near a mountain. Every autumn, he walks there with his sister. He loves nature and puts all the rubbish in the bin. At home, he recycles glass every week. It is a quiet and beautiful place. The air is clean and the water is clear.",
+      "statements": [
+        {
+          "text": "Dan walks with his brother.",
+          "answer": false
+        },
+        {
+          "text": "Dan lives near a beach.",
+          "answer": false
+        },
+        {
+          "text": "Dan walks there in autumn.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-304",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"My favourite food is pasta\", \"I have a hamster\", \"There are four people in my family\".",
+      "passage": "My name is Emma. I am thirteen years old and I live in Vienna. There are four people in my family: my uncle, my grandfather and my mother and me. I have a hamster. My favourite food is pasta. My room is small, but I like it a lot. I go to school every day and I love my friends.",
+      "statements": [
+        {
+          "text": "My favourite food is chicken.",
+          "answer": false
+        },
+        {
+          "text": "I have a rabbit.",
+          "answer": false
+        },
+        {
+          "text": "There are four people in my family.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-305",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"with four friends\", \"loves tennis\", \"at the park\".",
+      "passage": "Hana loves tennis. She plays tennis on Wednesday and Thursday at the park. She plays with four friends. They always have fun and then eat ice cream. It is a great way to stay strong. The players are friendly and the coach is kind.",
+      "statements": [
+        {
+          "text": "Hana does it with four friends.",
+          "answer": true
+        },
+        {
+          "text": "Hana loves tennis.",
+          "answer": true
+        },
+        {
+          "text": "Hana does this at the school.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-306",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"uses a tablet\", \"At eleven o'clock\", \"writes six emails\".",
+      "passage": "Alice works in an office. Every day, she uses a tablet and a phone. She writes six emails in the morning. At eleven o'clock, she has a meeting with her boss, Adam. The office is big and quiet, and her colleagues are nice. It is a busy place, but everybody helps each other.",
+      "statements": [
+        {
+          "text": "Alice uses a laptop at work.",
+          "answer": false
+        },
+        {
+          "text": "The meeting is at ten o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Alice writes six emails in the morning.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-307",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"invites seven friends\", \"a big strawberry cake\", \"birthday is in May\".",
+      "passage": "Lea's birthday is in May. She is twelve today. She invites seven friends to the party. They eat a big strawberry cake and play games in the garden. The garden is full of balloons and music. Everybody sings and dances, and the afternoon is full of fun.",
+      "statements": [
+        {
+          "text": "Lea invites nine friends.",
+          "answer": false
+        },
+        {
+          "text": "The cake is a strawberry cake.",
+          "answer": true
+        },
+        {
+          "text": "Lea's birthday is in March.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-308",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"in her kitchen\", \"five hours\", \"Every Sunday\".",
+      "passage": "Sara's favourite hobby is gardening. Every Sunday, she spends five hours on it in her kitchen. She is never bored on that day. On Monday, she goes back to school. She wants to be better every week. It makes her feel calm and happy.",
+      "statements": [
+        {
+          "text": "Sara does it in her room.",
+          "answer": false
+        },
+        {
+          "text": "Sara spends five hours on it.",
+          "answer": true
+        },
+        {
+          "text": "Sara does gardening on Saturday.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-309",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"is a farmer\", \"finishes at four o'clock\", \"starts work at seven o'clock\".",
+      "passage": "Pablo is a farmer. He works at the farm and helps cows. He starts work at seven o'clock and finishes at four o'clock. He works six days a week. His colleagues are friendly and helpful. It is a hard job, but he likes it a lot.",
+      "statements": [
+        {
+          "text": "Pablo is a farmer.",
+          "answer": true
+        },
+        {
+          "text": "Pablo finishes work at six o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Pablo starts work at eight o'clock.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-310",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"costs ten euros\", \"a blue one\", \"On Friday\".",
+      "passage": "On Friday, Julia goes to the shopping centre with her mother. She wants a new jacket. She finds a blue one in a small shop. It costs ten euros. She buys it and is very happy. There are many people and many beautiful things. It is a long day, but she enjoys every minute.",
+      "statements": [
+        {
+          "text": "It costs 10 euros.",
+          "answer": true
+        },
+        {
+          "text": "Julia buys a yellow jacket.",
+          "answer": false
+        },
+        {
+          "text": "Julia goes shopping on Saturday.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-311",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"a purple one\", \"with his mother\", \"costs 30 euros\".",
+      "passage": "On Friday, Jack goes to the shopping centre with his mother. He wants a new dress. He finds a purple one in a small shop. It costs 30 euros. He buys it and is very happy. There are many people and many beautiful things. It is a long day, but he enjoys every minute.",
+      "statements": [
+        {
+          "text": "Jack buys a green dress.",
+          "answer": false
+        },
+        {
+          "text": "Jack goes with his mother.",
+          "answer": true
+        },
+        {
+          "text": "It costs 40 euros.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-312",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"is a cook\", \"finishes at five o'clock\", \"starts work at eight o'clock\".",
+      "passage": "Ella is a cook. She works at the restaurant and helps meals. She starts work at eight o'clock and finishes at five o'clock. She works six days a week. She is tired in the evening, but happy. Her colleagues are friendly and helpful.",
+      "statements": [
+        {
+          "text": "Ella is a vet.",
+          "answer": false
+        },
+        {
+          "text": "Ella finishes work at six o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Ella starts work at eight o'clock.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-313",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives in London\", \"likes summer very much\", \"People wear shorts\".",
+      "passage": "In London, summer is hot and sunny. People wear shorts. Hana lives in London and likes summer very much. She goes out every day, even when the weather is bad. The streets are full of people all day. The weather changes a lot during the year.",
+      "statements": [
+        {
+          "text": "Hana lives in London.",
+          "answer": true
+        },
+        {
+          "text": "Hana likes winter.",
+          "answer": false
+        },
+        {
+          "text": "In summer, people wear shorts.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-314",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"On Saturday\", \"with his mother\", \"a pink one\".",
+      "passage": "On Saturday, Victor goes to the shopping centre with his mother. He wants a new shirt. He finds a pink one in a small shop. It costs twelve euros. He buys it and is very happy. There are many people and many beautiful things. It is a long day, but he enjoys every minute.",
+      "statements": [
+        {
+          "text": "Victor goes shopping on Saturday.",
+          "answer": true
+        },
+        {
+          "text": "Victor goes with his father.",
+          "answer": false
+        },
+        {
+          "text": "Victor buys a purple shirt.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-315",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"favourite subject is English\", \"has seven lessons\", \"has art and science\".",
+      "passage": "Emma is a student. On Tuesday, she has seven lessons. Her favourite subject is English. She has lunch at one o'clock. After lunch, she has art and science. The teachers are kind and the classes are interesting. She always does her homework in the evening.",
+      "statements": [
+        {
+          "text": "Emma's favourite subject is English.",
+          "answer": true
+        },
+        {
+          "text": "Emma has eight lessons on Tuesday.",
+          "answer": false
+        },
+        {
+          "text": "Emma has music after lunch.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-316",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"Every summer\", \"with her sister\", \"recycles paper\".",
+      "passage": "Lea lives near a forest. Every summer, she walks there with her sister. She loves nature and puts all the rubbish in the bin. At home, she recycles paper every week. The air is clean and the water is clear. It is a quiet and beautiful place.",
+      "statements": [
+        {
+          "text": "Lea walks there in spring.",
+          "answer": false
+        },
+        {
+          "text": "Lea walks with her sister.",
+          "answer": true
+        },
+        {
+          "text": "Lea recycles paper.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-317",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"goes to school by train\", \"Ryan is eleven\", \"goes to bed at half past eight\".",
+      "passage": "Ryan is eleven. He gets up at seven o'clock and has toast for breakfast. He goes to school by train. In the evening he plays games. He goes to bed at half past eight. He loves school and his teachers are very kind. He has many friends and likes his class.",
+      "statements": [
+        {
+          "text": "Ryan goes to school by bike.",
+          "answer": false
+        },
+        {
+          "text": "Ryan is eleven.",
+          "answer": true
+        },
+        {
+          "text": "Ryan goes to bed at nine o'clock.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-318",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"People wear a thick coat\", \"likes winter very much\", \"lives in Athens\".",
+      "passage": "In Athens, winter is cold and snowy. People wear a thick coat. Adam lives in Athens and likes winter very much. He goes out every day, even when the weather is bad. It is a good time to go out and see the city. The weather changes a lot during the year.",
+      "statements": [
+        {
+          "text": "In winter, people wear a thick coat.",
+          "answer": true
+        },
+        {
+          "text": "Adam likes summer.",
+          "answer": false
+        },
+        {
+          "text": "Adam lives in Berlin.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-319",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"in August\", \"goes to Egypt\", \"travels by bus\".",
+      "passage": "Kenji goes to Egypt in August. He travels by bus. He stays in a tent for nine days. Every day he goes to the beach and takes photos. The weather is good and he sleeps well. It is a beautiful trip and he is very happy.",
+      "statements": [
+        {
+          "text": "The holiday is in August.",
+          "answer": true
+        },
+        {
+          "text": "Kenji goes to Egypt.",
+          "answer": true
+        },
+        {
+          "text": "Kenji travels by car.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-320",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"in August\", \"travels by train\", \"for twelve days\".",
+      "passage": "Karl goes to Spain in August. He travels by train. He stays in a tent for twelve days. Every day he goes to the beach and takes photos. The weather is good and he sleeps well. It is a beautiful trip and he is very happy.",
+      "statements": [
+        {
+          "text": "The holiday is in August.",
+          "answer": true
+        },
+        {
+          "text": "Karl travels by bus.",
+          "answer": false
+        },
+        {
+          "text": "Karl stays for fifteen days.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-321",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The park is in front of the museum\", \"lives in a small town\", \"There are six shops in the main street\".",
+      "passage": "Karl lives in a small town. In the town there is a market, a café and a bank. The market is next to the café. The park is in front of the museum. There are six shops in the main street. The streets are clean and the people are kind. Everybody in the town knows Karl.",
+      "statements": [
+        {
+          "text": "The park is behind the museum.",
+          "answer": false
+        },
+        {
+          "text": "Karl lives in a big city.",
+          "answer": false
+        },
+        {
+          "text": "There are six shops in the main street.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-322",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"drink a lot of juice\", \"On Friday\", \"has a toothache\".",
+      "passage": "Laura has a toothache. On Friday, she goes to the doctor. The doctor says: stay in bed for three days and drink a lot of juice. Laura stays at home and takes some medicine. Her friends call her every day. She wants to feel better soon.",
+      "statements": [
+        {
+          "text": "The doctor says to drink juice.",
+          "answer": true
+        },
+        {
+          "text": "Laura goes to the doctor on Tuesday.",
+          "answer": false
+        },
+        {
+          "text": "Laura has a cough.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-323",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"I am twelve years old\", \"There are three people in my family\", \"I have a goldfish\".",
+      "passage": "My name is Ruby. I am twelve years old and I live in Tokyo. There are three people in my family: my grandmother and my sister and me. I have a goldfish. My favourite food is pasta. I go to school every day and I love my friends. My room is small, but I like it a lot.",
+      "statements": [
+        {
+          "text": "I am twelve years old.",
+          "answer": true
+        },
+        {
+          "text": "There are four people in my family.",
+          "answer": false
+        },
+        {
+          "text": "I have a cat.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-324",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"is a baker\", \"finishes at six o'clock\", \"starts work at seven o'clock\".",
+      "passage": "Noah is a baker. He works at the bakery and helps bread. He starts work at seven o'clock and finishes at six o'clock. He works four days a week. He is tired in the evening, but happy. It is a hard job, but he likes it a lot.",
+      "statements": [
+        {
+          "text": "Noah is a baker.",
+          "answer": true
+        },
+        {
+          "text": "Noah finishes work at five o'clock.",
+          "answer": false
+        },
+        {
+          "text": "Noah starts work at eight o'clock.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-325",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lunch at twelve o'clock\", \"has PE and English\", \"has seven lessons\".",
+      "passage": "Amy is a student. On Wednesday, she has seven lessons. Her favourite subject is art. She has lunch at twelve o'clock. After lunch, she has PE and English. She always does her homework in the evening. She likes school and has many good friends there.",
+      "statements": [
+        {
+          "text": "Amy has lunch at twelve o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Amy has history after lunch.",
+          "answer": false
+        },
+        {
+          "text": "Amy has eight lessons on Wednesday.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-326",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"The walls are purple\", \"bedroom is big\", \"She sleeps in this room\".",
+      "passage": "Hana's bedroom is big. The walls are purple. There is a sofa next to the window. There are seven books on the shelf. She sleeps in this room every night. It is a quiet and comfortable place. She loves the room because it is warm and bright.",
+      "statements": [
+        {
+          "text": "The walls in the bedroom are purple.",
+          "answer": true
+        },
+        {
+          "text": "The bedroom is small.",
+          "answer": false
+        },
+        {
+          "text": "Hana sleeps in this room.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-327",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"a big strawberry cake\", \"invites three friends\", \"is eleven today\".",
+      "passage": "Ella's birthday is in June. She is eleven today. She invites three friends to the party. They eat a big strawberry cake and play games in the garden. All the children say it is a wonderful day. Everybody sings and dances, and the afternoon is full of fun.",
+      "statements": [
+        {
+          "text": "The cake is a chocolate cake.",
+          "answer": false
+        },
+        {
+          "text": "Ella invites three friends.",
+          "answer": true
+        },
+        {
+          "text": "Ella is eleven today.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-328",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"winter is cold\", \"People wear a thick coat\", \"lives in Berlin\".",
+      "passage": "In Berlin, winter is cold and snowy. People wear a thick coat. Maria lives in Berlin and likes winter very much. She goes out every day, even when the weather is bad. The streets are full of people all day. It is a good time to go out and see the city.",
+      "statements": [
+        {
+          "text": "In Berlin, winter is cold.",
+          "answer": true
+        },
+        {
+          "text": "In winter, people wear shorts.",
+          "answer": false
+        },
+        {
+          "text": "Maria lives in Vienna.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-329",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"autumn is cool\", \"People wear boots\", \"likes autumn very much\".",
+      "passage": "In Lisbon, autumn is cool and windy. People wear boots. Vera lives in Lisbon and likes autumn very much. She goes out every day, even when the weather is bad. The streets are full of people all day. The weather changes a lot during the year.",
+      "statements": [
+        {
+          "text": "In Lisbon, autumn is warm.",
+          "answer": false
+        },
+        {
+          "text": "In autumn, people wear boots.",
+          "answer": true
+        },
+        {
+          "text": "Vera likes summer.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-330",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"goes to France\", \"travels by bus\", \"in June\".",
+      "passage": "Emma goes to France in June. She travels by bus. She stays in a tent for ten days. Every day she goes to the beach and takes photos. The weather is good and she sleeps well. It is a beautiful trip and she is very happy.",
+      "statements": [
+        {
+          "text": "Emma goes to France.",
+          "answer": true
+        },
+        {
+          "text": "Emma travels by plane.",
+          "answer": false
+        },
+        {
+          "text": "The holiday is in June.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-331",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"uses a tablet\", \"boss, Adam\", \"At two o'clock\".",
+      "passage": "Kenji works in an office. Every day, he uses a tablet and a phone. He writes nine emails in the morning. At two o'clock, he has a meeting with his boss, Adam. It is a busy place, but everybody helps each other. The office is big and quiet, and his colleagues are nice.",
+      "statements": [
+        {
+          "text": "Kenji uses a tablet at work.",
+          "answer": true
+        },
+        {
+          "text": "The boss is Adam.",
+          "answer": true
+        },
+        {
+          "text": "The meeting is at eleven o'clock.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-332",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"on Tuesday and Saturday\", \"at the school\", \"with two friends\".",
+      "passage": "Sean loves hockey. He plays hockey on Tuesday and Saturday at the school. He plays with two friends. They always have fun and then eat ice cream. The players are friendly and the coach is kind. It is a great way to stay strong.",
+      "statements": [
+        {
+          "text": "Sean does this on Tuesday.",
+          "answer": true
+        },
+        {
+          "text": "Sean does this at the school.",
+          "answer": true
+        },
+        {
+          "text": "Sean does it with four friends.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-333",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"goes to Egypt\", \"in June\", \"for four days\".",
+      "passage": "Jack goes to Egypt in June. He travels by plane. He stays in a tent for four days. Every day he goes to the beach and takes photos. It is a beautiful trip and he is very happy. The sea is warm and the people are friendly.",
+      "statements": [
+        {
+          "text": "Jack goes to Egypt.",
+          "answer": true
+        },
+        {
+          "text": "The holiday is in August.",
+          "answer": false
+        },
+        {
+          "text": "Jack stays for seven days.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-334",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"costs eighteen euros\", \"a yellow one\", \"with her mother\".",
+      "passage": "On Saturday, Hana goes to the shopping centre with her mother. She wants a new dress. She finds a yellow one in a small shop. It costs eighteen euros. She buys it and is very happy. It is a long day, but she enjoys every minute. The streets are busy and the sun is bright.",
+      "statements": [
+        {
+          "text": "It costs 23 euros.",
+          "answer": false
+        },
+        {
+          "text": "Hana buys a yellow dress.",
+          "answer": true
+        },
+        {
+          "text": "Hana goes with her father.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-335",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"At ten o'clock\", \"writes ten emails\", \"boss, Peter\".",
+      "passage": "Mark works in an office. Every day, he uses a laptop and a phone. He writes ten emails in the morning. At ten o'clock, he has a meeting with his boss, Peter. It is a busy place, but everybody helps each other. He likes the job because it is never boring.",
+      "statements": [
+        {
+          "text": "The meeting is at ten o'clock.",
+          "answer": true
+        },
+        {
+          "text": "Mark writes ten emails in the morning.",
+          "answer": true
+        },
+        {
+          "text": "The boss is Anna.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-336",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"People wear a light jacket\", \"likes spring very much\", \"lives in Lisbon\".",
+      "passage": "In Lisbon, spring is warm and rainy. People wear a light jacket. Kate lives in Lisbon and likes spring very much. She goes out every day, even when the weather is bad. The weather changes a lot during the year. The streets are full of people all day.",
+      "statements": [
+        {
+          "text": "In spring, people wear boots.",
+          "answer": false
+        },
+        {
+          "text": "Kate likes summer.",
+          "answer": false
+        },
+        {
+          "text": "Kate lives in Lisbon.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-337",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"drink a lot of juice\", \"stay in bed for four days\", \"has a fever\".",
+      "passage": "Alice has a fever. On Monday, she goes to the doctor. The doctor says: stay in bed for four days and drink a lot of juice. Alice stays at home and takes some medicine. She wants to feel better soon. Her friends call her every day.",
+      "statements": [
+        {
+          "text": "The doctor says to drink juice.",
+          "answer": true
+        },
+        {
+          "text": "Alice must stay in bed for four days.",
+          "answer": true
+        },
+        {
+          "text": "Alice has a stomachache.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "a1-tf-338",
+      "type": "true-false",
+      "level": "A1",
+      "topic": "reading",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Read the text and decide if each sentence is true or false.",
+      "explanation": "The text says: \"lives in Africa\", \"It eats meat\", \"it is yellow\".",
+      "passage": "A lion is a wild cat. It lives in Africa. It eats meat. It has four legs and it is yellow. Many people love to see this animal in a book, in a film or at the zoo. Scientists study this animal to learn more. Children often ask many questions about it.",
+      "statements": [
+        {
+          "text": "The lion lives in lakes.",
+          "answer": false
+        },
+        {
+          "text": "The lion eats meat.",
+          "answer": true
+        },
+        {
+          "text": "The lion is orange.",
+          "answer": false
+        }
+      ]
     }
   ]
 }
