@@ -45,11 +45,14 @@ export default function InstallPage() {
           <p>
             Install English Quiz and it opens like a normal app, in its own window on your computer or from the home screen of your smartphone. It also works without an internet connection.
           </p>
-          {canPrompt && (
-            <p>
-              <Button size="lg" onClick={install}>
-                Install app
-              </Button>
+          <p className="mb-1">
+            <Button size="lg" onClick={install} disabled={!canPrompt}>
+              Install app
+            </Button>
+          </p>
+          {!canPrompt && (
+            <p className="text-secondary small">
+              Your browser has not offered the one-click installation here. Follow the steps for your device below.
             </p>
           )}
         </>

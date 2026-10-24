@@ -40,6 +40,13 @@ describe('Layout', () => {
     expect(screen.getByRole('heading', { name: /What is a PWA installation/ })).toBeInTheDocument();
   });
 
+  it('the Install page always shows the Install app button, disabled until the browser offers the installation', () => {
+    renderAt('/install');
+    const button = screen.getByRole('button', { name: 'Install app' });
+    expect(button).toBeDisabled();
+    expect(screen.getByText(/has not offered the one-click installation/)).toBeInTheDocument();
+  });
+
   it('the Install page has short instructions for PC, Mac, Android and iOS', () => {
     renderAt('/install');
     for (const name of [/Windows and Linux/, /^Mac/, /Android/, /iPhone and iPad/]) {

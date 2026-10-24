@@ -9,7 +9,7 @@ Grafica con **Bootstrap 5**, approccio **mobile-first**. **Colore del tema: il b
 | `#/quiz` | QuizSetupPage | Scelta livello e argomenti, tile del numero di domande (avviano il quiz) e **History** dei quiz |
 | `#/quiz/:level` | QuizPage | Domande, pulsante "Check answers", risultato |
 | `#/test` | PlacementPage | Descrizione del test di livello, **livello attuale** (se il test è già stato fatto), test adattivo di 40 domande, risultato con livello stimato |
-| `#/install` | InstallPage | Cos'è l'installazione di una PWA e come si fa su PC, Mac, Android, iOS in una guida breve (solo testo, 2-3 passi per piattaforma, nessuna immagine); pulsante "Install app" dove il browser lo permette. Se già installata lo dice |
+| `#/install` | InstallPage | Cos'è l'installazione di una PWA e come si fa su PC, Mac, Android, iOS in una guida breve (solo testo, 2-3 passi per piattaforma, nessuna immagine); pulsante **"Install app" sempre visibile** (se non già installata): attivo quando il browser permette l'installazione diretta, altrimenti disabilitato con una nota che rimanda alla guida sotto. Se già installata lo dice |
 | `#/about` | AboutPage | Autore, come è stata realizzata (Generative AI, spec driven), licenza d'uso libero, versione |
 
 Le vecchie rotte `#/history` e `#/placement` non esistono più: reindirizzano a `#/quiz` e `#/test`.
