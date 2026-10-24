@@ -1,0 +1,87 @@
+# B2 vc/vf/es for adjectives, articles, prepositions, pronouns
+vc | ADJ | This is the ___ (good) coffee I have ever tasted. | best | better :: "Better" compares only two things. | most good :: "Good" has an irregular superlative. | goodest :: "goodest" does not work here, because "Good" has an irregular superlative. | "Best" is the irregular superlative of "good".
+vc | ADJ | Her English is much ___ (good) than mine. | better | best :: "Best" is a superlative, but "than" needs a comparative. | gooder :: "Good" has an irregular comparative. | more good :: "more good" does not work here, because "Good" has an irregular comparative. | "Better" is the irregular comparative of "good".
+vc | ADJ | The traffic was ___ (bad) than usual this morning. | worse | worst :: "Worst" is a superlative, but "than" needs a comparative. | badder :: "Bad" has an irregular comparative. | more bad :: "more bad" does not work here, because "Bad" has an irregular comparative. | "Worse" is the irregular comparative of "bad".
+vc | ADJ | She is the ___ (intelligent) student in the whole school. | most intelligent | more intelligent :: "More" compares only two. | intelligentest :: Long adjectives take "most". | intelligenter :: Long adjectives take "more". | Long adjectives form the superlative with "most".
+vc | ADJ | He drove ___ (careful) than usual because of the ice. | more carefully | more careful :: An adverb is needed to modify "drove". | carefuller :: Long adverbs take "more". | most carefully :: A comparative is needed with "than". | The comparative of an adverb of manner takes "more".
+vc | ADJ | The film was ___ (not / as / long) I had expected. | not as long as | not so long than :: "Than" does not follow "as". | not longer as :: "As ... as" needs the base form. | not as longer as :: "not as longer as" does not work here, because "As ... as" needs the base form. | "Not as ... as" makes a negative comparison.
+vc | ADJ | I was ___ (disappoint) by the quality of the food. | disappointed | disappointing :: "Disappointing" describes the food. | disappoint :: "Disappoint" is a verb. | disappointment :: "Disappointment" is a noun. | "Disappointed" describes how I felt.
+vc | ADJ | He answered the question ___ (quick) and without hesitation. | quickly | quick :: An adverb is needed to modify "answered". | quicker :: A comparative is not needed. | quickness :: "Quickness" is a noun. | "Quickly" modifies a verb.
+vc | ADJ | The ___ (old) of the three sisters is a lawyer. | eldest | elder :: "Elder" compares two people. | elderest :: This form does not exist. | more old :: "Old" takes -er or -est. | "Eldest" is the superlative used for family members.
+vc | ADJ | Prices are ___ (high) in the city than in the countryside. | higher | highest :: A comparative is needed with "than". | more high :: Short adjectives take -er. | highly :: "Highly" is an adverb. | The comparative of "high" is "higher".
+vc | ADJ | He plays tennis ___ (good) than I do. | better | best :: "Best" is a superlative. | gooder :: "Good" has an irregular comparative. | more good :: "more good" does not work here, because "Good" has an irregular comparative. | "Better" is the comparative of "well".
+vc | ADJ | He's ___ (far) the most generous person I know. | by | for :: "For far" is not a collocation. | to :: "To far" is not a collocation. | at :: "At far" is not a collocation. | "By far" strengthens a superlative.
+vc | ART | He plays ___ (the / piano) every evening after dinner. | the piano | piano :: Instruments take "the" after "play". | a piano :: "A piano" refers to one object, not the skill. | pianos :: A plural noun does not fit. | Instruments take "the" after "play".
+vc | ART | She is ___ (a / honest) woman, so everybody trusts her. | an honest | a honest :: "Honest" starts with a vowel sound. | the honest :: The article is specific, not general. | honest :: A singular noun needs an article. | "An" is used before a vowel sound.
+vc | ART | I would like ___ (some / information) about the course. | some information | an information :: "Information" is uncountable. | informations :: "Information" has no plural. | a information :: "a information" does not work here, because "Information" is uncountable. | "Some" is used with uncountable nouns.
+vc | ART | He didn't make ___ (much) progress this term. | much | many :: "Progress" is uncountable. | a few :: "A few" is used with countable nouns. | several :: "Several" is used with countable nouns. | "Much" goes with uncountable nouns in negatives.
+vc | ART | We had ___ (such / a) wonderful holiday that we want to go back. | such a | so a :: "So" is not used before "a + noun". | a such :: "Such" comes before "a". | quite a such :: This is not grammatical. | "Such a" is followed by an adjective and a noun.
+vc | ART | She gave me ___ (a / little) money, but it wasn't enough. | a little | a few :: "A few" is used with countable nouns. | few :: "Few" is used with countable nouns. | many :: "Many" is used with countable nouns. | "A little" is used with uncountable nouns.
+vc | ART | I like ___ (both) of the dresses; I can't choose. | both | each :: "Each of" takes a singular noun after it. | neither :: "Neither" is negative. | either :: "Either" is used for one of two. | "Both of" refers to two items.
+vc | PREP | She is very good ___ (at / learn) languages. | at learning | at learn :: After a preposition use -ing. | in learning :: "Good in" is not the usual collocation. | for learning :: "Good for" means beneficial. | "Good at" is followed by -ing.
+vc | PREP | He was punished ___ (for / cheat) in the exam. | for cheating | of cheating :: "Punished of" is not correct. | to cheat :: "Punished to" is not correct. | for cheat :: After a preposition use -ing. | "Punished for" is followed by -ing.
+vc | PREP | They congratulated her ___ (on / win) the prize. | on winning | for winning :: "Congratulate for" is not standard. | at winning :: "Congratulate at" is not correct. | on win :: After a preposition use -ing. | "Congratulate on" is followed by -ing.
+vc | PREP | I'm fed up ___ (with / wait) in queues. | with waiting | of waiting :: "Fed up of" is informal. | to wait :: "Fed up to" is not correct. | with wait :: After a preposition use -ing. | "Fed up with" is followed by -ing.
+vc | PREP | He is responsible ___ (for / organise) the event. | for organising | of organising :: "Responsible of" is not correct. | to organise :: "Responsible to" has a different meaning. | for organise :: After a preposition use -ing. | "Responsible for" is followed by -ing.
+vc | PREP | She insisted ___ (on / pay) for the meal. | on paying | in paying :: "Insist in" is not correct. | to pay :: "Insist to" is not correct. | on pay :: After a preposition use -ing. | "Insist on" is followed by -ing.
+vc | PREP | We are looking forward ___ (to / see) you next week. | to seeing | for seeing :: "Look forward for" is not correct. | to see :: After "look forward to" use -ing. | at seeing :: "Look forward at" is not correct. | "Look forward to" is followed by -ing.
+vc | PREP | He apologised ___ (for / lose) my book. | for losing | of losing :: "Apologise of" is not correct. | to lose :: "Apologise to" introduces the person. | for lose :: After a preposition use -ing. | "Apologise for" is followed by -ing.
+vc | PREP | The company is interested ___ (in / hire) more students. | in hiring | to hire :: "Interested to" is possible but changes the meaning. | on hiring :: "Interested on" is not correct. | in hire :: After a preposition use -ing. | "Interested in" is followed by -ing.
+vc | PREP | They succeeded ___ (in / climb) the mountain. | in climbing | to climb :: "Succeed to" is not correct. | at climbing :: "Succeed at" is less usual with a gerund. | in climb :: After a preposition use -ing. | "Succeed in" is followed by -ing.
+vc | PRON | The man ___ (who) car was stolen reported it to the police. | whose | who :: "Who" cannot show possession. | whom :: "Whom" cannot show possession. | which :: "Which" refers to things. | "Whose" shows possession.
+vc | PRON | The woman to ___ I spoke was very helpful. | whom | who :: After a preposition, formal English uses "whom". | which :: "Which" refers to things. | whose :: "Whose" shows possession. | "Whom" follows a preposition.
+vc | PRON | We should help ___ (we / other) when we can. | each other | ourselves :: "Ourselves" is reflexive, not reciprocal. | one :: "One" does not fit here. | other :: "Other" cannot stand alone. | "Each other" is a reciprocal pronoun.
+vc | PRON | I haven't seen ___ (any) of my old friends recently. | any | no :: "Haven't seen no" is a double negative. | none :: "Haven't seen none" is a double negative. | some :: "Some" is not used in negatives like this. | "Any" is used in negative sentences.
+vc | PRON | ___ (what) you need is a good rest. | What | That :: "That" cannot begin this clause as a subject. | Which :: "Which" needs a clear antecedent. | Who :: "Who" refers to people. | "What" means "the thing that".
+vc | PRON | She has two brothers, both of ___ (who) live abroad. | whom | who :: After "of" the object form is used. | which :: "Which" refers to things. | them :: "Them" is not a relative pronoun. | "Both of whom" joins the clauses.
+vc | PRON | I'd like to know the reason ___ (why) she left. | why | what :: "What" does not follow "reason". | who :: "Who" refers to people. | whom :: "Whom" refers to people. | "The reason why" is a standard structure.
+vf | ADJ | The ___ you practise, the better you will become. | more | most :: "Most" cannot form a double comparative. | much :: "Much" is not used in this structure. | many :: "Many" is used with countable nouns. | "The more ... the better" is a double comparative.
+vf | ADJ | This is by far the ___ book I have ever read. | most boring | more boring :: "More" compares only two. | boringest :: Long adjectives take "most". | boringer :: Long adjectives take "more". | "By far the most" intensifies a superlative.
+vf | ADJ | It's ___ cold that I can't feel my fingers. | so | such :: "Such" needs a noun phrase. | too :: "Too" does not take "that". | very :: "Very" cannot be followed by "that". | "So + adjective + that" shows a result.
+vf | ADJ | He's not ___ clever as his brother. | as | so as :: "So ... as" is old-fashioned. | than :: "Than" follows a comparative. | like :: "Like" does not fit this structure. | "Not as ... as" is a negative comparison.
+vf | ART | She is ___ best player in the team. | the | a :: "A" cannot be used with a superlative. | an :: "An" cannot be used with a superlative. | – :: A superlative needs "the". | A superlative takes "the".
+vf | ART | I haven't got ___ time to talk now. | any | many :: "Time" is uncountable. | few :: "Few" is used with countable nouns. | a few :: "A few" is used with countable nouns. | "Any" is used in negative sentences.
+vf | ART | There was ___ little sugar left that we couldn't make a cake. | so | such :: "Such" needs a noun phrase. | too :: "Too" does not take "that". | very :: "Very" cannot be followed by "that". | "So little ... that" shows a result.
+vf | ART | He lives in ___ small flat near the university. | a | an :: "Small" starts with a consonant sound. | the :: "The" would refer to a specific flat. | – :: A singular noun needs an article. | "A" introduces a singular countable noun.
+vf | ART | ___ of my friends live in the same street. | Both | Each :: "Each" takes a singular verb. | Every :: "Every of" is not possible. | Neither :: "Neither" takes a singular verb in formal English. | "Both of" takes a plural verb.
+vf | PREP | He is afraid ___ spiders. | of | from :: "Afraid from" is not correct. | at :: "Afraid at" is not correct. | with :: "Afraid with" is not correct. | "Afraid of" is the fixed collocation.
+vf | PREP | The meeting has been postponed ___ next week. | until | by :: "By" shows a deadline. | at :: "At next week" is not correct. | in :: "In next week" is not correct. | "Until" shows a limit in time.
+vf | PREP | We'll be there ___ six o'clock at the latest. | by | until :: "Until" shows continuing action. | in :: "In six o'clock" is not correct. | on :: "On six o'clock" is not correct. | "By" shows a deadline.
+vf | PREP | She's been living in Spain ___ two years. | for | since :: "Since" needs a point in time. | during :: "During" does not take a length of time here. | from :: "From" does not fit the present perfect. | "For" is used with a length of time.
+vf | PREP | I'm tired ___ listening to the same story again and again. | of | from :: "Tired from" means exhausted by effort. | with :: "Tired with" is not the usual collocation. | at :: "Tired at" is not correct. | "Tired of" means bored with.
+vf | PREP | He was arrested ___ driving without a licence. | for | of :: "Arrested of" is not correct. | with :: "Arrested with" is not correct. | at :: "Arrested at" is not correct. | "Arrested for" introduces the offence.
+vf | PREP | The film is based ___ a true story. | on | in :: "Based in" means located in. | at :: "Based at" means located at. | with :: "Based with" is not correct. | "Based on" shows the source.
+vf | PRON | The house ___ roof was damaged has been repaired. | whose | who :: "Who" cannot show possession. | which :: "Which roof" is not correct for possession. | that :: "That" cannot show possession. | "Whose" shows possession.
+vf | PRON | I don't know ___ she lives. | where | which :: "Which" would need an antecedent. | what :: "What she lives" is not correct. | who :: "Who" refers to people. | "Where" introduces a question about place.
+vf | PRON | They have known ___ for years. | each other | themselves :: "Themselves" is reflexive. | one :: "One" does not fit here. | other :: "Other" cannot stand alone. | "Each other" is a reciprocal pronoun.
+es | ADJ | He plays the piano [good]. | well | An adverb is needed to modify "plays".
+es | ADJ | She looks [happily] today. | happy | After "looks" we use an adjective.
+es | ADJ | It was the [more] interesting film I have seen. | most | A superlative is needed.
+es | ADJ | The test was [more] easier than I thought. | easier | A comparative cannot take both "more" and "-er".
+es | ADJ | I was very [boring] during the long lecture. | bored | "Bored" describes how a person feels.
+es | ADJ | He drove [slow] around the corner. | slowly | An adverb is needed to modify "drove".
+es | ADJ | The meal smelled [wonderfully]. | wonderful | After "smelled" we use an adjective.
+es | ADJ | They were [exciting] about the trip. | excited | "Excited" describes how people feel.
+es | ADJ | It's the [most] easiest exercise in the book. | easiest | Do not combine "most" with "-est".
+es | ART | She gave me [an] advice about my career. | some | "Advice" is uncountable.
+es | ART | He is [a] tallest boy in the class. | the | A superlative needs "the".
+es | ART | I have [much] friends in London. | many | "Friends" is countable.
+es | ART | There is [a] few milk left in the fridge. | little | "Milk" is uncountable.
+es | ART | [Every] of the students passed the test. | Each | "Every" cannot be followed by "of".
+es | ART | She plays [violin] in an orchestra. | the | Instruments take "the" after "play".
+es | ART | We saw [a] interesting film last night. | an | "Interesting" starts with a vowel sound.
+es | ART | Both [the] my sisters are doctors. | delete "the" | "Both" is not followed by "the my".
+es | PREP | He is interested [on] modern art. | in | "Interested in" is the fixed collocation.
+es | PREP | We arrived [to] the airport at six. | at | "Arrive at" is used with smaller places.
+es | PREP | She is afraid [from] flying. | of | "Afraid of" is the fixed collocation.
+es | PREP | I've lived here [since] ten years. | for | "For" is used with a length of time.
+es | PREP | He is good [in] mathematics. | at | "Good at" is the fixed collocation.
+es | PREP | They waited [to] the bus for an hour. | for | "Wait for" is the fixed collocation.
+es | PREP | She is married [with] a pilot. | to | "Married to" is the fixed collocation.
+es | PREP | I'm looking forward [for] seeing you. | to | "Look forward to" is the fixed collocation.
+es | PRON | The man [which] lives next door is a doctor. | who | "Who" refers to people.
+es | PRON | She cut [her] with the knife. | herself | A reflexive pronoun is needed.
+es | PRON | I have [no] seen any of them. | not | "Have not" forms the negative perfect.
+es | PRON | The book [who] I bought is excellent. | which | "Which" refers to things.
+es | PRON | The people [whose] I met were friendly. | whom | "Whom" is the object form.
+es | PRON | This is the girl [what] won the race. | who | "What" is not a relative pronoun here.

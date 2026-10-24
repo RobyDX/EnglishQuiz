@@ -3336,6 +3336,5586 @@
           "right": "used when there are two possibilities"
         }
       ]
+    },
+    {
+      "id": "b2-mp-116",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each social problem with its description.",
+      "explanation": "Social problems: for example, \"homelessness\" goes with \"having nowhere to live\".",
+      "pairs": [
+        {
+          "left": "crime",
+          "right": "breaking the law"
+        },
+        {
+          "left": "inequality",
+          "right": "unfair differences"
+        },
+        {
+          "left": "unemployment",
+          "right": "having no job"
+        },
+        {
+          "left": "homelessness",
+          "right": "having nowhere to live"
+        },
+        {
+          "left": "overcrowding",
+          "right": "too many people in a space"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-117",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Look\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "look down on",
+          "right": "feel superior to"
+        },
+        {
+          "left": "look up to",
+          "right": "admire"
+        },
+        {
+          "left": "look out for",
+          "right": "watch for"
+        },
+        {
+          "left": "look forward to",
+          "right": "await with pleasure"
+        },
+        {
+          "left": "look into",
+          "right": "investigate"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-118",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Break\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "break down",
+          "right": "stop working"
+        },
+        {
+          "left": "break in",
+          "right": "enter by force"
+        },
+        {
+          "left": "break off",
+          "right": "stop speaking"
+        },
+        {
+          "left": "break up",
+          "right": "end a relationship"
+        },
+        {
+          "left": "break out",
+          "right": "start suddenly"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-119",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Come\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "come into",
+          "right": "inherit"
+        },
+        {
+          "left": "come across",
+          "right": "find by chance"
+        },
+        {
+          "left": "come down with",
+          "right": "become ill with"
+        },
+        {
+          "left": "come round",
+          "right": "recover consciousness"
+        },
+        {
+          "left": "come up with",
+          "right": "think of an idea"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-120",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each place with what you do there.",
+      "explanation": "Places and activities: for example, \"museum\" goes with \"look at historic objects\".",
+      "pairs": [
+        {
+          "left": "museum",
+          "right": "look at historic objects"
+        },
+        {
+          "left": "theatre",
+          "right": "watch a play"
+        },
+        {
+          "left": "gallery",
+          "right": "view paintings"
+        },
+        {
+          "left": "harbour",
+          "right": "see boats"
+        },
+        {
+          "left": "stadium",
+          "right": "watch sport"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-121",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "Renting words: for example, \"hire\" goes with \"employ for a short time\".",
+      "pairs": [
+        {
+          "left": "rent",
+          "right": "pay to use property"
+        },
+        {
+          "left": "lease",
+          "right": "rent for a long period"
+        },
+        {
+          "left": "hire",
+          "right": "employ for a short time"
+        },
+        {
+          "left": "charter",
+          "right": "hire a vehicle for a group"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-122",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each verb with its meaning.",
+      "explanation": "Ways of looking: for example, \"glance\" goes with \"look quickly\".",
+      "pairs": [
+        {
+          "left": "glare",
+          "right": "look angrily"
+        },
+        {
+          "left": "peek",
+          "right": "look secretly"
+        },
+        {
+          "left": "stare",
+          "right": "look for a long time"
+        },
+        {
+          "left": "glance",
+          "right": "look quickly"
+        },
+        {
+          "left": "gaze",
+          "right": "look steadily with admiration"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-123",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each household task with its tool.",
+      "explanation": "Tools and tasks: for example, \"sweep\" goes with \"broom\".",
+      "pairs": [
+        {
+          "left": "sweep",
+          "right": "broom"
+        },
+        {
+          "left": "iron",
+          "right": "clothes"
+        },
+        {
+          "left": "mop",
+          "right": "bucket"
+        },
+        {
+          "left": "drill",
+          "right": "wall"
+        },
+        {
+          "left": "peel",
+          "right": "potatoes"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-124",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each energy type with its source.",
+      "explanation": "Energy: for example, \"solar\" goes with \"the sun\".",
+      "pairs": [
+        {
+          "left": "fossil",
+          "right": "coal or oil"
+        },
+        {
+          "left": "nuclear",
+          "right": "atoms"
+        },
+        {
+          "left": "hydro",
+          "right": "flowing water"
+        },
+        {
+          "left": "solar",
+          "right": "the sun"
+        },
+        {
+          "left": "wind",
+          "right": "moving air"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-125",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each academic word with its definition.",
+      "explanation": "Academic vocabulary: for example, \"essay\" goes with \"a short piece of writing on a subject\".",
+      "pairs": [
+        {
+          "left": "essay",
+          "right": "a short piece of writing on a subject"
+        },
+        {
+          "left": "seminar",
+          "right": "a small discussion class"
+        },
+        {
+          "left": "thesis",
+          "right": "a long piece of research"
+        },
+        {
+          "left": "tutor",
+          "right": "a teacher who helps individuals"
+        },
+        {
+          "left": "lecture",
+          "right": "a talk to a large group of students"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-126",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "People and places: for example, \"citizen\" goes with \"a legal member of a country\".",
+      "pairs": [
+        {
+          "left": "tourist",
+          "right": "someone who visits for pleasure"
+        },
+        {
+          "left": "immigrant",
+          "right": "someone who moves to a country"
+        },
+        {
+          "left": "citizen",
+          "right": "a legal member of a country"
+        },
+        {
+          "left": "resident",
+          "right": "someone who lives in a place"
+        },
+        {
+          "left": "refugee",
+          "right": "someone forced to leave"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-127",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Match the quantifier with the kind of noun it is used with.",
+      "explanation": "Quantifiers depend on the noun and the number.",
+      "pairs": [
+        {
+          "left": "every",
+          "right": "singular countable nouns"
+        },
+        {
+          "left": "few",
+          "right": "plural countable nouns"
+        },
+        {
+          "left": "none",
+          "right": "three or more items"
+        },
+        {
+          "left": "both",
+          "right": "exactly two items"
+        },
+        {
+          "left": "little",
+          "right": "uncountable nouns"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-128",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each unit with the thing it measures.",
+      "explanation": "Partitives: for example, \"a slice of\" goes with \"bread\".",
+      "pairs": [
+        {
+          "left": "a bar of",
+          "right": "soap"
+        },
+        {
+          "left": "a pile of",
+          "right": "papers"
+        },
+        {
+          "left": "a slice of",
+          "right": "bread"
+        },
+        {
+          "left": "a pinch of",
+          "right": "salt"
+        },
+        {
+          "left": "a lump of",
+          "right": "sugar"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-129",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Match each noun with the quantifier it takes.",
+      "explanation": "Quantifiers: for example, \"advice\" goes with \"some\".",
+      "pairs": [
+        {
+          "left": "furniture",
+          "right": "a little"
+        },
+        {
+          "left": "advice",
+          "right": "some"
+        },
+        {
+          "left": "people",
+          "right": "a few"
+        },
+        {
+          "left": "traffic",
+          "right": "a lot of"
+        },
+        {
+          "left": "chairs",
+          "right": "several"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-130",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Cut\" phrasal verbs: for example, \"cut down\" goes with \"reduce\".",
+      "pairs": [
+        {
+          "left": "cut back",
+          "right": "spend less"
+        },
+        {
+          "left": "cut out",
+          "right": "remove"
+        },
+        {
+          "left": "cut in",
+          "right": "interrupt"
+        },
+        {
+          "left": "cut down",
+          "right": "reduce"
+        },
+        {
+          "left": "cut off",
+          "right": "disconnect"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-131",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "Position verbs: for example, \"lay\" goes with \"put down\".",
+      "pairs": [
+        {
+          "left": "lay",
+          "right": "put down"
+        },
+        {
+          "left": "sit",
+          "right": "be in a seated position"
+        },
+        {
+          "left": "lie",
+          "right": "be in a flat position"
+        },
+        {
+          "left": "set",
+          "right": "put in place"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-132",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "Phrasal verbs about work: for example, \"take on\" goes with \"accept a responsibility\".",
+      "pairs": [
+        {
+          "left": "fill in for",
+          "right": "replace a colleague temporarily"
+        },
+        {
+          "left": "carry out",
+          "right": "perform a task"
+        },
+        {
+          "left": "take on",
+          "right": "accept a responsibility"
+        },
+        {
+          "left": "hand in",
+          "right": "submit something"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-133",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Match each pronoun with its use.",
+      "explanation": "Relative pronouns: for example, \"who\" goes with \"people\".",
+      "pairs": [
+        {
+          "left": "where",
+          "right": "places"
+        },
+        {
+          "left": "which",
+          "right": "things"
+        },
+        {
+          "left": "when",
+          "right": "time"
+        },
+        {
+          "left": "who",
+          "right": "people"
+        },
+        {
+          "left": "whose",
+          "right": "possession"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-134",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each cooking verb with its meaning.",
+      "explanation": "Cooking verbs: for example, \"boil\" goes with \"cook in bubbling water\".",
+      "pairs": [
+        {
+          "left": "simmer",
+          "right": "cook gently just below boiling"
+        },
+        {
+          "left": "grill",
+          "right": "cook under direct heat"
+        },
+        {
+          "left": "fry",
+          "right": "cook in hot oil"
+        },
+        {
+          "left": "boil",
+          "right": "cook in bubbling water"
+        },
+        {
+          "left": "bake",
+          "right": "cook in an oven"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-135",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each hobby with the equipment.",
+      "explanation": "Hobbies: for example, \"fishing\" goes with \"rod\".",
+      "pairs": [
+        {
+          "left": "painting",
+          "right": "brush"
+        },
+        {
+          "left": "climbing",
+          "right": "rope"
+        },
+        {
+          "left": "cycling",
+          "right": "helmet"
+        },
+        {
+          "left": "fishing",
+          "right": "rod"
+        },
+        {
+          "left": "photography",
+          "right": "camera"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-136",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Match each reporting verb with its meaning.",
+      "explanation": "Reporting verbs: for example, \"admit\" goes with \"say something is true reluctantly\".",
+      "pairs": [
+        {
+          "left": "deny",
+          "right": "say something is not true"
+        },
+        {
+          "left": "warn",
+          "right": "tell of danger"
+        },
+        {
+          "left": "promise",
+          "right": "say you will definitely do"
+        },
+        {
+          "left": "admit",
+          "right": "say something is true reluctantly"
+        },
+        {
+          "left": "suggest",
+          "right": "propose an idea"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-137",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "Verbs of speaking: for example, \"say\" goes with \"express in words\".",
+      "pairs": [
+        {
+          "left": "tell",
+          "right": "give information"
+        },
+        {
+          "left": "speak",
+          "right": "use your voice"
+        },
+        {
+          "left": "say",
+          "right": "express in words"
+        },
+        {
+          "left": "talk",
+          "right": "have a conversation"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-138",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each health word with its meaning.",
+      "explanation": "Health: for example, \"vaccination\" goes with \"protection against a disease\".",
+      "pairs": [
+        {
+          "left": "infection",
+          "right": "an illness caused by germs"
+        },
+        {
+          "left": "remedy",
+          "right": "a treatment"
+        },
+        {
+          "left": "checkup",
+          "right": "a routine medical examination"
+        },
+        {
+          "left": "vaccination",
+          "right": "protection against a disease"
+        },
+        {
+          "left": "allergy",
+          "right": "a reaction to a substance"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-139",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Match each reflexive pronoun with its subject.",
+      "explanation": "Reflexive pronouns: for example, \"myself\" goes with \"I\".",
+      "pairs": [
+        {
+          "left": "myself",
+          "right": "I"
+        },
+        {
+          "left": "yourself",
+          "right": "you"
+        },
+        {
+          "left": "ourselves",
+          "right": "we"
+        },
+        {
+          "left": "himself",
+          "right": "he"
+        },
+        {
+          "left": "themselves",
+          "right": "they"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-140",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "Money verbs: for example, \"lend\" goes with \"give for a short time\".",
+      "pairs": [
+        {
+          "left": "borrow",
+          "right": "take for a short time"
+        },
+        {
+          "left": "rent",
+          "right": "pay to use"
+        },
+        {
+          "left": "owe",
+          "right": "have to pay back"
+        },
+        {
+          "left": "lend",
+          "right": "give for a short time"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-141",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match the expression with the situation.",
+      "explanation": "Fixed expressions: for example, \"on the job\" goes with \"while working\".",
+      "pairs": [
+        {
+          "left": "in charge",
+          "right": "responsible for"
+        },
+        {
+          "left": "out of work",
+          "right": "unemployed"
+        },
+        {
+          "left": "on the job",
+          "right": "while working"
+        },
+        {
+          "left": "at work",
+          "right": "in the place of work"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-142",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its meaning.",
+      "explanation": "Confusing words: for example, \"principal\" goes with \"main\".",
+      "pairs": [
+        {
+          "left": "complement",
+          "right": "something that completes"
+        },
+        {
+          "left": "stationary",
+          "right": "not moving"
+        },
+        {
+          "left": "principal",
+          "right": "main"
+        },
+        {
+          "left": "principle",
+          "right": "a rule or belief"
+        },
+        {
+          "left": "stationery",
+          "right": "paper and pens"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-143",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each environmental term with its meaning.",
+      "explanation": "Environmental vocabulary: for example, \"recycling\" goes with \"reusing materials\".",
+      "pairs": [
+        {
+          "left": "habitat",
+          "right": "natural home of an animal"
+        },
+        {
+          "left": "emissions",
+          "right": "gases released into the air"
+        },
+        {
+          "left": "drought",
+          "right": "a long period without rain"
+        },
+        {
+          "left": "recycling",
+          "right": "reusing materials"
+        },
+        {
+          "left": "renewable",
+          "right": "able to be replaced naturally"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-144",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each business word with its meaning.",
+      "explanation": "Business vocabulary: for example, \"profit\" goes with \"money gained after costs\".",
+      "pairs": [
+        {
+          "left": "invoice",
+          "right": "a bill for goods"
+        },
+        {
+          "left": "profit",
+          "right": "money gained after costs"
+        },
+        {
+          "left": "shareholder",
+          "right": "a person who owns part of a company"
+        },
+        {
+          "left": "turnover",
+          "right": "total sales"
+        },
+        {
+          "left": "merger",
+          "right": "joining of two companies"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-145",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each sport with where it is played.",
+      "explanation": "Sports and places: for example, \"tennis\" goes with \"court\".",
+      "pairs": [
+        {
+          "left": "skiing",
+          "right": "slope"
+        },
+        {
+          "left": "tennis",
+          "right": "court"
+        },
+        {
+          "left": "boxing",
+          "right": "ring"
+        },
+        {
+          "left": "golf",
+          "right": "course"
+        },
+        {
+          "left": "football",
+          "right": "pitch"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-146",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Back\" phrasal verbs: for example, \"back up\" goes with \"support\".",
+      "pairs": [
+        {
+          "left": "back out",
+          "right": "refuse to do something promised"
+        },
+        {
+          "left": "back away",
+          "right": "retreat"
+        },
+        {
+          "left": "back off",
+          "right": "move away"
+        },
+        {
+          "left": "back down",
+          "right": "withdraw"
+        },
+        {
+          "left": "back up",
+          "right": "support"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-147",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each adjective with the noun it describes best.",
+      "explanation": "Adjective-noun pairs: for example, \"bitter\" goes with \"disappointment\".",
+      "pairs": [
+        {
+          "left": "bitter",
+          "right": "disappointment"
+        },
+        {
+          "left": "sharp",
+          "right": "knife"
+        },
+        {
+          "left": "heavy",
+          "right": "rain"
+        },
+        {
+          "left": "steep",
+          "right": "hill"
+        },
+        {
+          "left": "warm",
+          "right": "welcome"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-148",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each verb with the thing it is used with.",
+      "explanation": "Verb collocations: for example, \"make\" goes with \"a decision\".",
+      "pairs": [
+        {
+          "left": "make",
+          "right": "a decision"
+        },
+        {
+          "left": "have",
+          "right": "a shower"
+        },
+        {
+          "left": "give",
+          "right": "a speech"
+        },
+        {
+          "left": "take",
+          "right": "a photograph"
+        },
+        {
+          "left": "do",
+          "right": "homework"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-149",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each phrase with the situation.",
+      "explanation": "Idioms: for example, \"a blessing in disguise\" goes with \"bad luck becomes good\".",
+      "pairs": [
+        {
+          "left": "a blessing in disguise",
+          "right": "bad luck becomes good"
+        },
+        {
+          "left": "a white lie",
+          "right": "a harmless untruth"
+        },
+        {
+          "left": "the last straw",
+          "right": "one problem too many"
+        },
+        {
+          "left": "a piece of cake",
+          "right": "an easy task"
+        },
+        {
+          "left": "cold feet",
+          "right": "sudden fear before an event"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-150",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Match each sentence with the type of conditional.",
+      "explanation": "Conditionals: for example, \"If you heat water, it boils.\" goes with \"zero\".",
+      "pairs": [
+        {
+          "left": "If I were rich, I'd travel.",
+          "right": "second"
+        },
+        {
+          "left": "If it rains, I'll stay in.",
+          "right": "first"
+        },
+        {
+          "left": "If you heat water, it boils.",
+          "right": "zero"
+        },
+        {
+          "left": "If I had known, I'd have called.",
+          "right": "third"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-151",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Bring\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "bring about",
+          "right": "cause to happen"
+        },
+        {
+          "left": "bring out",
+          "right": "publish"
+        },
+        {
+          "left": "bring up",
+          "right": "raise a child"
+        },
+        {
+          "left": "bring down",
+          "right": "cause to fall"
+        },
+        {
+          "left": "bring back",
+          "right": "return something"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-152",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each social word with its meaning.",
+      "explanation": "Social vocabulary: for example, \"poverty\" goes with \"lack of money\".",
+      "pairs": [
+        {
+          "left": "welfare",
+          "right": "help for people in need"
+        },
+        {
+          "left": "unemployment",
+          "right": "lack of jobs"
+        },
+        {
+          "left": "inequality",
+          "right": "unfair difference"
+        },
+        {
+          "left": "poverty",
+          "right": "lack of money"
+        },
+        {
+          "left": "pension",
+          "right": "money paid after retirement"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-153",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Drop\" phrasal verbs: for example, \"drop out\" goes with \"leave a course\".",
+      "pairs": [
+        {
+          "left": "drop off",
+          "right": "fall asleep"
+        },
+        {
+          "left": "drop by",
+          "right": "visit briefly"
+        },
+        {
+          "left": "drop out",
+          "right": "leave a course"
+        },
+        {
+          "left": "drop behind",
+          "right": "fall back"
+        },
+        {
+          "left": "drop in",
+          "right": "visit casually"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-154",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each word with its meaning.",
+      "explanation": "Verbs of creating: for example, \"invent\" goes with \"create something new\".",
+      "pairs": [
+        {
+          "left": "design",
+          "right": "plan how something will look"
+        },
+        {
+          "left": "invent",
+          "right": "create something new"
+        },
+        {
+          "left": "discover",
+          "right": "find something existing"
+        },
+        {
+          "left": "develop",
+          "right": "make something grow"
+        },
+        {
+          "left": "manufacture",
+          "right": "produce in a factory"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-155",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each feeling with a situation.",
+      "explanation": "Feelings: for example, \"furious\" goes with \"someone cheats you\".",
+      "pairs": [
+        {
+          "left": "furious",
+          "right": "someone cheats you"
+        },
+        {
+          "left": "embarrassed",
+          "right": "you trip in public"
+        },
+        {
+          "left": "exhausted",
+          "right": "you run a marathon"
+        },
+        {
+          "left": "anxious",
+          "right": "you wait for exam results"
+        },
+        {
+          "left": "thrilled",
+          "right": "you win a prize"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-156",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each film word with its meaning.",
+      "explanation": "Film vocabulary: for example, \"plot\" goes with \"the story\".",
+      "pairs": [
+        {
+          "left": "trailer",
+          "right": "a short advertisement for a film"
+        },
+        {
+          "left": "script",
+          "right": "the written text"
+        },
+        {
+          "left": "sequel",
+          "right": "a follow-up film"
+        },
+        {
+          "left": "plot",
+          "right": "the story"
+        },
+        {
+          "left": "cast",
+          "right": "the actors"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-157",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Pick\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "pick up",
+          "right": "learn casually"
+        },
+        {
+          "left": "pick up on",
+          "right": "notice"
+        },
+        {
+          "left": "pick at",
+          "right": "eat without appetite"
+        },
+        {
+          "left": "pick out",
+          "right": "choose"
+        },
+        {
+          "left": "pick on",
+          "right": "treat unfairly"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-158",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each word with its synonym.",
+      "explanation": "Synonyms: for example, \"enormous\" goes with \"huge\".",
+      "pairs": [
+        {
+          "left": "tiny",
+          "right": "minute"
+        },
+        {
+          "left": "brave",
+          "right": "courageous"
+        },
+        {
+          "left": "furious",
+          "right": "angry"
+        },
+        {
+          "left": "enormous",
+          "right": "huge"
+        },
+        {
+          "left": "clever",
+          "right": "intelligent"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-159",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each idiom with its meaning.",
+      "explanation": "Idioms: for example, \"a blessing in disguise\" goes with \"good result from bad luck\".",
+      "pairs": [
+        {
+          "left": "call it a day",
+          "right": "stop working"
+        },
+        {
+          "left": "cut corners",
+          "right": "do something cheaply"
+        },
+        {
+          "left": "a blessing in disguise",
+          "right": "good result from bad luck"
+        },
+        {
+          "left": "jump the gun",
+          "right": "act too early"
+        },
+        {
+          "left": "get cold feet",
+          "right": "become nervous"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-160",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Match each adjective with its preposition.",
+      "explanation": "Adjective-preposition pairs: for example, \"afraid\" goes with \"of\".",
+      "pairs": [
+        {
+          "left": "interested",
+          "right": "in"
+        },
+        {
+          "left": "good",
+          "right": "at"
+        },
+        {
+          "left": "afraid",
+          "right": "of"
+        },
+        {
+          "left": "keen",
+          "right": "on"
+        },
+        {
+          "left": "responsible",
+          "right": "for"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-161",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its meaning.",
+      "explanation": "Money verbs: for example, \"borrow\" goes with \"take temporarily\".",
+      "pairs": [
+        {
+          "left": "lease",
+          "right": "rent for a long time"
+        },
+        {
+          "left": "rent",
+          "right": "pay to use"
+        },
+        {
+          "left": "lend",
+          "right": "give temporarily"
+        },
+        {
+          "left": "borrow",
+          "right": "take temporarily"
+        },
+        {
+          "left": "owe",
+          "right": "have to pay back"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-162",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its meaning.",
+      "explanation": "Seeing words: for example, \"scenery\" goes with \"natural views\".",
+      "pairs": [
+        {
+          "left": "landscape",
+          "right": "an area of land"
+        },
+        {
+          "left": "view",
+          "right": "what you can see from a place"
+        },
+        {
+          "left": "scenery",
+          "right": "natural views"
+        },
+        {
+          "left": "sight",
+          "right": "something seen"
+        },
+        {
+          "left": "scene",
+          "right": "a view or event"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-163",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each collocation with a suitable noun.",
+      "explanation": "Adjective-noun collocations: for example, \"heavy\" goes with \"traffic\".",
+      "pairs": [
+        {
+          "left": "fierce",
+          "right": "competition"
+        },
+        {
+          "left": "deep",
+          "right": "sleep"
+        },
+        {
+          "left": "strong",
+          "right": "coffee"
+        },
+        {
+          "left": "sharp",
+          "right": "increase"
+        },
+        {
+          "left": "heavy",
+          "right": "traffic"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-164",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each word with its meaning at work.",
+      "explanation": "Workplace words: for example, \"deadline\" goes with \"the time by which work must be done\".",
+      "pairs": [
+        {
+          "left": "agenda",
+          "right": "a list of topics for a meeting"
+        },
+        {
+          "left": "deadline",
+          "right": "the time by which work must be done"
+        },
+        {
+          "left": "overtime",
+          "right": "extra hours worked"
+        },
+        {
+          "left": "colleague",
+          "right": "a person you work with"
+        },
+        {
+          "left": "salary",
+          "right": "fixed regular pay"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-165",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each place with what you can do there.",
+      "explanation": "Places: for example, \"gallery\" goes with \"see paintings\".",
+      "pairs": [
+        {
+          "left": "market",
+          "right": "buy fresh food"
+        },
+        {
+          "left": "pier",
+          "right": "walk out over the sea"
+        },
+        {
+          "left": "castle",
+          "right": "explore a medieval building"
+        },
+        {
+          "left": "stadium",
+          "right": "watch a football match"
+        },
+        {
+          "left": "gallery",
+          "right": "see paintings"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-166",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Match each phrase with its meaning.",
+      "explanation": "Time prepositions: for example, \"in time\" goes with \"early enough\".",
+      "pairs": [
+        {
+          "left": "by the end",
+          "right": "not later than the final point"
+        },
+        {
+          "left": "in the end",
+          "right": "finally"
+        },
+        {
+          "left": "on time",
+          "right": "punctually"
+        },
+        {
+          "left": "at the end",
+          "right": "at the last point"
+        },
+        {
+          "left": "in time",
+          "right": "early enough"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-167",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each transport word with its meaning.",
+      "explanation": "Transport vocabulary: for example, \"ferry\" goes with \"a boat for passengers and vehicles\".",
+      "pairs": [
+        {
+          "left": "liner",
+          "right": "a large passenger ship"
+        },
+        {
+          "left": "tram",
+          "right": "a vehicle on rails in a city"
+        },
+        {
+          "left": "hitchhike",
+          "right": "travel by getting lifts"
+        },
+        {
+          "left": "commute",
+          "right": "travel regularly to work"
+        },
+        {
+          "left": "ferry",
+          "right": "a boat for passengers and vehicles"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-168",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each verb with the noun it collocates with.",
+      "explanation": "Verb-noun collocations: for example, \"make\" goes with \"a mistake\".",
+      "pairs": [
+        {
+          "left": "make",
+          "right": "a mistake"
+        },
+        {
+          "left": "take",
+          "right": "a risk"
+        },
+        {
+          "left": "give",
+          "right": "a speech"
+        },
+        {
+          "left": "pay",
+          "right": "attention"
+        },
+        {
+          "left": "do",
+          "right": "the shopping"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-169",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Match each word with a suitable noun.",
+      "explanation": "Adjective-noun collocations: for example, \"heavy\" goes with \"rain\".",
+      "pairs": [
+        {
+          "left": "deep",
+          "right": "breath"
+        },
+        {
+          "left": "thick",
+          "right": "fog"
+        },
+        {
+          "left": "heavy",
+          "right": "rain"
+        },
+        {
+          "left": "sharp",
+          "right": "pain"
+        },
+        {
+          "left": "strong",
+          "right": "wind"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-170",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Match each pair with the better comparison.",
+      "explanation": "Comparatives: for example, \"quiet\" goes with \"quieter\".",
+      "pairs": [
+        {
+          "left": "heavy",
+          "right": "heavier"
+        },
+        {
+          "left": "good",
+          "right": "better"
+        },
+        {
+          "left": "quiet",
+          "right": "quieter"
+        },
+        {
+          "left": "difficult",
+          "right": "more difficult"
+        },
+        {
+          "left": "far",
+          "right": "farther"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-171",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each idiom with its meaning.",
+      "explanation": "Idioms: for example, \"spill the beans\" goes with \"reveal a secret\".",
+      "pairs": [
+        {
+          "left": "spill the beans",
+          "right": "reveal a secret"
+        },
+        {
+          "left": "cost an arm and a leg",
+          "right": "be very expensive"
+        },
+        {
+          "left": "bite the bullet",
+          "right": "face something unpleasant"
+        },
+        {
+          "left": "hit the nail on the head",
+          "right": "be exactly right"
+        },
+        {
+          "left": "let the cat out of the bag",
+          "right": "reveal a secret by accident"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-172",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Match each adverb with the verb it often goes with.",
+      "explanation": "Collocations: for example, \"deeply\" goes with \"regret\".",
+      "pairs": [
+        {
+          "left": "highly",
+          "right": "skilled"
+        },
+        {
+          "left": "deeply",
+          "right": "regret"
+        },
+        {
+          "left": "seriously",
+          "right": "injured"
+        },
+        {
+          "left": "strongly",
+          "right": "recommend"
+        },
+        {
+          "left": "fully",
+          "right": "aware"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-173",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each verb with its meaning.",
+      "explanation": "Reactions: for example, \"giggle\" goes with \"laugh in a silly way\".",
+      "pairs": [
+        {
+          "left": "chuckle",
+          "right": "laugh quietly"
+        },
+        {
+          "left": "frown",
+          "right": "show displeasure with the face"
+        },
+        {
+          "left": "giggle",
+          "right": "laugh in a silly way"
+        },
+        {
+          "left": "grin",
+          "right": "smile widely"
+        },
+        {
+          "left": "sob",
+          "right": "cry noisily"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-174",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each noun with its definition.",
+      "explanation": "Payment nouns: for example, \"fare\" goes with \"price of a ticket\".",
+      "pairs": [
+        {
+          "left": "fine",
+          "right": "money paid as a punishment"
+        },
+        {
+          "left": "rent",
+          "right": "payment for housing"
+        },
+        {
+          "left": "fee",
+          "right": "payment for a service"
+        },
+        {
+          "left": "fare",
+          "right": "price of a ticket"
+        },
+        {
+          "left": "toll",
+          "right": "charge for a road"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-175",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Match each preposition with the expression.",
+      "explanation": "Prepositions of time: for example, \"in\" goes with \"the morning\".",
+      "pairs": [
+        {
+          "left": "in",
+          "right": "the morning"
+        },
+        {
+          "left": "on",
+          "right": "Monday"
+        },
+        {
+          "left": "at",
+          "right": "night"
+        },
+        {
+          "left": "during",
+          "right": "the war"
+        },
+        {
+          "left": "by",
+          "right": "Friday (deadline)"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-176",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each adjective with the weather it describes.",
+      "explanation": "Weather: for example, \"drizzly\" goes with \"light rain\".",
+      "pairs": [
+        {
+          "left": "foggy",
+          "right": "poor visibility"
+        },
+        {
+          "left": "breezy",
+          "right": "light wind"
+        },
+        {
+          "left": "scorching",
+          "right": "very hot"
+        },
+        {
+          "left": "humid",
+          "right": "damp and warm"
+        },
+        {
+          "left": "drizzly",
+          "right": "light rain"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-177",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each word with its opposite.",
+      "explanation": "Opposites: for example, \"generous\" goes with \"mean\".",
+      "pairs": [
+        {
+          "left": "shallow",
+          "right": "deep"
+        },
+        {
+          "left": "ancient",
+          "right": "modern"
+        },
+        {
+          "left": "temporary",
+          "right": "permanent"
+        },
+        {
+          "left": "rough",
+          "right": "smooth"
+        },
+        {
+          "left": "generous",
+          "right": "mean"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-178",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Look\" phrasal verbs: for example, \"look after\" goes with \"take care of\".",
+      "pairs": [
+        {
+          "left": "look after",
+          "right": "take care of"
+        },
+        {
+          "left": "look for",
+          "right": "search"
+        },
+        {
+          "left": "look out",
+          "right": "be careful"
+        },
+        {
+          "left": "look into",
+          "right": "investigate"
+        },
+        {
+          "left": "look up",
+          "right": "search in a book"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-179",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each verb with its related noun.",
+      "explanation": "Word formation: for example, \"decide\" goes with \"decision\".",
+      "pairs": [
+        {
+          "left": "prove",
+          "right": "proof"
+        },
+        {
+          "left": "choose",
+          "right": "choice"
+        },
+        {
+          "left": "succeed",
+          "right": "success"
+        },
+        {
+          "left": "decide",
+          "right": "decision"
+        },
+        {
+          "left": "fail",
+          "right": "failure"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-180",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its meaning.",
+      "explanation": "Words that look alike: for example, \"quit\" goes with \"stop doing something\".",
+      "pairs": [
+        {
+          "left": "queue",
+          "right": "a line of people"
+        },
+        {
+          "left": "quite",
+          "right": "fairly"
+        },
+        {
+          "left": "quiet",
+          "right": "not noisy"
+        },
+        {
+          "left": "quit",
+          "right": "stop doing something"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-181",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each legal word with its meaning.",
+      "explanation": "Legal vocabulary: for example, \"witness\" goes with \"a person who sees a crime\".",
+      "pairs": [
+        {
+          "left": "witness",
+          "right": "a person who sees a crime"
+        },
+        {
+          "left": "evidence",
+          "right": "facts that prove something"
+        },
+        {
+          "left": "verdict",
+          "right": "the decision of a court"
+        },
+        {
+          "left": "defendant",
+          "right": "a person accused in court"
+        },
+        {
+          "left": "sentence",
+          "right": "a punishment"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-182",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each adjective with the kind of person.",
+      "explanation": "Describing people: for example, \"easy-going\" goes with \"relaxed and tolerant\".",
+      "pairs": [
+        {
+          "left": "reliable",
+          "right": "can be trusted"
+        },
+        {
+          "left": "generous",
+          "right": "willing to give"
+        },
+        {
+          "left": "easy-going",
+          "right": "relaxed and tolerant"
+        },
+        {
+          "left": "stubborn",
+          "right": "refuses to change"
+        },
+        {
+          "left": "selfish",
+          "right": "cares only about themselves"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-183",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Match each tense with an example.",
+      "explanation": "Tenses: for example, \"present perfect\" goes with \"I have lived here for years.\".",
+      "pairs": [
+        {
+          "left": "past perfect",
+          "right": "I had lived here before."
+        },
+        {
+          "left": "present perfect",
+          "right": "I have lived here for years."
+        },
+        {
+          "left": "past simple",
+          "right": "I moved here in 2010."
+        },
+        {
+          "left": "future perfect",
+          "right": "I will have lived here for ten years."
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-184",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each verb with its meaning.",
+      "explanation": "Ways of speaking: for example, \"whisper\" goes with \"speak very quietly\".",
+      "pairs": [
+        {
+          "left": "stammer",
+          "right": "speak with repeated sounds"
+        },
+        {
+          "left": "shout",
+          "right": "speak very loudly"
+        },
+        {
+          "left": "murmur",
+          "right": "speak softly and continuously"
+        },
+        {
+          "left": "whisper",
+          "right": "speak very quietly"
+        },
+        {
+          "left": "mumble",
+          "right": "speak unclearly"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-185",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Give\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "give out",
+          "right": "distribute"
+        },
+        {
+          "left": "give away",
+          "right": "donate or reveal"
+        },
+        {
+          "left": "give off",
+          "right": "produce a smell or light"
+        },
+        {
+          "left": "give up",
+          "right": "stop trying"
+        },
+        {
+          "left": "give in",
+          "right": "surrender"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-186",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "Verbs of seeing: for example, \"look\" goes with \"direct your eyes\".",
+      "pairs": [
+        {
+          "left": "see",
+          "right": "notice with your eyes"
+        },
+        {
+          "left": "watch",
+          "right": "observe attentively"
+        },
+        {
+          "left": "look",
+          "right": "direct your eyes"
+        },
+        {
+          "left": "glance",
+          "right": "look briefly"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-187",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each word with its meaning.",
+      "explanation": "Money in business: for example, \"invoice\" goes with \"a bill for goods\".",
+      "pairs": [
+        {
+          "left": "receipt",
+          "right": "proof of payment"
+        },
+        {
+          "left": "loss",
+          "right": "money lost"
+        },
+        {
+          "left": "profit",
+          "right": "money earned after costs"
+        },
+        {
+          "left": "invoice",
+          "right": "a bill for goods"
+        },
+        {
+          "left": "budget",
+          "right": "a plan for spending money"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-188",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Run\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "run out of",
+          "right": "have none left"
+        },
+        {
+          "left": "run down",
+          "right": "criticise or lose power"
+        },
+        {
+          "left": "run over",
+          "right": "hit with a vehicle"
+        },
+        {
+          "left": "run through",
+          "right": "rehearse"
+        },
+        {
+          "left": "run into",
+          "right": "meet by chance"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-189",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Carry\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "carry over",
+          "right": "transfer to a later time"
+        },
+        {
+          "left": "carry off",
+          "right": "succeed in doing"
+        },
+        {
+          "left": "carry out",
+          "right": "perform"
+        },
+        {
+          "left": "carry on",
+          "right": "continue"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-190",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each science word with its meaning.",
+      "explanation": "Science vocabulary: for example, \"experiment\" goes with \"a test to find a result\".",
+      "pairs": [
+        {
+          "left": "theory",
+          "right": "a set of ideas explaining something"
+        },
+        {
+          "left": "hypothesis",
+          "right": "an idea to be tested"
+        },
+        {
+          "left": "laboratory",
+          "right": "a place for scientific work"
+        },
+        {
+          "left": "evidence",
+          "right": "facts that support a claim"
+        },
+        {
+          "left": "experiment",
+          "right": "a test to find a result"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-191",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each phrase with its meaning.",
+      "explanation": "Work phrases: for example, \"in charge of\" goes with \"responsible for\".",
+      "pairs": [
+        {
+          "left": "on strike",
+          "right": "refusing to work"
+        },
+        {
+          "left": "on duty",
+          "right": "working"
+        },
+        {
+          "left": "in charge of",
+          "right": "responsible for"
+        },
+        {
+          "left": "out of work",
+          "right": "unemployed"
+        },
+        {
+          "left": "off sick",
+          "right": "absent through illness"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-192",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each place with its description.",
+      "explanation": "Places: for example, \"resort\" goes with \"a place for holidays\".",
+      "pairs": [
+        {
+          "left": "harbour",
+          "right": "a sheltered port"
+        },
+        {
+          "left": "suburb",
+          "right": "an area outside a city centre"
+        },
+        {
+          "left": "skyscraper",
+          "right": "a very tall building"
+        },
+        {
+          "left": "resort",
+          "right": "a place for holidays"
+        },
+        {
+          "left": "landmark",
+          "right": "a famous recognisable place"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-193",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "Verbs of upward movement: for example, \"raise\" goes with \"lift or increase\".",
+      "pairs": [
+        {
+          "left": "arouse",
+          "right": "cause a feeling"
+        },
+        {
+          "left": "raise",
+          "right": "lift or increase"
+        },
+        {
+          "left": "arise",
+          "right": "appear"
+        },
+        {
+          "left": "rise",
+          "right": "go up by itself"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-194",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each word with its meaning in travel.",
+      "explanation": "Travel vocabulary: for example, \"passport\" goes with \"an official document for travel abroad\".",
+      "pairs": [
+        {
+          "left": "luggage",
+          "right": "bags taken on a journey"
+        },
+        {
+          "left": "souvenir",
+          "right": "an object bought as a memory"
+        },
+        {
+          "left": "customs",
+          "right": "the place where goods are checked"
+        },
+        {
+          "left": "passport",
+          "right": "an official document for travel abroad"
+        },
+        {
+          "left": "itinerary",
+          "right": "a plan of a journey"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-195",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "Words that look similar: for example, \"sensible\" goes with \"practical\".",
+      "pairs": [
+        {
+          "left": "sensual",
+          "right": "relating to physical pleasure"
+        },
+        {
+          "left": "sensitive",
+          "right": "easily hurt"
+        },
+        {
+          "left": "sensational",
+          "right": "causing great excitement"
+        },
+        {
+          "left": "sensible",
+          "right": "practical"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-196",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Match each modal with its meaning.",
+      "explanation": "Modal meanings: for example, \"must\" goes with \"strong obligation\".",
+      "pairs": [
+        {
+          "left": "might",
+          "right": "weak possibility"
+        },
+        {
+          "left": "must",
+          "right": "strong obligation"
+        },
+        {
+          "left": "needn't",
+          "right": "no necessity"
+        },
+        {
+          "left": "should",
+          "right": "advice"
+        },
+        {
+          "left": "can't",
+          "right": "impossibility"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-197",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each academic word with its meaning.",
+      "explanation": "Education: for example, \"tutor\" goes with \"a teacher who guides individual students\".",
+      "pairs": [
+        {
+          "left": "tutor",
+          "right": "a teacher who guides individual students"
+        },
+        {
+          "left": "lecture",
+          "right": "a long talk to students"
+        },
+        {
+          "left": "assignment",
+          "right": "a task set by a teacher"
+        },
+        {
+          "left": "campus",
+          "right": "the grounds of a university"
+        },
+        {
+          "left": "graduate",
+          "right": "a person with a degree"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-198",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Match each comparative structure with its meaning.",
+      "explanation": "Comparison: for example, \"as tall as\" goes with \"equal height\".",
+      "pairs": [
+        {
+          "left": "the tallest",
+          "right": "greatest height"
+        },
+        {
+          "left": "taller than",
+          "right": "greater height"
+        },
+        {
+          "left": "as tall as",
+          "right": "equal height"
+        },
+        {
+          "left": "not as tall as",
+          "right": "lesser height"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-199",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Match each phrase with its meaning.",
+      "explanation": "Modal-like phrases: for example, \"be able to\" goes with \"have the ability\".",
+      "pairs": [
+        {
+          "left": "have to",
+          "right": "be obliged"
+        },
+        {
+          "left": "be allowed to",
+          "right": "have permission"
+        },
+        {
+          "left": "be bound to",
+          "right": "be certain to"
+        },
+        {
+          "left": "be able to",
+          "right": "have the ability"
+        },
+        {
+          "left": "be about to",
+          "right": "be on the point of"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-200",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Match each time word with the tense it signals.",
+      "explanation": "Time words: for example, \"already\" goes with \"present perfect\".",
+      "pairs": [
+        {
+          "left": "while",
+          "right": "past continuous"
+        },
+        {
+          "left": "already",
+          "right": "present perfect"
+        },
+        {
+          "left": "tomorrow",
+          "right": "future"
+        },
+        {
+          "left": "ago",
+          "right": "past simple"
+        },
+        {
+          "left": "by next year",
+          "right": "future perfect"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-201",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each music word with its meaning.",
+      "explanation": "Music vocabulary: for example, \"rehearsal\" goes with \"practice before a performance\".",
+      "pairs": [
+        {
+          "left": "audience",
+          "right": "people who watch"
+        },
+        {
+          "left": "encore",
+          "right": "an extra song"
+        },
+        {
+          "left": "composer",
+          "right": "a person who writes music"
+        },
+        {
+          "left": "lyrics",
+          "right": "words of a song"
+        },
+        {
+          "left": "rehearsal",
+          "right": "practice before a performance"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-202",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each noun with its typical partner.",
+      "explanation": "Partitive expressions: for example, \"a piece of\" goes with \"advice\".",
+      "pairs": [
+        {
+          "left": "a pair of",
+          "right": "scissors"
+        },
+        {
+          "left": "a loaf of",
+          "right": "bread"
+        },
+        {
+          "left": "a bar of",
+          "right": "chocolate"
+        },
+        {
+          "left": "a piece of",
+          "right": "advice"
+        },
+        {
+          "left": "a glass of",
+          "right": "water"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-203",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each verb with its meaning.",
+      "explanation": "Ways of walking: for example, \"stroll\" goes with \"walk slowly for pleasure\".",
+      "pairs": [
+        {
+          "left": "stroll",
+          "right": "walk slowly for pleasure"
+        },
+        {
+          "left": "limp",
+          "right": "walk with difficulty because of injury"
+        },
+        {
+          "left": "tiptoe",
+          "right": "walk quietly on the front of the feet"
+        },
+        {
+          "left": "stride",
+          "right": "walk with long steps"
+        },
+        {
+          "left": "stagger",
+          "right": "walk unsteadily"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-204",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each airport word with its meaning.",
+      "explanation": "Airport vocabulary: for example, \"gate\" goes with \"the place where you board\".",
+      "pairs": [
+        {
+          "left": "carousel",
+          "right": "where luggage is collected"
+        },
+        {
+          "left": "gate",
+          "right": "the place where you board"
+        },
+        {
+          "left": "boarding pass",
+          "right": "a ticket for the plane"
+        },
+        {
+          "left": "departure",
+          "right": "leaving"
+        },
+        {
+          "left": "runway",
+          "right": "the strip where planes land"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-205",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Match each phrase with its meaning.",
+      "explanation": "Quantifier phrases have different meanings.",
+      "pairs": [
+        {
+          "left": "plenty of",
+          "right": "more than enough"
+        },
+        {
+          "left": "hardly any",
+          "right": "almost none"
+        },
+        {
+          "left": "a great deal of",
+          "right": "a large amount"
+        },
+        {
+          "left": "a couple of",
+          "right": "two or so"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-206",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each natural disaster with its description.",
+      "explanation": "Disasters: for example, \"earthquake\" goes with \"shaking of the ground\".",
+      "pairs": [
+        {
+          "left": "drought",
+          "right": "a long period without rain"
+        },
+        {
+          "left": "wildfire",
+          "right": "an uncontrolled fire in nature"
+        },
+        {
+          "left": "earthquake",
+          "right": "shaking of the ground"
+        },
+        {
+          "left": "flood",
+          "right": "too much water on land"
+        },
+        {
+          "left": "hurricane",
+          "right": "a violent tropical storm"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-207",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Match each active sentence with its passive.",
+      "explanation": "Passive forms: for example, \"They built the bridge.\" goes with \"The bridge was built.\".",
+      "pairs": [
+        {
+          "left": "They have built the bridge.",
+          "right": "The bridge has been built."
+        },
+        {
+          "left": "They will build the bridge.",
+          "right": "The bridge will be built."
+        },
+        {
+          "left": "They built the bridge.",
+          "right": "The bridge was built."
+        },
+        {
+          "left": "They are building the bridge.",
+          "right": "The bridge is being built."
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-208",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its meaning.",
+      "explanation": "Confusing words: for example, \"compliment\" goes with \"a polite remark of praise\".",
+      "pairs": [
+        {
+          "left": "complement",
+          "right": "something that completes"
+        },
+        {
+          "left": "beside",
+          "right": "next to"
+        },
+        {
+          "left": "elder",
+          "right": "older (for family)"
+        },
+        {
+          "left": "compliment",
+          "right": "a polite remark of praise"
+        },
+        {
+          "left": "besides",
+          "right": "in addition to"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-209",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each animal with its habitat.",
+      "explanation": "Animals: for example, \"camel\" goes with \"desert\".",
+      "pairs": [
+        {
+          "left": "monkey",
+          "right": "rainforest"
+        },
+        {
+          "left": "trout",
+          "right": "river"
+        },
+        {
+          "left": "eagle",
+          "right": "mountain"
+        },
+        {
+          "left": "camel",
+          "right": "desert"
+        },
+        {
+          "left": "penguin",
+          "right": "polar ice"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-210",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each word with its meaning.",
+      "explanation": "Environment: for example, \"recycle\" goes with \"reuse materials\".",
+      "pairs": [
+        {
+          "left": "conserve",
+          "right": "protect from loss"
+        },
+        {
+          "left": "waste",
+          "right": "unwanted material"
+        },
+        {
+          "left": "endangered",
+          "right": "at risk of disappearing"
+        },
+        {
+          "left": "sustainable",
+          "right": "able to continue without harm"
+        },
+        {
+          "left": "recycle",
+          "right": "reuse materials"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-211",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each adjective with a noun it describes.",
+      "explanation": "Adjective-noun pairs: for example, \"fresh\" goes with \"air\".",
+      "pairs": [
+        {
+          "left": "vivid",
+          "right": "imagination"
+        },
+        {
+          "left": "brief",
+          "right": "visit"
+        },
+        {
+          "left": "vague",
+          "right": "memory"
+        },
+        {
+          "left": "fresh",
+          "right": "air"
+        },
+        {
+          "left": "massive",
+          "right": "crowd"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-212",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Match each pronoun with its function.",
+      "explanation": "Relative pronouns: for example, \"whose\" goes with \"shows possession\".",
+      "pairs": [
+        {
+          "left": "where",
+          "right": "refers to places"
+        },
+        {
+          "left": "whose",
+          "right": "shows possession"
+        },
+        {
+          "left": "which",
+          "right": "refers to things"
+        },
+        {
+          "left": "whom",
+          "right": "object of a verb or preposition"
+        },
+        {
+          "left": "who",
+          "right": "subject for people"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-213",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each person with their job.",
+      "explanation": "Jobs: for example, \"plumber\" goes with \"fixes water pipes\".",
+      "pairs": [
+        {
+          "left": "plumber",
+          "right": "fixes water pipes"
+        },
+        {
+          "left": "carpenter",
+          "right": "works with wood"
+        },
+        {
+          "left": "pilot",
+          "right": "flies an aeroplane"
+        },
+        {
+          "left": "dentist",
+          "right": "treats teeth"
+        },
+        {
+          "left": "chef",
+          "right": "cooks in a restaurant"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-214",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each emotion with its usual cause.",
+      "explanation": "Emotions: for example, \"jealous\" goes with \"someone else has something you want\".",
+      "pairs": [
+        {
+          "left": "jealous",
+          "right": "someone else has something you want"
+        },
+        {
+          "left": "proud",
+          "right": "someone you love has achieved something"
+        },
+        {
+          "left": "bored",
+          "right": "nothing interesting is happening"
+        },
+        {
+          "left": "nervous",
+          "right": "an important interview is coming"
+        },
+        {
+          "left": "relieved",
+          "right": "a worry has ended"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-215",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each noun with its definition.",
+      "explanation": "Travel nouns: for example, \"journey\" goes with \"a long trip\".",
+      "pairs": [
+        {
+          "left": "excursion",
+          "right": "a short organised outing"
+        },
+        {
+          "left": "voyage",
+          "right": "a long sea trip"
+        },
+        {
+          "left": "journey",
+          "right": "a long trip"
+        },
+        {
+          "left": "trip",
+          "right": "a short visit"
+        },
+        {
+          "left": "commute",
+          "right": "a regular trip to work"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-216",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each word with its meaning in the workplace.",
+      "explanation": "Workplace vocabulary: for example, \"colleague\" goes with \"a person you work with\".",
+      "pairs": [
+        {
+          "left": "supervisor",
+          "right": "a person who watches over your work"
+        },
+        {
+          "left": "trainee",
+          "right": "a person learning a job"
+        },
+        {
+          "left": "employer",
+          "right": "a person who gives you work"
+        },
+        {
+          "left": "colleague",
+          "right": "a person you work with"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-217",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each word with its meaning at work.",
+      "explanation": "Employment verbs: for example, \"resign\" goes with \"leave a job by choice\".",
+      "pairs": [
+        {
+          "left": "recruit",
+          "right": "find new workers"
+        },
+        {
+          "left": "promote",
+          "right": "move to a higher position"
+        },
+        {
+          "left": "dismiss",
+          "right": "make someone leave"
+        },
+        {
+          "left": "resign",
+          "right": "leave a job by choice"
+        },
+        {
+          "left": "retire",
+          "right": "stop working because of age"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-218",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Match each pronoun with the word it refers to.",
+      "explanation": "Reflexive pronouns: for example, \"I\" goes with \"myself\".",
+      "pairs": [
+        {
+          "left": "we",
+          "right": "ourselves"
+        },
+        {
+          "left": "they",
+          "right": "themselves"
+        },
+        {
+          "left": "it",
+          "right": "itself"
+        },
+        {
+          "left": "she",
+          "right": "herself"
+        },
+        {
+          "left": "I",
+          "right": "myself"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-219",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "Adjectives with different meanings: for example, \"economic\" goes with \"relating to the economy\".",
+      "pairs": [
+        {
+          "left": "historical",
+          "right": "relating to the past"
+        },
+        {
+          "left": "historic",
+          "right": "important in history"
+        },
+        {
+          "left": "economical",
+          "right": "cheap to use"
+        },
+        {
+          "left": "classic",
+          "right": "of the highest quality"
+        },
+        {
+          "left": "economic",
+          "right": "relating to the economy"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-220",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each prefix with its meaning.",
+      "explanation": "Prefixes: for example, \"mis-\" goes with \"wrongly\".",
+      "pairs": [
+        {
+          "left": "under-",
+          "right": "not enough"
+        },
+        {
+          "left": "mis-",
+          "right": "wrongly"
+        },
+        {
+          "left": "anti-",
+          "right": "against"
+        },
+        {
+          "left": "over-",
+          "right": "too much"
+        },
+        {
+          "left": "re-",
+          "right": "again"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-221",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each noun with its related adjective.",
+      "explanation": "Word formation: for example, \"danger\" goes with \"dangerous\".",
+      "pairs": [
+        {
+          "left": "fame",
+          "right": "famous"
+        },
+        {
+          "left": "advantage",
+          "right": "advantageous"
+        },
+        {
+          "left": "courage",
+          "right": "courageous"
+        },
+        {
+          "left": "danger",
+          "right": "dangerous"
+        },
+        {
+          "left": "nation",
+          "right": "national"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-222",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each verb with the noun it collocates with.",
+      "explanation": "Verb-noun collocations: for example, \"meet\" goes with \"a deadline\".",
+      "pairs": [
+        {
+          "left": "waste",
+          "right": "energy"
+        },
+        {
+          "left": "spend",
+          "right": "money"
+        },
+        {
+          "left": "save",
+          "right": "time"
+        },
+        {
+          "left": "run",
+          "right": "a business"
+        },
+        {
+          "left": "meet",
+          "right": "a deadline"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-223",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each verb with the noun it collocates with.",
+      "explanation": "Verb-noun collocations: for example, \"catch\" goes with \"a cold\".",
+      "pairs": [
+        {
+          "left": "raise",
+          "right": "a question"
+        },
+        {
+          "left": "reach",
+          "right": "a conclusion"
+        },
+        {
+          "left": "catch",
+          "right": "a cold"
+        },
+        {
+          "left": "draw",
+          "right": "a comparison"
+        },
+        {
+          "left": "break",
+          "right": "a promise"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-224",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Match each verb with its preposition.",
+      "explanation": "Verb-preposition pairs: for example, \"rely\" goes with \"on\".",
+      "pairs": [
+        {
+          "left": "apologise",
+          "right": "for"
+        },
+        {
+          "left": "complain",
+          "right": "about"
+        },
+        {
+          "left": "belong",
+          "right": "to"
+        },
+        {
+          "left": "suffer",
+          "right": "from"
+        },
+        {
+          "left": "rely",
+          "right": "on"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-225",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each means of transport with its description.",
+      "explanation": "Transport: for example, \"coach\" goes with \"a long-distance bus\".",
+      "pairs": [
+        {
+          "left": "ferry",
+          "right": "a boat carrying vehicles"
+        },
+        {
+          "left": "helicopter",
+          "right": "an aircraft with rotating blades"
+        },
+        {
+          "left": "taxi",
+          "right": "a car hired with a driver"
+        },
+        {
+          "left": "tram",
+          "right": "a vehicle on tracks in the street"
+        },
+        {
+          "left": "coach",
+          "right": "a long-distance bus"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-226",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Put\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "put off",
+          "right": "postpone"
+        },
+        {
+          "left": "put up with",
+          "right": "tolerate"
+        },
+        {
+          "left": "put out",
+          "right": "extinguish"
+        },
+        {
+          "left": "put down",
+          "right": "criticise or lower"
+        },
+        {
+          "left": "put across",
+          "right": "communicate"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-227",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each education word with its meaning.",
+      "explanation": "Education vocabulary: for example, \"curriculum\" goes with \"the subjects taught\".",
+      "pairs": [
+        {
+          "left": "plagiarism",
+          "right": "copying someone's work"
+        },
+        {
+          "left": "syllabus",
+          "right": "a plan for a course"
+        },
+        {
+          "left": "graduate",
+          "right": "a person with a degree"
+        },
+        {
+          "left": "tuition",
+          "right": "teaching or its fee"
+        },
+        {
+          "left": "curriculum",
+          "right": "the subjects taught"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-228",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Match each noun with the quantifier it takes.",
+      "explanation": "Quantifiers: for example, \"information\" goes with \"much\".",
+      "pairs": [
+        {
+          "left": "furniture",
+          "right": "a little"
+        },
+        {
+          "left": "books",
+          "right": "many"
+        },
+        {
+          "left": "information",
+          "right": "much"
+        },
+        {
+          "left": "luggage",
+          "right": "some"
+        },
+        {
+          "left": "people",
+          "right": "a few"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-229",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Match each adjective with the preposition it takes.",
+      "explanation": "Adjective-preposition pairs: for example, \"afraid\" goes with \"of\".",
+      "pairs": [
+        {
+          "left": "interested",
+          "right": "in"
+        },
+        {
+          "left": "good",
+          "right": "at"
+        },
+        {
+          "left": "famous",
+          "right": "for"
+        },
+        {
+          "left": "afraid",
+          "right": "of"
+        },
+        {
+          "left": "keen",
+          "right": "on"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-230",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Match each time expression with the tense it normally takes.",
+      "explanation": "Tense markers: for example, \"yesterday\" goes with \"past simple\".",
+      "pairs": [
+        {
+          "left": "by next week",
+          "right": "future perfect"
+        },
+        {
+          "left": "every day",
+          "right": "present simple"
+        },
+        {
+          "left": "since 2010",
+          "right": "present perfect"
+        },
+        {
+          "left": "at the moment",
+          "right": "present continuous"
+        },
+        {
+          "left": "yesterday",
+          "right": "past simple"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-231",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each container with what it holds.",
+      "explanation": "Containers: for example, \"jar\" goes with \"jam\".",
+      "pairs": [
+        {
+          "left": "bottle",
+          "right": "water"
+        },
+        {
+          "left": "carton",
+          "right": "milk"
+        },
+        {
+          "left": "jar",
+          "right": "jam"
+        },
+        {
+          "left": "sack",
+          "right": "potatoes"
+        },
+        {
+          "left": "tin",
+          "right": "sardines"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-232",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Match each verb with its preposition.",
+      "explanation": "Verb-preposition pairs: for example, \"depend\" goes with \"on\".",
+      "pairs": [
+        {
+          "left": "apologise",
+          "right": "for"
+        },
+        {
+          "left": "believe",
+          "right": "in"
+        },
+        {
+          "left": "depend",
+          "right": "on"
+        },
+        {
+          "left": "complain",
+          "right": "about"
+        },
+        {
+          "left": "suffer",
+          "right": "from"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-233",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each crime word with its definition.",
+      "explanation": "Crime vocabulary: for example, \"burglary\" goes with \"breaking into a building to steal\".",
+      "pairs": [
+        {
+          "left": "arson",
+          "right": "setting fire on purpose"
+        },
+        {
+          "left": "vandalism",
+          "right": "damaging property on purpose"
+        },
+        {
+          "left": "fraud",
+          "right": "deceiving to gain money"
+        },
+        {
+          "left": "mugging",
+          "right": "attacking someone to rob them"
+        },
+        {
+          "left": "burglary",
+          "right": "breaking into a building to steal"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-234",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Match each direct speech with the reporting verb.",
+      "explanation": "Reporting verbs: for example, \"\"I'll help you.\"\" goes with \"promised\".",
+      "pairs": [
+        {
+          "left": "\"Why don't we go?\"",
+          "right": "suggested"
+        },
+        {
+          "left": "\"Sorry I'm late.\"",
+          "right": "apologised"
+        },
+        {
+          "left": "\"I didn't do it.\"",
+          "right": "denied"
+        },
+        {
+          "left": "\"Be careful!\"",
+          "right": "warned"
+        },
+        {
+          "left": "\"I'll help you.\"",
+          "right": "promised"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-235",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Stand\" phrasal verbs: for example, \"stand for\" goes with \"represent\".",
+      "pairs": [
+        {
+          "left": "stand out",
+          "right": "be noticeable"
+        },
+        {
+          "left": "stand in for",
+          "right": "replace temporarily"
+        },
+        {
+          "left": "stand up for",
+          "right": "defend"
+        },
+        {
+          "left": "stand by",
+          "right": "be ready to help"
+        },
+        {
+          "left": "stand for",
+          "right": "represent"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-236",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Take\" phrasal verbs: for example, \"take off\" goes with \"leave the ground\".",
+      "pairs": [
+        {
+          "left": "take in",
+          "right": "understand"
+        },
+        {
+          "left": "take over",
+          "right": "assume control"
+        },
+        {
+          "left": "take back",
+          "right": "return"
+        },
+        {
+          "left": "take off",
+          "right": "leave the ground"
+        },
+        {
+          "left": "take apart",
+          "right": "separate into pieces"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-237",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each job with what the person does.",
+      "explanation": "Jobs have distinct duties: for example, \"architect\" goes with \"designs buildings\".",
+      "pairs": [
+        {
+          "left": "surgeon",
+          "right": "performs operations"
+        },
+        {
+          "left": "electrician",
+          "right": "repairs electrical systems"
+        },
+        {
+          "left": "journalist",
+          "right": "writes news reports"
+        },
+        {
+          "left": "accountant",
+          "right": "manages financial records"
+        },
+        {
+          "left": "architect",
+          "right": "designs buildings"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-238",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each idiom with its meaning.",
+      "explanation": "Idioms: for example, \"on the ball\" goes with \"alert and efficient\".",
+      "pairs": [
+        {
+          "left": "in the same boat",
+          "right": "in the same situation"
+        },
+        {
+          "left": "out of the blue",
+          "right": "unexpectedly"
+        },
+        {
+          "left": "over the moon",
+          "right": "extremely happy"
+        },
+        {
+          "left": "on the ball",
+          "right": "alert and efficient"
+        },
+        {
+          "left": "under the weather",
+          "right": "slightly ill"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-239",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each food word with its meaning.",
+      "explanation": "Health and food: for example, \"nutrition\" goes with \"the food needed to be healthy\".",
+      "pairs": [
+        {
+          "left": "calorie",
+          "right": "a unit of energy"
+        },
+        {
+          "left": "vegetarian",
+          "right": "someone who does not eat meat"
+        },
+        {
+          "left": "diet",
+          "right": "what you usually eat"
+        },
+        {
+          "left": "obesity",
+          "right": "being very overweight"
+        },
+        {
+          "left": "nutrition",
+          "right": "the food needed to be healthy"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-240",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each leisure word with its meaning.",
+      "explanation": "Leisure vocabulary: for example, \"hobby\" goes with \"an activity done for pleasure\".",
+      "pairs": [
+        {
+          "left": "pastime",
+          "right": "something done to pass the time"
+        },
+        {
+          "left": "leisure",
+          "right": "free time"
+        },
+        {
+          "left": "hobby",
+          "right": "an activity done for pleasure"
+        },
+        {
+          "left": "outing",
+          "right": "a short trip for pleasure"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-241",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Pass\" phrasal verbs: for example, \"pass out\" goes with \"faint\".",
+      "pairs": [
+        {
+          "left": "pass by",
+          "right": "go past"
+        },
+        {
+          "left": "pass on",
+          "right": "give to someone else"
+        },
+        {
+          "left": "pass up",
+          "right": "refuse an opportunity"
+        },
+        {
+          "left": "pass out",
+          "right": "faint"
+        },
+        {
+          "left": "pass away",
+          "right": "die"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-242",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each pair of confusing words with the correct meaning.",
+      "explanation": "Confusing words: for example, \"affect\" goes with \"to influence\".",
+      "pairs": [
+        {
+          "left": "advice",
+          "right": "a recommendation"
+        },
+        {
+          "left": "advise",
+          "right": "to give advice"
+        },
+        {
+          "left": "lose",
+          "right": "to fail to keep"
+        },
+        {
+          "left": "affect",
+          "right": "to influence"
+        },
+        {
+          "left": "effect",
+          "right": "a result"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-243",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each noun with its definition.",
+      "explanation": "Travel nouns: for example, \"sightseeing\" goes with \"visiting famous places\".",
+      "pairs": [
+        {
+          "left": "backpacker",
+          "right": "a budget traveller with a rucksack"
+        },
+        {
+          "left": "visa",
+          "right": "permission to enter a country"
+        },
+        {
+          "left": "sightseeing",
+          "right": "visiting famous places"
+        },
+        {
+          "left": "customs",
+          "right": "officials who check goods"
+        },
+        {
+          "left": "passport",
+          "right": "an identity document for travel"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-244",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match the phrasal verb with its meaning.",
+      "explanation": "Phrasal verbs for travel: for example, \"set off\" goes with \"begin a journey\".",
+      "pairs": [
+        {
+          "left": "set off",
+          "right": "begin a journey"
+        },
+        {
+          "left": "check in",
+          "right": "register at a hotel"
+        },
+        {
+          "left": "see off",
+          "right": "say goodbye at a station"
+        },
+        {
+          "left": "get away",
+          "right": "go on holiday"
+        },
+        {
+          "left": "put up",
+          "right": "provide accommodation for"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-245",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each pollution type with its cause.",
+      "explanation": "Pollution: for example, \"air pollution\" goes with \"exhaust fumes\".",
+      "pairs": [
+        {
+          "left": "air pollution",
+          "right": "exhaust fumes"
+        },
+        {
+          "left": "light pollution",
+          "right": "street lamps"
+        },
+        {
+          "left": "soil pollution",
+          "right": "pesticides"
+        },
+        {
+          "left": "noise pollution",
+          "right": "heavy traffic"
+        },
+        {
+          "left": "water pollution",
+          "right": "chemical waste"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-246",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Match each adjective with its opposite.",
+      "explanation": "Opposites: for example, \"brave\" goes with \"cowardly\".",
+      "pairs": [
+        {
+          "left": "polite",
+          "right": "rude"
+        },
+        {
+          "left": "shallow",
+          "right": "deep"
+        },
+        {
+          "left": "cheerful",
+          "right": "gloomy"
+        },
+        {
+          "left": "brave",
+          "right": "cowardly"
+        },
+        {
+          "left": "ancient",
+          "right": "modern"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-247",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each quality with a job it suits.",
+      "explanation": "Qualities and jobs: for example, \"creative\" goes with \"designer\".",
+      "pairs": [
+        {
+          "left": "patient",
+          "right": "nursery teacher"
+        },
+        {
+          "left": "fit",
+          "right": "firefighter"
+        },
+        {
+          "left": "accurate",
+          "right": "accountant"
+        },
+        {
+          "left": "creative",
+          "right": "designer"
+        },
+        {
+          "left": "persuasive",
+          "right": "salesperson"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-248",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "Adjectives describing people: for example, \"sympathetic\" goes with \"feeling pity for another\".",
+      "pairs": [
+        {
+          "left": "sensible",
+          "right": "practical"
+        },
+        {
+          "left": "friendly",
+          "right": "behaving in a kind way"
+        },
+        {
+          "left": "sympathetic",
+          "right": "feeling pity for another"
+        },
+        {
+          "left": "nice",
+          "right": "pleasant"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-249",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Work\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "work up",
+          "right": "develop gradually"
+        },
+        {
+          "left": "work through",
+          "right": "deal with thoroughly"
+        },
+        {
+          "left": "work off",
+          "right": "get rid of by effort"
+        },
+        {
+          "left": "work on",
+          "right": "try to improve"
+        },
+        {
+          "left": "work out",
+          "right": "find a solution"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-250",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Match each preposition with a noun.",
+      "explanation": "Prepositional phrases: for example, \"by\" goes with \"mistake\".",
+      "pairs": [
+        {
+          "left": "in",
+          "right": "advance"
+        },
+        {
+          "left": "under",
+          "right": "pressure"
+        },
+        {
+          "left": "by",
+          "right": "mistake"
+        },
+        {
+          "left": "at",
+          "right": "risk"
+        },
+        {
+          "left": "on",
+          "right": "purpose"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-251",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each job with its workplace.",
+      "explanation": "Jobs and workplaces: for example, \"lawyer\" goes with \"court\".",
+      "pairs": [
+        {
+          "left": "teacher",
+          "right": "classroom"
+        },
+        {
+          "left": "lawyer",
+          "right": "court"
+        },
+        {
+          "left": "chef",
+          "right": "kitchen"
+        },
+        {
+          "left": "pilot",
+          "right": "cockpit"
+        },
+        {
+          "left": "surgeon",
+          "right": "operating theatre"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-252",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each phrase with its meaning.",
+      "explanation": "Fixed expressions: for example, \"at least\" goes with \"not less than\".",
+      "pairs": [
+        {
+          "left": "on purpose",
+          "right": "deliberately"
+        },
+        {
+          "left": "by chance",
+          "right": "accidentally"
+        },
+        {
+          "left": "at least",
+          "right": "not less than"
+        },
+        {
+          "left": "in the end",
+          "right": "finally"
+        },
+        {
+          "left": "at first",
+          "right": "in the beginning"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-253",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Get\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "get away with",
+          "right": "escape punishment"
+        },
+        {
+          "left": "get along with",
+          "right": "have a good relationship with"
+        },
+        {
+          "left": "get through",
+          "right": "survive a difficult time"
+        },
+        {
+          "left": "get round to",
+          "right": "finally do something"
+        },
+        {
+          "left": "get over",
+          "right": "recover from"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-254",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each pair with the correct sentence.",
+      "explanation": "Confusing words: for example, \"affect\" goes with \"The weather may affect our plans.\".",
+      "pairs": [
+        {
+          "left": "effect",
+          "right": "The effect of the drug was immediate."
+        },
+        {
+          "left": "affect",
+          "right": "The weather may affect our plans."
+        },
+        {
+          "left": "accept",
+          "right": "She accepted the invitation."
+        },
+        {
+          "left": "except",
+          "right": "Everyone except Tom came."
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-255",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "People we know: for example, \"neighbour\" goes with \"a person who lives next door\".",
+      "pairs": [
+        {
+          "left": "stranger",
+          "right": "a person you don't know"
+        },
+        {
+          "left": "companion",
+          "right": "a person you spend time with"
+        },
+        {
+          "left": "acquaintance",
+          "right": "a person you know slightly"
+        },
+        {
+          "left": "neighbour",
+          "right": "a person who lives next door"
+        },
+        {
+          "left": "colleague",
+          "right": "a person you work with"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-256",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Fall\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "fall apart",
+          "right": "break into pieces"
+        },
+        {
+          "left": "fall through",
+          "right": "fail to happen"
+        },
+        {
+          "left": "fall for",
+          "right": "fall in love with"
+        },
+        {
+          "left": "fall out",
+          "right": "have an argument"
+        },
+        {
+          "left": "fall behind",
+          "right": "fail to keep up"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-257",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each media word with its meaning.",
+      "explanation": "Media vocabulary: for example, \"headline\" goes with \"the title of a news story\".",
+      "pairs": [
+        {
+          "left": "headline",
+          "right": "the title of a news story"
+        },
+        {
+          "left": "censorship",
+          "right": "control of what can be published"
+        },
+        {
+          "left": "tabloid",
+          "right": "a popular newspaper"
+        },
+        {
+          "left": "editor",
+          "right": "a person who prepares a publication"
+        },
+        {
+          "left": "broadcast",
+          "right": "a programme sent out"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-258",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each computer word with its meaning.",
+      "explanation": "Computing: for example, \"keyboard\" goes with \"used for typing\".",
+      "pairs": [
+        {
+          "left": "keyboard",
+          "right": "used for typing"
+        },
+        {
+          "left": "file",
+          "right": "stored information"
+        },
+        {
+          "left": "folder",
+          "right": "a place to organise files"
+        },
+        {
+          "left": "screen",
+          "right": "shows images"
+        },
+        {
+          "left": "mouse",
+          "right": "used to point and click"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-259",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each adjective with its related noun.",
+      "explanation": "Word formation: for example, \"wise\" goes with \"wisdom\".",
+      "pairs": [
+        {
+          "left": "long",
+          "right": "length"
+        },
+        {
+          "left": "proud",
+          "right": "pride"
+        },
+        {
+          "left": "strong",
+          "right": "strength"
+        },
+        {
+          "left": "wise",
+          "right": "wisdom"
+        },
+        {
+          "left": "safe",
+          "right": "safety"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-260",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "Everyday phrasal verbs: for example, \"get over\" goes with \"recover from\".",
+      "pairs": [
+        {
+          "left": "look after",
+          "right": "take care of"
+        },
+        {
+          "left": "run out of",
+          "right": "have none left"
+        },
+        {
+          "left": "put up with",
+          "right": "tolerate"
+        },
+        {
+          "left": "give up",
+          "right": "stop trying"
+        },
+        {
+          "left": "get over",
+          "right": "recover from"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-261",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each health word with its meaning.",
+      "explanation": "Health vocabulary: for example, \"symptom\" goes with \"a sign of illness\".",
+      "pairs": [
+        {
+          "left": "diagnosis",
+          "right": "identification of an illness"
+        },
+        {
+          "left": "immune",
+          "right": "protected from disease"
+        },
+        {
+          "left": "symptom",
+          "right": "a sign of illness"
+        },
+        {
+          "left": "recovery",
+          "right": "return to health"
+        },
+        {
+          "left": "prescription",
+          "right": "a doctor's written order for medicine"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-262",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each sign with its meaning.",
+      "explanation": "Signs: for example, \"no entry\" goes with \"you cannot go in\".",
+      "pairs": [
+        {
+          "left": "give way",
+          "right": "let others go first"
+        },
+        {
+          "left": "one way",
+          "right": "traffic goes in one direction"
+        },
+        {
+          "left": "no entry",
+          "right": "you cannot go in"
+        },
+        {
+          "left": "road closed",
+          "right": "you cannot pass"
+        },
+        {
+          "left": "keep left",
+          "right": "drive on the left"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-263",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Match each word with its meaning.",
+      "explanation": "Social action: for example, \"donate\" goes with \"give to a charity\".",
+      "pairs": [
+        {
+          "left": "protest",
+          "right": "a public show of disagreement"
+        },
+        {
+          "left": "volunteer",
+          "right": "work without pay"
+        },
+        {
+          "left": "petition",
+          "right": "a signed request"
+        },
+        {
+          "left": "campaign",
+          "right": "organised activity for a cause"
+        },
+        {
+          "left": "donate",
+          "right": "give to a charity"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-264",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each hotel word with its meaning.",
+      "explanation": "Hotel vocabulary: for example, \"reception\" goes with \"the desk where guests arrive\".",
+      "pairs": [
+        {
+          "left": "check-out",
+          "right": "leaving the hotel"
+        },
+        {
+          "left": "vacancy",
+          "right": "a free room"
+        },
+        {
+          "left": "lobby",
+          "right": "an entrance hall"
+        },
+        {
+          "left": "reception",
+          "right": "the desk where guests arrive"
+        },
+        {
+          "left": "suite",
+          "right": "a set of rooms"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-265",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Match each IT word with its meaning.",
+      "explanation": "Technology vocabulary: for example, \"software\" goes with \"programs on a computer\".",
+      "pairs": [
+        {
+          "left": "software",
+          "right": "programs on a computer"
+        },
+        {
+          "left": "browser",
+          "right": "a program for the web"
+        },
+        {
+          "left": "password",
+          "right": "a secret word for access"
+        },
+        {
+          "left": "hardware",
+          "right": "physical parts"
+        },
+        {
+          "left": "download",
+          "right": "copy a file to your device"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-266",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each part of the body with its function.",
+      "explanation": "Body parts: for example, \"lungs\" goes with \"breathe\".",
+      "pairs": [
+        {
+          "left": "stomach",
+          "right": "digest food"
+        },
+        {
+          "left": "brain",
+          "right": "control thoughts"
+        },
+        {
+          "left": "kidneys",
+          "right": "filter blood"
+        },
+        {
+          "left": "lungs",
+          "right": "breathe"
+        },
+        {
+          "left": "heart",
+          "right": "pump blood"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-267",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Match each direct speech with its reported form.",
+      "explanation": "Reported speech: for example, \"\"I am tired.\"\" goes with \"He said he was tired.\".",
+      "pairs": [
+        {
+          "left": "\"I can swim.\"",
+          "right": "He said he could swim."
+        },
+        {
+          "left": "\"I have finished.\"",
+          "right": "He said he had finished."
+        },
+        {
+          "left": "\"I will help.\"",
+          "right": "He said he would help."
+        },
+        {
+          "left": "\"I am tired.\"",
+          "right": "He said he was tired."
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-268",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Set\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "set back",
+          "right": "delay"
+        },
+        {
+          "left": "set aside",
+          "right": "save for later"
+        },
+        {
+          "left": "set up",
+          "right": "establish"
+        },
+        {
+          "left": "set off",
+          "right": "begin a journey"
+        },
+        {
+          "left": "set out",
+          "right": "begin with a goal"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-269",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each word with its meaning.",
+      "explanation": "Travel vocabulary: for example, \"itinerary\" goes with \"a planned route\".",
+      "pairs": [
+        {
+          "left": "sightseeing",
+          "right": "visiting famous places"
+        },
+        {
+          "left": "excursion",
+          "right": "a short group trip"
+        },
+        {
+          "left": "accommodation",
+          "right": "a place to stay"
+        },
+        {
+          "left": "itinerary",
+          "right": "a planned route"
+        },
+        {
+          "left": "souvenir",
+          "right": "a gift to remember a place"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-270",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Match each sentence with the meaning of the modal.",
+      "explanation": "Modal functions: for example, \"She must be at home.\" goes with \"deduction\".",
+      "pairs": [
+        {
+          "left": "You may leave now.",
+          "right": "permission"
+        },
+        {
+          "left": "You must wear a seat belt.",
+          "right": "obligation"
+        },
+        {
+          "left": "I can swim.",
+          "right": "ability"
+        },
+        {
+          "left": "She must be at home.",
+          "right": "deduction"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-271",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Hold\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "hold on",
+          "right": "wait"
+        },
+        {
+          "left": "hold back",
+          "right": "stop yourself"
+        },
+        {
+          "left": "hold out",
+          "right": "resist"
+        },
+        {
+          "left": "hold down",
+          "right": "keep a job"
+        },
+        {
+          "left": "hold up",
+          "right": "delay"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-272",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each household item with its use.",
+      "explanation": "Household items: for example, \"kettle\" goes with \"boil water\".",
+      "pairs": [
+        {
+          "left": "vacuum cleaner",
+          "right": "clean floors"
+        },
+        {
+          "left": "kettle",
+          "right": "boil water"
+        },
+        {
+          "left": "dishwasher",
+          "right": "wash plates"
+        },
+        {
+          "left": "iron",
+          "right": "remove creases"
+        },
+        {
+          "left": "toaster",
+          "right": "make toast"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-273",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Turn\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "turn out",
+          "right": "prove to be"
+        },
+        {
+          "left": "turn over",
+          "right": "flip to the other side"
+        },
+        {
+          "left": "turn into",
+          "right": "become something else"
+        },
+        {
+          "left": "turn down",
+          "right": "refuse an offer"
+        },
+        {
+          "left": "turn up",
+          "right": "arrive unexpectedly"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-274",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Match each adjective with its opposite.",
+      "explanation": "Opposites: for example, \"generous\" goes with \"mean\".",
+      "pairs": [
+        {
+          "left": "reliable",
+          "right": "unreliable"
+        },
+        {
+          "left": "flexible",
+          "right": "rigid"
+        },
+        {
+          "left": "permanent",
+          "right": "temporary"
+        },
+        {
+          "left": "ancient",
+          "right": "modern"
+        },
+        {
+          "left": "generous",
+          "right": "mean"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-275",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Make\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "make for",
+          "right": "move towards"
+        },
+        {
+          "left": "make up for",
+          "right": "compensate for"
+        },
+        {
+          "left": "make up",
+          "right": "invent a story"
+        },
+        {
+          "left": "make out",
+          "right": "see or understand"
+        },
+        {
+          "left": "make off",
+          "right": "run away"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-276",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Match each word with its definition.",
+      "explanation": "Memory verbs: for example, \"remind\" goes with \"make someone remember\".",
+      "pairs": [
+        {
+          "left": "recall",
+          "right": "bring back to memory"
+        },
+        {
+          "left": "forget",
+          "right": "fail to remember"
+        },
+        {
+          "left": "remind",
+          "right": "make someone remember"
+        },
+        {
+          "left": "remember",
+          "right": "keep in mind"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-277",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Match each sentence beginning with the correct ending.",
+      "explanation": "Conditionals: for example, \"If I had more time,\" goes with \"I would learn the guitar.\".",
+      "pairs": [
+        {
+          "left": "If it rains,",
+          "right": "we will stay at home."
+        },
+        {
+          "left": "If you heat ice,",
+          "right": "it melts."
+        },
+        {
+          "left": "If I had known,",
+          "right": "I would have told you."
+        },
+        {
+          "left": "If I had more time,",
+          "right": "I would learn the guitar."
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-278",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each natural feature with its description.",
+      "explanation": "Geography: for example, \"valley\" goes with \"low land between hills\".",
+      "pairs": [
+        {
+          "left": "peninsula",
+          "right": "land almost surrounded by water"
+        },
+        {
+          "left": "cliff",
+          "right": "a steep rock face"
+        },
+        {
+          "left": "valley",
+          "right": "low land between hills"
+        },
+        {
+          "left": "glacier",
+          "right": "a slow river of ice"
+        },
+        {
+          "left": "waterfall",
+          "right": "water falling from a height"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-279",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Match each clause start with the correct relative pronoun.",
+      "explanation": "Relative pronouns: for example, \"The man ___ car was stolen\" goes with \"whose\".",
+      "pairs": [
+        {
+          "left": "The man ___ car was stolen",
+          "right": "whose"
+        },
+        {
+          "left": "The town ___ I was born",
+          "right": "where"
+        },
+        {
+          "left": "The book ___ I bought",
+          "right": "which"
+        },
+        {
+          "left": "The girl ___ won the race",
+          "right": "who"
+        },
+        {
+          "left": "The year ___ we met",
+          "right": "when"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-280",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Match each phrase with its meaning.",
+      "explanation": "Conditional linkers: for example, \"as long as\" goes with \"on condition that\".",
+      "pairs": [
+        {
+          "left": "unless",
+          "right": "if not"
+        },
+        {
+          "left": "otherwise",
+          "right": "or else"
+        },
+        {
+          "left": "as long as",
+          "right": "on condition that"
+        },
+        {
+          "left": "in case",
+          "right": "as a precaution"
+        },
+        {
+          "left": "even if",
+          "right": "no matter whether"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-281",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Match each sentence with its function.",
+      "explanation": "Modal functions: for example, \"You must stop.\" goes with \"obligation\".",
+      "pairs": [
+        {
+          "left": "You may enter.",
+          "right": "permission"
+        },
+        {
+          "left": "She can swim.",
+          "right": "ability"
+        },
+        {
+          "left": "You should rest.",
+          "right": "advice"
+        },
+        {
+          "left": "You must stop.",
+          "right": "obligation"
+        },
+        {
+          "left": "It might rain.",
+          "right": "possibility"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-282",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each verb with the object it often takes.",
+      "explanation": "Verb-noun pairs: for example, \"commit\" goes with \"a crime\".",
+      "pairs": [
+        {
+          "left": "solve",
+          "right": "a problem"
+        },
+        {
+          "left": "achieve",
+          "right": "a goal"
+        },
+        {
+          "left": "follow",
+          "right": "instructions"
+        },
+        {
+          "left": "commit",
+          "right": "a crime"
+        },
+        {
+          "left": "express",
+          "right": "an opinion"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-283",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Match each idiom with its meaning.",
+      "explanation": "Idioms: for example, \"a piece of cake\" goes with \"very easy\".",
+      "pairs": [
+        {
+          "left": "a piece of cake",
+          "right": "very easy"
+        },
+        {
+          "left": "under the weather",
+          "right": "slightly ill"
+        },
+        {
+          "left": "break the ice",
+          "right": "start a conversation"
+        },
+        {
+          "left": "the last straw",
+          "right": "the final problem"
+        },
+        {
+          "left": "once in a blue moon",
+          "right": "very rarely"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-284",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each sport word with its meaning.",
+      "explanation": "Sport vocabulary: for example, \"referee\" goes with \"the person who controls a match\".",
+      "pairs": [
+        {
+          "left": "referee",
+          "right": "the person who controls a match"
+        },
+        {
+          "left": "tournament",
+          "right": "a series of games"
+        },
+        {
+          "left": "fixture",
+          "right": "a scheduled match"
+        },
+        {
+          "left": "league",
+          "right": "a group of competing teams"
+        },
+        {
+          "left": "spectator",
+          "right": "a person watching"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-285",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Go\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "go without",
+          "right": "manage without"
+        },
+        {
+          "left": "go on",
+          "right": "continue"
+        },
+        {
+          "left": "go off",
+          "right": "explode or go bad"
+        },
+        {
+          "left": "go through",
+          "right": "experience something difficult"
+        },
+        {
+          "left": "go over",
+          "right": "review"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-286",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Match each phrase with the situation.",
+      "explanation": "Travel idioms: for example, \"on the road\" goes with \"travelling\".",
+      "pairs": [
+        {
+          "left": "in the middle of nowhere",
+          "right": "far from any town"
+        },
+        {
+          "left": "on the road",
+          "right": "travelling"
+        },
+        {
+          "left": "off the beaten track",
+          "right": "in a remote place"
+        },
+        {
+          "left": "on the spur of the moment",
+          "right": "without planning"
+        },
+        {
+          "left": "at a loose end",
+          "right": "with nothing to do"
+        }
+      ]
+    },
+    {
+      "id": "b2-mp-287",
+      "type": "match-pairs",
+      "level": "B2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Match each phrasal verb with its meaning.",
+      "explanation": "\"Take\" changes meaning with each particle.",
+      "pairs": [
+        {
+          "left": "take over",
+          "right": "assume control"
+        },
+        {
+          "left": "take in",
+          "right": "understand or deceive"
+        },
+        {
+          "left": "take to",
+          "right": "begin to like"
+        },
+        {
+          "left": "take on",
+          "right": "accept a task"
+        },
+        {
+          "left": "take after",
+          "right": "resemble"
+        }
+      ]
     }
   ]
 }
