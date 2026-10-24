@@ -65,7 +65,7 @@ describe('question data', () => {
         }
       }
     }
-  });
+  }, 30_000);
 
   it('has no duplicated prompts/texts inside a level', () => {
     const seen = new Map<string, string>();

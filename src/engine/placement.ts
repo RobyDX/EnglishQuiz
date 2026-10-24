@@ -5,37 +5,37 @@ import { LEVELS, type Level, type Question, type QuestionType } from '../types';
 
 /** Number of questions in a placement test (specs/01 §11). */
 export const PLACEMENT_TOTAL = 40;
-/** Time limit for the whole test: 30 seconds per question on average. */
-export const PLACEMENT_TIME_SECONDS = 20 * 60;
-export const PLACEMENT_START: Level = 'B1';
-/** Consecutive correct answers needed to move one level up. */
-export const PLACEMENT_UP_AFTER = 2;
+/** Time limit for the whole test: 60 seconds per question on average. */
+export const PLACEMENT_TIME_SECONDS = 40 * 60;
 /** A level counts as "reached" with at least this percentage of correct answers... */
 export const PLACEMENT_PASS_PERCENT = 70;
-/** ...given at least this many answers at that level. */
+/** ...given at least this many questions at that level. */
 export const PLACEMENT_MIN_ANSWERS = 5;
 const WEAK_TOPIC_MIN_WRONG = 2;
 const WEAK_TOPICS_MAX = 5;
+/** How many of the latest question types to avoid repeating, when possible. */
+const RECENT_TYPES = 2;
 
-/** Single-tap types only: choosing an answer is enough to move on to the next question. */
-const PLACEMENT_TYPES: ReadonlySet<QuestionType> = new Set(['multiple-choice', 'verb-form', 'sentence-choice', 'odd-one-out']);
-export const isPlacementQuestion = (q: Question) => PLACEMENT_TYPES.has(q.type);
+/**
+ * Types where a single tap is the whole answer: choosing moves on to the next question.
+ * The other types have several fields, words to arrange or free text, and need "Next".
+ */
+const SINGLE_TAP_TYPES: ReadonlySet<QuestionType> = new Set([
+  'multiple-choice',
+  'verb-form',
+  'sentence-choice',
+  'odd-one-out',
+  'error-spot',
+  'place-word',
+]);
+export const isSingleTap = (q: Question) => SINGLE_TAP_TYPES.has(q.type);
 
-export interface Step {
-  level: Level;
-  /** Correct answers in a row at the current level. */
-  streak: number;
-}
+export type Outcome = 'correct' | 'wrong' | 'skipped';
 
-export const initialStep = (): Step => ({ level: PLACEMENT_START, streak: 0 });
-
-/** Up/down staircase: 2 correct in a row go up one level, 1 wrong goes down one level. */
-export function nextStep(step: Step, correct: boolean): Step {
-  const i = LEVELS.indexOf(step.level);
-  if (!correct) return { level: LEVELS[Math.max(0, i - 1)], streak: 0 };
-  const streak = step.streak + 1;
-  if (streak >= PLACEMENT_UP_AFTER) return { level: LEVELS[Math.min(LEVELS.length - 1, i + 1)], streak: 0 };
-  return { level: step.level, streak };
+/** Staircase: a right answer makes the next question one level harder; a wrong answer or a skip, one level easier. */
+export function nextLevel(level: Level, outcome: Outcome): Level {
+  const i = LEVELS.indexOf(level) + (outcome === 'correct' ? 1 : -1);
+  return LEVELS[Math.min(LEVELS.length - 1, Math.max(0, i))];
 }
 
 export interface PlacementRecord {
@@ -56,7 +56,11 @@ export interface PlacementResult {
   weakTopics: { topic: string; wrong: number }[];
 }
 
-/** Estimated level = the highest one with enough answers and enough correct ones (A1 if none). */
+/**
+ * Estimated level: the highest one with enough questions and enough right answers (A1 if none).
+ * With the up/down staircase the questions pile up around the person's level, so that is where the
+ * evidence is: a level is reached when most of its questions (skipped ones count as wrong) were right.
+ */
 export function estimateLevel(records: PlacementRecord[]): PlacementResult {
   const perLevel = Object.fromEntries(LEVELS.map((l) => [l, { answered: 0, correct: 0, percent: 0 }])) as Record<Level, LevelStat>;
   const wrongByTopic = new Map<string, number>();
@@ -81,17 +85,30 @@ export function estimateLevel(records: PlacementRecord[]): PlacementResult {
 }
 
 /**
- * Picks a random question that is suitable for the placement test, not used yet in this test,
- * preferring the ones not seen recently. Returns undefined if the pool has none left.
+ * Picks the next question at `level` (any type): not used yet in this test, preferring the ones not seen
+ * recently and a type different from the last two. If the level has nothing left, the closest level is used.
+ * Returns undefined only if the whole catalogue has run out.
  */
-export function pickPlacementQuestion(
-  pool: Question[],
+export function pickAdaptiveQuestion(
+  pools: Partial<Record<Level, Question[]>>,
+  level: Level,
   used: ReadonlySet<string>,
-  seen: ReadonlySet<string> = new Set(),
+  seenOf: (level: Level) => ReadonlySet<string> = () => new Set(),
+  recentTypes: readonly QuestionType[] = [],
   rng: Rng = Math.random,
 ): Question | undefined {
-  const candidates = pool.filter((q) => isPlacementQuestion(q) && !used.has(q.id));
-  const fresh = candidates.filter((q) => !seen.has(q.id));
-  const chosen = pickRandom(fresh.length ? fresh : candidates, rng);
-  return chosen && prepareQuestion(chosen, rng);
+  const at = LEVELS.indexOf(level);
+  const byDistance = [...LEVELS].sort((a, b) => Math.abs(LEVELS.indexOf(a) - at) - Math.abs(LEVELS.indexOf(b) - at));
+  for (const l of byDistance) {
+    const candidates = (pools[l] ?? []).filter((q) => !used.has(q.id));
+    if (candidates.length === 0) continue;
+    const seen = seenOf(l);
+    const fresh = candidates.filter((q) => !seen.has(q.id));
+    const base = fresh.length ? fresh : candidates;
+    const avoid = new Set(recentTypes.slice(-RECENT_TYPES));
+    const varied = base.filter((q) => !avoid.has(q.type));
+    const chosen = pickRandom(varied.length ? varied : base, rng);
+    return chosen && prepareQuestion(chosen, rng);
+  }
+  return undefined;
 }

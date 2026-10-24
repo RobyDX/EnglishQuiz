@@ -64,7 +64,9 @@ Dettagli e quote in `07-contenuti.md`. Per ogni livello: scrivere i lotti per ti
 ## Fase 7 – Test di livello
 - [x] Specifiche: `01` §11 e F14, `03` (`eq.placement`), `04` (PlacementPage), `08` (decisione 28)
 - [x] `src/engine/placement.ts` (scala su/giù, stima, argomenti deboli) + test Vitest
-- [x] `PlacementPage` (40 domande, avanzamento automatico, risultato) + rotta `#/placement` + test
+- [x] `PlacementPage` (40 domande, risultato) + rotta `#/placement` + test
+- [x] Test non adattivo con navigazione libera e 40 tile (decisione 31) — *sostituito dal test adattivo (decisione 35)*
+- [x] Test **adattivo** (scala su/giù da A1), tutte le tipologie, sequenza obbligatoria con Skip, tile solo per rivedere (decisione 35)
 - [x] HomePage: riquadro "Find your level" / ultimo risultato
 - [x] Build in `docs/`
 
