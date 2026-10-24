@@ -113,7 +113,7 @@ export default function PlacementPage() {
       setPhase('running');
     } catch {
       phaseRef.current = 'intro';
-      setError('Could not load the questions.');
+      setError('Could not load the questions. The level test needs every level: connect to the internet to download them; they will then work offline.');
     } finally {
       locked.current = false;
     }
