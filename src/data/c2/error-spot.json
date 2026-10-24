@@ -7,6 +7,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'is said' use a to-infinitive: is said to be.",
       "tokens": [
@@ -25,6 +28,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'Only after ...' at the start, use inversion with an auxiliary: did I understand.",
       "tokens": [
@@ -45,6 +51,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'demand/insist/suggest that', formal English uses the base form with no -s: They demanded that she leave.",
       "tokens": [
@@ -64,6 +73,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'Seldom' at the start of a sentence, put the auxiliary before the subject: Seldom have we seen such dedication.",
       "tokens": [
@@ -86,6 +98,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "We make a contribution 'to' something: He made a major contribution to science.",
       "tokens": [
@@ -106,6 +121,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "For a past action after 'is thought', use the perfect passive infinitive: It is thought to have been built by the Romans.",
       "tokens": [
@@ -128,6 +146,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "When the focus is a singular noun, a 'What' cleft takes a singular verb: What I miss is the sea.",
       "tokens": [
@@ -150,6 +171,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "In an inverted third conditional, 'Had' is followed by the past participle: Had I known, I would have come.",
       "tokens": [
@@ -172,6 +196,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The verb 'affect' means to have an influence on; the verb 'effect' means to bring about: effect a change.",
       "tokens": [
@@ -192,6 +219,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Hardly … when' and 'No sooner … than' are fixed pairs: Hardly had we sat down when the lights went out.",
       "tokens": [
@@ -213,6 +243,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'I'd rather' + another subject, use the past simple for the present or future: I'd rather you stayed.",
       "tokens": [
@@ -233,6 +266,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'beat around (or about) the bush', always singular: Stop beating around the bush.",
       "tokens": [
@@ -253,6 +289,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After passive reporting verbs like 'is expected' or 'is due', use a to-infinitive; for a passive action, 'to be' + past participle: The film is expected to be released in May.",
       "tokens": [
@@ -273,6 +312,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed phrase is 'on the spur of the moment', meaning suddenly, without planning.",
       "tokens": [
@@ -295,6 +337,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Carry out' means to do or complete a plan or task: The tests were carried out last week.",
       "tokens": [
@@ -316,6 +361,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The pattern is 'It was not until ... that ...': It was not until midnight that she arrived.",
       "tokens": [
@@ -345,6 +393,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "In a 'What ...' cleft with a singular focus, use a singular verb: What we need is time.",
       "tokens": [
@@ -370,6 +421,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "In an it-cleft focusing on a person as subject, use 'who' or 'that': It was Anna who called.",
       "tokens": [
@@ -395,6 +449,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "An 'All ...' cleft takes a singular verb: All I need is a rest.",
       "tokens": [
@@ -418,6 +475,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'What X did was', use the bare infinitive: What he did was apologise.",
       "tokens": [
@@ -441,6 +501,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The verb after 'that' agrees with the focused noun: It is his honesty that has impressed us.",
       "tokens": [
@@ -467,6 +530,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The structure is 'It was only when ... that ...': It was only when I left that I missed home.",
       "tokens": [
@@ -495,6 +561,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The verb agrees with the singular subject 'the thing': The thing I hate is the noise.",
       "tokens": [
@@ -519,6 +588,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Use 'who' (not 'whom') when it is the subject of the clause: It was Tom who won.",
       "tokens": [
@@ -543,6 +615,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "In an it-cleft, use 'that', never 'what': It's the idea that counts.",
       "tokens": [
@@ -564,6 +639,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "A 'Where ...' cleft takes a singular verb: Where he went wrong was in the timing.",
       "tokens": [
@@ -586,6 +664,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "A wh-clause subject is singular, so use 'is': What matters is whether it works.",
       "tokens": [
@@ -608,6 +689,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "In an it-cleft with a reason phrase, use 'that': It was because of the rain that we stayed in.",
       "tokens": [
@@ -631,6 +715,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "A cleft needs a finite verb such as 'was': What struck me was the silence.",
       "tokens": [
@@ -654,6 +741,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "When an it-cleft focuses on a place phrase, use 'that': It was in Rome that they met.",
       "tokens": [
@@ -678,6 +768,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The relative pronoun here is the object, so use 'whom' (or 'who'/'that'): The man whom you met is my uncle.",
       "tokens": [
@@ -700,6 +793,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The verb agrees with the plural focus 'acts': It is the details that make the difference.",
       "tokens": [
@@ -724,6 +820,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'was', introduce a full clause with 'that': What I forgot was that the shop closes early.",
       "tokens": [
@@ -752,6 +851,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Use 'that' (not 'who') for things in an it-cleft: It was the noise that woke me.",
       "tokens": [
@@ -776,6 +878,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "An it-cleft uses 'that' after the focus: It was the map that we needed.",
       "tokens": [
@@ -802,6 +907,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "A 'What ...' cleft with a singular complement takes 'is': What counts is experience.",
       "tokens": [
@@ -825,6 +933,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "We say 'make a profit', not 'do a profit': They made a profit last year.",
       "tokens": [
@@ -848,6 +959,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The collocation is 'make a breakthrough': Scientists made a breakthrough in genetics.",
       "tokens": [
@@ -870,6 +984,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "We 'reach' (or 'return') a verdict: The jury reached a verdict at noon.",
       "tokens": [
@@ -892,6 +1009,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed phrase is 'cast doubt on': The report casts doubt on the results.",
       "tokens": [
@@ -914,6 +1034,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "We say 'pay tribute to': The city paid tribute to the firefighters.",
       "tokens": [
@@ -938,6 +1061,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The collocation is 'establish diplomatic relations': They established relations in 1990.",
       "tokens": [
@@ -960,6 +1086,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "We 'maintain' (or 'protest') our innocence: She maintained her innocence to the end.",
       "tokens": [
@@ -980,6 +1109,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Reviews are 'received' (or 'got'): The play received rave reviews.",
       "tokens": [
@@ -1000,6 +1132,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed collocation is 'wreak havoc': The floods wreaked havoc on the roads.",
       "tokens": [
@@ -1020,6 +1155,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "We 'lodge' (or 'file') a complaint: He lodged a complaint with the council.",
       "tokens": [
@@ -1041,6 +1179,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Use transitive 'raise' with concerns: The audit raised several concerns.",
       "tokens": [
@@ -1062,6 +1203,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The natural collocation is 'acutely aware': She was acutely aware of the danger.",
       "tokens": [
@@ -1086,6 +1230,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "We 'suffer' (or 'incur', 'make') a loss: The firm suffered a loss.",
       "tokens": [
@@ -1108,6 +1255,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed phrase is 'a narrow escape': We had a narrow escape on the motorway.",
       "tokens": [
@@ -1130,6 +1280,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'strike a chord': His words struck a chord with the audience.",
       "tokens": [
@@ -1153,6 +1306,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "We say 'a heavy smoker' or 'a heavy drinker': He was a heavy smoker.",
       "tokens": [
@@ -1176,6 +1332,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "We 'reach a compromise' (or 'arrive at' one): They reached a compromise.",
       "tokens": [
@@ -1198,6 +1357,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "We say 'in stark contrast' or 'in sharp contrast': In stark contrast to her sister, she is shy.",
       "tokens": [
@@ -1222,6 +1384,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The collocation is 'deeply rooted': The belief is deeply rooted in the culture.",
       "tokens": [
@@ -1245,6 +1410,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "We 'commit' crimes and atrocities: They committed serious crimes.",
       "tokens": [
@@ -1268,6 +1436,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The collocation is 'pose a threat': Pollution poses a threat to wildlife.",
       "tokens": [
@@ -1291,6 +1462,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Formal inversion uses 'Were + subject + to-infinitive': Were he to leave, we would struggle.",
       "tokens": [
@@ -1314,6 +1488,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'Had + subject', use the past participle: Had I seen it, I would have told you.",
       "tokens": [
@@ -1339,6 +1516,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'Should + subject', use the bare infinitive: Should you need help, call us.",
       "tokens": [
@@ -1363,6 +1543,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'But for' introduces an unreal past, so use 'would have': But for you, I would have failed.",
       "tokens": [
@@ -1387,6 +1570,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "A mixed conditional (past cause, present result) uses 'would + infinitive': If I had saved, I would be rich now.",
       "tokens": [
@@ -1413,6 +1599,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed form is 'Had it not been for ...': Had it not been for her, we would have lost.",
       "tokens": [
@@ -1437,6 +1626,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "For regret about the past, use 'If only + past perfect': If only I had known.",
       "tokens": [
@@ -1459,6 +1651,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "A real condition with 'provided that' takes the present tense: I'll go provided that you come.",
       "tokens": [
@@ -1483,6 +1678,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "A third conditional result needs 'would have + past participle': It would have worked.",
       "tokens": [
@@ -1508,6 +1706,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Otherwise' after a real situation is followed by 'will': Hurry, otherwise you'll be late.",
       "tokens": [
@@ -1532,6 +1733,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Should' is followed by the bare infinitive: Should it rain, we will stay in.",
       "tokens": [
@@ -1554,6 +1758,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "An unreal present condition takes 'would' in the result: Were it not for you, I would quit.",
       "tokens": [
@@ -1578,6 +1785,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "With 'Had I known' (third conditional), use 'would have + past participle': I would have taken a taxi.",
       "tokens": [
@@ -1603,6 +1813,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "A zero conditional (general truth) uses the present in both clauses: If you heat ice, it melts.",
       "tokens": [
@@ -1626,6 +1839,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "With an imaginary situation and 'would', use a past form: Imagine you had a yacht.",
       "tokens": [
@@ -1649,6 +1865,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Were to' is followed by the bare infinitive: If she were to win, we would celebrate.",
       "tokens": [
@@ -1671,6 +1890,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The past perfect needs a past participle: if I had not seen it.",
       "tokens": [
@@ -1700,6 +1922,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The phrase is 'happen to + infinitive': If you happen to see Tom, say hello.",
       "tokens": [
@@ -1725,6 +1950,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "An unreal past result uses 'would have': Without your help, I would have failed.",
       "tokens": [
@@ -1747,6 +1975,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Inverted 'Were + subject' takes a past participle for a passive idea: Were it approved, work would begin.",
       "tokens": [
@@ -1771,6 +2002,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'hit the ground running' (start fast and well): He hit the ground running.",
       "tokens": [
@@ -1795,6 +2029,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'Don't count your chickens before they're hatched' (don't assume success too early).",
       "tokens": [
@@ -1814,6 +2051,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'let the cat out of the bag' (reveal a secret by mistake).",
       "tokens": [
@@ -1839,6 +2079,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'it's not rocket science' (it is not difficult).",
       "tokens": [
@@ -1863,6 +2106,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'burn the candle at both ends' (exhaust yourself by doing too much).",
       "tokens": [
@@ -1887,6 +2133,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'up in the air' (undecided).",
       "tokens": [
@@ -1910,6 +2159,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'hold water' (be logical or convincing).",
       "tokens": [
@@ -1931,6 +2183,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'the tip of the iceberg' (a small visible part of a large problem).",
       "tokens": [
@@ -1953,6 +2208,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'a tall order' (a very difficult task).",
       "tokens": [
@@ -1974,6 +2232,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'take something with a pinch of salt' (not believe it completely).",
       "tokens": [
@@ -1996,6 +2257,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'neck and neck' (exactly level in a race).",
       "tokens": [
@@ -2020,6 +2284,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'sweep something under the carpet' (hide a problem).",
       "tokens": [
@@ -2043,6 +2310,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'the ball is in your court' (it is your turn to act).",
       "tokens": [
@@ -2069,6 +2339,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'the black sheep of the family' (the member who is seen as a disgrace).",
       "tokens": [
@@ -2096,6 +2369,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'throw the baby out with the bathwater' (lose something good while removing something bad).",
       "tokens": [
@@ -2121,6 +2397,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'have a chip on your shoulder' (feel resentful).",
       "tokens": [
@@ -2149,6 +2428,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'hit the nail on the head' (describe something exactly right).",
       "tokens": [
@@ -2175,6 +2457,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'not out of the woods' (still in danger or difficulty).",
       "tokens": [
@@ -2200,6 +2485,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'cost an arm and a leg' (be very expensive).",
       "tokens": [
@@ -2223,6 +2511,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'on cloud nine' (extremely happy).",
       "tokens": [
@@ -2248,6 +2539,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The idiom is 'skate on thin ice' (take a dangerous risk).",
       "tokens": [
@@ -2271,6 +2565,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'No sooner' is paired with 'than': No sooner had I sat down than the phone rang.",
       "tokens": [
@@ -2293,6 +2590,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Scarcely' (like 'hardly') is paired with 'when': Scarcely had we left when it rained.",
       "tokens": [
@@ -2318,6 +2618,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'should + subject', use the bare infinitive: Under no circumstances should you open it.",
       "tokens": [
@@ -2338,6 +2641,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'did' in an inversion, use the bare infinitive: Little did she know the truth.",
       "tokens": [
@@ -2361,6 +2667,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'did', use the bare infinitive: Not until later did he admit it.",
       "tokens": [
@@ -2385,6 +2694,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The auxiliary agrees with the subject 'the city': Rarely has the town seen such snow.",
       "tokens": [
@@ -2405,6 +2717,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'So + adjective + inversion' is followed by 'that': So loud was the music that I left.",
       "tokens": [
@@ -2430,6 +2745,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "In 'Such + be + subject', the verb agrees with the subject 'the demand': Such was his anger that he shouted.",
       "tokens": [
@@ -2452,6 +2770,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The auxiliary agrees with the plural subject 'doors': On no account are the files to be removed.",
       "tokens": [
@@ -2475,6 +2796,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'does', use the bare infinitive: Nowhere does it say that.",
       "tokens": [
@@ -2498,6 +2822,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "With a main verb in the simple past, invert with 'did': At no time did she complain.",
       "tokens": [
@@ -2520,6 +2847,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The auxiliary agrees with the singular subject: Not once has he thanked me.",
       "tokens": [
@@ -2541,6 +2871,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'One' is third person singular, so use 'does': Seldom does one see such skill.",
       "tokens": [
@@ -2561,6 +2894,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'it was discovered', a reported fact is introduced by 'that': Only then was it clear that he had lied.",
       "tokens": [
@@ -2584,6 +2920,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'has', use the past participle: Not since 1990 has the team won.",
       "tokens": [
@@ -2607,6 +2946,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The auxiliary agrees with the singular subject 'this decision': In no way does this affect you.",
       "tokens": [
@@ -2631,6 +2973,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "A passive inversion uses 'be': Only at the end is the truth revealed.",
       "tokens": [
@@ -2652,6 +2997,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Not only ...' is completed by 'but (also)': Not only did he sing, but he also danced.",
       "tokens": [
@@ -2678,6 +3026,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'had', use the past participle: Never had I seen such a crowd.",
       "tokens": [
@@ -2701,6 +3052,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'neither', repeat the auxiliary of the first clause: He didn't go, and neither did I.",
       "tokens": [
@@ -2723,6 +3077,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The verb agrees with the plural subject 'flaws': Only now are the risks clear.",
       "tokens": [
@@ -2745,6 +3102,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Despite' is followed by a noun or -ing, not a clause; use 'although' before a clause: Although it rained, we played.",
       "tokens": [
@@ -2767,6 +3127,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Although' needs a clause; before a noun phrase use 'despite': Despite the traffic, we arrived.",
       "tokens": [
@@ -2789,6 +3152,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "To start a contrasting sentence, use an adverb like 'nevertheless': It was late; nevertheless, we stayed.",
       "tokens": [
@@ -2810,6 +3176,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The full linker is 'in spite of': In spite of the cold, they went out.",
       "tokens": [
@@ -2834,6 +3203,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "To contrast two different facts, use 'whereas': I like tea, whereas she prefers coffee.",
       "tokens": [
@@ -2856,6 +3228,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The linker is 'owing to' + noun: The train was late owing to snow.",
       "tokens": [
@@ -2876,6 +3251,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Lest' is followed by the bare subjunctive (or 'should'): lest he forget.",
       "tokens": [
@@ -2900,6 +3278,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The purpose phrase is 'so as not to' + infinitive: She whispered so as not to disturb anyone.",
       "tokens": [
@@ -2924,6 +3305,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Even' alone cannot introduce a clause; use 'even though': Even though it was late, we went out.",
       "tokens": [
@@ -2948,6 +3332,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'On the contrary' rejects a statement; to add a contrasting point, use 'on the other hand'.",
       "tokens": [
@@ -2974,6 +3361,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'in case' referring to the future, use the present simple: Take a map in case you get lost.",
       "tokens": [
@@ -2996,6 +3386,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Albeit' is followed by an adjective or phrase, not a clause: successful, albeit expensive.",
       "tokens": [
@@ -3017,6 +3410,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Moreover' adds a similar point; for a contrast use 'however'.",
       "tokens": [
@@ -3037,6 +3433,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed linker is 'as far as ... is concerned': As far as I am concerned, it is fine.",
       "tokens": [
@@ -3062,6 +3461,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Use 'let alone' after a negative to show something is even less likely: He can't walk, let alone run.",
       "tokens": [
@@ -3086,6 +3488,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Whereby' means 'by which' and introduces a relative clause: a system whereby users vote.",
       "tokens": [
@@ -3111,6 +3516,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The linker is 'regardless of' + noun: Regardless of the weather, we will go.",
       "tokens": [
@@ -3132,6 +3540,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Before a noun, use 'in addition to': In addition to French, she speaks Arabic.",
       "tokens": [
@@ -3155,6 +3566,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Because' introduces a clause; before a noun phrase use 'because of': We stayed in because of the rain.",
       "tokens": [
@@ -3176,6 +3590,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Therefore' shows a logical result; for an unexpected result use 'nevertheless' or 'nonetheless'.",
       "tokens": [
@@ -3198,6 +3615,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'During' is followed by a noun phrase; before a clause use 'while': While the work is done, the shop stays open.",
       "tokens": [
@@ -3223,6 +3643,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After passive reporting verbs (believe, say, think) use a to-infinitive; for an earlier action use the perfect infinitive: He is believed to have fled.",
       "tokens": [
@@ -3245,6 +3668,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Run out of' means to have none left: We've run out of sugar.",
       "tokens": [
@@ -3266,6 +3692,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Formal letters avoid slang; 'crummy' is informal. Use a neutral word: poor service.",
       "tokens": [
@@ -3293,6 +3722,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'It is/was essential that' formal English uses the base form (subjunctive): It is essential that he be there.",
       "tokens": [
@@ -3318,6 +3750,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Effect' is the noun (result); 'affect' is usually the verb: The drug had a strong effect.",
       "tokens": [
@@ -3339,6 +3774,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "A passive perfect infinitive needs 'been' + past participle: The ring is said to have been stolen.",
       "tokens": [
@@ -3363,6 +3801,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Negotiations 'break down' (fail); wars and fires 'break out': The talks broke down.",
       "tokens": [
@@ -3386,6 +3827,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Academic writing avoids informal words like 'kids': The study involved children.",
       "tokens": [
@@ -3409,6 +3853,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'recommend that' use the base form with no -s: They recommended that he rest.",
       "tokens": [
@@ -3431,6 +3878,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Advice' is the noun; 'advise' is the verb: She gave me good advice.",
       "tokens": [
@@ -3453,6 +3903,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The present continuous passive is 'is being' + past participle: The road is being repaired.",
       "tokens": [
@@ -3478,6 +3931,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Come across' means to find by chance: I came across an old letter.",
       "tokens": [
@@ -3501,6 +3957,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Cops' is slang and unsuitable in a legal context: The police followed procedure.",
       "tokens": [
@@ -3523,6 +3982,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Wish' about the present takes a past form: I wish I knew the answer.",
       "tokens": [
@@ -3545,6 +4007,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Complementary' means completing each other; 'complimentary' means praising or free.",
       "tokens": [
@@ -3565,6 +4030,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After a preposition (object to) use the passive gerund 'being' + past participle: I object to being ignored.",
       "tokens": [
@@ -3587,6 +4055,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Turn down' means to reject: She turned down the job offer.",
       "tokens": [
@@ -3610,6 +4081,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "In formal essays 'pretty' (= quite) is too informal; use 'fairly' or 'largely': fairly successful.",
       "tokens": [
@@ -3633,6 +4107,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'It's high time' + subject is followed by a past form: It's high time we left.",
       "tokens": [
@@ -3655,6 +4132,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Raise' is transitive (takes an object); 'rise' is not: The film raised questions.",
       "tokens": [
@@ -3675,6 +4155,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Need' + -ing has a passive meaning: The car needs washing (= needs to be washed).",
       "tokens": [
@@ -3699,6 +4182,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Put up with' means to tolerate: I won't put up with this noise.",
       "tokens": [
@@ -3721,6 +4207,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Abbreviations like ASAP are too casual for a formal request: reply at your earliest convenience.",
       "tokens": [
@@ -3742,6 +4231,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'require that' use the subjunctive base form: The law requires that she register.",
       "tokens": [
@@ -3765,6 +4257,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Principal' (adjective) means main; a 'principle' is a rule or belief.",
       "tokens": [
@@ -3786,6 +4281,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Active 'make someone do' becomes passive 'be made to do': He was made to apologise.",
       "tokens": [
@@ -3807,6 +4305,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Put off' means to postpone: They put off the wedding until spring.",
       "tokens": [
@@ -3828,6 +4329,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Awesome' is informal praise; formal reports prefer 'remarkable' or 'outstanding'.",
       "tokens": [
@@ -3849,6 +4353,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed subjunctive expression is 'Suffice it to say (that)...'.",
       "tokens": [
@@ -3872,6 +4379,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Elicit' means to draw out a reaction; 'illicit' means illegal.",
       "tokens": [
@@ -3893,6 +4403,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The passive gerund is 'being' + past participle; prepositional verbs keep the preposition: being laughed at.",
       "tokens": [
@@ -3912,6 +4425,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Get over' means to recover from: She never got over the shock.",
       "tokens": [
@@ -3936,6 +4452,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Bucks' is slang for dollars and is out of place in official writing: two million dollars.",
       "tokens": [
@@ -3961,6 +4480,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Long live...' is a fixed subjunctive phrase with the base form: Long live the Queen!",
       "tokens": [
@@ -3983,6 +4505,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Insure' means to protect financially with insurance; 'ensure' means to make certain.",
       "tokens": [
@@ -4005,6 +4530,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The present perfect passive is 'has been' + past participle: It has been agreed that...",
       "tokens": [
@@ -4026,6 +4554,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Fall through' means to fail to happen: The deal fell through.",
       "tokens": [
@@ -4046,6 +4577,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Formal apologies use 'inconvenience', not the informal 'hassle': any inconvenience caused.",
       "tokens": [
@@ -4072,6 +4606,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Would rather' + another subject takes a past form for present or future: I'd rather you stayed.",
       "tokens": [
@@ -4092,6 +4629,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Stationery' means paper, pens, etc.; 'stationary' means not moving.",
       "tokens": [
@@ -4115,6 +4655,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "In the causative 'have something done' use the past participle: I had my hair cut.",
       "tokens": [
@@ -4136,6 +4679,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Fill someone in' means to give them the details: Can you fill me in on the plan?",
       "tokens": [
@@ -4156,6 +4702,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Mix-up' is conversational; diplomatic language prefers 'error' or 'misunderstanding'.",
       "tokens": [
@@ -4177,6 +4726,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The inverted conditional is 'Were it not for...' (= If it were not for...).",
       "tokens": [
@@ -4200,6 +4752,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "An 'illusion' is a false perception; an 'allusion' is an indirect reference.",
       "tokens": [
@@ -4223,6 +4778,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The past perfect passive is 'had been' + past participle: The files had been deleted.",
       "tokens": [
@@ -4247,6 +4805,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Clamp down on' means to act firmly to stop something: Police are clamping down on speeding.",
       "tokens": [
@@ -4267,6 +4828,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Super' as an intensifier is informal; formal writing uses 'extremely' or 'vitally'.",
       "tokens": [
@@ -4290,6 +4854,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed subjunctive phrase is 'Be that as it may' (= even so).",
       "tokens": [
@@ -4311,6 +4878,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Use 'number' with countable nouns and 'amount' with uncountable ones: a number of people.",
       "tokens": [
@@ -4333,6 +4903,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fresco did not paint anything, so a passive perfect infinitive is needed: is thought to have been painted.",
       "tokens": [
@@ -4358,6 +4931,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Take after' means to resemble an older relative: He takes after his father.",
       "tokens": [
@@ -4379,6 +4955,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Tummy' is a childish word; medical reports use 'stomach' or 'abdominal' pain.",
       "tokens": [
@@ -4403,6 +4982,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed subjunctive phrase is 'Far be it from me to...': Far be it from me to complain.",
       "tokens": [
@@ -4428,6 +5010,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Use 'fewer' with plural countable nouns and 'less' with uncountable ones: fewer people, less time.",
       "tokens": [
@@ -4451,6 +5036,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Parliament passes the bill, so with 'by parliament' use the passive infinitive: is expected to be passed.",
       "tokens": [
@@ -4473,6 +5061,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Phase out' means to remove gradually: Coal is being phased out.",
       "tokens": [
@@ -4495,6 +5086,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Legal contracts avoid slang like 'pronto'; use 'promptly' or 'without delay'.",
       "tokens": [
@@ -4519,6 +5113,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'If only' about the past takes the past perfect: If only I had known.",
       "tokens": [
@@ -4542,6 +5139,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Imminent' means about to happen; 'eminent' means famous and respected.",
       "tokens": [
@@ -4566,6 +5166,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Spread' is irregular (spread, spread, spread): The news was spread overnight.",
       "tokens": [
@@ -4590,6 +5193,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Back down' means to give up a position: He refused to back down.",
       "tokens": [
@@ -4614,6 +5220,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Ditch' is informal; an official announcement needs 'abandon' or 'discontinue'.",
       "tokens": [
@@ -4639,6 +5248,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "In the inverted conditional 'Should you...', use the base form: Should you need help, ask.",
       "tokens": [
@@ -4660,6 +5272,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Affect' is the verb meaning to influence; 'effect' as a verb means to bring about.",
       "tokens": [
@@ -4680,6 +5295,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After a modal (will, can, must) the passive is 'be' + past participle: Drinks will be served.",
       "tokens": [
@@ -4702,6 +5320,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Bear out' means to confirm: The data bear out our theory.",
       "tokens": [
@@ -4723,6 +5344,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Guy' is informal and unsuitable in a court report: a forty-year-old man.",
       "tokens": [
@@ -4745,6 +5369,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The formal inverted conditional is 'Were + subject + to-infinitive': Were he to resign...",
       "tokens": [
@@ -4767,6 +5394,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Credible' means believable; 'credulous' means too ready to believe things.",
       "tokens": [
@@ -4786,6 +5416,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The present perfect passive needs a past participle: No reply has been received.",
       "tokens": [
@@ -4808,6 +5441,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Let off' means not to punish: She was let off with a fine.",
       "tokens": [
@@ -4829,6 +5465,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Holler' is slang; formal letters end with 'do not hesitate to contact us'.",
       "tokens": [
@@ -4852,6 +5491,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'order that' formal English uses the base form: The court ordered that he remain silent.",
       "tokens": [
@@ -4876,6 +5518,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Flout' means to openly break a rule; 'flaunt' means to show off.",
       "tokens": [
@@ -4897,6 +5542,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Active 'see someone do' becomes passive 'be seen to do' (or 'be seen doing'): She was seen to enter.",
       "tokens": [
@@ -4918,6 +5566,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Pan out' means to develop or turn out: Let's see how things pan out.",
       "tokens": [
@@ -4941,6 +5592,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Stuff' is vague and informal; academic writing names things precisely: the factors that shaped...",
       "tokens": [
@@ -4962,6 +5616,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Wish' about present ability uses 'could': I wish I could swim.",
       "tokens": [
@@ -4985,6 +5642,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Pore over' means to study closely; 'pour' is for liquids.",
       "tokens": [
@@ -5005,6 +5665,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The continuous passive is 'being' + past participle; keep the preposition: is being operated on.",
       "tokens": [
@@ -5026,6 +5689,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Fob someone off' means to put them off with an excuse: Don't let them fob you off.",
       "tokens": [
@@ -5048,6 +5714,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Okayed' is informal and clashes with 'formally'; use 'approved' or 'sanctioned'.",
       "tokens": [
@@ -5071,6 +5740,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'propose that' use the subjunctive 'be' in the passive: They proposed that it be delayed.",
       "tokens": [
@@ -5095,6 +5767,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Economical' means not wasteful; 'economic' relates to the economy.",
       "tokens": [
@@ -5119,6 +5794,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The 'get' passive uses get + past participle: He got fired last year.",
       "tokens": [
@@ -5140,6 +5818,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Make up for' means to compensate for: Nothing can make up for the delay.",
       "tokens": [
@@ -5163,6 +5844,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Flop' is informal; scientific writing uses 'failure' or 'unsuccessful'.",
       "tokens": [
@@ -5187,6 +5871,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Lest' (= so that... not) is followed by the base form: Lest we forget.",
       "tokens": [
@@ -5208,6 +5895,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Discreet' means careful not to attract attention; 'discrete' means separate.",
       "tokens": [
@@ -5231,6 +5921,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The achievements receive the action, so use a passive infinitive: deserve to be recognised.",
       "tokens": [
@@ -5251,6 +5944,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Branch out into' means to start a new activity: The bakery branched out into catering.",
       "tokens": [
@@ -5273,6 +5969,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Chuck' (= throw) is informal and clashes with 'respectfully requested'; use 'place' or 'deposit'.",
       "tokens": [
@@ -5297,6 +5996,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed subjunctive expression is 'come what may' (= whatever happens).",
       "tokens": [
@@ -5319,6 +6021,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "People are 'afflicted with' an illness; you 'inflict' pain on someone.",
       "tokens": [
@@ -5343,6 +6048,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The results do not publish anything, so use a passive infinitive: have yet to be published.",
       "tokens": [
@@ -5364,6 +6072,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Bring up' means to mention a topic: She brought up the question of pay.",
       "tokens": [
@@ -5386,6 +6097,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Gutted' is British slang for very disappointed; formal statements use 'dismayed' or 'deeply disappointed'.",
       "tokens": [
@@ -5410,6 +6124,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed phrase is 'if need be' (= if necessary).",
       "tokens": [
@@ -5433,6 +6150,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Defuse' means to remove a bomb's fuse; 'diffuse' means to spread out.",
       "tokens": [
@@ -5456,6 +6176,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The perfect passive gerund is 'having been' + past participle: He denied having been bribed.",
       "tokens": [
@@ -5478,6 +6201,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "Feelings and effects 'wear off' (fade): The anaesthetic wore off.",
       "tokens": [
@@ -5499,6 +6225,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Dodgy' is informal; audit reports use 'questionable' or 'irregular'.",
       "tokens": [
@@ -5521,6 +6250,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'It's about time' + subject takes a past form: It's about time you grew up.",
       "tokens": [
@@ -5543,6 +6275,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Averse to' means strongly disliking; 'adverse' means harmful or unfavourable.",
       "tokens": [
@@ -5564,6 +6299,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The passive uses the past participle, not the past simple: The language is spoken here.",
       "tokens": [
@@ -5589,6 +6327,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Figure out' means to understand or solve: I can't figure out this puzzle.",
       "tokens": [
@@ -5611,6 +6352,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Reckon' is informal; official notices use 'anticipate' or 'expect'.",
       "tokens": [
@@ -5635,6 +6379,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Heaven forbid (that)...' is a fixed subjunctive phrase with the base form.",
       "tokens": [
@@ -5658,6 +6405,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Adverse' means harmful (adverse effects); 'averse' describes a person's dislike.",
       "tokens": [
@@ -5683,6 +6433,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'will be' use a past participle for the passive: Winners will be informed tomorrow.",
       "tokens": [
@@ -5705,6 +6458,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Be taken in' means to be deceived; 'take on' means to employ: Don't be taken in by his smile.",
       "tokens": [
@@ -5730,6 +6486,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Gonna' is spoken slang and never belongs in formal writing: is going to review.",
       "tokens": [
@@ -5753,6 +6512,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "After 'stipulate that' use the subjunctive base form: The contract stipulates that he pay.",
       "tokens": [
@@ -5776,6 +6538,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Pedal' means to push bike pedals; 'peddle' means to sell goods or ideas.",
       "tokens": [
@@ -5797,6 +6562,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "With an agent (by the removal men) a passive is needed: must have been broken.",
       "tokens": [
@@ -5819,6 +6587,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Call off' means to cancel: The strike was called off.",
       "tokens": [
@@ -5840,6 +6611,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Cool' as praise is informal; academic reviews use 'fresh', 'novel' or 'compelling'.",
       "tokens": [
@@ -5863,6 +6637,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Would sooner' + another subject takes a past form: I'd sooner you didn't go.",
       "tokens": [
@@ -5886,6 +6663,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Precede' means to come before; 'proceed' means to continue.",
       "tokens": [
@@ -5906,6 +6686,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The present continuous passive is 'are being' + past participle: Tests are being carried out.",
       "tokens": [
@@ -5927,6 +6710,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Pick up' means to improve or gain speed: Sales picked up in spring.",
       "tokens": [
@@ -5952,6 +6738,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "'Grab' is casual; formal instructions use 'collect' or 'obtain': collect your badge.",
       "tokens": [
@@ -5976,6 +6765,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "The fixed subjunctive phrase is 'so be it' (= I accept it).",
       "tokens": [
@@ -5999,6 +6791,9 @@
       "type": "error-spot",
       "level": "C2",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "Tap the word that is wrong.",
       "explanation": "A 'horde' is a large crowd; a 'hoard' is a hidden store of valuables.",
       "tokens": [
