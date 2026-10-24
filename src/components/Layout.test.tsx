@@ -28,6 +28,15 @@ describe('Layout', () => {
     expect(document.querySelector('.navbar-toggler')).toBeNull();
   });
 
+  it('has a Share on WhatsApp icon button that links to wa.me with the app address', () => {
+    renderAt('/');
+    const link = within(screen.getByRole('navigation', { name: 'Main' })).getByRole('link', { name: 'Share on WhatsApp' });
+    const href = link.getAttribute('href')!;
+    expect(link.querySelector('svg')).not.toBeNull();
+    expect(href.startsWith('https://wa.me/?text=')).toBe(true);
+    expect(decodeURIComponent(href)).toContain(window.location.href.split('#')[0]);
+  });
+
   it('has no History entry: the history lives in the Quiz page', () => {
     renderAt('/');
     expect(screen.queryByRole('link', { name: 'History' })).not.toBeInTheDocument();
