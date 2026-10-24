@@ -1,0 +1,65 @@
+# C1 error-correct, transform, error-spot for low-count topics
+ec | VT | By the time the inquiry reports, the company will be under investigation for three years. | By the time the inquiry reports, the company will have been under investigation for three years. | The future perfect shows duration up to a future moment. | Future perfect.
+ec | VT | Hardly the meeting had begun when the fire alarm sounded. | Hardly had the meeting begun when the fire alarm sounded. | "Hardly" at the start requires inversion with the past perfect. | Inversion.
+ec | VT | No sooner he had arrived than the telephone started ringing. | No sooner had he arrived than the telephone started ringing. | "No sooner" at the start requires inversion. | Inversion.
+ec | VT | I have been knowing her since we were at university together. | I have known her since we were at university together. | "Know" is a stative verb. | Stative verbs.
+ec | VT | When I will have finished the report, I will send it to you. | When I have finished the report, I will send it to you. | A time clause uses the present perfect for the future. | Time clauses.
+ec | VT | She said she is going to resign the following week. | She said she was going to resign the following week. | Reported speech shifts the tense back. | Reported speech.
+ec | VT | They had lived in the city for ten years until they have moved to the coast. | They had lived in the city for ten years until they moved to the coast. | The simple past follows the past perfect here. | Sequence of tenses.
+ec | VT | At the moment, the economy recovers slowly from the recession. | At the moment, the economy is recovering slowly from the recession. | "At the moment" calls for the present continuous. | Present continuous.
+ec | VT | It is the first time he has been given such an honour, but he did not seem surprised. | It was the first time he had been given such an honour, but he did not seem surprised. | The past narrative needs the past perfect. | Sequence of tenses.
+ec | VT | I was working here for twenty years before I decided to retire. | I had been working here for twenty years before I decided to retire. | The past perfect continuous shows duration before another event. | Past perfect continuous.
+ec | MOD | She must had forgotten about the appointment. | She must have forgotten about the appointment. | After "must" use "have" + participle. | Modal perfect.
+ec | MOD | You needn't to have apologised; nobody was offended. | You needn't have apologised; nobody was offended. | "Needn't" is followed by "have" directly. | Modal perfect.
+ec | MOD | It is vital that every applicant submits the form by Friday. | It is vital that every applicant submit the form by Friday. | After "vital that" the mandative subjunctive takes the base form. | Subjunctive.
+ec | MOD | He might well to have misunderstood the instructions. | He might well have misunderstood the instructions. | "Might well" is followed by "have" + participle. | Modal perfect.
+ec | MOD | She daren't to tell him the truth. | She daren't tell him the truth. | "Daren't" is followed by the bare infinitive. | Semi-modals.
+ec | MOD | I'd rather you won't mention the matter to anyone. | I'd rather you didn't mention the matter to anyone. | After "would rather" + subject a past form is used. | Would rather.
+ec | MOD | They are supposed arriving at nine, but the train is late. | They are supposed to arrive at nine, but the train is late. | "Be supposed to" is followed by an infinitive. | Semi-modals.
+ec | MOD | He couldn't of known the consequences when he agreed. | He couldn't have known the consequences when he agreed. | "Of" is a spelling mistake for "have". | Modal perfect.
+ec | ART | The amount of people attending the festival has doubled. | The number of people attending the festival has doubled. | "People" is countable, so "number" is used. | Number and amount.
+ec | ART | She gave me a very good advice about my career. | She gave me some very good advice about my career. | "Advice" is uncountable. | Uncountable nouns.
+ec | ART | Few people have the knowledges required for the post. | Few people have the knowledge required for the post. | "Knowledge" is uncountable. | Uncountable nouns.
+ec | ART | He has less friends than his brother. | He has fewer friends than his brother. | "Fewer" goes with countable nouns. | Fewer and less.
+ec | ART | Every students must register before the end of the week. | Every student must register before the end of the week. | "Every" is followed by a singular noun. | Every.
+ec | ART | All the informations were checked carefully before publication. | All the information was checked carefully before publication. | "Information" is uncountable. | Uncountable nouns.
+ec | ART | He has a great deal of friends who would help him. | He has a great number of friends who would help him. | "A great deal of" goes with uncountable nouns. | Quantifiers.
+ec | PREP | She is married with a successful architect. | She is married to a successful architect. | "Married to" is the fixed collocation. | Adjective-preposition pairs.
+ec | PREP | The decision is dependent of the committee's approval. | The decision is dependent on the committee's approval. | "Dependent on" is the fixed collocation. | Adjective-preposition pairs.
+ec | PREP | He was blamed of causing the accident. | He was blamed for causing the accident. | "Blame for" introduces the reason. | Verb-preposition pairs.
+ec | PREP | We are indebted for our colleagues for their support. | We are indebted to our colleagues for their support. | "Indebted to" introduces the person. | Adjective-preposition pairs.
+ec | PREP | The manager objected at the proposal. | The manager objected to the proposal. | "Object to" is the fixed collocation. | Verb-preposition pairs.
+ec | PREP | There is no alternative of continuing with the plan. | There is no alternative to continuing with the plan. | "Alternative to" is the fixed collocation. | Noun-preposition pairs.
+ec | PRON | The woman whom I believe is the manager was not available. | The woman who I believe is the manager was not available. | "Who" is the subject of "is the manager". | Relative pronouns.
+ec | PRON | She told us a story, the ending of it surprised everyone. | She told us a story, the ending of which surprised everyone. | A relative pronoun is needed to join the clauses. | Relative clauses.
+ec | PRON | The students handed in their essays, most of them were excellent. | The students handed in their essays, most of which were excellent. | "Most of which" joins the clauses. | Relative clauses.
+ec | PRON | One must be careful when you handle chemicals. | One must be careful when one handles chemicals. | The pronoun must stay consistent. | Impersonal pronouns.
+ec | PRON | Each of the contestants did their best. | Each of the contestants did his or her best. | "Each" is singular; the possessive agrees formally. | Pronoun agreement.
+tr | VT | I have not seen such a magnificent sunset before. | FIRST | This is ___ such a magnificent sunset. | the first time I have seen | "The first time" takes the present perfect.
+tr | VT | She began to work here in 2005. | BEEN | She ___ since 2005. | has been working here | The present perfect continuous shows duration.
+tr | VT | He finished the report and then the manager arrived. | ALREADY | By the time the manager arrived, he ___ the report. | had already finished | The past perfect shows an earlier action.
+tr | VT | The film started just as we sat down. | SOONER | No ___ the film started. | sooner had we sat down than | "No sooner had ... than" is the standard inversion.
+tr | VT | Next month she will have a decade of service. | COMPLETED | Next month she ___ ten years of service. | will have completed | The future perfect shows completion.
+tr | MOD | It is certain that they have made a mistake. | MUST | They ___ a mistake. | must have made | "Must have" expresses a strong deduction.
+tr | MOD | It is not necessary for you to wait for me. | NEEDN'T | You ___ for me. | needn't wait | "Needn't" means it is not necessary.
+tr | MOD | I regret that I did not listen to his advice. | SHOULD | I ___ to his advice. | should have listened | "Should have" expresses regret.
+tr | MOD | I am sure that he did not take the money. | CAN'T | He ___ the money. | can't have taken | "Can't have" is a negative deduction.
+tr | MOD | The rules do not permit staff to bring guests. | NOT | Staff ___ bring guests. | are not allowed to | "Be allowed to" expresses permission.
+tr | ART | Very few of the applicants had any experience. | HARDLY | ___ of the applicants had any experience. | Hardly any | "Hardly any" means almost none.
+tr | ART | I have no objection to the plan. | WHATSOEVER | I have ___ the plan. | no objection whatsoever to | "Whatsoever" emphasises a negative.
+tr | PREP | They did not take notice of the warning. | NO | They ___ the warning. | took no notice of | "Take no notice of" means to ignore.
+tr | PREP | The scheme is intended to help the unemployed. | VIEW | The scheme was designed ___ helping the unemployed. | with a view to | "With a view to" is followed by -ing.
+tr | PRON | She has two brothers. Neither of them lives nearby. | WHOM | She has two brothers, ___ nearby. | neither of whom lives | "Neither of whom" joins the clauses.
+tr | PRON | I will give the prize to anyone who answers correctly. | WHOEVER | I will give the prize to ___ correctly. | whoever answers | "Whoever" means any person who.
+es | VT | At present, she [works] on a major research project. | is working | The present continuous shows a temporary activity.
+es | ART | There is [few] hope that the talks will succeed. | little | "Hope" is uncountable.
+es | ART | He has [much] friends in the industry. | many | "Friends" is countable.
+es | ART | [Neither] of the three candidates was suitable. | None | "Neither" is for two.
+es | PREP | They congratulated her [for] her success. | on | "Congratulate on" is the standard collocation.
+es | PREP | He is not responsible [of] the delay. | for | "Responsible for" is the fixed collocation.
+es | PREP | She is addicted [of] chocolate. | to | "Addicted to" is the fixed collocation.
+es | PRON | The author, [whose] I met last year, has published a new book. | whom | "Whom" is the object form.
+es | PRON | I don't know [who's] book this is. | whose | "Whose" shows possession.
+mp | VT | Match each structure with the tense it takes. | no sooner > past perfect ;; by the time > future perfect ;; ever since > present perfect ;; at this time tomorrow > future continuous | Tense signals.
+mp | MOD | Match each phrase with its meaning. | may well > probably ;; might as well > there is no reason not to ;; had better > it is advisable ;; would rather > prefer ;; be bound to > certain to happen | Modal phrases.
+mp | ART | Match each noun with the quantifier it requires. | evidence > a great deal of ;; applicants > a large number of ;; information > little ;; ideas > several ;; furniture > some | Quantifiers.

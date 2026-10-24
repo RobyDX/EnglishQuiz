@@ -3708,38 +3708,6 @@
       "fix": "up"
     },
     {
-      "id": "c1-es-142",
-      "type": "error-spot",
-      "level": "C1",
-      "topic": "linkers",
-      "topics": [
-        "gerunds-infinitives-linking"
-      ],
-      "prompt": "Tap the word that is wrong.",
-      "explanation": "Use 'even though' for a real fact; 'even if' is for imagined situations: Even though he is rich, he lives simply.",
-      "tokens": [
-        "Even",
-        "if",
-        "he",
-        "is",
-        "a",
-        "millionaire,",
-        "he",
-        "still",
-        "lives",
-        "in",
-        "a",
-        "tiny",
-        "flat",
-        "and",
-        "cycles",
-        "to",
-        "work"
-      ],
-      "wrongIndex": 0,
-      "fix": "Even though"
-    },
-    {
       "id": "c1-es-143",
       "type": "error-spot",
       "level": "C1",
@@ -3877,30 +3845,6 @@
       "fix": "off"
     },
     {
-      "id": "c1-es-148",
-      "type": "error-spot",
-      "level": "C1",
-      "topic": "linkers",
-      "topics": [
-        "gerunds-infinitives-linking"
-      ],
-      "prompt": "Tap the word that is wrong.",
-      "explanation": "'Neither' pairs with 'nor': It is neither fast nor cheap.",
-      "tokens": [
-        "The",
-        "new",
-        "app",
-        "is",
-        "neither",
-        "reliable",
-        "or",
-        "particularly",
-        "cheap"
-      ],
-      "wrongIndex": 6,
-      "fix": "nor"
-    },
-    {
       "id": "c1-es-149",
       "type": "error-spot",
       "level": "C1",
@@ -4030,34 +3974,6 @@
       ],
       "wrongIndex": 9,
       "fix": "by"
-    },
-    {
-      "id": "c1-es-154",
-      "type": "error-spot",
-      "level": "C1",
-      "topic": "linkers",
-      "topics": [
-        "gerunds-infinitives-linking"
-      ],
-      "prompt": "Tap the word that is wrong.",
-      "explanation": "'Either' pairs with 'or': You can either call or email.",
-      "tokens": [
-        "Fans",
-        "can",
-        "either",
-        "book",
-        "online",
-        "nor",
-        "buy",
-        "their",
-        "tickets",
-        "at",
-        "the",
-        "box",
-        "office"
-      ],
-      "wrongIndex": 5,
-      "fix": "or"
     },
     {
       "id": "c1-es-155",
@@ -4197,34 +4113,6 @@
       "fix": "up"
     },
     {
-      "id": "c1-es-160",
-      "type": "error-spot",
-      "level": "C1",
-      "topic": "linkers",
-      "topics": [
-        "gerunds-infinitives-linking"
-      ],
-      "prompt": "Tap the word that is wrong.",
-      "explanation": "Use 'so that' before a clause of purpose: He saved so that he could buy a house.",
-      "tokens": [
-        "Ruth",
-        "saved",
-        "for",
-        "two",
-        "years",
-        "so",
-        "as",
-        "she",
-        "could",
-        "travel",
-        "round",
-        "South",
-        "America"
-      ],
-      "wrongIndex": 6,
-      "fix": "that"
-    },
-    {
       "id": "c1-es-161",
       "type": "error-spot",
       "level": "C1",
@@ -4359,32 +4247,6 @@
       "fix": "up"
     },
     {
-      "id": "c1-es-166",
-      "type": "error-spot",
-      "level": "C1",
-      "topic": "linkers",
-      "topics": [
-        "gerunds-infinitives-linking"
-      ],
-      "prompt": "Tap the word that is wrong.",
-      "explanation": "'Not only' pairs with 'but (also)': It is not only cheap but also fast.",
-      "tokens": [
-        "Her",
-        "new",
-        "novel",
-        "is",
-        "not",
-        "only",
-        "gripping",
-        "and",
-        "also",
-        "beautifully",
-        "written"
-      ],
-      "wrongIndex": 7,
-      "fix": "but"
-    },
-    {
       "id": "c1-es-167",
       "type": "error-spot",
       "level": "C1",
@@ -4512,33 +4374,6 @@
       ],
       "wrongIndex": 3,
       "fix": "up"
-    },
-    {
-      "id": "c1-es-172",
-      "type": "error-spot",
-      "level": "C1",
-      "topic": "linkers",
-      "topics": [
-        "gerunds-infinitives-linking"
-      ],
-      "prompt": "Tap the word that is wrong.",
-      "explanation": "Use 'whether or not' to mean in either case: Whether or not it rains, we'll go.",
-      "tokens": [
-        "If",
-        "or",
-        "not",
-        "you",
-        "agree",
-        "with",
-        "the",
-        "verdict,",
-        "it",
-        "must",
-        "be",
-        "respected"
-      ],
-      "wrongIndex": 0,
-      "fix": "Whether"
     },
     {
       "id": "c1-es-173",
@@ -4670,33 +4505,6 @@
       ],
       "wrongIndex": 5,
       "fix": "down"
-    },
-    {
-      "id": "c1-es-178",
-      "type": "error-spot",
-      "level": "C1",
-      "topic": "linkers",
-      "topics": [
-        "gerunds-infinitives-linking"
-      ],
-      "prompt": "Tap the word that is wrong.",
-      "explanation": "'Because' introduces a clause; before a noun use 'because of': We stayed in because of the rain.",
-      "tokens": [
-        "Because",
-        "the",
-        "dense",
-        "fog,",
-        "all",
-        "flights",
-        "from",
-        "the",
-        "regional",
-        "airport",
-        "were",
-        "cancelled"
-      ],
-      "wrongIndex": 0,
-      "fix": "Because of"
     },
     {
       "id": "c1-es-179",
@@ -4834,33 +4642,6 @@
       ],
       "wrongIndex": 12,
       "fix": "over"
-    },
-    {
-      "id": "c1-es-184",
-      "type": "error-spot",
-      "level": "C1",
-      "topic": "linkers",
-      "topics": [
-        "gerunds-infinitives-linking"
-      ],
-      "prompt": "Tap the word that is wrong.",
-      "explanation": "In 'in addition to', 'to' is a preposition, so use the -ing form: In addition to teaching, he writes.",
-      "tokens": [
-        "In",
-        "addition",
-        "to",
-        "manage",
-        "the",
-        "sales",
-        "team,",
-        "she",
-        "writes",
-        "the",
-        "company",
-        "newsletter"
-      ],
-      "wrongIndex": 3,
-      "fix": "managing"
     },
     {
       "id": "c1-es-185",
@@ -5003,33 +4784,6 @@
       "fix": "up"
     },
     {
-      "id": "c1-es-190",
-      "type": "error-spot",
-      "level": "C1",
-      "topic": "linkers",
-      "topics": [
-        "gerunds-infinitives-linking"
-      ],
-      "prompt": "Tap the word that is wrong.",
-      "explanation": "Use 'contrary to' to mean the opposite of an expectation: Contrary to expectations, he won.",
-      "tokens": [
-        "Unlike",
-        "what",
-        "most",
-        "economists",
-        "had",
-        "predicted,",
-        "inflation",
-        "fell",
-        "sharply",
-        "in",
-        "the",
-        "spring"
-      ],
-      "wrongIndex": 0,
-      "fix": "Contrary to"
-    },
-    {
       "id": "c1-es-191",
       "type": "error-spot",
       "level": "C1",
@@ -5166,32 +4920,6 @@
       "fix": "out"
     },
     {
-      "id": "c1-es-196",
-      "type": "error-spot",
-      "level": "C1",
-      "topic": "linkers",
-      "topics": [
-        "gerunds-infinitives-linking"
-      ],
-      "prompt": "Tap the word that is wrong.",
-      "explanation": "The linker is 'apart from', meaning except for: Apart from Sam, everyone came.",
-      "tokens": [
-        "Apart",
-        "of",
-        "a",
-        "few",
-        "minor",
-        "spelling",
-        "errors,",
-        "the",
-        "dissertation",
-        "was",
-        "excellent"
-      ],
-      "wrongIndex": 0,
-      "fix": "Apart from"
-    },
-    {
       "id": "c1-es-197",
       "type": "error-spot",
       "level": "C1",
@@ -5297,6 +5025,7035 @@
       ],
       "wrongIndex": 3,
       "fix": "conducted"
+    },
+    {
+      "id": "c1-es-201",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The zero conditional uses the present.",
+      "tokens": [
+        "If",
+        "you",
+        "will",
+        "heat",
+        "ice,",
+        "it",
+        "melts"
+      ],
+      "wrongIndex": 2,
+      "fix": "heat"
+    },
+    {
+      "id": "c1-es-202",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"In search of\" is the fixed phrase.",
+      "tokens": [
+        "They",
+        "are",
+        "in",
+        "search",
+        "for",
+        "new",
+        "markets",
+        "abroad"
+      ],
+      "wrongIndex": 4,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-203",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Which\" refers to things.",
+      "tokens": [
+        "The",
+        "woman",
+        "which",
+        "I",
+        "met",
+        "is",
+        "a",
+        "doctor"
+      ],
+      "wrongIndex": 2,
+      "fix": "whom"
+    },
+    {
+      "id": "c1-es-204",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After \"might\" use \"have\".",
+      "tokens": [
+        "He",
+        "might",
+        "has",
+        "missed",
+        "the",
+        "train"
+      ],
+      "wrongIndex": 1,
+      "fix": "have"
+    },
+    {
+      "id": "c1-es-205",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After \"demand that\" the base form is used.",
+      "tokens": [
+        "The",
+        "management",
+        "demanded",
+        "that",
+        "she",
+        "resigns",
+        "at",
+        "once"
+      ],
+      "wrongIndex": 2,
+      "fix": "resign"
+    },
+    {
+      "id": "c1-es-206",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Blamed for\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "was",
+        "blamed",
+        "of",
+        "the",
+        "accident"
+      ],
+      "wrongIndex": 3,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-207",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"All\" is used for more than two.",
+      "tokens": [
+        "All",
+        "of",
+        "the",
+        "two",
+        "candidates",
+        "withdrew"
+      ],
+      "wrongIndex": 0,
+      "fix": "Both"
+    },
+    {
+      "id": "c1-es-208",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Give a speech\" is the standard collocation.",
+      "tokens": [
+        "She",
+        "made",
+        "a",
+        "speech",
+        "at",
+        "the",
+        "wedding"
+      ],
+      "wrongIndex": 1,
+      "fix": "gave"
+    },
+    {
+      "id": "c1-es-209",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "An object pronoun is needed.",
+      "tokens": [
+        "He",
+        "asked",
+        "myself",
+        "to",
+        "help",
+        "him"
+      ],
+      "wrongIndex": 2,
+      "fix": "me"
+    },
+    {
+      "id": "c1-es-210",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Accountable to\" introduces the person answerable.",
+      "tokens": [
+        "The",
+        "firm",
+        "is",
+        "accountable",
+        "for",
+        "the",
+        "shareholders"
+      ],
+      "wrongIndex": 4,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-211",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Affect\" is the verb.",
+      "tokens": [
+        "The",
+        "new",
+        "law",
+        "will",
+        "effect",
+        "everyone",
+        "in",
+        "the",
+        "country"
+      ],
+      "wrongIndex": 4,
+      "fix": "affect"
+    },
+    {
+      "id": "c1-es-212",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Punished for\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "was",
+        "punished",
+        "of",
+        "cheating",
+        "in",
+        "the",
+        "exam"
+      ],
+      "wrongIndex": 3,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-213",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Ought\" needs \"to\" before \"have\".",
+      "tokens": [
+        "You",
+        "ought",
+        "have",
+        "called",
+        "to",
+        "say",
+        "that",
+        "you",
+        "would",
+        "be",
+        "late"
+      ],
+      "wrongIndex": 1,
+      "fix": "ought to"
+    },
+    {
+      "id": "c1-es-214",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Congratulate on\" is the standard collocation.",
+      "tokens": [
+        "They",
+        "congratulated",
+        "her",
+        "for",
+        "winning"
+      ],
+      "wrongIndex": 3,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-215",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A short adjective takes \"-er\" without \"more\".",
+      "tokens": [
+        "The",
+        "weather",
+        "is",
+        "more",
+        "hotter",
+        "than",
+        "last",
+        "week"
+      ],
+      "wrongIndex": 3,
+      "fix": "hotter"
+    },
+    {
+      "id": "c1-es-216",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Affect\" is the verb.",
+      "tokens": [
+        "The",
+        "strike",
+        "will",
+        "effect",
+        "thousands",
+        "of",
+        "commuters"
+      ],
+      "wrongIndex": 3,
+      "fix": "affect"
+    },
+    {
+      "id": "c1-es-217",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Yet\" with a negative calls for the present perfect.",
+      "tokens": [
+        "I",
+        "didn't",
+        "finish",
+        "the",
+        "report",
+        "yet"
+      ],
+      "wrongIndex": 1,
+      "fix": "haven't"
+    },
+    {
+      "id": "c1-es-218",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Who\" refers to people.",
+      "tokens": [
+        "Those",
+        "which",
+        "have",
+        "not",
+        "registered",
+        "should",
+        "do",
+        "so",
+        "now"
+      ],
+      "wrongIndex": 1,
+      "fix": "who"
+    },
+    {
+      "id": "c1-es-219",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Prefer ... to\" is the standard structure.",
+      "tokens": [
+        "He",
+        "prefers",
+        "walking",
+        "than",
+        "cycling"
+      ],
+      "wrongIndex": 3,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-220",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A wish about the past needs the past perfect.",
+      "tokens": [
+        "If",
+        "only",
+        "he",
+        "listened",
+        "to",
+        "me",
+        "last",
+        "year"
+      ],
+      "wrongIndex": 3,
+      "fix": "had listened"
+    },
+    {
+      "id": "c1-es-221",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Where\" introduces the embedded question.",
+      "tokens": [
+        "I",
+        "don't",
+        "know",
+        "which",
+        "she",
+        "is",
+        "going"
+      ],
+      "wrongIndex": 3,
+      "fix": "where"
+    },
+    {
+      "id": "c1-es-222",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Not the faintest idea\" is the emphatic negative.",
+      "tokens": [
+        "I",
+        "have",
+        "no",
+        "the",
+        "faintest",
+        "idea"
+      ],
+      "wrongIndex": 2,
+      "fix": "not"
+    },
+    {
+      "id": "c1-es-223",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Respect for\" is the standard collocation.",
+      "tokens": [
+        "They",
+        "have",
+        "no",
+        "respect",
+        "to",
+        "the",
+        "law"
+      ],
+      "wrongIndex": 4,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-224",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whom\" is the object of \"consulted\".",
+      "tokens": [
+        "The",
+        "doctor",
+        "who",
+        "I",
+        "consulted",
+        "recommended",
+        "rest"
+      ],
+      "wrongIndex": 2,
+      "fix": "whom"
+    },
+    {
+      "id": "c1-es-225",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Raise\" takes an object.",
+      "tokens": [
+        "I",
+        "need",
+        "to",
+        "rise",
+        "my",
+        "voice",
+        "so",
+        "everyone",
+        "can",
+        "hear"
+      ],
+      "wrongIndex": 3,
+      "fix": "raise"
+    },
+    {
+      "id": "c1-es-226",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Look forward to\" is followed by -ing.",
+      "tokens": [
+        "I",
+        "am",
+        "looking",
+        "forward",
+        "to",
+        "see",
+        "you",
+        "again"
+      ],
+      "wrongIndex": 4,
+      "fix": "seeing"
+    },
+    {
+      "id": "c1-es-227",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"By the time\" calls for the future perfect.",
+      "tokens": [
+        "By",
+        "the",
+        "time",
+        "the",
+        "film",
+        "ends,",
+        "we",
+        "are",
+        "home"
+      ],
+      "wrongIndex": 7,
+      "fix": "will have arrived"
+    },
+    {
+      "id": "c1-es-228",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Tell\" takes an object.",
+      "tokens": [
+        "She",
+        "say",
+        "me",
+        "a",
+        "secret"
+      ],
+      "wrongIndex": 1,
+      "fix": "told"
+    },
+    {
+      "id": "c1-es-229",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Needn't have\" says the worry was unnecessary.",
+      "tokens": [
+        "You",
+        "mustn't",
+        "have",
+        "worried;",
+        "everything",
+        "turned",
+        "out",
+        "well"
+      ],
+      "wrongIndex": 1,
+      "fix": "needn't"
+    },
+    {
+      "id": "c1-es-230",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Advice\" is uncountable.",
+      "tokens": [
+        "She",
+        "gave",
+        "me",
+        "some",
+        "advices",
+        "about",
+        "my",
+        "studies"
+      ],
+      "wrongIndex": 4,
+      "fix": "advice"
+    },
+    {
+      "id": "c1-es-231",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"For\" is used with a length of time.",
+      "tokens": [
+        "They",
+        "have",
+        "been",
+        "friends",
+        "since",
+        "twenty",
+        "years"
+      ],
+      "wrongIndex": 4,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-232",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Subject to\" is the fixed phrase.",
+      "tokens": [
+        "The",
+        "plan",
+        "is",
+        "subject",
+        "of",
+        "approval",
+        "by",
+        "the",
+        "board"
+      ],
+      "wrongIndex": 4,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-233",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Would\" is not used in the if-clause.",
+      "tokens": [
+        "If",
+        "he",
+        "would",
+        "have",
+        "known,",
+        "he",
+        "would",
+        "have",
+        "helped"
+      ],
+      "wrongIndex": 2,
+      "fix": "had"
+    },
+    {
+      "id": "c1-es-234",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Take into account\" is the fixed phrase.",
+      "tokens": [
+        "We",
+        "should",
+        "take",
+        "account",
+        "of",
+        "the",
+        "changing",
+        "circumstances"
+      ],
+      "wrongIndex": 3,
+      "fix": "into"
+    },
+    {
+      "id": "c1-es-235",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Touched\" describes how she felt.",
+      "tokens": [
+        "She",
+        "was",
+        "touching",
+        "by",
+        "the",
+        "kindness",
+        "of",
+        "strangers"
+      ],
+      "wrongIndex": 2,
+      "fix": "touched"
+    },
+    {
+      "id": "c1-es-236",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Both\" takes a plural verb.",
+      "tokens": [
+        "Both",
+        "of",
+        "the",
+        "workers",
+        "has",
+        "finished",
+        "their",
+        "tasks"
+      ],
+      "wrongIndex": 4,
+      "fix": "have"
+    },
+    {
+      "id": "c1-es-237",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After \"might\" use \"have\".",
+      "tokens": [
+        "He",
+        "might",
+        "has",
+        "taken",
+        "the",
+        "wrong",
+        "turning"
+      ],
+      "wrongIndex": 1,
+      "fix": "have"
+    },
+    {
+      "id": "c1-es-238",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whose\" shows possession.",
+      "tokens": [
+        "The",
+        "people",
+        "that's",
+        "cars",
+        "were",
+        "damaged",
+        "will",
+        "be",
+        "compensated"
+      ],
+      "wrongIndex": 2,
+      "fix": "whose"
+    },
+    {
+      "id": "c1-es-239",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Look forward to\" is the fixed phrase.",
+      "tokens": [
+        "We",
+        "are",
+        "looking",
+        "forward",
+        "for",
+        "meeting",
+        "you"
+      ],
+      "wrongIndex": 4,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-240",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Congratulate on\" is the standard collocation.",
+      "tokens": [
+        "We",
+        "congratulated",
+        "her",
+        "for",
+        "her",
+        "success"
+      ],
+      "wrongIndex": 3,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-241",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Neither\" is for two.",
+      "tokens": [
+        "Neither",
+        "of",
+        "the",
+        "three",
+        "candidates",
+        "was",
+        "suitable"
+      ],
+      "wrongIndex": 0,
+      "fix": "None"
+    },
+    {
+      "id": "c1-es-242",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Entitled to\" is the fixed collocation.",
+      "tokens": [
+        "The",
+        "bank",
+        "is",
+        "entitled",
+        "on",
+        "demand",
+        "repayment"
+      ],
+      "wrongIndex": 4,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-243",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Effect\" as a verb means to bring about.",
+      "tokens": [
+        "The",
+        "committee",
+        "will",
+        "affect",
+        "a",
+        "thorough",
+        "review"
+      ],
+      "wrongIndex": 3,
+      "fix": "effect"
+    },
+    {
+      "id": "c1-es-244",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Since\" calls for the present perfect.",
+      "tokens": [
+        "The",
+        "firm",
+        "employs",
+        "three",
+        "hundred",
+        "people",
+        "since",
+        "2010"
+      ],
+      "wrongIndex": 2,
+      "fix": "has employed"
+    },
+    {
+      "id": "c1-es-245",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Friends\" is countable.",
+      "tokens": [
+        "He",
+        "has",
+        "much",
+        "friends",
+        "in",
+        "the",
+        "industry"
+      ],
+      "wrongIndex": 2,
+      "fix": "many"
+    },
+    {
+      "id": "c1-es-246",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Wish\" takes a past form.",
+      "tokens": [
+        "I",
+        "wish",
+        "I",
+        "can",
+        "speak",
+        "Italian"
+      ],
+      "wrongIndex": 3,
+      "fix": "could"
+    },
+    {
+      "id": "c1-es-247",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A modal is followed by \"have\" + participle.",
+      "tokens": [
+        "She",
+        "shouldn't",
+        "to",
+        "have",
+        "gone",
+        "alone"
+      ],
+      "wrongIndex": 1,
+      "fix": "shouldn't have"
+    },
+    {
+      "id": "c1-es-248",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The passive needs a participle.",
+      "tokens": [
+        "The",
+        "hotel",
+        "is",
+        "situate",
+        "in",
+        "the",
+        "heart",
+        "of",
+        "the",
+        "old",
+        "town"
+      ],
+      "wrongIndex": 3,
+      "fix": "situated"
+    },
+    {
+      "id": "c1-es-249",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Pass over\" means to ignore for promotion.",
+      "tokens": [
+        "He",
+        "was",
+        "passed",
+        "by",
+        "for",
+        "promotion",
+        "again"
+      ],
+      "wrongIndex": 3,
+      "fix": "over"
+    },
+    {
+      "id": "c1-es-250",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Must\" expresses a strong deduction.",
+      "tokens": [
+        "He",
+        "can't",
+        "be",
+        "at",
+        "home;",
+        "the",
+        "lights",
+        "are",
+        "on"
+      ],
+      "wrongIndex": 1,
+      "fix": "must"
+    },
+    {
+      "id": "c1-es-251",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Each other\" is reciprocal.",
+      "tokens": [
+        "The",
+        "two",
+        "sisters",
+        "never",
+        "speak",
+        "to",
+        "themselves"
+      ],
+      "wrongIndex": 6,
+      "fix": "each other"
+    },
+    {
+      "id": "c1-es-252",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Prefer ... to\" is the standard structure.",
+      "tokens": [
+        "I",
+        "prefer",
+        "tea",
+        "than",
+        "coffee"
+      ],
+      "wrongIndex": 3,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-253",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Responsible for\" is the standard collocation.",
+      "tokens": [
+        "I",
+        "am",
+        "responsible",
+        "of",
+        "the",
+        "safety",
+        "of",
+        "the",
+        "passengers"
+      ],
+      "wrongIndex": 3,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-254",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Who\" refers to people.",
+      "tokens": [
+        "The",
+        "manager",
+        "which",
+        "resigned",
+        "yesterday",
+        "was",
+        "widely",
+        "respected"
+      ],
+      "wrongIndex": 2,
+      "fix": "who"
+    },
+    {
+      "id": "c1-es-255",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"The whole\" is the standard order.",
+      "tokens": [
+        "They",
+        "spent",
+        "a",
+        "whole",
+        "of",
+        "the",
+        "night",
+        "arguing"
+      ],
+      "wrongIndex": 2,
+      "fix": "the"
+    },
+    {
+      "id": "c1-es-256",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Arrive at\" is used with a building.",
+      "tokens": [
+        "We",
+        "arrived",
+        "in",
+        "the",
+        "cinema",
+        "just",
+        "in",
+        "time"
+      ],
+      "wrongIndex": 2,
+      "fix": "at"
+    },
+    {
+      "id": "c1-es-257",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Put up with\" means to tolerate.",
+      "tokens": [
+        "I",
+        "can't",
+        "put",
+        "up",
+        "this",
+        "noise",
+        "any",
+        "longer"
+      ],
+      "wrongIndex": 3,
+      "fix": "up with"
+    },
+    {
+      "id": "c1-es-258",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Good at\" is the standard collocation.",
+      "tokens": [
+        "She",
+        "is",
+        "very",
+        "good",
+        "in",
+        "mathematics"
+      ],
+      "wrongIndex": 4,
+      "fix": "at"
+    },
+    {
+      "id": "c1-es-259",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Doubt\" is uncountable.",
+      "tokens": [
+        "I",
+        "have",
+        "few",
+        "doubt",
+        "that",
+        "she",
+        "will",
+        "succeed"
+      ],
+      "wrongIndex": 2,
+      "fix": "little"
+    },
+    {
+      "id": "c1-es-260",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The second conditional uses the past simple.",
+      "tokens": [
+        "If",
+        "I",
+        "would",
+        "have",
+        "more",
+        "time,",
+        "I",
+        "would",
+        "join",
+        "a",
+        "club"
+      ],
+      "wrongIndex": 2,
+      "fix": "had"
+    },
+    {
+      "id": "c1-es-261",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Needn't have\" says an action was unnecessary.",
+      "tokens": [
+        "You",
+        "mustn't",
+        "have",
+        "bothered",
+        "to",
+        "bring",
+        "a",
+        "present"
+      ],
+      "wrongIndex": 1,
+      "fix": "needn't"
+    },
+    {
+      "id": "c1-es-262",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Rise\" is intransitive.",
+      "tokens": [
+        "He",
+        "raised",
+        "from",
+        "his",
+        "chair",
+        "when",
+        "she",
+        "entered"
+      ],
+      "wrongIndex": 1,
+      "fix": "rose"
+    },
+    {
+      "id": "c1-es-263",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Responsible for\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "is",
+        "responsible",
+        "of",
+        "the",
+        "accounts"
+      ],
+      "wrongIndex": 2,
+      "fix": "responsible for"
+    },
+    {
+      "id": "c1-es-264",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Not only\" at the start requires inversion.",
+      "tokens": [
+        "Not",
+        "only",
+        "he",
+        "was",
+        "late,",
+        "but",
+        "he",
+        "also",
+        "forgot",
+        "the",
+        "documents"
+      ],
+      "wrongIndex": 2,
+      "fix": "was he"
+    },
+    {
+      "id": "c1-es-265",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"For\" is used with a length of time.",
+      "tokens": [
+        "They",
+        "have",
+        "been",
+        "friends",
+        "since",
+        "ten",
+        "years"
+      ],
+      "wrongIndex": 4,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-266",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The particle is \"off\".",
+      "tokens": [
+        "The",
+        "plane",
+        "took",
+        "of",
+        "an",
+        "hour",
+        "late"
+      ],
+      "wrongIndex": 2,
+      "fix": "off"
+    },
+    {
+      "id": "c1-es-267",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Progress\" is uncountable.",
+      "tokens": [
+        "She",
+        "did",
+        "not",
+        "make",
+        "a",
+        "progress",
+        "this",
+        "term"
+      ],
+      "wrongIndex": 4,
+      "fix": "any"
+    },
+    {
+      "id": "c1-es-268",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A present form follows \"if\".",
+      "tokens": [
+        "If",
+        "I",
+        "will",
+        "have",
+        "time,",
+        "I",
+        "will",
+        "help",
+        "you"
+      ],
+      "wrongIndex": 2,
+      "fix": "have"
+    },
+    {
+      "id": "c1-es-269",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Money\" is uncountable.",
+      "tokens": [
+        "The",
+        "government",
+        "has",
+        "few",
+        "money",
+        "to",
+        "spend",
+        "on",
+        "education"
+      ],
+      "wrongIndex": 3,
+      "fix": "little"
+    },
+    {
+      "id": "c1-es-270",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Accused of\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "was",
+        "accused",
+        "for",
+        "stealing",
+        "the",
+        "money"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-271",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Fewer\" goes with countable nouns.",
+      "tokens": [
+        "There",
+        "is",
+        "less",
+        "people",
+        "than",
+        "I",
+        "expected"
+      ],
+      "wrongIndex": 2,
+      "fix": "fewer"
+    },
+    {
+      "id": "c1-es-272",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Advice\" is uncountable.",
+      "tokens": [
+        "She",
+        "gave",
+        "me",
+        "some",
+        "advices",
+        "about",
+        "my",
+        "career"
+      ],
+      "wrongIndex": 4,
+      "fix": "advice"
+    },
+    {
+      "id": "c1-es-273",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"More ... than\" is the correct comparison.",
+      "tokens": [
+        "Technology",
+        "has",
+        "affected",
+        "our",
+        "lives",
+        "in",
+        "more",
+        "ways",
+        "that",
+        "we",
+        "can",
+        "imagine"
+      ],
+      "wrongIndex": 2,
+      "fix": "than"
+    },
+    {
+      "id": "c1-es-274",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The collocation is \"pride oneself on\".",
+      "tokens": [
+        "She",
+        "prided",
+        "herself",
+        "for",
+        "her",
+        "punctuality"
+      ],
+      "wrongIndex": 1,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-275",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Accused of\" introduces the alleged offence.",
+      "tokens": [
+        "He",
+        "was",
+        "accused",
+        "with",
+        "stealing",
+        "the",
+        "money"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-276",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Time\" is uncountable.",
+      "tokens": [
+        "He",
+        "has",
+        "many",
+        "time",
+        "to",
+        "spare",
+        "today"
+      ],
+      "wrongIndex": 2,
+      "fix": "much"
+    },
+    {
+      "id": "c1-es-277",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Needn't have\" says the worry was unnecessary.",
+      "tokens": [
+        "You",
+        "mustn't",
+        "have",
+        "worried;",
+        "the",
+        "result",
+        "was",
+        "never",
+        "in",
+        "doubt"
+      ],
+      "wrongIndex": 1,
+      "fix": "needn't"
+    },
+    {
+      "id": "c1-es-278",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Accused of\" introduces the alleged offence.",
+      "tokens": [
+        "The",
+        "firm",
+        "has",
+        "been",
+        "accused",
+        "for",
+        "fraud"
+      ],
+      "wrongIndex": 5,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-279",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Fed up with\" is the standard collocation.",
+      "tokens": [
+        "I'm",
+        "fed",
+        "up",
+        "of",
+        "this",
+        "noise"
+      ],
+      "wrongIndex": 3,
+      "fix": "with"
+    },
+    {
+      "id": "c1-es-280",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Which\" refers to things.",
+      "tokens": [
+        "She",
+        "is",
+        "the",
+        "woman",
+        "which",
+        "I",
+        "admire",
+        "most"
+      ],
+      "wrongIndex": 4,
+      "fix": "whom"
+    },
+    {
+      "id": "c1-es-281",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"A rise in\" is the fixed collocation.",
+      "tokens": [
+        "There",
+        "has",
+        "been",
+        "a",
+        "sharp",
+        "rise",
+        "of",
+        "the",
+        "number",
+        "of",
+        "cyclists"
+      ],
+      "wrongIndex": 6,
+      "fix": "in"
+    },
+    {
+      "id": "c1-es-282",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Aware of\" is the fixed collocation.",
+      "tokens": [
+        "They",
+        "were",
+        "not",
+        "aware",
+        "from",
+        "the",
+        "dangers",
+        "involved"
+      ],
+      "wrongIndex": 4,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-283",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Hope\" is uncountable.",
+      "tokens": [
+        "There",
+        "is",
+        "few",
+        "hope",
+        "that",
+        "the",
+        "talks",
+        "will",
+        "succeed"
+      ],
+      "wrongIndex": 2,
+      "fix": "little"
+    },
+    {
+      "id": "c1-es-284",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Married to\" is the fixed collocation.",
+      "tokens": [
+        "She",
+        "is",
+        "married",
+        "with",
+        "a",
+        "pilot"
+      ],
+      "wrongIndex": 3,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-285",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Arrive at\" is used with smaller places.",
+      "tokens": [
+        "They",
+        "arrived",
+        "to",
+        "the",
+        "airport",
+        "on",
+        "time"
+      ],
+      "wrongIndex": 2,
+      "fix": "at"
+    },
+    {
+      "id": "c1-es-286",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Dependent on\" is the fixed collocation.",
+      "tokens": [
+        "The",
+        "charity",
+        "is",
+        "dependent",
+        "of",
+        "voluntary",
+        "donations"
+      ],
+      "wrongIndex": 4,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-287",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Interested in\" is the standard collocation.",
+      "tokens": [
+        "She",
+        "is",
+        "interested",
+        "on",
+        "learning",
+        "Japanese"
+      ],
+      "wrongIndex": 3,
+      "fix": "in"
+    },
+    {
+      "id": "c1-es-288",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Proud of\" is the standard collocation.",
+      "tokens": [
+        "They",
+        "are",
+        "proud",
+        "for",
+        "their",
+        "daughter"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-289",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Famous for\" is the standard collocation.",
+      "tokens": [
+        "The",
+        "firm",
+        "is",
+        "famous",
+        "of",
+        "its",
+        "excellent",
+        "customer",
+        "service"
+      ],
+      "wrongIndex": 4,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-290",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The mandative subjunctive takes the base form.",
+      "tokens": [
+        "It",
+        "is",
+        "vital",
+        "that",
+        "he",
+        "attends",
+        "the",
+        "meeting",
+        "in",
+        "person"
+      ],
+      "wrongIndex": 5,
+      "fix": "attend"
+    },
+    {
+      "id": "c1-es-291",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Arrive at\" is used with a building.",
+      "tokens": [
+        "We",
+        "arrived",
+        "in",
+        "the",
+        "hotel",
+        "at",
+        "midnight"
+      ],
+      "wrongIndex": 2,
+      "fix": "at"
+    },
+    {
+      "id": "c1-es-292",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Advice\" is uncountable.",
+      "tokens": [
+        "She",
+        "gave",
+        "me",
+        "a",
+        "good",
+        "advice"
+      ],
+      "wrongIndex": 3,
+      "fix": "some"
+    },
+    {
+      "id": "c1-es-293",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The superlative is needed for more than two.",
+      "tokens": [
+        "She",
+        "is",
+        "the",
+        "more",
+        "intelligent",
+        "student",
+        "in",
+        "the",
+        "class"
+      ],
+      "wrongIndex": 3,
+      "fix": "most"
+    },
+    {
+      "id": "c1-es-294",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The -ing form describes the thing.",
+      "tokens": [
+        "It",
+        "was",
+        "an",
+        "interested",
+        "lecture;",
+        "everyone",
+        "listened",
+        "closely"
+      ],
+      "wrongIndex": 3,
+      "fix": "interesting"
+    },
+    {
+      "id": "c1-es-295",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Reported speech shifts the tense back.",
+      "tokens": [
+        "He",
+        "told",
+        "me",
+        "that",
+        "he",
+        "will",
+        "come",
+        "the",
+        "next",
+        "day"
+      ],
+      "wrongIndex": 5,
+      "fix": "would"
+    },
+    {
+      "id": "c1-es-296",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Used to\" is the fixed phrase.",
+      "tokens": [
+        "She",
+        "is",
+        "use",
+        "to",
+        "working",
+        "at",
+        "night"
+      ],
+      "wrongIndex": 2,
+      "fix": "used"
+    },
+    {
+      "id": "c1-es-297",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"For\" is used with a length of time.",
+      "tokens": [
+        "I",
+        "have",
+        "lived",
+        "here",
+        "since",
+        "ten",
+        "years"
+      ],
+      "wrongIndex": 4,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-298",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Since\" requires the present perfect.",
+      "tokens": [
+        "I",
+        "am",
+        "here",
+        "since",
+        "last",
+        "Tuesday"
+      ],
+      "wrongIndex": 1,
+      "fix": "have been"
+    },
+    {
+      "id": "c1-es-299",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The present continuous shows a temporary activity.",
+      "tokens": [
+        "At",
+        "present,",
+        "she",
+        "works",
+        "on",
+        "a",
+        "major",
+        "research",
+        "project"
+      ],
+      "wrongIndex": 3,
+      "fix": "is working"
+    },
+    {
+      "id": "c1-es-300",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Lay\" is the transitive verb.",
+      "tokens": [
+        "He",
+        "lied",
+        "the",
+        "book",
+        "on",
+        "the",
+        "table"
+      ],
+      "wrongIndex": 1,
+      "fix": "laid"
+    },
+    {
+      "id": "c1-es-301",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The third conditional needs the past perfect.",
+      "tokens": [
+        "If",
+        "you",
+        "study",
+        "harder",
+        "last",
+        "year,",
+        "you",
+        "would",
+        "have",
+        "passed"
+      ],
+      "wrongIndex": 2,
+      "fix": "had studied"
+    },
+    {
+      "id": "c1-es-302",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Guilty of\" introduces the offence.",
+      "tokens": [
+        "He",
+        "is",
+        "guilty",
+        "for",
+        "fraud"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-303",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The reporting passive takes an infinitive.",
+      "tokens": [
+        "The",
+        "painting",
+        "is",
+        "thought",
+        "being",
+        "a",
+        "forgery"
+      ],
+      "wrongIndex": 4,
+      "fix": "to be"
+    },
+    {
+      "id": "c1-es-304",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After \"insist that\" the base form is used.",
+      "tokens": [
+        "The",
+        "management",
+        "insisted",
+        "that",
+        "she",
+        "attends",
+        "the",
+        "meeting"
+      ],
+      "wrongIndex": 5,
+      "fix": "attend"
+    },
+    {
+      "id": "c1-es-305",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Would\" is not used for states.",
+      "tokens": [
+        "When",
+        "I",
+        "was",
+        "a",
+        "child,",
+        "we",
+        "would",
+        "have",
+        "a",
+        "dog",
+        "called",
+        "Rex"
+      ],
+      "wrongIndex": 6,
+      "fix": "had"
+    },
+    {
+      "id": "c1-es-306",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The -ing form describes the thing.",
+      "tokens": [
+        "The",
+        "trip",
+        "was",
+        "exhausted",
+        "but",
+        "rewarding"
+      ],
+      "wrongIndex": 3,
+      "fix": "exhausting"
+    },
+    {
+      "id": "c1-es-307",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Fall through\" means to fail.",
+      "tokens": [
+        "The",
+        "project",
+        "fell",
+        "down",
+        "because",
+        "of",
+        "lack",
+        "of",
+        "funds"
+      ],
+      "wrongIndex": 3,
+      "fix": "through"
+    },
+    {
+      "id": "c1-es-308",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whom\" is the object of \"met\".",
+      "tokens": [
+        "The",
+        "man",
+        "whose",
+        "I",
+        "met",
+        "yesterday",
+        "is",
+        "a",
+        "lawyer"
+      ],
+      "wrongIndex": 2,
+      "fix": "whom"
+    },
+    {
+      "id": "c1-es-309",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Addicted to\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "is",
+        "addicted",
+        "of",
+        "computer",
+        "games"
+      ],
+      "wrongIndex": 3,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-310",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Can't have\" expresses a negative deduction.",
+      "tokens": [
+        "He",
+        "mustn't",
+        "have",
+        "failed;",
+        "he",
+        "is",
+        "brilliant"
+      ],
+      "wrongIndex": 1,
+      "fix": "can't"
+    },
+    {
+      "id": "c1-es-311",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Good at\" is the standard collocation.",
+      "tokens": [
+        "She",
+        "is",
+        "not",
+        "very",
+        "good",
+        "with",
+        "languages"
+      ],
+      "wrongIndex": 5,
+      "fix": "at"
+    },
+    {
+      "id": "c1-es-312",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"For\" is used with a length of time.",
+      "tokens": [
+        "We",
+        "have",
+        "known",
+        "each",
+        "other",
+        "since",
+        "a",
+        "long",
+        "time"
+      ],
+      "wrongIndex": 5,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-313",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Do a job\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "made",
+        "a",
+        "good",
+        "job",
+        "on",
+        "the",
+        "report"
+      ],
+      "wrongIndex": 1,
+      "fix": "did"
+    },
+    {
+      "id": "c1-es-314",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Addicted to\" is the fixed collocation.",
+      "tokens": [
+        "She",
+        "is",
+        "addicted",
+        "with",
+        "chocolate"
+      ],
+      "wrongIndex": 3,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-315",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Consist\" is a state verb.",
+      "tokens": [
+        "The",
+        "firm",
+        "is",
+        "consisting",
+        "of",
+        "three",
+        "departments"
+      ],
+      "wrongIndex": 3,
+      "fix": "consists"
+    },
+    {
+      "id": "c1-es-316",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "An adverb is needed.",
+      "tokens": [
+        "The",
+        "results",
+        "were",
+        "considerable",
+        "better",
+        "than",
+        "expected"
+      ],
+      "wrongIndex": 3,
+      "fix": "considerably"
+    },
+    {
+      "id": "c1-es-317",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Congratulate on\" is the standard collocation.",
+      "tokens": [
+        "They",
+        "congratulated",
+        "her",
+        "for",
+        "her",
+        "success"
+      ],
+      "wrongIndex": 3,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-319",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Honest\" begins with a vowel sound.",
+      "tokens": [
+        "He",
+        "is",
+        "a",
+        "honest",
+        "man",
+        "whom",
+        "everyone",
+        "trusts"
+      ],
+      "wrongIndex": 2,
+      "fix": "an"
+    },
+    {
+      "id": "c1-es-320",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A passive needs a past participle.",
+      "tokens": [
+        "The",
+        "report",
+        "was",
+        "wrote",
+        "by",
+        "an",
+        "independent",
+        "expert"
+      ],
+      "wrongIndex": 3,
+      "fix": "written"
+    },
+    {
+      "id": "c1-es-321",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Reported speech shifts the tense back.",
+      "tokens": [
+        "She",
+        "said",
+        "she",
+        "will",
+        "call",
+        "me",
+        "later"
+      ],
+      "wrongIndex": 3,
+      "fix": "would"
+    },
+    {
+      "id": "c1-es-322",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Both\" takes a plural verb.",
+      "tokens": [
+        "Both",
+        "of",
+        "the",
+        "answers",
+        "is",
+        "correct"
+      ],
+      "wrongIndex": 4,
+      "fix": "are"
+    },
+    {
+      "id": "c1-es-323",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whom\" is the object form.",
+      "tokens": [
+        "The",
+        "author,",
+        "whose",
+        "I",
+        "met",
+        "last",
+        "year,",
+        "has",
+        "published",
+        "a",
+        "new",
+        "book"
+      ],
+      "wrongIndex": 2,
+      "fix": "whom"
+    },
+    {
+      "id": "c1-es-324",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whose\" shows possession.",
+      "tokens": [
+        "The",
+        "tenant",
+        "which",
+        "flat",
+        "is",
+        "below",
+        "ours",
+        "is",
+        "very",
+        "noisy"
+      ],
+      "wrongIndex": 2,
+      "fix": "whose"
+    },
+    {
+      "id": "c1-es-325",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Disagree with\" is the standard collocation.",
+      "tokens": [
+        "I",
+        "disagree",
+        "to",
+        "your",
+        "opinion"
+      ],
+      "wrongIndex": 2,
+      "fix": "with"
+    },
+    {
+      "id": "c1-es-326",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Succeed in\" is the standard collocation.",
+      "tokens": [
+        "She",
+        "succeeded",
+        "to",
+        "passing",
+        "the",
+        "exam"
+      ],
+      "wrongIndex": 2,
+      "fix": "in"
+    },
+    {
+      "id": "c1-es-327",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"The number of\" takes a singular verb.",
+      "tokens": [
+        "The",
+        "number",
+        "of",
+        "cases",
+        "are",
+        "growing"
+      ],
+      "wrongIndex": 4,
+      "fix": "is"
+    },
+    {
+      "id": "c1-es-328",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Take no notice of\" is the fixed phrase.",
+      "tokens": [
+        "He",
+        "took",
+        "no",
+        "notice",
+        "at",
+        "the",
+        "warning"
+      ],
+      "wrongIndex": 4,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-329",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Evidence\" is uncountable.",
+      "tokens": [
+        "A",
+        "few",
+        "of",
+        "the",
+        "evidence",
+        "was",
+        "convincing"
+      ],
+      "wrongIndex": 0,
+      "fix": "Little"
+    },
+    {
+      "id": "c1-es-330",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Envious of\" is the standard collocation.",
+      "tokens": [
+        "She",
+        "is",
+        "envious",
+        "from",
+        "her",
+        "friend's",
+        "success"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-331",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Money\" is uncountable.",
+      "tokens": [
+        "She",
+        "has",
+        "few",
+        "money",
+        "left",
+        "after",
+        "the",
+        "holiday"
+      ],
+      "wrongIndex": 2,
+      "fix": "little"
+    },
+    {
+      "id": "c1-es-332",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The -ed form describes how someone feels.",
+      "tokens": [
+        "I",
+        "am",
+        "interesting",
+        "in",
+        "history"
+      ],
+      "wrongIndex": 2,
+      "fix": "interested"
+    },
+    {
+      "id": "c1-es-333",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Knowledge\" is uncountable.",
+      "tokens": [
+        "He",
+        "has",
+        "few",
+        "knowledge",
+        "of",
+        "the",
+        "subject"
+      ],
+      "wrongIndex": 2,
+      "fix": "little"
+    },
+    {
+      "id": "c1-es-334",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Reported speech shifts the tense back.",
+      "tokens": [
+        "She",
+        "said",
+        "that",
+        "she",
+        "is",
+        "very",
+        "tired"
+      ],
+      "wrongIndex": 4,
+      "fix": "was"
+    },
+    {
+      "id": "c1-es-335",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Information\" is uncountable.",
+      "tokens": [
+        "All",
+        "the",
+        "informations",
+        "have",
+        "been",
+        "checked"
+      ],
+      "wrongIndex": 2,
+      "fix": "information"
+    },
+    {
+      "id": "c1-es-336",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Principal\" is the head of a school.",
+      "tokens": [
+        "The",
+        "principle",
+        "of",
+        "the",
+        "school",
+        "welcomed",
+        "the",
+        "visitors"
+      ],
+      "wrongIndex": 1,
+      "fix": "principal"
+    },
+    {
+      "id": "c1-es-337",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Lend\" means to give temporarily.",
+      "tokens": [
+        "Can",
+        "you",
+        "borrow",
+        "me",
+        "your",
+        "pen"
+      ],
+      "wrongIndex": 2,
+      "fix": "lend"
+    },
+    {
+      "id": "c1-es-338",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Neither\" takes a singular verb.",
+      "tokens": [
+        "Neither",
+        "of",
+        "the",
+        "hotels",
+        "were",
+        "available"
+      ],
+      "wrongIndex": 4,
+      "fix": "was"
+    },
+    {
+      "id": "c1-es-339",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The future perfect shows total duration.",
+      "tokens": [
+        "By",
+        "the",
+        "time",
+        "she",
+        "retires,",
+        "she",
+        "works",
+        "here",
+        "for",
+        "forty",
+        "years"
+      ],
+      "wrongIndex": 6,
+      "fix": "will have worked"
+    },
+    {
+      "id": "c1-es-340",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Needn't\" expresses lack of necessity.",
+      "tokens": [
+        "You",
+        "mustn't",
+        "pay",
+        "now;",
+        "you",
+        "can",
+        "pay",
+        "later"
+      ],
+      "wrongIndex": 1,
+      "fix": "needn't"
+    },
+    {
+      "id": "c1-es-341",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The -ed form describes how she felt.",
+      "tokens": [
+        "She",
+        "felt",
+        "embarrassing",
+        "when",
+        "she",
+        "dropped",
+        "the",
+        "tray"
+      ],
+      "wrongIndex": 2,
+      "fix": "embarrassed"
+    },
+    {
+      "id": "c1-es-342",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A superlative is needed.",
+      "tokens": [
+        "It",
+        "was",
+        "the",
+        "more",
+        "expensive",
+        "hotel",
+        "in",
+        "the",
+        "city"
+      ],
+      "wrongIndex": 3,
+      "fix": "most"
+    },
+    {
+      "id": "c1-es-343",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Agree to\" is the standard collocation.",
+      "tokens": [
+        "We",
+        "agreed",
+        "for",
+        "the",
+        "proposal"
+      ],
+      "wrongIndex": 2,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-344",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Advice\" is uncountable.",
+      "tokens": [
+        "I",
+        "would",
+        "like",
+        "an",
+        "advice",
+        "on",
+        "this",
+        "matter"
+      ],
+      "wrongIndex": 3,
+      "fix": "some"
+    },
+    {
+      "id": "c1-es-345",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Advice\" is uncountable.",
+      "tokens": [
+        "Could",
+        "you",
+        "give",
+        "me",
+        "an",
+        "advice"
+      ],
+      "wrongIndex": 4,
+      "fix": "some"
+    },
+    {
+      "id": "c1-es-346",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Confidence in\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "has",
+        "great",
+        "confidence",
+        "on",
+        "his",
+        "abilities"
+      ],
+      "wrongIndex": 4,
+      "fix": "in"
+    },
+    {
+      "id": "c1-es-347",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Apologise for\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "apologised",
+        "of",
+        "being",
+        "late"
+      ],
+      "wrongIndex": 2,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-348",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Remind\" takes an object and an infinitive.",
+      "tokens": [
+        "Please",
+        "remember",
+        "me",
+        "to",
+        "send",
+        "the",
+        "invoice"
+      ],
+      "wrongIndex": 1,
+      "fix": "remind"
+    },
+    {
+      "id": "c1-es-349",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whose\" shows possession.",
+      "tokens": [
+        "The",
+        "students",
+        "that",
+        "books",
+        "were",
+        "stolen",
+        "complained"
+      ],
+      "wrongIndex": 2,
+      "fix": "whose"
+    },
+    {
+      "id": "c1-es-350",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Advice\" is uncountable.",
+      "tokens": [
+        "He",
+        "gave",
+        "me",
+        "a",
+        "useful",
+        "advice",
+        "about",
+        "the",
+        "course"
+      ],
+      "wrongIndex": 3,
+      "fix": "some"
+    },
+    {
+      "id": "c1-es-351",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Capable of\" is followed by -ing.",
+      "tokens": [
+        "He",
+        "is",
+        "not",
+        "capable",
+        "to",
+        "understand",
+        "the",
+        "problem"
+      ],
+      "wrongIndex": 4,
+      "fix": "of understanding"
+    },
+    {
+      "id": "c1-es-352",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Confusion\" is uncountable.",
+      "tokens": [
+        "There",
+        "is",
+        "many",
+        "confusion",
+        "about",
+        "the",
+        "new",
+        "rules"
+      ],
+      "wrongIndex": 2,
+      "fix": "much"
+    },
+    {
+      "id": "c1-es-353",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Capable of\" is followed by -ing.",
+      "tokens": [
+        "He",
+        "is",
+        "not",
+        "capable",
+        "to",
+        "managing",
+        "a",
+        "team"
+      ],
+      "wrongIndex": 4,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-354",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Touched\" describes how she felt.",
+      "tokens": [
+        "She",
+        "was",
+        "deeply",
+        "touching",
+        "by",
+        "the",
+        "news"
+      ],
+      "wrongIndex": 3,
+      "fix": "touched"
+    },
+    {
+      "id": "c1-es-355",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Time\" is uncountable.",
+      "tokens": [
+        "I",
+        "don't",
+        "have",
+        "many",
+        "time",
+        "at",
+        "the",
+        "moment"
+      ],
+      "wrongIndex": 3,
+      "fix": "much"
+    },
+    {
+      "id": "c1-es-356",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Since\" requires the present perfect.",
+      "tokens": [
+        "We",
+        "live",
+        "here",
+        "since",
+        "1998"
+      ],
+      "wrongIndex": 1,
+      "fix": "have lived"
+    },
+    {
+      "id": "c1-es-357",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Pass over\" means to ignore for promotion.",
+      "tokens": [
+        "He",
+        "was",
+        "passed",
+        "of",
+        "for",
+        "promotion"
+      ],
+      "wrongIndex": 3,
+      "fix": "over"
+    },
+    {
+      "id": "c1-es-358",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Unless\" is already negative.",
+      "tokens": [
+        "I",
+        "will",
+        "go",
+        "to",
+        "the",
+        "party",
+        "unless",
+        "you",
+        "won't",
+        "come"
+      ],
+      "wrongIndex": 8,
+      "fix": "come"
+    },
+    {
+      "id": "c1-es-359",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The present continuous shows a temporary activity.",
+      "tokens": [
+        "At",
+        "present,",
+        "the",
+        "committee",
+        "discusses",
+        "a",
+        "number",
+        "of",
+        "proposals"
+      ],
+      "wrongIndex": 4,
+      "fix": "is discussing"
+    },
+    {
+      "id": "c1-es-360",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Extremely\" begins with a vowel sound.",
+      "tokens": [
+        "It's",
+        "a",
+        "extremely",
+        "important",
+        "issue"
+      ],
+      "wrongIndex": 1,
+      "fix": "an"
+    },
+    {
+      "id": "c1-es-361",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"News\" is uncountable.",
+      "tokens": [
+        "I",
+        "have",
+        "a",
+        "news",
+        "for",
+        "you"
+      ],
+      "wrongIndex": 2,
+      "fix": "some"
+    },
+    {
+      "id": "c1-es-362",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Ought\" needs \"to\".",
+      "tokens": [
+        "You",
+        "ought",
+        "be",
+        "more",
+        "careful",
+        "when",
+        "you",
+        "cross",
+        "the",
+        "road"
+      ],
+      "wrongIndex": 1,
+      "fix": "ought to"
+    },
+    {
+      "id": "c1-es-363",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The -ed form describes how she felt.",
+      "tokens": [
+        "She",
+        "was",
+        "so",
+        "exciting",
+        "that",
+        "she",
+        "could",
+        "not",
+        "sleep"
+      ],
+      "wrongIndex": 3,
+      "fix": "excited"
+    },
+    {
+      "id": "c1-es-364",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Traffic\" is uncountable.",
+      "tokens": [
+        "There",
+        "was",
+        "a",
+        "lot",
+        "of",
+        "traffics",
+        "in",
+        "the",
+        "city"
+      ],
+      "wrongIndex": 5,
+      "fix": "traffic"
+    },
+    {
+      "id": "c1-es-365",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Sensitive\" means easily affected.",
+      "tokens": [
+        "She",
+        "is",
+        "a",
+        "very",
+        "sensible",
+        "child",
+        "and",
+        "cries",
+        "easily"
+      ],
+      "wrongIndex": 4,
+      "fix": "sensitive"
+    },
+    {
+      "id": "c1-es-366",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Since\" with an ongoing situation needs the present perfect.",
+      "tokens": [
+        "The",
+        "company",
+        "is",
+        "trading",
+        "profitably",
+        "since",
+        "the",
+        "new",
+        "manager",
+        "took",
+        "over"
+      ],
+      "wrongIndex": 2,
+      "fix": "has been"
+    },
+    {
+      "id": "c1-es-367",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Each\" takes a singular verb.",
+      "tokens": [
+        "Each",
+        "of",
+        "the",
+        "players",
+        "were",
+        "given",
+        "a",
+        "medal"
+      ],
+      "wrongIndex": 4,
+      "fix": "was"
+    },
+    {
+      "id": "c1-es-368",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Committed to\" is the fixed collocation.",
+      "tokens": [
+        "The",
+        "company",
+        "is",
+        "committed",
+        "in",
+        "improving",
+        "safety"
+      ],
+      "wrongIndex": 4,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-369",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Congratulate on\" is the standard collocation.",
+      "tokens": [
+        "They",
+        "congratulated",
+        "her",
+        "for",
+        "the",
+        "promotion"
+      ],
+      "wrongIndex": 3,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-370",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Ought\" needs \"to\".",
+      "tokens": [
+        "You",
+        "ought",
+        "have",
+        "told",
+        "me",
+        "earlier"
+      ],
+      "wrongIndex": 1,
+      "fix": "ought to"
+    },
+    {
+      "id": "c1-es-371",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Number\" goes with countable nouns.",
+      "tokens": [
+        "A",
+        "large",
+        "amount",
+        "of",
+        "people",
+        "attended",
+        "the",
+        "demonstration"
+      ],
+      "wrongIndex": 1,
+      "fix": "number"
+    },
+    {
+      "id": "c1-es-372",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Enthusiasm\" is uncountable.",
+      "tokens": [
+        "She",
+        "spoke",
+        "with",
+        "many",
+        "enthusiasm"
+      ],
+      "wrongIndex": 3,
+      "fix": "great"
+    },
+    {
+      "id": "c1-es-373",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Hardly\" requires inversion.",
+      "tokens": [
+        "Hardly",
+        "he",
+        "had",
+        "arrived",
+        "when",
+        "the",
+        "phone",
+        "rang"
+      ],
+      "wrongIndex": 1,
+      "fix": "had he"
+    },
+    {
+      "id": "c1-es-374",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The fixed phrase is \"came to the conclusion\".",
+      "tokens": [
+        "We",
+        "arrived",
+        "at",
+        "the",
+        "conclusion",
+        "that",
+        "the",
+        "trip",
+        "was",
+        "not",
+        "worth",
+        "the",
+        "cost"
+      ],
+      "wrongIndex": 1,
+      "fix": "came to"
+    },
+    {
+      "id": "c1-es-375",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"For\" is used with a length of time.",
+      "tokens": [
+        "He",
+        "has",
+        "worked",
+        "here",
+        "since",
+        "five",
+        "years"
+      ],
+      "wrongIndex": 4,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-376",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A short adjective forms the comparative with \"-er\".",
+      "tokens": [
+        "She",
+        "is",
+        "more",
+        "tall",
+        "than",
+        "her",
+        "sister"
+      ],
+      "wrongIndex": 2,
+      "fix": "taller"
+    },
+    {
+      "id": "c1-es-377",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Touched\" describes how she felt.",
+      "tokens": [
+        "She",
+        "was",
+        "deeply",
+        "touching",
+        "by",
+        "his",
+        "generosity"
+      ],
+      "wrongIndex": 3,
+      "fix": "touched"
+    },
+    {
+      "id": "c1-es-378",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A passive needs a past participle.",
+      "tokens": [
+        "The",
+        "disease",
+        "was",
+        "discovering",
+        "in",
+        "1950"
+      ],
+      "wrongIndex": 3,
+      "fix": "discovered"
+    },
+    {
+      "id": "c1-es-379",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A passive needs a past participle.",
+      "tokens": [
+        "She",
+        "was",
+        "gave",
+        "a",
+        "prize",
+        "for",
+        "her",
+        "essay"
+      ],
+      "wrongIndex": 2,
+      "fix": "given"
+    },
+    {
+      "id": "c1-es-380",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "An adverb is needed to modify \"sings\".",
+      "tokens": [
+        "She",
+        "sings",
+        "beautiful"
+      ],
+      "wrongIndex": 2,
+      "fix": "beautifully"
+    },
+    {
+      "id": "c1-es-381",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"On the first try\" is the standard phrase.",
+      "tokens": [
+        "He",
+        "passed",
+        "his",
+        "driving",
+        "test",
+        "at",
+        "the",
+        "first",
+        "try"
+      ],
+      "wrongIndex": 5,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-382",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Since\" with an ongoing situation needs the present perfect.",
+      "tokens": [
+        "I",
+        "am",
+        "working",
+        "here",
+        "since",
+        "2012"
+      ],
+      "wrongIndex": 1,
+      "fix": "have been"
+    },
+    {
+      "id": "c1-es-383",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Accused of\" introduces the alleged offence.",
+      "tokens": [
+        "They",
+        "were",
+        "accused",
+        "for",
+        "corruption",
+        "and",
+        "fraud"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-384",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After \"look\" an adjective is used.",
+      "tokens": [
+        "He",
+        "looked",
+        "angrily",
+        "when",
+        "he",
+        "heard",
+        "the",
+        "news"
+      ],
+      "wrongIndex": 2,
+      "fix": "angry"
+    },
+    {
+      "id": "c1-es-385",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Fewer\" goes with countable nouns.",
+      "tokens": [
+        "There",
+        "is",
+        "less",
+        "people",
+        "in",
+        "the",
+        "office",
+        "today"
+      ],
+      "wrongIndex": 2,
+      "fix": "fewer"
+    },
+    {
+      "id": "c1-es-386",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Look forward to\" is the fixed phrase.",
+      "tokens": [
+        "We",
+        "are",
+        "looking",
+        "forward",
+        "for",
+        "the",
+        "holiday"
+      ],
+      "wrongIndex": 4,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-387",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Since\" calls for the present perfect.",
+      "tokens": [
+        "He",
+        "suffers",
+        "from",
+        "insomnia",
+        "since",
+        "his",
+        "wife",
+        "died"
+      ],
+      "wrongIndex": 1,
+      "fix": "has suffered"
+    },
+    {
+      "id": "c1-es-388",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Tell\" takes an object.",
+      "tokens": [
+        "He",
+        "said",
+        "me",
+        "the",
+        "truth",
+        "in",
+        "the",
+        "end"
+      ],
+      "wrongIndex": 1,
+      "fix": "told"
+    },
+    {
+      "id": "c1-es-389",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Information\" is uncountable.",
+      "tokens": [
+        "I",
+        "have",
+        "a",
+        "lot",
+        "of",
+        "informations",
+        "for",
+        "you"
+      ],
+      "wrongIndex": 5,
+      "fix": "information"
+    },
+    {
+      "id": "c1-es-390",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Congratulate on\" is the standard collocation.",
+      "tokens": [
+        "They",
+        "congratulated",
+        "her",
+        "for",
+        "winning",
+        "the",
+        "national",
+        "prize"
+      ],
+      "wrongIndex": 3,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-391",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The preposition is \"about\" to fit the verb.",
+      "tokens": [
+        "The",
+        "book",
+        "of",
+        "which",
+        "I",
+        "spoke",
+        "has",
+        "been",
+        "published"
+      ],
+      "wrongIndex": 2,
+      "fix": "about"
+    },
+    {
+      "id": "c1-es-392",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Affect\" is the verb meaning to influence.",
+      "tokens": [
+        "The",
+        "new",
+        "law",
+        "will",
+        "effect",
+        "small",
+        "businesses",
+        "most",
+        "severely"
+      ],
+      "wrongIndex": 4,
+      "fix": "affect"
+    },
+    {
+      "id": "c1-es-393",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Surprised at\" is the standard collocation.",
+      "tokens": [
+        "They",
+        "were",
+        "surprised",
+        "from",
+        "the",
+        "result"
+      ],
+      "wrongIndex": 3,
+      "fix": "at"
+    },
+    {
+      "id": "c1-es-394",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Relationship with\" is used for a person.",
+      "tokens": [
+        "They",
+        "have",
+        "a",
+        "good",
+        "relationship",
+        "between",
+        "their",
+        "neighbours"
+      ],
+      "wrongIndex": 5,
+      "fix": "with"
+    },
+    {
+      "id": "c1-es-395",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Fewer\" goes with countable nouns.",
+      "tokens": [
+        "There",
+        "were",
+        "less",
+        "visitors",
+        "than",
+        "last",
+        "year"
+      ],
+      "wrongIndex": 2,
+      "fix": "fewer"
+    },
+    {
+      "id": "c1-es-396",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Raise\" takes an object.",
+      "tokens": [
+        "The",
+        "campaign",
+        "aims",
+        "to",
+        "rise",
+        "awareness",
+        "of",
+        "the",
+        "problem"
+      ],
+      "wrongIndex": 4,
+      "fix": "raise"
+    },
+    {
+      "id": "c1-es-397",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Tired of\" is the fixed collocation.",
+      "tokens": [
+        "I'm",
+        "tired",
+        "from",
+        "waiting"
+      ],
+      "wrongIndex": 2,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-398",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"By midnight\" calls for the future perfect.",
+      "tokens": [
+        "By",
+        "midnight",
+        "they",
+        "arrive",
+        "in",
+        "Berlin"
+      ],
+      "wrongIndex": 3,
+      "fix": "will have arrived"
+    },
+    {
+      "id": "c1-es-399",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Research\" is uncountable.",
+      "tokens": [
+        "She",
+        "has",
+        "done",
+        "many",
+        "research",
+        "on",
+        "the",
+        "subject"
+      ],
+      "wrongIndex": 3,
+      "fix": "much"
+    },
+    {
+      "id": "c1-es-400",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The -ing form describes the thing.",
+      "tokens": [
+        "It",
+        "was",
+        "a",
+        "bored",
+        "lecture",
+        "and",
+        "nobody",
+        "listened"
+      ],
+      "wrongIndex": 3,
+      "fix": "boring"
+    },
+    {
+      "id": "c1-es-401",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The -ing form describes the thing.",
+      "tokens": [
+        "The",
+        "news",
+        "was",
+        "shocked",
+        "and",
+        "everybody",
+        "was",
+        "silent"
+      ],
+      "wrongIndex": 3,
+      "fix": "shocking"
+    },
+    {
+      "id": "c1-es-402",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Unless\" is already negative.",
+      "tokens": [
+        "Unless",
+        "you",
+        "don't",
+        "study,",
+        "you",
+        "will",
+        "fail"
+      ],
+      "wrongIndex": 2,
+      "fix": "study"
+    },
+    {
+      "id": "c1-es-403",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whose\" shows possession.",
+      "tokens": [
+        "The",
+        "author,",
+        "whom",
+        "works",
+        "I",
+        "admire,",
+        "is",
+        "visiting",
+        "the",
+        "city"
+      ],
+      "wrongIndex": 2,
+      "fix": "whose"
+    },
+    {
+      "id": "c1-es-404",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The superlative is needed with \"ever\".",
+      "tokens": [
+        "It",
+        "was",
+        "the",
+        "more",
+        "difficult",
+        "exam",
+        "I",
+        "have",
+        "ever",
+        "taken"
+      ],
+      "wrongIndex": 3,
+      "fix": "most"
+    },
+    {
+      "id": "c1-es-405",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "General topics take no article.",
+      "tokens": [
+        "He",
+        "gave",
+        "a",
+        "lecture",
+        "on",
+        "the",
+        "climate",
+        "change"
+      ],
+      "wrongIndex": 5,
+      "fix": "no article"
+    },
+    {
+      "id": "c1-es-406",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Depart for\" introduces the destination.",
+      "tokens": [
+        "The",
+        "ferry",
+        "departed",
+        "to",
+        "the",
+        "island",
+        "at",
+        "noon"
+      ],
+      "wrongIndex": 2,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-407",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Take offence at\" is the fixed collocation.",
+      "tokens": [
+        "He",
+        "did",
+        "not",
+        "take",
+        "offence",
+        "of",
+        "her",
+        "remarks"
+      ],
+      "wrongIndex": 4,
+      "fix": "at"
+    },
+    {
+      "id": "c1-es-408",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A comparative is needed with \"than\".",
+      "tokens": [
+        "The",
+        "test",
+        "was",
+        "easiest",
+        "than",
+        "we",
+        "thought"
+      ],
+      "wrongIndex": 3,
+      "fix": "easier"
+    },
+    {
+      "id": "c1-es-409",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Touched\" describes how she felt.",
+      "tokens": [
+        "She",
+        "was",
+        "touching",
+        "by",
+        "the",
+        "gift"
+      ],
+      "wrongIndex": 2,
+      "fix": "touched"
+    },
+    {
+      "id": "c1-es-410",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Can't have\" expresses a negative deduction.",
+      "tokens": [
+        "He",
+        "mustn't",
+        "have",
+        "missed",
+        "the",
+        "train;",
+        "he",
+        "is",
+        "always",
+        "punctual"
+      ],
+      "wrongIndex": 1,
+      "fix": "can't"
+    },
+    {
+      "id": "c1-es-411",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Expertise\" is uncountable.",
+      "tokens": [
+        "The",
+        "firm",
+        "has",
+        "many",
+        "expertise",
+        "in",
+        "this",
+        "field"
+      ],
+      "wrongIndex": 3,
+      "fix": "much"
+    },
+    {
+      "id": "c1-es-412",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Responsible for\" is the fixed collocation.",
+      "tokens": [
+        "He",
+        "is",
+        "not",
+        "responsible",
+        "of",
+        "the",
+        "delay"
+      ],
+      "wrongIndex": 4,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-413",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Each\" takes a singular verb.",
+      "tokens": [
+        "Each",
+        "of",
+        "us",
+        "have",
+        "to",
+        "make",
+        "a",
+        "decision"
+      ],
+      "wrongIndex": 3,
+      "fix": "has"
+    },
+    {
+      "id": "c1-es-414",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Keen on\" is the standard collocation.",
+      "tokens": [
+        "I'm",
+        "not",
+        "keen",
+        "in",
+        "this",
+        "idea"
+      ],
+      "wrongIndex": 3,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-415",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Which\" refers to things.",
+      "tokens": [
+        "She",
+        "has",
+        "two",
+        "cars,",
+        "both",
+        "of",
+        "what",
+        "are",
+        "old"
+      ],
+      "wrongIndex": 6,
+      "fix": "which"
+    },
+    {
+      "id": "c1-es-416",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Furniture\" is uncountable.",
+      "tokens": [
+        "I",
+        "would",
+        "like",
+        "to",
+        "buy",
+        "a",
+        "furniture",
+        "for",
+        "my",
+        "new",
+        "flat"
+      ],
+      "wrongIndex": 5,
+      "fix": "some"
+    },
+    {
+      "id": "c1-es-417",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Who\" refers to people.",
+      "tokens": [
+        "Everyone",
+        "which",
+        "attended",
+        "the",
+        "meeting",
+        "was",
+        "impressed"
+      ],
+      "wrongIndex": 1,
+      "fix": "who"
+    },
+    {
+      "id": "c1-es-418",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Who\" is the subject.",
+      "tokens": [
+        "The",
+        "people",
+        "whom",
+        "live",
+        "here",
+        "are",
+        "friendly"
+      ],
+      "wrongIndex": 2,
+      "fix": "who"
+    },
+    {
+      "id": "c1-es-419",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Money\" is uncountable.",
+      "tokens": [
+        "The",
+        "government",
+        "is",
+        "spending",
+        "many",
+        "money",
+        "on",
+        "the",
+        "campaign"
+      ],
+      "wrongIndex": 4,
+      "fix": "much"
+    },
+    {
+      "id": "c1-es-420",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Jealous of\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "is",
+        "jealous",
+        "for",
+        "his",
+        "brother's",
+        "success"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-421",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Lent\" is the past of \"lend\".",
+      "tokens": [
+        "The",
+        "teacher",
+        "lend",
+        "me",
+        "her",
+        "dictionary"
+      ],
+      "wrongIndex": 2,
+      "fix": "lent"
+    },
+    {
+      "id": "c1-es-422",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Who\" is the subject of \"is retiring\".",
+      "tokens": [
+        "The",
+        "director,",
+        "whom",
+        "I",
+        "believe",
+        "is",
+        "retiring,",
+        "spoke",
+        "briefly"
+      ],
+      "wrongIndex": 2,
+      "fix": "who"
+    },
+    {
+      "id": "c1-es-423",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"No doubt\" means not any doubt.",
+      "tokens": [
+        "I",
+        "have",
+        "not",
+        "doubt",
+        "that",
+        "he",
+        "is",
+        "telling",
+        "the",
+        "truth"
+      ],
+      "wrongIndex": 2,
+      "fix": "no"
+    },
+    {
+      "id": "c1-es-424",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Evidence\" is uncountable.",
+      "tokens": [
+        "There",
+        "is",
+        "a",
+        "evidence",
+        "that",
+        "he",
+        "was",
+        "involved"
+      ],
+      "wrongIndex": 2,
+      "fix": "some"
+    },
+    {
+      "id": "c1-es-425",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Pride oneself on\" is the fixed collocation.",
+      "tokens": [
+        "She",
+        "prides",
+        "herself",
+        "for",
+        "her",
+        "punctuality"
+      ],
+      "wrongIndex": 3,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-426",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The second conditional needs the past simple.",
+      "tokens": [
+        "I",
+        "would",
+        "buy",
+        "it",
+        "if",
+        "I",
+        "have",
+        "the",
+        "money"
+      ],
+      "wrongIndex": 6,
+      "fix": "had"
+    },
+    {
+      "id": "c1-es-427",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Should\" is followed by \"have\" + participle.",
+      "tokens": [
+        "They",
+        "should",
+        "to",
+        "have",
+        "informed",
+        "us"
+      ],
+      "wrongIndex": 1,
+      "fix": "have"
+    },
+    {
+      "id": "c1-es-429",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The formal subject form follows \"it is\".",
+      "tokens": [
+        "It",
+        "is",
+        "me",
+        "who",
+        "is",
+        "responsible",
+        "for",
+        "the",
+        "error"
+      ],
+      "wrongIndex": 2,
+      "fix": "I"
+    },
+    {
+      "id": "c1-es-430",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Afraid of\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "is",
+        "afraid",
+        "from",
+        "flying"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-431",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whom\" is the object form.",
+      "tokens": [
+        "The",
+        "manager",
+        "whose",
+        "I",
+        "spoke",
+        "to",
+        "was",
+        "very",
+        "polite"
+      ],
+      "wrongIndex": 2,
+      "fix": "whom"
+    },
+    {
+      "id": "c1-es-432",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"The number of\" takes a singular verb.",
+      "tokens": [
+        "The",
+        "number",
+        "of",
+        "species",
+        "at",
+        "risk",
+        "are",
+        "rising"
+      ],
+      "wrongIndex": 6,
+      "fix": "is"
+    },
+    {
+      "id": "c1-es-433",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Who\" is the subject.",
+      "tokens": [
+        "The",
+        "woman",
+        "whom",
+        "lives",
+        "next",
+        "door",
+        "is",
+        "a",
+        "judge"
+      ],
+      "wrongIndex": 2,
+      "fix": "who"
+    },
+    {
+      "id": "c1-es-434",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Who\" is the subject of \"live\".",
+      "tokens": [
+        "The",
+        "people",
+        "whom",
+        "live",
+        "next",
+        "door",
+        "are",
+        "friendly"
+      ],
+      "wrongIndex": 2,
+      "fix": "who"
+    },
+    {
+      "id": "c1-es-435",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The second conditional uses the past simple.",
+      "tokens": [
+        "If",
+        "we",
+        "would",
+        "leave",
+        "now,",
+        "we",
+        "would",
+        "arrive",
+        "on",
+        "time"
+      ],
+      "wrongIndex": 2,
+      "fix": "left"
+    },
+    {
+      "id": "c1-es-436",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Neither\" is for two.",
+      "tokens": [
+        "Neither",
+        "of",
+        "the",
+        "three",
+        "proposals",
+        "was",
+        "accepted"
+      ],
+      "wrongIndex": 0,
+      "fix": "None"
+    },
+    {
+      "id": "c1-es-437",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The -ed form describes how she felt.",
+      "tokens": [
+        "She",
+        "is",
+        "boring",
+        "with",
+        "her",
+        "job"
+      ],
+      "wrongIndex": 2,
+      "fix": "bored"
+    },
+    {
+      "id": "c1-es-438",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Take advantage of\" is the fixed phrase.",
+      "tokens": [
+        "She",
+        "took",
+        "advantage",
+        "from",
+        "the",
+        "lull",
+        "in",
+        "negotiations",
+        "to",
+        "rest"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-439",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Level off\" is the phrasal verb.",
+      "tokens": [
+        "Prices",
+        "are",
+        "expected",
+        "to",
+        "level",
+        "of",
+        "this",
+        "year"
+      ],
+      "wrongIndex": 5,
+      "fix": "off"
+    },
+    {
+      "id": "c1-es-440",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Interest\" is uncountable.",
+      "tokens": [
+        "He",
+        "gave",
+        "a",
+        "few",
+        "interest",
+        "to",
+        "the",
+        "project"
+      ],
+      "wrongIndex": 3,
+      "fix": "little"
+    },
+    {
+      "id": "c1-es-441",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Accustomed to\" is the fixed collocation.",
+      "tokens": [
+        "She",
+        "is",
+        "not",
+        "accustomed",
+        "with",
+        "such",
+        "treatment"
+      ],
+      "wrongIndex": 4,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-442",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Pride oneself on\" is the fixed collocation.",
+      "tokens": [
+        "She",
+        "prides",
+        "herself",
+        "for",
+        "her",
+        "cooking"
+      ],
+      "wrongIndex": 1,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-443",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The mandative subjunctive uses the base form.",
+      "tokens": [
+        "It",
+        "is",
+        "essential",
+        "that",
+        "he",
+        "is",
+        "informed",
+        "at",
+        "once"
+      ],
+      "wrongIndex": 5,
+      "fix": "be"
+    },
+    {
+      "id": "c1-es-444",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Depend on\" is the standard collocation.",
+      "tokens": [
+        "They",
+        "depend",
+        "from",
+        "tourism",
+        "for",
+        "their",
+        "income"
+      ],
+      "wrongIndex": 2,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-445",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Touch on\" means to mention briefly.",
+      "tokens": [
+        "The",
+        "article",
+        "touches",
+        "at",
+        "several",
+        "controversial",
+        "issues"
+      ],
+      "wrongIndex": 3,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-446",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The reporting passive takes an infinitive.",
+      "tokens": [
+        "He",
+        "is",
+        "believed",
+        "being",
+        "living",
+        "abroad"
+      ],
+      "wrongIndex": 3,
+      "fix": "to be"
+    },
+    {
+      "id": "c1-es-447",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Friends\" is countable.",
+      "tokens": [
+        "I",
+        "have",
+        "little",
+        "friends",
+        "who",
+        "share",
+        "my",
+        "interest",
+        "in",
+        "birdwatching"
+      ],
+      "wrongIndex": 2,
+      "fix": "few"
+    },
+    {
+      "id": "c1-es-448",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Don't have to\" expresses a lack of obligation.",
+      "tokens": [
+        "You",
+        "mustn't",
+        "to",
+        "go",
+        "if",
+        "you",
+        "don't",
+        "want",
+        "to"
+      ],
+      "wrongIndex": 1,
+      "fix": "don't have to"
+    },
+    {
+      "id": "c1-es-449",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Produce results\" is the standard collocation.",
+      "tokens": [
+        "The",
+        "experiment",
+        "made",
+        "interesting",
+        "results"
+      ],
+      "wrongIndex": 2,
+      "fix": "produced"
+    },
+    {
+      "id": "c1-es-450",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The passive needs a participle.",
+      "tokens": [
+        "The",
+        "hotel",
+        "is",
+        "situate",
+        "on",
+        "the",
+        "edge",
+        "of",
+        "the",
+        "lake"
+      ],
+      "wrongIndex": 3,
+      "fix": "situated"
+    },
+    {
+      "id": "c1-es-451",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Fond of\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "is",
+        "fond",
+        "to",
+        "classical",
+        "music"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-452",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"By next June\" calls for the future perfect.",
+      "tokens": [
+        "By",
+        "next",
+        "June",
+        "he",
+        "is",
+        "retired"
+      ],
+      "wrongIndex": 4,
+      "fix": "will have"
+    },
+    {
+      "id": "c1-es-453",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whose\" shows possession.",
+      "tokens": [
+        "The",
+        "speaker,",
+        "who's",
+        "ideas",
+        "were",
+        "controversial,",
+        "left",
+        "early"
+      ],
+      "wrongIndex": 2,
+      "fix": "whose"
+    },
+    {
+      "id": "c1-es-454",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Teach\" takes an object.",
+      "tokens": [
+        "He",
+        "learned",
+        "me",
+        "how",
+        "to",
+        "swim"
+      ],
+      "wrongIndex": 1,
+      "fix": "taught"
+    },
+    {
+      "id": "c1-es-455",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Progress\" is uncountable.",
+      "tokens": [
+        "She",
+        "did",
+        "not",
+        "make",
+        "a",
+        "progress",
+        "in",
+        "the",
+        "exam"
+      ],
+      "wrongIndex": 4,
+      "fix": "any"
+    },
+    {
+      "id": "c1-es-456",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Afraid of\" is the standard collocation.",
+      "tokens": [
+        "He",
+        "is",
+        "afraid",
+        "from",
+        "spiders"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-457",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Effective against\" is the standard collocation.",
+      "tokens": [
+        "The",
+        "treatment",
+        "is",
+        "effective",
+        "on",
+        "bacterial",
+        "infections"
+      ],
+      "wrongIndex": 4,
+      "fix": "against"
+    },
+    {
+      "id": "c1-es-458",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Neither\" takes a singular verb.",
+      "tokens": [
+        "Neither",
+        "of",
+        "the",
+        "results",
+        "were",
+        "conclusive"
+      ],
+      "wrongIndex": 4,
+      "fix": "was"
+    },
+    {
+      "id": "c1-es-459",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The past perfect shows an earlier period.",
+      "tokens": [
+        "We",
+        "stayed",
+        "in",
+        "the",
+        "village",
+        "for",
+        "a",
+        "week",
+        "when",
+        "the",
+        "storm",
+        "struck"
+      ],
+      "wrongIndex": 1,
+      "fix": "had stayed"
+    },
+    {
+      "id": "c1-es-460",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Entitled to\" is the fixed collocation.",
+      "tokens": [
+        "He",
+        "is",
+        "entitled",
+        "for",
+        "a",
+        "full",
+        "refund"
+      ],
+      "wrongIndex": 3,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-461",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"A rise in\" is the fixed collocation.",
+      "tokens": [
+        "There",
+        "has",
+        "been",
+        "a",
+        "sharp",
+        "rise",
+        "on",
+        "unemployment"
+      ],
+      "wrongIndex": 6,
+      "fix": "in"
+    },
+    {
+      "id": "c1-es-462",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Lay\" is the transitive verb.",
+      "tokens": [
+        "He",
+        "lay",
+        "the",
+        "book",
+        "on",
+        "the",
+        "table"
+      ],
+      "wrongIndex": 4,
+      "fix": "laid"
+    },
+    {
+      "id": "c1-es-463",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A noun is needed.",
+      "tokens": [
+        "There",
+        "has",
+        "been",
+        "a",
+        "growing",
+        "concerned",
+        "about",
+        "rising",
+        "prices"
+      ],
+      "wrongIndex": 5,
+      "fix": "concern"
+    },
+    {
+      "id": "c1-es-464",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whose\" shows possession.",
+      "tokens": [
+        "The",
+        "doctor",
+        "who's",
+        "advice",
+        "I",
+        "followed",
+        "was",
+        "very",
+        "helpful"
+      ],
+      "wrongIndex": 2,
+      "fix": "whose"
+    },
+    {
+      "id": "c1-es-465",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whose\" shows possession.",
+      "tokens": [
+        "The",
+        "students",
+        "that's",
+        "essays",
+        "were",
+        "late",
+        "lost",
+        "marks"
+      ],
+      "wrongIndex": 2,
+      "fix": "whose"
+    },
+    {
+      "id": "c1-es-466",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The passive needs a participle.",
+      "tokens": [
+        "The",
+        "painting",
+        "is",
+        "believing",
+        "to",
+        "have",
+        "been",
+        "stolen"
+      ],
+      "wrongIndex": 3,
+      "fix": "believed"
+    },
+    {
+      "id": "c1-es-467",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Look forward to\" is followed by -ing.",
+      "tokens": [
+        "I",
+        "look",
+        "forward",
+        "to",
+        "meet",
+        "you",
+        "at",
+        "the",
+        "interview"
+      ],
+      "wrongIndex": 4,
+      "fix": "meeting"
+    },
+    {
+      "id": "c1-es-468",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Friends\" is countable.",
+      "tokens": [
+        "I",
+        "have",
+        "little",
+        "friends",
+        "I",
+        "can",
+        "really",
+        "rely",
+        "on"
+      ],
+      "wrongIndex": 2,
+      "fix": "few"
+    },
+    {
+      "id": "c1-es-469",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Affect\" is transitive and takes no preposition.",
+      "tokens": [
+        "The",
+        "new",
+        "tax",
+        "will",
+        "affect",
+        "on",
+        "small",
+        "businesses"
+      ],
+      "wrongIndex": 4,
+      "fix": "affect"
+    },
+    {
+      "id": "c1-es-470",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Needn't have\" says the worry was unnecessary.",
+      "tokens": [
+        "You",
+        "mustn't",
+        "have",
+        "worried",
+        "about",
+        "the",
+        "result;",
+        "I",
+        "was",
+        "confident",
+        "from",
+        "the",
+        "start"
+      ],
+      "wrongIndex": 1,
+      "fix": "needn't"
+    },
+    {
+      "id": "c1-es-471",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"People\" is countable.",
+      "tokens": [
+        "There",
+        "are",
+        "much",
+        "people",
+        "waiting",
+        "outside"
+      ],
+      "wrongIndex": 2,
+      "fix": "many"
+    },
+    {
+      "id": "c1-es-472",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whose\" shows possession.",
+      "tokens": [
+        "I",
+        "don't",
+        "know",
+        "who's",
+        "book",
+        "this",
+        "is"
+      ],
+      "wrongIndex": 3,
+      "fix": "whose"
+    },
+    {
+      "id": "c1-es-473",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The superlative is needed with \"ever\".",
+      "tokens": [
+        "It",
+        "is",
+        "the",
+        "worse",
+        "film",
+        "I",
+        "have",
+        "ever",
+        "seen"
+      ],
+      "wrongIndex": 3,
+      "fix": "worst"
+    },
+    {
+      "id": "c1-es-474",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The correct reflexive form is \"themselves\".",
+      "tokens": [
+        "The",
+        "team",
+        "congratulated",
+        "theirselves",
+        "on",
+        "the",
+        "victory"
+      ],
+      "wrongIndex": 3,
+      "fix": "themselves"
+    },
+    {
+      "id": "c1-es-475",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A wish about the present needs a past form.",
+      "tokens": [
+        "I",
+        "wish",
+        "I",
+        "can",
+        "speak",
+        "Japanese"
+      ],
+      "wrongIndex": 3,
+      "fix": "could"
+    },
+    {
+      "id": "c1-es-476",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Insist on\" is the fixed collocation.",
+      "tokens": [
+        "He",
+        "insisted",
+        "in",
+        "paying",
+        "the",
+        "bill"
+      ],
+      "wrongIndex": 2,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-477",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Affect\" is the verb.",
+      "tokens": [
+        "The",
+        "decision",
+        "will",
+        "effect",
+        "thousands",
+        "of",
+        "families"
+      ],
+      "wrongIndex": 3,
+      "fix": "affect"
+    },
+    {
+      "id": "c1-es-478",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Borrow\" means to receive temporarily.",
+      "tokens": [
+        "They",
+        "lend",
+        "money",
+        "from",
+        "the",
+        "bank",
+        "to",
+        "buy",
+        "a",
+        "house"
+      ],
+      "wrongIndex": 1,
+      "fix": "borrowed"
+    },
+    {
+      "id": "c1-es-479",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Take no notice of\" is the fixed phrase.",
+      "tokens": [
+        "He",
+        "took",
+        "no",
+        "notice",
+        "to",
+        "the",
+        "warning"
+      ],
+      "wrongIndex": 4,
+      "fix": "of"
+    },
+    {
+      "id": "c1-es-480",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"By then\" calls for the future perfect.",
+      "tokens": [
+        "By",
+        "then",
+        "I",
+        "live",
+        "here",
+        "for",
+        "ten",
+        "years"
+      ],
+      "wrongIndex": 3,
+      "fix": "will have lived"
+    },
+    {
+      "id": "c1-es-481",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whose\" shows possession.",
+      "tokens": [
+        "The",
+        "writer,",
+        "who",
+        "books",
+        "I",
+        "admire,",
+        "will",
+        "give",
+        "a",
+        "talk"
+      ],
+      "wrongIndex": 2,
+      "fix": "whose"
+    },
+    {
+      "id": "c1-es-482",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The present continuous shows an action in progress.",
+      "tokens": [
+        "At",
+        "present,",
+        "they",
+        "build",
+        "a",
+        "new",
+        "school"
+      ],
+      "wrongIndex": 3,
+      "fix": "are building"
+    },
+    {
+      "id": "c1-es-483",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Not the slightest\" is the emphatic negative.",
+      "tokens": [
+        "I",
+        "have",
+        "no",
+        "the",
+        "slightest",
+        "idea",
+        "what",
+        "happened"
+      ],
+      "wrongIndex": 2,
+      "fix": "not"
+    },
+    {
+      "id": "c1-es-484",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Dependent on\" is the fixed collocation.",
+      "tokens": [
+        "The",
+        "firm",
+        "is",
+        "dependent",
+        "of",
+        "a",
+        "single",
+        "customer"
+      ],
+      "wrongIndex": 4,
+      "fix": "on"
+    },
+    {
+      "id": "c1-es-485",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Can't have\" expresses a negative deduction.",
+      "tokens": [
+        "They",
+        "must",
+        "have",
+        "arrived",
+        "yet;",
+        "the",
+        "lights",
+        "are",
+        "off"
+      ],
+      "wrongIndex": 1,
+      "fix": "can't"
+    },
+    {
+      "id": "c1-es-486",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"A rise in\" is the fixed collocation.",
+      "tokens": [
+        "There",
+        "has",
+        "been",
+        "a",
+        "sharp",
+        "rise",
+        "of",
+        "unemployment"
+      ],
+      "wrongIndex": 6,
+      "fix": "in"
+    },
+    {
+      "id": "c1-es-487",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Raise\" takes an object.",
+      "tokens": [
+        "The",
+        "campaign",
+        "aims",
+        "to",
+        "rise",
+        "awareness"
+      ],
+      "wrongIndex": 4,
+      "fix": "raise"
+    },
+    {
+      "id": "c1-es-488",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"For\" is used with a length of time.",
+      "tokens": [
+        "She",
+        "has",
+        "been",
+        "studying",
+        "English",
+        "since",
+        "three",
+        "years"
+      ],
+      "wrongIndex": 5,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-489",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The mandative subjunctive uses the base form.",
+      "tokens": [
+        "It",
+        "is",
+        "vital",
+        "that",
+        "she",
+        "is",
+        "informed",
+        "at",
+        "once"
+      ],
+      "wrongIndex": 5,
+      "fix": "be"
+    },
+    {
+      "id": "c1-es-490",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Renowned for\" introduces the reason.",
+      "tokens": [
+        "The",
+        "resort",
+        "is",
+        "renowned",
+        "its",
+        "stunning",
+        "beaches"
+      ],
+      "wrongIndex": 3,
+      "fix": "for"
+    },
+    {
+      "id": "c1-es-491",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A modal is followed by the bare infinitive.",
+      "tokens": [
+        "You",
+        "mustn't",
+        "to",
+        "leave",
+        "early"
+      ],
+      "wrongIndex": 1,
+      "fix": "needn't"
+    },
+    {
+      "id": "c1-es-492",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whose\" shows possession.",
+      "tokens": [
+        "The",
+        "writer,",
+        "who",
+        "books",
+        "have",
+        "been",
+        "translated",
+        "into",
+        "twenty",
+        "languages,",
+        "died",
+        "last",
+        "year"
+      ],
+      "wrongIndex": 2,
+      "fix": "whose"
+    },
+    {
+      "id": "c1-es-493",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Neither\" takes a singular verb.",
+      "tokens": [
+        "Neither",
+        "of",
+        "the",
+        "brothers",
+        "have",
+        "written",
+        "to",
+        "me"
+      ],
+      "wrongIndex": 4,
+      "fix": "has"
+    },
+    {
+      "id": "c1-es-494",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Addicted to\" is the fixed collocation.",
+      "tokens": [
+        "She",
+        "is",
+        "addicted",
+        "of",
+        "chocolate"
+      ],
+      "wrongIndex": 3,
+      "fix": "to"
+    },
+    {
+      "id": "c1-es-495",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Where\" follows a noun of place.",
+      "tokens": [
+        "The",
+        "house",
+        "which",
+        "I",
+        "was",
+        "born",
+        "has",
+        "been",
+        "demolished"
+      ],
+      "wrongIndex": 2,
+      "fix": "where"
+    },
+    {
+      "id": "c1-es-496",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Needn't\" expresses lack of necessity.",
+      "tokens": [
+        "You",
+        "mustn't",
+        "come",
+        "if",
+        "you",
+        "don't",
+        "want",
+        "to"
+      ],
+      "wrongIndex": 1,
+      "fix": "needn't"
+    },
+    {
+      "id": "c1-es-497",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"What\" introduces an indirect question.",
+      "tokens": [
+        "He",
+        "asked",
+        "me",
+        "that",
+        "I",
+        "wanted"
+      ],
+      "wrongIndex": 3,
+      "fix": "what"
+    },
+    {
+      "id": "c1-es-498",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Who\" is the subject of \"is highly capable\".",
+      "tokens": [
+        "The",
+        "manager,",
+        "whom",
+        "I",
+        "believe",
+        "is",
+        "highly",
+        "capable,",
+        "was",
+        "promoted"
+      ],
+      "wrongIndex": 2,
+      "fix": "who"
+    },
+    {
+      "id": "c1-es-499",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A present form follows \"if\" for the future.",
+      "tokens": [
+        "If",
+        "it",
+        "rained",
+        "tomorrow,",
+        "we",
+        "will",
+        "stay",
+        "in"
+      ],
+      "wrongIndex": 2,
+      "fix": "rains"
+    },
+    {
+      "id": "c1-es-500",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The future perfect shows the total duration.",
+      "tokens": [
+        "By",
+        "next",
+        "year,",
+        "we",
+        "live",
+        "here",
+        "for",
+        "a",
+        "decade"
+      ],
+      "wrongIndex": 4,
+      "fix": "will have lived"
+    },
+    {
+      "id": "c1-es-501",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"A thousands\" is ungrammatical.",
+      "tokens": [
+        "The",
+        "company",
+        "employs",
+        "a",
+        "thousands",
+        "of",
+        "people",
+        "worldwide"
+      ],
+      "wrongIndex": 3,
+      "fix": "thousands of"
+    },
+    {
+      "id": "c1-es-502",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The reporting passive takes an infinitive.",
+      "tokens": [
+        "She",
+        "is",
+        "said",
+        "being",
+        "a",
+        "brilliant",
+        "surgeon"
+      ],
+      "wrongIndex": 3,
+      "fix": "to be"
+    },
+    {
+      "id": "c1-es-503",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Weather\" is uncountable, so no article is used.",
+      "tokens": [
+        "We",
+        "had",
+        "a",
+        "lovely",
+        "weather",
+        "during",
+        "the",
+        "whole",
+        "trip"
+      ],
+      "wrongIndex": 2,
+      "fix": "lovely"
+    },
+    {
+      "id": "c1-es-504",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A passive needs a past participle.",
+      "tokens": [
+        "The",
+        "cathedral",
+        "has",
+        "been",
+        "building",
+        "since",
+        "1990"
+      ],
+      "wrongIndex": 4,
+      "fix": "built"
+    },
+    {
+      "id": "c1-es-505",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Friends\" is countable.",
+      "tokens": [
+        "She",
+        "has",
+        "much",
+        "friends",
+        "in",
+        "the",
+        "music",
+        "industry"
+      ],
+      "wrongIndex": 2,
+      "fix": "many"
+    },
+    {
+      "id": "c1-es-506",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The reporting passive takes a plain infinitive after \"to\".",
+      "tokens": [
+        "The",
+        "suspect",
+        "is",
+        "thought",
+        "to",
+        "being",
+        "abroad"
+      ],
+      "wrongIndex": 5,
+      "fix": "be"
+    },
+    {
+      "id": "c1-es-507",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A passive gerund needs a past participle.",
+      "tokens": [
+        "He",
+        "denied",
+        "being",
+        "tell",
+        "about",
+        "the",
+        "changes"
+      ],
+      "wrongIndex": 3,
+      "fix": "told"
+    },
+    {
+      "id": "c1-es-508",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A passive continuous needs a past participle.",
+      "tokens": [
+        "The",
+        "prisoners",
+        "were",
+        "being",
+        "question",
+        "for",
+        "hours"
+      ],
+      "wrongIndex": 4,
+      "fix": "questioned"
+    },
+    {
+      "id": "c1-es-509",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Advice\" is uncountable.",
+      "tokens": [
+        "I",
+        "would",
+        "like",
+        "to",
+        "offer",
+        "you",
+        "an",
+        "advice",
+        "on",
+        "this",
+        "matter"
+      ],
+      "wrongIndex": 6,
+      "fix": "some"
+    },
+    {
+      "id": "c1-es-510",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A past event needs the perfect infinitive.",
+      "tokens": [
+        "The",
+        "committee",
+        "is",
+        "believed",
+        "to",
+        "meet",
+        "yesterday"
+      ],
+      "wrongIndex": 5,
+      "fix": "have met"
+    },
+    {
+      "id": "c1-es-511",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Confusion\" is uncountable, so no article is needed; \"a\" must go.",
+      "tokens": [
+        "There",
+        "was",
+        "a",
+        "widespread",
+        "confusion",
+        "about",
+        "the",
+        "new",
+        "timetable"
+      ],
+      "wrongIndex": 2,
+      "fix": "widespread"
+    },
+    {
+      "id": "c1-es-512",
+      "type": "error-spot",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Progress\" is uncountable.",
+      "tokens": [
+        "She",
+        "has",
+        "made",
+        "a",
+        "great",
+        "progress",
+        "this",
+        "term"
+      ],
+      "wrongIndex": 3,
+      "fix": "great"
     }
   ]
 }

@@ -3222,6 +3222,4956 @@
           "Seen"
         ]
       ]
+    },
+    {
+      "id": "c1-vc-151",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect links \"since\" to now.",
+      "text": "They ___ (not / hear) from him since he left for Canada.",
+      "answers": [
+        [
+          "haven't heard"
+        ]
+      ],
+      "wrongReasons": {
+        "didn't hear": "The simple past does not link to now.",
+        "hadn't heard": "The past perfect does not fit.",
+        "don't hear": "The present simple does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-152",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Cut down on\" means to reduce.",
+      "text": "The government is cutting ___ (down / up) on spending.",
+      "answers": [
+        [
+          "down"
+        ]
+      ],
+      "wrongReasons": {
+        "up": "\"Cut up\" means to cut into pieces.",
+        "off": "\"Cut off\" means to stop.",
+        "out": "\"Cut out\" means to remove."
+      }
+    },
+    {
+      "id": "c1-vc-153",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Can't have been\" is a negative deduction.",
+      "text": "He ___ (can / not / have / be) there; he was in London all week.",
+      "answers": [
+        [
+          "can't have been"
+        ]
+      ],
+      "wrongReasons": {
+        "mustn't have been": "\"Mustn't have\" is not used for deduction.",
+        "shouldn't have been": "\"Shouldn't have\" expresses criticism.",
+        "needn't have been": "\"Needn't have\" has another meaning."
+      }
+    },
+    {
+      "id": "c1-vc-154",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "text": "The explorer ___ (travel) for months before she reached the pole.",
+      "answers": [
+        [
+          "had been travelling"
+        ]
+      ],
+      "wrongReasons": {
+        "was travelling": "The past perfect continuous shows duration before arrival.",
+        "has been travelling": "The present perfect does not fit.",
+        "travelled": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-155",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The -ed form describes how she felt.",
+      "text": "She was ___ (embarrassed / embarrassing) by her mistake.",
+      "answers": [
+        [
+          "embarrassed"
+        ]
+      ],
+      "wrongReasons": {
+        "embarrassing": "The -ing form describes the cause.",
+        "embarrass": "A participle is needed.",
+        "embarrassment": "\"Embarrassment\" is a noun."
+      }
+    },
+    {
+      "id": "c1-vc-156",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A \"principle\" is a basic rule.",
+      "text": "The company's main ___ (principal / principle) is to treat all staff fairly.",
+      "answers": [
+        [
+          "principle"
+        ]
+      ],
+      "wrongReasons": {
+        "principal": "\"Principal\" means main or a head teacher.",
+        "principles": "The singular is needed.",
+        "principally": "An adverb is not possible here."
+      }
+    },
+    {
+      "id": "c1-vc-157",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The if-clause uses the past perfect passive.",
+      "text": "If more people ___ (vaccinate) earlier, the epidemic would not have spread so far.",
+      "answers": [
+        [
+          "had been vaccinated"
+        ]
+      ],
+      "wrongReasons": {
+        "were vaccinated": "The third conditional needs the past perfect.",
+        "would be vaccinated": "\"Would\" is not used in the if-clause.",
+        "had vaccinated": "The people are the receivers."
+      }
+    },
+    {
+      "id": "c1-vc-158",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "text": "She ___ (work) for the firm for twenty years when she was offered early retirement.",
+      "answers": [
+        [
+          "had been working"
+        ]
+      ],
+      "wrongReasons": {
+        "was working": "The past perfect continuous shows duration before the offer.",
+        "has been working": "The present perfect does not fit.",
+        "worked": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-159",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Most\" + plural noun gives a general statement.",
+      "text": "___ (Most / The most) people prefer to live near their families.",
+      "answers": [
+        [
+          "Most"
+        ]
+      ],
+      "wrongReasons": {
+        "The most": "A general statement takes no article.",
+        "Almost": "\"Almost people\" is ungrammatical.",
+        "Mostly": "\"Mostly people\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vc-160",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Suspected of\" introduces the offence.",
+      "text": "They are suspected ___ (of / for) fraud.",
+      "answers": [
+        [
+          "of"
+        ]
+      ],
+      "wrongReasons": {
+        "for": "\"Suspected for\" is not standard.",
+        "with": "\"Suspected with\" is not standard.",
+        "at": "\"Suspected at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-161",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past form follows \"possible that\" for a past possibility.",
+      "text": "It's possible that she ___ (not / receive) the message.",
+      "answers": [
+        [
+          "didn't receive"
+        ]
+      ],
+      "wrongReasons": {
+        "hasn't received": "The sentence needs a past form after \"possible that\".",
+        "wouldn't receive": "\"Wouldn't\" has another meaning.",
+        "doesn't receive": "The present simple does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-162",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future perfect shows completion before a future point.",
+      "text": "By the end of the year, the company ___ (open) twenty new stores.",
+      "answers": [
+        [
+          "will have opened"
+        ]
+      ],
+      "wrongReasons": {
+        "will open": "The future perfect shows completion.",
+        "has opened": "The present perfect does not fit a future point.",
+        "opens": "A present tense does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-163",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Should have\" expresses an expectation.",
+      "text": "He ___ (should / arrive) by now; let's phone him.",
+      "answers": [
+        [
+          "should have arrived"
+        ]
+      ],
+      "wrongReasons": {
+        "should arrive": "The sentence refers to an expectation about the past.",
+        "must arrive": "\"Must arrive\" is not a deduction here.",
+        "would arrive": "\"Would\" has another meaning."
+      }
+    },
+    {
+      "id": "c1-vc-164",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect continuous links change to now.",
+      "text": "The company ___ (grow) rapidly ever since it opened its first overseas branch.",
+      "answers": [
+        [
+          "has been growing"
+        ]
+      ],
+      "wrongReasons": {
+        "grew": "The simple past does not link to now.",
+        "had been growing": "The past perfect does not fit.",
+        "grows": "The present simple does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-165",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Suggest that\" can take the base form.",
+      "text": "The report suggests that the minister ___ (resign) before the investigation begins.",
+      "answers": [
+        [
+          "resign"
+        ]
+      ],
+      "wrongReasons": {
+        "resigns": "The mandative subjunctive uses the base form.",
+        "resigned": "\"resigned\" does not work here, because the mandative subjunctive uses the base form.",
+        "will resign": "\"Will\" does not follow \"suggests that\" in the mandative."
+      }
+    },
+    {
+      "id": "c1-vc-166",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future perfect shows completion by a future time.",
+      "text": "By the end of the course, students ___ (write) five essays.",
+      "answers": [
+        [
+          "will have written"
+        ]
+      ],
+      "wrongReasons": {
+        "will write": "The future perfect shows completion.",
+        "have written": "The present perfect does not fit a future point.",
+        "write": "A present tense does not show completion."
+      }
+    },
+    {
+      "id": "c1-vc-167",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Tallest\" is the superlative of \"tall\".",
+      "text": "He is the ___ (tall) boy in the class.",
+      "answers": [
+        [
+          "tallest"
+        ]
+      ],
+      "wrongReasons": {
+        "taller": "A comparative needs \"than\".",
+        "most tall": "\"Most tall\" is not standard.",
+        "tall": "The superlative is needed."
+      }
+    },
+    {
+      "id": "c1-vc-168",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Objection to\" is followed by -ing.",
+      "text": "She has no objection ___ (to / work) at weekends.",
+      "answers": [
+        [
+          "to working"
+        ]
+      ],
+      "wrongReasons": {
+        "for working": "\"Objection for\" is not standard.",
+        "of working": "\"Objection of\" is not standard.",
+        "to work": "After \"objection to\" use -ing."
+      }
+    },
+    {
+      "id": "c1-vc-169",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The perfect passive infinitive shows an earlier time.",
+      "text": "The house is said ___ (build) in 1650.",
+      "answers": [
+        [
+          "to have been built"
+        ]
+      ],
+      "wrongReasons": {
+        "to be built": "The perfect infinitive refers to an earlier time.",
+        "to build": "The passive infinitive is needed.",
+        "building": "A participle does not follow \"said\"."
+      }
+    },
+    {
+      "id": "c1-vc-170",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The third conditional uses the past perfect.",
+      "text": "If the project ___ (not / be) cancelled, hundreds of jobs would have been saved.",
+      "answers": [
+        [
+          "hadn't been"
+        ]
+      ],
+      "wrongReasons": {
+        "wasn't": "The third conditional needs the past perfect.",
+        "isn't": "A present form does not fit.",
+        "wouldn't be": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "c1-vc-171",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "A long adjective forms the superlative with \"most\".",
+      "text": "She is the ___ (intelligent) person I know.",
+      "answers": [
+        [
+          "most intelligent"
+        ]
+      ],
+      "wrongReasons": {
+        "more intelligent": "A comparative needs \"than\".",
+        "intelligentest": "This form does not exist.",
+        "very intelligent": "A superlative is needed."
+      }
+    },
+    {
+      "id": "c1-vc-172",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Comment on\" is the fixed collocation.",
+      "text": "The mayor is expected to comment ___ (on / at) the proposals tomorrow.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"Comment at\" is not standard.",
+        "to": "\"Comment to\" is not standard.",
+        "for": "\"Comment for\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-173",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Must have been\" is a past deduction.",
+      "text": "He ___ (must / be) delighted when he heard he had won.",
+      "answers": [
+        [
+          "must have been"
+        ]
+      ],
+      "wrongReasons": {
+        "must be": "The sentence refers to the past.",
+        "should be": "\"Should\" does not express deduction.",
+        "would be": "\"Would\" does not express deduction."
+      }
+    },
+    {
+      "id": "c1-vc-174",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect links a period to now.",
+      "text": "He ___ (not / eat) anything all day, so he is starving.",
+      "answers": [
+        [
+          "hasn't eaten"
+        ]
+      ],
+      "wrongReasons": {
+        "didn't eat": "The simple past does not link to now.",
+        "hadn't eaten": "The past perfect does not fit.",
+        "doesn't eat": "The present simple does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-175",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect shows an earlier action.",
+      "text": "By the time the ferry reached the island, the storm ___ (die down).",
+      "answers": [
+        [
+          "had died down"
+        ]
+      ],
+      "wrongReasons": {
+        "died down": "The past perfect shows an earlier action.",
+        "has died down": "The present perfect does not fit.",
+        "was dying down": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "c1-vc-176",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present simple is used for timetables.",
+      "text": "The plane ___ (take off) at nine o'clock tomorrow morning.",
+      "answers": [
+        [
+          "takes off"
+        ]
+      ],
+      "wrongReasons": {
+        "is taking off": "The timetable calls for the present simple.",
+        "took off": "A past form does not refer to the future.",
+        "has taken off": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-177",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"A number of\" means several.",
+      "text": "He has made ___ (a number / the number) of mistakes in his work.",
+      "answers": [
+        [
+          "a number"
+        ]
+      ],
+      "wrongReasons": {
+        "the number": "\"The number of\" takes a singular verb and a total.",
+        "number": "A determiner is needed.",
+        "numbers": "\"A numbers of\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vc-178",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect links \"since\" to now.",
+      "text": "I ___ (live) in this house since I was a child.",
+      "answers": [
+        [
+          "have lived"
+        ]
+      ],
+      "wrongReasons": {
+        "lived": "The simple past does not link to now.",
+        "had lived": "The past perfect does not fit.",
+        "live": "The present simple does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-179",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Since\" calls for the present perfect.",
+      "text": "The company ___ (recruit) over a hundred staff since January.",
+      "answers": [
+        [
+          "has recruited"
+        ]
+      ],
+      "wrongReasons": {
+        "recruited": "\"Since January\" calls for the present perfect.",
+        "recruits": "The present simple does not show change.",
+        "is recruiting": "The present continuous does not link to a starting point."
+      }
+    },
+    {
+      "id": "c1-vc-180",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"No sooner had\" requires inversion.",
+      "text": "No sooner ___ (she / sit down) than the phone rang.",
+      "answers": [
+        [
+          "had she sat down"
+        ]
+      ],
+      "wrongReasons": {
+        "she had sat down": "\"No sooner\" requires inversion.",
+        "did she sit down": "\"No sooner\" takes the past perfect.",
+        "has she sat down": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "c1-vc-181",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A mixed conditional uses the past perfect in the if-clause.",
+      "text": "If the train ___ (not / be) late, I would be at work by now.",
+      "answers": [
+        [
+          "hadn't been"
+        ]
+      ],
+      "wrongReasons": {
+        "wasn't": "The mixed conditional needs the past perfect.",
+        "isn't": "A present form does not fit an unreal past.",
+        "wouldn't be": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "c1-vc-182",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Must have been working\" is a continuous deduction.",
+      "text": "It's no wonder he is exhausted; he ___ (must / work) all night.",
+      "answers": [
+        [
+          "must have been working"
+        ]
+      ],
+      "wrongReasons": {
+        "must work": "The sentence refers to a past activity.",
+        "should work": "\"Should\" does not express deduction.",
+        "would work": "\"Would\" does not express deduction."
+      }
+    },
+    {
+      "id": "c1-vc-183",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past moment.",
+      "text": "We ___ (drive) for hours when we finally spotted a petrol station.",
+      "answers": [
+        [
+          "had been driving"
+        ]
+      ],
+      "wrongReasons": {
+        "were driving": "The past perfect continuous shows duration before the discovery.",
+        "drove": "The simple past does not show duration.",
+        "have been driving": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-184",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The simple past reports a completed event.",
+      "text": "The earthquake ___ (strike) the region at dawn, when most people were asleep.",
+      "answers": [
+        [
+          "struck"
+        ]
+      ],
+      "wrongReasons": {
+        "has struck": "A past time reference needs the simple past.",
+        "had struck": "The past perfect does not fit.",
+        "was striking": "The continuous does not show a single event."
+      }
+    },
+    {
+      "id": "c1-vc-185",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The correlative uses the simple past in both parts.",
+      "text": "The more they ___ (investigate), the more irregularities they found.",
+      "answers": [
+        [
+          "investigated"
+        ]
+      ],
+      "wrongReasons": {
+        "had investigated": "The correlative structure uses the same tense.",
+        "were investigating": "The continuous weakens the parallel.",
+        "investigate": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "c1-vc-186",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Whom we consulted\" uses the object relative pronoun.",
+      "text": "The employees ___ (whom / we / consult) were unanimous in their opposition.",
+      "answers": [
+        [
+          "whom we consulted"
+        ]
+      ],
+      "wrongReasons": {
+        "who we consulted them": "The pronoun is repeated.",
+        "which we consulted": "\"Which\" refers to things.",
+        "whose we consulted": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vc-187",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect continuous links duration to now.",
+      "text": "The children ___ (play) in the garden since lunch and are filthy.",
+      "answers": [
+        [
+          "have been playing"
+        ]
+      ],
+      "wrongReasons": {
+        "played": "The simple past does not link to now.",
+        "had been playing": "The past perfect does not fit.",
+        "are playing": "The present continuous does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-188",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past subjunctive form expresses a preference about others' actions.",
+      "text": "I would rather the details ___ (not / disclose) at this stage.",
+      "answers": [
+        [
+          "were not disclosed"
+        ]
+      ],
+      "wrongReasons": {
+        "are not disclosed": "After \"would rather\" a past form is used.",
+        "will not be disclosed": "\"Will\" is not used here.",
+        "have not been disclosed": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-189",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Lie\" is intransitive.",
+      "text": "She decided to ___ (lay / lie) down for a short rest.",
+      "answers": [
+        [
+          "lie"
+        ]
+      ],
+      "wrongReasons": {
+        "lay": "\"Lay\" needs an object.",
+        "laid": "\"Laid\" needs an object.",
+        "lain": "An auxiliary is missing."
+      }
+    },
+    {
+      "id": "c1-vc-190",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Absent from\" is the fixed collocation.",
+      "text": "She has been absent ___ (from / of) work since Monday.",
+      "answers": [
+        [
+          "from"
+        ]
+      ],
+      "wrongReasons": {
+        "of": "\"Absent of\" is not standard.",
+        "at": "\"Absent at\" is not standard.",
+        "to": "\"Absent to\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-191",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Opposed to\" is followed by -ing.",
+      "text": "The staff are strongly opposed ___ (to / work) on Saturdays.",
+      "answers": [
+        [
+          "to working"
+        ]
+      ],
+      "wrongReasons": {
+        "to work": "After \"opposed to\" use -ing.",
+        "for working": "\"Opposed for\" is not standard.",
+        "at working": "\"Opposed at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-192",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "text": "I ___ (study) French for six years before I ever visited Paris.",
+      "answers": [
+        [
+          "had been studying"
+        ]
+      ],
+      "wrongReasons": {
+        "was studying": "The past perfect continuous shows duration before the visit.",
+        "have been studying": "The present perfect does not fit.",
+        "studied": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-193",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Whose\" shows possession.",
+      "text": "The man ___ (whose) car had been stolen reported it to the police.",
+      "answers": [
+        [
+          "whose"
+        ]
+      ],
+      "wrongReasons": {
+        "who": "\"Who car\" is ungrammatical.",
+        "whom": "\"Whom car\" is ungrammatical.",
+        "which": "\"Which car\" does not show possession for a person."
+      }
+    },
+    {
+      "id": "c1-vc-194",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect marks a state before a past moment.",
+      "text": "I ___ (not / realise) how serious the situation was until I saw the pictures.",
+      "answers": [
+        [
+          "hadn't realised"
+        ]
+      ],
+      "wrongReasons": {
+        "didn't realise": "The past perfect marks the earlier state.",
+        "haven't realised": "The present perfect does not fit.",
+        "wasn't realising": "\"Realise\" is not used in the continuous."
+      }
+    },
+    {
+      "id": "c1-vc-195",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Hardly had\" requires inversion.",
+      "text": "Hardly ___ (we / arrive) when it started to rain.",
+      "answers": [
+        [
+          "had we arrived"
+        ]
+      ],
+      "wrongReasons": {
+        "we had arrived": "\"Hardly\" requires inversion.",
+        "did we arrive": "\"Hardly had\" takes the past perfect.",
+        "have we arrived": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "c1-vc-196",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect links a completed action to now.",
+      "text": "I ___ (already / tell) you twice; please listen.",
+      "answers": [
+        [
+          "have already told"
+        ]
+      ],
+      "wrongReasons": {
+        "already told": "The simple past does not link to now.",
+        "had already told": "The past perfect does not fit.",
+        "was already telling": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "c1-vc-197",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"More ... than\" forms the comparative.",
+      "text": "The task was ___ (more / most) difficult than we had expected.",
+      "answers": [
+        [
+          "more"
+        ]
+      ],
+      "wrongReasons": {
+        "most": "The comparison with \"than\" needs a comparative.",
+        "much": "\"Much difficult\" is ungrammatical.",
+        "very": "\"Very difficult than\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vc-198",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Which\" introduces a nonrestrictive clause.",
+      "text": "The documents, ___ (which / who) were confidential, went missing.",
+      "answers": [
+        [
+          "which"
+        ]
+      ],
+      "wrongReasons": {
+        "who": "\"Who\" refers to people.",
+        "whom": "\"Whom\" refers to people.",
+        "whose": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vc-199",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past continuous shows an action interrupted by another.",
+      "text": "Just as she ___ (leave) the house, the phone rang.",
+      "answers": [
+        [
+          "was leaving"
+        ]
+      ],
+      "wrongReasons": {
+        "left": "The continuous shows an action in progress.",
+        "had left": "The past perfect does not fit.",
+        "has left": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-200",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Will\" expresses a promise.",
+      "text": "Don't worry; I ___ (call) you as soon as I have news.",
+      "answers": [
+        [
+          "will call"
+        ]
+      ],
+      "wrongReasons": {
+        "call": "A present form does not predict.",
+        "am calling": "The continuous does not predict.",
+        "called": "A past form does not refer to the future."
+      }
+    },
+    {
+      "id": "c1-vc-201",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past moment.",
+      "text": "We ___ (drive) for six hours when the engine finally gave up.",
+      "answers": [
+        [
+          "had been driving"
+        ]
+      ],
+      "wrongReasons": {
+        "were driving": "The past perfect continuous shows duration before the failure.",
+        "have been driving": "The present perfect does not fit.",
+        "drove": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-202",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"By the time\" + future perfect.",
+      "text": "By the time you receive this, I ___ (leave) the country.",
+      "answers": [
+        [
+          "will have left"
+        ]
+      ],
+      "wrongReasons": {
+        "will leave": "The future perfect shows completion.",
+        "leave": "A present tense does not fit.",
+        "have left": "The present perfect does not fit a future time."
+      }
+    },
+    {
+      "id": "c1-vc-203",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Did not dare\" is the past negative.",
+      "text": "She ___ (not / dare) to speak, for fear of being ridiculed.",
+      "answers": [
+        [
+          "did not dare"
+        ]
+      ],
+      "wrongReasons": {
+        "not dared": "\"Not dared\" is ungrammatical.",
+        "dare not to": "\"Dare\" as a modal takes the bare infinitive.",
+        "does not dared": "After \"does not\" use the base form."
+      }
+    },
+    {
+      "id": "c1-vc-204",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "A subject form follows \"she and\".",
+      "text": "She and ___ (I / me) have been friends for years.",
+      "answers": [
+        [
+          "I"
+        ]
+      ],
+      "wrongReasons": {
+        "me": "The compound subject needs the subject form.",
+        "myself": "A reflexive is not used here.",
+        "my": "A possessive is not used here."
+      }
+    },
+    {
+      "id": "c1-vc-205",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future passive uses \"will be\" + participle.",
+      "text": "The new regulations ___ (introduce) next month.",
+      "answers": [
+        [
+          "will be introduced"
+        ]
+      ],
+      "wrongReasons": {
+        "will introduce": "The regulations are the receiver.",
+        "will be introducing": "The active continuous is wrong.",
+        "are introduced": "The future needs \"will be\"."
+      }
+    },
+    {
+      "id": "c1-vc-206",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect shows an earlier action.",
+      "text": "The meeting ___ (just / finish) when I arrived.",
+      "answers": [
+        [
+          "had just finished"
+        ]
+      ],
+      "wrongReasons": {
+        "has just finished": "The sentence is in the past.",
+        "just finished": "The simple past does not show an earlier action.",
+        "was just finishing": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "c1-vc-207",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Hardly had\" requires inversion.",
+      "text": "Hardly ___ (he / open) the door when the alarm went off.",
+      "answers": [
+        [
+          "had he opened"
+        ]
+      ],
+      "wrongReasons": {
+        "he had opened": "\"Hardly\" requires inversion.",
+        "did he open": "\"Hardly had\" takes the past perfect.",
+        "has he opened": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "c1-vc-208",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect continuous links duration to now.",
+      "text": "The students ___ (revise) all week and are now ready for the exam.",
+      "answers": [
+        [
+          "have been revising"
+        ]
+      ],
+      "wrongReasons": {
+        "revised": "The present perfect continuous links duration to now.",
+        "revise": "The present simple does not show duration.",
+        "are revising": "The present continuous does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-209",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Needn't have\" says an action was unnecessary.",
+      "text": "You ___ (must / tell) her; she knew already.",
+      "answers": [
+        [
+          "needn't have told"
+        ]
+      ],
+      "wrongReasons": {
+        "mustn't tell": "\"Mustn't tell\" refers to prohibition.",
+        "can't have told": "\"Can't have told\" expresses deduction.",
+        "shouldn't tell": "\"Shouldn't tell\" refers to the present."
+      }
+    },
+    {
+      "id": "c1-vc-210",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"By the end of the century\" calls for the future perfect.",
+      "text": "By the end of the century, global temperatures ___ (rise) by several degrees.",
+      "answers": [
+        [
+          "will have risen"
+        ]
+      ],
+      "wrongReasons": {
+        "will rise": "The future perfect shows completion.",
+        "rise": "A present tense does not fit.",
+        "have risen": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-211",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "text": "She ___ (live) in Madrid for six years when she met her husband.",
+      "answers": [
+        [
+          "had been living"
+        ]
+      ],
+      "wrongReasons": {
+        "has been living": "The present perfect does not fit.",
+        "lived": "The simple past does not show duration.",
+        "was living": "The continuous does not show duration before the meeting."
+      }
+    },
+    {
+      "id": "c1-vc-212",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Scarcely had\" requires inversion.",
+      "text": "Scarcely ___ (the film / begin) when the power cut occurred.",
+      "answers": [
+        [
+          "had the film begun"
+        ]
+      ],
+      "wrongReasons": {
+        "the film had begun": "\"Scarcely\" requires inversion.",
+        "did the film begin": "\"Scarcely had\" takes the past perfect.",
+        "has the film begun": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "c1-vc-213",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Addicted to\" is the standard collocation.",
+      "text": "She has been addicted ___ (to / with) coffee for years.",
+      "answers": [
+        [
+          "to"
+        ]
+      ],
+      "wrongReasons": {
+        "with": "\"Addicted with\" is not standard.",
+        "of": "\"Addicted of\" is not standard.",
+        "by": "\"Addicted by\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-214",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Must have\" expresses a past deduction.",
+      "text": "He ___ (must / leave) already, because his coat has gone.",
+      "answers": [
+        [
+          "must have left"
+        ]
+      ],
+      "wrongReasons": {
+        "must leave": "The sentence refers to the past.",
+        "should have left": "\"Should\" expresses criticism.",
+        "would leave": "\"Would\" does not express deduction."
+      }
+    },
+    {
+      "id": "c1-vc-215",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Since\" calls for the present perfect.",
+      "text": "The company's profits ___ (decline) steadily since the new competitor entered the market.",
+      "answers": [
+        [
+          "have declined"
+        ]
+      ],
+      "wrongReasons": {
+        "declined": "\"Since\" calls for the present perfect.",
+        "decline": "The present simple does not show change.",
+        "are declining": "The present continuous does not link to a starting point."
+      }
+    },
+    {
+      "id": "c1-vc-216",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Accustomed to\" is followed by -ing.",
+      "text": "She is not accustomed ___ (get) up so early.",
+      "answers": [
+        [
+          "to getting"
+        ]
+      ],
+      "wrongReasons": {
+        "to get": "After \"accustomed to\" a gerund is used.",
+        "getting": "The preposition \"to\" is needed.",
+        "for getting": "\"Accustomed for\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-217",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The second conditional uses \"were\".",
+      "text": "If you ___ (be) more careful, you wouldn't make so many mistakes.",
+      "answers": [
+        [
+          "were"
+        ]
+      ],
+      "wrongReasons": {
+        "are": "The second conditional needs a past form.",
+        "would be": "\"Would\" is not used in the if-clause.",
+        "had been": "This refers to the past."
+      }
+    },
+    {
+      "id": "c1-vc-218",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Respect for\" is the standard collocation.",
+      "text": "She has a great respect ___ (for / of) her teachers.",
+      "answers": [
+        [
+          "for"
+        ]
+      ],
+      "wrongReasons": {
+        "of": "\"Respect of\" is not standard here.",
+        "to": "\"Respect to\" is not standard here.",
+        "at": "\"Respect at\" is not standard here."
+      }
+    },
+    {
+      "id": "c1-vc-219",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"May have\" + participle expresses a past possibility.",
+      "text": "She ___ (may / forget) about the appointment; she hasn't arrived yet.",
+      "answers": [
+        [
+          "may have forgotten"
+        ]
+      ],
+      "wrongReasons": {
+        "may forget": "The sentence refers to a past possibility.",
+        "must forget": "\"Must forget\" is not a deduction here.",
+        "can have forgotten": "\"Can have\" is not used for possibility."
+      }
+    },
+    {
+      "id": "c1-vc-220",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Objection to\" is followed by a noun or -ing.",
+      "text": "I have no objection ___ (to / of) your leaving early.",
+      "answers": [
+        [
+          "to"
+        ]
+      ],
+      "wrongReasons": {
+        "of": "\"Objection of\" is not standard.",
+        "for": "\"Objection for\" is not standard.",
+        "at": "\"Objection at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-221",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect links \"since\" to now.",
+      "text": "I ___ (not / see) her since the wedding, and I wonder how she is.",
+      "answers": [
+        [
+          "haven't seen"
+        ]
+      ],
+      "wrongReasons": {
+        "didn't see": "The simple past does not link to now.",
+        "hadn't seen": "The past perfect does not fit.",
+        "don't see": "The present simple does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-222",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect links \"since\" to now.",
+      "text": "I ___ (not / eat) anything since breakfast, so I'm hungry.",
+      "answers": [
+        [
+          "haven't eaten"
+        ]
+      ],
+      "wrongReasons": {
+        "didn't eat": "The simple past does not link to now.",
+        "hadn't eaten": "The past perfect does not fit.",
+        "don't eat": "The present simple does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-223",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The mandative subjunctive after \"essential\" takes the base form.",
+      "text": "It's essential that every candidate ___ (submit) the form before the end of the month.",
+      "answers": [
+        [
+          "submit"
+        ]
+      ],
+      "wrongReasons": {
+        "submits": "The mandative subjunctive uses the base form.",
+        "submitted": "\"submitted\" does not work here, because the mandative subjunctive uses the base form.",
+        "will submit": "\"Will\" is not used after \"it's essential that\"."
+      }
+    },
+    {
+      "id": "c1-vc-224",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Can't be\" is a negative deduction.",
+      "text": "He ___ (can / not / be) over fifty; he looks much younger.",
+      "answers": [
+        [
+          "can't be"
+        ]
+      ],
+      "wrongReasons": {
+        "mustn't be": "\"Mustn't be\" is not used for deduction.",
+        "needn't be": "\"Needn't be\" does not express deduction.",
+        "shouldn't be": "\"Shouldn't\" expresses criticism."
+      }
+    },
+    {
+      "id": "c1-vc-225",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Whom\" is the object of \"met\".",
+      "text": "The man ___ (who / whom) I met on the train turned out to be my new boss.",
+      "answers": [
+        [
+          "whom"
+        ]
+      ],
+      "wrongReasons": {
+        "which": "\"Which\" refers to things.",
+        "whose": "\"Whose\" shows possession.",
+        "what": "\"What\" cannot introduce a relative clause."
+      }
+    },
+    {
+      "id": "c1-vc-226",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Left to himself\" is a fixed expression.",
+      "text": "He wished to be left to ___ (he) for a while.",
+      "answers": [
+        [
+          "himself"
+        ]
+      ],
+      "wrongReasons": {
+        "him": "\"Him\" is not reflexive.",
+        "his own": "\"His own\" needs a noun.",
+        "he": "\"He\" is a subject pronoun."
+      }
+    },
+    {
+      "id": "c1-vc-227",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The correlative uses the simple past in both clauses.",
+      "text": "The more she ___ (read) about the subject, the less certain she became.",
+      "answers": [
+        [
+          "read"
+        ]
+      ],
+      "wrongReasons": {
+        "had read": "The correlative structure uses the simple past.",
+        "reads": "The sentence is in the past.",
+        "was reading": "The continuous weakens the parallel."
+      }
+    },
+    {
+      "id": "c1-vc-228",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"On the verge of\" is the fixed phrase.",
+      "text": "The board is ___ (on / verge / collapse) of collapse after a series of scandals.",
+      "answers": [
+        [
+          "on the verge"
+        ]
+      ],
+      "wrongReasons": {
+        "at the verge": "\"At the verge\" is not standard.",
+        "in the verge": "\"In the verge\" is not standard.",
+        "by the verge": "\"By the verge\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-229",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Worse and worse\" shows gradual change.",
+      "text": "The weather was getting ___ (bad and bad / worse and worse) as the day went on.",
+      "answers": [
+        [
+          "worse and worse"
+        ]
+      ],
+      "wrongReasons": {
+        "bad and bad": "The comparative is needed.",
+        "more and more bad": "\"Bad\" has an irregular comparative.",
+        "badder and badder": "\"Badder\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-230",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past subjunctive form expresses a preference about others' actions.",
+      "text": "I would rather the matter ___ (not / discuss) outside the committee.",
+      "answers": [
+        [
+          "were not discussed"
+        ]
+      ],
+      "wrongReasons": {
+        "is not discussed": "After \"would rather\" a past form is used.",
+        "will not be discussed": "\"Will\" is not used here.",
+        "has not been discussed": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-231",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future perfect continuous shows duration up to a future moment.",
+      "text": "By next June she ___ (study) medicine for exactly five years.",
+      "answers": [
+        [
+          "will have been studying"
+        ]
+      ],
+      "wrongReasons": {
+        "will study": "The future perfect continuous shows duration.",
+        "studies": "A present tense does not fit.",
+        "has studied": "The present perfect does not fit a future point."
+      }
+    },
+    {
+      "id": "c1-vc-232",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Whose\" shows possession.",
+      "text": "The student ___ (whose / who's) essay won the prize was delighted.",
+      "answers": [
+        [
+          "whose"
+        ]
+      ],
+      "wrongReasons": {
+        "who's": "\"Who's\" means \"who is\".",
+        "whom": "\"Whom essay\" is ungrammatical.",
+        "which": "\"Which\" does not refer to people."
+      }
+    },
+    {
+      "id": "c1-vc-233",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Who\" is the subject of the relative clause.",
+      "text": "The man ___ (who / whom) is standing there is my uncle.",
+      "answers": [
+        [
+          "who"
+        ]
+      ],
+      "wrongReasons": {
+        "whom": "The relative acts as the subject.",
+        "whose": "\"Whose\" shows possession.",
+        "which": "\"Which\" refers to things."
+      }
+    },
+    {
+      "id": "c1-vc-234",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Suspended from\" is the fixed collocation.",
+      "text": "He was suspended ___ (from / of) duty pending an investigation.",
+      "answers": [
+        [
+          "from"
+        ]
+      ],
+      "wrongReasons": {
+        "of": "\"Suspended of\" is not standard.",
+        "for": "\"Suspended for\" introduces a reason.",
+        "to": "\"Suspended to\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-235",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Wish\" + past perfect expresses regret.",
+      "text": "She wishes she ___ (not / tell) him about the surprise.",
+      "answers": [
+        [
+          "hadn't told"
+        ]
+      ],
+      "wrongReasons": {
+        "didn't tell": "A wish about the past needs the past perfect.",
+        "wouldn't tell": "\"Would\" does not express past regret.",
+        "hasn't told": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-236",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Little did they know\" is an inverted structure.",
+      "text": "Little ___ (they / know) that the plan was about to be exposed.",
+      "answers": [
+        [
+          "did they know"
+        ]
+      ],
+      "wrongReasons": {
+        "they knew": "\"Little\" at the start requires inversion.",
+        "they did know": "The word order is not inverted.",
+        "knew they": "The auxiliary is missing."
+      }
+    },
+    {
+      "id": "c1-vc-237",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Suspected of\" is followed by -ing.",
+      "text": "He was suspected ___ (of / leak) confidential information to the press.",
+      "answers": [
+        [
+          "of leaking"
+        ]
+      ],
+      "wrongReasons": {
+        "for leaking": "\"Suspected for\" is not standard.",
+        "to leak": "\"Suspected to\" changes the structure.",
+        "of leak": "After a preposition use -ing."
+      }
+    },
+    {
+      "id": "c1-vc-238",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "A superlative is used for more than two.",
+      "text": "She is the ___ (most / more) qualified of all the applicants.",
+      "answers": [
+        [
+          "most"
+        ]
+      ],
+      "wrongReasons": {
+        "more": "A comparative is used for two.",
+        "much": "\"Much qualified\" is not standard.",
+        "very": "\"Very qualified of\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vc-239",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Prevent ... from\" is the fixed pattern.",
+      "text": "He was prevented ___ (from / of) entering the building by the guard.",
+      "answers": [
+        [
+          "from"
+        ]
+      ],
+      "wrongReasons": {
+        "of": "\"Prevented of\" is not standard.",
+        "to": "\"Prevented to\" is not standard.",
+        "by": "\"Prevented by\" introduces an agent."
+      }
+    },
+    {
+      "id": "c1-vc-240",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Wish\" + past perfect expresses regret.",
+      "text": "He wishes he ___ (not / say) such unkind things to her.",
+      "answers": [
+        [
+          "hadn't said"
+        ]
+      ],
+      "wrongReasons": {
+        "didn't say": "A wish about the past needs the past perfect.",
+        "wouldn't say": "\"Would\" does not express past regret.",
+        "hasn't said": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-241",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Should have\" criticises a past omission.",
+      "text": "They ___ (should / tell) us about the change of plan; we turned up for nothing.",
+      "answers": [
+        [
+          "should have told"
+        ]
+      ],
+      "wrongReasons": {
+        "should tell": "The omission is in the past.",
+        "must tell": "\"Must\" refers to the present.",
+        "would tell": "\"Would\" has a different meaning."
+      }
+    },
+    {
+      "id": "c1-vc-242",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect continuous links an activity to now.",
+      "text": "She ___ (work) in the garden all morning, so she is tired.",
+      "answers": [
+        [
+          "has been working"
+        ]
+      ],
+      "wrongReasons": {
+        "worked": "The simple past does not link to now.",
+        "was working": "The past continuous does not link to now.",
+        "works": "The present simple does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-243",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The if-clause uses the past perfect.",
+      "text": "If she ___ (know) about the delay, she would have left earlier.",
+      "answers": [
+        [
+          "had known"
+        ]
+      ],
+      "wrongReasons": {
+        "knew": "The third conditional needs the past perfect.",
+        "would know": "\"Would\" is not used in the if-clause.",
+        "has known": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-244",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect passive links a past action to now.",
+      "text": "The house ___ (burgle) twice since they moved in.",
+      "answers": [
+        [
+          "has been burgled"
+        ]
+      ],
+      "wrongReasons": {
+        "was burgled": "The simple past does not link to now.",
+        "has burgled": "The house is the receiver.",
+        "had been burgled": "The past perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-245",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Accustomed to\" is followed by -ing.",
+      "text": "They are accustomed ___ (to / work) under tight deadlines.",
+      "answers": [
+        [
+          "to working"
+        ]
+      ],
+      "wrongReasons": {
+        "to work": "After \"accustomed to\" use -ing.",
+        "for working": "\"Accustomed for\" is not correct.",
+        "with working": "\"Accustomed with\" is not correct."
+      }
+    },
+    {
+      "id": "c1-vc-246",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"On whom I rely\" is the formal pattern.",
+      "text": "She is a woman ___ (on / I / rely) in a crisis.",
+      "answers": [
+        [
+          "on whom I rely"
+        ]
+      ],
+      "wrongReasons": {
+        "whom I rely on her": "The pronoun is repeated.",
+        "on who I rely": "After a preposition use \"whom\".",
+        "which I rely": "\"Which\" refers to things."
+      }
+    },
+    {
+      "id": "c1-vc-247",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Most of whom\" is a standard relative construction.",
+      "text": "The guests, most of ___ (whom / who) I had never met, arrived at eight.",
+      "answers": [
+        [
+          "whom"
+        ]
+      ],
+      "wrongReasons": {
+        "who": "After \"of\" the object form is needed.",
+        "which": "\"Which\" refers to things.",
+        "them": "\"Them\" cannot introduce a relative clause."
+      }
+    },
+    {
+      "id": "c1-vc-248",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Anxious that ... should\" introduces a hope.",
+      "text": "The scientists are anxious ___ (that / to) the results should be checked.",
+      "answers": [
+        [
+          "that"
+        ]
+      ],
+      "wrongReasons": {
+        "to": "\"Anxious to\" is followed by the same subject.",
+        "about": "\"Anxious about\" is followed by a noun.",
+        "for": "\"Anxious for\" is followed by a noun."
+      }
+    },
+    {
+      "id": "c1-vc-249",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Demand that\" takes the base form.",
+      "text": "I demand that he ___ (apologise) to everyone who was affected.",
+      "answers": [
+        [
+          "apologise"
+        ]
+      ],
+      "wrongReasons": {
+        "apologises": "The mandative subjunctive uses the base form.",
+        "apologised": "\"apologised\" does not work here, because the mandative subjunctive uses the base form.",
+        "would apologise": "\"Would\" is not used after \"demand that\"."
+      }
+    },
+    {
+      "id": "c1-vc-250",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The second conditional uses the past simple.",
+      "text": "If she ___ (win) the lottery, she would buy a house by the sea.",
+      "answers": [
+        [
+          "won"
+        ]
+      ],
+      "wrongReasons": {
+        "wins": "The second conditional needs a past form.",
+        "would win": "\"Would\" is not used in the if-clause.",
+        "had won": "This refers to the past."
+      }
+    },
+    {
+      "id": "c1-vc-251",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past participle forms a reduced passive relative clause.",
+      "text": "The festival, ___ (hold) every August, attracts thousands of visitors.",
+      "answers": [
+        [
+          "held"
+        ]
+      ],
+      "wrongReasons": {
+        "holding": "The festival is the receiver.",
+        "which hold": "A relative pronoun and the wrong verb form.",
+        "is held": "A reduced relative clause is intended."
+      }
+    },
+    {
+      "id": "c1-vc-252",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future continuous shows an action in progress at a future time.",
+      "text": "This time next week I ___ (lie) on a beach in Greece.",
+      "answers": [
+        [
+          "will be lying"
+        ]
+      ],
+      "wrongReasons": {
+        "will lie": "The future continuous shows an action in progress.",
+        "lie": "A present tense does not fit.",
+        "have lain": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-253",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Pleased with\" introduces the thing.",
+      "text": "We are very pleased ___ (with / for) the results of the survey.",
+      "answers": [
+        [
+          "with"
+        ]
+      ],
+      "wrongReasons": {
+        "for": "\"Pleased for\" has another meaning.",
+        "at": "\"Pleased at\" is less usual.",
+        "of": "\"Pleased of\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-254",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future continuous shows an action in progress.",
+      "text": "Next week at this time, we ___ (sit) in the departure lounge.",
+      "answers": [
+        [
+          "will be sitting"
+        ]
+      ],
+      "wrongReasons": {
+        "will sit": "The future continuous shows an action in progress.",
+        "sit": "A present tense does not fit.",
+        "have sat": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-255",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"To whom\" follows the preposition.",
+      "text": "These are the people ___ (to whom / to who) the letter was sent.",
+      "answers": [
+        [
+          "to whom"
+        ]
+      ],
+      "wrongReasons": {
+        "to who": "After a preposition \"whom\" is used.",
+        "whom": "The preposition is needed.",
+        "which": "\"Which\" refers to things."
+      }
+    },
+    {
+      "id": "c1-vc-256",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past continuous shows an action in progress.",
+      "text": "At the time of the earthquake, the family ___ (sleep).",
+      "answers": [
+        [
+          "were sleeping"
+        ]
+      ],
+      "wrongReasons": {
+        "slept": "The continuous shows an action in progress.",
+        "had slept": "The past perfect does not show interruption.",
+        "have slept": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-257",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "text": "He ___ (work) on the novel for years when he finally abandoned it.",
+      "answers": [
+        [
+          "had been working"
+        ]
+      ],
+      "wrongReasons": {
+        "was working": "The past perfect continuous shows duration before the abandonment.",
+        "has been working": "The present perfect does not fit.",
+        "worked": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-258",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect shows duration up to now.",
+      "text": "The couple, who ___ (marry) for thirty years, still enjoy each other's company.",
+      "answers": [
+        [
+          "have been married"
+        ]
+      ],
+      "wrongReasons": {
+        "were married": "The present perfect links duration to now.",
+        "are married": "The present simple does not show duration.",
+        "married": "The couple are not the doers here."
+      }
+    },
+    {
+      "id": "c1-vc-259",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Renowned for\" introduces the reason.",
+      "text": "She is renowned ___ (for / as) her cooking.",
+      "answers": [
+        [
+          "for"
+        ]
+      ],
+      "wrongReasons": {
+        "as": "\"Renowned as\" introduces a role.",
+        "of": "\"Renowned of\" is not standard.",
+        "with": "\"Renowned with\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-260",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "An infinitive passive refers to a planned event.",
+      "text": "The report ___ (publish) next week will reveal the full extent of the losses.",
+      "answers": [
+        [
+          "to be published"
+        ]
+      ],
+      "wrongReasons": {
+        "published": "\"To be published\" shows a future event.",
+        "publishing": "\"Publishing\" is active.",
+        "being published": "\"Being published\" shows an action in progress."
+      }
+    },
+    {
+      "id": "c1-vc-261",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Fell\" is the past of \"fall\".",
+      "text": "The price of the shares ___ (fall / fell) sharply yesterday.",
+      "answers": [
+        [
+          "fell"
+        ]
+      ],
+      "wrongReasons": {
+        "fall": "The sentence is in the past.",
+        "fallen": "An auxiliary is missing.",
+        "felled": "\"Felled\" means cut down."
+      }
+    },
+    {
+      "id": "c1-vc-262",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future perfect continuous gives total duration.",
+      "text": "Next year, I ___ (work) here for a decade.",
+      "answers": [
+        [
+          "will have been working"
+        ]
+      ],
+      "wrongReasons": {
+        "will work": "The future perfect continuous gives total duration.",
+        "have worked": "The present perfect does not fit a future point.",
+        "work": "A present tense does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-263",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Insist that\" takes the base form.",
+      "text": "The doctor insisted that she ___ (rest) for at least a fortnight.",
+      "answers": [
+        [
+          "rest"
+        ]
+      ],
+      "wrongReasons": {
+        "rests": "The mandative subjunctive uses the base form.",
+        "rested": "\"rested\" does not work here, because the mandative subjunctive uses the base form.",
+        "would rest": "\"Would\" is not used after \"insisted that\"."
+      }
+    },
+    {
+      "id": "c1-vc-264",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past passive uses \"were\" + participle.",
+      "text": "The workers ___ (give) a bonus for their hard work last year.",
+      "answers": [
+        [
+          "were given"
+        ]
+      ],
+      "wrongReasons": {
+        "gave": "The workers are the receivers.",
+        "have given": "The active form is wrong.",
+        "are given": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "c1-vc-265",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Be used to\" is followed by -ing.",
+      "text": "He is not used ___ (get) up so early.",
+      "answers": [
+        [
+          "to getting"
+        ]
+      ],
+      "wrongReasons": {
+        "to get": "After \"used to\" in this sense a gerund follows.",
+        "getting": "The preposition \"to\" is needed.",
+        "for getting": "\"Used for\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-266",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect shows a state before a more recent time.",
+      "text": "Until recently, the village ___ (have) no electricity.",
+      "answers": [
+        [
+          "had had"
+        ]
+      ],
+      "wrongReasons": {
+        "has had": "The present perfect does not fit \"until recently\".",
+        "have": "The sentence is in the past.",
+        "was having": "\"Have\" is a state verb here."
+      }
+    },
+    {
+      "id": "c1-vc-267",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "text": "The company ___ (lose) money for three years before it closed.",
+      "answers": [
+        [
+          "had been losing"
+        ]
+      ],
+      "wrongReasons": {
+        "has been losing": "The present perfect does not fit a past event.",
+        "lost": "The simple past does not show duration.",
+        "was losing": "The continuous does not show duration before the closure."
+      }
+    },
+    {
+      "id": "c1-vc-268",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Should have\" criticises a past omission.",
+      "text": "You ___ (should / consult) a specialist before making such a decision.",
+      "answers": [
+        [
+          "should have consulted"
+        ]
+      ],
+      "wrongReasons": {
+        "should consult": "The sentence refers to a past omission.",
+        "must consult": "\"Must\" is stronger and refers to the present.",
+        "would consult": "\"Would\" has a different meaning."
+      }
+    },
+    {
+      "id": "c1-vc-269",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Than I am\" takes the subject form.",
+      "text": "He is taller than ___ (I / me) am.",
+      "answers": [
+        [
+          "I"
+        ]
+      ],
+      "wrongReasons": {
+        "me": "\"Than I am\" needs the subject form.",
+        "myself": "A reflexive is not used.",
+        "my": "A possessive is not used."
+      }
+    },
+    {
+      "id": "c1-vc-270",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Subject to\" means dependent on.",
+      "text": "The plan is subject ___ (to / for) approval by the board.",
+      "answers": [
+        [
+          "to"
+        ]
+      ],
+      "wrongReasons": {
+        "for": "\"Subject for\" is not standard.",
+        "of": "\"Subject of\" has a different meaning.",
+        "at": "\"Subject at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-271",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Anybody\" is used after a negative.",
+      "text": "He didn't tell ___ (nobody / anybody) about his plans.",
+      "answers": [
+        [
+          "anybody"
+        ]
+      ],
+      "wrongReasons": {
+        "nobody": "A double negative is ungrammatical.",
+        "somebody": "\"Somebody\" is not used in negatives here.",
+        "everybody": "\"Everybody\" changes the meaning."
+      }
+    },
+    {
+      "id": "c1-vc-272",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Who\" is the subject of the clause.",
+      "text": "She is the only person ___ (who / which) can solve the problem.",
+      "answers": [
+        [
+          "who"
+        ]
+      ],
+      "wrongReasons": {
+        "which": "\"Which\" refers to things.",
+        "whom": "The relative acts as the subject.",
+        "whose": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vc-273",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past continuous passive shows an action in progress.",
+      "text": "The suspects ___ (question) by the police when the lawyer arrived.",
+      "answers": [
+        [
+          "were being questioned"
+        ]
+      ],
+      "wrongReasons": {
+        "questioned": "The suspects are the receivers.",
+        "are questioned": "The sentence is in the past.",
+        "had questioned": "The active form is wrong."
+      }
+    },
+    {
+      "id": "c1-vc-274",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Who\" is the subject of the clause.",
+      "text": "It is I ___ (who / whom) am responsible for the error.",
+      "answers": [
+        [
+          "who"
+        ]
+      ],
+      "wrongReasons": {
+        "whom": "The relative acts as the subject.",
+        "which": "\"Which\" refers to things.",
+        "whose": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vc-275",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future perfect shows completion by a future time.",
+      "text": "They ___ (not / finish) the work by the end of the month.",
+      "answers": [
+        [
+          "won't have finished"
+        ]
+      ],
+      "wrongReasons": {
+        "won't finish": "The future perfect shows completion by a deadline.",
+        "haven't finished": "The present perfect does not fit a future deadline.",
+        "didn't finish": "A past form does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-276",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Such a\" precedes a noun phrase.",
+      "text": "It was ___ (such / so) a long film that we fell asleep.",
+      "answers": [
+        [
+          "such"
+        ]
+      ],
+      "wrongReasons": {
+        "so": "\"So a long film\" is ungrammatical.",
+        "very": "\"Very a long film\" is ungrammatical.",
+        "too": "\"Too a long film\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vc-277",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Needn't\" expresses lack of necessity.",
+      "text": "You ___ (not / have to) bring a gift; just come.",
+      "answers": [
+        [
+          "needn't"
+        ]
+      ],
+      "wrongReasons": {
+        "mustn't": "\"Mustn't\" expresses prohibition.",
+        "shouldn't": "\"Shouldn't\" expresses advice not to.",
+        "can't": "\"Can't\" expresses inability."
+      }
+    },
+    {
+      "id": "c1-vc-278",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Go on strike\" is the fixed phrase.",
+      "text": "The workers went ___ (on / in) strike over pay.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "wrongReasons": {
+        "in": "\"Go in strike\" is not standard.",
+        "at": "\"Go at strike\" is not standard.",
+        "to": "\"Go to strike\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-279",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Yesterday\" calls for the simple past.",
+      "text": "I ___ (see) him yesterday, so I know he is back.",
+      "answers": [
+        [
+          "saw"
+        ]
+      ],
+      "wrongReasons": {
+        "have seen": "The present perfect does not fit \"yesterday\".",
+        "had seen": "The past perfect does not fit.",
+        "was seeing": "The continuous does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-280",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The third conditional uses the past perfect.",
+      "text": "If she ___ (not / leave) early, she would have seen the performance.",
+      "answers": [
+        [
+          "hadn't left"
+        ]
+      ],
+      "wrongReasons": {
+        "didn't leave": "The third conditional needs the past perfect.",
+        "wouldn't leave": "\"Would\" is not used in the if-clause.",
+        "doesn't leave": "A present form does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-281",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The second conditional uses the past simple.",
+      "text": "If the experiment ___ (succeed), it would transform our understanding of the universe.",
+      "answers": [
+        [
+          "succeeded"
+        ]
+      ],
+      "wrongReasons": {
+        "succeed": "The second conditional needs a past form.",
+        "would succeed": "\"Would\" is not used in the if-clause.",
+        "had succeeded": "This refers to the past."
+      }
+    },
+    {
+      "id": "c1-vc-282",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Hardest\" is the superlative of \"hard\".",
+      "text": "Of all the students, she is the ___ (hard) working.",
+      "answers": [
+        [
+          "hardest"
+        ]
+      ],
+      "wrongReasons": {
+        "harder": "A comparative is used for two.",
+        "most hard": "\"Most hard\" is not standard.",
+        "hardly": "\"Hardly\" has another meaning."
+      }
+    },
+    {
+      "id": "c1-vc-283",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"It was the first time\" takes the past perfect.",
+      "text": "It was the first time I ___ (ever / see) snow.",
+      "answers": [
+        [
+          "had ever seen"
+        ]
+      ],
+      "wrongReasons": {
+        "have ever seen": "The sentence is in the past.",
+        "ever saw": "\"The first time\" takes a perfect form.",
+        "was ever seeing": "The continuous does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-284",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future continuous shows an action in progress at a future time.",
+      "text": "This time tomorrow we ___ (fly) over the Atlantic.",
+      "answers": [
+        [
+          "will be flying"
+        ]
+      ],
+      "wrongReasons": {
+        "will fly": "The future continuous shows an action in progress.",
+        "fly": "A present form does not fit.",
+        "are flying": "The present continuous does not suit a specific future moment."
+      }
+    },
+    {
+      "id": "c1-vc-285",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The passive of \"advise\" takes \"to\".",
+      "text": "The patient was advised ___ (rest) for a week.",
+      "answers": [
+        [
+          "to rest"
+        ]
+      ],
+      "wrongReasons": {
+        "resting": "The passive of \"advise\" takes \"to\".",
+        "rest": "The passive requires \"to\".",
+        "rested": "An infinitive is needed."
+      }
+    },
+    {
+      "id": "c1-vc-286",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"High time\" + past simple states that action is overdue.",
+      "text": "It's high time the authorities ___ (address) the housing shortage.",
+      "answers": [
+        [
+          "addressed"
+        ]
+      ],
+      "wrongReasons": {
+        "address": "After \"it's high time\" a past form is used.",
+        "will address": "\"Will\" is not used here.",
+        "have addressed": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-287",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Which\" introduces a nonrestrictive clause.",
+      "text": "The report, ___ (which / what) was published last week, has caused controversy.",
+      "answers": [
+        [
+          "which"
+        ]
+      ],
+      "wrongReasons": {
+        "what": "\"What\" cannot introduce a relative clause.",
+        "that": "\"That\" cannot follow a comma.",
+        "who": "\"Who\" refers to people."
+      }
+    },
+    {
+      "id": "c1-vc-288",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect shows an earlier action.",
+      "text": "When we arrived, the party ___ (already / start).",
+      "answers": [
+        [
+          "had already started"
+        ]
+      ],
+      "wrongReasons": {
+        "already started": "The past perfect shows an earlier action.",
+        "has already started": "The present perfect does not fit.",
+        "was already starting": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "c1-vc-289",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "text": "The orchestra ___ (rehearse) for three hours when the conductor arrived.",
+      "answers": [
+        [
+          "had been rehearsing"
+        ]
+      ],
+      "wrongReasons": {
+        "was rehearsing": "The past perfect continuous shows duration before arrival.",
+        "has been rehearsing": "The present perfect does not fit.",
+        "rehearsed": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-290",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Estimated at\" introduces a figure.",
+      "text": "The cost is estimated ___ (at / on) two million pounds.",
+      "answers": [
+        [
+          "at"
+        ]
+      ],
+      "wrongReasons": {
+        "on": "\"Estimated on\" is not standard.",
+        "in": "\"Estimated in\" is not standard.",
+        "by": "\"Estimated by\" introduces an agent."
+      }
+    },
+    {
+      "id": "c1-vc-291",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"By 2050\" calls for the future perfect.",
+      "text": "By 2050, the world's population ___ (reach) almost ten billion.",
+      "answers": [
+        [
+          "will have reached"
+        ]
+      ],
+      "wrongReasons": {
+        "will reach": "The future perfect shows completion before a future time.",
+        "reaches": "A present tense does not fit.",
+        "has reached": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-292",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect passive shows a state before another past event.",
+      "text": "The flight ___ (delay) for three hours when the airline announced a further postponement.",
+      "answers": [
+        [
+          "had been delayed"
+        ]
+      ],
+      "wrongReasons": {
+        "was delayed": "The past perfect shows an earlier state.",
+        "has been delayed": "The present perfect does not fit.",
+        "delayed": "The flight is the receiver."
+      }
+    },
+    {
+      "id": "c1-vc-293",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Suppose\" + past simple expresses an unreal situation.",
+      "text": "Suppose you ___ (win) the lottery, what would you do?",
+      "answers": [
+        [
+          "won"
+        ]
+      ],
+      "wrongReasons": {
+        "win": "\"Suppose\" takes a past form for an unreal situation.",
+        "would win": "\"Would\" is not used here.",
+        "will win": "\"Will\" is not used here."
+      }
+    },
+    {
+      "id": "c1-vc-294",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Good at\" is the standard collocation.",
+      "text": "She is very good ___ (at / in) languages.",
+      "answers": [
+        [
+          "at"
+        ]
+      ],
+      "wrongReasons": {
+        "in": "\"Good in\" is less standard.",
+        "on": "\"Good on\" is not standard.",
+        "with": "\"Good with\" has another meaning."
+      }
+    },
+    {
+      "id": "c1-vc-295",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The inverted third conditional uses \"would have\".",
+      "text": "Had they known the risks, they ___ (not / invest) in the project.",
+      "answers": [
+        [
+          "would not have invested"
+        ]
+      ],
+      "wrongReasons": {
+        "would not invest": "The result clause refers to the past.",
+        "had not invested": "The result clause needs a modal.",
+        "will not have invested": "\"Will\" does not fit an unreal past."
+      }
+    },
+    {
+      "id": "c1-vc-296",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Commit to\" is followed by -ing.",
+      "text": "The board is reluctant to commit itself ___ (to / spend) such a large sum.",
+      "answers": [
+        [
+          "to spending"
+        ]
+      ],
+      "wrongReasons": {
+        "to spend": "After \"commit oneself to\" use -ing.",
+        "for spending": "\"Commit for\" is not standard.",
+        "in spending": "\"Commit in\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-297",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The correlative uses the simple past in both parts.",
+      "text": "The more he practised, the better he ___ (get).",
+      "answers": [
+        [
+          "got"
+        ]
+      ],
+      "wrongReasons": {
+        "gets": "The sentence is in the past.",
+        "has got": "The present perfect does not fit.",
+        "was getting": "The continuous weakens the parallel."
+      }
+    },
+    {
+      "id": "c1-vc-298",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Congratulate on\" is followed by -ing.",
+      "text": "They congratulated the team ___ (on / win) the championship.",
+      "answers": [
+        [
+          "on winning"
+        ]
+      ],
+      "wrongReasons": {
+        "for winning": "\"Congratulate for\" is not standard.",
+        "on win": "After a preposition use -ing.",
+        "to win": "\"Congratulate to\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-299",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect links \"since\" to now.",
+      "text": "The shop ___ (be) closed since last Friday.",
+      "answers": [
+        [
+          "has been"
+        ]
+      ],
+      "wrongReasons": {
+        "was": "The simple past does not link to now.",
+        "had been": "The past perfect does not fit.",
+        "is": "The present simple does not link to a starting point."
+      }
+    },
+    {
+      "id": "c1-vc-300",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The simple past reports the action.",
+      "text": "The guide ___ (point) out the famous landmarks as the bus passed.",
+      "answers": [
+        [
+          "pointed"
+        ]
+      ],
+      "wrongReasons": {
+        "pointed to": "\"Pointed to\" has another meaning.",
+        "points": "The sentence is in the past.",
+        "pointing": "An auxiliary is missing."
+      }
+    },
+    {
+      "id": "c1-vc-301",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Whom\" is the object of the preposition.",
+      "text": "The woman ___ (who / whom) I spoke to was very helpful.",
+      "answers": [
+        [
+          "whom"
+        ]
+      ],
+      "wrongReasons": {
+        "who's": "A contraction does not fit.",
+        "whose": "\"Whose\" shows possession.",
+        "which": "\"Which\" refers to things."
+      }
+    },
+    {
+      "id": "c1-vc-302",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Needn't have\" says an action was unnecessary.",
+      "text": "You ___ (not / need / say) anything; I understood.",
+      "answers": [
+        [
+          "needn't have said"
+        ]
+      ],
+      "wrongReasons": {
+        "mustn't have said": "\"Mustn't have\" is not used here.",
+        "can't have said": "\"Can't have\" expresses deduction.",
+        "shouldn't say": "The sentence refers to the past."
+      }
+    },
+    {
+      "id": "c1-vc-303",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Which\" introduces a nonrestrictive clause.",
+      "text": "The report, ___ (which / who) was lengthy, was never read.",
+      "answers": [
+        [
+          "which"
+        ]
+      ],
+      "wrongReasons": {
+        "who": "\"Who\" refers to people.",
+        "whom": "\"Whom\" refers to people.",
+        "whose": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vc-304",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future perfect shows completion before a future time.",
+      "text": "By the time the sun rises, the climbers ___ (reach) the summit.",
+      "answers": [
+        [
+          "will have reached"
+        ]
+      ],
+      "wrongReasons": {
+        "will reach": "The future perfect shows completion before a future time.",
+        "have reached": "The present perfect does not fit a future point.",
+        "reached": "A past form does not refer to the future."
+      }
+    },
+    {
+      "id": "c1-vc-305",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"If it had not been for\" means \"without\".",
+      "text": "If it ___ (be) not for her timely intervention, the project would have collapsed.",
+      "answers": [
+        [
+          "had not been"
+        ]
+      ],
+      "wrongReasons": {
+        "was not": "The third conditional needs the past perfect.",
+        "were not": "This refers to the present.",
+        "would not be": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "c1-vc-306",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"A disappointment\" is a noun.",
+      "text": "The film was a ___ (disappointment / disappointing) to everybody.",
+      "answers": [
+        [
+          "disappointment"
+        ]
+      ],
+      "wrongReasons": {
+        "disappointing": "An adjective does not follow \"a\".",
+        "disappointed": "\"Disappointed\" describes people.",
+        "disappoint": "\"Disappoint\" is a verb."
+      }
+    },
+    {
+      "id": "c1-vc-307",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"In the process of\" is followed by -ing.",
+      "text": "We are in the process ___ (of / negotiate) a new contract with the supplier.",
+      "answers": [
+        [
+          "of negotiating"
+        ]
+      ],
+      "wrongReasons": {
+        "for negotiating": "\"Process for\" changes the sense.",
+        "to negotiate": "\"Process to\" is not standard here.",
+        "of negotiate": "After a preposition use -ing."
+      }
+    },
+    {
+      "id": "c1-vc-308",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Accountable to\" introduces the person answerable.",
+      "text": "She is accountable ___ (to / the board) for the way the money is spent.",
+      "answers": [
+        [
+          "to the board"
+        ]
+      ],
+      "wrongReasons": {
+        "for the board": "\"Accountable for\" introduces the matter.",
+        "of the board": "\"Accountable of\" is not standard.",
+        "at the board": "\"Accountable at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-309",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Neither of\" takes a singular verb in careful usage.",
+      "text": "Neither of my parents ___ (is / are) able to attend.",
+      "answers": [
+        [
+          "is"
+        ]
+      ],
+      "wrongReasons": {
+        "are": "\"Neither\" takes a singular verb in careful usage.",
+        "were": "The sentence is in the present.",
+        "be": "A finite verb is needed."
+      }
+    },
+    {
+      "id": "c1-vc-310",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Needn't\" expresses lack of necessity.",
+      "text": "You ___ (not / have to) shout; I can hear you perfectly well.",
+      "answers": [
+        [
+          "needn't"
+        ]
+      ],
+      "wrongReasons": {
+        "mustn't": "\"Mustn't\" expresses prohibition.",
+        "can't": "\"Can't\" expresses inability.",
+        "shouldn't have": "\"Shouldn't have\" is a past criticism."
+      }
+    },
+    {
+      "id": "c1-vc-311",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Could\" expresses past ability in general.",
+      "text": "He ___ (can / swim) across the river when he was a boy.",
+      "answers": [
+        [
+          "could"
+        ]
+      ],
+      "wrongReasons": {
+        "can": "The sentence is in the past.",
+        "was able": "\"Was able\" needs \"to\".",
+        "could to": "\"Could to\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vc-312",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Worst\" is the superlative of \"bad\".",
+      "text": "It was the ___ (bad) film I have ever seen.",
+      "answers": [
+        [
+          "worst"
+        ]
+      ],
+      "wrongReasons": {
+        "baddest": "\"Baddest\" is not standard.",
+        "most bad": "\"Most bad\" is not standard.",
+        "worse": "\"Worse\" is a comparative."
+      }
+    },
+    {
+      "id": "c1-vc-313",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"With whom I work\" is the formal pattern.",
+      "text": "The people ___ (with whom / I / work) are extremely supportive.",
+      "answers": [
+        [
+          "with whom I work"
+        ]
+      ],
+      "wrongReasons": {
+        "whom I work": "The preposition is missing.",
+        "who I work them": "The pronoun is repeated.",
+        "which I work with": "\"Which\" refers to things."
+      }
+    },
+    {
+      "id": "c1-vc-314",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Should have\" criticises a past omission.",
+      "text": "You ___ (should / apologise) for your behaviour yesterday.",
+      "answers": [
+        [
+          "should have apologised"
+        ]
+      ],
+      "wrongReasons": {
+        "should apologise": "The omission is in the past.",
+        "must apologise": "\"Must\" is stronger and refers to the present.",
+        "would apologise": "\"Would\" has a different meaning."
+      }
+    },
+    {
+      "id": "c1-vc-315",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Anxious to\" can mean keen, but here it suggests unease.",
+      "text": "The speaker was clearly ___ (anxious / eager) to leave, as he kept checking his watch.",
+      "answers": [
+        [
+          "anxious"
+        ]
+      ],
+      "wrongReasons": {
+        "eager": "\"Eager\" suggests enthusiasm.",
+        "nervous": "\"Nervous\" suggests fear.",
+        "angry": "\"Angry\" suggests annoyance."
+      }
+    },
+    {
+      "id": "c1-vc-316",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Look forward to\" is followed by -ing.",
+      "text": "He is looking forward ___ (see) his grandchildren.",
+      "answers": [
+        [
+          "to seeing"
+        ]
+      ],
+      "wrongReasons": {
+        "to see": "After \"to\" here a gerund is used.",
+        "seeing": "The preposition \"to\" is needed.",
+        "for seeing": "\"Look forward for\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-317",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Based on\" is the standard collocation.",
+      "text": "The film is based ___ (on / at) a true story.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"Based at\" is not standard.",
+        "in": "\"Based in\" is not standard.",
+        "by": "\"Based by\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-318",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Rise\" is intransitive and its participle is \"risen\".",
+      "text": "The price of petrol has ___ (raise / rise) again this month.",
+      "answers": [
+        [
+          "risen"
+        ]
+      ],
+      "wrongReasons": {
+        "raised": "\"Raise\" needs an object.",
+        "rose": "The present perfect needs a participle.",
+        "rising": "An auxiliary is missing."
+      }
+    },
+    {
+      "id": "c1-vc-319",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect continuous links change to now.",
+      "text": "The patient ___ (recover) well since the operation.",
+      "answers": [
+        [
+          "has been recovering"
+        ]
+      ],
+      "wrongReasons": {
+        "recovered": "The simple past does not link to now.",
+        "had been recovering": "The past perfect does not fit.",
+        "recovers": "The present simple does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-320",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Rose\" is the past of \"rise\".",
+      "text": "The sun ___ (rise) at six o'clock this morning.",
+      "answers": [
+        [
+          "rose"
+        ]
+      ],
+      "wrongReasons": {
+        "raised": "\"Raise\" needs an object.",
+        "arose": "\"Arose\" means appeared.",
+        "risen": "An auxiliary is missing."
+      }
+    },
+    {
+      "id": "c1-vc-321",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The inverted third conditional uses \"would have\".",
+      "text": "Had we left earlier, we ___ (not / miss) the flight.",
+      "answers": [
+        [
+          "would not have missed"
+        ]
+      ],
+      "wrongReasons": {
+        "would not miss": "The result clause refers to the past.",
+        "had not missed": "The result clause needs a modal.",
+        "will not have missed": "\"Will\" does not fit an unreal past."
+      }
+    },
+    {
+      "id": "c1-vc-322",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect continuous links duration to now.",
+      "text": "Scientists ___ (warn) for decades that sea levels would rise.",
+      "answers": [
+        [
+          "have been warning"
+        ]
+      ],
+      "wrongReasons": {
+        "warned": "The present perfect continuous shows duration up to now.",
+        "warn": "The present simple does not show duration.",
+        "are warning": "The present continuous does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-323",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect shows a period before a past event.",
+      "text": "I ___ (not / see) her for ages, so I hardly recognised her.",
+      "answers": [
+        [
+          "hadn't seen"
+        ]
+      ],
+      "wrongReasons": {
+        "haven't seen": "The sentence is in the past.",
+        "didn't see": "The simple past does not show the earlier period.",
+        "don't see": "The present simple does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-324",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect continuous links duration to now.",
+      "text": "The students ___ (take) their exams all week, so they are exhausted.",
+      "answers": [
+        [
+          "have been taking"
+        ]
+      ],
+      "wrongReasons": {
+        "took": "The simple past does not link to now.",
+        "had been taking": "The past perfect does not fit.",
+        "take": "The present simple does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-325",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Anxious about\" introduces the worry.",
+      "text": "She is anxious ___ (about / for) the interview.",
+      "answers": [
+        [
+          "about"
+        ]
+      ],
+      "wrongReasons": {
+        "for": "\"Anxious for\" has another meaning.",
+        "of": "\"Anxious of\" is not standard.",
+        "with": "\"Anxious with\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-326",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "text": "She ___ (cry) for an hour when her sister finally arrived to comfort her.",
+      "answers": [
+        [
+          "had been crying"
+        ]
+      ],
+      "wrongReasons": {
+        "was crying": "The past perfect continuous shows duration before the arrival.",
+        "has been crying": "The present perfect does not fit.",
+        "cried": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-327",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "text": "The lecturer ___ (speak) for an hour when someone interrupted.",
+      "answers": [
+        [
+          "had been speaking"
+        ]
+      ],
+      "wrongReasons": {
+        "was speaking": "The past perfect continuous shows duration before the interruption.",
+        "has been speaking": "The present perfect does not fit.",
+        "spoke": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-328",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Might have\" + participle expresses a past possibility.",
+      "text": "I ___ (might / forget) my keys; I can't find them anywhere.",
+      "answers": [
+        [
+          "might have forgotten"
+        ]
+      ],
+      "wrongReasons": {
+        "might forget": "The sentence refers to a past possibility.",
+        "must forget": "\"Must forget\" is not a deduction here.",
+        "could forgotten": "The auxiliary \"have\" is missing."
+      }
+    },
+    {
+      "id": "c1-vc-329",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous explains an earlier cause.",
+      "text": "She was exhausted because she ___ (run) in the heat all morning.",
+      "answers": [
+        [
+          "had been running"
+        ]
+      ],
+      "wrongReasons": {
+        "was running": "The past perfect continuous explains an earlier cause.",
+        "has been running": "The present perfect does not fit.",
+        "ran": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-330",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Were + subject + to + infinitive\" is a formal conditional.",
+      "text": "Were the company ___ (offer) a better salary, I might reconsider my decision.",
+      "answers": [
+        [
+          "to offer"
+        ]
+      ],
+      "wrongReasons": {
+        "offering": "After \"were the company\" an infinitive is needed.",
+        "offer": "\"Were ... to\" requires the infinitive with \"to\".",
+        "offered": "A participle does not fit the inversion."
+      }
+    },
+    {
+      "id": "c1-vc-331",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "text": "The ship ___ (sail) for three weeks before land came into sight.",
+      "answers": [
+        [
+          "had been sailing"
+        ]
+      ],
+      "wrongReasons": {
+        "was sailing": "The past perfect continuous shows duration before sighting.",
+        "has been sailing": "The present perfect does not fit.",
+        "sailed": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-332",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future perfect shows completion by a future time.",
+      "text": "By this time tomorrow, the exams ___ (finish).",
+      "answers": [
+        [
+          "will have finished"
+        ]
+      ],
+      "wrongReasons": {
+        "will finish": "The future perfect shows completion.",
+        "have finished": "The present perfect does not fit a future point.",
+        "finish": "A present tense does not show completion."
+      }
+    },
+    {
+      "id": "c1-vc-333",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect links \"since\" to now.",
+      "text": "He ___ (not / speak) to her since the argument.",
+      "answers": [
+        [
+          "hasn't spoken"
+        ]
+      ],
+      "wrongReasons": {
+        "didn't speak": "The simple past does not link to now.",
+        "hadn't spoken": "The past perfect does not fit.",
+        "doesn't speak": "The present simple does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-334",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Little doubt\" means almost no doubt.",
+      "text": "I have ___ (few / doubt) that she will succeed.",
+      "answers": [
+        [
+          "little"
+        ]
+      ],
+      "wrongReasons": {
+        "few": "\"Doubt\" is uncountable.",
+        "a few": "\"a few\" does not work here, because \"Doubt\" is uncountable.",
+        "many": "\"many\" does not work here, because \"Doubt\" is uncountable."
+      }
+    },
+    {
+      "id": "c1-vc-335",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Dismissed for\" introduces the reason.",
+      "text": "He was dismissed ___ (for / of) stealing.",
+      "answers": [
+        [
+          "for"
+        ]
+      ],
+      "wrongReasons": {
+        "of": "\"Dismissed of\" is not standard.",
+        "by": "\"Dismissed by\" introduces an agent.",
+        "to": "\"Dismissed to\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-336",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Possibility of\" is followed by -ing.",
+      "text": "We are looking into the possibility ___ (of / for) opening a new branch.",
+      "answers": [
+        [
+          "of"
+        ]
+      ],
+      "wrongReasons": {
+        "for": "\"Possibility for\" is less natural before -ing.",
+        "to": "\"Possibility to\" is followed by a verb.",
+        "in": "\"Possibility in\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-337",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present continuous shows a fixed arrangement.",
+      "text": "They ___ (get) married next June.",
+      "answers": [
+        [
+          "are getting"
+        ]
+      ],
+      "wrongReasons": {
+        "get": "The present continuous shows a fixed arrangement.",
+        "have got": "The present perfect does not fit.",
+        "got": "A past form does not refer to the future."
+      }
+    },
+    {
+      "id": "c1-vc-338",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"By the time\" + future perfect.",
+      "text": "By the time the drug is approved, the company ___ (spend) millions on trials.",
+      "answers": [
+        [
+          "will have spent"
+        ]
+      ],
+      "wrongReasons": {
+        "will spend": "The future perfect shows completion.",
+        "spends": "A present tense does not fit.",
+        "has spent": "The present perfect does not fit a future time."
+      }
+    },
+    {
+      "id": "c1-vc-339",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Married to\" is the fixed collocation.",
+      "text": "She is married ___ (to / with) a famous actor.",
+      "answers": [
+        [
+          "to"
+        ]
+      ],
+      "wrongReasons": {
+        "with": "\"Married with\" is not standard.",
+        "by": "\"Married by\" is not standard.",
+        "for": "\"Married for\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-340",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"More ... than\" forms the comparative.",
+      "text": "He is ___ (more / most) experienced than any of his colleagues.",
+      "answers": [
+        [
+          "more"
+        ]
+      ],
+      "wrongReasons": {
+        "most": "The comparison with \"than\" needs a comparative.",
+        "much": "\"Much experienced\" is not standard.",
+        "very": "\"Very experienced than\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vc-341",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Since\" calls for the present perfect.",
+      "text": "I ___ (not / see) her since the day she moved away, so I have no idea how she is.",
+      "answers": [
+        [
+          "haven't seen"
+        ]
+      ],
+      "wrongReasons": {
+        "didn't see": "\"Since\" calls for the present perfect.",
+        "don't see": "The present simple does not show duration.",
+        "hadn't seen": "The past perfect needs a past reference."
+      }
+    },
+    {
+      "id": "c1-vc-342",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Insisted that\" takes the subjunctive.",
+      "text": "The directors insisted ___ (that / on) the report be revised.",
+      "answers": [
+        [
+          "that"
+        ]
+      ],
+      "wrongReasons": {
+        "on": "\"Insist on\" is followed by a gerund or noun.",
+        "about": "\"Insist about\" is not standard.",
+        "for": "\"Insist for\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-343",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future perfect shows completion by a future time.",
+      "text": "In ten years' time, scientists ___ (discover) a cure.",
+      "answers": [
+        [
+          "will have discovered"
+        ]
+      ],
+      "wrongReasons": {
+        "will discover": "The future perfect shows completion.",
+        "have discovered": "The present perfect does not fit.",
+        "discover": "A present tense does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-344",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Hardly had ... when\" is the standard correlative pair.",
+      "text": "Hardly ___ (the train / leave) the station when the storm broke.",
+      "answers": [
+        [
+          "had the train left"
+        ]
+      ],
+      "wrongReasons": {
+        "the train had left": "\"Hardly\" at the start requires inversion.",
+        "did the train leave": "\"Hardly did ... when\" is not the standard pair.",
+        "left the train": "The auxiliary is missing."
+      }
+    },
+    {
+      "id": "c1-vc-345",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect shows a period before another past event.",
+      "text": "She ___ (live) in Rome for ten years before she moved to Paris.",
+      "answers": [
+        [
+          "had lived"
+        ]
+      ],
+      "wrongReasons": {
+        "has lived": "The past perfect shows an earlier period.",
+        "lived": "The simple past does not show the sequence.",
+        "was living": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "c1-vc-346",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"The more ..., the better ...\" is a correlative comparative.",
+      "text": "The ___ (more / most) you practise, the better you will become.",
+      "answers": [
+        [
+          "more"
+        ]
+      ],
+      "wrongReasons": {
+        "most": "The correlative needs a comparative.",
+        "much": "\"The much\" is ungrammatical.",
+        "many": "\"The many\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vc-347",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Such a\" precedes a noun phrase.",
+      "text": "He was ___ (such / so) a generous man that everyone admired him.",
+      "answers": [
+        [
+          "such"
+        ]
+      ],
+      "wrongReasons": {
+        "so": "\"So a generous man\" is ungrammatical.",
+        "very": "\"Very a generous man\" is ungrammatical.",
+        "too": "\"Too a generous man\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vc-348",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect continuous links duration to now.",
+      "text": "I ___ (think) about changing my job for some time now.",
+      "answers": [
+        [
+          "have been thinking"
+        ]
+      ],
+      "wrongReasons": {
+        "think": "The present simple does not show duration.",
+        "am thinking": "The present continuous does not show duration.",
+        "thought": "The simple past does not link to now."
+      }
+    },
+    {
+      "id": "c1-vc-349",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The second conditional uses the past simple.",
+      "text": "If I ___ (know) his number, I would call him now.",
+      "answers": [
+        [
+          "knew"
+        ]
+      ],
+      "wrongReasons": {
+        "know": "The second conditional needs a past form.",
+        "had known": "This refers to the past.",
+        "would know": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "c1-vc-350",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Neither of\" takes a singular verb in formal English.",
+      "text": "Neither of the answers ___ (be) entirely satisfactory.",
+      "answers": [
+        [
+          "was"
+        ]
+      ],
+      "wrongReasons": {
+        "were": "In careful usage \"neither\" takes a singular verb.",
+        "are": "\"Neither\" takes a singular verb.",
+        "being": "A finite verb is needed."
+      }
+    },
+    {
+      "id": "c1-vc-351",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The future simple expresses a planned event.",
+      "text": "The new law ___ (come) into force at the beginning of next year.",
+      "answers": [
+        [
+          "will come"
+        ]
+      ],
+      "wrongReasons": {
+        "would come": "\"Would\" does not fit a real future.",
+        "comes": "The sentence expresses a future event with a modal.",
+        "came": "The sentence is about the future."
+      }
+    },
+    {
+      "id": "c1-vc-352",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The simple past reports a completed action.",
+      "text": "The company ___ (announce) record profits last week.",
+      "answers": [
+        [
+          "announced"
+        ]
+      ],
+      "wrongReasons": {
+        "has announced": "A finished time reference needs the simple past.",
+        "announces": "The sentence is in the past.",
+        "was announcing": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "c1-vc-353",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Congratulate on\" is the fixed collocation.",
+      "text": "We congratulated him ___ (for / on) his promotion.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "wrongReasons": {
+        "for": "\"Congratulate for\" is not standard.",
+        "at": "\"Congratulate at\" is not standard.",
+        "with": "\"Congratulate with\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-354",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Look forward to\" is followed by -ing.",
+      "text": "I'm looking forward ___ (see) you at the conference.",
+      "answers": [
+        [
+          "to seeing"
+        ]
+      ],
+      "wrongReasons": {
+        "to see": "After \"to\" here a gerund is used.",
+        "seeing": "The preposition \"to\" is needed.",
+        "for seeing": "\"Look forward for\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-355",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The past perfect shows an earlier action.",
+      "text": "The train ___ (already / leave) when we reached the platform.",
+      "answers": [
+        [
+          "had already left"
+        ]
+      ],
+      "wrongReasons": {
+        "already left": "The past perfect shows an earlier action.",
+        "has already left": "The sentence is in the past.",
+        "was already leaving": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "c1-vc-356",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"By the end of next month\" calls for the future perfect.",
+      "text": "I ___ (live) here for twenty years by the end of next month.",
+      "answers": [
+        [
+          "will have lived"
+        ]
+      ],
+      "wrongReasons": {
+        "will live": "The future perfect shows the total duration.",
+        "have lived": "The present perfect does not fit a future point.",
+        "live": "A present tense does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-357",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A present form follows a time conjunction.",
+      "text": "I'll phone you the moment I ___ (arrive).",
+      "answers": [
+        [
+          "arrive"
+        ]
+      ],
+      "wrongReasons": {
+        "will arrive": "A future form is not used after \"the moment\".",
+        "arrived": "A past form does not refer to the future.",
+        "have arrive": "\"Have\" needs a participle."
+      }
+    },
+    {
+      "id": "c1-vc-358",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Any\" is used after a negative verb.",
+      "text": "She did not show ___ (any) interest in the proposal.",
+      "answers": [
+        [
+          "any"
+        ]
+      ],
+      "wrongReasons": {
+        "no": "\"Did not show no\" is a double negative.",
+        "some": "\"Some\" is not used in negatives like this.",
+        "much of": "\"Much of\" changes the structure."
+      }
+    },
+    {
+      "id": "c1-vc-359",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Could\" expresses past ability.",
+      "text": "She ___ (be able to) read when she was only three.",
+      "answers": [
+        [
+          "could"
+        ]
+      ],
+      "wrongReasons": {
+        "can": "The sentence is in the past.",
+        "may": "\"May\" does not express past ability.",
+        "will": "\"Will\" refers to the future."
+      }
+    },
+    {
+      "id": "c1-vc-360",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Set off on a journey\" is the standard phrase.",
+      "text": "They set off ___ (on / at) a journey around the world.",
+      "answers": [
+        [
+          "on"
+        ]
+      ],
+      "wrongReasons": {
+        "at": "\"Set off at a journey\" is not standard.",
+        "in": "\"Set off in a journey\" is not standard.",
+        "to": "\"Set off to a journey\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-361",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A present form follows \"as long as\".",
+      "text": "You can borrow my car as long as you ___ (promise) to drive carefully.",
+      "answers": [
+        [
+          "promise"
+        ]
+      ],
+      "wrongReasons": {
+        "will promise": "A future form is not used after \"as long as\".",
+        "promised": "A past form does not refer to the future.",
+        "promising": "A finite form is needed."
+      }
+    },
+    {
+      "id": "c1-vc-362",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past form expresses a present preference.",
+      "text": "I would rather he ___ (not / know) the details of the arrangement.",
+      "answers": [
+        [
+          "didn't know"
+        ]
+      ],
+      "wrongReasons": {
+        "doesn't know": "After \"would rather\" + subject a past form is used.",
+        "wouldn't know": "\"Would\" is not used here.",
+        "hasn't known": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vc-363",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Married to\" is the fixed collocation.",
+      "text": "She is married ___ (to / with) a surgeon.",
+      "answers": [
+        [
+          "to"
+        ]
+      ],
+      "wrongReasons": {
+        "with": "\"Married with\" is not standard.",
+        "by": "\"Married by\" is not standard.",
+        "at": "\"Married at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-364",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The third conditional uses the past perfect.",
+      "text": "If you ___ (take) the earlier train, you would have arrived on time.",
+      "answers": [
+        [
+          "had taken"
+        ]
+      ],
+      "wrongReasons": {
+        "took": "The third conditional needs the past perfect.",
+        "would take": "\"Would\" is not used in the if-clause.",
+        "have taken": "The past perfect is needed."
+      }
+    },
+    {
+      "id": "c1-vc-365",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"May have\" + participle expresses a past possibility.",
+      "text": "He ___ (may / leave) the building before the alarm sounded.",
+      "answers": [
+        [
+          "may have left"
+        ]
+      ],
+      "wrongReasons": {
+        "may leave": "The sentence refers to a past possibility.",
+        "must leave": "\"Must leave\" is an obligation.",
+        "can have left": "\"Can have\" is not used for possibility."
+      }
+    },
+    {
+      "id": "c1-vc-366",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The present perfect continuous links duration to now.",
+      "text": "Our neighbours ___ (redecorate) their house for months, and the noise is endless.",
+      "answers": [
+        [
+          "have been redecorating"
+        ]
+      ],
+      "wrongReasons": {
+        "redecorated": "The simple past does not link to now.",
+        "had been redecorating": "The past perfect does not fit.",
+        "are redecorating": "The present continuous does not show duration."
+      }
+    },
+    {
+      "id": "c1-vc-367",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "A past participle forms a reduced passive relative clause.",
+      "text": "The measures ___ (introduce) last year have had little effect on the crime rate.",
+      "answers": [
+        [
+          "introduced"
+        ]
+      ],
+      "wrongReasons": {
+        "introducing": "A reduced relative clause needs a participle.",
+        "were introduced": "The clause is reduced, so \"were\" is not used.",
+        "introduce": "A participle is needed."
+      }
+    },
+    {
+      "id": "c1-vc-368",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Grateful to\" introduces the person.",
+      "text": "I am very grateful ___ (to / for) you for your help.",
+      "answers": [
+        [
+          "to"
+        ]
+      ],
+      "wrongReasons": {
+        "for": "\"Grateful for\" introduces the thing.",
+        "of": "\"Grateful of\" is not standard.",
+        "at": "\"Grateful at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vc-369",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "The passive of \"hear\" takes a \"to\" infinitive.",
+      "text": "He was heard ___ (say) that he would resign.",
+      "answers": [
+        [
+          "to say"
+        ]
+      ],
+      "wrongReasons": {
+        "say": "The passive of a perception verb takes \"to\".",
+        "saying": "\"Heard\" takes \"to\" in the passive.",
+        "said": "An infinitive is needed."
+      }
+    },
+    {
+      "id": "c1-vc-370",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"An\" precedes a vowel sound.",
+      "text": "He is ___ (an / a) MP for a northern constituency.",
+      "answers": [
+        [
+          "an"
+        ]
+      ],
+      "wrongReasons": {
+        "a": "\"MP\" begins with a vowel sound.",
+        "the": "\"The MP\" would mean a specific one.",
+        "no article": "A singular noun needs a determiner."
+      }
+    },
+    {
+      "id": "c1-vc-371",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Lay\" is the past of \"lie\" meaning to rest.",
+      "text": "The bomb ___ (lay / lied) on the ground for hours.",
+      "answers": [
+        [
+          "lay"
+        ]
+      ],
+      "wrongReasons": {
+        "lied": "\"Lied\" is the past of \"lie\" meaning to tell a falsehood.",
+        "laid": "\"Laid\" needs an object.",
+        "lain": "An auxiliary is missing."
+      }
+    },
+    {
+      "id": "c1-vc-372",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"Whom\" is the object of \"arrested\".",
+      "text": "The woman ___ (whom / who) the police arrested has been released.",
+      "answers": [
+        [
+          "whom"
+        ]
+      ],
+      "wrongReasons": {
+        "who's": "\"Who's\" means \"who is\".",
+        "whose": "\"Whose\" shows possession.",
+        "which": "\"Which\" refers to things."
+      }
+    },
+    {
+      "id": "c1-vc-373",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Won't be able to\" refers to the future.",
+      "text": "I ___ (not / be) able to attend the meeting tomorrow, I'm afraid.",
+      "answers": [
+        [
+          "won't be"
+        ]
+      ],
+      "wrongReasons": {
+        "can't be": "\"Can't be able\" is ungrammatical.",
+        "haven't been": "The present perfect does not fit.",
+        "wasn't": "A past form does not refer to the future."
+      }
+    },
+    {
+      "id": "c1-vc-374",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Write the correct form of the word in brackets.",
+      "explanation": "\"One of the most\" forms a superlative.",
+      "text": "He is one of the ___ (most / more) respected scientists in the country.",
+      "answers": [
+        [
+          "most"
+        ]
+      ],
+      "wrongReasons": {
+        "more": "\"One of the more\" needs \"than\".",
+        "much": "\"Much respected\" is not standard here.",
+        "very": "\"Very respected\" is not a superlative."
+      }
+    },
+    {
+      "id": "c1-vc-375",
+      "type": "verb-conjugate",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Write the correct form of the verb in brackets.",
+      "explanation": "\"Yet\" calls for the present perfect.",
+      "text": "He ___ (not / yet / reply) to my letter, which I sent over a month ago.",
+      "answers": [
+        [
+          "has not yet replied"
+        ]
+      ],
+      "wrongReasons": {
+        "did not yet reply": "\"Yet\" calls for the present perfect.",
+        "does not yet reply": "The present simple does not fit.",
+        "had not yet replied": "The past perfect needs a past reference."
+      }
     }
   ]
 }
