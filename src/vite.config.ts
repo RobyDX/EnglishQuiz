@@ -1,3 +1,4 @@
+import { fileURLToPath } from 'node:url';
 import { defineConfig } from 'vitest/config';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
@@ -60,6 +61,8 @@ export default defineConfig({
     }),
   ],
   test: {
+    // The PWA virtual module does not resolve under Vitest (fails on some setups): use a stub.
+    alias: { 'virtual:pwa-register/react': fileURLToPath(new URL('./test-pwa-register.ts', import.meta.url)) },
     environment: 'jsdom',
     setupFiles: ['./test-setup.ts'], exclude: ['node_modules/**'],
     include: ['**/*.test.{ts,tsx}'],
