@@ -140,7 +140,7 @@ In `submitted` gli input sono bloccati (read-only). Le risposte corrette si most
 
 ## 8. Contenuti
 - Un file JSON per **livello e tipologia** in `src/data/<livello>/<tipo>.json`, validati da un test che controlla schema, unicità degli `id` e quote.
-- Obiettivo: **2000 domande per livello** (12000 totali), distribuite per tipologia e argomento. Quote, regole di qualità e processo di produzione in `07-contenuti.md`. I contenuti sono originali (nessun materiale coperto da copyright).
+- Obiettivo: **5000 domande per livello** (30000 totali), distribuite per tipologia e argomento. Quote, regole di qualità e processo di produzione in `07-contenuti.md`. I contenuti sono originali (nessun materiale coperto da copyright).
 - Argomenti (`topics`, 15 categorie): vedi `02-tipologie-domande.md` §Argomenti.
 
 ## 9. Criteri di accettazione (MVP)

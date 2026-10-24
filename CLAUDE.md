@@ -11,7 +11,7 @@ SPA + PWA React (front-end only) per esercizi di inglese per livello CEFR (A1–
 - `specs/04-ui-ux.md` – schermate, layout, accessibilità, testi
 - `specs/05-pwa.md` – manifest, service worker, offline
 - `specs/06-piano-implementazione.md` – fasi e checklist
-- `specs/07-contenuti.md` – 2000 domande per livello, quote per tipologia, qualità, validazione
+- `specs/07-contenuti.md` – 5000 domande per livello, quote per tipologia, qualità, validazione
 - `specs/08-decisioni.md` – registro delle decisioni prese (leggerlo prima di cambiare comportamento)
 
 Se una richiesta o un'esigenza tecnica contraddice le specifiche: **segnalalo e aggiorna prima la specifica**, poi il codice. Mantieni spec e codice allineati (nuova tipologia, nuovo campo, nuova pagina ⇒ aggiorna il relativo file in `specs/`). Spunta le voci completate in `06-piano-implementazione.md`.
@@ -33,7 +33,7 @@ Se una richiesta o un'esigenza tecnica contraddice le specifiche: **segnalalo e 
 - Nessun effetto collaterale (localStorage, ecc.) dentro gli updater di `setState`: leggere lo stato da un `ref` (React li chiama due volte in StrictMode).
 - Ogni risposta sbagliata di una domanda a scelta / `word-bank` ha la **sua** spiegazione in `wrongReasons` (mai riusata tra opzioni diverse); `explanation` obbligatoria su ogni domanda.
 - Pulsanti di azione del quiz solo in fondo alla pagina; la barra livello/progresso è sticky con il pulsante "↓ End".
-- Contenuti degli esercizi originali, nessun testo coperto da copyright; 2000 domande per livello in `src/data/<livello>/<tipo>.json`, rispettando le quote di `specs/07-contenuti.md`.
+- Contenuti degli esercizi originali, nessun testo coperto da copyright; 5000 domande per livello in `src/data/<livello>/<tipo>.json`, rispettando le quote di `specs/07-contenuti.md`.
 
 ## Comandi (da eseguire in `src/`)
 `npm run dev` · `npm run build` (→ `docs/`) · `npm run preview` · `npm test` · `npm run lint`

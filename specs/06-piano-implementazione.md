@@ -46,6 +46,17 @@ Dettagli e quote in `07-contenuti.md`. Per ogni livello: scrivere i lotti per ti
   - [x] Lotto 1: +100 domande distribuite in proporzione alle quote di `07-contenuti.md` (mc 20, fb 18, tr 15, es 13, ec 13, rm 8, mp 8, tf 5); testi di lettura 165–200 parole
   - [x] Lotto 2: +1884 domande (mc 353, fb 345, tr 283, es 250, ec 250, mp 155, rm 155, tf 93); testi di lettura 169–204 parole. Restano sotto le 150 parole i 4 testi brevi del set di prova (c2-rm-001/002, c2-tf-001/002)
 
+### Fase 4b – Espansione a 5000 domande per livello (decisione 39)
+Per ogni livello: rimuovere i duplicati esistenti, aggiungere ~3000 domande bilanciate per tipologia (quote di `07`) e argomento, senza duplicati; `EXPANDED_LEVELS` in `data.test.ts` include il livello quando ha 5000 domande e nessuna frase ripetuta.
+- [x] A1 – 5000 domande (104 duplicati rimossi, 3104 nuove). Argomenti: verb-tenses 21,1% (poco sopra il 20%: `verb-form` e `verb-conjugate` sono quasi solo tempi verbali), everyday-life 13,0%, travel 8,3%, articles 7,9%, pronouns 7,8%, society 7,5%, work 7,2%, adjectives 6,7%, prepositions 6,1%, modal-verbs 5,1%, phrasal 3,3%, confusing-words 3,1%, gerunds 3,0% (queste ultime tre sono argomenti stretti a A1). *conditionals* e *passive* non compaiono a A1 per scelta.
+- [ ] A2
+- [ ] B1
+- [ ] B2
+- [ ] C1
+- [ ] C2
+
+Strumenti di produzione in `src/scripts/content/` (Python, senza dipendenze): lessico con definizioni e frasi (`lex_*.txt`, `sent_*.txt`), generatori per tipologia, `build_a1.py` (orchestratore: pulizia, piano argomento × tipologia, registro anti-duplicati, scrittura dei JSON), `dupes.py` (conta duplicati). Si lanciano da `src/scripts/content/`; `build_a1.py` è idempotente (a livello completo non aggiunge nulla) e `--write` scrive i file.
+
 ## Fase 5 – PWA
 - [x] Manifest + icone
 - [x] Service worker + toast aggiornamento

@@ -12,7 +12,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 6 | Quiz da **5 / 10 / 20 / 40** domande, default 10; tipologie alternate (round-robin); si evitano le ultime ~100 domande già viste per livello | Meno ripetizioni | 01 §7 |
 | 7 | **Feedback sugli errori** subito dopo "Check answers": Your answer, Correct answer, Why it's wrong, Rule | Richiesta esplicita: perché è sbagliato e qual è la regola | 04, 01 F11 |
 | 8 | **Ogni risposta sbagliata ha una spiegazione propria** (`wrongReasons`); per `word-bank` una per ogni parola e per ogni spazio (`<n>:<parola>`); se manca, un fallback legato alla risposta | Con *a / an / the*, "the" richiede una spiegazione diversa da "a". I test lo impongono | 02, 07 |
-| 9 | **2000 domande per livello** (12000 totali), quote per livello e tipologia | Prima 60, poi 600, poi 2000. Si produce a lotti, un livello alla volta | 07 |
+| 9 | **Domande per livello**, quote per livello e tipologia (2000, poi portate a 5000: vedi 39) | Prima 60, poi 600, poi 2000. Si produce a lotti, un livello alla volta | 07 |
 | 10 | Un file JSON per livello e tipologia; caricamento lazy per livello | File gestibili, bundle piccolo (bundle principale ~109 KB gzip) | 07, 03 |
 | 11 | Pulsanti Check answers / Show correct answers / Try again / New quiz / Change level **solo alla fine della pagina, non fissi** | L'utente deve scorrere fino in fondo | 04 |
 | 12 | **Barra livello/progresso sempre visibile** sotto la navbar + pulsante "↓ End" a destra | Il pulsante porta ai pulsanti finali | 04, 01 F12 |
@@ -43,6 +43,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 36 | **Argomenti per domanda come array `topics`** (uno o più) tra 15 categorie (`TOPICS`), al posto del `topic` a stringa libera. Migrazione graduale: prima A1 `multiple-choice` (10 domande), poi il resto; `topic` resta per il test di livello finché non è completa | Richiesta esplicita: una quindicina di argomenti, più argomenti per domanda, selezionabili in UI per livello | 02, 03, 07 |
 | 37 | **Filtro per argomento in HomePage**: tile multi-selezione dopo il livello; nessuna selezione = tutti; argomenti senza domande disabilitati; selezione in `eq.prefs` e in URL (`topics=`) | Richiesta esplicita: limitare il quiz a uno o più argomenti. Le tile sono di selezione (non azioni come quelle del numero di domande) | 01 F15, 03, 04 |
 | 38 | **Dati dei livelli fuori dal precache**: chunk in `assets/data/`, `CacheFirst` a runtime (cache `eq-data`) al primo uso del livello; precache dell'app ~0,6 MB. Offline funzionano solo i livelli già aperti | Richiesta esplicita: ridurre la banda. Prima il primo avvio scaricava ~1,6 MB gzip di tutti i livelli. Lo zip manuale dei dati non serve: il server già comprime | 05, 07, 01, 04 |
+| 39 | **5000 domande per livello** (30000 totali), con argomenti il più possibile equilibrati e controllo duplicati più severo (stessa frase in tipologie diverse, opzioni in ordine diverso); si rimuovono i duplicati esistenti | Richiesta esplicita. Le quote per tipologia sono quelle di 07 ×2,5. Produzione con script che combinano tabelle scritte a mano; livello per livello, A1 per primo | 07, 06 |
 
 ## Ancora aperte
 Vedi `06-piano-implementazione.md`, sezione "Decisioni": hosting, export/import cronologia, ESLint/Prettier.
