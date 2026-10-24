@@ -48,6 +48,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 41 | **Storico dei test di livello** nella pagina `#/test` (chiave `eq.placementHistory`, max 50) con pulsante "Clear history"; la History dei quiz resta in `#/quiz` | Richiesta esplicita: nella ristrutturazione (40) lo storico dei test non era più visibile | 01, 03, 04 |
 | 42 | **Nessun argomento selezionato di default**: la selezione non è più salvata in `eq.prefs`, a ogni apertura di `#/quiz` si parte da "tutti" | Richiesta esplicita | 03, 04 |
 | 43 | **Versione 1.0.0** (`package.json`, mostrata in About) | Richiesta esplicita: prima versione stabile | 04 |
+| 44 | **Pulsante "Share on WhatsApp"** in HomePage: link `wa.me` con messaggio e URL dell'app (senza hash), nessuna API o rete a runtime | Richiesta esplicita | 04 |
 
 ## Ancora aperte
 Vedi `06-piano-implementazione.md`, sezione "Decisioni": hosting, export/import cronologia, ESLint/Prettier.
