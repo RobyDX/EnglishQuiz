@@ -12,75 +12,10 @@ Lines starting with # and empty lines are ignored.
 usage: ai_import.py <level> [--write]
 """
 import sys, glob, os, random, json, collections, subprocess
-from core import (load_level, save_level, Registry, next_numbers, with_id, new_question, norm, ROOT)
+from core import load_level, save_level, Registry, next_numbers, with_id, ROOT
+from hand import build
 
-CAT = {'E': 'everyday-life', 'T': 'travel-places-leisure', 'W': 'work-education-technology', 'S': 'society-health-environment'}
 HERE = os.path.dirname(os.path.abspath(__file__))
-
-
-def fail(msg, line):
-    raise ValueError(f'{msg}: {line[:90]}')
-
-
-def pairs(parts, line, minimum=2):
-    out = []
-    for p in parts:
-        if ' :: ' not in p:
-            fail('wrong answer without reason', line)
-        w, r = [x.strip() for x in p.split(' :: ', 1)]
-        if not w or not r:
-            fail('empty wrong answer or reason', line)
-        out.append((w, r))
-    if len(out) < minimum:
-        fail('not enough wrong answers', line)
-    if len({r for _, r in out}) != len(out):
-        fail('repeated reason', line)
-    return out
-
-
-def build(line, level, rng):
-    f = [x.strip() for x in line.split(' | ')]
-    kind, cat = f[0], CAT[f[1]]
-    lv = level.upper()
-    if kind in ('wb', 'mc', 'fb'):
-        sent, right = f[2], f[3]
-        wrongs = pairs(f[4:-1], line, 2)
-        expl = f[-1]
-        if kind in ('wb', 'fb') and sent.count('___') != 1:
-            fail('needs exactly one blank', line)
-        if any(norm(w) == norm(right.split('/')[0]) for w, _ in wrongs):
-            fail('wrong answer equals right answer', line)
-        if kind == 'wb':
-            bank = [right] + [w for w, _ in wrongs[:2]]
-            rng.shuffle(bank)
-            return new_question(lv, 'word-bank', 'vocabulary', [cat], 'Complete the sentence with words from the box.', expl, bank=bank, text=sent,
-                                answers=[right], wrongReasons={w: r for w, r in wrongs[:2]})
-        if kind == 'mc':
-            options = [right] + [w for w, _ in wrongs[:3]]
-            rng.shuffle(options)
-            return new_question(lv, 'multiple-choice', 'vocabulary', [cat], sent, expl, options=options, correct=options.index(right),
-                                wrongReasons={str(options.index(w)): r for w, r in wrongs[:3]})
-        answers = [a.strip() for a in right.split('/')]
-        return new_question(lv, 'fill-blank', 'vocabulary', [cat], f'Complete the sentence. The missing word starts with "{answers[0][0]}".', expl, text=sent,
-                            answers=[answers], wrongReasons={w: r for w, r in wrongs})
-    if kind == 'sc':
-        right = f[2]
-        wrongs = pairs(f[3:-1], line, 2)
-        expl = f[-1]
-        options = [right] + [w for w, _ in wrongs[:2]]
-        if len(set(options)) != len(options):
-            fail('repeated option', line)
-        rng.shuffle(options)
-        return new_question(lv, 'sentence-choice', 'vocabulary', [cat], 'Which sentence is correct?', expl, options=options, correct=options.index(right),
-                            wrongReasons={str(options.index(w)): r for w, r in wrongs[:2]})
-    if kind == 'oo':
-        label, words, odd, expl = f[2], [w.strip() for w in f[3].split(',')], f[4], f[5]
-        if len(words) != 3 or odd in words or len(set(words + [odd])) != 4:
-            fail('odd-one-out needs 3 words and a different odd word', line)
-        options = words + [odd]
-        rng.shuffle(options)
-        return new_question(lv, 'odd-one-out', 'vocabulary', [cat], 'Which word does not belong to the group?', expl, options=options, correct=options.index(odd), category=label)
-    fail('unknown kind', line)
 
 
 def is_mechanical_weak(q):
@@ -105,7 +40,6 @@ def original_ids(level, base_ref):
     return ids
 
 
-TYPE_OF = {'wb': 'word-bank', 'mc': 'multiple-choice', 'fb': 'fill-blank', 'sc': 'sentence-choice', 'oo': 'odd-one-out'}
 
 
 def main():
