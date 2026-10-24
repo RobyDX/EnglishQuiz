@@ -1,2 +1,5 @@
 node_modules/
 *.local
+
+# Credenziali FTP per il deploy (non versionare)
+deploy/ftp-config.json
