@@ -163,32 +163,6 @@
       ]
     },
     {
-      "id": "b1-wb-007",
-      "type": "word-bank",
-      "level": "B1",
-      "topic": "conditionals",
-      "topics": [
-        "conditionals-wishes"
-      ],
-      "prompt": "Complete the sentence with words from the box.",
-      "explanation": "Zero conditional: if + present simple, present simple for things that are always true. Example: 'If you drop glass, it breaks.'",
-      "wrongReasons": {
-        "melted": "'melted' is past. Facts that are always true use the present simple.",
-        "melting": "'melting' needs 'is' before it. 'it melting' is not a complete verb.",
-        "melt": "With 'it' the present simple needs -s: 'it melts', not 'it melt'."
-      },
-      "bank": [
-        "melts",
-        "melting",
-        "melted",
-        "melt"
-      ],
-      "text": "If you heat ice, it ___.",
-      "answers": [
-        "melts"
-      ]
-    },
-    {
       "id": "b1-wb-008",
       "type": "word-bank",
       "level": "B1",
@@ -1193,32 +1167,6 @@
       ]
     },
     {
-      "id": "b1-wb-046",
-      "type": "word-bank",
-      "level": "B1",
-      "topic": "linkers",
-      "topics": [
-        "gerunds-infinitives-linking"
-      ],
-      "prompt": "Complete the sentence with words from the box.",
-      "explanation": "Use 'because of' + a noun to give a reason. Example: 'We stayed in because of the snow.'",
-      "wrongReasons": {
-        "because": "'because' must be followed by a subject and a verb, for example 'because there was a storm'. Here we only have a noun.",
-        "although": "'although' shows a contrast and needs a full clause. The storm is the reason, not a contrast.",
-        "so": "'so' introduces a result with a full clause. The storm is the cause, not the result."
-      },
-      "bank": [
-        "although",
-        "so",
-        "because of",
-        "because"
-      ],
-      "text": "The flight was cancelled ___ the storm.",
-      "answers": [
-        "because of"
-      ]
-    },
-    {
       "id": "b1-wb-047",
       "type": "word-bank",
       "level": "B1",
@@ -1532,32 +1480,6 @@
       "text": "I'd like to ___ a table for two for Saturday evening.",
       "answers": [
         "book"
-      ]
-    },
-    {
-      "id": "b1-wb-059",
-      "type": "word-bank",
-      "level": "B1",
-      "topic": "conditionals",
-      "topics": [
-        "conditionals-wishes"
-      ],
-      "prompt": "Complete the sentence with words from the box.",
-      "explanation": "First conditional: if + present simple, will + verb. Example: 'If she calls, I will tell her.'",
-      "wrongReasons": {
-        "will rain": "We don't use 'will' in the 'if' part of a first conditional, even about the future.",
-        "rained": "'rained' is past. With 'will' in the main clause, the 'if' part uses the present simple.",
-        "raining": "'raining' is not a full verb here. You would need 'is raining', and the simple form is better."
-      },
-      "bank": [
-        "rained",
-        "will rain",
-        "rains",
-        "raining"
-      ],
-      "text": "If it ___ tomorrow, we will stay at home.",
-      "answers": [
-        "rains"
       ]
     },
     {
@@ -1978,32 +1900,6 @@
       "text": "You ___ wear a seatbelt in the car. It's the law.",
       "answers": [
         "must"
-      ]
-    },
-    {
-      "id": "b1-wb-076",
-      "type": "word-bank",
-      "level": "B1",
-      "topic": "relative-clauses",
-      "topics": [
-        "pronouns-relative-clauses"
-      ],
-      "prompt": "Complete the sentence with words from the box.",
-      "explanation": "Use 'where' for places when it means 'in/at that place'. Example: 'That's the café where we met.'",
-      "wrongReasons": {
-        "who": "'who' is used for people, but a hotel is a place.",
-        "which": "'which' needs a preposition here ('in which'), because we stayed IN the hotel. Without 'in', it is wrong.",
-        "whose": "'whose' shows possession and needs a noun after it."
-      },
-      "bank": [
-        "which",
-        "where",
-        "whose",
-        "who"
-      ],
-      "text": "This is the hotel ___ we stayed last summer.",
-      "answers": [
-        "where"
       ]
     },
     {
@@ -2633,6 +2529,3702 @@
       "answers": [
         "should"
       ]
+    },
+    {
+      "id": "b1-wb-101",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Through\" is used for villages or tunnels.",
+      "bank": [
+        "across",
+        "along",
+        "through"
+      ],
+      "text": "We drove ___ a small village on our way to the coast.",
+      "answers": [
+        "through"
+      ],
+      "wrongReasons": {
+        "across": "\"Across\" is used for surfaces.",
+        "along": "\"Along\" follows the length of something."
+      }
+    },
+    {
+      "id": "b1-wb-102",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Herself\" is reflexive.",
+      "bank": [
+        "she",
+        "herself",
+        "her"
+      ],
+      "text": "She looked at ___ in the mirror and smiled.",
+      "answers": [
+        "herself"
+      ],
+      "wrongReasons": {
+        "her": "\"Her\" would refer to another person.",
+        "she": "\"She\" is a subject pronoun."
+      }
+    },
+    {
+      "id": "b1-wb-103",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Make a complaint\" is the standard collocation.",
+      "bank": [
+        "have",
+        "make",
+        "do"
+      ],
+      "text": "I'd like to ___ a complaint about the service.",
+      "answers": [
+        "make"
+      ],
+      "wrongReasons": {
+        "do": "\"Do a complaint\" is not used.",
+        "have": "\"Have a complaint\" means you possess one."
+      }
+    },
+    {
+      "id": "b1-wb-104",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"At\" is used with clock times.",
+      "bank": [
+        "in",
+        "at",
+        "on"
+      ],
+      "text": "I'll be at home ___ six o'clock, so call me then.",
+      "answers": [
+        "at"
+      ],
+      "wrongReasons": {
+        "on": "\"On\" is used with days.",
+        "in": "\"In\" is used with months."
+      }
+    },
+    {
+      "id": "b1-wb-105",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"For\" is followed by a period of time.",
+      "bank": [
+        "for",
+        "since",
+        "from"
+      ],
+      "text": "They've lived in this house ___ more than twenty years.",
+      "answers": [
+        "for"
+      ],
+      "wrongReasons": {
+        "since": "\"Since\" is followed by a point in time.",
+        "from": "\"From\" needs an end point."
+      }
+    },
+    {
+      "id": "b1-wb-106",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"In\" is used with years.",
+      "bank": [
+        "on",
+        "at",
+        "in"
+      ],
+      "text": "She was born ___ 1990 in a small town.",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "on": "\"On\" is used with days.",
+        "at": "\"At\" is used with clock times."
+      }
+    },
+    {
+      "id": "b1-wb-107",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Turn down\" means to refuse.",
+      "bank": [
+        "turn on",
+        "turn up",
+        "turn down"
+      ],
+      "text": "He decided to ___ the offer because the pay was too low.",
+      "answers": [
+        "turn down"
+      ],
+      "wrongReasons": {
+        "turn up": "\"Turn up\" means to arrive or increase.",
+        "turn on": "\"Turn on\" means to switch on."
+      }
+    },
+    {
+      "id": "b1-wb-108",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "A cottage is a small house.",
+      "bank": [
+        "palace",
+        "castle",
+        "cottage"
+      ],
+      "text": "We stayed in a small ___ on the coast.",
+      "answers": [
+        "cottage"
+      ],
+      "wrongReasons": {
+        "castle": "A castle is a fortress.",
+        "palace": "A palace is a royal home."
+      }
+    },
+    {
+      "id": "b1-wb-109",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Who\" is used for people.",
+      "bank": [
+        "whose",
+        "who",
+        "which"
+      ],
+      "text": "The man ___ was driving the car was drunk.",
+      "answers": [
+        "who"
+      ],
+      "wrongReasons": {
+        "which": "\"Which\" is used for things.",
+        "whose": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "b1-wb-110",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Unless\" means \"if not\".",
+      "bank": [
+        "unless",
+        "if",
+        "although"
+      ],
+      "text": "You'll miss the train ___ you hurry.",
+      "answers": [
+        "unless"
+      ],
+      "wrongReasons": {
+        "if": "\"If\" would reverse the meaning.",
+        "although": "\"Although\" shows contrast."
+      }
+    },
+    {
+      "id": "b1-wb-111",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Whom\" is the formal object pronoun.",
+      "bank": [
+        "whose",
+        "who",
+        "whom"
+      ],
+      "text": "He is the only person ___ I trust.",
+      "answers": [
+        "whom"
+      ],
+      "wrongReasons": {
+        "who": "\"Who\" is possible but \"whom\" is the formal object form.",
+        "whose": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "b1-wb-112",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"My\" shows that the umbrella belongs to the speaker.",
+      "bank": [
+        "the",
+        "my",
+        "a"
+      ],
+      "text": "I've lost ___ umbrella. Have you seen it?",
+      "answers": [
+        "my"
+      ],
+      "wrongReasons": {
+        "a": "\"A\" would mean any umbrella, but the speaker owns it.",
+        "the": "\"The\" does not show ownership."
+      }
+    },
+    {
+      "id": "b1-wb-113",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"So ... that\" expresses a result.",
+      "bank": [
+        "too",
+        "such",
+        "so"
+      ],
+      "text": "It's ___ hot that I can't sleep.",
+      "answers": [
+        "so"
+      ],
+      "wrongReasons": {
+        "such": "\"Such\" is followed by a noun phrase.",
+        "too": "\"Too\" does not introduce a result."
+      }
+    },
+    {
+      "id": "b1-wb-114",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Put on\" means to wear.",
+      "bank": [
+        "put on",
+        "put out",
+        "put off"
+      ],
+      "text": "She ___ her coat and left.",
+      "answers": [
+        "put on"
+      ],
+      "wrongReasons": {
+        "put off": "\"Put off\" means to delay.",
+        "put out": "\"Put out\" means to extinguish."
+      }
+    },
+    {
+      "id": "b1-wb-115",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Tired of\" means bored with.",
+      "bank": [
+        "from",
+        "of",
+        "with"
+      ],
+      "text": "I'm tired ___ working so many hours.",
+      "answers": [
+        "of"
+      ],
+      "wrongReasons": {
+        "from": "\"Tired from\" is used after physical effort.",
+        "with": "\"Tired with\" is not the standard combination."
+      }
+    },
+    {
+      "id": "b1-wb-116",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Left\" is used with a place.",
+      "bank": [
+        "missed",
+        "left",
+        "forgot"
+      ],
+      "text": "He ___ his keys on the bus and had to call a locksmith.",
+      "answers": [
+        "left"
+      ],
+      "wrongReasons": {
+        "forgot": "\"Forgot\" does not take a place.",
+        "missed": "\"Missed\" means failed to catch."
+      }
+    },
+    {
+      "id": "b1-wb-117",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Apologise for\" + gerund.",
+      "bank": [
+        "for",
+        "of",
+        "to"
+      ],
+      "text": "She apologised ___ being late for the lesson.",
+      "answers": [
+        "for"
+      ],
+      "wrongReasons": {
+        "of": "\"Apologise of\" is not correct.",
+        "to": "\"Apologise to\" is followed by a person."
+      }
+    },
+    {
+      "id": "b1-wb-118",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Create a spreadsheet\" is standard.",
+      "bank": [
+        "do up",
+        "make up",
+        "create"
+      ],
+      "text": "Do you know how to ___ a spreadsheet?",
+      "answers": [
+        "create"
+      ],
+      "wrongReasons": {
+        "make up": "\"Make up\" means to invent.",
+        "do up": "\"Do up\" means to fasten or renovate."
+      }
+    },
+    {
+      "id": "b1-wb-119",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Eat out\" means to eat in a restaurant.",
+      "bank": [
+        "eat",
+        "cook",
+        "feed"
+      ],
+      "text": "I can't afford to ___ out every weekend.",
+      "answers": [
+        "eat"
+      ],
+      "wrongReasons": {
+        "feed": "\"Feed\" requires an object.",
+        "cook": "\"Cook out\" has a different meaning."
+      }
+    },
+    {
+      "id": "b1-wb-120",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Which\" refers to things.",
+      "bank": [
+        "which",
+        "whose",
+        "who"
+      ],
+      "text": "The bag ___ I found on the train belongs to a student.",
+      "answers": [
+        "which"
+      ],
+      "wrongReasons": {
+        "who": "\"Who\" refers to people.",
+        "whose": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "b1-wb-121",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"That\" introduces a defining clause for things.",
+      "bank": [
+        "whose",
+        "who",
+        "that"
+      ],
+      "text": "I'm looking for a job ___ pays more money.",
+      "answers": [
+        "that"
+      ],
+      "wrongReasons": {
+        "who": "\"Who\" is used for people.",
+        "whose": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "b1-wb-122",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Carry on\" means to continue.",
+      "bank": [
+        "on",
+        "off",
+        "out"
+      ],
+      "text": "The boss told us to carry ___ with our work.",
+      "answers": [
+        "on"
+      ],
+      "wrongReasons": {
+        "out": "\"Carry out\" means to perform.",
+        "off": "\"Carry off\" means to succeed."
+      }
+    },
+    {
+      "id": "b1-wb-123",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Good at\" is used for skills.",
+      "bank": [
+        "on",
+        "in",
+        "at"
+      ],
+      "text": "He's very good ___ drawing.",
+      "answers": [
+        "at"
+      ],
+      "wrongReasons": {
+        "in": "\"Good in\" is not used for skills.",
+        "on": "\"Good on\" has a different meaning."
+      }
+    },
+    {
+      "id": "b1-wb-124",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "A neighbour lives next door.",
+      "bank": [
+        "stranger",
+        "landlord",
+        "neighbour"
+      ],
+      "text": "A ___ is someone who lives in the flat next to yours.",
+      "answers": [
+        "neighbour"
+      ],
+      "wrongReasons": {
+        "stranger": "A stranger is unknown.",
+        "landlord": "A landlord owns the flat."
+      }
+    },
+    {
+      "id": "b1-wb-125",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Look up\" means to search for information.",
+      "bank": [
+        "look for",
+        "look after",
+        "look up"
+      ],
+      "text": "I'm not sure what this word means. I'll ___ it in a dictionary.",
+      "answers": [
+        "look up"
+      ],
+      "wrongReasons": {
+        "look after": "\"Look after\" means to take care of.",
+        "look for": "\"Look for\" means to search."
+      }
+    },
+    {
+      "id": "b1-wb-126",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"If I were\" is an unreal situation.",
+      "bank": [
+        "will be",
+        "were",
+        "am"
+      ],
+      "text": "If I ___ rich, I would buy a house by the sea.",
+      "answers": [
+        "were"
+      ],
+      "wrongReasons": {
+        "am": "The second conditional needs a past form.",
+        "will be": "\"Will\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b1-wb-127",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Since\" is followed by a point in time.",
+      "bank": [
+        "from",
+        "since",
+        "for"
+      ],
+      "text": "She has been working here ___ 2018.",
+      "answers": [
+        "since"
+      ],
+      "wrongReasons": {
+        "for": "\"For\" is followed by a length of time.",
+        "from": "\"From\" needs an end point."
+      }
+    },
+    {
+      "id": "b1-wb-128",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Each other\" is the reciprocal pronoun.",
+      "bank": [
+        "other",
+        "another",
+        "others"
+      ],
+      "text": "They have been married for twenty years and still love each ___.",
+      "answers": [
+        "other"
+      ],
+      "wrongReasons": {
+        "another": "\"Another\" does not fit with \"each\".",
+        "others": "\"Others\" is not used with \"each\"."
+      }
+    },
+    {
+      "id": "b1-wb-129",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Unless\" means \"if not\".",
+      "bank": [
+        "unless",
+        "if",
+        "although"
+      ],
+      "text": "We won't go to the beach ___ it stops raining.",
+      "answers": [
+        "unless"
+      ],
+      "wrongReasons": {
+        "if": "\"If\" would change the meaning to the opposite.",
+        "although": "\"Although\" shows contrast."
+      }
+    },
+    {
+      "id": "b1-wb-130",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Opposite\" means facing.",
+      "bank": [
+        "behind",
+        "opposite",
+        "against"
+      ],
+      "text": "She sat ___ me at the dinner table.",
+      "answers": [
+        "opposite"
+      ],
+      "wrongReasons": {
+        "against": "\"Against\" means touching in opposition.",
+        "behind": "\"Behind\" means at the back."
+      }
+    },
+    {
+      "id": "b1-wb-131",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Arrive at\" is used with places.",
+      "bank": [
+        "in",
+        "at",
+        "to"
+      ],
+      "text": "The train arrived ___ platform four.",
+      "answers": [
+        "at"
+      ],
+      "wrongReasons": {
+        "in": "\"In platform\" is not used.",
+        "to": "\"Arrive\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "b1-wb-132",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Had studied\" is the past perfect.",
+      "bank": [
+        "had studied",
+        "studied",
+        "would study"
+      ],
+      "text": "If he ___ harder, he would have passed the test.",
+      "answers": [
+        "had studied"
+      ],
+      "wrongReasons": {
+        "studied": "A third conditional needs the past perfect.",
+        "would study": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b1-wb-133",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Interested in\" + gerund.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "I'm interested ___ joining the drama club.",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "on": "\"Interested on\" is not correct.",
+        "at": "\"Interested at\" is not correct."
+      }
+    },
+    {
+      "id": "b1-wb-134",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"The only\" is a fixed combination.",
+      "bank": [
+        "an",
+        "a",
+        "the"
+      ],
+      "text": "He's ___ only one who knows the answer.",
+      "answers": [
+        "the"
+      ],
+      "wrongReasons": {
+        "an": "\"Only\" requires \"the\".",
+        "a": "\"a\" does not work here, because \"Only\" requires \"the\"."
+      }
+    },
+    {
+      "id": "b1-wb-135",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Have never seen\" is the present perfect.",
+      "bank": [
+        "did",
+        "had",
+        "have"
+      ],
+      "text": "I ___ never seen such a big spider before.",
+      "answers": [
+        "have"
+      ],
+      "wrongReasons": {
+        "had": "\"Never ... before\" with a present link needs \"have\".",
+        "did": "\"Did never seen\" is not grammatical."
+      }
+    },
+    {
+      "id": "b1-wb-136",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"On my mobile\" is the usual expression.",
+      "bank": [
+        "at",
+        "on",
+        "in"
+      ],
+      "text": "You can reach me ___ my mobile.",
+      "answers": [
+        "on"
+      ],
+      "wrongReasons": {
+        "in": "\"In my mobile\" is not used.",
+        "at": "\"At\" is used with a number but not with this phrase."
+      }
+    },
+    {
+      "id": "b1-wb-137",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"An\" is used before a vowel sound.",
+      "bank": [
+        "the",
+        "a",
+        "an"
+      ],
+      "text": "He told us ___ interesting story about his childhood.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"Interesting\" begins with a vowel sound.",
+        "the": "\"The\" refers to a known story."
+      }
+    },
+    {
+      "id": "b1-wb-138",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Have increased\" is the present perfect.",
+      "bank": [
+        "increases",
+        "increasing",
+        "increased"
+      ],
+      "text": "Sales have ___ by ten per cent this year.",
+      "answers": [
+        "increased"
+      ],
+      "wrongReasons": {
+        "increasing": "A finite verb is needed.",
+        "increases": "Present perfect needs \"have\"."
+      }
+    },
+    {
+      "id": "b1-wb-139",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Throw a party\" is the standard collocation.",
+      "bank": [
+        "throw",
+        "pull",
+        "cast"
+      ],
+      "text": "We're planning to ___ a surprise party for her.",
+      "answers": [
+        "throw"
+      ],
+      "wrongReasons": {
+        "cast": "\"Cast a party\" is not used.",
+        "pull": "\"Pull a party\" is not used."
+      }
+    },
+    {
+      "id": "b1-wb-140",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Since\" is followed by a point in time.",
+      "bank": [
+        "for",
+        "from",
+        "since"
+      ],
+      "text": "She's been ill ___ Monday.",
+      "answers": [
+        "since"
+      ],
+      "wrongReasons": {
+        "for": "\"For\" is followed by a length of time.",
+        "from": "\"From\" needs an end point."
+      }
+    },
+    {
+      "id": "b1-wb-141",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The past continuous shows an action in progress.",
+      "bank": [
+        "laid",
+        "has laid",
+        "was laying"
+      ],
+      "text": "She ___ the table while her husband was cooking.",
+      "answers": [
+        "was laying"
+      ],
+      "wrongReasons": {
+        "laid": "A longer action alongside another needs the past continuous.",
+        "has laid": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "b1-wb-142",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The comparative of \"cheap\" is \"cheaper\".",
+      "bank": [
+        "cheap",
+        "cheaper",
+        "cheapest"
+      ],
+      "text": "The cinema is ___ than the theatre.",
+      "answers": [
+        "cheaper"
+      ],
+      "wrongReasons": {
+        "cheap": "A comparison with \"than\" needs a comparative form.",
+        "cheapest": "The superlative does not fit \"than\"."
+      }
+    },
+    {
+      "id": "b1-wb-143",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Must be finished\" is the passive.",
+      "bank": [
+        "finished",
+        "finish",
+        "finishing"
+      ],
+      "text": "The report must be ___ by Friday.",
+      "answers": [
+        "finished"
+      ],
+      "wrongReasons": {
+        "finish": "After \"be\" use a participle.",
+        "finishing": "\"Be finishing\" is not a passive."
+      }
+    },
+    {
+      "id": "b1-wb-144",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After \"to\" the verb is in the base form.",
+      "bank": [
+        "opening",
+        "opened",
+        "open"
+      ],
+      "text": "The teacher asked us to ___ our books at page twenty.",
+      "answers": [
+        "open"
+      ],
+      "wrongReasons": {
+        "opened": "After \"to\" use the base form.",
+        "opening": "\"opening\" does not work here, because after \"to\" use the base form."
+      }
+    },
+    {
+      "id": "b1-wb-145",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Some\" can be used with uncountable nouns.",
+      "bank": [
+        "some",
+        "a",
+        "many"
+      ],
+      "text": "She asked me for ___ money to buy a ticket.",
+      "answers": [
+        "some"
+      ],
+      "wrongReasons": {
+        "a": "\"A\" cannot be used with an uncountable noun.",
+        "many": "\"Many\" is used with plural nouns."
+      }
+    },
+    {
+      "id": "b1-wb-146",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Can't have\" expresses a negative deduction.",
+      "bank": [
+        "can't",
+        "must",
+        "should"
+      ],
+      "text": "She ___ have forgotten the appointment. She is always so careful.",
+      "answers": [
+        "can't"
+      ],
+      "wrongReasons": {
+        "must": "\"Must have\" would contradict the evidence.",
+        "should": "\"Should have\" expresses regret."
+      }
+    },
+    {
+      "id": "b1-wb-147",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Take off\" is used for planes.",
+      "bank": [
+        "put",
+        "take",
+        "get"
+      ],
+      "text": "The pilot said we would ___ off in ten minutes.",
+      "answers": [
+        "take"
+      ],
+      "wrongReasons": {
+        "get": "\"Get off\" means to leave a vehicle.",
+        "put": "\"Put off\" means to delay."
+      }
+    },
+    {
+      "id": "b1-wb-148",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Take care of\" means to be responsible for.",
+      "bank": [
+        "make",
+        "do",
+        "take"
+      ],
+      "text": "Don't worry. I'll ___ care of everything.",
+      "answers": [
+        "take"
+      ],
+      "wrongReasons": {
+        "make": "\"Make care\" is not a collocation.",
+        "do": "\"Do care\" is not a collocation."
+      }
+    },
+    {
+      "id": "b1-wb-149",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Opposite\" means facing.",
+      "bank": [
+        "against",
+        "between",
+        "opposite"
+      ],
+      "text": "You can't miss the hotel; it's right ___ the station.",
+      "answers": [
+        "opposite"
+      ],
+      "wrongReasons": {
+        "against": "\"Against\" means touching in opposition.",
+        "between": "\"Between\" needs two things."
+      }
+    },
+    {
+      "id": "b1-wb-150",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Must\" expresses a rule.",
+      "bank": [
+        "could",
+        "might",
+        "must"
+      ],
+      "text": "Children ___ be accompanied by an adult in the swimming pool.",
+      "answers": [
+        "must"
+      ],
+      "wrongReasons": {
+        "might": "\"Might\" expresses possibility.",
+        "could": "\"Could\" expresses possibility."
+      }
+    },
+    {
+      "id": "b1-wb-151",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Work from home\" is standard.",
+      "bank": [
+        "do",
+        "work",
+        "make"
+      ],
+      "text": "Many people prefer to ___ from home.",
+      "answers": [
+        "work"
+      ],
+      "wrongReasons": {
+        "make": "\"Make from home\" is not used.",
+        "do": "\"Do from home\" is not used."
+      }
+    },
+    {
+      "id": "b1-wb-152",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The comparative is \"cleaner\".",
+      "bank": [
+        "cleanest",
+        "cleaner",
+        "clean"
+      ],
+      "text": "The hotel was ___ than we expected.",
+      "answers": [
+        "cleaner"
+      ],
+      "wrongReasons": {
+        "clean": "A comparison needs a comparative form.",
+        "cleanest": "The superlative does not fit \"than\"."
+      }
+    },
+    {
+      "id": "b1-wb-153",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Anybody\" is used after a negative verb.",
+      "bank": [
+        "nobody",
+        "anybody",
+        "somebody"
+      ],
+      "text": "I don't know ___ here. Everybody is a stranger.",
+      "answers": [
+        "anybody"
+      ],
+      "wrongReasons": {
+        "somebody": "\"Somebody\" is used in positive sentences.",
+        "nobody": "\"Nobody\" would create a double negative."
+      }
+    },
+    {
+      "id": "b1-wb-154",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Recover from\".",
+      "bank": [
+        "from",
+        "of",
+        "by"
+      ],
+      "text": "The patient is recovering ___ the operation.",
+      "answers": [
+        "from"
+      ],
+      "wrongReasons": {
+        "by": "\"Recover by\" is not correct.",
+        "of": "\"Recover of\" is not correct."
+      }
+    },
+    {
+      "id": "b1-wb-155",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"An\" is used before a vowel sound.",
+      "bank": [
+        "the",
+        "a",
+        "an"
+      ],
+      "text": "It was ___ interesting exhibition about modern art.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"Interesting\" begins with a vowel sound.",
+        "the": "\"The\" would refer to a known exhibition."
+      }
+    },
+    {
+      "id": "b1-wb-156",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Neither of the boys\" is the correct structure.",
+      "bank": [
+        "an",
+        "a",
+        "the"
+      ],
+      "text": "Neither of ___ boys wanted to go.",
+      "answers": [
+        "the"
+      ],
+      "wrongReasons": {
+        "an": "\"An\" cannot go with a plural noun.",
+        "a": "\"A\" cannot go with a plural noun."
+      }
+    },
+    {
+      "id": "b1-wb-157",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Cause\" links an action to its result.",
+      "bank": [
+        "make",
+        "cause",
+        "do"
+      ],
+      "text": "Doctors say that smoking can ___ lung cancer.",
+      "answers": [
+        "cause"
+      ],
+      "wrongReasons": {
+        "make": "\"Make cancer\" is not a collocation.",
+        "do": "\"Do cancer\" is not a collocation."
+      }
+    },
+    {
+      "id": "b1-wb-158",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Whose\" shows possession.",
+      "bank": [
+        "which",
+        "whose",
+        "who"
+      ],
+      "text": "The man ___ car was stolen is very upset.",
+      "answers": [
+        "whose"
+      ],
+      "wrongReasons": {
+        "who": "\"Who\" cannot show possession.",
+        "which": "\"Which\" is used for things."
+      }
+    },
+    {
+      "id": "b1-wb-159",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"That\" can introduce a defining relative clause for things.",
+      "bank": [
+        "that",
+        "who",
+        "whose"
+      ],
+      "text": "The book ___ you lent me was fantastic.",
+      "answers": [
+        "that"
+      ],
+      "wrongReasons": {
+        "who": "\"Who\" refers to people.",
+        "whose": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "b1-wb-160",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Look forward to\" + gerund.",
+      "bank": [
+        "starting",
+        "to starting",
+        "to start"
+      ],
+      "text": "She is looking forward ___ her new school.",
+      "answers": [
+        "to starting"
+      ],
+      "wrongReasons": {
+        "to start": "\"To\" is a preposition here.",
+        "starting": "\"To\" is missing."
+      }
+    },
+    {
+      "id": "b1-wb-161",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Took off\" is the past of \"take off\".",
+      "bank": [
+        "take",
+        "taken",
+        "took"
+      ],
+      "text": "The plane ___ off an hour late because of the storm.",
+      "answers": [
+        "took"
+      ],
+      "wrongReasons": {
+        "take": "The sentence is in the past.",
+        "taken": "\"Taken\" needs an auxiliary."
+      }
+    },
+    {
+      "id": "b1-wb-162",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Every\" is followed by a singular noun.",
+      "bank": [
+        "All",
+        "Every",
+        "Both"
+      ],
+      "text": "___ student has to wear a uniform at this school.",
+      "answers": [
+        "Every"
+      ],
+      "wrongReasons": {
+        "All": "\"All\" is followed by a plural noun.",
+        "Both": "\"Both\" is used for two."
+      }
+    },
+    {
+      "id": "b1-wb-163",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"No lessons\" means there are none.",
+      "bank": [
+        "no",
+        "any",
+        "much"
+      ],
+      "text": "We have ___ lessons on Friday afternoon.",
+      "answers": [
+        "no"
+      ],
+      "wrongReasons": {
+        "any": "\"Any\" needs a negative verb.",
+        "much": "\"Much\" is used with uncountable nouns."
+      }
+    },
+    {
+      "id": "b1-wb-164",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "A return ticket is for both directions.",
+      "bank": [
+        "open",
+        "return",
+        "single"
+      ],
+      "text": "A ___ ticket allows you to travel there and back.",
+      "answers": [
+        "return"
+      ],
+      "wrongReasons": {
+        "single": "A single ticket is one way.",
+        "open": "An open ticket has no fixed date."
+      }
+    },
+    {
+      "id": "b1-wb-165",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Either\" means one or the other.",
+      "bank": [
+        "both",
+        "either",
+        "neither"
+      ],
+      "text": "I don't mind ___ of these two films. They both look good.",
+      "answers": [
+        "either"
+      ],
+      "wrongReasons": {
+        "neither": "\"Neither\" has a negative meaning.",
+        "both": "\"Both\" would change the structure."
+      }
+    },
+    {
+      "id": "b1-wb-166",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Stay with someone\" is the standard combination.",
+      "bank": [
+        "by",
+        "at",
+        "with"
+      ],
+      "text": "I'm staying ___ my cousin for a week.",
+      "answers": [
+        "with"
+      ],
+      "wrongReasons": {
+        "at": "\"At my cousin\" is incomplete.",
+        "by": "\"By my cousin\" has another meaning."
+      }
+    },
+    {
+      "id": "b1-wb-167",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Anybody\" is used after a negative verb.",
+      "bank": [
+        "anybody",
+        "nobody",
+        "somebody"
+      ],
+      "text": "I didn't talk to ___ about the problem.",
+      "answers": [
+        "anybody"
+      ],
+      "wrongReasons": {
+        "somebody": "\"Somebody\" is used in positive sentences.",
+        "nobody": "\"Nobody\" would create a double negative."
+      }
+    },
+    {
+      "id": "b1-wb-168",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Will be opened\" is the future passive.",
+      "bank": [
+        "will be",
+        "is going",
+        "will"
+      ],
+      "text": "The new library ___ opened by the mayor next week.",
+      "answers": [
+        "will be"
+      ],
+      "wrongReasons": {
+        "will": "The passive needs \"be\".",
+        "is going": "This is not a passive form."
+      }
+    },
+    {
+      "id": "b1-wb-169",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Lose weight\" is the standard collocation.",
+      "bank": [
+        "win",
+        "lose",
+        "miss"
+      ],
+      "text": "I'm trying to ___ weight before the summer.",
+      "answers": [
+        "lose"
+      ],
+      "wrongReasons": {
+        "win": "\"Win weight\" is not used.",
+        "miss": "\"Miss weight\" is not used."
+      }
+    },
+    {
+      "id": "b1-wb-170",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Knew\" is the past simple.",
+      "bank": [
+        "known",
+        "knew",
+        "knows"
+      ],
+      "text": "Nobody ___ the answer, so the teacher explained it.",
+      "answers": [
+        "knew"
+      ],
+      "wrongReasons": {
+        "knows": "The sentence is in the past.",
+        "known": "\"Known\" needs an auxiliary."
+      }
+    },
+    {
+      "id": "b1-wb-171",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Some\" can be used with uncountable nouns.",
+      "bank": [
+        "some",
+        "an",
+        "a"
+      ],
+      "text": "I'd like ___ information about the trains to Madrid.",
+      "answers": [
+        "some"
+      ],
+      "wrongReasons": {
+        "an": "\"Information\" is uncountable.",
+        "a": "\"a\" does not work here, because \"Information\" is uncountable."
+      }
+    },
+    {
+      "id": "b1-wb-172",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Neither of\" takes a singular verb.",
+      "bank": [
+        "are",
+        "were",
+        "is"
+      ],
+      "text": "Neither of the two answers ___ correct.",
+      "answers": [
+        "is"
+      ],
+      "wrongReasons": {
+        "are": "\"Neither of\" usually takes a singular verb.",
+        "were": "The sentence is in the present."
+      }
+    },
+    {
+      "id": "b1-wb-173",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Because of\" is followed by a noun phrase.",
+      "bank": [
+        "despite",
+        "because of",
+        "although"
+      ],
+      "text": "We were late ___ the heavy traffic.",
+      "answers": [
+        "because of"
+      ],
+      "wrongReasons": {
+        "although": "\"Although\" shows contrast.",
+        "despite": "\"Despite\" shows contrast."
+      }
+    },
+    {
+      "id": "b1-wb-174",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Draw up a plan\" means to prepare it.",
+      "bank": [
+        "bring",
+        "pull",
+        "draw"
+      ],
+      "text": "We need to ___ up a new plan before the meeting.",
+      "answers": [
+        "draw"
+      ],
+      "wrongReasons": {
+        "pull": "\"Pull up\" means to stop a vehicle.",
+        "bring": "\"Bring up\" means to raise a child."
+      }
+    },
+    {
+      "id": "b1-wb-175",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Much\" is used with uncountable nouns in negatives.",
+      "bank": [
+        "a few",
+        "much",
+        "many"
+      ],
+      "text": "I don't have ___ time to talk now.",
+      "answers": [
+        "much"
+      ],
+      "wrongReasons": {
+        "many": "\"Many\" is used with plural nouns.",
+        "a few": "\"A few\" is used with plural nouns."
+      }
+    },
+    {
+      "id": "b1-wb-176",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Go out\" means to leave home for fun.",
+      "bank": [
+        "come",
+        "go",
+        "get"
+      ],
+      "text": "I have a lot of work, so I can't ___ out tonight.",
+      "answers": [
+        "go"
+      ],
+      "wrongReasons": {
+        "come": "\"Come out\" would suit a different speaker position.",
+        "get": "\"Get out\" has another meaning."
+      }
+    },
+    {
+      "id": "b1-wb-177",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Some\" can be used with uncountable nouns.",
+      "bank": [
+        "some",
+        "a",
+        "an"
+      ],
+      "text": "She asked me for ___ advice about her studies.",
+      "answers": [
+        "some"
+      ],
+      "wrongReasons": {
+        "an": "\"Advice\" is uncountable, so \"an\" is wrong.",
+        "a": "\"Advice\" is uncountable, so \"a\" is wrong."
+      }
+    },
+    {
+      "id": "b1-wb-178",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"By email\" is the standard expression.",
+      "bank": [
+        "by",
+        "in",
+        "with"
+      ],
+      "text": "I'll send you the report ___ email.",
+      "answers": [
+        "by"
+      ],
+      "wrongReasons": {
+        "with": "\"With email\" is not used.",
+        "in": "\"In email\" is not used here."
+      }
+    },
+    {
+      "id": "b1-wb-179",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"At the foot of\" is the fixed expression.",
+      "bank": [
+        "on",
+        "in",
+        "at"
+      ],
+      "text": "The village is ___ the foot of a mountain.",
+      "answers": [
+        "at"
+      ],
+      "wrongReasons": {
+        "on": "\"On the foot\" would refer to a body part.",
+        "in": "\"In the foot\" would refer to a body part."
+      }
+    },
+    {
+      "id": "b1-wb-180",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Had better\" gives strong advice.",
+      "bank": [
+        "would",
+        "had",
+        "should"
+      ],
+      "text": "You ___ better hurry or you'll miss the train.",
+      "answers": [
+        "had"
+      ],
+      "wrongReasons": {
+        "would": "\"Would better\" is not used.",
+        "should": "\"Should better\" is not used."
+      }
+    },
+    {
+      "id": "b1-wb-181",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Delayed\" means late.",
+      "bank": [
+        "cancelled",
+        "stopped",
+        "delayed"
+      ],
+      "text": "The flight was ___ for two hours because of the fog.",
+      "answers": [
+        "delayed"
+      ],
+      "wrongReasons": {
+        "cancelled": "\"Cancelled\" means it did not happen.",
+        "stopped": "\"Stopped\" does not collocate with flights."
+      }
+    },
+    {
+      "id": "b1-wb-182",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Divided into\" shows the result of dividing.",
+      "bank": [
+        "to",
+        "in",
+        "into"
+      ],
+      "text": "The students were divided ___ four groups for the project.",
+      "answers": [
+        "into"
+      ],
+      "wrongReasons": {
+        "in": "\"Divided in\" is less usual than \"into\".",
+        "to": "\"Divided to\" is not correct."
+      }
+    },
+    {
+      "id": "b1-wb-183",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Is hiring\" is the present continuous.",
+      "bank": [
+        "hire",
+        "hired",
+        "hiring"
+      ],
+      "text": "The company is ___ more staff because its business is growing.",
+      "answers": [
+        "hiring"
+      ],
+      "wrongReasons": {
+        "hired": "This needs an auxiliary.",
+        "hire": "This is the base form."
+      }
+    },
+    {
+      "id": "b1-wb-184",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Fond of\" means to like.",
+      "bank": [
+        "like",
+        "fond",
+        "love"
+      ],
+      "text": "She is very ___ of her grandmother and visits her every week.",
+      "answers": [
+        "fond"
+      ],
+      "wrongReasons": {
+        "like": "\"Like of\" is not used.",
+        "love": "\"Love of\" is not used."
+      }
+    },
+    {
+      "id": "b1-wb-185",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Employ\" means to give a job.",
+      "bank": [
+        "uses",
+        "employs",
+        "hires up"
+      ],
+      "text": "The company ___ more than a thousand people.",
+      "answers": [
+        "employs"
+      ],
+      "wrongReasons": {
+        "uses": "\"Use\" does not fit people.",
+        "hires up": "\"Hires up\" is not used."
+      }
+    },
+    {
+      "id": "b1-wb-186",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Wash up\" means to clean dishes.",
+      "bank": [
+        "washes out",
+        "washes up",
+        "washes in"
+      ],
+      "text": "He often ___ the dishes after dinner.",
+      "answers": [
+        "washes up"
+      ],
+      "wrongReasons": {
+        "washes out": "\"Wash out\" refers to removing a stain.",
+        "washes in": "\"Wash in\" is not used."
+      }
+    },
+    {
+      "id": "b1-wb-187",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"So ... that\" expresses a result.",
+      "bank": [
+        "so",
+        "too",
+        "such"
+      ],
+      "text": "He is ___ clever that he passed every exam easily.",
+      "answers": [
+        "so"
+      ],
+      "wrongReasons": {
+        "such": "\"Such\" is followed by a noun phrase.",
+        "too": "\"Too\" does not express a result."
+      }
+    },
+    {
+      "id": "b1-wb-188",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Arrive in\" is used with cities.",
+      "bank": [
+        "to",
+        "at",
+        "in"
+      ],
+      "text": "The plane arrived ___ Madrid half an hour late.",
+      "answers": [
+        "in"
+      ],
+      "wrongReasons": {
+        "at": "\"At\" is used with small places or buildings.",
+        "to": "\"Arrive to\" is not used."
+      }
+    },
+    {
+      "id": "b1-wb-189",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After \"seem\" we use an adjective.",
+      "bank": [
+        "tired",
+        "tire",
+        "tiring"
+      ],
+      "text": "He seems ___ today. Is he ill?",
+      "answers": [
+        "tired"
+      ],
+      "wrongReasons": {
+        "tire": "This is a verb or a noun.",
+        "tiring": "It describes what causes tiredness."
+      }
+    },
+    {
+      "id": "b1-wb-190",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Wonderful\" is the adjective.",
+      "bank": [
+        "wondering",
+        "wonder",
+        "wonderful"
+      ],
+      "text": "They had a ___ time at the party and danced all night.",
+      "answers": [
+        "wonderful"
+      ],
+      "wrongReasons": {
+        "wonder": "\"Wonder\" is a noun or verb.",
+        "wondering": "\"Wondering\" is a participle."
+      }
+    },
+    {
+      "id": "b1-wb-191",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"At home\" is the fixed expression.",
+      "bank": [
+        "at",
+        "in",
+        "on"
+      ],
+      "text": "He is not ___ home at the moment.",
+      "answers": [
+        "at"
+      ],
+      "wrongReasons": {
+        "in": "\"In home\" is not used in this fixed way.",
+        "on": "\"On home\" is not used."
+      }
+    },
+    {
+      "id": "b1-wb-192",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The comparative of \"well\" is \"better\".",
+      "bank": [
+        "best",
+        "better",
+        "good"
+      ],
+      "text": "She plays the guitar ___ than her brother.",
+      "answers": [
+        "better"
+      ],
+      "wrongReasons": {
+        "good": "A comparison with \"than\" needs a comparative form.",
+        "best": "The superlative does not fit \"than\"."
+      }
+    },
+    {
+      "id": "b1-wb-193",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Rented\" is used for accommodation.",
+      "bank": [
+        "lent",
+        "borrowed",
+        "rented"
+      ],
+      "text": "They ___ a lovely cottage in the mountains for the summer.",
+      "answers": [
+        "rented"
+      ],
+      "wrongReasons": {
+        "borrowed": "\"Borrowed\" means taken without payment.",
+        "lent": "\"Lent\" means given temporarily."
+      }
+    },
+    {
+      "id": "b1-wb-194",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"About\" introduces the topic.",
+      "bank": [
+        "on",
+        "about",
+        "of"
+      ],
+      "text": "The story is ___ a boy who finds a magic lamp.",
+      "answers": [
+        "about"
+      ],
+      "wrongReasons": {
+        "of": "\"Of\" does not introduce the topic here.",
+        "on": "\"On\" is used for academic subjects."
+      }
+    },
+    {
+      "id": "b1-wb-195",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Work out\" means to find the answer.",
+      "bank": [
+        "give",
+        "take",
+        "work"
+      ],
+      "text": "Can you ___ out the answer to the last question?",
+      "answers": [
+        "work"
+      ],
+      "wrongReasons": {
+        "give": "\"Give out\" means to distribute.",
+        "take": "\"Take out\" means to remove."
+      }
+    },
+    {
+      "id": "b1-wb-196",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Behind\" means at the back of.",
+      "bank": [
+        "among",
+        "behind",
+        "between"
+      ],
+      "text": "The cat is hiding ___ the sofa.",
+      "answers": [
+        "behind"
+      ],
+      "wrongReasons": {
+        "between": "\"Between\" needs two things.",
+        "among": "\"Among\" needs several things."
+      }
+    },
+    {
+      "id": "b1-wb-197",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Any\" is used after a negative verb.",
+      "bank": [
+        "many",
+        "any",
+        "a"
+      ],
+      "text": "There isn't ___ bread left in the house.",
+      "answers": [
+        "any"
+      ],
+      "wrongReasons": {
+        "a": "\"A\" cannot go with an uncountable noun.",
+        "many": "\"Many\" is used with plural nouns."
+      }
+    },
+    {
+      "id": "b1-wb-198",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"An\" is used before a vowel sound.",
+      "bank": [
+        "an",
+        "a",
+        "the"
+      ],
+      "text": "We saw ___ elephant at the zoo.",
+      "answers": [
+        "an"
+      ],
+      "wrongReasons": {
+        "a": "\"Elephant\" begins with a vowel sound.",
+        "the": "\"The\" would refer to a known elephant."
+      }
+    },
+    {
+      "id": "b1-wb-199",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Look after\" means to take care of.",
+      "bank": [
+        "look at",
+        "look after",
+        "look for"
+      ],
+      "text": "I'll ___ the baby while you're out.",
+      "answers": [
+        "look after"
+      ],
+      "wrongReasons": {
+        "look at": "\"Look at\" means to direct your eyes.",
+        "look for": "\"Look for\" means to search."
+      }
+    },
+    {
+      "id": "b1-wb-200",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Hers\" is a possessive pronoun.",
+      "bank": [
+        "her",
+        "hers",
+        "she"
+      ],
+      "text": "Is this your jacket or ___?",
+      "answers": [
+        "hers"
+      ],
+      "wrongReasons": {
+        "her": "\"Her\" must be followed by a noun.",
+        "she": "\"She\" is a subject pronoun."
+      }
+    },
+    {
+      "id": "b1-wb-201",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Let me know\" is a fixed expression.",
+      "bank": [
+        "allow",
+        "make",
+        "let"
+      ],
+      "text": "Please ___ me know if you can attend the meeting.",
+      "answers": [
+        "let"
+      ],
+      "wrongReasons": {
+        "make": "\"Make me know\" has another meaning.",
+        "allow": "\"Allow me know\" is not grammatical."
+      }
+    },
+    {
+      "id": "b1-wb-202",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Too\" means more than is acceptable.",
+      "bank": [
+        "too",
+        "enough",
+        "very"
+      ],
+      "text": "This coffee is ___ hot to drink. I'll wait a bit.",
+      "answers": [
+        "too"
+      ],
+      "wrongReasons": {
+        "very": "\"Very\" does not express a problem.",
+        "enough": "\"Enough\" goes after the adjective."
+      }
+    },
+    {
+      "id": "b1-wb-203",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Delayed\" means late.",
+      "bank": [
+        "decided",
+        "deleted",
+        "delayed"
+      ],
+      "text": "The plane was ___ because of fog.",
+      "answers": [
+        "delayed"
+      ],
+      "wrongReasons": {
+        "deleted": "\"Deleted\" means erased.",
+        "decided": "\"Decided\" is a different verb."
+      }
+    },
+    {
+      "id": "b1-wb-204",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Save money\" means to put money aside.",
+      "bank": [
+        "store",
+        "save",
+        "spare"
+      ],
+      "text": "I need to ___ some money for the holiday.",
+      "answers": [
+        "save"
+      ],
+      "wrongReasons": {
+        "spare": "\"Spare\" means to give time or money to someone.",
+        "store": "\"Store\" is used for goods."
+      }
+    },
+    {
+      "id": "b1-wb-205",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Arrive at\" is used with a small place.",
+      "bank": [
+        "in",
+        "to",
+        "at"
+      ],
+      "text": "We arrived ___ the hotel after midnight.",
+      "answers": [
+        "at"
+      ],
+      "wrongReasons": {
+        "in": "\"In\" is used with towns and countries.",
+        "to": "\"Arrive to\" is not used."
+      }
+    },
+    {
+      "id": "b1-wb-206",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Married to\" is the standard combination.",
+      "bank": [
+        "to",
+        "with",
+        "by"
+      ],
+      "text": "She is married ___ a pilot.",
+      "answers": [
+        "to"
+      ],
+      "wrongReasons": {
+        "with": "\"Married with\" is not standard English.",
+        "by": "\"Married by\" means someone performed the wedding."
+      }
+    },
+    {
+      "id": "b1-wb-207",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Much\" can strengthen a comparative.",
+      "bank": [
+        "very",
+        "many",
+        "much"
+      ],
+      "text": "The trip was ___ better than I expected.",
+      "answers": [
+        "much"
+      ],
+      "wrongReasons": {
+        "very": "\"Very\" cannot strengthen a comparative.",
+        "many": "\"Many\" is used with countable nouns."
+      }
+    },
+    {
+      "id": "b1-wb-208",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The superlative of \"kind\" is \"kindest\".",
+      "bank": [
+        "most kind",
+        "kindest",
+        "kinder"
+      ],
+      "text": "She is the ___ person I know.",
+      "answers": [
+        "kindest"
+      ],
+      "wrongReasons": {
+        "kinder": "\"Kinder\" compares only two.",
+        "most kind": "Short adjectives take -est."
+      }
+    },
+    {
+      "id": "b1-wb-209",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"At\" is used with clock times.",
+      "bank": [
+        "on",
+        "at",
+        "in"
+      ],
+      "text": "The party starts ___ eight o'clock.",
+      "answers": [
+        "at"
+      ],
+      "wrongReasons": {
+        "on": "\"On\" is used with days.",
+        "in": "\"In\" is used with months."
+      }
+    },
+    {
+      "id": "b1-wb-210",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Project\" is a piece of planned work.",
+      "bank": [
+        "project",
+        "process",
+        "product"
+      ],
+      "text": "The students are working on a ___ about renewable energy.",
+      "answers": [
+        "project"
+      ],
+      "wrongReasons": {
+        "product": "A product is something sold.",
+        "process": "A process is a series of steps."
+      }
+    },
+    {
+      "id": "b1-wb-211",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The superlative of \"funny\" is \"funniest\".",
+      "bank": [
+        "funniest",
+        "most funny",
+        "funnier"
+      ],
+      "text": "It's the ___ thing I've ever seen.",
+      "answers": [
+        "funniest"
+      ],
+      "wrongReasons": {
+        "funnier": "\"Funnier\" compares only two.",
+        "most funny": "Adjectives ending in -y take -iest."
+      }
+    },
+    {
+      "id": "b1-wb-212",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Neither of the answers\" is the correct structure.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "Neither of ___ answers was right.",
+      "answers": [
+        "the"
+      ],
+      "wrongReasons": {
+        "a": "\"A\" cannot go with a plural noun.",
+        "an": "\"An\" cannot go with a plural noun."
+      }
+    },
+    {
+      "id": "b1-wb-213",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"I wish I had\" expresses a present wish.",
+      "bank": [
+        "would have",
+        "have",
+        "had"
+      ],
+      "text": "I wish I ___ more free time.",
+      "answers": [
+        "had"
+      ],
+      "wrongReasons": {
+        "have": "After \"wish\" the verb moves back.",
+        "would have": "\"Would have\" does not express this wish."
+      }
+    },
+    {
+      "id": "b1-wb-214",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Book a room\" means to reserve it.",
+      "bank": [
+        "book",
+        "borrow",
+        "buy"
+      ],
+      "text": "I'd like to ___ a room for two nights, please.",
+      "answers": [
+        "book"
+      ],
+      "wrongReasons": {
+        "borrow": "\"Borrow\" means to take temporarily.",
+        "buy": "You do not buy a room."
+      }
+    },
+    {
+      "id": "b1-wb-215",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"They\" is the subject pronoun.",
+      "bank": [
+        "their",
+        "they",
+        "them"
+      ],
+      "text": "They don't have a car, so ___ walk to work.",
+      "answers": [
+        "they"
+      ],
+      "wrongReasons": {
+        "them": "\"Them\" is an object pronoun.",
+        "their": "\"Their\" is a possessive adjective."
+      }
+    },
+    {
+      "id": "b1-wb-216",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Brush your teeth\" is the standard collocation.",
+      "bank": [
+        "wash",
+        "clean up",
+        "brush"
+      ],
+      "text": "You should ___ your teeth twice a day.",
+      "answers": [
+        "brush"
+      ],
+      "wrongReasons": {
+        "wash": "We wash hands and faces, not teeth.",
+        "clean up": "\"Clean up\" means to tidy a place."
+      }
+    },
+    {
+      "id": "b1-wb-217",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"That\" can introduce a defining relative clause for things.",
+      "bank": [
+        "whose",
+        "who",
+        "that"
+      ],
+      "text": "I want to buy a house ___ has a big garden.",
+      "answers": [
+        "that"
+      ],
+      "wrongReasons": {
+        "who": "\"Who\" is used for people.",
+        "whose": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "b1-wb-218",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Damage\" fits skin.",
+      "bank": [
+        "damage",
+        "harm up",
+        "hurt up"
+      ],
+      "text": "Too much sun can ___ your skin.",
+      "answers": [
+        "damage"
+      ],
+      "wrongReasons": {
+        "harm up": "\"Harm up\" is not standard.",
+        "hurt up": "\"Hurt up\" is not standard."
+      }
+    },
+    {
+      "id": "b1-wb-219",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Restart\" means to start again.",
+      "bank": [
+        "rebuild",
+        "restart",
+        "rewrite"
+      ],
+      "text": "The screen went black, so I had to ___ the computer.",
+      "answers": [
+        "restart"
+      ],
+      "wrongReasons": {
+        "rebuild": "\"Rebuild\" means to build again.",
+        "rewrite": "\"Rewrite\" means to write again."
+      }
+    },
+    {
+      "id": "b1-wb-220",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"If I were\" is the unreal past form.",
+      "bank": [
+        "were",
+        "will be",
+        "am"
+      ],
+      "text": "If I ___ rich, I would travel the world.",
+      "answers": [
+        "were"
+      ],
+      "wrongReasons": {
+        "am": "The second conditional needs a past form.",
+        "will be": "\"Will\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b1-wb-221",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Colder and colder\" shows a gradual change.",
+      "bank": [
+        "colder",
+        "cold",
+        "coldest"
+      ],
+      "text": "The weather is getting ___ and colder.",
+      "answers": [
+        "colder"
+      ],
+      "wrongReasons": {
+        "cold": "A comparative is needed.",
+        "coldest": "The superlative does not fit \"and\"."
+      }
+    },
+    {
+      "id": "b1-wb-222",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "A demonstration is a public protest.",
+      "bank": [
+        "election",
+        "exhibition",
+        "demonstration"
+      ],
+      "text": "They organised a ___ to protest against the new road.",
+      "answers": [
+        "demonstration"
+      ],
+      "wrongReasons": {
+        "election": "An election chooses leaders.",
+        "exhibition": "An exhibition shows objects."
+      }
+    },
+    {
+      "id": "b1-wb-223",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Some\" can be used with uncountable nouns.",
+      "bank": [
+        "some",
+        "a",
+        "an"
+      ],
+      "text": "He said he had ___ interesting news for us.",
+      "answers": [
+        "some"
+      ],
+      "wrongReasons": {
+        "an": "\"News\" is uncountable, so \"an\" is wrong.",
+        "a": "\"News\" is uncountable, so \"a\" is wrong."
+      }
+    },
+    {
+      "id": "b1-wb-224",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Long adjectives form the superlative with \"most\".",
+      "bank": [
+        "much",
+        "most",
+        "more"
+      ],
+      "text": "It's the ___ interesting museum I have ever visited.",
+      "answers": [
+        "most"
+      ],
+      "wrongReasons": {
+        "more": "\"More\" compares only two.",
+        "much": "\"Much\" cannot form a superlative."
+      }
+    },
+    {
+      "id": "b1-wb-225",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"If I were you\" gives advice.",
+      "bank": [
+        "were",
+        "am",
+        "would be"
+      ],
+      "text": "If I ___ you, I'd tell the truth.",
+      "answers": [
+        "were"
+      ],
+      "wrongReasons": {
+        "am": "The advice structure uses \"were\".",
+        "would be": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b1-wb-226",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Get up\" means to leave your bed.",
+      "bank": [
+        "put",
+        "take",
+        "get"
+      ],
+      "text": "I must ___ up early tomorrow to catch the first train.",
+      "answers": [
+        "get"
+      ],
+      "wrongReasons": {
+        "take": "\"Take up\" means to start a hobby.",
+        "put": "\"Put up\" means to build."
+      }
+    },
+    {
+      "id": "b1-wb-227",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Stay awake\" is the standard collocation.",
+      "bank": [
+        "hold",
+        "stay",
+        "keep up"
+      ],
+      "text": "The lesson was boring, and I could hardly ___ awake.",
+      "answers": [
+        "stay"
+      ],
+      "wrongReasons": {
+        "keep up": "\"Keep up\" has another meaning.",
+        "hold": "\"Hold awake\" is not a collocation."
+      }
+    },
+    {
+      "id": "b1-wb-228",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "Trainers are sports shoes.",
+      "bank": [
+        "trainers",
+        "sandals",
+        "slippers"
+      ],
+      "text": "I bought a pair of ___ for running.",
+      "answers": [
+        "trainers"
+      ],
+      "wrongReasons": {
+        "slippers": "Slippers are for indoors.",
+        "sandals": "Sandals are open shoes for summer."
+      }
+    },
+    {
+      "id": "b1-wb-229",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"I wish I had\" expresses a present wish.",
+      "bank": [
+        "had",
+        "will have",
+        "have"
+      ],
+      "text": "I wish I ___ a bigger garden.",
+      "answers": [
+        "had"
+      ],
+      "wrongReasons": {
+        "have": "After \"wish\" the present moves to the past.",
+        "will have": "\"Will\" is not used after \"wish\"."
+      }
+    },
+    {
+      "id": "b1-wb-230",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Exercise\" is uncountable when it means physical activity.",
+      "bank": [
+        "exercise",
+        "exercises",
+        "excuse"
+      ],
+      "text": "Doctors advise people to take regular ___ and eat a balanced diet.",
+      "answers": [
+        "exercise"
+      ],
+      "wrongReasons": {
+        "exercises": "In this sense \"exercise\" is uncountable.",
+        "excuse": "\"Excuse\" has another meaning."
+      }
+    },
+    {
+      "id": "b1-wb-231",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Ask for help\".",
+      "bank": [
+        "tell",
+        "ask",
+        "say"
+      ],
+      "text": "If you don't understand, you can ___ the teacher for help.",
+      "answers": [
+        "ask"
+      ],
+      "wrongReasons": {
+        "tell": "\"Tell\" is to say something.",
+        "say": "\"Say\" is to speak words."
+      }
+    },
+    {
+      "id": "b1-wb-232",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Has been sent\" is the present perfect passive.",
+      "bank": [
+        "been",
+        "be",
+        "being"
+      ],
+      "text": "The report has already ___ sent to the manager.",
+      "answers": [
+        "been"
+      ],
+      "wrongReasons": {
+        "be": "After \"has\" use \"been\".",
+        "being": "\"Has being\" is incorrect."
+      }
+    },
+    {
+      "id": "b1-wb-233",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The superlative is \"funniest\".",
+      "bank": [
+        "funnier",
+        "funniest",
+        "funny"
+      ],
+      "text": "This is the ___ book I've ever read.",
+      "answers": [
+        "funniest"
+      ],
+      "wrongReasons": {
+        "funnier": "\"Funnier\" compares two.",
+        "funny": "\"Funny\" is the base form."
+      }
+    },
+    {
+      "id": "b1-wb-234",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"No sugar\" means there is none.",
+      "bank": [
+        "any",
+        "no",
+        "few"
+      ],
+      "text": "I'm afraid there is ___ sugar left.",
+      "answers": [
+        "no"
+      ],
+      "wrongReasons": {
+        "any": "\"Any\" needs a negative verb.",
+        "few": "\"Few\" is used with plural nouns."
+      }
+    },
+    {
+      "id": "b1-wb-235",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Were damaged\" is the past passive.",
+      "bank": [
+        "are",
+        "were",
+        "was"
+      ],
+      "text": "Several houses ___ damaged in the storm last night.",
+      "answers": [
+        "were"
+      ],
+      "wrongReasons": {
+        "was": "Plural subjects take \"were\".",
+        "are": "\"Last night\" needs the past."
+      }
+    },
+    {
+      "id": "b1-wb-236",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"A\" is used with jobs.",
+      "bank": [
+        "a",
+        "an",
+        "the"
+      ],
+      "text": "I'd like to be ___ pilot when I grow up.",
+      "answers": [
+        "a"
+      ],
+      "wrongReasons": {
+        "an": "\"Pilot\" begins with a consonant sound.",
+        "the": "\"The\" would mean a particular pilot."
+      }
+    },
+    {
+      "id": "b1-wb-237",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Terrible cold\" is the usual collocation.",
+      "bank": [
+        "terrible",
+        "hard",
+        "tremendous"
+      ],
+      "text": "He has a ___ cold and cannot stop sneezing.",
+      "answers": [
+        "terrible"
+      ],
+      "wrongReasons": {
+        "tremendous": "\"Tremendous\" is positive or very large.",
+        "hard": "\"Hard\" does not collocate with cold."
+      }
+    },
+    {
+      "id": "b1-wb-238",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Give\" fits donors.",
+      "bank": [
+        "take",
+        "give",
+        "borrow"
+      ],
+      "text": "People who ___ money to charities are called donors.",
+      "answers": [
+        "give"
+      ],
+      "wrongReasons": {
+        "take": "\"Take\" is the opposite.",
+        "borrow": "\"Borrow\" is the opposite."
+      }
+    },
+    {
+      "id": "b1-wb-239",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Look for\" means to search.",
+      "bank": [
+        "after",
+        "at",
+        "for"
+      ],
+      "text": "I'm looking ___ a flat near the centre.",
+      "answers": [
+        "for"
+      ],
+      "wrongReasons": {
+        "at": "\"Look at\" means to direct your eyes.",
+        "after": "\"Look after\" means to take care of."
+      }
+    },
+    {
+      "id": "b1-wb-240",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Between\" is used for two things.",
+      "bank": [
+        "between",
+        "among",
+        "beside"
+      ],
+      "text": "The shop is ___ the post office and the bank.",
+      "answers": [
+        "between"
+      ],
+      "wrongReasons": {
+        "among": "\"Among\" is used for more than two things.",
+        "beside": "\"Beside\" means next to one thing."
+      }
+    },
+    {
+      "id": "b1-wb-241",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Don't have to\" means not necessary.",
+      "bank": [
+        "mustn't",
+        "can't",
+        "don't have"
+      ],
+      "text": "We ___ to go to the meeting. It's optional.",
+      "answers": [
+        "don't have"
+      ],
+      "wrongReasons": {
+        "mustn't": "\"Mustn't\" means forbidden.",
+        "can't": "\"Can't\" means impossible."
+      }
+    },
+    {
+      "id": "b1-wb-242",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"The window\" refers to a known window.",
+      "bank": [
+        "the",
+        "a",
+        "an"
+      ],
+      "text": "Could you open ___ window, please? It's too hot.",
+      "answers": [
+        "the"
+      ],
+      "wrongReasons": {
+        "a": "\"A window\" would mean any window.",
+        "an": "\"Window\" begins with a consonant sound."
+      }
+    },
+    {
+      "id": "b1-wb-243",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"A\" introduces a new item.",
+      "bank": [
+        "a",
+        "the",
+        "an"
+      ],
+      "text": "He's sold his car and bought ___ new one.",
+      "answers": [
+        "a"
+      ],
+      "wrongReasons": {
+        "an": "\"New\" begins with a consonant sound.",
+        "the": "\"The\" would refer to a known car."
+      }
+    },
+    {
+      "id": "b1-wb-244",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "A doctor diagnoses illnesses.",
+      "bank": [
+        "doctor",
+        "patient",
+        "nurse"
+      ],
+      "text": "You should see a ___ if the pain continues.",
+      "answers": [
+        "doctor"
+      ],
+      "wrongReasons": {
+        "nurse": "A nurse usually does not diagnose.",
+        "patient": "A patient is the person who is ill."
+      }
+    },
+    {
+      "id": "b1-wb-245",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Which\" is used in clauses with commas for things.",
+      "bank": [
+        "who",
+        "which",
+        "that"
+      ],
+      "text": "The restaurant, ___ opened last year, is already famous.",
+      "answers": [
+        "which"
+      ],
+      "wrongReasons": {
+        "that": "\"That\" is not used after a comma.",
+        "who": "\"Who\" is used for people."
+      }
+    },
+    {
+      "id": "b1-wb-246",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"From\" shows the sender.",
+      "bank": [
+        "by",
+        "from",
+        "of"
+      ],
+      "text": "I got a letter ___ my uncle this morning.",
+      "answers": [
+        "from"
+      ],
+      "wrongReasons": {
+        "of": "\"Of\" does not show the sender.",
+        "by": "\"By\" introduces the author."
+      }
+    },
+    {
+      "id": "b1-wb-247",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Calculate\" means to work out by maths.",
+      "bank": [
+        "count in",
+        "estimate up",
+        "calculate"
+      ],
+      "text": "We need to ___ the cost of the project.",
+      "answers": [
+        "calculate"
+      ],
+      "wrongReasons": {
+        "estimate up": "\"Estimate up\" is not used.",
+        "count in": "\"Count in\" is not the same."
+      }
+    },
+    {
+      "id": "b1-wb-248",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"So ... that\" expresses a result.",
+      "bank": [
+        "too",
+        "so",
+        "such"
+      ],
+      "text": "The film was ___ boring that we left before the end.",
+      "answers": [
+        "so"
+      ],
+      "wrongReasons": {
+        "such": "\"Such\" is followed by a noun phrase.",
+        "too": "\"Too\" does not express a result."
+      }
+    },
+    {
+      "id": "b1-wb-249",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The superlative of \"bad\" is \"worst\".",
+      "bank": [
+        "worse",
+        "worst",
+        "baddest"
+      ],
+      "text": "This is the ___ hotel I have ever stayed in.",
+      "answers": [
+        "worst"
+      ],
+      "wrongReasons": {
+        "worse": "\"Worse\" compares only two.",
+        "baddest": "\"Bad\" has an irregular superlative."
+      }
+    },
+    {
+      "id": "b1-wb-250",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Don't mind\" is used with a gerund or noun.",
+      "bank": [
+        "mind",
+        "like",
+        "care"
+      ],
+      "text": "I don't ___ my brother's music. It is too loud.",
+      "answers": [
+        "mind"
+      ],
+      "wrongReasons": {
+        "care": "\"Care\" needs a different structure.",
+        "like": "\"Like\" does not change the idea."
+      }
+    },
+    {
+      "id": "b1-wb-251",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "After \"feel\" we use an adjective.",
+      "bank": [
+        "nervous",
+        "nerves",
+        "nervously"
+      ],
+      "text": "She's been feeling ___ since the accident.",
+      "answers": [
+        "nervous"
+      ],
+      "wrongReasons": {
+        "nervously": "After \"feel\" we use an adjective.",
+        "nerves": "\"Nerves\" is a plural noun."
+      }
+    },
+    {
+      "id": "b1-wb-252",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"Speak to someone\" is the fixed combination.",
+      "bank": [
+        "for",
+        "to",
+        "at"
+      ],
+      "text": "She spoke ___ me about the problem.",
+      "answers": [
+        "to"
+      ],
+      "wrongReasons": {
+        "at": "\"Speak at\" has a different meaning.",
+        "for": "\"Speak for\" means to represent."
+      }
+    },
+    {
+      "id": "b1-wb-253",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "The comparative of \"good\" is \"better\".",
+      "bank": [
+        "better",
+        "best",
+        "good"
+      ],
+      "text": "He's ___ than his brother, so he's the best player in the team.",
+      "answers": [
+        "better"
+      ],
+      "wrongReasons": {
+        "good": "A comparison with \"than\" needs a comparative form.",
+        "best": "The superlative does not fit \"than\"."
+      }
+    },
+    {
+      "id": "b1-wb-254",
+      "type": "word-bank",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the sentence with words from the box.",
+      "explanation": "\"On\" is used with days.",
+      "bank": [
+        "in",
+        "on",
+        "at"
+      ],
+      "text": "I'm afraid I can't come ___ Friday. I'm working.",
+      "answers": [
+        "on"
+      ],
+      "wrongReasons": {
+        "in": "\"In\" is used with months.",
+        "at": "\"At\" is used with clock times."
+      }
     }
   ]
 }

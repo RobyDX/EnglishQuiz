@@ -2804,6 +2804,3654 @@
         "Remind me to buy some bread.",
         "Remember to buy some bread."
       ]
+    },
+    {
+      "id": "b1-ec-136",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb + gerund: the correct sentence is \"She enjoys reading novels.\"",
+      "wrong": "She enjoys to read novels.",
+      "solutions": [
+        "She enjoys reading novels."
+      ],
+      "wrongReasons": {
+        "she enjoys to read novels": "\"Enjoy\" is followed by a gerund."
+      }
+    },
+    {
+      "id": "b1-ec-137",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adjective + preposition: the correct sentence is \"He is married to my cousin.\"",
+      "wrong": "He is married with my cousin.",
+      "solutions": [
+        "He is married to my cousin."
+      ],
+      "wrongReasons": {
+        "he is married with my cousin": "The adjective \"married\" is followed by \"to\"."
+      }
+    },
+    {
+      "id": "b1-ec-138",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Superlatives take \"the: the correct sentence is \"He is the best student in the class.\"",
+      "wrong": "He is best student in the class.",
+      "solutions": [
+        "He is the best student in the class."
+      ],
+      "wrongReasons": {
+        "he is best student in the class": "A superlative needs the article \"the\"."
+      }
+    },
+    {
+      "id": "b1-ec-139",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "\"It is said that ...\" is a passive reporting structure.",
+      "wrong": "It is say that the hotel is expensive.",
+      "solutions": [
+        "It is said that the hotel is expensive."
+      ],
+      "wrongReasons": {
+        "it is say that the hotel is expensive": "The passive needs the past participle \"said\"."
+      }
+    },
+    {
+      "id": "b1-ec-140",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Unless\" = \"if not: the correct sentence is \"Unless you hurry, you will miss it.\"",
+      "wrong": "Unless you don't hurry, you will miss it.",
+      "solutions": [
+        "Unless you hurry, you will miss it.",
+        "If you don't hurry, you will miss it."
+      ],
+      "wrongReasons": {
+        "unless you dont hurry you will miss it": "\"Unless\" already has a negative meaning."
+      }
+    },
+    {
+      "id": "b1-ec-141",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prepositions: the correct sentence is \"I'm going to look the word up in a dictionary.\"",
+      "wrong": "I'm going to look the word up on a dictionary.",
+      "solutions": [
+        "I'm going to look the word up in a dictionary."
+      ],
+      "wrongReasons": {
+        "im going to look the word up on a dictionary": "We look something up in a dictionary."
+      }
+    },
+    {
+      "id": "b1-ec-142",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Relative pronouns: the correct sentence is \"The girl whom I met yesterday is my cousin.\"",
+      "wrong": "The girl whose I met yesterday is my cousin.",
+      "solutions": [
+        "The girl whom I met yesterday is my cousin.",
+        "The girl who I met yesterday is my cousin.",
+        "The girl I met yesterday is my cousin."
+      ],
+      "wrongReasons": {
+        "the girl whose i met yesterday is my cousin": "\"Whose\" shows possession and cannot be the object here."
+      }
+    },
+    {
+      "id": "b1-ec-143",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Infinitives: the correct sentence is \"She decided to study medicine.\"",
+      "wrong": "She decided studying medicine.",
+      "solutions": [
+        "She decided to study medicine."
+      ],
+      "wrongReasons": {
+        "she decided studying medicine": "\"Decide\" is followed by \"to + verb\"."
+      }
+    },
+    {
+      "id": "b1-ec-144",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Future arrangements: the correct sentence is \"Tomorrow I am meeting my cousin at the station.\"",
+      "wrong": "Tomorrow I meet my cousin at the station.",
+      "solutions": [
+        "Tomorrow I am meeting my cousin at the station.",
+        "Tomorrow I'm meeting my cousin at the station."
+      ],
+      "wrongReasons": {
+        "tomorrow i meet my cousin at the station": "An arrangement uses the present continuous."
+      }
+    },
+    {
+      "id": "b1-ec-145",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Double negatives: the correct sentence is \"He hardly ever watches TV.\"",
+      "wrong": "He hardly never watches TV.",
+      "solutions": [
+        "He hardly ever watches TV."
+      ],
+      "wrongReasons": {
+        "he hardly never watches tv": "\"Hardly\" is already negative, so a double negative is wrong."
+      }
+    },
+    {
+      "id": "b1-ec-146",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Passive infinitive: to be + past participle.",
+      "wrong": "He wants to be give a medal.",
+      "solutions": [
+        "He wants to be given a medal."
+      ],
+      "wrongReasons": {
+        "he wants to be give a medal": "After \"to be\" use the past participle."
+      }
+    },
+    {
+      "id": "b1-ec-147",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb + preposition: the correct sentence is \"She depends on her parents.\"",
+      "wrong": "She depends of her parents.",
+      "solutions": [
+        "She depends on her parents."
+      ],
+      "wrongReasons": {
+        "she depends of her parents": "The verb \"depend\" is followed by \"on\"."
+      }
+    },
+    {
+      "id": "b1-ec-148",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Every\" + singular noun: the correct sentence is \"Every student must wear a uniform.\"",
+      "wrong": "Every students must wear a uniform.",
+      "solutions": [
+        "Every student must wear a uniform."
+      ],
+      "wrongReasons": {
+        "every students must wear a uniform": "\"Every\" is followed by a singular noun."
+      }
+    },
+    {
+      "id": "b1-ec-149",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Second conditional: past simple + would.",
+      "wrong": "If I would have more money, I would buy a car.",
+      "solutions": [
+        "If I had more money, I would buy a car."
+      ],
+      "wrongReasons": {
+        "if i would have more money i would buy a car": "The if-clause of a second conditional uses the past simple, not \"would\"."
+      }
+    },
+    {
+      "id": "b1-ec-150",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Little\" with uncountable nouns: the correct sentence is \"We have little time before the film.\"",
+      "wrong": "We have few time before the film.",
+      "solutions": [
+        "We have little time before the film."
+      ],
+      "wrongReasons": {
+        "we have few time before the film": "\"Time\" is uncountable, so we use \"little\"."
+      }
+    },
+    {
+      "id": "b1-ec-151",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb + preposition: the correct sentence is \"She listened to the radio all evening.\"",
+      "wrong": "She listened the radio all evening.",
+      "solutions": [
+        "She listened to the radio all evening."
+      ],
+      "wrongReasons": {
+        "she listened the radio all evening": "The verb \"listen\" is followed by \"to\"."
+      }
+    },
+    {
+      "id": "b1-ec-152",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "First conditional: the correct sentence is \"If it rains, we will stay at home.\"",
+      "wrong": "If it rained, we will stay at home.",
+      "solutions": [
+        "If it rains, we will stay at home."
+      ],
+      "wrongReasons": {
+        "if it rained we will stay at home": "The first conditional uses the present simple in the if-clause."
+      }
+    },
+    {
+      "id": "b1-ec-153",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For and since: the correct sentence is \"I've lived here for three years.\"",
+      "wrong": "I've lived here since three years.",
+      "solutions": [
+        "I've lived here for three years."
+      ],
+      "wrongReasons": {
+        "ive lived here since three years": "\"For\" is used with a length of time."
+      }
+    },
+    {
+      "id": "b1-ec-154",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Agreement: the correct sentence is \"Neither of them is interested.\"",
+      "wrong": "Neither of them are interested.",
+      "solutions": [
+        "Neither of them is interested."
+      ],
+      "wrongReasons": {
+        "neither of them are interested": "\"Neither of\" usually takes a singular verb."
+      }
+    },
+    {
+      "id": "b1-ec-155",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Uncountable nouns have no \"a/an: the correct sentence is \"She gave me some advice about my studies.\"",
+      "wrong": "She gave me an advice about my studies.",
+      "solutions": [
+        "She gave me some advice about my studies."
+      ],
+      "wrongReasons": {
+        "she gave me an advice about my studies": "\"Advice\" is uncountable and cannot take \"an\"."
+      }
+    },
+    {
+      "id": "b1-ec-156",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "After \"was\" the passive uses a past participle.",
+      "wrong": "The room was clean yesterday by the cleaner.",
+      "solutions": [
+        "The room was cleaned yesterday by the cleaner."
+      ],
+      "wrongReasons": {
+        "the room was clean yesterday by the cleaner": "The passive needs the past participle \"cleaned\", not the adjective \"clean\"."
+      }
+    },
+    {
+      "id": "b1-ec-157",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb + preposition: the correct sentence is \"I agree with you.\"",
+      "wrong": "I agree to you.",
+      "solutions": [
+        "I agree with you."
+      ],
+      "wrongReasons": {
+        "i agree to you": "\"Agree with\" is used before a person."
+      }
+    },
+    {
+      "id": "b1-ec-158",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal \"need: the correct sentence is \"You needn't come.\"",
+      "wrong": "You needn't to come.",
+      "solutions": [
+        "You needn't come."
+      ],
+      "wrongReasons": {
+        "you neednt to come": "\"Needn't\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "b1-ec-159",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "No article with sports: the correct sentence is \"He plays football every Saturday.\"",
+      "wrong": "He plays the football every Saturday.",
+      "solutions": [
+        "He plays football every Saturday."
+      ],
+      "wrongReasons": {
+        "he plays the football every saturday": "We use no article with sports."
+      }
+    },
+    {
+      "id": "b1-ec-160",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "So and such: the correct sentence is \"It was so cold that we stayed inside.\"",
+      "wrong": "It was such cold that we stayed inside.",
+      "solutions": [
+        "It was so cold that we stayed inside."
+      ],
+      "wrongReasons": {
+        "it was such cold that we stayed inside": "\"Such\" needs a noun phrase; here we need \"so\"."
+      }
+    },
+    {
+      "id": "b1-ec-161",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Meaning: the correct sentence is \"We got round the problem with a new approach.\"",
+      "wrong": "We got on the problem with a new approach.",
+      "solutions": [
+        "We got round the problem with a new approach."
+      ],
+      "wrongReasons": {
+        "we got on the problem with a new approach": "\"Get round\" means to overcome a problem."
+      }
+    },
+    {
+      "id": "b1-ec-162",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "-ed and -ing adjectives: the correct sentence is \"The lesson was really tiring.\"",
+      "wrong": "The lesson was really tired.",
+      "solutions": [
+        "The lesson was really tiring."
+      ],
+      "wrongReasons": {
+        "the lesson was really tired": "\"Tiring\" describes what causes tiredness."
+      }
+    },
+    {
+      "id": "b1-ec-163",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adjective + preposition: the correct sentence is \"He is proud of his son.\"",
+      "wrong": "He is proud for his son.",
+      "solutions": [
+        "He is proud of his son."
+      ],
+      "wrongReasons": {
+        "he is proud for his son": "The adjective \"proud\" is followed by \"of\"."
+      }
+    },
+    {
+      "id": "b1-ec-164",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb + preposition: the correct sentence is \"They arrived in London last night.\"",
+      "wrong": "They arrived on London last night.",
+      "solutions": [
+        "They arrived in London last night."
+      ],
+      "wrongReasons": {
+        "they arrived on london last night": "We use \"arrive in\" with cities."
+      }
+    },
+    {
+      "id": "b1-ec-165",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adjective order: the correct sentence is \"It's a lovely French restaurant.\"",
+      "wrong": "It's a French lovely restaurant.",
+      "solutions": [
+        "It's a lovely French restaurant."
+      ],
+      "wrongReasons": {
+        "its a french lovely restaurant": "Opinion comes before origin."
+      }
+    },
+    {
+      "id": "b1-ec-166",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Irregular participle: break – broke – broken.",
+      "wrong": "The window was broke by the boys.",
+      "solutions": [
+        "The window was broken by the boys."
+      ],
+      "wrongReasons": {
+        "the window was broke by the boys": "The passive needs the past participle \"broken\"."
+      }
+    },
+    {
+      "id": "b1-ec-167",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Run out of: the correct sentence is \"We have run out of sugar.\"",
+      "wrong": "We have run out from sugar.",
+      "solutions": [
+        "We have run out of sugar."
+      ],
+      "wrongReasons": {
+        "we have run out from sugar": "The phrasal verb is \"run out of\"."
+      }
+    },
+    {
+      "id": "b1-ec-168",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb patterns: the correct sentence is \"She suggested that I take a break.\"",
+      "wrong": "She suggested me to take a break.",
+      "solutions": [
+        "She suggested that I take a break.",
+        "She suggested taking a break."
+      ],
+      "wrongReasons": {
+        "she suggested me to take a break": "\"Suggest\" cannot be followed by an object and \"to\"."
+      }
+    },
+    {
+      "id": "b1-ec-169",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Collocations: the correct sentence is \"She made a mistake and gave me a bad impression.\"",
+      "wrong": "She made a mistake and did me a bad impression.",
+      "solutions": [
+        "She made a mistake and gave me a bad impression."
+      ],
+      "wrongReasons": {
+        "she made a mistake and did me a bad impression": "The collocation is \"give an impression\"."
+      }
+    },
+    {
+      "id": "b1-ec-170",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Word order: the correct sentence is \"I enjoyed the film very much.\"",
+      "wrong": "I enjoyed very much the film.",
+      "solutions": [
+        "I enjoyed the film very much."
+      ],
+      "wrongReasons": {
+        "i enjoyed very much the film": "The adverbial phrase does not separate the verb and its object."
+      }
+    },
+    {
+      "id": "b1-ec-171",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Be used to + gerund: the correct sentence is \"I'm used to waking up early.\"",
+      "wrong": "I'm used to wake up early.",
+      "solutions": [
+        "I'm used to waking up early."
+      ],
+      "wrongReasons": {
+        "im used to wake up early": "In \"be used to\", \"to\" is a preposition."
+      }
+    },
+    {
+      "id": "b1-ec-172",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adjective + preposition: the correct sentence is \"He is good at tennis.\"",
+      "wrong": "He is good in tennis.",
+      "solutions": [
+        "He is good at tennis."
+      ],
+      "wrongReasons": {
+        "he is good in tennis": "We say \"good at\" for skills."
+      }
+    },
+    {
+      "id": "b1-ec-173",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Uncountable nouns: the correct sentence is \"I have an idea, but I need some advice.\"",
+      "wrong": "I have an idea, but I need a advice.",
+      "solutions": [
+        "I have an idea, but I need some advice."
+      ],
+      "wrongReasons": {
+        "i have an idea but i need a advice": "\"Advice\" is uncountable and cannot take \"a\"."
+      }
+    },
+    {
+      "id": "b1-ec-174",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Tenses: the correct sentence is \"I've been waiting for a long time.\"",
+      "wrong": "I'm waiting for a long time.",
+      "solutions": [
+        "I've been waiting for a long time."
+      ],
+      "wrongReasons": {
+        "im waiting for a long time": "An action that began in the past and continues needs the present perfect continuous."
+      }
+    },
+    {
+      "id": "b1-ec-175",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Reflexive pronouns: the correct sentence is \"We enjoyed ourselves at the party.\"",
+      "wrong": "We enjoyed us at the party.",
+      "solutions": [
+        "We enjoyed ourselves at the party."
+      ],
+      "wrongReasons": {
+        "we enjoyed us at the party": "A reflexive pronoun is needed."
+      }
+    },
+    {
+      "id": "b1-ec-176",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Before a vowel sound we use \"an: the correct sentence is \"She is an engineer in a big company.\"",
+      "wrong": "She is a engineer in a big company.",
+      "solutions": [
+        "She is an engineer in a big company."
+      ],
+      "wrongReasons": {
+        "she is a engineer in a big company": "\"Engineer\" begins with a vowel sound, so we need \"an\"."
+      }
+    },
+    {
+      "id": "b1-ec-177",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Backshift in reported speech: the correct sentence is \"She said she would come the next day.\"",
+      "wrong": "She said she will come tomorrow.",
+      "solutions": [
+        "She said she would come the next day."
+      ],
+      "wrongReasons": {
+        "she said she will come tomorrow": "In reported speech \"will\" becomes \"would\" and \"tomorrow\" becomes \"the next day\"."
+      }
+    },
+    {
+      "id": "b1-ec-178",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Look forward to: the correct sentence is \"I'm looking forward to seeing you soon.\"",
+      "wrong": "I'm looking forward to see you soon.",
+      "solutions": [
+        "I'm looking forward to seeing you soon."
+      ],
+      "wrongReasons": {
+        "im looking forward to see you soon": "In \"look forward to\", \"to\" is a preposition and needs a gerund."
+      }
+    },
+    {
+      "id": "b1-ec-179",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "By\" introduces the doer: the correct sentence is \"I was given a present by my uncle.\"",
+      "wrong": "I was given a present from my uncle.",
+      "solutions": [
+        "I was given a present by my uncle."
+      ],
+      "wrongReasons": {
+        "i was given a present from my uncle": "The agent of a passive sentence is introduced with \"by\"."
+      }
+    },
+    {
+      "id": "b1-ec-180",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Past habit: the correct sentence is \"I used to go to the beach.\"",
+      "wrong": "I used to going to the beach.",
+      "solutions": [
+        "I used to go to the beach."
+      ],
+      "wrongReasons": {
+        "i used to going to the beach": "\"Used to\" is followed by the base form."
+      }
+    },
+    {
+      "id": "b1-ec-181",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adverbs: the correct sentence is \"She plays the piano very well.\"",
+      "wrong": "She plays the piano very good.",
+      "solutions": [
+        "She plays the piano very well."
+      ],
+      "wrongReasons": {
+        "she plays the piano very good": "A verb needs an adverb."
+      }
+    },
+    {
+      "id": "b1-ec-182",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Passive: the correct sentence is \"The tickets were sold in an hour.\"",
+      "wrong": "The tickets was sold in an hour.",
+      "solutions": [
+        "The tickets were sold in an hour."
+      ],
+      "wrongReasons": {
+        "the tickets was sold in an hour": "The plural subject needs \"were\"."
+      }
+    },
+    {
+      "id": "b1-ec-183",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal perfect: the correct sentence is \"He must have forgotten his keys.\"",
+      "wrong": "He must has forgotten his keys.",
+      "solutions": [
+        "He must have forgotten his keys."
+      ],
+      "wrongReasons": {
+        "he must has forgotten his keys": "After \"must\" use \"have\" + participle."
+      }
+    },
+    {
+      "id": "b1-ec-184",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Backshift in reported questions: the correct sentence is \"He asked if I could help him.\"",
+      "wrong": "He asked if I can help him.",
+      "solutions": [
+        "He asked if I could help him."
+      ],
+      "wrongReasons": {
+        "he asked if i can help him": "In reported speech \"can\" becomes \"could\"."
+      }
+    },
+    {
+      "id": "b1-ec-185",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Too and enough: the correct sentence is \"I'm too tired to go out.\"",
+      "wrong": "I'm too tired to not go out.",
+      "solutions": [
+        "I'm too tired to go out."
+      ],
+      "wrongReasons": {
+        "im too tired to not go out": "\"Too ... to\" already has a negative meaning."
+      }
+    },
+    {
+      "id": "b1-ec-186",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Gerunds: the correct sentence is \"I enjoy playing football.\"",
+      "wrong": "I enjoy to play football.",
+      "solutions": [
+        "I enjoy playing football."
+      ],
+      "wrongReasons": {
+        "i enjoy to play football": "\"Enjoy\" is followed by a gerund."
+      }
+    },
+    {
+      "id": "b1-ec-187",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "As ... as: the correct sentence is \"He is not as old as his sister.\"",
+      "wrong": "He is not as old than his sister.",
+      "solutions": [
+        "He is not as old as his sister."
+      ],
+      "wrongReasons": {
+        "he is not as old than his sister": "After \"as\" we use another \"as\", not \"than\"."
+      }
+    },
+    {
+      "id": "b1-ec-188",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Despite: the correct sentence is \"Despite the rain, we had a great time.\"",
+      "wrong": "Despite of the rain, we had a great time.",
+      "solutions": [
+        "Despite the rain, we had a great time."
+      ],
+      "wrongReasons": {
+        "despite of the rain we had a great time": "\"Despite\" is not followed by \"of\"."
+      }
+    },
+    {
+      "id": "b1-ec-189",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal + base form: the correct sentence is \"She can speak three languages.\"",
+      "wrong": "She can speaks three languages.",
+      "solutions": [
+        "She can speak three languages."
+      ],
+      "wrongReasons": {
+        "she can speaks three languages": "After a modal use the base form without -s."
+      }
+    },
+    {
+      "id": "b1-ec-190",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal verbs: the correct sentence is \"They couldn't open the door.\"",
+      "wrong": "They didn't could open the door.",
+      "solutions": [
+        "They couldn't open the door."
+      ],
+      "wrongReasons": {
+        "they didnt could open the door": "\"Could\" does not use \"didn't\"."
+      }
+    },
+    {
+      "id": "b1-ec-191",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Separable phrasal verbs: the correct sentence is \"Could you turn it off, please?\".",
+      "wrong": "Could you turn off it, please?",
+      "solutions": [
+        "Could you turn it off, please?"
+      ],
+      "wrongReasons": {
+        "could you turn off it please": "A pronoun goes between the verb and the particle."
+      }
+    },
+    {
+      "id": "b1-ec-192",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The auxiliary agrees with the subject: the correct sentence is \"The thieves were arrested last night.\"",
+      "wrong": "The thieves was arrested last night.",
+      "solutions": [
+        "The thieves were arrested last night."
+      ],
+      "wrongReasons": {
+        "the thieves was arrested last night": "The plural subject \"thieves\" needs \"were\"."
+      }
+    },
+    {
+      "id": "b1-ec-193",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Irregular adverb: the correct sentence is \"She speaks English very well.\"",
+      "wrong": "She speaks English very good.",
+      "solutions": [
+        "She speaks English very well."
+      ],
+      "wrongReasons": {
+        "she speaks english very good": "The adverb of \"good\" is \"well\"."
+      }
+    },
+    {
+      "id": "b1-ec-194",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb + preposition: the correct sentence is \"We arrived at the hotel at midnight.\"",
+      "wrong": "We arrived to the hotel at midnight.",
+      "solutions": [
+        "We arrived at the hotel at midnight."
+      ],
+      "wrongReasons": {
+        "we arrived to the hotel at midnight": "The verb \"arrive\" is followed by \"at\" or \"in\", not \"to\"."
+      }
+    },
+    {
+      "id": "b1-ec-195",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Comparatives: the correct sentence is \"He is taller than his father.\"",
+      "wrong": "He is more taller than his father.",
+      "solutions": [
+        "He is taller than his father."
+      ],
+      "wrongReasons": {
+        "he is more taller than his father": "Short adjectives take -er, not \"more\"."
+      }
+    },
+    {
+      "id": "b1-ec-196",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Double negatives: the correct sentence is \"I don't know anything about it.\"",
+      "wrong": "I don't know nothing about it.",
+      "solutions": [
+        "I don't know anything about it."
+      ],
+      "wrongReasons": {
+        "i dont know nothing about it": "English does not use double negatives."
+      }
+    },
+    {
+      "id": "b1-ec-197",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "-ed and -ing adjectives: the correct sentence is \"I felt very bored at the party.\"",
+      "wrong": "I felt very boring at the party.",
+      "solutions": [
+        "I felt very bored at the party."
+      ],
+      "wrongReasons": {
+        "i felt very boring at the party": "\"Bored\" describes how a person feels."
+      }
+    },
+    {
+      "id": "b1-ec-198",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prepositions: the correct sentence is \"She is married to a doctor.\"",
+      "wrong": "She is married with a doctor.",
+      "solutions": [
+        "She is married to a doctor."
+      ],
+      "wrongReasons": {
+        "she is married with a doctor": "\"Married to\" is the correct combination."
+      }
+    },
+    {
+      "id": "b1-ec-199",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Third conditional: the correct sentence is \"If I had had a camera, I would have taken photos.\"",
+      "wrong": "If I had a camera, I would have taken photos.",
+      "solutions": [
+        "If I had had a camera, I would have taken photos."
+      ],
+      "wrongReasons": {
+        "if i had a camera i would have taken photos": "A third conditional needs the past perfect in the if-clause."
+      }
+    },
+    {
+      "id": "b1-ec-200",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Give up + gerund: the correct sentence is \"He gave up smoking last month.\"",
+      "wrong": "He gave up to smoke last month.",
+      "solutions": [
+        "He gave up smoking last month."
+      ],
+      "wrongReasons": {
+        "he gave up to smoke last month": "\"Give up\" is followed by a gerund."
+      }
+    },
+    {
+      "id": "b1-ec-201",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Uncountable nouns: the correct sentence is \"I have lots of homework to do.\"",
+      "wrong": "I have lots of homeworks to do.",
+      "solutions": [
+        "I have lots of homework to do."
+      ],
+      "wrongReasons": {
+        "i have lots of homeworks to do": "\"Homework\" is uncountable."
+      }
+    },
+    {
+      "id": "b1-ec-202",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Present perfect: the correct sentence is \"They have been living here since last year.\"",
+      "wrong": "They are living here since last year.",
+      "solutions": [
+        "They have been living here since last year.",
+        "They have lived here since last year."
+      ],
+      "wrongReasons": {
+        "they are living here since last year": "\"Since\" needs a perfect form."
+      }
+    },
+    {
+      "id": "b1-ec-203",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adverbs: the correct sentence is \"He drives very carefully.\"",
+      "wrong": "He drives very careful.",
+      "solutions": [
+        "He drives very carefully."
+      ],
+      "wrongReasons": {
+        "he drives very careful": "A verb needs an adverb."
+      }
+    },
+    {
+      "id": "b1-ec-204",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal verbs: the correct sentence is \"She can speak French and German.\"",
+      "wrong": "She can speaks French and German.",
+      "solutions": [
+        "She can speak French and German."
+      ],
+      "wrongReasons": {
+        "she can speaks french and german": "After \"can\" use the base form without -s."
+      }
+    },
+    {
+      "id": "b1-ec-205",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "If I were you: the correct sentence is \"If I were you, I wouldn't do it.\"",
+      "wrong": "If I would be you, I wouldn't do it.",
+      "solutions": [
+        "If I were you, I wouldn't do it."
+      ],
+      "wrongReasons": {
+        "if i would be you i wouldnt do it": "The if-clause uses \"were\", not \"would be\"."
+      }
+    },
+    {
+      "id": "b1-ec-206",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "For and since: the correct sentence is \"We've been friends for five years.\"",
+      "wrong": "We've been friends since five years.",
+      "solutions": [
+        "We've been friends for five years."
+      ],
+      "wrongReasons": {
+        "weve been friends since five years": "\"For\" is used with periods of time."
+      }
+    },
+    {
+      "id": "b1-ec-207",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "First conditional: the correct sentence is \"If you study, you will pass.\"",
+      "wrong": "If you will study, you will pass.",
+      "solutions": [
+        "If you study, you will pass."
+      ],
+      "wrongReasons": {
+        "if you will study you will pass": "\"Will\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b1-ec-208",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "No article with general uncountable nouns.",
+      "wrong": "I love the music, especially jazz.",
+      "solutions": [
+        "I love music, especially jazz."
+      ],
+      "wrongReasons": {
+        "i love the music especially jazz": "We use no article when we talk about a thing in general."
+      }
+    },
+    {
+      "id": "b1-ec-209",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "State verbs: the correct sentence is \"I know the answer.\"",
+      "wrong": "I am knowing the answer.",
+      "solutions": [
+        "I know the answer."
+      ],
+      "wrongReasons": {
+        "i am knowing the answer": "\"Know\" is a state verb and is not used in the continuous."
+      }
+    },
+    {
+      "id": "b1-ec-210",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Possessive pronouns: the correct sentence is \"These books are mine. Where are yours?\".",
+      "wrong": "These books are mine. Where are your?",
+      "solutions": [
+        "These books are mine. Where are yours?"
+      ],
+      "wrongReasons": {
+        "these books are mine where are your": "\"Your\" must be followed by a noun; \"yours\" stands alone."
+      }
+    },
+    {
+      "id": "b1-ec-211",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Do not combine \"the\" with \"my: the correct sentence is \"I have breakfast with my family.\"",
+      "wrong": "I have breakfast with the my family.",
+      "solutions": [
+        "I have breakfast with my family."
+      ],
+      "wrongReasons": {
+        "i have breakfast with the my family": "We do not use \"the\" with a possessive adjective."
+      }
+    },
+    {
+      "id": "b1-ec-212",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "A little\" with uncountable nouns: the correct sentence is \"There is a little milk in the fridge.\"",
+      "wrong": "There are a few milk in the fridge.",
+      "solutions": [
+        "There is a little milk in the fridge."
+      ],
+      "wrongReasons": {
+        "there are a few milk in the fridge": "\"Milk\" is uncountable, so we use \"a little\" and a singular verb."
+      }
+    },
+    {
+      "id": "b1-ec-213",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adjective + preposition: the correct sentence is \"I'm interested in history.\"",
+      "wrong": "I'm interested on history.",
+      "solutions": [
+        "I'm interested in history."
+      ],
+      "wrongReasons": {
+        "im interested on history": "The adjective \"interested\" is followed by \"in\"."
+      }
+    },
+    {
+      "id": "b1-ec-214",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Collocations: the correct sentence is \"He took a photo of the beautiful sunset.\"",
+      "wrong": "He made a photo of the beautiful sunset.",
+      "solutions": [
+        "He took a photo of the beautiful sunset."
+      ],
+      "wrongReasons": {
+        "he made a photo of the beautiful sunset": "The collocation is \"take a photo\"."
+      }
+    },
+    {
+      "id": "b1-ec-215",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Reported speech: the correct sentence is \"She said she would help us.\"",
+      "wrong": "She said she will help us.",
+      "solutions": [
+        "She said she would help us."
+      ],
+      "wrongReasons": {
+        "she said she will help us": "In reported speech \"will\" becomes \"would\"."
+      }
+    },
+    {
+      "id": "b1-ec-216",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Time clauses: the correct sentence is \"I will call you when I arrive.\"",
+      "wrong": "I will call you when I will arrive.",
+      "solutions": [
+        "I will call you when I arrive."
+      ],
+      "wrongReasons": {
+        "i will call you when i will arrive": "After \"when\" in a time clause the present simple is used for the future."
+      }
+    },
+    {
+      "id": "b1-ec-217",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Gerunds: the correct sentence is \"I'm afraid of flying, so I always take the train.\"",
+      "wrong": "I'm afraid of fly, so I always take the train.",
+      "solutions": [
+        "I'm afraid of flying, so I always take the train."
+      ],
+      "wrongReasons": {
+        "im afraid of fly so i always take the train": "After a preposition we use a gerund."
+      }
+    },
+    {
+      "id": "b1-ec-218",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Look after: the correct sentence is \"She looks after her grandmother.\"",
+      "wrong": "She looks after to her grandmother.",
+      "solutions": [
+        "She looks after her grandmother."
+      ],
+      "wrongReasons": {
+        "she looks after to her grandmother": "\"Look after\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "b1-ec-219",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Another\" means one more: the correct sentence is \"She asked me another question.\"",
+      "wrong": "She asked me an other question.",
+      "solutions": [
+        "She asked me another question."
+      ],
+      "wrongReasons": {
+        "she asked me an other question": "\"Another\" is written as one word."
+      }
+    },
+    {
+      "id": "b1-ec-220",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prepositions: the correct sentence is \"I'm good at maths.\"",
+      "wrong": "I'm good in maths.",
+      "solutions": [
+        "I'm good at maths."
+      ],
+      "wrongReasons": {
+        "im good in maths": "We say \"good at\" for skills."
+      }
+    },
+    {
+      "id": "b1-ec-221",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Too and enough: the correct sentence is \"It's warm enough to swim.\"",
+      "wrong": "It's enough warm to swim.",
+      "solutions": [
+        "It's warm enough to swim."
+      ],
+      "wrongReasons": {
+        "its enough warm to swim": "\"Enough\" goes after the adjective."
+      }
+    },
+    {
+      "id": "b1-ec-222",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "General nouns: the correct sentence is \"Life is very expensive in London.\"",
+      "wrong": "The life is very expensive in London.",
+      "solutions": [
+        "Life is very expensive in London."
+      ],
+      "wrongReasons": {
+        "the life is very expensive in london": "General nouns take no article."
+      }
+    },
+    {
+      "id": "b1-ec-223",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prepositions of time: the correct sentence is \"I was born in 1995.\"",
+      "wrong": "I was born at 1995.",
+      "solutions": [
+        "I was born in 1995."
+      ],
+      "wrongReasons": {
+        "i was born at 1995": "We use \"in\" with years."
+      }
+    },
+    {
+      "id": "b1-ec-224",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Reported speech: the correct sentence is \"He told me that he was ill.\"",
+      "wrong": "He said me that he was ill.",
+      "solutions": [
+        "He told me that he was ill."
+      ],
+      "wrongReasons": {
+        "he said me that he was ill": "\"Say\" does not take a person directly."
+      }
+    },
+    {
+      "id": "b1-ec-225",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb + gerund: the correct sentence is \"She suggested taking a taxi.\"",
+      "wrong": "She suggested to take a taxi.",
+      "solutions": [
+        "She suggested taking a taxi."
+      ],
+      "wrongReasons": {
+        "she suggested to take a taxi": "\"Suggest\" is followed by a gerund."
+      }
+    },
+    {
+      "id": "b1-ec-226",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Future passive: will be + past participle.",
+      "wrong": "The report will finish by Friday.",
+      "solutions": [
+        "The report will be finished by Friday."
+      ],
+      "wrongReasons": {
+        "the report will finish by friday": "The report does not finish itself; it needs the passive."
+      }
+    },
+    {
+      "id": "b1-ec-227",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Countable nouns: the correct sentence is \"We went to the beach and had a picnic.\"",
+      "wrong": "We went to the beach and had picnic.",
+      "solutions": [
+        "We went to the beach and had a picnic."
+      ],
+      "wrongReasons": {
+        "we went to the beach and had picnic": "\"Picnic\" is countable and needs an article."
+      }
+    },
+    {
+      "id": "b1-ec-228",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Backshift in reported speech: the correct sentence is \"She said that she had finished.\"",
+      "wrong": "She said that she has finished.",
+      "solutions": [
+        "She said that she had finished."
+      ],
+      "wrongReasons": {
+        "she said that she has finished": "The present perfect becomes the past perfect in reported speech."
+      }
+    },
+    {
+      "id": "b1-ec-229",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal verbs: the correct sentence is \"We had to go early.\"",
+      "wrong": "We have to went early.",
+      "solutions": [
+        "We had to go early."
+      ],
+      "wrongReasons": {
+        "we have to went early": "\"Have to\" is followed by the base form and needs the past form \"had to\"."
+      }
+    },
+    {
+      "id": "b1-ec-230",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prepositions of time: the correct sentence is \"The meeting is on Monday.\"",
+      "wrong": "The meeting is in Monday.",
+      "solutions": [
+        "The meeting is on Monday."
+      ],
+      "wrongReasons": {
+        "the meeting is in monday": "We use \"on\" with days."
+      }
+    },
+    {
+      "id": "b1-ec-231",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Passive and active forms cannot be mixed in this way.",
+      "wrong": "Nobody has been told us about it.",
+      "solutions": [
+        "Nobody has told us about it.",
+        "We have not been told about it."
+      ],
+      "wrongReasons": {
+        "nobody has been told us about it": "\"Nobody\" is the doer here, so the active is needed; or \"we\" must be the subject of a passive."
+      }
+    },
+    {
+      "id": "b1-ec-232",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Take after: the correct sentence is \"Tom takes after his father.\"",
+      "wrong": "Tom takes his father.",
+      "solutions": [
+        "Tom takes after his father."
+      ],
+      "wrongReasons": {
+        "tom takes his father": "\"Take after\" means to resemble."
+      }
+    },
+    {
+      "id": "b1-ec-233",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Past perfect: the correct sentence is \"When I arrived, the film had already started.\"",
+      "wrong": "When I arrived, the film already started.",
+      "solutions": [
+        "When I arrived, the film had already started."
+      ],
+      "wrongReasons": {
+        "when i arrived the film already started": "The earlier action needs the past perfect."
+      }
+    },
+    {
+      "id": "b1-ec-234",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Present simple negative: the correct sentence is \"He doesn't have a car.\"",
+      "wrong": "He doesn't has a car.",
+      "solutions": [
+        "He doesn't have a car."
+      ],
+      "wrongReasons": {
+        "he doesnt has a car": "After \"doesn't\" the verb is in the base form."
+      }
+    },
+    {
+      "id": "b1-ec-235",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Second conditional: the correct sentence is \"If she were here, she would help us.\"",
+      "wrong": "If she would be here, she would help us.",
+      "solutions": [
+        "If she were here, she would help us."
+      ],
+      "wrongReasons": {
+        "if she would be here she would help us": "The if-clause does not use \"would\"."
+      }
+    },
+    {
+      "id": "b1-ec-236",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "First conditional: the correct sentence is \"If you need help, call me.\"",
+      "wrong": "If you will need help, call me.",
+      "solutions": [
+        "If you need help, call me."
+      ],
+      "wrongReasons": {
+        "if you will need help call me": "\"Will\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b1-ec-237",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Relative adverbs: the correct sentence is \"This is the place where we met.\"",
+      "wrong": "This is the place that we met.",
+      "solutions": [
+        "This is the place where we met."
+      ],
+      "wrongReasons": {
+        "this is the place that we met": "A relative clause about place needs \"where\"."
+      }
+    },
+    {
+      "id": "b1-ec-238",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Despite vs in spite of: the correct sentence is \"Despite the rain, we went out.\"",
+      "wrong": "Despite of the rain, we went out.",
+      "solutions": [
+        "Despite the rain, we went out."
+      ],
+      "wrongReasons": {
+        "despite of the rain we went out": "\"Despite\" is not followed by \"of\"."
+      }
+    },
+    {
+      "id": "b1-ec-239",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Superlatives: the correct sentence is \"She is the most intelligent student in the school.\"",
+      "wrong": "She is the more intelligent student in the school.",
+      "solutions": [
+        "She is the most intelligent student in the school."
+      ],
+      "wrongReasons": {
+        "she is the more intelligent student in the school": "The superlative needs \"most\"."
+      }
+    },
+    {
+      "id": "b1-ec-240",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Passive: the correct sentence is \"The car was repaired yesterday.\"",
+      "wrong": "The car was repair yesterday.",
+      "solutions": [
+        "The car was repaired yesterday."
+      ],
+      "wrongReasons": {
+        "the car was repair yesterday": "The passive needs the past participle."
+      }
+    },
+    {
+      "id": "b1-ec-241",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Put up with: the correct sentence is \"I can't put up with it any longer.\"",
+      "wrong": "I can't put up it any longer.",
+      "solutions": [
+        "I can't put up with it any longer."
+      ],
+      "wrongReasons": {
+        "i cant put up it any longer": "\"Put up with\" needs the preposition \"with\"."
+      }
+    },
+    {
+      "id": "b1-ec-242",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Zero conditional: the correct sentence is \"If you heat water, it boils at 100 degrees.\"",
+      "wrong": "If you heat water, it will boil at 100 degrees.",
+      "solutions": [
+        "If you heat water, it boils at 100 degrees."
+      ],
+      "wrongReasons": {
+        "if you heat water it will boil at 100 degrees": "A scientific fact uses the present simple in both clauses."
+      }
+    },
+    {
+      "id": "b1-ec-243",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prepositions: the correct sentence is \"It depends on the weather.\"",
+      "wrong": "It depends of the weather.",
+      "solutions": [
+        "It depends on the weather."
+      ],
+      "wrongReasons": {
+        "it depends of the weather": "\"Depend\" takes \"on\"."
+      }
+    },
+    {
+      "id": "b1-ec-244",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Ought to: the correct sentence is \"He ought to go to the dentist.\"",
+      "wrong": "He ought go to the dentist.",
+      "solutions": [
+        "He ought to go to the dentist."
+      ],
+      "wrongReasons": {
+        "he ought go to the dentist": "\"Ought\" needs \"to\" before the verb."
+      }
+    },
+    {
+      "id": "b1-ec-245",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal perfect: the correct sentence is \"He should have told us.\"",
+      "wrong": "He should has told us.",
+      "solutions": [
+        "He should have told us."
+      ],
+      "wrongReasons": {
+        "he should has told us": "After \"should\" use \"have\" + past participle."
+      }
+    },
+    {
+      "id": "b1-ec-246",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Much\" with uncountable nouns: the correct sentence is \"I don't have much money.\"",
+      "wrong": "I don't have many money.",
+      "solutions": [
+        "I don't have much money."
+      ],
+      "wrongReasons": {
+        "i dont have many money": "\"Money\" is uncountable, so we use \"much\"."
+      }
+    },
+    {
+      "id": "b1-ec-247",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Preposition + gerund: the correct sentence is \"Thank you for helping me.\"",
+      "wrong": "Thank you for to help me.",
+      "solutions": [
+        "Thank you for helping me."
+      ],
+      "wrongReasons": {
+        "thank you for to help me": "After a preposition we use the -ing form."
+      }
+    },
+    {
+      "id": "b1-ec-248",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Word formation: the correct sentence is \"He has lost his job, so he is now unemployed.\"",
+      "wrong": "He has lost his job, so he is now unemployment.",
+      "solutions": [
+        "He has lost his job, so he is now unemployed."
+      ],
+      "wrongReasons": {
+        "he has lost his job so he is now unemployment": "After \"is\" we need an adjective, not a noun."
+      }
+    },
+    {
+      "id": "b1-ec-249",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal + base form: the correct sentence is \"Can you help me, please?\".",
+      "wrong": "Can you to help me, please?",
+      "solutions": [
+        "Can you help me, please?"
+      ],
+      "wrongReasons": {
+        "can you to help me please": "\"Can\" is followed by the base form without \"to\"."
+      }
+    },
+    {
+      "id": "b1-ec-250",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Take off: the correct sentence is \"The plane took off at nine.\"",
+      "wrong": "The plane took out at nine.",
+      "solutions": [
+        "The plane took off at nine."
+      ],
+      "wrongReasons": {
+        "the plane took out at nine": "\"Take off\" is used for planes."
+      }
+    },
+    {
+      "id": "b1-ec-251",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prepositions: the correct sentence is \"I'm looking forward to seeing you.\"",
+      "wrong": "I'm looking forward to see you.",
+      "solutions": [
+        "I'm looking forward to seeing you."
+      ],
+      "wrongReasons": {
+        "im looking forward to see you": "\"To\" is a preposition and needs a gerund."
+      }
+    },
+    {
+      "id": "b1-ec-252",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Negative of \"could: the correct sentence is \"They couldn't find the way.\"",
+      "wrong": "They didn't could find the way.",
+      "solutions": [
+        "They couldn't find the way."
+      ],
+      "wrongReasons": {
+        "they didnt could find the way": "\"Could\" does not use \"didn't\"."
+      }
+    },
+    {
+      "id": "b1-ec-253",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Neither of\" + singular verb: the correct sentence is \"Neither of my parents is at home.\"",
+      "wrong": "Neither of my parents are at home.",
+      "solutions": [
+        "Neither of my parents is at home."
+      ],
+      "wrongReasons": {
+        "neither of my parents are at home": "\"Neither of\" usually takes a singular verb."
+      }
+    },
+    {
+      "id": "b1-ec-254",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The auxiliary agrees with the subject: the correct sentence is \"The letters are delivered every morning.\"",
+      "wrong": "The letters is delivered every morning.",
+      "solutions": [
+        "The letters are delivered every morning."
+      ],
+      "wrongReasons": {
+        "the letters is delivered every morning": "The plural subject \"letters\" needs \"are\"."
+      }
+    },
+    {
+      "id": "b1-ec-255",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Present perfect: the correct sentence is \"How long have you known her?\".",
+      "wrong": "How long do you know her?",
+      "solutions": [
+        "How long have you known her?"
+      ],
+      "wrongReasons": {
+        "how long do you know her": "\"How long\" up to now needs the present perfect."
+      }
+    },
+    {
+      "id": "b1-ec-256",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Superlatives: the correct sentence is \"She is the nicest girl I know.\"",
+      "wrong": "She is the most nice girl I know.",
+      "solutions": [
+        "She is the nicest girl I know."
+      ],
+      "wrongReasons": {
+        "she is the most nice girl i know": "Short adjectives take -est in the superlative."
+      }
+    },
+    {
+      "id": "b1-ec-257",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Unless: the correct sentence is \"Unless you hurry, you'll miss the bus.\"",
+      "wrong": "Unless you don't hurry, you'll miss the bus.",
+      "solutions": [
+        "Unless you hurry, you'll miss the bus."
+      ],
+      "wrongReasons": {
+        "unless you dont hurry youll miss the bus": "\"Unless\" already has a negative meaning."
+      }
+    },
+    {
+      "id": "b1-ec-258",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal + base form: the correct sentence is \"I must go now.\"",
+      "wrong": "I must to go now.",
+      "solutions": [
+        "I must go now."
+      ],
+      "wrongReasons": {
+        "i must to go now": "\"Must\" is followed by the base form without \"to\"."
+      }
+    },
+    {
+      "id": "b1-ec-259",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Reported questions use statement word order.",
+      "wrong": "She asked me where did I live.",
+      "solutions": [
+        "She asked me where I lived."
+      ],
+      "wrongReasons": {
+        "she asked me where did i live": "In a reported question the word order is normal and no \"did\" is used."
+      }
+    },
+    {
+      "id": "b1-ec-260",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Relative pronouns: the correct sentence is \"The man who lives next door is a pilot.\"",
+      "wrong": "The man which lives next door is a pilot.",
+      "solutions": [
+        "The man who lives next door is a pilot.",
+        "The man that lives next door is a pilot."
+      ],
+      "wrongReasons": {
+        "the man which lives next door is a pilot": "\"Which\" is not used for people."
+      }
+    },
+    {
+      "id": "b1-ec-261",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Told + object + not to + verb: the correct sentence is \"He told me not to touch it.\"",
+      "wrong": "He told me don't touch it.",
+      "solutions": [
+        "He told me not to touch it."
+      ],
+      "wrongReasons": {
+        "he told me dont touch it": "A reported command uses \"not to + infinitive\"."
+      }
+    },
+    {
+      "id": "b1-ec-262",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Some country names take \"the: the correct sentence is \"He lives in the United Kingdom.\"",
+      "wrong": "He lives in United Kingdom.",
+      "solutions": [
+        "He lives in the United Kingdom."
+      ],
+      "wrongReasons": {
+        "he lives in united kingdom": "\"United Kingdom\" takes \"the\"."
+      }
+    },
+    {
+      "id": "b1-ec-263",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Superlatives: the correct sentence is \"This is the most expensive hotel in town.\"",
+      "wrong": "This is the more expensive hotel in town.",
+      "solutions": [
+        "This is the most expensive hotel in town."
+      ],
+      "wrongReasons": {
+        "this is the more expensive hotel in town": "The superlative needs \"most\"."
+      }
+    },
+    {
+      "id": "b1-ec-264",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Present perfect: the correct sentence is \"He has been working here for five years.\"",
+      "wrong": "He is working here for five years.",
+      "solutions": [
+        "He has been working here for five years.",
+        "He has worked here for five years."
+      ],
+      "wrongReasons": {
+        "he is working here for five years": "\"For five years\" up to now needs a perfect form."
+      }
+    },
+    {
+      "id": "b1-ec-265",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Collocations: the correct sentence is \"She made a decision about her future.\"",
+      "wrong": "She took a decision about her future.",
+      "solutions": [
+        "She made a decision about her future."
+      ],
+      "wrongReasons": {
+        "she took a decision about her future": "\"Make a decision\" is the usual collocation."
+      }
+    },
+    {
+      "id": "b1-ec-266",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Present perfect: the correct sentence is \"I have lived here since 2010.\"",
+      "wrong": "I live here since 2010.",
+      "solutions": [
+        "I have lived here since 2010."
+      ],
+      "wrongReasons": {
+        "i live here since 2010": "\"Since\" needs the present perfect, not the present simple."
+      }
+    },
+    {
+      "id": "b1-ec-267",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Present continuous passive: is being + past participle.",
+      "wrong": "The film is being watching by millions.",
+      "solutions": [
+        "The film is being watched by millions."
+      ],
+      "wrongReasons": {
+        "the film is being watching by millions": "After \"being\" use the past participle."
+      }
+    },
+    {
+      "id": "b1-ec-268",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Third conditional: the correct sentence is \"If he had known, he would have told us.\"",
+      "wrong": "If he had known, he would told us.",
+      "solutions": [
+        "If he had known, he would have told us."
+      ],
+      "wrongReasons": {
+        "if he had known he would told us": "The third conditional needs \"would have\" + past participle."
+      }
+    },
+    {
+      "id": "b1-ec-269",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal + base form: the correct sentence is \"You must wear a uniform.\"",
+      "wrong": "You must to wear a uniform.",
+      "solutions": [
+        "You must wear a uniform."
+      ],
+      "wrongReasons": {
+        "you must to wear a uniform": "\"Must\" is followed by the base form without \"to\"."
+      }
+    },
+    {
+      "id": "b1-ec-270",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Reflexive pronouns: the correct sentence is \"She hurt herself when she fell.\"",
+      "wrong": "She hurt her when she fell.",
+      "solutions": [
+        "She hurt herself when she fell."
+      ],
+      "wrongReasons": {
+        "she hurt her when she fell": "A reflexive pronoun is needed when subject and object are the same."
+      }
+    },
+    {
+      "id": "b1-ec-271",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Tenses: the correct sentence is \"They called off the meeting yesterday.\"",
+      "wrong": "They call off the meeting yesterday.",
+      "solutions": [
+        "They called off the meeting yesterday."
+      ],
+      "wrongReasons": {
+        "they call off the meeting yesterday": "\"Yesterday\" needs the past simple."
+      }
+    },
+    {
+      "id": "b1-ec-272",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Wish + past simple: the correct sentence is \"He wishes he had more friends.\"",
+      "wrong": "He wishes he has more friends.",
+      "solutions": [
+        "He wishes he had more friends."
+      ],
+      "wrongReasons": {
+        "he wishes he has more friends": "After \"wish\" the verb moves back."
+      }
+    },
+    {
+      "id": "b1-ec-273",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adjective + preposition: the correct sentence is \"She is afraid of dogs.\"",
+      "wrong": "She is afraid from dogs.",
+      "solutions": [
+        "She is afraid of dogs."
+      ],
+      "wrongReasons": {
+        "she is afraid from dogs": "The adjective \"afraid\" is followed by \"of\"."
+      }
+    },
+    {
+      "id": "b1-ec-274",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Enough: the correct sentence is \"The exam was easy enough for everyone.\"",
+      "wrong": "The exam was enough easy for everyone.",
+      "solutions": [
+        "The exam was easy enough for everyone."
+      ],
+      "wrongReasons": {
+        "the exam was enough easy for everyone": "\"Enough\" goes after the adjective."
+      }
+    },
+    {
+      "id": "b1-ec-275",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Superlatives: the correct sentence is \"It's the most expensive hotel in town.\"",
+      "wrong": "It's the more expensive hotel in town.",
+      "solutions": [
+        "It's the most expensive hotel in town."
+      ],
+      "wrongReasons": {
+        "its the more expensive hotel in town": "The superlative takes \"most\"."
+      }
+    },
+    {
+      "id": "b1-ec-276",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Double negatives: the correct sentence is \"I can't find my phone anywhere.\"",
+      "wrong": "I can't find my phone nowhere.",
+      "solutions": [
+        "I can't find my phone anywhere."
+      ],
+      "wrongReasons": {
+        "i cant find my phone nowhere": "English does not use double negatives."
+      }
+    },
+    {
+      "id": "b1-ec-277",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Gerunds: the correct sentence is \"He suggested going to the beach.\"",
+      "wrong": "He suggested to go to the beach.",
+      "solutions": [
+        "He suggested going to the beach."
+      ],
+      "wrongReasons": {
+        "he suggested to go to the beach": "\"Suggest\" is followed by a gerund."
+      }
+    },
+    {
+      "id": "b1-ec-278",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Past simple question: the correct sentence is \"Did you see the match last night?\".",
+      "wrong": "Did you saw the match last night?",
+      "solutions": [
+        "Did you see the match last night?"
+      ],
+      "wrongReasons": {
+        "did you saw the match last night": "After \"did\" the verb is in the base form."
+      }
+    },
+    {
+      "id": "b1-ec-279",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prepositions: the correct sentence is \"I like cooking, but I'm not very good at it.\"",
+      "wrong": "I like cooking, but I'm not very good in it.",
+      "solutions": [
+        "I like cooking, but I'm not very good at it."
+      ],
+      "wrongReasons": {
+        "i like cooking but im not very good in it": "We say \"good at\"."
+      }
+    },
+    {
+      "id": "b1-ec-280",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adverbs: the correct sentence is \"She dances very well.\"",
+      "wrong": "She dances very good.",
+      "solutions": [
+        "She dances very well."
+      ],
+      "wrongReasons": {
+        "she dances very good": "A verb needs an adverb."
+      }
+    },
+    {
+      "id": "b1-ec-281",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "No article for the purpose of the place.",
+      "wrong": "We went to the church on Sunday to pray.",
+      "solutions": [
+        "We went to church on Sunday to pray."
+      ],
+      "wrongReasons": {
+        "we went to the church on sunday to pray": "We omit the article when we mention the purpose of the place."
+      }
+    },
+    {
+      "id": "b1-ec-282",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal perfect: the correct sentence is \"She must have gone home.\"",
+      "wrong": "She must have went home.",
+      "solutions": [
+        "She must have gone home."
+      ],
+      "wrongReasons": {
+        "she must have went home": "After \"must have\" use the past participle \"gone\"."
+      }
+    },
+    {
+      "id": "b1-ec-283",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Third conditional: the correct sentence is \"If it hadn't rained, we would have gone out.\"",
+      "wrong": "If it hadn't rained, we would go out.",
+      "solutions": [
+        "If it hadn't rained, we would have gone out."
+      ],
+      "wrongReasons": {
+        "if it hadnt rained we would go out": "The third conditional needs \"would have gone\"."
+      }
+    },
+    {
+      "id": "b1-ec-284",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Double negatives: the correct sentence is \"I didn't see anyone at the party.\"",
+      "wrong": "I didn't see no one at the party.",
+      "solutions": [
+        "I didn't see anyone at the party."
+      ],
+      "wrongReasons": {
+        "i didnt see no one at the party": "English does not use double negatives."
+      }
+    },
+    {
+      "id": "b1-ec-285",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb + infinitive: the correct sentence is \"We decided to go by train.\"",
+      "wrong": "We decided going by train.",
+      "solutions": [
+        "We decided to go by train."
+      ],
+      "wrongReasons": {
+        "we decided going by train": "\"Decide\" is followed by \"to + verb\"."
+      }
+    },
+    {
+      "id": "b1-ec-286",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "First conditional: the correct sentence is \"If it rains, we will stay at home.\"",
+      "wrong": "If it will rain, we will stay at home.",
+      "solutions": [
+        "If it rains, we will stay at home."
+      ],
+      "wrongReasons": {
+        "if it will rain we will stay at home": "\"Will\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b1-ec-287",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "-ed and -ing adjectives: the correct sentence is \"I'm very excited about the trip.\"",
+      "wrong": "I'm very exciting about the trip.",
+      "solutions": [
+        "I'm very excited about the trip."
+      ],
+      "wrongReasons": {
+        "im very exciting about the trip": "\"Excited\" describes how a person feels."
+      }
+    },
+    {
+      "id": "b1-ec-288",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Relative pronouns: the correct sentence is \"I've got a friend whose father is a doctor.\"",
+      "wrong": "I've got a friend who his father is a doctor.",
+      "solutions": [
+        "I've got a friend whose father is a doctor."
+      ],
+      "wrongReasons": {
+        "ive got a friend who his father is a doctor": "Possession in a relative clause uses \"whose\"."
+      }
+    },
+    {
+      "id": "b1-ec-289",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prohibition: the correct sentence is \"You mustn't park here.\"",
+      "wrong": "You don't must park here.",
+      "solutions": [
+        "You mustn't park here."
+      ],
+      "wrongReasons": {
+        "you dont must park here": "\"Must\" does not use \"don't\"; the prohibition is \"mustn't\"."
+      }
+    },
+    {
+      "id": "b1-ec-290",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Modal verbs: the correct sentence is \"You must be careful with that knife.\"",
+      "wrong": "You must to be careful with that knife.",
+      "solutions": [
+        "You must be careful with that knife."
+      ],
+      "wrongReasons": {
+        "you must to be careful with that knife": "\"Must\" is followed by the base form without \"to\"."
+      }
+    },
+    {
+      "id": "b1-ec-291",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb + gerund: the correct sentence is \"He avoided answering the question.\"",
+      "wrong": "He avoided to answer the question.",
+      "solutions": [
+        "He avoided answering the question."
+      ],
+      "wrongReasons": {
+        "he avoided to answer the question": "\"Avoid\" is followed by a gerund."
+      }
+    },
+    {
+      "id": "b1-ec-292",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Tell someone\" or \"say that: the correct sentence is \"He told me that he was tired.\"",
+      "wrong": "He said me that he was tired.",
+      "solutions": [
+        "He told me that he was tired.",
+        "He said that he was tired."
+      ],
+      "wrongReasons": {
+        "he said me that he was tired": "\"Say\" is not followed directly by a person; \"tell\" is."
+      }
+    },
+    {
+      "id": "b1-ec-293",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Agreement: the correct sentence is \"Everyone is ready to start.\"",
+      "wrong": "Everyone are ready to start.",
+      "solutions": [
+        "Everyone is ready to start."
+      ],
+      "wrongReasons": {
+        "everyone are ready to start": "\"Everyone\" takes a singular verb."
+      }
+    },
+    {
+      "id": "b1-ec-294",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Third conditional: the correct sentence is \"If I had known, I would have told you.\"",
+      "wrong": "If I had known, I would told you.",
+      "solutions": [
+        "If I had known, I would have told you."
+      ],
+      "wrongReasons": {
+        "if i had known i would told you": "The third conditional needs \"would have\" + participle."
+      }
+    },
+    {
+      "id": "b1-ec-295",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Second conditional: the correct sentence is \"What would you do if you lost your job?\".",
+      "wrong": "What will you do if you would lose your job?",
+      "solutions": [
+        "What would you do if you lost your job?"
+      ],
+      "wrongReasons": {
+        "what will you do if you would lose your job": "The second conditional uses \"would\" + base and the past simple."
+      }
+    },
+    {
+      "id": "b1-ec-296",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "First conditional: present simple + will.",
+      "wrong": "If I will see him, I will tell him.",
+      "solutions": [
+        "If I see him, I will tell him."
+      ],
+      "wrongReasons": {
+        "if i will see him i will tell him": "After \"if\" we use the present simple, not \"will\"."
+      }
+    },
+    {
+      "id": "b1-ec-297",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Reflexive pronouns: the correct sentence is \"He cut himself while shaving.\"",
+      "wrong": "He cut him while shaving.",
+      "solutions": [
+        "He cut himself while shaving."
+      ],
+      "wrongReasons": {
+        "he cut him while shaving": "A reflexive pronoun is needed."
+      }
+    },
+    {
+      "id": "b1-ec-298",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adjective + preposition + gerund: the correct sentence is \"He is interested in learning Chinese.\"",
+      "wrong": "He is interested to learn Chinese.",
+      "solutions": [
+        "He is interested in learning Chinese."
+      ],
+      "wrongReasons": {
+        "he is interested to learn chinese": "The adjective \"interested\" takes \"in\" and a gerund."
+      }
+    },
+    {
+      "id": "b1-ec-299",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Wishes: the correct sentence is \"I wish I could speak Italian.\"",
+      "wrong": "I wish I can speak Italian.",
+      "solutions": [
+        "I wish I could speak Italian."
+      ],
+      "wrongReasons": {
+        "i wish i can speak italian": "After \"wish\" the verb moves back."
+      }
+    },
+    {
+      "id": "b1-ec-300",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Wish + past form: the correct sentence is \"I wish I could fly.\"",
+      "wrong": "I wish I can fly.",
+      "solutions": [
+        "I wish I could fly."
+      ],
+      "wrongReasons": {
+        "i wish i can fly": "After \"wish\" the verb moves back to \"could\"."
+      }
+    },
+    {
+      "id": "b1-ec-301",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Relative pronouns: the correct sentence is \"The film that we saw was boring.\"",
+      "wrong": "The film what we saw was boring.",
+      "solutions": [
+        "The film that we saw was boring.",
+        "The film which we saw was boring."
+      ],
+      "wrongReasons": {
+        "the film what we saw was boring": "\"What\" is not a relative pronoun for things."
+      }
+    },
+    {
+      "id": "b1-ec-302",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Uncountable nouns: the correct sentence is \"He gave me some advice about my career.\"",
+      "wrong": "He gave me an advice about my career.",
+      "solutions": [
+        "He gave me some advice about my career."
+      ],
+      "wrongReasons": {
+        "he gave me an advice about my career": "\"Advice\" is uncountable and cannot take \"an\"."
+      }
+    },
+    {
+      "id": "b1-ec-303",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adjectives: the correct sentence is \"My sister is a very kind person.\"",
+      "wrong": "My sister is a very kindly person.",
+      "solutions": [
+        "My sister is a very kind person."
+      ],
+      "wrongReasons": {
+        "my sister is a very kindly person": "\"Kindly\" is usually an adverb; the adjective is \"kind\"."
+      }
+    },
+    {
+      "id": "b1-ec-304",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Uncountable nouns: the correct sentence is \"She always makes the same mistake in her homework.\"",
+      "wrong": "She always makes the same mistake in her homeworks.",
+      "solutions": [
+        "She always makes the same mistake in her homework."
+      ],
+      "wrongReasons": {
+        "she always makes the same mistake in her homeworks": "\"Homework\" is uncountable."
+      }
+    },
+    {
+      "id": "b1-ec-305",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Such a\" + adjective + singular noun: the correct sentence is \"It was such a nice day that we went swimming.\"",
+      "wrong": "It was such nice day that we went swimming.",
+      "solutions": [
+        "It was such a nice day that we went swimming."
+      ],
+      "wrongReasons": {
+        "it was such nice day that we went swimming": "After \"such\" a singular countable noun needs \"a\"."
+      }
+    },
+    {
+      "id": "b1-ec-306",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Past simple: the correct sentence is \"Yesterday I saw a great film.\"",
+      "wrong": "Yesterday I have seen a great film.",
+      "solutions": [
+        "Yesterday I saw a great film."
+      ],
+      "wrongReasons": {
+        "yesterday i have seen a great film": "A finished past time takes the simple past."
+      }
+    },
+    {
+      "id": "b1-ec-307",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "State verbs: the correct sentence is \"He must have a lot of money.\"",
+      "wrong": "He must be having a lot of money.",
+      "solutions": [
+        "He must have a lot of money."
+      ],
+      "wrongReasons": {
+        "he must be having a lot of money": "\"Have\" is a state verb and is not used in the continuous."
+      }
+    },
+    {
+      "id": "b1-ec-308",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Both of\" + plural noun: the correct sentence is \"Both of the answers are correct.\"",
+      "wrong": "Both of the answer are correct.",
+      "solutions": [
+        "Both of the answers are correct."
+      ],
+      "wrongReasons": {
+        "both of the answer are correct": "After \"both of the\" the noun is plural."
+      }
+    },
+    {
+      "id": "b1-ec-309",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Irregular participle: go – went – gone: the correct sentence is \"I wouldn't have gone if I had known.\"",
+      "wrong": "I wouldn't have went if I had known.",
+      "solutions": [
+        "I wouldn't have gone if I had known."
+      ],
+      "wrongReasons": {
+        "i wouldnt have went if i had known": "\"Have\" needs the past participle \"gone\"."
+      }
+    },
+    {
+      "id": "b1-ec-310",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "If I were you: the correct sentence is \"If I were you, I would go.\"",
+      "wrong": "If I was you, I would go.",
+      "solutions": [
+        "If I were you, I would go."
+      ],
+      "wrongReasons": {
+        "if i was you i would go": "In this advice structure we use \"were\"."
+      }
+    },
+    {
+      "id": "b1-ec-311",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Uncountable nouns have no plural: the correct sentence is \"I've got a lot of information.\"",
+      "wrong": "I've got a lot of informations.",
+      "solutions": [
+        "I've got a lot of information."
+      ],
+      "wrongReasons": {
+        "ive got a lot of informations": "\"Information\" is uncountable and has no plural."
+      }
+    },
+    {
+      "id": "b1-ec-312",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prepositions: the correct sentence is \"He apologised to me for being late.\"",
+      "wrong": "He apologised me for being late.",
+      "solutions": [
+        "He apologised to me for being late."
+      ],
+      "wrongReasons": {
+        "he apologised me for being late": "\"Apologise\" takes \"to\" before the person."
+      }
+    },
+    {
+      "id": "b1-ec-313",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "First conditional: the correct sentence is \"If it rains, we'll stay at home.\"",
+      "wrong": "If it will rain, we'll stay at home.",
+      "solutions": [
+        "If it rains, we'll stay at home."
+      ],
+      "wrongReasons": {
+        "if it will rain well stay at home": "\"Will\" is not used in an if-clause."
+      }
+    },
+    {
+      "id": "b1-ec-314",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Not to + infinitive: the correct sentence is \"They were told not to make noise.\"",
+      "wrong": "They were told to not make noise.",
+      "solutions": [
+        "They were told not to make noise."
+      ],
+      "wrongReasons": {
+        "they were told to not make noise": "The negative goes before \"to\"."
+      }
+    },
+    {
+      "id": "b1-ec-315",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Break into: the correct sentence is \"The thieves broke into the house through the window.\"",
+      "wrong": "The thieves broke in to the house through the window.",
+      "solutions": [
+        "The thieves broke into the house through the window."
+      ],
+      "wrongReasons": {
+        "the thieves broke in to the house through the window": "\"Break into\" is written as one preposition."
+      }
+    },
+    {
+      "id": "b1-ec-316",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Each of the\" + plural noun: the correct sentence is \"Each of the students received a certificate.\"",
+      "wrong": "Each of students received a certificate.",
+      "solutions": [
+        "Each of the students received a certificate."
+      ],
+      "wrongReasons": {
+        "each of students received a certificate": "After \"each of\" we need \"the\" or a determiner."
+      }
+    },
+    {
+      "id": "b1-ec-317",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prepositions: the correct sentence is \"We arrived at the station at six.\"",
+      "wrong": "We arrived to the station at six.",
+      "solutions": [
+        "We arrived at the station at six."
+      ],
+      "wrongReasons": {
+        "we arrived to the station at six": "\"Arrive\" takes \"at\" or \"in\"."
+      }
+    },
+    {
+      "id": "b1-ec-318",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Second conditional: the correct sentence is \"If I were rich, I would buy a boat.\"",
+      "wrong": "If I would be rich, I would buy a boat.",
+      "solutions": [
+        "If I were rich, I would buy a boat."
+      ],
+      "wrongReasons": {
+        "if i would be rich i would buy a boat": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "b1-ec-319",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adjective order: the correct sentence is \"They live in an old brick house.\"",
+      "wrong": "They live in a brick old house.",
+      "solutions": [
+        "They live in an old brick house."
+      ],
+      "wrongReasons": {
+        "they live in a brick old house": "Age comes before material in the adjective order."
+      }
+    },
+    {
+      "id": "b1-ec-320",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Present passive: is/are + past participle.",
+      "wrong": "English is speaking in many countries.",
+      "solutions": [
+        "English is spoken in many countries."
+      ],
+      "wrongReasons": {
+        "english is speaking in many countries": "The passive needs the past participle \"spoken\", not \"speaking\"."
+      }
+    },
+    {
+      "id": "b1-ec-321",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Wish + past simple: the correct sentence is \"I wish I had a bigger house.\"",
+      "wrong": "I wish I would have a bigger house.",
+      "solutions": [
+        "I wish I had a bigger house."
+      ],
+      "wrongReasons": {
+        "i wish i would have a bigger house": "After \"wish\" about a present state we use the past simple."
+      }
+    },
+    {
+      "id": "b1-ec-322",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "The passive is formed with a form of \"be\" + past participle.",
+      "wrong": "This book written by a famous author.",
+      "solutions": [
+        "This book was written by a famous author.",
+        "This book is written by a famous author."
+      ],
+      "wrongReasons": {
+        "this book written by a famous author": "The passive needs the verb \"be\" before the past participle."
+      }
+    },
+    {
+      "id": "b1-ec-323",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Conditional clauses use the present simple.",
+      "wrong": "As long as you will be careful, you can use it.",
+      "solutions": [
+        "As long as you are careful, you can use it."
+      ],
+      "wrongReasons": {
+        "as long as you will be careful you can use it": "After \"as long as\" the present simple is used for the future."
+      }
+    },
+    {
+      "id": "b1-ec-324",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb patterns: the correct sentence is \"I explained the problem to them.\"",
+      "wrong": "I explained them the problem.",
+      "solutions": [
+        "I explained the problem to them."
+      ],
+      "wrongReasons": {
+        "i explained them the problem": "\"Explain\" is followed by the thing and then \"to\" plus the person."
+      }
+    },
+    {
+      "id": "b1-ec-325",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Definite article: the correct sentence is \"He is the best player in the team.\"",
+      "wrong": "He is the best player in a team.",
+      "solutions": [
+        "He is the best player in the team."
+      ],
+      "wrongReasons": {
+        "he is the best player in a team": "The team is specific."
+      }
+    },
+    {
+      "id": "b1-ec-326",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Some and any: the correct sentence is \"Do you know anyone who can help?\".",
+      "wrong": "Do you know someone who can help? There is nobody here.",
+      "solutions": [
+        "Do you know anyone who can help?"
+      ],
+      "wrongReasons": {
+        "do you know someone who can help there is nobody here": "In a question we usually use \"anyone\"."
+      }
+    },
+    {
+      "id": "b1-ec-327",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Comparatives: the correct sentence is \"This exercise is easier than the last one.\"",
+      "wrong": "This exercise is more easy than the last one.",
+      "solutions": [
+        "This exercise is easier than the last one."
+      ],
+      "wrongReasons": {
+        "this exercise is more easy than the last one": "Adjectives ending in -y change to -ier."
+      }
+    },
+    {
+      "id": "b1-ec-328",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Articles with sports: the correct sentence is \"She plays tennis every week.\"",
+      "wrong": "She plays the tennis every week.",
+      "solutions": [
+        "She plays tennis every week."
+      ],
+      "wrongReasons": {
+        "she plays the tennis every week": "Sports take no article."
+      }
+    },
+    {
+      "id": "b1-ec-329",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Prepositions: the correct sentence is \"We arrived at the airport two hours before the flight.\"",
+      "wrong": "We arrived to the airport two hours before the flight.",
+      "solutions": [
+        "We arrived at the airport two hours before the flight."
+      ],
+      "wrongReasons": {
+        "we arrived to the airport two hours before the flight": "\"Arrive\" is followed by \"at\" with a small place."
+      }
+    },
+    {
+      "id": "b1-ec-330",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Verb + preposition: the correct sentence is \"I'm waiting for you.\"",
+      "wrong": "I'm waiting you.",
+      "solutions": [
+        "I'm waiting for you."
+      ],
+      "wrongReasons": {
+        "im waiting you": "The verb \"wait\" is followed by \"for\"."
+      }
+    },
+    {
+      "id": "b1-ec-331",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Adjective + preposition: the correct sentence is \"I'm tired of waiting for hours.\"",
+      "wrong": "I'm tired from waiting for hours.",
+      "solutions": [
+        "I'm tired of waiting for hours."
+      ],
+      "wrongReasons": {
+        "im tired from waiting for hours": "\"Tired of\" is used when you are bored with something."
+      }
+    },
+    {
+      "id": "b1-ec-332",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Past simple: the correct sentence is \"She went to school every day last month.\"",
+      "wrong": "She has gone to school every day last month.",
+      "solutions": [
+        "She went to school every day last month."
+      ],
+      "wrongReasons": {
+        "she has gone to school every day last month": "\"Last month\" is a finished time."
+      }
+    },
+    {
+      "id": "b1-ec-333",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Irregular participles: steal – stole – stolen.",
+      "wrong": "My phone has been stole.",
+      "solutions": [
+        "My phone has been stolen."
+      ],
+      "wrongReasons": {
+        "my phone has been stole": "After \"has been\" use the past participle \"stolen\"."
+      }
+    },
+    {
+      "id": "b1-ec-334",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Articles with jobs: the correct sentence is \"I want to be a doctor like my father.\"",
+      "wrong": "I want to be doctor like my father.",
+      "solutions": [
+        "I want to be a doctor like my father."
+      ],
+      "wrongReasons": {
+        "i want to be doctor like my father": "A job needs the article \"a\"."
+      }
+    },
+    {
+      "id": "b1-ec-335",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Past simple: the correct sentence is \"I went to Paris last year.\"",
+      "wrong": "I have been to Paris last year.",
+      "solutions": [
+        "I went to Paris last year."
+      ],
+      "wrongReasons": {
+        "i have been to paris last year": "A finished time takes the simple past."
+      }
+    },
+    {
+      "id": "b1-ec-336",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "So and such: the correct sentence is \"It was such a good film that we saw it twice.\"",
+      "wrong": "It was so a good film that we saw it twice.",
+      "solutions": [
+        "It was such a good film that we saw it twice."
+      ],
+      "wrongReasons": {
+        "it was so a good film that we saw it twice": "Before \"a + noun\" we use \"such\"."
+      }
+    },
+    {
+      "id": "b1-ec-337",
+      "type": "error-correct",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "This sentence has a mistake. Rewrite it correctly.",
+      "explanation": "Indirect questions: the correct sentence is \"Do you know where the post office is?\".",
+      "wrong": "Do you know where is the post office?",
+      "solutions": [
+        "Do you know where the post office is?"
+      ],
+      "wrongReasons": {
+        "do you know where is the post office": "In an indirect question the word order is normal."
+      }
     }
   ]
 }
