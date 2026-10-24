@@ -7,6 +7,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After didn't use the base form of the verb: didn't go.",
       "wrongReasons": {
@@ -23,6 +26,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use the present perfect (simple or continuous) with 'since', not the present continuous.",
       "wrongReasons": {
@@ -40,6 +46,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The present perfect is have/has + past participle: She has written three books.",
       "wrongReasons": {
@@ -57,6 +66,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'since' with a point in time and 'for' with a period: since 2012, for ten years.",
       "wrongReasons": {
@@ -74,6 +86,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'for' with a period of time: We have lived here for six years.",
       "wrongReasons": {
@@ -93,6 +108,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After has/have use the past participle: The bus has already left.",
       "wrongReasons": {
@@ -109,6 +127,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The present perfect uses the past participle: I have seen it twice.",
       "wrongReasons": {
@@ -126,6 +147,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'yet' at the end of negative sentences and 'already' in positive ones: I haven't eaten yet.",
       "wrongReasons": {
@@ -147,6 +171,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use the present perfect with 'how long' for a situation that started in the past and continues now: How long have you known her?",
       "wrongReasons": {
@@ -163,6 +190,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "With 'for' + a period up to now, use the present perfect: They have been married for ten years.",
       "wrongReasons": {
@@ -179,6 +209,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "With a finished time like 'last year' or 'yesterday', use the past simple: I saw him yesterday.",
       "wrongReasons": {
@@ -195,6 +228,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'This is the first time', use the present perfect: This is the first time I have flown.",
       "wrongReasons": {
@@ -212,6 +248,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "present-perfect",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Put 'just' between have/has and the past participle: She has just called.",
       "wrongReasons": {
@@ -230,6 +269,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use the past continuous for the longer action and the past simple for the short action that interrupts it: I was reading when he called.",
       "wrongReasons": {
@@ -246,6 +288,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The past continuous is was/were + -ing: At eight we were watching TV.",
       "wrongReasons": {
@@ -262,6 +307,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'were' with you, we and they in the past continuous: They were running.",
       "wrongReasons": {
@@ -278,6 +326,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The past continuous is was/were + verb-ing: The kids were singing.",
       "wrongReasons": {
@@ -295,6 +346,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A short, sudden action uses the past simple; the background action uses the past continuous: She fell while she was running.",
       "wrongReasons": {
@@ -311,6 +365,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Past continuous questions are was/were + subject + -ing: Were you working?",
       "wrongReasons": {
@@ -327,6 +384,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Plural subjects take 'were' in the past continuous: The students weren't talking.",
       "wrongReasons": {
@@ -346,6 +406,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "State verbs like know, like and want are not used in continuous forms: I knew her name.",
       "wrongReasons": {
@@ -365,6 +428,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The sudden action that interrupts uses the past simple: I was walking when it started to rain.",
       "wrongReasons": {
@@ -381,6 +447,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use the past simple for the event that interrupts an action in progress: What were you doing when the alarm rang?",
       "wrongReasons": {
@@ -398,6 +467,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "past-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A single, complete decision uses the past simple: It was late, so we decided to leave.",
       "wrongReasons": {
@@ -417,6 +489,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In the first conditional, use the present simple after 'if' and will in the other part: If it rains, we will stay in.",
       "wrongReasons": {
@@ -436,6 +511,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The zero conditional uses the present simple in both parts for facts: If you heat water, it boils.",
       "wrongReasons": {
@@ -457,6 +535,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Unless' means 'if not': Unless you study, you will fail. = If you don't study, you will fail.",
       "wrongReasons": {
@@ -488,6 +569,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'when', 'as soon as' and 'if' about the future, use the present simple: I'll text you when I arrive.",
       "wrongReasons": {
@@ -505,6 +589,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "For general facts, use the zero conditional with the present simple: If you mix red and white, you get pink.",
       "wrongReasons": {
@@ -526,6 +613,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Plural subjects take the base form in the present simple: If it is too hot, the flowers die.",
       "wrongReasons": {
@@ -553,6 +643,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "With he, she and it, the present simple negative is 'doesn't': If she doesn't hurry, she will be late.",
       "wrongReasons": {
@@ -580,6 +673,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In the zero conditional, both verbs are in the present simple: If you press here, the door opens.",
       "wrongReasons": {
@@ -599,6 +695,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In the first conditional, the 'if' part uses the present simple, also in the negative: If I don't pass, I will try again.",
       "wrongReasons": {
@@ -616,6 +715,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'if', use the present simple, not will: Tell me if you need anything.",
       "wrongReasons": {
@@ -632,6 +734,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Plural subjects use the base form in the present simple: If children sleep badly, they get tired.",
       "wrongReasons": {
@@ -653,6 +758,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The past passive is was/were + past participle: The castle was built in 1200.",
       "wrongReasons": {
@@ -669,6 +777,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The present passive is am/is/are + past participle: Spanish is spoken in Mexico.",
       "wrongReasons": {
@@ -685,6 +796,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The present passive is is/are + past participle: The rooms are cleaned every day.",
       "wrongReasons": {
@@ -701,6 +815,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The past passive uses the past participle: My wallet was stolen.",
       "wrongReasons": {
@@ -717,6 +834,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'were' with plural subjects in the past passive: The tickets were sold quickly.",
       "wrongReasons": {
@@ -733,6 +853,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "When we say who did the action with 'by', use the passive: The school was opened by the queen.",
       "wrongReasons": {
@@ -749,6 +872,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The passive uses the past participle (-ed for regular verbs): The flight was delayed.",
       "wrongReasons": {
@@ -766,6 +892,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The present passive is is/are + past participle: The park is used by many families.",
       "wrongReasons": {
@@ -782,6 +911,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In the passive, use 'by' to say who did the action: The book was written by my aunt.",
       "wrongReasons": {
@@ -798,6 +930,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Passive questions are was/were + subject + past participle: Was the parcel delivered?",
       "wrongReasons": {
@@ -814,6 +949,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The passive uses the past participle: The pizza was eaten in five minutes.",
       "wrongReasons": {
@@ -830,6 +968,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Modal verbs like must, can and should are followed by the base form without 'to': You must stop here.",
       "wrongReasons": {
@@ -847,6 +988,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After a modal verb, use the base form with no -s: He can swim.",
       "wrongReasons": {
@@ -863,6 +1007,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Mustn't' means it is not allowed; 'don't have to' means it is not necessary: You mustn't park here.",
       "wrongReasons": {
@@ -882,6 +1029,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Should' is followed by the base form without 'to': You should rest.",
       "wrongReasons": {
@@ -898,6 +1048,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Questions with 'must' do not use 'do'; with 'have to' they do: Do I have to pay? / Must I pay?",
       "wrongReasons": {
@@ -916,6 +1069,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'might' use the base form: It might rain.",
       "wrongReasons": {
@@ -932,6 +1088,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'could' for ability in the past: When I was ten, I could ride a bike.",
       "wrongReasons": {
@@ -949,6 +1108,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Shouldn't' is followed by the base form without 'to': You shouldn't worry.",
       "wrongReasons": {
@@ -966,6 +1128,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Must' has no past form. For obligation in the past, use 'had to': Last week I had to work on Saturday.",
       "wrongReasons": {
@@ -982,6 +1147,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In requests with 'could', use the base form without 'to': Could you help me?",
       "wrongReasons": {
@@ -999,6 +1167,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'had better' ('d better) + base form for strong advice: You'd better leave now.",
       "wrongReasons": {
@@ -1026,6 +1197,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "used-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'used to' + base form for past habits: I used to walk to school.",
       "wrongReasons": {
@@ -1042,6 +1216,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "used-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In questions with 'did', use 'use to' (no -d): Did you use to play tennis?",
       "wrongReasons": {
@@ -1058,6 +1235,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "used-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In negatives with 'didn't', use 'use to': I didn't use to drink coffee.",
       "wrongReasons": {
@@ -1076,6 +1256,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "used-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Used to' is followed by the base form of the verb: She used to live in Paris.",
       "wrongReasons": {
@@ -1092,6 +1275,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "used-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'there used to be' for things that existed in the past but not now: There used to be a shop here.",
       "wrongReasons": {
@@ -1108,6 +1294,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "used-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Used to' is only for the past. For present habits use the present simple, often with 'usually': I usually walk to work.",
       "wrongReasons": {
@@ -1125,6 +1314,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "used-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In questions with 'did', use 'use to': What did you use to do at weekends?",
       "wrongReasons": {
@@ -1142,6 +1334,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "used-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Used to' is always followed by the base form: I used to have a dog.",
       "wrongReasons": {
@@ -1161,6 +1356,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "used-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'used to' put the base form of the verb: We used to visit the lake.",
       "wrongReasons": {
@@ -1177,6 +1375,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "used-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Used to' + base form describes past habits: People used to send postcards.",
       "wrongReasons": {
@@ -1193,6 +1394,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "used-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Use to' in questions is followed by the base form: Did she use to sing?",
       "wrongReasons": {
@@ -1209,6 +1413,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Some verbs like enjoy, finish and mind are followed by the -ing form: I enjoy reading.",
       "wrongReasons": {
@@ -1225,6 +1432,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Some verbs like decide, hope and promise are followed by 'to' + base form: He decided to stay.",
       "wrongReasons": {
@@ -1241,6 +1451,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After a preposition (in, at, of, about) use the -ing form: She is good at drawing.",
       "wrongReasons": {
@@ -1258,6 +1471,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Hope' is followed by 'to' + base form: I hope to win.",
       "wrongReasons": {
@@ -1274,6 +1490,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Mind' is followed by the -ing form: Do you mind waiting?",
       "wrongReasons": {
@@ -1290,6 +1509,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In 'look forward to', 'to' is a preposition, so it is followed by the -ing form: I look forward to hearing from you.",
       "wrongReasons": {
@@ -1307,6 +1529,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Promise' is followed by 'to' + base form: She promised to call.",
       "wrongReasons": {
@@ -1323,6 +1548,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "When a verb is the subject of a sentence, use the -ing form: Walking is good exercise.",
       "wrongReasons": {
@@ -1340,6 +1568,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Avoid' is followed by the -ing form: He avoided looking at me.",
       "wrongReasons": {
@@ -1356,6 +1587,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Afford' is followed by 'to' + base form: We can't afford to travel this year.",
       "wrongReasons": {
@@ -1373,6 +1607,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After phrasal verbs like give up and keep on, use the -ing form: She gave up smoking.",
       "wrongReasons": {
@@ -1389,6 +1626,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "future-forms",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The form is be + going to + base form: It is going to snow.",
       "wrongReasons": {
@@ -1406,6 +1646,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "future-forms",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "For fixed plans, use the present continuous (be + -ing): We are flying to Rome on Friday.",
       "wrongReasons": {
@@ -1427,6 +1670,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "future-forms",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Will' never changes: I will, she will, they will + base form.",
       "wrongReasons": {
@@ -1444,6 +1690,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "future-forms",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "For timetables, use the present simple; in questions with 'does', the verb is in the base form: What time does the film start?",
       "wrongReasons": {
@@ -1462,6 +1711,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "future-forms",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'going to' use the base form: Are you going to stay?",
       "wrongReasons": {
@@ -1479,6 +1731,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "future-forms",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'will' for offers and decisions made at the moment of speaking: I'll open the door for you.",
       "wrongReasons": {
@@ -1500,6 +1755,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "future-forms",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use the present simple for timetables: The bus leaves at eight.",
       "wrongReasons": {
@@ -1518,6 +1776,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "future-forms",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Going to' is always followed by the base form: He is going to buy a car.",
       "wrongReasons": {
@@ -1537,6 +1798,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "future-forms",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Will' is followed by the base form without 'to': Will you come?",
       "wrongReasons": {
@@ -1553,6 +1817,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "future-forms",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'will' use the base form: You will love it.",
       "wrongReasons": {
@@ -1572,6 +1839,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "future-forms",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "For plans, use be + going to + base form: I am going to learn Spanish.",
       "wrongReasons": {
@@ -1590,6 +1860,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "relative-clauses",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'who' or 'that' for people and 'which' or 'that' for things: The man who called is my boss.",
       "wrongReasons": {
@@ -1607,6 +1880,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "relative-clauses",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'where' for places, or 'which/that' + preposition: This is the house where I grew up.",
       "wrongReasons": {
@@ -1626,6 +1902,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "relative-clauses",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'which' or 'that' for things (or nothing when it is the object): The cake that you made was great.",
       "wrongReasons": {
@@ -1644,6 +1923,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "relative-clauses",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In a relative clause, 'who' replaces the subject, so do not add another pronoun: The girl who won is my cousin.",
       "wrongReasons": {
@@ -1661,6 +1943,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "relative-clauses",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'where' for a place where something happens: This is the park where we met.",
       "wrongReasons": {
@@ -1680,6 +1965,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "relative-clauses",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'who' or 'that' for people: A pilot is a person who flies planes.",
       "wrongReasons": {
@@ -1697,6 +1985,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "relative-clauses",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "For things, use 'that' or 'which' (or nothing when it is the object): The bag that I bought is red.",
       "wrongReasons": {
@@ -1715,6 +2006,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "relative-clauses",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'whose' to show possession in a relative clause: That's the man whose car is blue.",
       "wrongReasons": {
@@ -1731,6 +2025,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "relative-clauses",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Where' already means 'in that place', so do not repeat 'there': This is the shop where I work.",
       "wrongReasons": {
@@ -1748,6 +2045,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "relative-clauses",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'who' or 'that' for people: The players who scored were happy.",
       "wrongReasons": {
@@ -1765,6 +2065,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "relative-clauses",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'which' or 'that' for things and places when they are the subject: We ate at a cafe that had great cakes.",
       "wrongReasons": {
@@ -1782,6 +2085,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Turn on' means start a machine or light; 'turn off' means stop it: Turn off the TV before bed.",
       "wrongReasons": {
@@ -1801,6 +2107,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Look for' means try to find; 'look after' means take care of: I'm looking for my glasses.",
       "wrongReasons": {
@@ -1818,6 +2127,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "With phrasal verbs like pick up, an object pronoun goes in the middle: Can you pick her up?",
       "wrongReasons": {
@@ -1835,6 +2147,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Break down' means stop working (for cars and machines): The bus broke down.",
       "wrongReasons": {
@@ -1851,6 +2166,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Run out of' means have no more of something: We've run out of bread.",
       "wrongReasons": {
@@ -1868,6 +2186,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Fill in' (or 'fill out') means write information on a form: Fill in your details here.",
       "wrongReasons": {
@@ -1886,6 +2207,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Find out' means get information about something: Can you find out the price?",
       "wrongReasons": {
@@ -1902,6 +2226,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Take after' means look or behave like an older family member: He takes after his dad.",
       "wrongReasons": {
@@ -1918,6 +2245,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Turn up' means make louder; 'turn down' means make quieter: Please turn the TV down.",
       "wrongReasons": {
@@ -1941,6 +2271,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Get on (well) with someone' means have a good relationship: She gets on well with her sister.",
       "wrongReasons": {
@@ -1957,6 +2290,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Put off' means move to a later time: They put off the trip until June.",
       "wrongReasons": {
@@ -1974,6 +2310,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'although' or 'but' to show contrast, never both in the same sentence: Although it was late, we stayed.",
       "wrongReasons": {
@@ -1993,6 +2332,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'So' introduces a result; 'because' introduces a reason: It was hot, so I opened the window.",
       "wrongReasons": {
@@ -2011,6 +2353,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Because' gives the reason: I was late because the train stopped.",
       "wrongReasons": {
@@ -2029,6 +2374,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'so' for a result and 'but' for a contrast: It was raining, so we stayed in.",
       "wrongReasons": {
@@ -2054,6 +2402,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Although' is followed by a subject and verb; 'despite' is followed by a noun: Although it was late... / Despite the rain...",
       "wrongReasons": {
@@ -2085,6 +2436,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'but' or 'although' for a surprising contrast: She trained a lot, but she lost.",
       "wrongReasons": {
@@ -2108,6 +2462,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Because' is followed by subject + verb; 'because of' is followed by a noun: because it rained / because of the rain.",
       "wrongReasons": {
@@ -2125,6 +2482,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'In case' + subject + verb means 'because it might happen': Take a map in case you get lost.",
       "wrongReasons": {
@@ -2141,6 +2501,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'then', 'next' or 'after that' to show the next step: First, wash the rice. Then, cook it.",
       "wrongReasons": {
@@ -2162,6 +2525,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'because of' before a noun: We were late because of the traffic.",
       "wrongReasons": {
@@ -2179,6 +2545,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'So' introduces a result: The film was boring, so we left.",
       "wrongReasons": {
@@ -2196,6 +2565,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "You 'lend' something to someone and you 'borrow' something from someone: Can you lend me a pound?",
       "wrongReasons": {
@@ -2219,6 +2591,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We say 'make a mistake', not 'do a mistake': Everyone makes mistakes.",
       "wrongReasons": {
@@ -2235,6 +2610,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Sensitive' means easily upset by feelings; 'sensible' means practical and wise: She is sensitive to criticism.",
       "wrongReasons": {
@@ -2252,6 +2630,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use -ing adjectives for the thing and -ed adjectives for how people feel: The lesson was boring, so I was bored.",
       "wrongReasons": {
@@ -2268,6 +2649,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Agree' is a verb, so do not use 'am' before it: I agree with Tom.",
       "wrongReasons": {
@@ -2284,6 +2668,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Travel' is usually a verb or uncountable noun; for one visit, say 'a trip' or 'a journey': We had a short trip to Paris.",
       "wrongReasons": {
@@ -2301,6 +2688,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We 'tell' someone something, but we 'say' something (to someone): Tell me your name.",
       "wrongReasons": {
@@ -2320,6 +2710,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'News' is uncountable and takes a singular verb: The news is on at six.",
       "wrongReasons": {
@@ -2336,6 +2729,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Information' is uncountable, so it has no plural: Can you give me some information?",
       "wrongReasons": {
@@ -2352,6 +2748,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A 'cook' or 'chef' is a person; a 'cooker' is a machine in the kitchen: My aunt is a great cook.",
       "wrongReasons": {
@@ -2369,6 +2768,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We say 'have a party' or 'throw a party', not 'do a party': We're having a party on Saturday.",
       "wrongReasons": {
@@ -2388,6 +2790,9 @@
       "type": "error-correct",
       "level": "B1",
       "topic": "vocabulary",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Remind someone to do something' means help them not forget: Remind me to call Mum.",
       "wrongReasons": {
