@@ -111,7 +111,7 @@ HomePage ──(livello, n° domande)──▶ QuizPage
 Aggiungere una tipologia = tipo in `types/`, casi in `engine/rules.ts` e `engine/buildQuiz.ts` (se serve shuffle), componente in `questions/` + riga nel registry, schema in `02-tipologie-domande.md`, test.
 
 ### 5.2 Modello dati (sintesi; dettagli in `03-modello-dati.md`)
-- `Question` = campi comuni (`id`, `type`, `level`, `topic`, `prompt`, `explanation`, `wrongReasons?`) + payload specifico del tipo.
+- `Question` = campi comuni (`id`, `type`, `level`, `topics`, `prompt`, `explanation`, `wrongReasons?`) + payload specifico del tipo.
 - Sessione (in `hooks/useQuizSession`) = `{ questions[], answers{}, result?: QuizResult, showSolutions }`; lo stato è "submitted" quando `result` è presente.
 - `QuizResult` = `{ total, correct, percent, perQuestion{id: boolean} }`.
 - **Regola**: niente effetti collaterali (scritture su `localStorage`, ecc.) dentro le funzioni di aggiornamento di `setState`: React può chiamarle due volte (StrictMode). Gli effetti si fanno prima, leggendo lo stato da un `ref`.
@@ -140,7 +140,7 @@ In `submitted` gli input sono bloccati (read-only). Le risposte corrette si most
 ## 8. Contenuti
 - Un file JSON per **livello e tipologia** in `src/data/<livello>/<tipo>.json`, validati da un test che controlla schema, unicità degli `id` e quote.
 - Obiettivo: **2000 domande per livello** (12000 totali), distribuite per tipologia e argomento. Quote, regole di qualità e processo di produzione in `07-contenuti.md`. I contenuti sono originali (nessun materiale coperto da copyright).
-- Argomenti (`topic`) per livello: vedi `02-tipologie-domande.md` §Argomenti.
+- Argomenti (`topics`, 15 categorie): vedi `02-tipologie-domande.md` §Argomenti.
 
 ## 9. Criteri di accettazione (MVP)
 1. Scelgo A1, ottengo 10 domande miste; compilo e premo "Check answers" → vedo "7 / 10 correct – 70%" e, per ogni errore, "Why it's wrong" e "Rule".

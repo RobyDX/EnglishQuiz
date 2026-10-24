@@ -7,7 +7,7 @@ Ogni tipologia ha: **scopo**, **interazione UI**, **schema JSON**, **regola di c
   "id": "a1-mc-001",        // univoco, formato <livello>-<sigla>-<nnn>
   "type": "multiple-choice",
   "level": "A1",
-  "topic": "present-simple", // vedi elenco argomenti
+  "topics": ["verb-tenses"], // uno o più argomenti, vedi elenco sotto
   "prompt": "She ___ to school every day.", // consegna / testo
   "explanation": "With he/she/it, the present simple verb takes -s: she goes.", // OBBLIGATORIA: la regola, in inglese
   "wrongReasons": { "0": "'go' is the base form; it is used with I/you/we/they, not with 'she'." } // opzionale: perché ogni distrattore è sbagliato
@@ -141,16 +141,28 @@ Risposta data dall'utente = `A` (tipo specifico). Domanda non risposta = errata.
 
 ---
 
-## Argomenti (`topic`) per livello (indicativi)
+## Argomenti (`topics`)
+Ogni domanda ha **uno o più** argomenti (`topics: Topic[]`) tra le 15 categorie seguenti. Gli slug sono quelli di `TOPICS` in `src/types/index.ts`.
 
-| Livello | Argomenti |
-|---------|-----------|
-| A1 | verbo *to be*, present simple, articoli a/an/the, plurali, pronomi, *there is/are*, numeri, colori, famiglia, cibo, preposizioni di luogo |
-| A2 | past simple, present continuous, comparativi/superlativi, *going to*, countable/uncountable, *some/any*, avverbi di frequenza, *can/must* |
-| B1 | present perfect, past continuous, first conditional, passivo (base), modali (*should, have to*), *used to*, gerundio/infinito |
-| B2 | second/third conditional, reported speech, passivo avanzato, relative clauses, phrasal verbs, *wish/if only*, connettivi |
-| C1 | inversione, cleft sentences, mixed conditionals, collocazioni, registro formale, participle clauses |
-| C2 | sfumature lessicali, idiomi, strutture enfatiche, congiuntivo (*suggest he be*), stile e registro |
+| Slug | Categoria | Esempi |
+|------|-----------|--------|
+| `verb-tenses` | Verb tenses | present/past/future/perfect, *to be*, *have*, domande e negazioni dei tempi |
+| `modal-verbs` | Modal verbs | *can, could, must, should, have to* |
+| `conditionals-wishes` | Conditionals & wishes | zero/first/second/third/mixed, *wish / if only* |
+| `passive-reported-speech` | Passive & reported speech | passivo, causativo, discorso indiretto |
+| `articles-determiners` | Articles & determiners | *a/an/the*, zero article, plurali, quantifiers |
+| `pronouns-relative-clauses` | Pronouns & relative clauses | pronomi personali/possessivi, *who/which/that* |
+| `adjectives-adverbs` | Adjectives & adverbs | comparativi, superlativi, avverbi di frequenza |
+| `prepositions` | Prepositions | tempo, luogo, movimento, preposizioni dipendenti |
+| `gerunds-infinitives-linking` | Gerunds, infinitives & linking words | *-ing* vs *to*, connettivi, inversione, cleft (C1–C2) |
+| `everyday-life` | Everyday life | famiglia, casa, cibo, shopping, routine |
+| `travel-places-leisure` | Travel, places & leisure | viaggi, trasporti, sport, hobby, intrattenimento |
+| `work-education-technology` | Work, education & technology | lavoro, scuola, internet, dispositivi |
+| `society-health-environment` | Society, health & environment | salute, natura, ambiente, politica, notizie |
+| `phrasal-collocations-idioms` | Phrasal verbs, collocations & idioms | *look after, make a decision*, idiomi |
+| `confusing-words-word-formation` | Confusing words & word formation | *make/do, say/tell*, falsi amici, prefissi/suffissi |
+
+Le funzioni comunicative (saluti, telefonate, email) e le tipologie di lettura/cloze non sono argomenti: si coprono con le categorie sopra e con la matrice delle tipologie.
 
 ## Tipologie per livello (matrice di default)
 

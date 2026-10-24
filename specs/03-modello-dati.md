@@ -15,7 +15,8 @@ export interface QuestionBase {
   id: string;           // univoco globalmente, es. "a1-mc-001"
   type: QuestionType;
   level: Level;
-  topic: string;
+  topics?: Topic[];                  // uno o più argomenti tra le 15 categorie (vedi 02, `TOPICS`)
+  topic: string;                     // slug libero legacy, usato dal test di livello; da rimuovere a migrazione completa
   prompt: string;
   explanation: string;                    // regola, in inglese (obbligatoria)
   wrongReasons?: Record<string, string>;  // perché una risposta sbagliata specifica è errata, in inglese

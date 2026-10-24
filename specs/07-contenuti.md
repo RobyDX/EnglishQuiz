@@ -45,7 +45,7 @@ Sigle: mc, vf (verb-form), fb, vc, wb, pw, wo, es, ec, tf (true-false), rm (read
 Le quote sono un obiettivo di copertura: scostamenti piccoli sono ammessi, ma il totale per livello resta ≥ 2000 e nessuna tipologia prevista dalla matrice (`02-tipologie-domande.md`) può avere 0 domande.
 
 ## Copertura per argomento
-Dentro ogni livello, le domande sono distribuite sugli argomenti elencati in `02-tipologie-domande.md`: nessun argomento sotto il 5% né sopra il 20% del livello. Il campo `topic` è obbligatorio per misurarlo.
+Dentro ogni livello, ogni domanda ha almeno un argomento (`topics`, vedi `02-tipologie-domande.md`). Per ciascuna delle 15 categorie, la quota di domande che la contengono è tra il 5% e il 20% del livello. Una domanda con più argomenti conta in tutti. Il campo è in migrazione: finché non è completo il test verifica solo i valori presenti.
 
 ## Regole di qualità
 1. Contenuti **originali**, niente testi o esercizi copiati da libri/siti.
@@ -60,7 +60,7 @@ Dentro ogni livello, le domande sono distribuite sugli argomenti elencati in `02
 - `id` univoci globalmente e coerenti con livello/tipo del file;
 - conteggio per livello ≥ 2000 e per tipologia ≥ 90% della quota;
 - nessun prompt duplicato nel livello;
-- quota `topic` entro il 5–20%;
+- `topics`, se presente, non vuoto e con slug validi (`TOPICS`); a migrazione completa: ogni domanda ha almeno un argomento e ogni categoria è al 5–20% del livello;
 - `wrongReasons` completi: una voce per ogni distrattore delle domande a scelta e per ogni parola errata (per spazio) di `word-bank`; almeno una voce per `fill-blank`, `verb-conjugate`, `error-correct`;
 - `explanation` non vuota su ogni domanda; chiavi di `wrongReasons` valide (indici esistenti, mai la risposta corretta); controllo euristico di assenza di parole italiane comuni (es. "il", "della", "perché", "che");
 - ogni `place-word`: `correctPositions` valide; ogni `word-order`: le parole in `words` ricompongono una delle `solutions`.

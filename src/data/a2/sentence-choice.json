@@ -7,6 +7,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "comparatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Short adjectives add -er in the comparative: taller than.",
       "wrongReasons": {
@@ -25,6 +28,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "going-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "For plans, use be + going to + base verb.",
       "wrongReasons": {
@@ -43,6 +49,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "much-many",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use 'many' with countable nouns, and keep question order: How many people are there?",
       "wrongReasons": {
@@ -61,6 +70,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Regular verbs add -ed (or -d): walk → walked. Example: Sam and I walked to the park last night.",
       "options": [
@@ -79,6 +91,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "\"see\" is irregular: the past simple is \"saw\". Example: My friends saw a good film last night.",
       "options": [
@@ -97,6 +112,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Regular verbs add -ed (or -d): wash → washed. Example: Hugo washed the car in 2019.",
       "options": [
@@ -115,6 +133,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "\"come\" is irregular: the past simple is \"came\". Example: Anna came to my party this morning.",
       "options": [
@@ -133,6 +154,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "\"swim\" is irregular: the past simple is \"swam\". Example: He swam in the sea yesterday.",
       "options": [
@@ -151,6 +175,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Regular verbs add -ed (or -d): dance → danced. Example: We danced at the party last night.",
       "options": [
@@ -169,6 +196,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Regular verbs add -ed (or -d): plan → planned. Example: Our teacher planned a trip this morning.",
       "options": [
@@ -187,6 +217,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "\"draw\" is irregular: the past simple is \"drew\". Example: Anna drew a picture last weekend.",
       "options": [
@@ -205,6 +238,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-negative",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "After Did use the base verb: Did Sara make a cake?",
       "options": [
@@ -223,6 +259,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-negative",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "After Did use the base verb: Did the children sing a song?",
       "options": [
@@ -241,6 +280,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-negative",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Past questions use Did + subject + base verb: Did Leo like the film?",
       "options": [
@@ -259,6 +301,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-negative",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "In the past negative use didn't + base verb: They didn't love the song.",
       "options": [
@@ -277,6 +322,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-negative",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "After Did use the base verb: Did the girls like the film?",
       "options": [
@@ -295,6 +343,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-negative",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "After didn't use the base verb: Ben and Lucy didn't tell a funny story.",
       "options": [
@@ -313,6 +364,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-negative",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "In the past negative use didn't + base verb: The children didn't draw a picture.",
       "options": [
@@ -331,6 +385,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-negative",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "In the past negative use didn't + base verb: Nina didn't come to my party.",
       "options": [
@@ -349,6 +406,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-negative",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "After didn't use the base verb: Zoe didn't paint the wall.",
       "options": [
@@ -367,6 +427,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "past-negative",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "In the past negative use didn't + base verb: Nina didn't walk to the park.",
       "options": [
@@ -385,6 +448,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "In questions \"was/were\" comes before the subject: Was Mark in the garden last night?",
       "options": [
@@ -403,6 +469,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "The past of \"be\": was with I, he, she, it; were with you, we, they. Example: I was in the park last night.",
       "options": [
@@ -421,6 +490,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "The negative of \"was/were\" is \"wasn't/weren't\": Nina wasn't at the cinema this morning.",
       "options": [
@@ -439,6 +511,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "In questions \"was/were\" comes before the subject: Was Sara very busy this morning?",
       "options": [
@@ -457,6 +532,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "The negative of \"was/were\" is \"wasn't/weren't\": Tom wasn't in the park last summer.",
       "options": [
@@ -475,6 +553,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "The negative of \"was/were\" is \"wasn't/weren't\": Kate wasn't ready two days ago.",
       "options": [
@@ -493,6 +574,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "The past of \"be\": was with I, he, she, it; were with you, we, they. Example: She was happy yesterday.",
       "options": [
@@ -511,6 +595,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "The past of \"be\": was with I, he, she, it; were with you, we, they. Example: He was in the garden two days ago.",
       "options": [
@@ -529,6 +616,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "In questions \"was/were\" comes before the subject: Was Rosa in London two days ago?",
       "options": [
@@ -547,6 +637,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "In questions \"was/were\" comes before the subject: Was Mark ill two days ago?",
       "options": [
@@ -565,6 +658,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "The past of \"be\": was with I, he, she, it; were with you, we, they. Example: Jack was at work this morning.",
       "options": [
@@ -583,6 +679,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "The negative of \"was/were\" is \"wasn't/weren't\": We weren't happy this morning.",
       "options": [
@@ -601,6 +700,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "was-were",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "In questions \"was/were\" comes before the subject: Was Leo at home last night?",
       "options": [
@@ -619,6 +721,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "comparatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Short adjectives add -er: shorter than. Example: Ben is shorter than Kate.",
       "options": [
@@ -637,6 +742,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "comparatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Long adjectives use \"more\": more expensive than. Example: The red car is more expensive than the blue car.",
       "options": [
@@ -655,6 +763,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "comparatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Long adjectives use \"more\": more famous than. Example: This shop is more famous than that shop.",
       "options": [
@@ -673,6 +784,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "comparatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Long adjectives use \"more\": more boring than. Example: Lily is more boring than Ivan.",
       "options": [
@@ -691,6 +805,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "comparatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Double the last consonant and add -er: thinner than. Example: Mia is thinner than Sam.",
       "options": [
@@ -709,6 +826,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "comparatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Short adjectives add -er: smaller than. Example: This film is smaller than that film.",
       "options": [
@@ -727,6 +847,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "comparatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Double the last consonant and add -er: bigger than. Example: Ravi is bigger than Sam.",
       "options": [
@@ -745,6 +868,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "comparatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Change -y to -ier: heavier than. Example: This road is heavier than that road.",
       "options": [
@@ -763,6 +889,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "superlatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Change -y to -iest: the happiest. Use \"the\" + superlative for the best of three or more.",
       "options": [
@@ -781,6 +910,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "superlatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Change -y to -iest: the busiest. Use \"the\" + superlative for the best of three or more.",
       "options": [
@@ -799,6 +931,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "superlatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Long adjectives use \"most\": the most dangerous. Use \"the\" + superlative for the best of three or more.",
       "options": [
@@ -817,6 +952,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "superlatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Short adjectives add -est: the kindest. Use \"the\" + superlative for the best of three or more.",
       "options": [
@@ -835,6 +973,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "superlatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Short adjectives add -est: the cleanest. Use \"the\" + superlative for the best of three or more.",
       "options": [
@@ -853,6 +994,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "superlatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Short adjectives add -est: the newest. Use \"the\" + superlative for the best of three or more.",
       "options": [
@@ -871,6 +1015,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "superlatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Long adjectives use \"most\": the most popular. Use \"the\" + superlative for the best of three or more.",
       "options": [
@@ -889,6 +1036,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "superlatives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Short adjectives add -est: the tallest. Use \"the\" + superlative for the best of three or more.",
       "options": [
@@ -907,6 +1057,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "going-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use be + going to + base verb for plans: My sister is going to cook rice tomorrow.",
       "options": [
@@ -925,6 +1078,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "going-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use be + going to + base verb for plans: The girls are going to make a cake next year.",
       "options": [
@@ -943,6 +1099,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "going-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use be + going to + base verb for plans: Paul is going to jump on the bed tomorrow.",
       "options": [
@@ -961,6 +1120,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "going-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use be + going to + base verb for plans: Emma is going to help the teacher this weekend.",
       "options": [
@@ -979,6 +1141,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "going-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use be + going to + base verb for plans: Nina is going to visit a friend next year.",
       "options": [
@@ -997,6 +1162,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "going-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use be + going to + base verb for plans: Jack is going to walk to work tonight.",
       "options": [
@@ -1015,6 +1183,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "going-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use be + going to + base verb for plans: Leo is going to eat breakfast this evening.",
       "options": [
@@ -1033,6 +1204,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "going-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use be + going to + base verb for plans: Mark is going to carry a heavy bag next year.",
       "options": [
@@ -1051,6 +1225,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "going-to",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use be + going to + base verb for plans: They are going to learn French tomorrow.",
       "options": [
@@ -1069,6 +1246,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "much-many",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"a little\" for a small amount of an uncountable noun: a little rain.",
       "options": [
@@ -1087,6 +1267,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "much-many",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"many\" with plural countable nouns in questions: How many flowers?",
       "options": [
@@ -1105,6 +1288,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "much-many",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"too much\" with uncountable nouns: too much traffic.",
       "options": [
@@ -1123,6 +1309,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "much-many",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"too much\" with uncountable nouns: too much snow.",
       "options": [
@@ -1141,6 +1330,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "much-many",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"a little\" for a small amount of an uncountable noun: a little snow.",
       "options": [
@@ -1159,6 +1351,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "much-many",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"many\" with plural countable nouns in questions: How many students?",
       "options": [
@@ -1177,6 +1372,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "much-many",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"much\" with uncountable nouns in questions: How much music?",
       "options": [
@@ -1195,6 +1393,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "much-many",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"too much\" with uncountable nouns: too much pasta.",
       "options": [
@@ -1213,6 +1414,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "much-many",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"much\" with uncountable nouns in questions: How much salt?",
       "options": [
@@ -1231,6 +1435,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "much-many",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"many\" with plural countable nouns in questions: How many cakes?",
       "options": [
@@ -1249,6 +1456,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "some-any",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"some\" in offers and requests: Would you like some photos?",
       "options": [
@@ -1267,6 +1477,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "some-any",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"some\" in offers and requests: Would you like some soup?",
       "options": [
@@ -1285,6 +1498,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "some-any",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"any\" in questions: Is there any money in the fridge?",
       "options": [
@@ -1303,6 +1519,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "some-any",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"any\" in negative sentences: There aren't any cakes in my bag.",
       "options": [
@@ -1321,6 +1540,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "some-any",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"any\" in questions: Is there any fruit in the fridge?",
       "options": [
@@ -1339,6 +1561,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "some-any",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"any\" in negative sentences: There aren't any apples on the table.",
       "options": [
@@ -1357,6 +1582,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "some-any",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"any\" in questions: Is there any sugar in the fridge?",
       "options": [
@@ -1375,6 +1603,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "some-any",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"any\" in questions: Is there any pasta on the table?",
       "options": [
@@ -1393,6 +1624,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "some-any",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"some\" in positive sentences: There is some coffee in my bag.",
       "options": [
@@ -1411,6 +1645,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "some-any",
+      "topics": [
+        "articles-determiners"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"some\" in positive sentences: There are some friends on the shelf.",
       "options": [
@@ -1429,6 +1666,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"don't have to\" for something that is not necessary: Tom don't have to pay for the ticket. It is free for children.",
       "options": [
@@ -1447,6 +1687,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"can\" for ability or permission: Anna can speak three languages. She is very clever.",
       "options": [
@@ -1465,6 +1708,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"shouldn't\" for advice against something: He shouldn't drive so fast. It is not a good idea.",
       "options": [
@@ -1483,6 +1729,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"don't have to\" for something that is not necessary: You don't have to bring a pen. We have lots of pens here.",
       "options": [
@@ -1501,6 +1750,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"mustn't\" for something that is forbidden: Children mustn't play near the river. It is dangerous and forbidden.",
       "options": [
@@ -1519,6 +1771,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"must\" (or \"have to\") for a strong rule or need: Students must wear a uniform at our school. It is the rule.",
       "options": [
@@ -1537,6 +1792,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"mustn't\" for something that is forbidden: You mustn't smoke in the hospital. It is against the rules.",
       "options": [
@@ -1555,6 +1813,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"must\" (or \"have to\") for a strong rule or need: I must finish my homework tonight. It is compulsory.",
       "options": [
@@ -1573,6 +1834,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"during\" for something that is happening (during the film): the nighthey ate popcorn during T.",
       "options": [
@@ -1591,6 +1855,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"during\" for something that is happening (during the film): He talked during the holidays.",
       "options": [
@@ -1609,6 +1876,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "\"down\" means to a lower place on something: My father ran down the hill.",
       "options": [
@@ -1627,6 +1897,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "\"up\" means to a higher place on something: My father ran up the mountain.",
       "options": [
@@ -1645,6 +1918,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"ago\" for a time back from now (two days ago): She called me a week ago.",
       "options": [
@@ -1663,6 +1939,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "\"along\" means in the same direction as something: The dog ran along the river.",
       "options": [
@@ -1681,6 +1960,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "\"into\" means from outside to inside something: The dog walked into the room.",
       "options": [
@@ -1699,6 +1981,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"for\" for a length of time (for two hours): He worked there for ten minutes.",
       "options": [
@@ -1717,6 +2002,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "\"down\" means to a lower place on something: The boys walked down the stairs.",
       "options": [
@@ -1735,6 +2023,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Use \"ago\" for a time back from now (two days ago): a monthhey moved here T ago.",
       "options": [
@@ -1753,6 +2044,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "\"along\" means in the same direction as something: The dog ran along the river.",
       "options": [
@@ -1771,6 +2065,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "\"along\" means in the same direction as something: The dog ran along the beach.",
       "options": [
@@ -1789,6 +2086,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Eva likes.",
       "options": [
@@ -1807,6 +2107,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Tom eats.",
       "options": [
@@ -1825,6 +2128,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Ivan teaches.",
       "options": [
@@ -1843,6 +2149,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With I, you, we, they and plural subjects we use the base form: Sam and I carry.",
       "options": [
@@ -1861,6 +2170,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Mia opens.",
       "options": [
@@ -1879,6 +2191,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Lucy teaches.",
       "options": [
@@ -1897,6 +2212,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Tom visits.",
       "options": [
@@ -1915,6 +2233,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: my brother buys.",
       "options": [
@@ -1933,6 +2254,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Lily works.",
       "options": [
@@ -1951,6 +2275,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Lily takes.",
       "options": [
@@ -1969,6 +2296,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: Ravi knows.",
       "options": [
@@ -1987,6 +2317,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-simple",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "With he, she, it and one person or thing, the verb takes -s/-es/-ies: my sister works.",
       "options": [
@@ -2005,6 +2338,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use am + verb-ing: I am using.",
       "options": [
@@ -2023,6 +2359,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use are + verb-ing: My friends are drawing.",
       "options": [
@@ -2041,6 +2380,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use is + verb-ing: Tom is singing.",
       "options": [
@@ -2059,6 +2401,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use is + verb-ing: She is opening.",
       "options": [
@@ -2077,6 +2422,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use is + verb-ing: Tom is cooking.",
       "options": [
@@ -2095,6 +2443,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use is + verb-ing: Lucy is watching.",
       "options": [
@@ -2113,6 +2464,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use are + verb-ing: Sam and I are working.",
       "options": [
@@ -2131,6 +2485,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use are + verb-ing: Ben and Lucy are calling.",
       "options": [
@@ -2149,6 +2506,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use is + verb-ing: Zoe is playing.",
       "options": [
@@ -2167,6 +2527,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use are + verb-ing: My parents are working.",
       "options": [
@@ -2185,6 +2548,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use is + verb-ing: Mark is reading.",
       "options": [
@@ -2203,6 +2569,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use are + verb-ing: Tom and Anna are asking.",
       "options": [
@@ -2221,6 +2590,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use is + verb-ing: Lily is carrying.",
       "options": [
@@ -2239,6 +2611,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "present-continuous",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Actions happening now use is + verb-ing: My father is drawing.",
       "options": [
@@ -2257,6 +2632,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "questions",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Past wh-questions: question word + did + subject + base verb: How did the girls travel to Rome?",
       "options": [
@@ -2275,6 +2653,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "questions",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Past wh-questions: question word + did + subject + base verb: When did Rosa finish your homework?",
       "options": [
@@ -2293,6 +2674,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "questions",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Past wh-questions: question word + did + subject + base verb: Where did Jack go last weekend?",
       "options": [
@@ -2311,6 +2695,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "questions",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Past wh-questions: question word + did + subject + base verb: Where did my mother buy your shoes?",
       "options": [
@@ -2329,6 +2716,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "questions",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Present simple questions use do/does: Where does Ben usually live?",
       "options": [
@@ -2347,6 +2737,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "questions",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Present simple questions use do/does: What time do the girls usually get up?",
       "options": [
@@ -2365,6 +2758,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "questions",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Present simple questions use do/does: Where do Sam and I usually live?",
       "options": [
@@ -2383,6 +2779,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "questions",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Present simple questions use do/does: What does Ravi usually eat for breakfast?",
       "options": [
@@ -2401,6 +2800,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "questions",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Present simple questions use do/does: What time does Paul usually get up?",
       "options": [
@@ -2419,6 +2821,9 @@
       "type": "sentence-choice",
       "level": "A2",
       "topic": "questions",
+      "topics": [
+        "verb-tenses"
+      ],
       "prompt": "Which sentence is correct?",
       "explanation": "Past wh-questions: question word + did + subject + base verb: What did Rosa watch on TV?",
       "options": [

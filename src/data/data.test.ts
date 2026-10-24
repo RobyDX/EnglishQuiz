@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { countGaps } from '../engine/rules';
-import { LEVELS, type Question, type QuestionFile } from '../types';
+import { LEVELS, TOPICS, type Question, type QuestionFile } from '../types';
 
 const files = import.meta.glob<QuestionFile>('./*/*.json', { eager: true, import: 'default' });
 const entries = Object.entries(files);
@@ -49,6 +49,14 @@ describe('question data', () => {
     }
   });
 
+  it('topics, when present, are non-empty and among the 15 categories', () => {
+    for (const { q } of all) {
+      if (q.topics === undefined) continue;
+      expect(q.topics.length, q.id).toBeGreaterThan(0);
+      for (const t of q.topics) expect(TOPICS.includes(t), `${q.id}: ${t}`).toBe(true);
+    }
+  });
+
   it('contains no Italian words', () => {
     for (const { q } of all) {
       for (const t of texts(q)) {
@@ -57,7 +65,7 @@ describe('question data', () => {
         }
       }
     }
-  });
+  }, 30_000);
 
   it('has no duplicated prompts/texts inside a level', () => {
     const seen = new Map<string, string>();
