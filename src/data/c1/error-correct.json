@@ -7,6 +7,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'Hardly' use inversion with the past perfect: Hardly had I left.",
       "wrongReasons": {
@@ -23,6 +26,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In an inverted third conditional, use 'Had + subject + past participle': Had I known.",
       "wrongReasons": {
@@ -39,6 +45,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'Not only' at the start, use auxiliary + subject + base verb: Not only did she win.",
       "wrongReasons": {
@@ -56,6 +65,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In a cleft sentence about a person, use 'who' or 'that': It was Anna who called.",
       "wrongReasons": {
@@ -73,6 +85,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A mixed conditional uses 'had + past participle' for the past condition and 'would' for the present result: If I had studied, I would be a doctor now.",
       "wrongReasons": {
@@ -92,6 +107,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We 'make changes', not 'do changes': She made a few changes to the plan.",
       "wrongReasons": {
@@ -108,6 +126,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Wanna' is very informal; in a formal letter use 'I would like to' or 'I wish to': I would like to apply.",
       "wrongReasons": {
@@ -126,6 +147,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A perfect participle clause uses 'having + past participle': Having eaten, we left.",
       "wrongReasons": {
@@ -143,6 +167,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "When 'Never' starts the sentence, the auxiliary comes before the subject: Never have I seen.",
       "wrongReasons": {
@@ -159,6 +186,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In a 'What' cleft, 'what' is singular and takes a singular verb: What worries me is...",
       "wrongReasons": {
@@ -175,6 +205,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A present condition with a past result uses 'would have + past participle': If he were kinder, he would have helped us yesterday.",
       "wrongReasons": {
@@ -194,6 +227,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We 'make progress', not 'do progress': The team made good progress.",
       "wrongReasons": {
@@ -210,6 +246,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In 'look forward to', 'to' is a preposition, so use the -ing form: I look forward to meeting you.",
       "wrongReasons": {
@@ -226,6 +265,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After a participle clause, the main clause has one subject only: Painted in 1900, the picture is famous.",
       "wrongReasons": {
@@ -242,6 +284,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Seldom' at the start of a sentence needs inversion: Seldom has the orchestra performed.",
       "wrongReasons": {
@@ -258,6 +303,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The verb 'be' in a cleft sentence usually matches the time of the story: It was yesterday that I saw her.",
       "wrongReasons": {
@@ -275,6 +323,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After an inverted 'Should' condition, use a normal imperative: Should you need help, please call us.",
       "wrongReasons": {
@@ -291,6 +342,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The noun 'effect' is followed by 'on': Stress has an effect on health.",
       "wrongReasons": {
@@ -307,6 +361,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Thanks a lot' is informal; a formal letter uses 'thank you': Thank you for your email of 3 June.",
       "wrongReasons": {
@@ -324,6 +381,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "For a passive meaning, start the clause with a past participle: Built in 1500, the house is very old.",
       "wrongReasons": {
@@ -341,6 +401,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'No sooner' at the start needs inversion and is followed by 'than': No sooner had they arrived than...",
       "wrongReasons": {
@@ -358,6 +421,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'All (that) + clause' to mean 'the only thing': All I need is time.",
       "wrongReasons": {
@@ -375,6 +441,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Were I...' is an unreal present condition, so the result needs 'would': Were I rich, I would travel.",
       "wrongReasons": {
@@ -392,6 +461,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Common collocations are 'strong', 'fierce' or 'stiff opposition': The law faced fierce opposition.",
       "wrongReasons": {
@@ -413,6 +485,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'I would be grateful if', use 'could' or 'would': I would be grateful if you could reply soon.",
       "wrongReasons": {
@@ -431,6 +506,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A participle clause already links the ideas, so do not add 'so': Feeling tired, I went to bed.",
       "wrongReasons": {
@@ -447,6 +525,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Under no circumstances' at the start is followed by inversion: Under no circumstances should you...",
       "wrongReasons": {
@@ -463,6 +544,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'What + subject + did was', use the base form (or 'to' + base form): What he did was leave.",
       "wrongReasons": {
@@ -480,6 +564,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "An inverted third conditional takes 'would have + past participle' in the result: Had you asked, I would have helped.",
       "wrongReasons": {
@@ -496,6 +583,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We 'commit a crime', not 'do a crime': She committed a minor offence.",
       "wrongReasons": {
@@ -512,6 +602,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Give us a shout' is slang; formal letters say 'do not hesitate to contact us'.",
       "wrongReasons": {
@@ -529,6 +622,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A negative perfect passive participle is 'Not having been + past participle': Not having been invited, I stayed home.",
       "wrongReasons": {
@@ -545,6 +641,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "With 'Only when...', the inversion goes in the main clause: Only when it ended did we leave.",
       "wrongReasons": {
@@ -561,6 +660,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In 'It's ... that', the verb after 'that' agrees with the focused noun: It's the costs that worry us.",
       "wrongReasons": {
@@ -580,6 +682,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'If it hadn't been for...' refers to the past, so the result is 'would have + past participle': If it hadn't been for you, I would have failed.",
       "wrongReasons": {
@@ -598,6 +703,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We 'pay attention to' something: Pay attention to the details.",
       "wrongReasons": {
@@ -615,6 +723,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'We regret to inform you' already expresses regret, so an informal apology like 'sorry about that' does not fit.",
       "wrongReasons": {
@@ -632,6 +743,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "An active reduced relative clause uses the -ing form: People living nearby were evacuated.",
       "wrongReasons": {
@@ -649,6 +763,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Negative 'Little' at the start needs 'did' + subject + base verb: Little did they know.",
       "wrongReasons": {
@@ -665,6 +782,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In a 'What' cleft, the question part uses normal statement word order: What I wonder is why she left.",
       "wrongReasons": {
@@ -682,6 +802,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'unless' use a present tense for the future: Unless it rains, we will go.",
       "wrongReasons": {
@@ -699,6 +822,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We say 'heavy traffic', not 'strong traffic': The traffic was heavy all day.",
       "wrongReasons": {
@@ -715,6 +841,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The formal phrase is 'in response to': I am writing in response to your email.",
       "wrongReasons": {
@@ -731,6 +860,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A passive reduced relative clause uses the past participle: The car stolen yesterday was found.",
       "wrongReasons": {
@@ -749,6 +881,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Rarely' at the start needs an auxiliary before the subject: Rarely do we receive.",
       "wrongReasons": {
@@ -765,6 +900,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The pattern is 'It was not until + time + that': It was not until June that it opened.",
       "wrongReasons": {
@@ -782,6 +920,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'But for' + noun means 'if it had not been for'; with a past time, use 'would have + past participle': But for the rain, we would have won.",
       "wrongReasons": {
@@ -799,6 +940,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Knowledge' is followed by 'of': a good knowledge of French.",
       "wrongReasons": {
@@ -816,6 +960,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The formal phrase is 'in accordance with': in accordance with the law.",
       "wrongReasons": {
@@ -832,6 +979,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The perfect participle of 'be' is 'having been': Having been ill, she missed the exam.",
       "wrongReasons": {
@@ -848,6 +998,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The inverted structure 'Such was + noun' is followed by 'that': Such was the noise that we left.",
       "wrongReasons": {
@@ -864,6 +1017,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In a 'Where' cleft, the 'Where' clause is the subject, so no extra 'it': Where we met was a cafe.",
       "wrongReasons": {
@@ -881,6 +1037,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In a third conditional the if-clause uses the past perfect: If I had known, I would have come.",
       "wrongReasons": {
@@ -900,6 +1059,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We say 'a lack of' or 'a shortage of' something: a lack of sleep.",
       "wrongReasons": {
@@ -917,6 +1079,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We 'apologise for' something: We apologise for the delay.",
       "wrongReasons": {
@@ -934,6 +1099,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use a past participle when the subject receives the action: Seen from here, the hills look blue.",
       "wrongReasons": {
@@ -950,6 +1118,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Scarcely had + past participle' is followed by 'when' + past simple: Scarcely had we sat down when the phone rang.",
       "wrongReasons": {
@@ -966,6 +1137,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'who' or 'that' when the pronoun is the subject of the next verb: It was Tom who won.",
       "wrongReasons": {
@@ -983,6 +1157,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'on condition that', use a present tense for a future condition: You can go on condition that you call me.",
       "wrongReasons": {
@@ -1000,6 +1177,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We 'play a role' in something: Luck played a part in our success.",
       "wrongReasons": {
@@ -1016,6 +1196,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We 'complain about' something: I wish to complain about the noise.",
       "wrongReasons": {
@@ -1032,6 +1215,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Do not join a participle clause to the main clause with 'but': Written clearly, the book is popular.",
       "wrongReasons": {
@@ -1048,6 +1234,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Not until...' at the start makes the main clause inverted: Not until later did I realise.",
       "wrongReasons": {
@@ -1065,6 +1254,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A 'What' cleft followed by a singular noun takes 'was': What helped us was the weather.",
       "wrongReasons": {
@@ -1081,6 +1273,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'as long as' use a present tense for a future condition: As long as you call, I will wait.",
       "wrongReasons": {
@@ -1097,6 +1292,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The fixed phrase is 'change the subject': He quickly changed the subject.",
       "wrongReasons": {
@@ -1114,6 +1312,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We thank someone 'for' something: Thank you in advance for your help.",
       "wrongReasons": {
@@ -1131,6 +1332,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use the -ed form for how a person feels: Exhausted, she sat down.",
       "wrongReasons": {
@@ -1148,6 +1352,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'At no time' at the start needs inversion: At no time was the public informed.",
       "wrongReasons": {
@@ -1164,6 +1371,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "When a cleft focuses on a reason, use 'that': It was because of you that we won.",
       "wrongReasons": {
@@ -1181,6 +1391,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A mixed conditional uses the past perfect for a past cause and 'would' for a present result: If I hadn't overslept, I would be at work now.",
       "wrongReasons": {
@@ -1199,6 +1412,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We 'take', 'do' or 'get' exercise, not 'make' it: You should take more exercise.",
       "wrongReasons": {
@@ -1217,6 +1433,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'to' + base form to say why you are writing: I am writing to confirm my booking.",
       "wrongReasons": {
@@ -1233,6 +1452,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "An active reduced relative clause uses the -ing form: Students taking the test must arrive early.",
       "wrongReasons": {
@@ -1251,6 +1473,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Nowhere' at the start needs the verb 'be' before the subject: Nowhere is the view better.",
       "wrongReasons": {
@@ -1267,6 +1492,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In 'The person/thing + clause + is', the noun phrase is already the subject, so no 'it': The thing I need is rest.",
       "wrongReasons": {
@@ -1286,6 +1514,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Were + subject + to + verb' is a formal unreal condition, so the result needs 'would': Were it to rain, we would stay in.",
       "wrongReasons": {
@@ -1302,6 +1533,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We say 'a heavy defeat' or 'a crushing defeat': The party suffered a heavy defeat.",
       "wrongReasons": {
@@ -1319,6 +1553,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The formal phrase uses the noun: at your earliest convenience.",
       "wrongReasons": {
@@ -1335,6 +1572,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'Having + past participle' for an earlier period that explains the main clause: Having worked abroad, he speaks Spanish.",
       "wrongReasons": {
@@ -1351,6 +1591,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Only by + -ing' at the start needs the modal before the subject: Only by working hard can you succeed.",
       "wrongReasons": {
@@ -1367,6 +1610,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A past event with a finished time phrase needs the past simple: What happened was that the roof fell in.",
       "wrongReasons": {
@@ -1384,6 +1630,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "With 'would have' in the result, the if-clause needs the past perfect: I would have called if I had known.",
       "wrongReasons": {
@@ -1403,6 +1652,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "We 'break' or 'keep' a promise: She never breaks her promises.",
       "wrongReasons": {
@@ -1420,6 +1672,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'if' use the present for the future, or use formal 'should you': Should you need help, call us.",
       "wrongReasons": {
@@ -1437,6 +1692,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A passive reduced relative clause uses the past participle: The report published today is long.",
       "wrongReasons": {
@@ -1455,6 +1713,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'nor' introducing a clause, use inversion: He didn't call, nor did he write.",
       "wrongReasons": {
@@ -1472,6 +1733,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The verb after 'who' agrees with the focused pronoun: It was they who were late.",
       "wrongReasons": {
@@ -1491,6 +1755,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In a negative inverted conditional, 'not' comes after the subject: Had he not called, we would have left.",
       "wrongReasons": {
@@ -1509,6 +1776,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In formal writing we 'carry out' or 'conduct' a survey: They conducted a survey of students.",
       "wrongReasons": {
@@ -1526,6 +1796,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "You 'apply for' a job and 'apply to' a company: I applied for the post of editor.",
       "wrongReasons": {
@@ -1542,6 +1815,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A passive participle clause uses the past participle (or 'having been'): Ignored by critics, the film still succeeded.",
       "wrongReasons": {
@@ -1559,6 +1835,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "A negative object such as 'Not a single word' at the start needs 'did' + subject + base verb: Not a word did she say.",
       "wrongReasons": {
@@ -1575,6 +1854,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'What ... do is', use the base form or 'to' + base form: What we must do is act fast.",
       "wrongReasons": {
@@ -1592,6 +1874,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "For general facts, use the zero conditional (present + present): If you heat water, it boils.",
       "wrongReasons": {
@@ -1609,6 +1894,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "collocations",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The fixed phrase is 'a standing ovation': The cast got a standing ovation.",
       "wrongReasons": {
@@ -1625,6 +1913,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "register",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'make a', use the noun 'complaint'; 'complain' is the verb: She made a complaint.",
       "wrongReasons": {
@@ -1641,6 +1932,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "participle-clauses",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Given' (= considering) is a fixed past participle used like a preposition: Given his age, he did well.",
       "wrongReasons": {
@@ -1658,6 +1952,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "inversion",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Only later' at the start triggers inversion: Only later did we understand.",
       "wrongReasons": {
@@ -1674,6 +1971,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "cleft-sentences",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The pattern 'It was only after ... that' focuses on a time: It was only after he left that I cried.",
       "wrongReasons": {
@@ -1691,6 +1991,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Even if + past perfect' takes 'would have + past participle' in the result: Even if we had run, we would have missed it.",
       "wrongReasons": {
@@ -1708,6 +2011,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The present continuous passive is 'is/are being + past participle': The road is being repaired.",
       "wrongReasons": {
@@ -1725,6 +2031,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "For a past action after 'is believed', use the perfect passive infinitive 'to have been + past participle': It is believed to have been built in 1500.",
       "wrongReasons": {
@@ -1741,6 +2050,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The present perfect passive is 'have/has been + past participle': Two new planets have been found.",
       "wrongReasons": {
@@ -1757,6 +2069,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'get/have + object + past participle' for a service someone does for you: I'm getting my hair cut.",
       "wrongReasons": {
@@ -1776,6 +2091,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'be due to', use the passive infinitive 'to be + past participle' when someone else performs the action: The bridge is due to be completed in June.",
       "wrongReasons": {
@@ -1792,6 +2110,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The past simple passive is 'was/were + past participle': The letter was sent yesterday.",
       "wrongReasons": {
@@ -1808,6 +2129,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "With 'need', use 'to be + past participle' (or the -ing form) for a passive meaning: The windows need to be cleaned.",
       "wrongReasons": {
@@ -1825,6 +2149,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The future passive with 'going to' is 'be going to be + past participle': The winners are going to be named tonight.",
       "wrongReasons": {
@@ -1841,6 +2168,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The past perfect passive is 'had been + past participle': The house had been sold before we called.",
       "wrongReasons": {
@@ -1858,6 +2188,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After verbs like 'expect' in the passive, use 'to be + past participle' for a future passive action: The law is expected to be passed soon.",
       "wrongReasons": {
@@ -1874,6 +2207,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The 'get' passive uses 'get + past participle', and the participle of 'break' is 'broken': My bike got stolen.",
       "wrongReasons": {
@@ -1891,6 +2227,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The passive 'be allowed' is followed by a to-infinitive: Students are not allowed to use phones.",
       "wrongReasons": {
@@ -1908,6 +2247,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "For a passive action in progress, use 'is/are being + past participle': The samples are being tested now.",
       "wrongReasons": {
@@ -1927,6 +2269,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In a passive sentence, the person or group who does the action is introduced with 'by': The novel was written by a teenager.",
       "wrongReasons": {
@@ -1943,6 +2288,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'is being + past participle' for something happening to the subject now: The road, which is being widened, is closed.",
       "wrongReasons": {
@@ -1960,6 +2308,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Have + object + past participle' can describe something unpleasant done to you: She had her bag stolen.",
       "wrongReasons": {
@@ -1977,6 +2328,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'be said to + infinitive' to report what people say: The lake is said to be bottomless.",
       "wrongReasons": {
@@ -1993,6 +2347,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'recommend that', use the base form (subjunctive) for every subject, or 'should + base form': They recommended that he leave.",
       "wrongReasons": {
@@ -2012,6 +2369,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'It is vital that', use the subjunctive base form, here passive 'be kept', or 'should be kept': It is vital that the files be stored safely.",
       "wrongReasons": {
@@ -2030,6 +2390,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "To talk about a present wish for an ability, use 'wish + could': I wish I could swim.",
       "wrongReasons": {
@@ -2046,6 +2409,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'It's time + subject', use the past simple with a present meaning: It's time we went home.",
       "wrongReasons": {
@@ -2065,6 +2431,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "When 'would rather' introduces another subject, use the past simple for present or future: I'd rather you stayed.",
       "wrongReasons": {
@@ -2082,6 +2451,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'as though/as if' for an unreal situation in the past, use the past perfect: He acted as if he had seen a ghost.",
       "wrongReasons": {
@@ -2099,6 +2471,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'If only + past perfect' for a past regret, or 'If only + would + base form' for a present wish: If only she had called.",
       "wrongReasons": {
@@ -2116,6 +2491,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'require that', use the subjunctive base form: The rules require that every member vote.",
       "wrongReasons": {
@@ -2134,6 +2512,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Be that as it may' is a fixed subjunctive expression meaning 'even so': Be that as it may, the rules apply.",
       "wrongReasons": {
@@ -2151,6 +2532,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'wish + would/wouldn't + base form' to complain about someone's annoying behaviour: I wish he wouldn't shout.",
       "wrongReasons": {
@@ -2170,6 +2554,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'It's high time + subject' is followed by the past simple, even though it refers to now: It's high time you got a job.",
       "wrongReasons": {
@@ -2187,6 +2574,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "To regret something in the past, use 'wish + past perfect': I wish I hadn't said that.",
       "wrongReasons": {
@@ -2204,6 +2594,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "For a regret about someone else's past action, use 'would rather + subject + past perfect': I'd rather you hadn't come.",
       "wrongReasons": {
@@ -2223,6 +2616,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "In the negative subjunctive, put 'not' before the base form: It is essential that he not be late.",
       "wrongReasons": {
@@ -2242,6 +2638,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "After 'advise that', use the subjunctive base form or 'should + base form'; after 'advise + object', use a to-infinitive: She advised him to rest.",
       "wrongReasons": {
@@ -2260,6 +2659,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Do not use 'wish + would' about yourself. Use 'wish + past simple' ('were' is more formal): I wish I were taller.",
       "wrongReasons": {
@@ -2277,6 +2679,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "subjunctive",
+      "topics": [
+        "conditionals-wishes"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Suggest' is not followed by 'object + to-infinitive'. Use 'suggest that + subject + (should) base form': I suggest that he wait.",
       "wrongReasons": {
@@ -2298,6 +2703,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Pass the buck' means to shift responsibility to someone else: Stop passing the buck and fix it.",
       "wrongReasons": {
@@ -2315,6 +2723,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Sell like hot cakes' means to sell very quickly and in large numbers: The tickets sold like hot cakes.",
       "wrongReasons": {
@@ -2332,6 +2743,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Under the weather' means slightly ill: I'm feeling under the weather today.",
       "wrongReasons": {
@@ -2349,6 +2763,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Keep a low profile' means to avoid attracting attention: He kept a low profile after the trial.",
       "wrongReasons": {
@@ -2366,6 +2783,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Pass with flying colours' means to succeed easily and very well: She passed her driving test with flying colours.",
       "wrongReasons": {
@@ -2385,6 +2805,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Spill the beans' means to reveal a secret too early: Who spilled the beans about the party?",
       "wrongReasons": {
@@ -2402,6 +2825,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'See eye to eye' means to agree completely: My brother and I rarely see eye to eye.",
       "wrongReasons": {
@@ -2419,6 +2845,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Tighten your belt' means to spend less money because times are hard: We'll have to tighten our belts this year.",
       "wrongReasons": {
@@ -2436,6 +2865,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Off the beaten track' (or 'path') means in a quiet place far from popular areas: We stayed in a hotel off the beaten track.",
       "wrongReasons": {
@@ -2455,6 +2887,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Bite off more than you can chew' means to take on more than you can manage: Don't bite off more than you can chew.",
       "wrongReasons": {
@@ -2472,6 +2907,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Call it a day' means to stop working for now: It's late, so let's call it a day.",
       "wrongReasons": {
@@ -2491,6 +2929,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Up in the air' means uncertain or not yet decided: The date of the wedding is still up in the air.",
       "wrongReasons": {
@@ -2507,6 +2948,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Go the extra mile' means to make more effort than is expected: The staff always go the extra mile.",
       "wrongReasons": {
@@ -2523,6 +2967,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Back to square one' means back at the very beginning after a failure: The test failed, so we're back to square one.",
       "wrongReasons": {
@@ -2540,6 +2987,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Have a lot on your plate' means to be very busy: She has too much on her plate right now.",
       "wrongReasons": {
@@ -2558,6 +3008,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "idioms",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Like finding a needle in a haystack' means almost impossible to find: Finding her file was like looking for a needle in a haystack.",
       "wrongReasons": {
@@ -2574,6 +3027,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Put off' means to postpone: They put off the wedding until spring.",
       "wrongReasons": {
@@ -2591,6 +3047,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Break down' means that discussions fail; 'break off' means they end suddenly: Negotiations broke down last night.",
       "wrongReasons": {
@@ -2608,6 +3067,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Take after' means to look or behave like an older relative: He takes after his father.",
       "wrongReasons": {
@@ -2624,6 +3086,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Go off' is used when an alarm or bomb suddenly starts or explodes: My alarm went off at six.",
       "wrongReasons": {
@@ -2640,6 +3105,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Clear out' means to empty a place by removing unwanted things: We cleared out the garage.",
       "wrongReasons": {
@@ -2658,6 +3126,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Phase out' means to stop using something gradually, while 'phase in' means to introduce it gradually: Coal is being phased out.",
       "wrongReasons": {
@@ -2675,6 +3146,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Iron out' means to solve small problems or difficulties: We ironed out the last details.",
       "wrongReasons": {
@@ -2691,6 +3165,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Turn out (to be)' means to be discovered as a fact in the end: The story turned out to be true.",
       "wrongReasons": {
@@ -2708,6 +3185,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Bring up' means to raise a child: She was brought up in Wales.",
       "wrongReasons": {
@@ -2724,6 +3204,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Cut back on' or 'cut down on' means to reduce the amount you use or spend: We must cut back on costs.",
       "wrongReasons": {
@@ -2741,6 +3224,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Put someone off (doing) something' means to make them lose interest or confidence: The rain put us off going out.",
       "wrongReasons": {
@@ -2758,6 +3244,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Take on' means to accept work or responsibility: He has taken on two new clients.",
       "wrongReasons": {
@@ -2775,6 +3264,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Pick up' means to collect someone in a vehicle; a pronoun goes between the verb and the particle: I'll pick her up.",
       "wrongReasons": {
@@ -2794,6 +3286,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Set out to do something' means to start with a clear aim: She set out to prove them wrong.",
       "wrongReasons": {
@@ -2810,6 +3305,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Hold up' means to delay: The traffic held us up for an hour.",
       "wrongReasons": {
@@ -2826,6 +3324,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Run out of' means to have none left: We ran out of petrol on the motorway.",
       "wrongReasons": {
@@ -2843,6 +3344,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Stick up for' (or 'stand up for') means to defend someone: She always sticks up for her friends.",
       "wrongReasons": {
@@ -2860,6 +3364,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Despite' is followed by a noun or -ing form, not a clause; use 'although' before a clause: Despite being tired, he kept going.",
       "wrongReasons": {
@@ -2889,6 +3396,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Because' is followed by a clause; 'because of' is followed by a noun phrase: We stayed in because of the rain.",
       "wrongReasons": {
@@ -2907,6 +3417,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'On the other hand' to introduce a contrasting point: It's expensive. On the other hand, it lasts for years.",
       "wrongReasons": {
@@ -2924,6 +3437,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'In spite of' is followed by a noun, an -ing form or 'the fact that': In spite of the cold, we swam.",
       "wrongReasons": {
@@ -2955,6 +3471,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'In case' is followed by a clause; 'in case of' is followed by a noun: Take a map in case you get lost.",
       "wrongReasons": {
@@ -2971,6 +3490,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'so as not to + base form' or 'so that + subject + verb' to express a negative purpose: She left early so as not to miss the bus.",
       "wrongReasons": {
@@ -2991,6 +3513,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'As a result of' is followed by a noun phrase and gives the cause: The match was cancelled as a result of the storm.",
       "wrongReasons": {
@@ -3008,6 +3533,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Even though' introduces a real fact that contrasts; 'even if' introduces a possible condition: Even though it was late, we went out.",
       "wrongReasons": {
@@ -3029,6 +3557,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'In order to' and 'so as to' are followed by the base form; 'in order that' needs a clause: She studied hard in order to pass.",
       "wrongReasons": {
@@ -3047,6 +3578,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "At the start of a sentence, use 'Except for' or 'Apart from' + noun: Apart from the noise, it's a lovely hotel.",
       "wrongReasons": {
@@ -3068,6 +3602,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Given' is used directly before a noun to mean 'considering': Given his age, he did very well.",
       "wrongReasons": {
@@ -3087,6 +3624,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Either' is always paired with 'or'; 'neither' is paired with 'nor': You can either walk or take the bus.",
       "wrongReasons": {
@@ -3104,6 +3644,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "At the start of a sentence, 'as well as' is followed by an -ing form or a noun: As well as cooking, he does the shopping.",
       "wrongReasons": {
@@ -3125,6 +3668,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'In contrast to' or 'Unlike' to compare two different people or things: Unlike his sister, he hates sport.",
       "wrongReasons": {
@@ -3146,6 +3692,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'As a consequence' (or 'Consequently') introduces a result: The shop lost money. As a consequence, it closed.",
       "wrongReasons": {
@@ -3167,6 +3716,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "linkers",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Whether or not' can come together, but 'if or not' is incorrect: I don't know whether or not she's coming.",
       "wrongReasons": {
@@ -3190,6 +3742,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Hard' is both an adjective and an adverb; 'hardly' means 'almost not': He works hard, but he hardly sleeps.",
       "wrongReasons": {
@@ -3206,6 +3761,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Late' is the adverb meaning 'after the expected time'; 'lately' means 'recently': She arrived late. I haven't seen him lately.",
       "wrongReasons": {
@@ -3223,6 +3781,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Enough' comes after an adjective or adverb but before a noun: The room is big enough. We have enough chairs.",
       "wrongReasons": {
@@ -3239,6 +3800,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use an adverb, not an adjective, to modify another adverb: She spoke surprisingly calmly.",
       "wrongReasons": {
@@ -3255,6 +3819,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Highly' means 'very' before adjectives like critical, successful or unlikely; 'high' refers to height: It's highly unlikely.",
       "wrongReasons": {
@@ -3271,6 +3838,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Mid-position adverbs like 'nearly' and 'almost' go after the auxiliary verb: I have nearly finished.",
       "wrongReasons": {
@@ -3290,6 +3860,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "The fixed order is 'hardly ever', placed before the main verb: We hardly ever eat out.",
       "wrongReasons": {
@@ -3308,6 +3881,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Frequency adverbs go after the verb 'be' but before other main verbs: She is always cheerful. She always smiles.",
       "wrongReasons": {
@@ -3324,6 +3900,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use an adverb to describe how something changes: Sales fell sharply.",
       "wrongReasons": {
@@ -3340,6 +3919,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Do not put an adverb between a verb and its object: She opened the box slowly.",
       "wrongReasons": {
@@ -3357,6 +3939,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'still' for a situation that continues; 'yet' is mainly used in questions and negatives at the end of the clause: Are you still there? Has he arrived yet?",
       "wrongReasons": {
@@ -3373,6 +3958,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Barely' already has a negative meaning, so do not add 'not': I could barely see.",
       "wrongReasons": {
@@ -3394,6 +3982,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Hardly' means 'almost not'; 'hard' means 'with effort': She could hardly breathe.",
       "wrongReasons": {
@@ -3415,6 +4006,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Mostly' is an adverb meaning 'mainly'; 'most' is a determiner or superlative: The guests were mostly students.",
       "wrongReasons": {
@@ -3433,6 +4027,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "'Free' as an adverb means 'without paying'; 'freely' means 'without restriction': Kids eat free. People can speak freely.",
       "wrongReasons": {
@@ -3450,6 +4047,9 @@
       "type": "error-correct",
       "level": "C1",
       "topic": "adverbs",
+      "topics": [
+        "adjectives-adverbs"
+      ],
       "prompt": "This sentence has a mistake. Rewrite it correctly.",
       "explanation": "Use 'deeply' before past participles of emotion: I was deeply touched. 'Deep' describes physical depth: dig deep.",
       "wrongReasons": {
