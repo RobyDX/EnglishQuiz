@@ -1,0 +1,65 @@
+# C2 batch c2: articles, pronouns, modals, passive, travel
+fb | ART | We were all struck by ___ sheer audacity of the plan. | the | a :: "A sheer audacity" is unusual. | no article :: A specific noun takes "the". | "The sheer audacity" is the standard phrase.
+fb | ART | She has made ___ remarkable recovery since the accident. | a | the :: "The remarkable recovery" would refer to a known one. | an :: "Remarkable" begins with a consonant sound. | "A remarkable recovery" introduces a new item.
+fb | ART | ___ little is known about the origins of the custom. | Very | Much :: "Much little" is ungrammatical. | So many :: "So many little" is ungrammatical. | "Very little" means almost nothing.
+fb | ART | They had ___ interest in the proposal and ignored it altogether. | no | not :: "Not interest" is ungrammatical. | none :: "None interest" is ungrammatical. | "No interest" is a negative determiner phrase.
+fb | ART | They live in ___ small village in the north of Scotland. | a | the :: "The small village" would refer to a known one. | an :: "Small" begins with a consonant sound. | "A small village" introduces a new item.
+fb | ART | The film is based on ___ true story of a young refugee. | a | the :: "The true story" would imply a known one. | an :: "True" begins with a consonant sound. | "A true story" introduces a new item.
+fb | PRON | The report, ___ findings were disputed, was withdrawn. | whose | which :: "Which findings" does not show possession. | who :: "Who findings" is ungrammatical. | "Whose" shows possession.
+fb | PRON | I admire people ___ can laugh at themselves. | who | whom :: The relative acts as the subject. | whose :: "Whose" shows possession. | "Who" is the subject of the relative clause.
+fb | PRON | The two teams, ___ of them undefeated, meet in the final. | both | either :: "Either of them undefeated" changes the sense. | each :: "Each of them undefeated" changes the structure. | "Both of them" refers to two.
+fb | PRON | The man to ___ I spoke refused to give his name. | whom | who :: After a preposition "whom" is used. | which :: "Which" refers to things. | "To whom" follows the preposition.
+fb | PRON | It was ___ who first recognised the danger. | she | her :: The formal cleft uses the subject form. | hers :: "Hers" is a possessive pronoun. | "It was she who" is the formal cleft.
+fb | PRON | I have not decided ___ of the two options to choose. | which | what :: "What" does not suit a limited choice. | whom :: "Whom" refers to people. | "Which of the two" suits a limited choice.
+fb | MOD | He ___ have known better than to trust such a man. | ought to | should to :: "Should" is not followed by "to". | must to :: "Must" is not followed by "to". | "Ought to have known better" is a fixed expression.
+fb | MOD | We ___ not have done anything differently. | could | would to :: "Would to" is ungrammatical. | can :: "Can not have" is not used. | "Could not have done" expresses an unreal past impossibility.
+fb | MOD | You ___ well find the place hard to locate; the sign is small. | may | will :: "Will well" is ungrammatical. | must :: "Must well" is ungrammatical. | "May well find" is a fixed phrase.
+fb | MOD | They ___ have been delighted; they had waited for years. | must | can't :: "Can't have been delighted" contradicts the context. | needn't :: "Needn't have been" has another meaning. | "Must have been" expresses a strong deduction.
+fb | MOD | I insist that she ___ present at the meeting. | be | is :: The mandative subjunctive uses the base form. | will be :: "Will" is not used here. | "Insist that" takes the base form.
+fb | MOD | It is time we ___ a decision, don't you think? | made | make :: "It is time" takes a past form. | will make :: "Will" is not used here. | "It is time" is followed by the past simple.
+fb | MOD | He ___ not have known; nobody had told him. | could | would to :: "Would to" is ungrammatical. | can :: "Can not have" is not used. | "Could not have known" expresses impossibility.
+fb | PASS | The proposal is ___ to be approved at the next meeting. | likely | like :: "Like to be approved" is ungrammatical. | liked :: "Liked" is a participle. | "Likely to be approved" is an adjective + passive infinitive.
+fb | PASS | The prize is said ___ been awarded to the wrong person. | to have | having :: "Said" takes an infinitive. | to has :: "To" takes the base form. | The perfect infinitive uses "to have" + participle.
+fb | T | The coach driver took a ___ route to avoid the roadworks. | roundabout | round-up :: A "round-up" is a summary. | roundly :: "Roundly" means thoroughly. | A "roundabout route" is an indirect one.
+fb | T | The hotel is ___ from the beach by a busy road. | separated | separate :: A passive participle is needed. | separately :: "Separately" is an adverb. | "Separated from" means divided from.
+fb | T | The city is ___ with sights, from ancient temples to modern galleries. | packed | pecked :: "Pecked" is a bird action. | picked :: "Picked" means chosen. | "Packed with" means full of.
+fb | T | We stayed in a ___ guesthouse run by a retired couple. | cosy | cozy :: This is the American spelling. | cosmic :: "Cosmic" relates to the universe. | "Cosy" means warm and comfortable.
+mc | ART | The negotiators spent ___ time trying to reconcile the two positions. | considerable | considerate :: "Considerate" means thoughtful. | considering :: "Considering" is a participle. | "Considerable time" means a lot of time.
+mc | ART | He was one of ___ few people who understood the problem. | the | a :: "One of a few" is ungrammatical. | those :: "One of those few" changes the structure. | "One of the few" is the standard phrase.
+mc | ART | In ___ course of time, the wound healed. | the | a :: "In a course of time" is not idiomatic. | no article :: The phrase needs the article. | "In the course of time" is the fixed phrase.
+mc | PRON | The two proposals differ in many respects, but ___ of them is entirely satisfactory. | neither | none :: "None" is used for more than two. | either :: "Either" does not give a negative sense. | "Neither" refers to two.
+mc | PRON | ___ you say, I still believe it was a mistake. | Whatever | However :: "However you say" has another sense. | Whichever :: "Whichever" needs a choice. | "Whatever you say" means no matter what.
+mc | PRON | He is the only one ___ understood the problem. | who | whom :: The relative acts as the subject. | whose :: "Whose" shows possession. | "Who" is the subject of the relative clause.
+mc | MOD | If he ___ to ask, I would help him. | were | was :: The formal subjunctive uses "were". | is :: A present form does not fit. | "If he were to ask" is a formal conditional.
+mc | MOD | She ___ have been more helpful; she even offered to drive me home. | could not | cannot to :: "Cannot to" is ungrammatical. | would to :: "Would to" is ungrammatical. | "Could not have been more helpful" is an emphatic idiom.
+mc | MOD | We ___ do with a few more chairs in the hall. | could | must :: "Must do with" is ungrammatical. | would to :: "Would to" is ungrammatical. | "Could do with" means would benefit from.
+mc | PASS | The documents are believed ___ been destroyed in the fire. | to have | to has :: "To" takes the base form. | having :: A participle does not follow "believed". | The perfect infinitive uses "to have" + participle.
+mc | PASS | The suspect is understood to ___ held at a secret location. | be | been :: "To been" is ungrammatical. | being :: A participle does not follow "to". | "To be held" is a passive infinitive.
+mc | T | We arrived ___ the station with minutes to spare. | at | in :: "Arrive in" is used with cities. | to :: "Arrive to" is ungrammatical. | "Arrive at" is used with a station.
+es | ART | I have [a] very little patience with fools. | very little | "A very little" is ungrammatical.
+es | ART | She has made [a] excellent progress this term. | excellent | "Progress" is uncountable.
+es | ART | I would like [a] advice about my career. | some | "Advice" is uncountable.
+es | ART | They had [few] information about the accident. | little | "Information" is uncountable.
+es | PRON | The man [who's] house burned down is staying with us. | whose | "Whose" shows possession.
+es | PRON | The students [who] essays I marked did well. | whose | "Whose" shows possession.
+es | T | They arrived [to] the airport an hour before departure. | at | "Arrive at" is used with an airport.
+ec | ART | The both teams played well. | Both teams played well. | "Both" does not take "the" before it. | Determiners.
+ec | ART | He gave me an useful tip. | He gave me a useful tip. | "Useful" begins with a consonant sound. | Articles.
+ec | ART | There are less people here than yesterday. | There are fewer people here than yesterday. | "People" is countable. | Quantifiers.
+ec | PRON | The woman which called is my aunt. | The woman who called is my aunt. | "Which" refers to things. | Relative pronouns.
+ec | PRON | Neither of them know the answer. | Neither of them knows the answer. | "Neither" takes a singular verb. | Agreement.
+ec | MOD | You mustn't to tell anyone. | You mustn't tell anyone. | A modal takes the bare infinitive. | Modals.
+ec | MOD | She should have went home earlier. | She should have gone home earlier. | After "have" a past participle is used. | Verb forms.
+ec | PASS | The package has been delivered at yesterday. | The package was delivered yesterday. | A finished time reference requires the simple past. | Past simple.
+ec | PASS | The film is be shown tonight. | The film is being shown tonight. | The continuous passive uses "being". | Passive.
+ec | T | We booked a room at a hotel nearby the station. | We booked a room at a hotel near the station. | "Nearby" is not a preposition. | Prepositions.
+tr | ART | There is hardly any bread left. | LITTLE | There is ___ left. | very little bread | "Very little" means almost none.
+tr | ART | Most of the audience left early. | MAJORITY | The ___ left early. | majority of the audience | "Majority of" means most.
+tr | PRON | Everyone except Anna had arrived. | BUT | Everyone ___ had arrived. | but Anna | "But" means except.
+tr | PRON | He gave the prize to whoever finished first. | ANYONE | He gave the prize to ___ first. | anyone who finished | "Anyone who" means any person who.
+tr | MOD | It was careless of her not to lock the door. | SHOULD | She ___ the door. | should have locked | "Should have" expresses criticism.
+tr | MOD | There is a possibility that he will be late. | MAY | He ___ late. | may be | A possibility.
+tr | PASS | People believe that the company is in trouble. | BELIEVED | The company ___ in trouble. | is believed to be | The reporting passive.
+tr | PASS | Someone is repairing the road. | BEING | The road ___ . | is being repaired | The continuous passive.
+tr | T | We got there just before the doors closed. | NICK | We got there ___ time. | in the nick of | A fixed phrase.
+tr | T | The journey took us nearly ten hours. | LASTED | The journey ___ ten hours. | lasted nearly | A synonym.
