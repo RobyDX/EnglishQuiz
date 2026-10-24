@@ -3483,124 +3483,5294 @@
       "correct": 3
     },
     {
-      "id": "c1-vf-146",
+      "id": "c1-vf-151",
       "type": "verb-form",
       "level": "C1",
-      "topic": "cleft-sentences",
+      "topic": "prepositions",
       "topics": [
-        "gerunds-infinitives-linking"
+        "prepositions"
       ],
-      "prompt": "It was because of the strike that the flights ___.",
-      "explanation": "In 'It was ... that', the that-clause needs a normal verb; flights are cancelled by someone, so we use the passive. Example: It was due to fog that the road was closed.",
-      "wrongReasons": {
-        "0": "'cancelled' is active and means the flights cancelled something.",
-        "1": "The past continuous active makes the flights the doers.",
-        "3": "The present perfect active is wrong in meaning and tense."
-      },
-      "verb": "cancel",
+      "prompt": "The scheme has been criticised ___ the grounds that it benefits only the wealthy.",
+      "explanation": "\"On the grounds that\" introduces a reason.",
       "options": [
-        "cancelled",
-        "were cancelling",
-        "were cancelled",
-        "have cancelled"
+        "by",
+        "at",
+        "for",
+        "on"
       ],
-      "correct": 2
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Criticised at the grounds\" is not standard.",
+        "0": "\"By the grounds\" is not standard.",
+        "2": "\"For the grounds\" is not standard."
+      }
     },
     {
-      "id": "c1-vf-147",
+      "id": "c1-vf-152",
       "type": "verb-form",
       "level": "C1",
-      "topic": "cleft-sentences",
+      "topic": "passive",
       "topics": [
-        "gerunds-infinitives-linking"
+        "passive-reported-speech"
       ],
-      "prompt": "What worries scientists ___ the speed at which the glaciers are melting.",
-      "explanation": "In a 'What' cleft, the what-clause is singular and takes 'is' in the present. Example: What matters is the result.",
-      "wrongReasons": {
-        "0": "The what-clause is singular, so 'are' is wrong.",
-        "2": "'be' alone is not a finite verb.",
-        "3": "'were' is plural and past, but 'are melting' shows the present."
-      },
-      "verb": "be",
+      "prompt": "She was seen ___ the building at midnight.",
+      "explanation": "\"Seen leaving\" takes an -ing form.",
       "options": [
-        "are",
+        "to leaving",
+        "leaving",
+        "left",
+        "leave"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "The passive of a perception verb can take -ing.",
+        "0": "\"To leaving\" is ungrammatical.",
+        "2": "A participle does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-153",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "She spoke so quietly that hardly ___ in the audience could hear her.",
+      "explanation": "\"Hardly anyone\" means almost nobody.",
+      "options": [
+        "someone",
+        "everyone",
+        "no one",
+        "anyone"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Hardly\" has a negative sense.",
+        "1": "\"Hardly everyone\" changes the meaning.",
+        "2": "\"Hardly no one\" is a double negative."
+      }
+    },
+    {
+      "id": "c1-vf-154",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "We ___ have gone abroad for the holiday, but the cost of flights put us off.",
+      "explanation": "\"Could have\" expresses a possibility that was not taken up.",
+      "options": [
+        "could",
+        "would rather",
+        "ought",
+        "had better"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Had better have gone\" is not used.",
+        "1": "\"Would rather have gone\" changes the structure.",
+        "2": "\"Ought have\" lacks \"to\"."
+      }
+    },
+    {
+      "id": "c1-vf-155",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "We are confident ___ the success of the project.",
+      "explanation": "\"Confident of\" introduces the thing.",
+      "options": [
+        "of",
+        "at",
+        "to",
+        "for"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Confident to\" is followed by a verb.",
+        "3": "\"Confident for\" is not standard.",
+        "1": "\"Confident at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-156",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "By the time we got to the cinema, the film ___.",
+      "explanation": "The past perfect shows an earlier action.",
+      "options": [
+        "was already beginning",
+        "has already begun",
+        "already began",
+        "had already begun"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "The past perfect shows an earlier action.",
+        "1": "The present perfect does not fit.",
+        "0": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "c1-vf-157",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "We were just ___ the town when the car broke down.",
+      "explanation": "\"Were just leaving\" shows an action about to finish.",
+      "options": [
+        "left",
+        "to leave",
+        "leaving",
+        "leave"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Just leaving\" shows an action in progress.",
+        "0": "A participle needs an auxiliary.",
+        "3": "\"Were just leave\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-158",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "She has two sisters, ___ of them are married.",
+      "explanation": "\"Both\" refers to two.",
+      "options": [
+        "all",
+        "both",
+        "neither",
+        "either"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Either\" means one of two.",
+        "2": "\"Neither of them are\" has the opposite meaning.",
+        "0": "\"All\" refers to more than two."
+      }
+    },
+    {
+      "id": "c1-vf-159",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "They are determined to stand ___ their principles whatever the cost.",
+      "explanation": "\"Stand by\" means to remain loyal to.",
+      "options": [
+        "at",
+        "by",
+        "on",
+        "for"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Stand for\" means to represent.",
+        "2": "\"Stand on\" is not the idiom.",
+        "0": "\"Stand at\" is not the idiom."
+      }
+    },
+    {
+      "id": "c1-vf-160",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "She ___ the manuscript for years before she finally found a publisher.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "options": [
+        "had been revising",
+        "revised",
+        "has been revising",
+        "was revising"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The present perfect does not fit.",
+        "3": "The continuous does not show duration before the event.",
+        "1": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vf-161",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Had the firm invested more in training, it ___ the skills shortage that now threatens its future.",
+      "explanation": "The inverted third conditional uses \"would have\" + participle.",
+      "options": [
+        "would avoid",
+        "had avoided",
+        "will have avoided",
+        "would have avoided"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "This refers to the present.",
+        "2": "\"Will\" does not fit an unreal past.",
+        "1": "The result clause needs a modal."
+      }
+    },
+    {
+      "id": "c1-vf-162",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "By the time you read this letter, I ___ for Australia.",
+      "explanation": "The future perfect shows an action completed before a future point.",
+      "options": [
+        "will leave",
+        "leave",
+        "have left",
+        "will have left"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "The future perfect shows completion before a future point.",
+        "2": "The present perfect does not fit a future point.",
+        "1": "A present form does not show completion."
+      }
+    },
+    {
+      "id": "c1-vf-163",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The conference will take place ___ the auspices of the university.",
+      "explanation": "\"Under the auspices of\" means with the support of.",
+      "options": [
+        "by",
+        "under",
+        "at",
+        "in"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"In the auspices\" is not standard.",
+        "2": "\"At the auspices\" is not standard.",
+        "0": "\"By the auspices\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-164",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "I ___ rather not say anything until I have spoken to my lawyer.",
+      "explanation": "\"Would rather\" expresses a preference.",
+      "options": [
+        "would",
+        "could",
+        "should",
+        "will"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Will rather\" is unusual.",
+        "2": "\"Should rather\" is less common.",
+        "1": "\"Could rather\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-165",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "He is regarded as ___ authority on medieval history.",
+      "explanation": "\"An authority\" means one of several experts.",
+      "options": [
+        "some",
+        "an",
+        "no article",
+        "the"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"The\" would imply a unique authority.",
+        "2": "A singular noun needs a determiner.",
+        "0": "\"Some authority\" has another meaning."
+      }
+    },
+    {
+      "id": "c1-vf-166",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "They were delighted ___ the results of the survey.",
+      "explanation": "\"Delighted with\" introduces the thing.",
+      "options": [
+        "to",
+        "with",
+        "of",
+        "for"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Delighted of\" is not standard.",
+        "3": "\"Delighted for\" has another meaning.",
+        "0": "\"Delighted to\" is followed by a verb."
+      }
+    },
+    {
+      "id": "c1-vf-167",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He has been working there ___ the age of sixteen.",
+      "explanation": "\"Since\" marks the starting point.",
+      "options": [
+        "from",
+        "by",
+        "since",
+        "for"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"For\" needs a length of time.",
+        "0": "\"From\" does not link to now.",
+        "1": "\"By\" has a different meaning."
+      }
+    },
+    {
+      "id": "c1-vf-168",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "She ___ have been about thirty, but she looked older.",
+      "explanation": "\"Can't have\" expresses a negative deduction.",
+      "options": [
+        "needn't",
+        "shouldn't",
+        "can't",
+        "mustn't"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Mustn't have\" is not used for deduction.",
+        "1": "\"Shouldn't have\" expresses criticism.",
+        "0": "\"Needn't have\" has another meaning."
+      }
+    },
+    {
+      "id": "c1-vf-169",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Several passengers complained ___ the delay.",
+      "explanation": "\"Complain about\" introduces the cause.",
+      "options": [
+        "at",
+        "about",
+        "for",
+        "of"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Complained of\" is used for illness.",
+        "0": "\"Complained at\" is not standard.",
+        "2": "\"Complained for\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-170",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "When I was young, we ___ to the seaside every summer.",
+      "explanation": "\"Used to\" expresses a past habit.",
+      "options": [
+        "have gone",
+        "used to go",
+        "use to go",
+        "were used to go"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The past form is \"used\".",
+        "3": "\"Be used to\" has another meaning.",
+        "0": "The present perfect does not fit a past habit."
+      }
+    },
+    {
+      "id": "c1-vf-171",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "When I ___ home, I will phone you.",
+      "explanation": "A present form follows a time conjunction.",
+      "options": [
+        "got",
+        "get",
+        "have got",
+        "will get"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "A future form is not used after \"when\".",
+        "0": "A past form does not refer to the future.",
+        "2": "The present perfect is less natural here."
+      }
+    },
+    {
+      "id": "c1-vf-172",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The two sides are still ___ odds over the terms of the agreement.",
+      "explanation": "\"At odds\" means in disagreement.",
+      "options": [
+        "on",
+        "at",
+        "by",
+        "in"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"On odds\" is not an idiom.",
+        "3": "\"In odds\" is not an idiom.",
+        "2": "\"By odds\" is not an idiom."
+      }
+    },
+    {
+      "id": "c1-vf-173",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "The suspect is thought ___ left the country last week.",
+      "explanation": "The perfect infinitive shows an earlier time.",
+      "options": [
+        "has",
+        "to has",
+        "to have",
+        "having"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"To\" takes the base form.",
+        "3": "A participle does not follow \"thought\".",
+        "0": "A finite verb does not follow \"thought\"."
+      }
+    },
+    {
+      "id": "c1-vf-174",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "The two sides have ___ in common except their desire to avoid war.",
+      "explanation": "\"Nothing ... except\" excludes a single feature.",
+      "options": [
+        "everything",
+        "anything",
+        "something",
+        "nothing"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Have anything in common except\" does not fit.",
+        "2": "\"Something ... except\" changes the meaning.",
+        "0": "\"Everything ... except\" changes the meaning."
+      }
+    },
+    {
+      "id": "c1-vf-175",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ better take an umbrella; it looks like rain.",
+      "explanation": "\"Had better\" gives strong advice.",
+      "options": [
+        "should",
+        "have",
+        "would",
+        "had"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Would better\" is not standard.",
+        "0": "\"Should better\" is ungrammatical.",
+        "1": "\"Have better\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-176",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "She ___ to be told twice; she always grasps instructions at once.",
+      "explanation": "\"Never needs to\" is a regular present form.",
+      "options": [
+        "never need",
+        "never needs",
+        "never needing",
+        "doesn't needs"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "With \"never\" as the main negative the verb takes \"-s\".",
+        "3": "\"Doesn't\" is followed by the base form.",
+        "2": "A finite verb is needed."
+      }
+    },
+    {
+      "id": "c1-vf-177",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I ___ in this city for twenty years, and I still love it.",
+      "explanation": "The present perfect links duration to now.",
+      "options": [
+        "live",
+        "had lived",
+        "have lived",
+        "lived"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "The simple past does not link to now.",
+        "1": "The past perfect does not fit.",
+        "0": "The present simple does not show duration."
+      }
+    },
+    {
+      "id": "c1-vf-178",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Never before ___ such a magnificent view.",
+      "explanation": "\"Never before\" requires inversion with an auxiliary.",
+      "options": [
+        "did I seen",
+        "had I seen",
+        "have I saw",
+        "I had seen"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "A negative adverb at the start needs inversion.",
+        "2": "The participle is wrong.",
+        "0": "This form is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-179",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Even if she ___ the lottery, she would still work.",
+      "explanation": "\"Even if\" + past simple expresses an unreal situation.",
+      "options": [
+        "won",
+        "had won",
+        "would win",
+        "wins"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "The second conditional needs a past form.",
+        "2": "\"Would\" is not used in the if-clause.",
+        "1": "This refers to the past."
+      }
+    },
+    {
+      "id": "c1-vf-180",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The conference, ___ was held in a coastal resort, attracted delegates from fifty countries.",
+      "explanation": "\"Which\" introduces a nonrestrictive clause.",
+      "options": [
+        "which",
+        "that",
+        "where",
+        "what"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"What\" cannot introduce a relative clause.",
+        "1": "\"That\" cannot follow a comma.",
+        "2": "\"Where\" refers to place without a preposition."
+      }
+    },
+    {
+      "id": "c1-vf-181",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The author's ideas are open ___ criticism.",
+      "explanation": "\"Open to\" means liable to receive.",
+      "options": [
+        "to",
+        "by",
+        "at",
+        "for"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Open for\" has another meaning.",
+        "2": "\"Open at\" is not standard.",
+        "1": "\"Open by\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-182",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "The two sisters, ___ of whom live abroad, visit us every summer.",
+      "explanation": "\"Both of whom\" refers to two.",
+      "options": [
+        "both",
+        "all",
+        "neither",
+        "either"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"Either of whom\" changes the meaning.",
+        "1": "\"All of whom\" refers to more than two.",
+        "2": "\"Neither of whom live\" has a negative sense."
+      }
+    },
+    {
+      "id": "c1-vf-183",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "The two companies have ___ in common except their size.",
+      "explanation": "\"Nothing ... except\" excludes one feature.",
+      "options": [
+        "nothing",
+        "everything",
+        "anything",
+        "something"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Have anything in common except\" does not fit the negative sense.",
+        "3": "\"Something in common except\" changes the meaning.",
+        "1": "\"Everything in common except\" changes the meaning."
+      }
+    },
+    {
+      "id": "c1-vf-184",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "She would have gone to the party if she ___ invited.",
+      "explanation": "The if-clause uses the past perfect passive.",
+      "options": [
+        "would be",
+        "was",
+        "were",
+        "had been"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "The third conditional needs the past perfect.",
+        "2": "This refers to the present.",
+        "0": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "c1-vf-185",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "We are grateful ___ your generous support.",
+      "explanation": "\"Grateful for\" introduces the thing.",
+      "options": [
+        "at",
+        "of",
+        "for",
+        "to"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Grateful of\" is not standard.",
+        "0": "\"Grateful at\" is not standard.",
+        "3": "\"Grateful to\" introduces the person."
+      }
+    },
+    {
+      "id": "c1-vf-186",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "By the end of next year, the firm ___ its operations to three new countries.",
+      "explanation": "\"By the end of next year\" calls for the future perfect.",
+      "options": [
+        "is expanding",
+        "had expanded",
+        "will have expanded",
+        "expands"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "A present tense does not fit.",
+        "0": "The present continuous does not show completion.",
+        "1": "The past perfect does not fit a future time."
+      }
+    },
+    {
+      "id": "c1-vf-187",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This time tomorrow we ___ our final exam.",
+      "explanation": "The future continuous shows an action in progress.",
+      "options": [
+        "will sit",
+        "sit",
+        "will be sitting",
+        "are sitting"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The future continuous shows an action in progress.",
+        "1": "A present tense does not fit.",
+        "3": "The present continuous does not point to the future."
+      }
+    },
+    {
+      "id": "c1-vf-188",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "The two candidates, ___ of whom had experience, were rejected.",
+      "explanation": "\"Neither of whom\" refers to two.",
+      "options": [
+        "none",
+        "either",
+        "both",
+        "neither"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Either of whom had\" would change the meaning.",
+        "0": "\"None\" is used for more than two.",
+        "2": "\"Both\" has the opposite meaning."
+      }
+    },
+    {
+      "id": "c1-vf-189",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I have not been able to concentrate ___ the news broke.",
+      "explanation": "\"Since\" introduces a starting point.",
+      "options": [
+        "from",
+        "since",
+        "for",
+        "during"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"For\" needs a length of time.",
+        "0": "\"From\" does not combine with the present perfect.",
+        "3": "\"During\" does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-190",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The manager pointed ___ that the figures had been calculated incorrectly.",
+      "explanation": "\"Point out\" means to draw attention to.",
+      "options": [
+        "out",
+        "up",
+        "at",
+        "off"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Point up\" has a different sense.",
+        "2": "\"Point at\" means to indicate with a finger.",
+        "3": "\"Point off\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-191",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The new law will come ___ effect at the beginning of next year.",
+      "explanation": "\"Come into effect\" is the standard collocation.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "into"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Come on effect\" is not standard.",
+        "1": "\"Come at effect\" is not standard.",
+        "2": "\"Come in effect\" is less usual."
+      }
+    },
+    {
+      "id": "c1-vf-192",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "She was reprimanded ___ failing to report the incident promptly.",
+      "explanation": "\"Reprimanded for\" introduces the reason.",
+      "options": [
+        "with",
+        "on",
+        "of",
+        "for"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Reprimanded of\" is not standard.",
+        "1": "\"Reprimanded on\" is not standard.",
+        "0": "\"Reprimanded with\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-193",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "She was ___ upset by the news that she could not speak.",
+      "explanation": "\"So ... that\" shows a result.",
+      "options": [
+        "so",
+        "such",
+        "too",
+        "very"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Such upset by\" is ungrammatical.",
+        "3": "\"Very ... that\" does not form a result clause.",
+        "2": "\"Too\" does not take \"that\"."
+      }
+    },
+    {
+      "id": "c1-vf-194",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The company is committed ___ reducing its emissions.",
+      "explanation": "\"Committed to\" is followed by -ing.",
+      "options": [
+        "for",
+        "in",
+        "to",
+        "with"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Committed for\" is not standard.",
+        "3": "\"Committed with\" is not standard.",
+        "1": "\"Committed in\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-195",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Few people ___ have predicted that the small start-up would overtake its larger rivals.",
+      "explanation": "\"Could have predicted\" refers to a past ability.",
+      "options": [
+        "could",
+        "needn't",
+        "shan't",
+        "mustn't"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Needn't have predicted\" says it was unnecessary.",
+        "3": "\"Mustn't have\" is not used here.",
+        "2": "\"Shan't\" is a refusal."
+      }
+    },
+    {
+      "id": "c1-vf-196",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "I shall go out whatever the weather ___.",
+      "explanation": "A present form follows \"whatever\".",
+      "options": [
+        "was",
+        "will be",
         "is",
-        "be",
-        "were"
+        "being"
       ],
-      "correct": 1
+      "correct": 2,
+      "wrongReasons": {
+        "1": "A future form is not used here.",
+        "0": "A past form does not refer to the future.",
+        "3": "A finite verb is needed."
+      }
     },
     {
-      "id": "c1-vf-148",
+      "id": "c1-vf-197",
       "type": "verb-form",
       "level": "C1",
-      "topic": "cleft-sentences",
+      "topic": "adjectives",
       "topics": [
-        "gerunds-infinitives-linking"
+        "adjectives-adverbs"
       ],
-      "prompt": "It is I who ___ to blame for the confusion.",
-      "explanation": "In formal cleft sentences like 'It is I who...', the verb agrees with the pronoun 'I'. Example: It is we who are responsible.",
-      "wrongReasons": {
-        "1": "'is' agrees with 'it', but the verb must agree with 'I'.",
-        "2": "'are' does not agree with 'I'.",
-        "3": "'be' alone is not a finite verb."
-      },
-      "verb": "be",
+      "prompt": "The task proved ___ more difficult than we had imagined.",
+      "explanation": "\"Far\" intensifies a comparative.",
       "options": [
-        "am",
-        "is",
-        "are",
-        "be"
+        "very",
+        "so",
+        "far",
+        "too"
       ],
-      "correct": 0
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Very more\" is ungrammatical.",
+        "3": "\"Too more\" is ungrammatical.",
+        "1": "\"So more\" is ungrammatical."
+      }
     },
     {
-      "id": "c1-vf-149",
+      "id": "c1-vf-198",
       "type": "verb-form",
       "level": "C1",
-      "topic": "cleft-sentences",
+      "topic": "pronouns",
       "topics": [
-        "gerunds-infinitives-linking"
+        "pronouns-relative-clauses"
       ],
-      "prompt": "The thing that annoys me most ___ people talking during films.",
-      "explanation": "In a cleft with 'The thing that ... is', the verb agrees with 'thing' (singular). Example: The thing I love is the silence.",
-      "wrongReasons": {
-        "0": "'are' does not agree with the singular 'thing'.",
-        "1": "'be' alone is not a finite verb.",
-        "2": "'being' cannot be the main verb."
-      },
-      "verb": "be",
+      "prompt": "There is nothing ___ pleases her more than a well-organised event.",
+      "explanation": "\"That\" is the usual relative after \"nothing\".",
       "options": [
-        "are",
-        "be",
-        "being",
+        "who",
+        "that",
+        "which",
+        "what"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"What\" cannot follow \"nothing\".",
+        "2": "\"Which\" is less usual after \"nothing\".",
+        "0": "\"Who\" refers to people."
+      }
+    },
+    {
+      "id": "c1-vf-199",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "We ___ a lot about the problem, but we have found no solution.",
+      "explanation": "The present perfect links a period to now.",
+      "options": [
+        "had thought",
+        "think",
+        "thought",
+        "have thought"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "The present simple does not link to now.",
+        "2": "The simple past does not link to now.",
+        "0": "The past perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-200",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "It is recommended that all staff ___ the new safety procedures before the end of the month.",
+      "explanation": "\"Recommended that\" takes the base form.",
+      "options": [
+        "reading",
+        "reads",
+        "will read",
+        "read"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "The mandative subjunctive uses the base form.",
+        "2": "\"Will\" is not used here.",
+        "0": "A finite verb is needed."
+      }
+    },
+    {
+      "id": "c1-vf-201",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "It ___ be pointed out that the figures were based on provisional data.",
+      "explanation": "\"Should be pointed out\" is a formal way of drawing attention to a fact.",
+      "options": [
+        "had better",
+        "would rather",
+        "might as well",
+        "should"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Had better be pointed out\" is informal.",
+        "2": "\"Might as well\" does not fit a formal remark.",
+        "1": "\"Would rather\" expresses preference."
+      }
+    },
+    {
+      "id": "c1-vf-202",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I ___ you last night, but you didn't answer your phone.",
+      "explanation": "The simple past reports a completed action.",
+      "options": [
+        "have called",
+        "called",
+        "was calling",
+        "had called"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "A finished time reference needs the simple past.",
+        "3": "The past perfect does not fit.",
+        "2": "The continuous does not show a completed call."
+      }
+    },
+    {
+      "id": "c1-vf-203",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "She ___ have told us about the delay, but she said nothing.",
+      "explanation": "\"Might at least have\" voices a mild reproach.",
+      "options": [
+        "ought",
+        "would rather",
+        "might at least",
+        "had better"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Had better have told\" is not used.",
+        "1": "\"Would rather have told\" changes the meaning.",
+        "0": "\"Ought have\" lacks \"to\"."
+      }
+    },
+    {
+      "id": "c1-vf-204",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "They were arrested on suspicion ___ fraud.",
+      "explanation": "\"Suspicion of\" introduces the offence.",
+      "options": [
+        "of",
+        "for",
+        "with",
+        "at"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Suspicion for\" is not standard.",
+        "3": "\"Suspicion at\" is not standard.",
+        "2": "\"Suspicion with\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-205",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "The people with ___ I work are extremely friendly.",
+      "explanation": "\"With whom\" follows the preposition.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whom"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "After a preposition \"whom\" is used.",
+        "1": "\"Which\" refers to things.",
+        "2": "\"That\" cannot follow a preposition."
+      }
+    },
+    {
+      "id": "c1-vf-206",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "The findings were ___ with those of previous studies.",
+      "explanation": "\"Consistent with\" means in agreement with.",
+      "options": [
+        "consistently",
+        "constant",
+        "consistency",
+        "consistent"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "An adjective is needed.",
+        "2": "\"Consistency\" is a noun.",
+        "1": "\"Constant\" has another meaning."
+      }
+    },
+    {
+      "id": "c1-vf-207",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "The report, ___ findings were widely publicised, led to a change in policy.",
+      "explanation": "\"Whose\" shows possession.",
+      "options": [
+        "which",
+        "its",
+        "what",
+        "whose"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Which findings\" cannot show possession here.",
+        "2": "\"What findings\" is ungrammatical.",
+        "1": "\"Its findings were\" cannot join the clause directly."
+      }
+    },
+    {
+      "id": "c1-vf-208",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I ___ about the matter until you mentioned it just now.",
+      "explanation": "The past perfect marks the state before a past moment.",
+      "options": [
+        "have not thought",
+        "had not thought",
+        "did not think",
+        "was not thinking"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The past perfect shows an earlier state.",
+        "0": "The present perfect does not fit \"until just now\".",
+        "3": "The continuous does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-209",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The government is bound ___ honour the terms of the treaty.",
+      "explanation": "\"Bound to\" is followed by an infinitive.",
+      "options": [
+        "for",
+        "by",
+        "at",
+        "to"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Bound by honour\" would change the structure.",
+        "0": "\"Bound for\" means heading towards.",
+        "2": "\"Bound at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-210",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "At the moment I ___ a book on the history of the Roman Empire.",
+      "explanation": "The present continuous shows an action in progress.",
+      "options": [
+        "was reading",
+        "read",
+        "have read",
+        "am reading"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "The present simple does not show an action in progress.",
+        "2": "The present perfect shows completion.",
+        "0": "The sentence is about the present."
+      }
+    },
+    {
+      "id": "c1-vf-211",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If you ___ me, I would have helped you.",
+      "explanation": "The third conditional uses the past perfect.",
+      "options": [
+        "would ask",
+        "have asked",
+        "had asked",
+        "asked"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "The third conditional needs the past perfect.",
+        "0": "\"Would\" is not used in the if-clause.",
+        "1": "The past perfect is needed."
+      }
+    },
+    {
+      "id": "c1-vf-212",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "I haven't got ___ idea what he is talking about.",
+      "explanation": "\"The faintest idea\" is a fixed phrase.",
+      "options": [
+        "faintly",
+        "a faint",
+        "faintest",
+        "the faintest"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "The superlative needs \"the\".",
+        "1": "\"A faint idea\" has another meaning.",
+        "0": "\"Faintly\" is an adverb."
+      }
+    },
+    {
+      "id": "c1-vf-213",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "She ___ well be right, but I still think the plan is risky.",
+      "explanation": "\"May well\" expresses a strong possibility.",
+      "options": [
+        "must",
+        "should",
+        "would",
+        "may"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Would well be\" has another meaning.",
+        "1": "\"Should well be\" is unusual.",
+        "0": "\"Must well be\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-214",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The weather was ___ better than we had expected.",
+      "explanation": "\"Far\" intensifies a comparative.",
+      "options": [
+        "very",
+        "too",
+        "more",
+        "far"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Very better\" is ungrammatical.",
+        "1": "\"Too better\" is ungrammatical.",
+        "2": "\"More better\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-215",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "I would appreciate ___ if you could keep this confidential.",
+      "explanation": "\"I would appreciate it if\" is a fixed polite structure.",
+      "options": [
+        "them",
+        "that",
+        "this",
+        "it"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"I would appreciate that if\" is awkward.",
+        "2": "\"This\" is less natural.",
+        "0": "\"Them\" has no reference."
+      }
+    },
+    {
+      "id": "c1-vf-216",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "The lecture ___ at nine tomorrow; don't be late.",
+      "explanation": "The present simple is used for timetables.",
+      "options": [
+        "will start",
+        "starts",
+        "is starting",
+        "started"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The timetable calls for the present simple.",
+        "3": "A past form does not refer to the future.",
+        "2": "The continuous suggests an arrangement."
+      }
+    },
+    {
+      "id": "c1-vf-217",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "They ___ have lost their way; they know the area well.",
+      "explanation": "\"Can't have\" expresses a negative deduction.",
+      "options": [
+        "shan't",
+        "can't",
+        "needn't",
+        "mustn't"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Mustn't have\" is not used for deduction.",
+        "0": "\"Shan't have\" is ungrammatical.",
+        "2": "\"Needn't have\" has another meaning."
+      }
+    },
+    {
+      "id": "c1-vf-218",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The lecturer was greeted ___ a round of applause as he entered the hall.",
+      "explanation": "\"Greeted with\" introduces the reaction.",
+      "options": [
+        "by",
+        "at",
+        "to",
+        "with"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Greeted by\" would introduce the person who greeted him.",
+        "1": "\"Greeted at\" is not standard.",
+        "2": "\"Greeted to\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-219",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "She looked tired because she ___ all night.",
+      "explanation": "The past perfect continuous explains an earlier cause.",
+      "options": [
+        "works",
+        "was working",
+        "has been working",
+        "had been working"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "The present perfect does not fit a past observation.",
+        "1": "The simple continuous does not explain the earlier cause.",
+        "0": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "c1-vf-220",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "They ___ for the results since early morning and are beginning to feel anxious.",
+      "explanation": "The present perfect continuous links duration to now.",
+      "options": [
+        "have been waiting",
+        "waited",
+        "are waiting",
+        "had been waiting"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The simple past does not link to now.",
+        "3": "The past perfect does not fit.",
+        "2": "The present continuous does not show duration."
+      }
+    },
+    {
+      "id": "c1-vf-221",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "The report ___ by the time the committee met, so members had time to read it.",
+      "explanation": "The past perfect passive shows an action before a past event.",
+      "options": [
+        "has been circulated",
+        "circulated",
+        "was circulated",
+        "had been circulated"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "The past perfect shows an earlier action.",
+        "0": "The present perfect does not fit.",
+        "1": "The report is the receiver."
+      }
+    },
+    {
+      "id": "c1-vf-222",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "The speaker, ___ speech had been long, finally sat down.",
+      "explanation": "\"Whose\" shows possession.",
+      "options": [
+        "whom",
+        "whose",
+        "who",
+        "which"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Who speech\" is ungrammatical.",
+        "0": "\"Whom speech\" is ungrammatical.",
+        "3": "\"Which speech\" does not show possession."
+      }
+    },
+    {
+      "id": "c1-vf-223",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Anyone ___ wishes to withdraw must notify the office in writing.",
+      "explanation": "\"Who\" is the subject.",
+      "options": [
+        "which",
+        "whom",
+        "whose",
+        "who"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Whom\" is an object form.",
+        "0": "\"Which\" refers to things.",
+        "2": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vf-224",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The two sides finally came ___ an agreement.",
+      "explanation": "\"Come to an agreement\" is the standard collocation.",
+      "options": [
+        "to",
+        "on",
+        "at",
+        "into"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Come at an agreement\" is not standard.",
+        "3": "\"Come into an agreement\" is not standard.",
+        "1": "\"Come on an agreement\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-225",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I ___ hardly sat down when the phone rang.",
+      "explanation": "\"Hardly had\" shows an action just before another.",
+      "options": [
+        "had",
+        "was",
+        "did",
+        "have"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "The past perfect is needed.",
+        "1": "\"Was hardly sat\" is ungrammatical.",
+        "2": "\"Did hardly sat\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-226",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "I'd rather you ___ the matter to anyone until the announcement is made.",
+      "explanation": "A past form expresses a present preference.",
+      "options": [
+        "won't mention",
+        "didn't mention",
+        "don't mention",
+        "haven't mentioned"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "After \"would rather\" + person use a past form.",
+        "0": "\"Won't\" is not used here.",
+        "3": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-227",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "They have an agreement ___ which neither side can withdraw.",
+      "explanation": "\"Withdraw from\" is the standard collocation.",
+      "options": [
+        "to",
+        "by",
+        "of",
+        "from"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Agreement of which\" is not standard.",
+        "0": "\"Agreement to which\" is not standard.",
+        "1": "\"Agreement by which\" has another meaning."
+      }
+    },
+    {
+      "id": "c1-vf-228",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Some of the manuscripts, ___ were centuries old, had been badly damaged.",
+      "explanation": "\"Which\" introduces a nonrestrictive clause.",
+      "options": [
+        "which",
+        "whose",
+        "what",
+        "that"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"What\" cannot introduce a relative clause.",
+        "1": "\"Whose\" shows possession.",
+        "3": "\"That\" cannot follow a comma."
+      }
+    },
+    {
+      "id": "c1-vf-229",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "She gave a ___ speech that moved the audience to tears.",
+      "explanation": "\"Poignant\" means deeply moving.",
+      "options": [
+        "pungent",
+        "poignantly",
+        "poignancy",
+        "poignant"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "An adjective is needed.",
+        "2": "\"Poignancy\" is a noun.",
+        "0": "\"Pungent\" means strong-smelling."
+      }
+    },
+    {
+      "id": "c1-vf-230",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I'd rather you ___ anything to him until we have confirmed the details.",
+      "explanation": "A past form expresses a preference about someone else's action.",
+      "options": [
+        "won't say",
+        "don't say",
+        "didn't say",
+        "haven't said"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "After \"would rather\" + person use a past form.",
+        "0": "\"Won't\" is not used here.",
+        "3": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-231",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "The chairman made ___ of his remarks to a few key points.",
+      "explanation": "\"Make the most of\" is a fixed phrase.",
+      "options": [
+        "the most",
+        "mostly",
+        "a most",
+        "most"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "The superlative needs \"the\".",
+        "2": "\"A most\" has another meaning.",
+        "1": "\"Mostly\" is an adverb."
+      }
+    },
+    {
+      "id": "c1-vf-232",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He was convicted ___ fraud and sentenced to five years in prison.",
+      "explanation": "\"Convicted of\" introduces the offence.",
+      "options": [
+        "with",
+        "for",
+        "on",
+        "of"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Convicted for\" is not standard.",
+        "0": "\"Convicted with\" is not standard.",
+        "2": "\"Convicted on\" introduces the evidence."
+      }
+    },
+    {
+      "id": "c1-vf-233",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "By the time the rescue party arrived, the climbers ___ for three days.",
+      "explanation": "The past perfect passive shows a state before a past event.",
+      "options": [
+        "had been trapped",
+        "have been trapped",
+        "trapped",
+        "were trapped"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "The past perfect shows duration before arrival.",
+        "1": "The present perfect does not fit.",
+        "2": "The climbers are the receivers."
+      }
+    },
+    {
+      "id": "c1-vf-234",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I would never have guessed that he ___ so shy as a child.",
+      "explanation": "The past perfect shows a state before the time of guessing.",
+      "options": [
+        "was",
+        "has been",
+        "had been",
         "is"
       ],
-      "correct": 3
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The past perfect shows an earlier state.",
+        "1": "The present perfect does not fit.",
+        "3": "A present tense does not fit."
+      }
     },
     {
-      "id": "c1-vf-150",
+      "id": "c1-vf-235",
       "type": "verb-form",
       "level": "C1",
-      "topic": "cleft-sentences",
+      "topic": "modals",
       "topics": [
-        "gerunds-infinitives-linking"
+        "modal-verbs"
       ],
-      "prompt": "It was the young intern who ___ the error in the accounts.",
-      "explanation": "In 'It was ... who', the verb in the who-clause matches the past context, usually in the past simple. Example: It was Tom who left the door open.",
-      "wrongReasons": {
-        "0": "The present perfect does not match the past 'It was'.",
-        "1": "The present simple does not match the past context.",
-        "3": "The -ing form cannot be the main verb of the who-clause."
-      },
-      "verb": "spot",
+      "prompt": "If you ___ like to leave a message, please speak after the tone.",
+      "explanation": "\"Would like\" is a polite form.",
       "options": [
-        "has spotted",
-        "spots",
-        "spotted",
-        "spotting"
+        "can",
+        "should",
+        "will",
+        "would"
       ],
-      "correct": 2
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Will like\" is less polite.",
+        "1": "\"Should like\" is formal and rare.",
+        "0": "\"Can like\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-236",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "He has ___ the slightest interest in politics.",
+      "explanation": "\"Not the slightest\" is an emphatic negative.",
+      "options": [
+        "none",
+        "never",
+        "no",
+        "not"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"No the slightest\" is ungrammatical.",
+        "0": "\"None the slightest\" is ungrammatical.",
+        "1": "\"Never the slightest\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-237",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Had we known about the strike, we ___ a different route.",
+      "explanation": "The inverted third conditional uses \"would have\" + participle.",
+      "options": [
+        "had chosen",
+        "will choose",
+        "would choose",
+        "would have chosen"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "This refers to the present.",
+        "1": "The conditional is unreal.",
+        "0": "The result clause needs a modal."
+      }
+    },
+    {
+      "id": "c1-vf-238",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The hotel, ___ owners had refurbished it recently, was booked solid for the summer.",
+      "explanation": "\"Whose\" shows possession.",
+      "options": [
+        "that",
+        "which",
+        "whose",
+        "of which"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Which owners\" does not show possession here.",
+        "0": "\"That\" cannot show possession.",
+        "3": "\"Of which owners\" is awkward."
+      }
+    },
+    {
+      "id": "c1-vf-239",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He answered all the questions ___ ease.",
+      "explanation": "\"With ease\" means easily.",
+      "options": [
+        "with",
+        "in",
+        "by",
+        "at"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"By ease\" is not standard.",
+        "1": "\"In ease\" is not standard.",
+        "3": "\"At ease\" has a different meaning."
+      }
+    },
+    {
+      "id": "c1-vf-240",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Hardly ___ of the proposals received any support.",
+      "explanation": "\"Hardly any\" means almost none.",
+      "options": [
+        "all",
+        "any",
+        "some",
+        "no"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Hardly no\" is a double negative.",
+        "2": "\"Hardly some\" is not idiomatic.",
+        "0": "\"Hardly all\" changes the meaning."
+      }
+    },
+    {
+      "id": "c1-vf-241",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "She ___ to have been the most talented student of her year.",
+      "explanation": "\"Be said to have been\" is a reporting structure.",
+      "options": [
+        "says",
+        "is saying",
+        "has said",
+        "is said"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "The passive reporting structure is needed.",
+        "1": "A continuous form changes the meaning.",
+        "2": "The subject receives the reporting."
+      }
+    },
+    {
+      "id": "c1-vf-242",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "No sooner ___ she left the room than the arguing started again.",
+      "explanation": "\"No sooner had\" is the standard inversion.",
+      "options": [
+        "did",
+        "was",
+        "had",
+        "has"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "The past perfect is needed.",
+        "0": "\"Did she left\" is ungrammatical.",
+        "1": "\"Was she left\" is passive."
+      }
+    },
+    {
+      "id": "c1-vf-243",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "The company ___ its profits by half before the new CEO arrived.",
+      "explanation": "The past perfect shows an earlier change.",
+      "options": [
+        "halved",
+        "has halved",
+        "was halving",
+        "had halved"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "The earlier change needs the past perfect.",
+        "1": "The present perfect does not fit.",
+        "2": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "c1-vf-244",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The expedition, which ___ for months, was finally ready to depart.",
+      "explanation": "The past perfect passive shows a process before departure.",
+      "options": [
+        "has been planned",
+        "was planned",
+        "had been planned",
+        "planned"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The past perfect passive shows an earlier process.",
+        "0": "The present perfect does not fit.",
+        "3": "The expedition is the receiver."
+      }
+    },
+    {
+      "id": "c1-vf-245",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "He is ___ expert on the history of the region.",
+      "explanation": "\"An expert\" means one of several.",
+      "options": [
+        "some",
+        "the",
+        "no article",
+        "an"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"The expert\" suggests a unique person.",
+        "2": "A singular noun needs a determiner.",
+        "0": "\"Some expert\" has another meaning."
+      }
+    },
+    {
+      "id": "c1-vf-246",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "He was sentenced ___ death for treason.",
+      "explanation": "\"Sentenced to\" introduces the punishment.",
+      "options": [
+        "for",
+        "by",
+        "to",
+        "at"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Sentenced at\" is not standard.",
+        "0": "\"Sentenced for death\" is not standard.",
+        "1": "\"Sentenced by\" introduces an agent."
+      }
+    },
+    {
+      "id": "c1-vf-247",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "They ___ have left yet; their coats are still here.",
+      "explanation": "\"Can't have\" expresses a negative deduction.",
+      "options": [
+        "needn't",
+        "can't",
+        "shouldn't",
+        "mustn't"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Mustn't have\" is not used for deduction.",
+        "0": "\"Needn't have\" has another meaning.",
+        "2": "\"Shouldn't have\" expresses criticism."
+      }
+    },
+    {
+      "id": "c1-vf-248",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "I'll lend you the car provided you ___ it back by six.",
+      "explanation": "A present form follows \"provided\".",
+      "options": [
+        "brought",
+        "will bring",
+        "bring",
+        "brings"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "A future form is not used after \"provided\".",
+        "0": "A past form does not refer to the future.",
+        "3": "\"You\" takes the base form."
+      }
+    },
+    {
+      "id": "c1-vf-249",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "It is high time you ___ the truth about what happened.",
+      "explanation": "\"High time\" + past simple states that action is overdue.",
+      "options": [
+        "told",
+        "tell",
+        "have told",
+        "will tell"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "After \"it is high time\" a past form is used.",
+        "3": "\"Will\" is not used here.",
+        "2": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-250",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "The moment the doors ___, a crowd rushed into the store.",
+      "explanation": "The simple past reports the sequence.",
+      "options": [
+        "have opened",
+        "had opened",
+        "opened",
+        "were opening"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The two actions happened almost together.",
+        "0": "The present perfect does not fit.",
+        "3": "The continuous does not fit a sudden event."
+      }
+    },
+    {
+      "id": "c1-vf-251",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "She will be tired when she ___ home tonight.",
+      "explanation": "A present form follows a time conjunction.",
+      "options": [
+        "getting",
+        "gets",
+        "got",
+        "will get"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "A future form is not used after \"when\".",
+        "2": "A past form does not refer to the future.",
+        "0": "A finite verb is needed."
+      }
+    },
+    {
+      "id": "c1-vf-252",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "We ___ the summit by dusk if the weather had not turned against us.",
+      "explanation": "The third conditional result uses \"would have\" + participle.",
+      "options": [
+        "will have reached",
+        "had reached",
+        "would have reached",
+        "would reach"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "This refers to the present.",
+        "1": "The result clause needs a modal.",
+        "0": "\"Will\" does not fit an unreal past."
+      }
+    },
+    {
+      "id": "c1-vf-253",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ not have come; I could have managed alone.",
+      "explanation": "\"Need not have\" says an action was unnecessary.",
+      "options": [
+        "must",
+        "needn't",
+        "need",
+        "should"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Needn't not\" is a double negative.",
+        "0": "\"Must not have\" is not used here.",
+        "3": "\"Should not have\" expresses criticism."
+      }
+    },
+    {
+      "id": "c1-vf-254",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "She ___ in the same house all her life.",
+      "explanation": "The present perfect links a period to now.",
+      "options": [
+        "lived",
+        "lives",
+        "has lived",
+        "had lived"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The simple past does not link to now.",
+        "3": "The past perfect does not fit.",
+        "1": "The present simple does not show duration."
+      }
+    },
+    {
+      "id": "c1-vf-255",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "They ___ to have returned to the capital by now, but nobody has seen them.",
+      "explanation": "\"Ought to have\" expresses an expectation.",
+      "options": [
+        "must",
+        "should to",
+        "would",
+        "ought"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Should\" is not followed by \"to\".",
+        "0": "\"Must to have\" is ungrammatical.",
+        "2": "\"Would to have\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-256",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "No sooner ___ the new law come into force than it was challenged in the courts.",
+      "explanation": "\"No sooner had\" is the standard inversion.",
+      "options": [
+        "has",
+        "was",
+        "did",
+        "had"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "The past perfect is needed.",
+        "2": "\"Did the new law come\" lacks the correct pair.",
+        "1": "\"Was the new law come\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-257",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I have been working on this project ___ last September.",
+      "explanation": "\"Since\" introduces a starting point.",
+      "options": [
+        "from",
+        "during",
+        "for",
+        "since"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"For\" needs a length of time.",
+        "0": "\"From\" does not combine with the present perfect.",
+        "1": "\"During\" does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-258",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "If I ___ able to choose again, I would take exactly the same decision.",
+      "explanation": "\"If I were able\" is an unreal present condition.",
+      "options": [
+        "am",
+        "would be",
+        "will be",
+        "were"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Would\" is not used in the if-clause.",
+        "2": "\"Will\" is not used in the if-clause.",
+        "0": "The second conditional needs a past form."
+      }
+    },
+    {
+      "id": "c1-vf-259",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "The book, ___ I read several years ago, changed the way I think about history.",
+      "explanation": "\"Which\" introduces a nonrestrictive clause.",
+      "options": [
+        "that",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"What\" cannot introduce a relative clause.",
+        "0": "\"That\" cannot follow a comma.",
+        "2": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vf-260",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The performance was ___ disappointing that many left early.",
+      "explanation": "\"So ... that\" shows a result.",
+      "options": [
+        "so",
+        "such",
+        "too",
+        "very"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Such disappointing\" lacks a noun.",
+        "3": "\"Very ... that\" does not form a result clause.",
+        "2": "\"Too\" does not take \"that\"."
+      }
+    },
+    {
+      "id": "c1-vf-261",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I ___ you a postcard when I was in Rome, but I forgot to post it.",
+      "explanation": "The simple past reports a completed action.",
+      "options": [
+        "have written",
+        "wrote",
+        "was writing",
+        "had written"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The present perfect does not fit a finished past.",
+        "2": "The continuous does not show completion.",
+        "3": "The past perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-262",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "He was ___ of stealing the money, but there was no evidence.",
+      "explanation": "\"Accused of\" introduces the alleged crime.",
+      "options": [
+        "excused",
+        "refused",
+        "accused",
+        "abused"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Excused\" means forgiven.",
+        "1": "\"Refused\" means declined.",
+        "3": "\"Abused\" means mistreated."
+      }
+    },
+    {
+      "id": "c1-vf-263",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "There is ___ little evidence that the treatment is effective.",
+      "explanation": "\"Very little\" emphasises the scarcity.",
+      "options": [
+        "too",
+        "very",
+        "a",
+        "so"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"A little evidence\" would be positive.",
+        "3": "\"So little evidence\" needs a result clause.",
+        "0": "\"Too little evidence\" needs \"for\" or \"to\"."
+      }
+    },
+    {
+      "id": "c1-vf-264",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The coach, ___ journey takes about nine hours, leaves at midnight.",
+      "explanation": "\"Whose\" shows possession.",
+      "options": [
+        "of which",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Which journey\" does not show possession.",
+        "3": "\"That\" cannot show possession.",
+        "0": "\"Of which journey\" is awkward."
+      }
+    },
+    {
+      "id": "c1-vf-265",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "I wonder ___ of the two options is likely to be more successful.",
+      "explanation": "\"Which\" chooses from a limited set.",
+      "options": [
+        "whose",
+        "what",
+        "who",
+        "which"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"What\" does not choose between two.",
+        "2": "\"Who\" refers to people.",
+        "0": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vf-266",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Little ___ they know that their surprise was about to be ruined.",
+      "explanation": "\"Little did they know\" is an inverted structure.",
+      "options": [
+        "did",
+        "do",
+        "have",
+        "were"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Little\" at the start requires inversion with the past.",
+        "2": "\"Have\" does not fit the past narrative.",
+        "3": "\"Were they know\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-267",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Not until much later ___ the full extent of her kindness.",
+      "explanation": "\"Not until\" requires inversion with \"did\".",
+      "options": [
+        "he realised",
+        "had he realised",
+        "he did realise",
+        "did he realise"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Not until\" at the start requires inversion.",
+        "2": "The word order is not inverted.",
+        "1": "The main clause is simple past here."
+      }
+    },
+    {
+      "id": "c1-vf-268",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "The jury was ___ in finding the defendant guilty.",
+      "explanation": "\"Unanimous\" means in complete agreement.",
+      "options": [
+        "unaware",
+        "anonymous",
+        "unanimously",
+        "unanimous"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"Anonymous\" means unnamed.",
+        "2": "An adjective is needed.",
+        "0": "\"Unaware\" means not knowing."
+      }
+    },
+    {
+      "id": "c1-vf-269",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The soup tastes ___ without salt.",
+      "explanation": "\"Bland\" means lacking flavour.",
+      "options": [
+        "blandly",
+        "blind",
+        "blandness",
+        "bland"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "After \"taste\" an adjective is used.",
+        "2": "\"Blandness\" is a noun.",
+        "1": "\"Blind\" means unable to see."
+      }
+    },
+    {
+      "id": "c1-vf-270",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "It is ___ a pity that you cannot join us.",
+      "explanation": "\"Such a pity\" precedes a noun phrase.",
+      "options": [
+        "such",
+        "so",
+        "too",
+        "very"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"So a pity\" is ungrammatical.",
+        "3": "\"Very a pity\" is ungrammatical.",
+        "2": "\"Too a pity\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-271",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "The students, all of ___ passed the test, were awarded certificates.",
+      "explanation": "\"All of whom\" is a standard relative construction.",
+      "options": [
+        "them",
+        "who",
+        "whom",
+        "which"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Which\" refers to things.",
+        "1": "After \"of\" the object form is needed.",
+        "0": "\"Them\" cannot introduce a relative clause."
+      }
+    },
+    {
+      "id": "c1-vf-272",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "It is not the money ___ matters but the principle.",
+      "explanation": "\"That\" introduces a cleft clause.",
+      "options": [
+        "that",
+        "whose",
+        "which",
+        "what"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"What\" cannot follow a noun.",
+        "2": "\"Which\" is less natural in a cleft.",
+        "1": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vf-273",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "They ___ in Paris since 2015 and have no plans to leave.",
+      "explanation": "The present perfect links \"since\" to now.",
+      "options": [
+        "live",
+        "had lived",
+        "have lived",
+        "lived"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "The simple past does not link to now.",
+        "1": "The past perfect does not fit.",
+        "0": "The present simple does not show duration."
+      }
+    },
+    {
+      "id": "c1-vf-274",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Each of the contestants ___ asked to introduce themselves.",
+      "explanation": "\"Each\" takes a singular verb.",
+      "options": [
+        "were",
+        "are",
+        "was",
+        "being"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Each\" takes a singular verb.",
+        "1": "\"are\" does not work here, because \"Each\" takes a singular verb.",
+        "3": "A finite verb is needed."
+      }
+    },
+    {
+      "id": "c1-vf-275",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "The report ___ before the board meets on Thursday.",
+      "explanation": "The future perfect passive shows completion before a future time.",
+      "options": [
+        "will have been completed",
+        "has been completed",
+        "is completed",
+        "will be completed"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "The future perfect passive shows completion before a point.",
+        "1": "The present perfect does not fit a future point.",
+        "2": "A present tense does not show completion."
+      }
+    },
+    {
+      "id": "c1-vf-276",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "We ___ to have finished by six, but we are running late.",
+      "explanation": "\"Ought to have\" expresses an expectation.",
+      "options": [
+        "ought",
+        "would",
+        "should to",
+        "must"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Should\" is not followed by \"to\".",
+        "3": "\"Must to have\" is ungrammatical.",
+        "1": "\"Would to have\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-277",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I wish you ___ stop interrupting me.",
+      "explanation": "\"Wish ... would\" expresses annoyance.",
+      "options": [
+        "should",
+        "will",
+        "would",
+        "could to"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Wish ... will\" is ungrammatical.",
+        "3": "\"Could to\" is ungrammatical.",
+        "0": "\"Wish ... should\" is unusual."
+      }
+    },
+    {
+      "id": "c1-vf-278",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The success of the venture depends largely ___ the goodwill of local people.",
+      "explanation": "\"Depend on\" is the fixed collocation.",
+      "options": [
+        "at",
+        "on",
+        "of",
+        "from"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Depend of\" is not standard.",
+        "3": "\"Depend from\" is not standard.",
+        "0": "\"Depend at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-279",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "She would have been promoted had she ___ the deadline.",
+      "explanation": "\"Had she not missed\" is the correct form.",
+      "options": [
+        "not missing",
+        "not miss",
+        "not missed",
+        "not have missed"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The inverted conditional needs a participle.",
+        "0": "A participle needs an auxiliary.",
+        "3": "\"Had she not have\" is nonstandard."
+      }
+    },
+    {
+      "id": "c1-vf-280",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Despite his best efforts, he failed to come to terms ___ the loss of his job.",
+      "explanation": "\"Come to terms with\" means to accept.",
+      "options": [
+        "at",
+        "for",
+        "to",
+        "with"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Come to terms to\" is not standard.",
+        "0": "\"Come to terms at\" is not standard.",
+        "1": "\"Come to terms for\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-281",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If I ___ you, I would think twice.",
+      "explanation": "\"If I were you\" is the standard advice phrase.",
+      "options": [
+        "am",
+        "would be",
+        "was",
+        "were"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "The subjunctive \"were\" is used in formal English.",
+        "0": "A present form does not fit an unreal condition.",
+        "1": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "c1-vf-282",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "By the end of the month, the two companies ___ completely.",
+      "explanation": "\"By the end of the month\" calls for the future perfect.",
+      "options": [
+        "merge",
+        "will have merged",
+        "will merge",
+        "have merged"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The future perfect shows completion.",
+        "0": "A present tense does not fit.",
+        "3": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-283",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "When I get home, I ___ a hot bath.",
+      "explanation": "\"Will\" predicts a future action.",
+      "options": [
+        "have",
+        "will have",
+        "am having",
+        "had"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "A present tense does not predict.",
+        "2": "The continuous suggests an arrangement.",
+        "3": "A past form does not refer to the future."
+      }
+    },
+    {
+      "id": "c1-vf-284",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "I would like to thank ___ who helped to organise the event.",
+      "explanation": "\"Everyone\" refers to all people.",
+      "options": [
+        "anything",
+        "everyone",
+        "every one",
+        "everything"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Everything\" refers to things.",
+        "2": "\"Every one\" refers to one of a group.",
+        "0": "\"Anything\" refers to things."
+      }
+    },
+    {
+      "id": "c1-vf-285",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "It was Maria ___ first noticed the error.",
+      "explanation": "\"Who\" is the subject of the cleft clause.",
+      "options": [
+        "which",
+        "whose",
+        "whom",
+        "who"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Whom\" is an object form.",
+        "1": "\"Whose\" shows possession.",
+        "0": "\"Which\" refers to things."
+      }
+    },
+    {
+      "id": "c1-vf-286",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "The firm ___ its profits steadily for five years before the recession hit.",
+      "explanation": "The past perfect continuous shows duration before a past event.",
+      "options": [
+        "had been increasing",
+        "increased",
+        "was increasing",
+        "has been increasing"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The past perfect continuous shows duration before the event.",
+        "3": "The present perfect does not fit.",
+        "1": "The simple past does not show duration."
+      }
+    },
+    {
+      "id": "c1-vf-287",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The ferry, ___ crossing normally takes forty minutes, was delayed by fog.",
+      "explanation": "\"Whose\" shows possession.",
+      "options": [
+        "of which",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Which crossing\" does not show possession.",
+        "3": "\"That\" cannot follow a comma.",
+        "0": "\"Of which crossing\" is awkward."
+      }
+    },
+    {
+      "id": "c1-vf-288",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "The decision, ___ was taken without consultation, provoked a wave of protest.",
+      "explanation": "\"Which\" introduces a nonrestrictive clause.",
+      "options": [
+        "that",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"What\" cannot introduce a relative clause.",
+        "0": "\"That\" cannot follow a comma.",
+        "2": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vf-289",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "It was the ___ news we had ever received.",
+      "explanation": "\"Best\" is the superlative of \"good\".",
+      "options": [
+        "well",
+        "good",
+        "best",
+        "better"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "A comparative does not fit \"ever\".",
+        "0": "\"Well news\" is ungrammatical.",
+        "1": "A superlative is needed."
+      }
+    },
+    {
+      "id": "c1-vf-290",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "The company ___ steadily since the new management took over.",
+      "explanation": "The present perfect continuous links change to now.",
+      "options": [
+        "improved",
+        "has been improving",
+        "is improving",
+        "improves"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The present continuous does not show duration since a point.",
+        "0": "The simple past does not connect to now.",
+        "3": "The present simple does not show change."
+      }
+    },
+    {
+      "id": "c1-vf-291",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "There are two options; ___ of them is perfect.",
+      "explanation": "\"Neither\" refers to two.",
+      "options": [
+        "any",
+        "none",
+        "neither",
+        "all"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"None\" is used for more than two.",
+        "0": "\"Any\" does not give a negative sense.",
+        "3": "\"All\" refers to more than two."
+      }
+    },
+    {
+      "id": "c1-vf-292",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "There is no point ___ the matter any further.",
+      "explanation": "\"No point in\" is followed by a gerund.",
+      "options": [
+        "in discussing",
+        "to discuss",
+        "of discussing",
+        "at discussing"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"No point\" is followed by \"in\" + gerund.",
+        "2": "\"Of\" is not used here.",
+        "3": "\"At\" is not used here."
+      }
+    },
+    {
+      "id": "c1-vf-293",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "Had the board acted sooner, the company ___ in such difficulties now.",
+      "explanation": "A mixed conditional links a past condition to a present result.",
+      "options": [
+        "would not have been",
+        "will not be",
+        "would not be",
+        "was not"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Will\" does not fit the unreal condition.",
+        "0": "The result refers to the present.",
+        "3": "A past form does not fit the mixed conditional."
+      }
+    },
+    {
+      "id": "c1-vf-294",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "The two proposals are very ___; there is little to choose between them.",
+      "explanation": "\"Similar\" means alike.",
+      "options": [
+        "similarity",
+        "simulated",
+        "similar",
+        "simultaneous"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Simulated\" means imitated.",
+        "0": "\"Similarity\" is a noun.",
+        "3": "\"Simultaneous\" means at the same time."
+      }
+    },
+    {
+      "id": "c1-vf-295",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "The negotiators ___ since early morning and show no signs of reaching agreement.",
+      "explanation": "The present perfect continuous shows duration up to now.",
+      "options": [
+        "are talking",
+        "had been talking",
+        "have been talking",
+        "talked"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "The simple past does not link to now.",
+        "1": "The past perfect does not fit.",
+        "0": "The present continuous does not show duration."
+      }
+    },
+    {
+      "id": "c1-vf-296",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "We ___ before the plane took off.",
+      "explanation": "The past perfect shows an earlier action.",
+      "options": [
+        "have boarded",
+        "boarded",
+        "were boarding",
+        "had boarded"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "The past perfect shows an earlier action.",
+        "0": "The sentence is in the past.",
+        "2": "The continuous does not show completion."
+      }
+    },
+    {
+      "id": "c1-vf-297",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "If the authorities ___ earlier, the outbreak could have been contained.",
+      "explanation": "The if-clause uses the past perfect.",
+      "options": [
+        "act",
+        "would act",
+        "acted",
+        "had acted"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "The third conditional needs the past perfect.",
+        "1": "\"Would\" is not used in the if-clause.",
+        "0": "A present form does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-298",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "She has ___ little money that she can hardly afford the rent.",
+      "explanation": "\"So little ... that\" shows a result.",
+      "options": [
+        "too",
+        "such",
+        "so",
+        "very"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Such little money\" is unnatural.",
+        "3": "\"Very ... that\" does not form a result clause.",
+        "0": "\"Too\" does not take \"that\"."
+      }
+    },
+    {
+      "id": "c1-vf-299",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ not have gone to so much trouble; a simple meal would have been perfectly adequate.",
+      "explanation": "\"Need not have\" says it was unnecessary but done.",
+      "options": [
+        "must",
+        "would",
+        "should to",
+        "need"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Must not have\" is not used here.",
+        "2": "\"Should\" is not followed by \"to\".",
+        "1": "\"Would not have gone\" changes the meaning."
+      }
+    },
+    {
+      "id": "c1-vf-300",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "It was not until later ___ she realised the full extent of the damage.",
+      "explanation": "\"It was not until ... that\" is a cleft structure.",
+      "options": [
+        "what",
+        "that",
+        "when",
+        "which"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"It was not until later when\" is informal.",
+        "3": "\"Which\" needs an antecedent.",
+        "0": "\"What\" is ungrammatical here."
+      }
+    },
+    {
+      "id": "c1-vf-301",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If only we ___ more time, we could finish the project.",
+      "explanation": "\"If only\" + past simple expresses a present wish.",
+      "options": [
+        "would have",
+        "had",
+        "did have",
+        "have"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"If only\" + past expresses a present wish.",
+        "0": "\"Would\" is not used here.",
+        "2": "\"Did have\" is unusual."
+      }
+    },
+    {
+      "id": "c1-vf-302",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "He has made ___ progress in his studies this term.",
+      "explanation": "\"Considerable\" means large.",
+      "options": [
+        "considerably",
+        "considerable",
+        "considerate",
+        "considering"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "An adjective is needed.",
+        "2": "\"Considerate\" means thoughtful.",
+        "3": "\"Considering\" is a participle."
+      }
+    },
+    {
+      "id": "c1-vf-303",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "___ I known what was going to happen, I would have stayed at home.",
+      "explanation": "\"Had\" + subject + participle is the inverted third conditional.",
+      "options": [
+        "Had",
+        "Have",
+        "Did",
+        "Would"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The inverted third conditional uses \"had\".",
+        "2": "\"Did\" does not form this conditional.",
+        "3": "\"Would I known\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-304",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I'd like to thank everyone ___ made this evening possible.",
+      "explanation": "\"Who\" is the subject of the relative clause.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "The relative acts as the subject.",
+        "2": "\"Whose\" shows possession.",
+        "1": "\"Which\" refers to things."
+      }
+    },
+    {
+      "id": "c1-vf-305",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ better see a doctor about that cough.",
+      "explanation": "\"Had better\" gives strong advice.",
+      "options": [
+        "have",
+        "would",
+        "had",
+        "should"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Would better\" is not standard.",
+        "3": "\"Should better\" is ungrammatical.",
+        "0": "\"Have better\" lacks the past form."
+      }
+    },
+    {
+      "id": "c1-vf-306",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "The ruins, ___ date from the first century, are among the best preserved in the region.",
+      "explanation": "\"Which\" introduces a nonrestrictive clause.",
+      "options": [
+        "that",
+        "whose",
+        "what",
+        "which"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"That\" cannot follow a comma.",
+        "2": "\"What\" cannot introduce a relative clause.",
+        "1": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vf-307",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "The suspect is said ___ been seen near the scene.",
+      "explanation": "The perfect infinitive shows an earlier time.",
+      "options": [
+        "to have",
+        "to has",
+        "has",
+        "having"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"To\" takes the base form.",
+        "3": "A participle does not follow \"said\".",
+        "2": "A finite verb does not follow \"said\"."
+      }
+    },
+    {
+      "id": "c1-vf-308",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "The new law will ___ all drivers, whatever their age.",
+      "explanation": "\"Affect\" means to influence.",
+      "options": [
+        "afflict",
+        "effect",
+        "affect",
+        "infect"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Effect\" as a verb means to bring about.",
+        "0": "\"Afflict\" means to cause suffering.",
+        "3": "\"Infect\" means to contaminate."
+      }
+    },
+    {
+      "id": "c1-vf-309",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "There was ___ food left after the party, so we threw it away.",
+      "explanation": "\"No\" is a negative determiner.",
+      "options": [
+        "any",
+        "not",
+        "none",
+        "no"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"None food\" is ungrammatical.",
+        "1": "\"Not food\" is ungrammatical.",
+        "0": "\"Any\" does not give a negative sense."
+      }
+    },
+    {
+      "id": "c1-vf-310",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The committee reached a ___ decision after a long debate.",
+      "explanation": "\"Unanimous\" means in full agreement.",
+      "options": [
+        "unanimous",
+        "unanimously",
+        "uniform",
+        "anonymous"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "An adjective is needed.",
+        "3": "\"Anonymous\" means unnamed.",
+        "2": "\"Uniform\" means identical."
+      }
+    },
+    {
+      "id": "c1-vf-311",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ well be right, but I am not convinced.",
+      "explanation": "\"May well\" expresses a strong possibility.",
+      "options": [
+        "will",
+        "may",
+        "shall",
+        "would"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Will well\" is ungrammatical.",
+        "3": "\"Would well\" is unusual.",
+        "2": "\"Shall well\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-312",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If it ___ not for his help, I would have failed.",
+      "explanation": "\"If it had not been for\" means without.",
+      "options": [
+        "was",
+        "would be",
+        "had been",
+        "were"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The third conditional needs the past perfect.",
+        "3": "This refers to a present unreal situation.",
+        "1": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "c1-vf-313",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The company is committed ___ reducing its carbon emissions by half.",
+      "explanation": "\"Committed to\" is followed by -ing.",
+      "options": [
+        "with",
+        "for",
+        "to",
+        "in"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Committed for\" is not standard.",
+        "0": "\"Committed with\" is not standard.",
+        "3": "\"Committed in\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-314",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Visitors ___ not feed the animals; it is strictly forbidden.",
+      "explanation": "\"May not\" expresses prohibition in formal rules.",
+      "options": [
+        "would",
+        "may",
+        "might",
+        "could"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Might not\" is weaker.",
+        "3": "\"Could not\" expresses inability.",
+        "0": "\"Would not\" is conditional."
+      }
+    },
+    {
+      "id": "c1-vf-315",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "I ___ rather you didn't mention the matter to anyone for the time being.",
+      "explanation": "\"I would rather you didn't\" is a polite request.",
+      "options": [
+        "would",
+        "might",
+        "had",
+        "should"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Had rather\" is dated.",
+        "3": "\"Should rather\" is rare.",
+        "1": "\"Might rather\" is not used."
+      }
+    },
+    {
+      "id": "c1-vf-316",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "It was not until I met her ___ I realised how much I had missed my family.",
+      "explanation": "\"It was not until ... that\" is a cleft structure.",
+      "options": [
+        "that",
+        "what",
+        "when",
+        "which"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"It was not until ... when\" is informal.",
+        "3": "\"Which\" is ungrammatical here.",
+        "1": "\"What\" is ungrammatical here."
+      }
+    },
+    {
+      "id": "c1-vf-317",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "The committee has ___ authority to approve spending of this size.",
+      "explanation": "\"No\" means not any.",
+      "options": [
+        "none",
+        "no",
+        "not",
+        "any"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Not authority\" is ungrammatical.",
+        "0": "\"None authority\" is ungrammatical.",
+        "3": "\"Has any authority\" does not express denial."
+      }
+    },
+    {
+      "id": "c1-vf-318",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "He ___ his career as a clerk before rising to the top of the company.",
+      "explanation": "The simple past reports events in sequence.",
+      "options": [
+        "began",
+        "had begun",
+        "has begun",
+        "begins"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The simple past reports the sequence.",
+        "2": "The present perfect does not fit.",
+        "3": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "c1-vf-319",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "The delegates were given ___ chance to express their views.",
+      "explanation": "\"No chance\" is a negative determiner.",
+      "options": [
+        "no",
+        "not",
+        "none",
+        "any"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Not chance\" is ungrammatical.",
+        "2": "\"None chance\" is ungrammatical.",
+        "3": "\"Any\" does not give a negative sense."
+      }
+    },
+    {
+      "id": "c1-vf-320",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "He gave ___ the impression of someone who had nothing to hide.",
+      "explanation": "\"Give someone the impression\" takes an indirect object directly.",
+      "options": [
+        "with us",
+        "for us",
+        "us",
+        "to us"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Give us the impression\" does not take \"to\".",
+        "1": "\"For us\" is not idiomatic here.",
+        "0": "\"With us\" is not idiomatic here."
+      }
+    },
+    {
+      "id": "c1-vf-321",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "The management ___ the staff that no redundancies were planned.",
+      "explanation": "\"Assure someone that\" means to promise.",
+      "options": [
+        "insured",
+        "ensured",
+        "assured",
+        "reassured"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Ensure\" does not take a personal object like this.",
+        "0": "\"Insure\" is about insurance.",
+        "3": "\"Reassured the staff\" changes the structure."
+      }
+    },
+    {
+      "id": "c1-vf-322",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "She said she ___ the film twice before.",
+      "explanation": "The past perfect shows an earlier action in reported speech.",
+      "options": [
+        "had seen",
+        "sees",
+        "saw",
+        "has seen"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "The reporting verb is past.",
+        "2": "The past perfect shows an earlier action.",
+        "1": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "c1-vf-323",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I ___ you a lift if you had asked me.",
+      "explanation": "The third conditional uses \"would have\" + participle.",
+      "options": [
+        "will give",
+        "would give",
+        "would have given",
+        "had given"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "This refers to the present.",
+        "3": "The result clause needs a modal.",
+        "0": "\"Will\" does not fit an unreal past."
+      }
+    },
+    {
+      "id": "c1-vf-324",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "She did not have ___ idea what the instructions meant.",
+      "explanation": "\"Not the faintest idea\" is a fixed phrase.",
+      "options": [
+        "a faint",
+        "the faintest",
+        "faintest",
+        "faintly"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The superlative needs \"the\".",
+        "0": "\"A faint idea\" has another meaning.",
+        "3": "\"Faintly\" is an adverb."
+      }
+    },
+    {
+      "id": "c1-vf-325",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "They have been engaged ___ a bitter dispute for months.",
+      "explanation": "\"Engaged in\" a dispute is the standard collocation.",
+      "options": [
+        "with",
+        "at",
+        "in",
+        "on"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Engaged at\" is not standard.",
+        "3": "\"Engaged on\" is not standard.",
+        "0": "\"Engaged with\" has a different meaning."
+      }
+    },
+    {
+      "id": "c1-vf-326",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "She would have called you if she ___ your number.",
+      "explanation": "The if-clause uses the past perfect.",
+      "options": [
+        "have had",
+        "has",
+        "would have",
+        "had had"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "The third conditional needs the past perfect.",
+        "0": "\"Have had\" is not the past perfect.",
+        "2": "\"Would\" is not used in the if-clause."
+      }
+    },
+    {
+      "id": "c1-vf-327",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "The lecture ___ have finished by now, so let's go and meet them.",
+      "explanation": "\"Should have\" expresses an expectation.",
+      "options": [
+        "shan't",
+        "should",
+        "mustn't",
+        "needn't"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Mustn't have\" is not used here.",
+        "3": "\"Needn't have\" has another meaning.",
+        "0": "\"Shan't have\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-328",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "If governments ___ earlier, the worst effects of climate change could have been avoided.",
+      "explanation": "The if-clause uses the past perfect.",
+      "options": [
+        "act",
+        "acted",
+        "would act",
+        "had acted"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "The third conditional needs the past perfect.",
+        "2": "\"Would\" is not used in the if-clause.",
+        "0": "A present form does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-329",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "If I ___ known about the problem, I would have said something.",
+      "explanation": "The third conditional uses \"had\" + participle.",
+      "options": [
+        "have",
+        "had",
+        "did",
+        "would have"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The third conditional needs the past perfect.",
+        "3": "\"Would\" is not used in the if-clause.",
+        "2": "\"Did known\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-330",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "It is not ___ my power to change the rules.",
+      "explanation": "\"Within my power\" means possible for me.",
+      "options": [
+        "under",
+        "inside",
+        "within",
+        "on"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Inside my power\" is not idiomatic.",
+        "0": "\"Under my power\" has another meaning.",
+        "3": "\"On my power\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-331",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "The prisoners were not allowed ___ visitors.",
+      "explanation": "The passive of \"allow\" takes \"to\".",
+      "options": [
+        "receiving",
+        "receive",
+        "received",
+        "to receive"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Allowed\" takes an infinitive in the passive.",
+        "1": "The passive requires \"to\".",
+        "2": "An infinitive is needed."
+      }
+    },
+    {
+      "id": "c1-vf-332",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "The proposal is ___ to be accepted, since few people support it.",
+      "explanation": "\"Unlikely\" means improbable.",
+      "options": [
+        "likelihood",
+        "unliked",
+        "unlikely",
+        "unlike"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "\"Unlike\" is a preposition.",
+        "1": "\"Unliked\" means not liked.",
+        "0": "\"Likelihood\" is a noun."
+      }
+    },
+    {
+      "id": "c1-vf-333",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "As ___ result of the delay, several flights were rescheduled.",
+      "explanation": "\"As a result of\" is a fixed phrase.",
+      "options": [
+        "an",
+        "–",
+        "the",
+        "a"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"The result\" would require a specific, known result.",
+        "0": "\"Result\" begins with a consonant sound.",
+        "1": "A singular noun needs a determiner."
+      }
+    },
+    {
+      "id": "c1-vf-334",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "It is high time the company ___ its recruitment procedures.",
+      "explanation": "\"High time\" + past simple states that action is overdue.",
+      "options": [
+        "will review",
+        "has reviewed",
+        "reviewed",
+        "reviews"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "3": "After \"it is high time\" a past form is used.",
+        "0": "\"Will\" is not used here.",
+        "1": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-335",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology"
+      ],
+      "prompt": "She is regarded ___ one of the most gifted engineers of her generation.",
+      "explanation": "\"Regard as\" is the fixed pattern.",
+      "options": [
+        "to",
+        "for",
+        "like",
+        "as"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Regarded like\" is not standard.",
+        "0": "\"Regarded to\" is not standard.",
+        "1": "\"Regarded for\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-336",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "I cannot think of anyone ___ opinion I respect more.",
+      "explanation": "\"Whose\" shows possession.",
+      "options": [
+        "whom",
+        "whose",
+        "who",
+        "which"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Who opinion\" is ungrammatical.",
+        "0": "\"Whom opinion\" is ungrammatical.",
+        "3": "\"Which opinion\" does not show possession for a person."
+      }
+    },
+    {
+      "id": "c1-vf-337",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "The findings have important ___ for the treatment of the disease.",
+      "explanation": "\"Implications\" are possible consequences.",
+      "options": [
+        "implications",
+        "applications",
+        "implementations",
+        "explanations"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Applications\" refers to uses.",
+        "2": "\"Implementations\" refers to putting into effect.",
+        "3": "\"Explanations\" gives reasons."
+      }
+    },
+    {
+      "id": "c1-vf-338",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "The firm hired several consultants, none of ___ had any experience of the industry.",
+      "explanation": "\"None of whom\" is a standard relative construction.",
+      "options": [
+        "them",
+        "who",
+        "whom",
+        "which"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "After \"of\" the object form is needed.",
+        "3": "\"Which\" refers to things.",
+        "0": "\"Them\" cannot introduce a relative clause."
+      }
+    },
+    {
+      "id": "c1-vf-339",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "The report, ___ findings were published last week, has prompted calls for reform.",
+      "explanation": "\"Whose\" shows possession.",
+      "options": [
+        "of which",
+        "that",
+        "which",
+        "whose"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Which findings\" does not show possession.",
+        "1": "\"That\" cannot follow a comma.",
+        "0": "\"Of which findings\" is awkward."
+      }
+    },
+    {
+      "id": "c1-vf-340",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "By the time she got home, her husband ___ dinner.",
+      "explanation": "The past perfect shows an earlier action.",
+      "options": [
+        "was cooked",
+        "had cooked",
+        "cooked",
+        "has cooked"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "The sentence is in the past.",
+        "2": "The simple past does not show an earlier action.",
+        "0": "\"Cook\" is active here."
+      }
+    },
+    {
+      "id": "c1-vf-341",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "No sooner had the vaccine been introduced ___ the incidence of the disease fell dramatically.",
+      "explanation": "\"No sooner ... than\" is a correlative pair.",
+      "options": [
+        "than",
+        "that",
+        "as",
+        "when"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"No sooner\" is followed by \"than\".",
+        "1": "\"That\" does not complete the pair.",
+        "2": "\"As\" does not complete the pair."
+      }
+    },
+    {
+      "id": "c1-vf-342",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This is the first time she ___ abroad on her own.",
+      "explanation": "\"This is the first time\" is followed by the present perfect.",
+      "options": [
+        "is travelling",
+        "had travelled",
+        "travelled",
+        "has travelled"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"The first time\" takes the present perfect.",
+        "0": "The present continuous does not fit.",
+        "1": "The past perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-343",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "By the time the doctor arrives, the patient ___ unconscious for ten minutes.",
+      "explanation": "The future perfect gives a total up to a future point.",
+      "options": [
+        "will have been",
+        "will be",
+        "has been",
+        "is"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The future perfect gives the total duration.",
+        "2": "The present perfect does not fit a future point.",
+        "3": "A present form does not give the total."
+      }
+    },
+    {
+      "id": "c1-vf-344",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "They have been at loggerheads ___ the question of pay for months.",
+      "explanation": "\"Over\" introduces the matter of dispute.",
+      "options": [
+        "at",
+        "by",
+        "to",
+        "over"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"At loggerheads at\" is not standard.",
+        "1": "\"At loggerheads by\" is not standard.",
+        "2": "\"At loggerheads to\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-345",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "The children, none of ___ had been to a theatre, were thrilled.",
+      "explanation": "\"None of whom\" is a standard relative construction.",
+      "options": [
+        "whom",
+        "them",
+        "which",
+        "who"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Which\" refers to things.",
+        "3": "After \"of\" the object form is needed.",
+        "1": "\"Them\" cannot introduce a relative clause."
+      }
+    },
+    {
+      "id": "c1-vf-346",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "The board, ___ had been in session for hours, finally reached a decision.",
+      "explanation": "\"Which\" introduces a nonrestrictive clause.",
+      "options": [
+        "which",
+        "who",
+        "what",
+        "whose"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Who\" is used for individuals.",
+        "3": "\"Whose\" shows possession.",
+        "2": "\"What\" cannot introduce a relative clause."
+      }
+    },
+    {
+      "id": "c1-vf-347",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "The ___ of the building took three years.",
+      "explanation": "\"Construction\" is the process.",
+      "options": [
+        "construction",
+        "constructive",
+        "constructed",
+        "constructing"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Constructive\" is an adjective.",
+        "3": "\"Constructing\" is a participle.",
+        "2": "\"Constructed\" is a participle."
+      }
+    },
+    {
+      "id": "c1-vf-348",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "This is the second time this week that the system ___ down.",
+      "explanation": "\"This is the second time\" is followed by the present perfect.",
+      "options": [
+        "had gone",
+        "goes",
+        "went",
+        "has gone"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"The second time this week\" takes the present perfect.",
+        "0": "The past perfect does not fit.",
+        "1": "The present simple does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-349",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I'll let you know the minute I ___ anything.",
+      "explanation": "A present form follows a time conjunction.",
+      "options": [
+        "hear",
+        "am hearing",
+        "will hear",
+        "heard"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "A future form is not used after \"the minute\".",
+        "3": "A past form does not refer to the future.",
+        "1": "The continuous is unnatural here."
+      }
+    },
+    {
+      "id": "c1-vf-350",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Never before ___ so many people been displaced by conflict in the region.",
+      "explanation": "\"Never before\" requires inversion.",
+      "options": [
+        "did",
+        "has",
+        "have",
+        "had"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"So many people\" is plural.",
+        "3": "\"Never before\" with the present perfect needs \"have\".",
+        "0": "\"Did so many people been\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-351",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ have bothered to cook; we were going to eat out anyway.",
+      "explanation": "\"Needn't have\" says an action was unnecessary.",
+      "options": [
+        "mustn't",
+        "needn't",
+        "shan't",
+        "can't"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Mustn't have\" is not used here.",
+        "3": "\"Can't have bothered\" expresses deduction.",
+        "2": "\"Shan't have\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-352",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "The proposal strikes me as sensible, and I ___ add that it is also remarkably inexpensive.",
+      "explanation": "\"Might add\" introduces a further point tentatively.",
+      "options": [
+        "might",
+        "have",
+        "will to",
+        "being"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Will\" is not followed by \"to\" here.",
+        "1": "\"Have add\" is ungrammatical.",
+        "3": "A participle does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-353",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "The doctor said I ___ rest for a week.",
+      "explanation": "\"Should\" reports advice.",
+      "options": [
+        "can",
+        "shall",
+        "should",
+        "will"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Shall\" is not used in reported advice.",
+        "3": "\"Will\" is a definite future.",
+        "0": "\"Can\" does not give advice."
+      }
+    },
+    {
+      "id": "c1-vf-354",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "We look forward ___ hearing from you at your earliest convenience.",
+      "explanation": "\"Look forward to\" is followed by -ing.",
+      "options": [
+        "for",
+        "at",
+        "to",
+        "on"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Look forward for\" is not standard.",
+        "1": "\"Look forward at\" is not standard.",
+        "3": "\"Look forward on\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-355",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "There is little that ___ can do to alter the outcome.",
+      "explanation": "\"Anyone\" is used with a negative sense.",
+      "options": [
+        "someone",
+        "no one",
+        "everyone",
+        "anyone"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Little that everyone can do\" changes the meaning.",
+        "0": "\"Someone\" is not used in negatives.",
+        "1": "\"No one\" would give a double negative."
+      }
+    },
+    {
+      "id": "c1-vf-356",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I wish I ___ so impulsive when I was younger; I would have saved myself a lot of trouble.",
+      "explanation": "\"Wish\" + past perfect expresses regret.",
+      "options": [
+        "haven't been",
+        "weren't",
+        "wasn't",
+        "hadn't been"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "A wish about the past needs the past perfect.",
+        "1": "This refers to the present.",
+        "0": "The present perfect does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-357",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ have mentioned it before; now we have no time to prepare.",
+      "explanation": "\"Could have\" expresses a missed chance.",
+      "options": [
+        "can",
+        "will",
+        "could",
+        "may to"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Can have mentioned\" does not express a missed chance.",
+        "1": "\"Will have\" does not fit.",
+        "3": "\"May to\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-358",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "I wish I ___ more attention to my teachers when I was at school.",
+      "explanation": "\"Wish\" + past perfect expresses regret.",
+      "options": [
+        "had paid",
+        "have paid",
+        "paid",
+        "would pay"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "A wish about the past needs the past perfect.",
+        "3": "\"Would\" does not express past regret.",
+        "1": "\"Have paid\" is not the past perfect."
+      }
+    },
+    {
+      "id": "c1-vf-359",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "I have never had ___ objection to your plan.",
+      "explanation": "\"Any\" is used in negatives.",
+      "options": [
+        "a few",
+        "any",
+        "some",
+        "no"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Some\" is not used in negatives like this.",
+        "3": "\"Never ... no\" is a double negative.",
+        "0": "\"Objection\" is singular."
+      }
+    },
+    {
+      "id": "c1-vf-360",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "The number of people living in poverty ___ risen sharply over the past decade.",
+      "explanation": "\"The number of\" takes a singular verb.",
+      "options": [
+        "had",
+        "is",
+        "have",
+        "has"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"The number of\" takes a singular verb.",
+        "0": "The present perfect is needed.",
+        "1": "\"Is risen\" is not a correct perfect."
+      }
+    },
+    {
+      "id": "c1-vf-361",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "You ___ well wonder why nobody noticed the error earlier.",
+      "explanation": "\"May well\" is a fixed idiom.",
+      "options": [
+        "should",
+        "would",
+        "will",
+        "may"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "\"Will well wonder\" is not idiomatic.",
+        "1": "\"Would well wonder\" is not idiomatic.",
+        "0": "\"Should well wonder\" is not idiomatic."
+      }
+    },
+    {
+      "id": "c1-vf-362",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "The thieves are believed ___ the country by now.",
+      "explanation": "The perfect infinitive shows an earlier time.",
+      "options": [
+        "leaving",
+        "to have left",
+        "having left",
+        "to leave"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "The perfect infinitive refers to an earlier time.",
+        "0": "A participle does not follow \"believed\".",
+        "2": "\"Believed\" takes an infinitive."
+      }
+    },
+    {
+      "id": "c1-vf-363",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "She is not accustomed ___ being contradicted.",
+      "explanation": "\"Accustomed to\" is followed by -ing.",
+      "options": [
+        "with",
+        "for",
+        "to",
+        "at"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Accustomed for\" is not standard.",
+        "0": "\"Accustomed with\" is not standard.",
+        "3": "\"Accustomed at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-364",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "By the time we reach the airport, the check-in desk ___ closed.",
+      "explanation": "\"By the time\" + future perfect.",
+      "options": [
+        "would have",
+        "is having",
+        "will have",
+        "has"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Would\" does not fit a real future.",
+        "3": "A present tense does not fit.",
+        "1": "The continuous does not fit."
+      }
+    },
+    {
+      "id": "c1-vf-365",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "He ___ be reached at the office on weekdays, but never at weekends.",
+      "explanation": "\"Can be reached\" states a possibility of contact.",
+      "options": [
+        "can",
+        "would to",
+        "had",
+        "ought"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Would to\" is ungrammatical.",
+        "3": "\"Ought be reached\" lacks \"to\".",
+        "2": "\"Had be reached\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-366",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "I cannot think of anyone ___ would be better suited to the post.",
+      "explanation": "\"Who\" is the subject.",
+      "options": [
+        "whom",
+        "who",
+        "whose",
+        "which"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Whom\" is an object form.",
+        "2": "\"Whose\" shows possession.",
+        "3": "\"Which\" refers to things."
+      }
+    },
+    {
+      "id": "c1-vf-367",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "There was nobody there ___ could help us.",
+      "explanation": "\"Who\" is the subject of the relative clause.",
+      "options": [
+        "who",
+        "whom",
+        "which",
+        "whose"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The relative acts as the subject.",
+        "3": "\"Whose\" shows possession.",
+        "2": "\"Which\" refers to things."
+      }
+    },
+    {
+      "id": "c1-vf-368",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "The itinerary, ___ had been agreed months earlier, was changed at the last moment.",
+      "explanation": "\"Which\" introduces a nonrestrictive clause.",
+      "options": [
+        "what",
+        "that",
+        "whose",
+        "which"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"What\" cannot introduce a relative clause.",
+        "1": "\"That\" cannot follow a comma.",
+        "2": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "c1-vf-369",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "It's essential that every member ___ the rules.",
+      "explanation": "\"Essential that\" takes the base form.",
+      "options": [
+        "follow",
+        "following",
+        "follows",
+        "will follow"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The mandative subjunctive uses the base form.",
+        "3": "\"Will\" is not used here.",
+        "1": "A finite form is needed."
+      }
+    },
+    {
+      "id": "c1-vf-370",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "They were united ___ their opposition to the plan.",
+      "explanation": "\"United in\" introduces the shared feeling.",
+      "options": [
+        "by",
+        "in",
+        "at",
+        "on"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"United on\" is not standard.",
+        "2": "\"United at\" is not standard.",
+        "0": "\"United by\" would introduce a cause of union."
+      }
+    },
+    {
+      "id": "c1-vf-371",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "I ___ the report for hours and still have not finished.",
+      "explanation": "The present perfect continuous links duration to now.",
+      "options": [
+        "am writing",
+        "write",
+        "wrote",
+        "have been writing"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "The present simple does not show duration.",
+        "0": "The present continuous does not show duration.",
+        "2": "The simple past does not link to now."
+      }
+    },
+    {
+      "id": "c1-vf-372",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "The team is capable ___ winning the championship.",
+      "explanation": "\"Capable of\" is followed by -ing.",
+      "options": [
+        "to",
+        "for",
+        "of",
+        "at"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Capable to\" is not standard.",
+        "1": "\"Capable for\" is not standard.",
+        "3": "\"Capable at\" is not standard."
+      }
+    },
+    {
+      "id": "c1-vf-373",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "It is vital that the manager ___ informed immediately.",
+      "explanation": "\"Vital that\" takes the base form.",
+      "options": [
+        "is",
+        "be",
+        "will be",
+        "being"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The mandative subjunctive uses the base form.",
+        "2": "\"Will\" is not used here.",
+        "3": "A finite verb is needed."
+      }
+    },
+    {
+      "id": "c1-vf-374",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure"
+      ],
+      "prompt": "Not only ___ the flight delayed, but our luggage also went missing.",
+      "explanation": "\"Not only\" at the start requires inversion.",
+      "options": [
+        "did",
+        "were",
+        "has",
+        "was"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "1": "\"The flight\" is singular.",
+        "0": "\"Did the flight delayed\" is ungrammatical.",
+        "2": "\"Has the flight delayed\" is ungrammatical."
+      }
+    },
+    {
+      "id": "c1-vf-375",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "The more research is done on the subject, the more complicated it ___.",
+      "explanation": "The present simple states the trend.",
+      "options": [
+        "seems",
+        "seemed",
+        "seeming",
+        "seem"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "3": "\"It\" takes a singular verb.",
+        "2": "An auxiliary is missing.",
+        "1": "The sentence states a current trend."
+      }
+    },
+    {
+      "id": "c1-vf-376",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "The team made ___ progress in the second half of the season.",
+      "explanation": "\"Steady progress\" is a standard collocation.",
+      "options": [
+        "steadied",
+        "steadiness",
+        "steadily",
+        "steady"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "2": "An adjective is needed.",
+        "1": "\"Steadiness\" is a noun.",
+        "0": "\"Steadied\" is a verb form."
+      }
+    },
+    {
+      "id": "c1-vf-377",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "He is thought ___ the country shortly before the scandal broke.",
+      "explanation": "The perfect infinitive shows an earlier time.",
+      "options": [
+        "having left",
+        "to leave",
+        "to have left",
+        "leaving"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The perfect infinitive refers to an earlier time.",
+        "3": "A participle does not follow \"thought\".",
+        "0": "\"Thought\" takes an infinitive."
+      }
+    },
+    {
+      "id": "c1-vf-378",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "___ information in the leaflet was out of date.",
+      "explanation": "\"The\" refers to specific information.",
+      "options": [
+        "Some",
+        "An",
+        "The",
+        "A"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Information\" is uncountable.",
+        "0": "\"Some\" does not refer to specific information.",
+        "3": "\"A\" does not work here, because \"Information\" is uncountable."
+      }
+    },
+    {
+      "id": "c1-vf-379",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Hardly ___ of the audience stayed until the end.",
+      "explanation": "\"Hardly any of\" means almost none.",
+      "options": [
+        "some",
+        "any",
+        "all",
+        "every"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "3": "\"Hardly every\" is ungrammatical.",
+        "0": "\"Hardly some\" is ungrammatical.",
+        "2": "\"Hardly all\" has another sense."
+      }
+    },
+    {
+      "id": "c1-vf-380",
+      "type": "verb-form",
+      "level": "C1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Not ___ of the committee members supported the amendment.",
+      "explanation": "\"Not all of\" is a partial negation.",
+      "options": [
+        "every",
+        "each",
+        "whole",
+        "all"
+      ],
+      "correct": 3,
+      "wrongReasons": {
+        "0": "\"Every of\" is ungrammatical.",
+        "2": "\"Whole of the\" has another structure.",
+        "1": "\"Not each of\" is possible but changes the sense."
+      }
     }
   ]
 }

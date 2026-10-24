@@ -10,7 +10,7 @@ const all: { path: string; q: Question }[] = entries.flatMap(([path, f]) => f.qu
 const ITALIAN_WORDS = new Set(['della', 'delle', 'gli', 'perché', 'perche', 'molto', 'questo', 'anche', 'nella', 'sono', 'non', 'che', 'il']);
 
 // Levels already brought to 5000 questions with the stricter duplicate rules (specs/06-piano-implementazione.md).
-const EXPANDED_LEVELS: Level[] = ['A1', 'A2', 'B1', 'B2'];
+const EXPANDED_LEVELS: Level[] = ['A1', 'A2', 'B1', 'B2', 'C1'];
 
 const norm = (v: unknown) =>
   String(v ?? '')
