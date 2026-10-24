@@ -1,0 +1,85 @@
+# C2 batch b3: grammar categories (articles, pronouns, adjectives, modals, tenses, prepositions)
+mc | ART | The council has been criticised for its handling of ___ issue of homelessness. | the | an :: "Issue" begins with a vowel sound but the issue is specific. | no article :: A known issue takes "the". | "The issue" refers to a known topic.
+mc | ART | It was a case of ___ blind leading the blind. | the | a :: "A blind" changes the idiom. | no article :: The idiom needs the article. | "The blind leading the blind" is the fixed idiom.
+mc | ART | She was ___ first woman to be appointed to the Supreme Court. | the | a :: "A first" is not used for a unique position. | no article :: An ordinal takes "the". | "The first" takes the definite article.
+mc | ART | There is ___ difference between being firm and being inflexible. | a | the :: "The difference" would refer to a known one. | no article :: A singular noun needs a determiner. | "A difference" introduces a general distinction.
+mc | ART | We were all struck by ___ extent of the damage. | the | an :: "Extent" begins with a vowel sound but is specific. | no article :: A specific noun takes "the". | "The extent of" is the standard phrase.
+mc | ART | I'd like to say a few words on ___ behalf of my colleagues. | their | the :: "On the behalf of" is not standard. | a :: "On a behalf of" is ungrammatical. | "On their behalf" is the standard phrase.
+mc | ART | He spoke at ___ length about his plans for the company. | considerable | considerate :: "Considerate" means thoughtful. | considering :: "Considering" is a participle. | "Considerable length" means a long time.
+mc | ART | ___ number of complaints has risen sharply in recent weeks. | The | A :: "A number of" takes a plural verb. | No article :: A determiner is needed. | "The number of" takes a singular verb.
+mc | ADJ | The politician's ___ rhetoric won applause but little real support. | bombastic | bombed :: "Bombed" is a participle. | bomber :: A "bomber" is an aircraft or person. | "Bombastic" means high-sounding but empty.
+mc | ADJ | The sculptor's early works are ___ to the point of being unrecognisable as hers. | uncharacteristic | unchanging :: "Unchanging" does not fit. | uncharitable :: "Uncharitable" means unkind. | "Uncharacteristic" means not typical.
+mc | ADJ | He gave a ___ account of his own part in the affair, omitting several awkward facts. | selective | select :: "Select" means exclusive. | selected :: "Selected" is a participle. | "Selective" means choosing carefully.
+mc | ADJ | The author's style is ___ and often difficult to follow. | convoluted | convolution :: "Convolution" is a noun. | convened :: "Convened" means assembled. | "Convoluted" means complicated.
+mc | ADJ | A ___ crowd had gathered outside the courthouse to await the verdict. | restive | restful :: "Restful" means soothing. | restless :: "Restless" is possible but milder. | "Restive" means uneasy and impatient.
+mc | ADJ | The decision proved ___ to the company's long-term prospects. | pivotal | pivoted :: "Pivoted" is a participle. | pivot :: "Pivot" is a noun or verb. | "Pivotal" means crucially important.
+mc | PRON | The suspects, none of ___ had a previous record, were released on bail. | whom | which :: "Which" refers to things. | them :: "Them" cannot introduce a relative clause. | "None of whom" is a standard relative construction.
+mc | PRON | I cannot think of ___ else who would be as suitable. | anyone | someone :: "Someone" is not used after a negative sense. | everyone :: "Everyone" changes the meaning. | "Anyone else" fits after "cannot think of".
+mc | PRON | It was only years later ___ the truth emerged. | that | when :: "Only years later when" is unnatural. | which :: "Which" cannot introduce a cleft clause. | "It was ... that" is a cleft structure.
+mc | PRON | The committee, ___ members were appointed by the minister, has no real independence. | whose | which :: "Which members" does not show possession. | who :: "Who members" is ungrammatical. | "Whose" shows possession.
+mc | PRON | Most of the delegates, several of ___ had travelled overnight, looked exhausted. | whom | who :: After "of" the object form is needed. | which :: "Which" refers to things. | "Several of whom" is a standard relative construction.
+mc | MOD | They ___ to have been told about the changes before the announcement. | ought | should to :: "Should" is not followed by "to". | must to :: "Must" is not followed by "to". | "Ought to have been told" expresses an expectation.
+mc | MOD | She ___ not have been more courteous; I was most impressed. | could | would to :: "Would to" is ungrammatical. | can :: "Can not have" is not used. | "Could not have been more" is an emphatic idiom.
+mc | MOD | I think the matter ___ to be handled with great care. | needs | need to :: "Matter" takes a singular verb. | needing :: A finite verb is needed. | "Needs to be handled" is a passive need.
+mc | MOD | We ___ have gone by train, but we preferred to drive. | could | would to :: "Would to" is ungrammatical. | must :: "Must have gone" expresses deduction. | "Could have" expresses an unused possibility.
+mc | VT | The more I read about the case, the less I ___ what the court decided. | understand | am understanding :: "Understand" is a stative verb. | have understood :: The correlative uses the same tense. | The correlative uses the present simple.
+mc | VT | By the time you receive this letter, I ___ for Australia. | will have left | will leave :: The future perfect shows completion. | have left :: The present perfect does not fit a future point. | The future perfect shows completion before a future point.
+mc | VT | The committee ___ for three hours when the chairman finally called for a vote. | had been meeting | has been meeting :: The present perfect does not fit. | met :: The simple past does not show duration. | The past perfect continuous shows duration before an event.
+mc | VT | He has become a different man ___ he lost his job. | since | for :: "For" needs a length of time. | from :: "From" does not link to now. | "Since" marks the starting point.
+mc | PREP | The firm has been fined ___ breaching safety regulations. | for | of :: "Fined of" is not standard. | by :: "Fined by" introduces an agent. | "Fined for" introduces the offence.
+mc | PREP | His speech was a tribute ___ the courage of ordinary people. | to | for :: "Tribute for" is less standard. | of :: "Tribute of" has another sense. | "A tribute to" is the standard collocation.
+mc | PREP | There is an urgent need ___ reform of the tax system. | for | of :: "Need of" is possible but "need for" is standard. | to :: "Need to" is followed by a verb. | "Need for" is the standard collocation.
+mc | PREP | She was greatly influenced ___ the writings of the early feminists. | by | from :: "Influenced from" is not standard. | of :: "Influenced of" is not standard. | "Influenced by" introduces the source.
+fb | ART | I had ___ idea what she was talking about. | no | not :: "Not idea" is ungrammatical. | none :: "None idea" is ungrammatical. | "No idea" is a negative determiner phrase.
+fb | ART | The matter will be decided by ___ vote of the whole membership. | a | the :: "The vote" would refer to a known vote. | an :: "Vote" begins with a consonant sound. | "A vote of" introduces a new item.
+fb | ART | There are ___ many exceptions to the rule that it is hardly a rule at all. | so | such :: "Such many" is ungrammatical. | very :: "Very ... that" does not form a result here. | "So many ... that" shows a result.
+fb | ART | Hardly ___ anyone remembers the original proposal now. | no article | the :: "Hardly the anyone" is ungrammatical. | an :: "Hardly an anyone" is ungrammatical. | "Hardly anyone" needs no article.
+fb | ADJ | Her speech was ___ and delivered without notes. | impromptu | impeccable :: "Impeccable" means faultless. | impassioned :: "Impassioned" means full of feeling. | "Impromptu" means unprepared.
+fb | ADJ | The results were ___ , neither confirming nor refuting the theory. | equivocal | equitable :: "Equitable" means fair. | equable :: "Equable" means steady in temper. | "Equivocal" means open to several interpretations.
+fb | ADJ | The ministers gave a ___ denial, refusing to answer any further questions. | curt | curb :: A "curb" is a restraint. | curd :: "Curd" is a dairy product. | "Curt" means abruptly brief.
+fb | PRON | I would be grateful for any help ___ you can give. | that | what :: "What" cannot follow a noun. | whom :: "Whom" refers to people. | "That" introduces a defining relative clause.
+fb | PRON | The staff, ___ of them were new, struggled to cope with the rush. | most | mostly :: "Mostly" is an adverb. | almost :: "Almost of them" is ungrammatical. | "Most of them" is a standard quantifier.
+fb | PRON | The man ___ lives next door is a retired judge. | who | whom :: The relative acts as the subject. | whose :: "Whose" shows possession. | "Who" is the subject of the relative clause.
+fb | MOD | You ___ well wonder why the committee took so long to decide. | may | will :: "Will well" is ungrammatical. | must :: "Must well" is ungrammatical. | "May well wonder" is a fixed phrase.
+fb | MOD | He ___ to have been warned, but nobody had the courage to speak. | ought | should to :: "Should" is not followed by "to". | must :: "Must to have" is ungrammatical. | "Ought to have been warned" expresses an expectation.
+fb | MOD | It is important that every employee ___ the new regulations before Friday. | read | reads :: The mandative subjunctive uses the base form. | will read :: "Will" is not used here. | "Important that" takes the base form.
+fb | MOD | They ___ not have been happier with the outcome. | could | would to :: "Would to" is ungrammatical. | can :: "Can not have" is not used. | "Could not have been happier" is an emphatic idiom.
+fb | VT | Hardly ___ the announcement been made when the protests began. | had | has :: The past perfect is needed. | did :: "Hardly did the announcement been" is ungrammatical. | "Hardly had" is the standard inversion.
+fb | VT | She ___ for the company for twelve years when it was taken over. | had been working | has been working :: The present perfect does not fit. | worked :: The simple past does not show duration. | The past perfect continuous shows duration before an event.
+fb | PREP | Several students were suspended ___ cheating in the examination. | for | of :: "Suspended of" is not standard. | by :: "Suspended by" introduces an agent. | "Suspended for" introduces the reason.
+fb | PREP | The ministry has no intention ___ revising its policy. | of | to :: "Intention to" is followed by a verb. | for :: "Intention for" is not standard. | "Intention of" is followed by -ing.
+fb | PREP | A lot depends ___ the outcome of the negotiations. | on | of :: "Depends of" is not standard. | at :: "Depends at" is not standard. | "Depend on" is the standard collocation.
+fb | PREP | He was greatly in awe ___ his father. | of | for :: "Awe for" is not standard. | to :: "Awe to" is not standard. | "In awe of" is the fixed phrase.
+es | ART | The government has announced [an] new scheme. | a | "New" begins with a consonant sound.
+es | ART | I would like [a] information about the course. | some | "Information" is uncountable.
+es | ART | They offered us [a] accommodation near the beach. | some | "Accommodation" is uncountable.
+es | PRON | The woman [who] I spoke to is a lawyer. | whom | "Whom" is the object of "spoke to".
+es | PRON | I haven't seen [none] of them since the wedding. | any | "Any" is used after a negative.
+es | PRON | She hurt [her] while playing tennis. | herself | A reflexive pronoun is needed.
+es | VT | I [work] here since 2010. | have worked | "Since" requires the present perfect.
+es | VT | She [was] never seen him before that day. | had | The past perfect is needed.
+es | PREP | He is not suited [for] this kind of work. | to | "Suited to" is the standard collocation.
+es | PREP | They were surprised [from] the news. | at | "Surprised at" is the standard collocation.
+es | PREP | The meeting was held [in] Tuesday. | on | Days take "on".
+es | PREP | It is difficult to cope [up] such pressure. | with | "Cope with" is the standard collocation.
+ec | ART | She gave a lecture about the climate change. | She gave a lecture about climate change. | General topics take no article. | Articles.
+ec | ART | The informations are available online. | The information is available online. | "Information" is uncountable. | Uncountable nouns.
+ec | ADJ | She looked very beautifully in her wedding dress. | She looked very beautiful in her wedding dress. | After "look" an adjective is used. | Adjectives.
+ec | ADJ | The most oldest building in the town is the church. | The oldest building in the town is the church. | "Oldest" is already a superlative. | Superlatives.
+ec | ADJ | It was a very bored film. | It was a very boring film. | The -ing form describes the thing. | Participial adjectives.
+ec | PRON | The girl, which hair was red, smiled. | The girl, whose hair was red, smiled. | "Whose" shows possession. | Relative pronouns.
+ec | PRON | I'm looking forward to see them. | I'm looking forward to seeing them. | "Look forward to" is followed by -ing. | Gerunds.
+ec | MOD | You must to be more careful. | You must be more careful. | A modal takes the bare infinitive. | Modals.
+ec | MOD | She said she would might come. | She said she might come. | Two modals cannot be combined. | Modals.
+ec | VT | I am waiting here since two hours. | I have been waiting here for two hours. | "For" with a length of time needs the present perfect continuous. | Tenses.
+ec | VT | Have you seen him yesterday? | Did you see him yesterday? | A finished time reference requires the simple past. | Past simple.
+ec | PREP | He is interested to the history of art. | He is interested in the history of art. | "Interested in" is the standard collocation. | Prepositions.
+ec | PREP | They are responsible of the delay. | They are responsible for the delay. | "Responsible for" is the standard collocation. | Prepositions.
+tr | ART | Hardly anyone knew about the plan. | VERY | ___ about the plan. | Very few people knew | "Very few" means almost none.
+tr | ART | There was no sign of the missing hikers. | TRACE | There was ___ the missing hikers. | not a trace of | "Not a trace of" is emphatic.
+tr | ADJ | The film is not nearly as good as the book. | NOWHERE | The film is ___ the book. | nowhere near as good as | "Nowhere near as ... as" emphasises the gap.
+tr | PRON | None of the answers was correct. | ALL | ___ wrong. | All the answers were ;; All of the answers were | "All ... wrong" means none correct.
+tr | MOD | I'm certain they did not see us. | CAN'T | They ___ us. | can't have seen | "Can't have" expresses a negative deduction.
+tr | MOD | It was a pity you did not say something. | SHOULD | You ___ something. | should have said | "Should have" expresses regret.
+tr | VT | He has been unemployed for six months. | LOST | He ___ six months ago. | lost his job | A simple past equivalent.
+tr | PREP | I did not understand because of the noise. | ACCOUNT | I did not understand ___ the noise. | on account of | "On account of" means because of.
