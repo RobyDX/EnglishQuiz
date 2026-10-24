@@ -82,7 +82,7 @@ describe('QuizSetupPage topic filter', () => {
     await userEvent.click(await screen.findByRole('button', { name: /Everyday life/ }));
     await userEvent.click(screen.getByRole('button', { name: 'Start with 5 questions' }));
     expect(await screen.findByText('quiz?n=5&topics=everyday-life')).toBeInTheDocument();
-    expect(loadPrefs().topics).toEqual(['everyday-life']);
+    expect(loadPrefs().topics).toEqual([]); // the selection is not saved
   });
 
   it('starts with all topics when none is selected, and "All topics" clears the selection', async () => {
@@ -103,5 +103,17 @@ describe('QuizSetupPage topic filter', () => {
     expect(await screen.findByText(/Could not load this level/)).toBeInTheDocument();
     expect(screen.queryByText(/questions match your selection/)).not.toBeInTheDocument();
     expect(screen.getByRole('button', { name: 'Start with 5 questions' })).toBeDisabled();
+  });
+});
+
+describe('QuizSetupPage default topics', () => {
+  it('starts with no topic selected even if topics were saved by an older version', async () => {
+    localStorage.setItem('eq.prefs', JSON.stringify({ lastLevel: 'A1', questionCount: 10, topics: ['everyday-life'] }));
+    renderHome();
+    const header = await screen.findByRole('button', { name: /^Topics/ });
+    expect(header).toHaveTextContent('All topics');
+    await userEvent.click(header);
+    expect(screen.queryAllByRole('button', { pressed: true })).toHaveLength(0);
+    expect(await screen.findByRole('button', { name: /Everyday life/ })).toHaveAttribute('aria-pressed', 'false');
   });
 });

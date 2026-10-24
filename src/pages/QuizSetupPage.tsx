@@ -12,7 +12,7 @@ export default function QuizSetupPage() {
   const navigate = useNavigate();
   const prefs = loadPrefs();
   const [level, setLevel] = useState<Level | undefined>(prefs.lastLevel);
-  const [topics, setTopics] = useState<Topic[]>(prefs.topics ?? []);
+  const [topics, setTopics] = useState<Topic[]>([]);
   // All questions of the chosen level, loaded once per level (undefined while loading).
   const [pool, setPool] = useState<Question[]>();
   // True when the level could not be loaded (e.g. offline and never opened before).
@@ -64,15 +64,13 @@ export default function QuizSetupPage() {
   const activeTopics = topics.filter((t) => !counts || counts[t] > 0);
   const matched = pool ? filterByTopics(pool, activeTopics).length : undefined;
 
-  const saveTopics = (next: Topic[]) => {
-    setTopics(next);
-    savePrefs({ ...loadPrefs(), topics: next });
-  };
+  // The selection is not saved: every visit starts with no topic selected (all topics).
+  const saveTopics = setTopics;
   const toggleTopic = (t: Topic) => saveTopics(topics.includes(t) ? topics.filter((x) => x !== t) : [...topics, t]);
 
   const start = (n: QuestionCount) => {
     if (!level) return;
-    savePrefs({ lastLevel: level, questionCount: n, topics: activeTopics });
+    savePrefs({ lastLevel: level, questionCount: n });
     const topicParam = activeTopics.length ? `&topics=${activeTopics.join(',')}` : '';
     navigate(`/quiz/${level}?n=${n}${topicParam}`);
   };

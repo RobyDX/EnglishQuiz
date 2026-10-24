@@ -46,6 +46,8 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 39 | **5000 domande per livello** (30000 totali), con argomenti il più possibile equilibrati e controllo duplicati più severo (stessa frase in tipologie diverse, opzioni in ordine diverso); si rimuovono i duplicati esistenti | Richiesta esplicita. Le quote per tipologia sono quelle di 07 ×2,5. Produzione con script che combinano tabelle scritte a mano; livello per livello, A1 per primo | 07, 06 |
 | 40 | **Navigazione ristrutturata**: home page `#/` con introduzione e 4 tile (Quiz, Test, About, Installation); setup quiz su `#/quiz` con la cronologia dei quiz; test di livello su `#/test` con descrizione e livello attuale; navbar con Home, Quiz, Test, About, Install; `#/history` e `#/placement` reindirizzano | Richiesta esplicita. Pagina Install con guida breve solo testo (le immagini schematiche sono state tolte su richiesta); pulsante "Install app" anche nella home; About dice che l'app è libera da usare | 04, 05 |
 | 41 | **Storico dei test di livello** nella pagina `#/test` (chiave `eq.placementHistory`, max 50) con pulsante "Clear history"; la History dei quiz resta in `#/quiz` | Richiesta esplicita: nella ristrutturazione (40) lo storico dei test non era più visibile | 01, 03, 04 |
+| 42 | **Nessun argomento selezionato di default**: la selezione non è più salvata in `eq.prefs`, a ogni apertura di `#/quiz` si parte da "tutti" | Richiesta esplicita | 03, 04 |
+| 43 | **Versione 1.0.0** (`package.json`, mostrata in About) | Richiesta esplicita: prima versione stabile | 04 |
 
 ## Ancora aperte
 Vedi `06-piano-implementazione.md`, sezione "Decisioni": hosting, export/import cronologia, ESLint/Prettier.

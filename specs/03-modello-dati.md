@@ -70,7 +70,7 @@ export interface HistoryEntry {
 ## Persistenza (`localStorage`)
 | Chiave | Contenuto |
 |--------|-----------|
-| `eq.prefs` | `{ lastLevel: Level, questionCount: 5\|10\|20\|40, topics?: Topic[] }` (`topics` assente o vuoto = tutti gli argomenti) |
+| `eq.prefs` | `{ lastLevel: Level, questionCount: 5\|10\|20\|40 }` (gli argomenti non si salvano: a ogni apertura di `#/quiz` nessun argomento è selezionato = tutti) |
 | `eq.history` | `HistoryEntry[]` (max 50, i più recenti in testa) |
 | `eq.placement` | `PlacementSaved` = `{ date: string, level: Level, perLevel: Record<Level, { answered: number, correct: number }> }`: ultimo test di livello (`answered` = domande fatte a quel livello, saltate incluse; `correct` = giuste) |
 | `eq.placementHistory` | `PlacementSaved[]` (max 50, i più recenti in testa): storico dei test di livello. Se manca l'ultimo `eq.placement` (dati di versioni precedenti), lo si mostra comunque in testa. "Clear history" svuota sia lo storico sia `eq.placement` (il livello attuale sparisce) |
