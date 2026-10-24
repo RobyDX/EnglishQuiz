@@ -105,14 +105,17 @@ describe('question data', () => {
   });
 
   it('contains no Italian words', () => {
+    // Collect the offenders and assert once: one expect() per word is far too slow on ~150k questions.
+    const found: string[] = [];
     for (const { q } of all) {
       for (const t of texts(q)) {
         for (const w of t.toLowerCase().match(/[a-zà-ú']+/g) ?? []) {
-          expect(ITALIAN_WORDS.has(w), `${q.id}: "${w}"`).toBe(false);
+          if (ITALIAN_WORDS.has(w)) found.push(`${q.id}: "${w}"`);
         }
       }
     }
-  }, 30_000);
+    expect(found.slice(0, 20)).toEqual([]);
+  });
 
   it('has no duplicated question inside a level (option order does not matter)', () => {
     const seen = new Map<string, string>();

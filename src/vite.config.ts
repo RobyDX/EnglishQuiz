@@ -64,6 +64,8 @@ export default defineConfig({
     // The PWA virtual module does not resolve under Vitest (fails on some setups): use a stub.
     alias: { 'virtual:pwa-register/react': fileURLToPath(new URL('./test-pwa-register.ts', import.meta.url)) },
     environment: 'jsdom',
+    // PlacementPage tests click through 40 questions with userEvent: slow on a loaded machine (deploy.bat).
+    testTimeout: 30000,
     setupFiles: ['./test-setup.ts'], exclude: ['node_modules/**'],
     include: ['**/*.test.{ts,tsx}'],
   },
