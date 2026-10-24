@@ -147,7 +147,7 @@ In `submitted` gli input sono bloccati (read-only). Le risposte corrette si most
 1. Scelgo A1, ottengo 10 domande miste; compilo e premo "Check answers" → vedo "7 / 10 correct – 70%" e, per ogni errore, "Why it's wrong" e "Rule".
 2. Premo "Show correct answers" → ogni domanda mostra la soluzione.
 3. Funziona su 360×640 e su 1440×900 senza scroll orizzontale.
-4. Dopo il primo caricamento, in modalità offline l'app si avvia e si può fare un quiz.
+4. Dopo il primo caricamento, in modalità offline l'app si avvia e si può fare un quiz sui livelli già aperti online almeno una volta (i dati dei livelli si scaricano al primo uso).
 5. `npm run build` produce `docs/` e `npm run preview` la serve correttamente.
 6. Test di engine e di ogni tipologia verdi.
 7. La barra livello/progresso resta visibile mentre scorro, e "↓ End" porta ai pulsanti finali.

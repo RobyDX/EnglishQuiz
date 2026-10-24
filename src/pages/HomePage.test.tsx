@@ -3,6 +3,7 @@ import { cleanup, render, screen, waitFor } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { MemoryRouter, Route, Routes, useLocation } from 'react-router-dom';
 import HomePage from './HomePage';
+import { loadLevel } from '../data';
 import { loadPrefs } from '../hooks/store';
 import type { Question } from '../types';
 
@@ -74,5 +75,14 @@ describe('HomePage topic filter', () => {
     expect(await screen.findByText('3 questions match your selection')).toBeInTheDocument();
     await waitFor(() => expect(screen.queryByRole('button', { name: 'All topics' })).not.toBeInTheDocument());
     expect(loadPrefs().topics).toEqual([]);
+  });
+
+  it('explains that the level could not be loaded, instead of showing zero matches', async () => {
+    vi.mocked(loadLevel).mockRejectedValueOnce(new Error('offline'));
+    renderHome();
+    await userEvent.click(screen.getByRole('radio', { name: /A1/ }));
+    expect(await screen.findByText(/Could not load this level/)).toBeInTheDocument();
+    expect(screen.queryByText(/questions match your selection/)).not.toBeInTheDocument();
+    expect(screen.getByRole('button', { name: 'Start with 5 questions' })).toBeDisabled();
   });
 });

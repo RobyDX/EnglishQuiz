@@ -75,5 +75,5 @@ Lavoro a lotti, un livello alla volta (A1 → C2), con lotti di ~50 domande per 
 ## Impatto tecnico
 - Dimensione stimata: ~0,8–1 MB di JSON per livello (non compresso), ~150–200 KB gzip; totale precache ≈ 1 MB gzip: accettabile per una PWA, ma da misurare (budget massimo: 1,5 MB gzip di dati).
 - Il caricamento lazy è **per livello**; se il livello scelto supera ~250 KB gzip si carica solo il file delle tipologie necessarie (`import.meta.glob` per file, non per cartella).
-- Caricamento lazy per livello: si scarica solo il livello scelto (offline: tutti precacheati dal service worker).
+- Caricamento lazy per livello: si scarica solo il livello scelto. Il service worker non li precachea: li mette in cache al primo uso (`specs/05-pwa.md`), quindi offline funzionano solo i livelli già aperti.
 - Per ridurre ripetizioni tra sessioni consecutive: in `localStorage` (`eq.seen.<livello>`) si tengono gli ultimi ~100 `id` visti, e `buildQuiz` li evita finché restano domande non viste.

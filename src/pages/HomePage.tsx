@@ -15,15 +15,22 @@ export default function HomePage() {
   const [topics, setTopics] = useState<Topic[]>(prefs.topics ?? []);
   // All questions of the chosen level, loaded once per level (undefined while loading).
   const [pool, setPool] = useState<Question[]>();
+  // True when the level could not be loaded (e.g. offline and never opened before).
+  const [failed, setFailed] = useState(false);
   const cards = useRef<(HTMLDivElement | null)[]>([]);
 
   useEffect(() => {
     if (!level) return;
     let cancelled = false;
     setPool(undefined);
+    setFailed(false);
     loadLevel(level)
       .then((questions) => !cancelled && setPool(questions))
-      .catch(() => !cancelled && setPool([]));
+      .catch(() => {
+        if (cancelled) return;
+        setPool([]);
+        setFailed(true);
+      });
     return () => {
       cancelled = true;
     };
@@ -131,8 +138,12 @@ export default function HomePage() {
               );
             })}
           </div>
-          <p className="text-secondary small mb-4" aria-live="polite">
-            {matched === undefined ? 'Loading questions…' : `${matched} questions match your selection`}
+          <p className={`small mb-4 ${failed ? 'text-danger' : 'text-secondary'}`} aria-live="polite">
+            {failed
+              ? 'Could not load this level. Connect to the internet to download it; it will then work offline.'
+              : matched === undefined
+                ? 'Loading questions…'
+                : `${matched} questions match your selection`}
           </p>
 
           <h2 className="h5">Start a quiz</h2>

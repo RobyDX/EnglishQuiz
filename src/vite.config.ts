@@ -7,7 +7,18 @@ import pkg from './package.json' with { type: 'json' };
 export default defineConfig({
   base: './',
   define: { __APP_VERSION__: JSON.stringify(pkg.version) },
-  build: { outDir: '../docs', emptyOutDir: true },
+  build: {
+    outDir: '../docs',
+    emptyOutDir: true,
+    rollupOptions: {
+      output: {
+        // The question files (src/data/<level>/<type>.json) go to assets/data/: they are not precached
+        // but cached at runtime when a level is first used (see workbox below and specs/05-pwa.md).
+        chunkFileNames: (chunk) =>
+          chunk.moduleIds.some((id) => /\/data\/[^/]+\/[^/]+\.json$/.test(id)) ? 'assets/data/[name]-[hash].js' : 'assets/[name]-[hash].js',
+      },
+    },
+  },
   plugins: [
     react(),
     VitePWA({
@@ -30,7 +41,22 @@ export default defineConfig({
           { src: 'pwa-512-maskable.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
         ],
       },
-      workbox: { globPatterns: ['**/*.{js,css,html,json,svg,png,ico}'] },
+      workbox: {
+        globPatterns: ['**/*.{js,css,html,json,svg,png,ico}'],
+        // Question files are cached when first used, not at install time.
+        globIgnores: ['assets/data/**'],
+        runtimeCaching: [
+          {
+            urlPattern: ({ url }) => /\/assets\/data\/[^/]+\.js$/.test(url.pathname),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'eq-data',
+              // ~15 files per level x 6 levels, with room for the previous version while it is replaced.
+              expiration: { maxEntries: 200, purgeOnQuotaError: true },
+            },
+          },
+        ],
+      },
     }),
   ],
   test: {
