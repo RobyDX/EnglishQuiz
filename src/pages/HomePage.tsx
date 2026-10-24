@@ -8,6 +8,11 @@ interface Tile {
   text: string;
 }
 
+/** WhatsApp "share a link" URL; the app address is the current page without the hash route. */
+export function whatsappShareUrl(appUrl: string): string {
+  return `https://wa.me/?text=${encodeURIComponent(`Practise English by CEFR level (A1–C2) with English Quiz: ${appUrl}`)}`;
+}
+
 export default function HomePage() {
   const { standalone, canPrompt, install } = useInstall();
   const tiles: Tile[] = [
@@ -54,6 +59,16 @@ export default function HomePage() {
           </Button>
         </p>
       )}
+      <p>
+        <Button
+          variant="success"
+          href={whatsappShareUrl(window.location.href.split('#')[0])}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Share on WhatsApp
+        </Button>
+      </p>
       <Row xs={1} md={2} className="g-3 mt-2 mb-4">
         {tiles.map((t) => (
           <Col key={t.to}>

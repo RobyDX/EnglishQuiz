@@ -53,3 +53,16 @@ describe('HomePage install button', () => {
     expect(screen.getByRole('button', { name: 'Install app' })).toBeInTheDocument();
   });
 });
+
+describe('HomePage WhatsApp share', () => {
+  it('has a Share on WhatsApp button that links to wa.me with the app address', () => {
+    render(
+      <MemoryRouter>
+        <HomePage />
+      </MemoryRouter>,
+    );
+    const href = screen.getByText('Share on WhatsApp').getAttribute('href')!;
+    expect(href.startsWith('https://wa.me/?text=')).toBe(true);
+    expect(decodeURIComponent(href)).toContain(window.location.href.split('#')[0]);
+  });
+});
