@@ -18,11 +18,34 @@ export type QuestionType =
   | 'sentence-choice'
   | 'transform';
 
+/** The 15 topic categories a question can belong to (one or more per question). */
+export const TOPICS = [
+  'verb-tenses',
+  'modal-verbs',
+  'conditionals-wishes',
+  'passive-reported-speech',
+  'articles-determiners',
+  'pronouns-relative-clauses',
+  'adjectives-adverbs',
+  'prepositions',
+  'gerunds-infinitives-linking',
+  'everyday-life',
+  'travel-places-leisure',
+  'work-education-technology',
+  'society-health-environment',
+  'phrasal-collocations-idioms',
+  'confusing-words-word-formation',
+] as const;
+export type Topic = (typeof TOPICS)[number];
+
 export interface QuestionBase {
   id: string;
   type: QuestionType;
   level: Level;
+  /** Legacy free-text topic slug, still used by the placement test. Replaced by `topics`. */
   topic: string;
+  /** Topic categories (one or more). Target field; being filled in level by level. */
+  topics?: Topic[];
   prompt: string;
   /** The rule, in simple English (required). */
   explanation: string;

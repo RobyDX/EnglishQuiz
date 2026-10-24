@@ -38,6 +38,7 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 32 | **Numero di domande come tile che avvia il quiz**; niente pulsante Start (sostituisce la 31); aggiunta la modalità da **40** domande | Richiesta esplicita | 01, 04 |
 | 33 | Il manifest si chiama **`manifest.json`** (non `.webmanifest`): `manifestFilename` in `vite.config.ts` | Alcuni server (es. IIS) non servono l'estensione `.webmanifest` e rispondono 404; `.json` è noto a tutti | 05 |
 | 34 | Le tile del numero di domande sono **nascoste finché non c'è un livello** e **mai selezionate** (tutte uguali, `outline-primary`) | Richiesta esplicita: sono azioni che avviano il quiz, non uno stato | 04 |
+| 35 | **Argomenti per domanda come array `topics`** (uno o più) tra 15 categorie (`TOPICS`), al posto del `topic` a stringa libera. Migrazione graduale: prima A1 `multiple-choice` (10 domande), poi il resto; `topic` resta per il test di livello finché non è completa | Richiesta esplicita: una quindicina di argomenti, più argomenti per domanda, selezionabili in UI per livello | 02, 03, 07 |
 
 ## Ancora aperte
 Vedi `06-piano-implementazione.md`, sezione "Decisioni": hosting, export/import cronologia, ESLint/Prettier.
