@@ -2925,6 +2925,3469 @@
         "be quietly": "After 'be' use the adjective 'quiet', not the adverb.",
         "quiet": "You need the verb 'be': 'be quiet'."
       }
+    },
+    {
+      "id": "b1-tr-136",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A relative clause can replace a simple sentence.",
+      "original": "Nobody in the room knew the answer.",
+      "keyword": "KNEW",
+      "template": "There ___ the answer.",
+      "solutions": [
+        "was nobody who knew",
+        "was nobody that knew"
+      ]
+    },
+    {
+      "id": "b1-tr-137",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The present perfect passive.",
+      "original": "The police have arrested two men.",
+      "keyword": "BEEN",
+      "template": "Two men ___ the police.",
+      "solutions": [
+        "have been arrested by"
+      ]
+    },
+    {
+      "id": "b1-tr-138",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The adverb \"well\" replaces \"good at\".",
+      "original": "She is very good at drawing.",
+      "keyword": "DRAWS",
+      "template": "She ___.",
+      "solutions": [
+        "draws very well"
+      ]
+    },
+    {
+      "id": "b1-tr-139",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Give up\" + gerund.",
+      "original": "She stopped smoking last year.",
+      "keyword": "GAVE",
+      "template": "She ___ last year.",
+      "solutions": [
+        "gave up smoking"
+      ]
+    },
+    {
+      "id": "b1-tr-140",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The superlative.",
+      "original": "No other student in the class is as good as Maria.",
+      "keyword": "BEST",
+      "template": "Maria is ___ in the class.",
+      "solutions": [
+        "the best student"
+      ]
+    },
+    {
+      "id": "b1-tr-141",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Can't\" expresses impossibility.",
+      "original": "It is impossible to read his handwriting.",
+      "keyword": "READ",
+      "template": "I ___ his handwriting.",
+      "solutions": [
+        "can't read"
+      ]
+    },
+    {
+      "id": "b1-tr-142",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Too ... to\" expresses insufficiency.",
+      "original": "I haven't got enough money to buy a car.",
+      "keyword": "TOO",
+      "template": "I am ___ a car.",
+      "solutions": [
+        "too poor to buy"
+      ]
+    },
+    {
+      "id": "b1-tr-143",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Must have\" + past participle expresses a strong deduction about the past.",
+      "original": "I'm sure that he forgot his keys.",
+      "keyword": "MUST",
+      "template": "He ___ his keys.",
+      "solutions": [
+        "must have forgotten"
+      ]
+    },
+    {
+      "id": "b1-tr-144",
+      "type": "transform",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The present perfect shows a present result.",
+      "original": "I lost my keys, and I still don't have them.",
+      "keyword": "LOST",
+      "template": "I ___ my keys.",
+      "solutions": [
+        "have lost"
+      ]
+    },
+    {
+      "id": "b1-tr-145",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Tell\" takes a person directly.",
+      "original": "I don't know your phone number.",
+      "keyword": "TELL",
+      "template": "Can you ___ your phone number?",
+      "solutions": [
+        "tell me"
+      ]
+    },
+    {
+      "id": "b1-tr-146",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Was able to\" expresses ability on a particular occasion.",
+      "original": "She managed to open the door.",
+      "keyword": "ABLE",
+      "template": "She ___ open the door.",
+      "solutions": [
+        "was able to"
+      ]
+    },
+    {
+      "id": "b1-tr-147",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Run out of\" means to have none left.",
+      "original": "I don't have any milk left.",
+      "keyword": "RUN",
+      "template": "We ___ milk.",
+      "solutions": [
+        "have run out of"
+      ]
+    },
+    {
+      "id": "b1-tr-148",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Such\" + adjective + uncountable noun.",
+      "original": "The weather was so good that we stayed outside.",
+      "keyword": "SUCH",
+      "template": "It was ___ that we stayed outside.",
+      "solutions": [
+        "such good weather"
+      ]
+    },
+    {
+      "id": "b1-tr-149",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Such a\" + adjective + noun.",
+      "original": "It was a very nice day, so we went swimming.",
+      "keyword": "SUCH",
+      "template": "It was ___ that we went swimming.",
+      "solutions": [
+        "such a nice day"
+      ]
+    },
+    {
+      "id": "b1-tr-150",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Less ... than\" expresses a lower degree.",
+      "original": "The film wasn't as interesting as I expected.",
+      "keyword": "LESS",
+      "template": "The film was ___ I expected.",
+      "solutions": [
+        "less interesting than"
+      ]
+    },
+    {
+      "id": "b1-tr-151",
+      "type": "transform",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The present continuous expresses an arrangement.",
+      "original": "I have an appointment with the dentist at five tomorrow.",
+      "keyword": "SEEING",
+      "template": "I ___ the dentist at five tomorrow.",
+      "solutions": [
+        "am seeing"
+      ]
+    },
+    {
+      "id": "b1-tr-152",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Present passive: is + past participle.",
+      "original": "Somebody cleans the office every night.",
+      "keyword": "CLEANED",
+      "template": "The office ___ every night.",
+      "solutions": [
+        "is cleaned"
+      ]
+    },
+    {
+      "id": "b1-tr-153",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Put up with\" means to tolerate.",
+      "original": "I can't tolerate his behaviour.",
+      "keyword": "PUT",
+      "template": "I can't ___ his behaviour.",
+      "solutions": [
+        "put up with"
+      ]
+    },
+    {
+      "id": "b1-tr-154",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"A little\" is used with uncountable nouns.",
+      "original": "There is a small amount of milk left.",
+      "keyword": "LITTLE",
+      "template": "There is ___ milk left.",
+      "solutions": [
+        "only a little",
+        "a little"
+      ]
+    },
+    {
+      "id": "b1-tr-155",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Otherwise\" means \"if not\".",
+      "original": "Don't touch it or it will break.",
+      "keyword": "OTHERWISE",
+      "template": "Don't touch it, ___ break.",
+      "solutions": [
+        "otherwise it will"
+      ]
+    },
+    {
+      "id": "b1-tr-156",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The superlative.",
+      "original": "I've never eaten such delicious food.",
+      "keyword": "MOST",
+      "template": "It's ___ I've ever eaten.",
+      "solutions": [
+        "the most delicious food"
+      ]
+    },
+    {
+      "id": "b1-tr-157",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Needn't\" or \"don't need to\" expresses no necessity.",
+      "original": "It's not necessary for you to wait for me.",
+      "keyword": "NEED",
+      "template": "You ___ for me.",
+      "solutions": [
+        "needn't wait",
+        "don't need to wait"
+      ]
+    },
+    {
+      "id": "b1-tr-158",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Any\" is used after a negative verb.",
+      "original": "I have no brothers or sisters.",
+      "keyword": "ANY",
+      "template": "I ___ brothers or sisters.",
+      "solutions": [
+        "don't have any",
+        "haven't got any"
+      ]
+    },
+    {
+      "id": "b1-tr-159",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Call off\" means to cancel.",
+      "original": "They cancelled the match.",
+      "keyword": "CALLED",
+      "template": "They ___ the match.",
+      "solutions": [
+        "called off"
+      ]
+    },
+    {
+      "id": "b1-tr-160",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Had better\" gives strong advice.",
+      "original": "I think it's a good idea to wear warm clothes.",
+      "keyword": "BETTER",
+      "template": "You ___ warm clothes.",
+      "solutions": [
+        "had better wear"
+      ]
+    },
+    {
+      "id": "b1-tr-161",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The third conditional uses the past perfect.",
+      "original": "I didn't see him, so I didn't say hello.",
+      "keyword": "IF",
+      "template": "If I ___, I would have said hello.",
+      "solutions": [
+        "had seen him"
+      ]
+    },
+    {
+      "id": "b1-tr-162",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"If only ... would\" expresses a wish about someone else's behaviour.",
+      "original": "I want a dog but my parents say no.",
+      "keyword": "ONLY",
+      "template": "If ___ me have a dog!",
+      "solutions": [
+        "only my parents would let"
+      ]
+    },
+    {
+      "id": "b1-tr-163",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Nobody\" has a negative meaning.",
+      "original": "I didn't need any help from anyone.",
+      "keyword": "NOBODY",
+      "template": "___ me.",
+      "solutions": [
+        "Nobody helped"
+      ]
+    },
+    {
+      "id": "b1-tr-164",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"As long as\" means \"on condition that\".",
+      "original": "You can borrow my car on condition that you drive carefully.",
+      "keyword": "LONG",
+      "template": "You can borrow my car ___ carefully.",
+      "solutions": [
+        "as long as you drive"
+      ]
+    },
+    {
+      "id": "b1-tr-165",
+      "type": "transform",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Haven't seen ... since\" expresses the same idea.",
+      "original": "I last saw him in March.",
+      "keyword": "SEEN",
+      "template": "I ___ March.",
+      "solutions": [
+        "haven't seen him since"
+      ]
+    },
+    {
+      "id": "b1-tr-166",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Agree with\" is followed by a person.",
+      "original": "I don't agree with your opinion.",
+      "keyword": "AGREE",
+      "template": "I ___ you.",
+      "solutions": [
+        "don't agree with"
+      ]
+    },
+    {
+      "id": "b1-tr-167",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"As ... as\" can express the same comparison in the negative.",
+      "original": "My brother is taller than me.",
+      "keyword": "NOT",
+      "template": "I ___ my brother.",
+      "solutions": [
+        "am not as tall as"
+      ]
+    },
+    {
+      "id": "b1-tr-168",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Advice structure: If I were you, I would ...",
+      "original": "You should see a doctor, in my opinion.",
+      "keyword": "WERE",
+      "template": "If I ___, I would see a doctor.",
+      "solutions": [
+        "were you"
+      ]
+    },
+    {
+      "id": "b1-tr-169",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Because of\" is followed by a noun.",
+      "original": "The match was cancelled due to the rain.",
+      "keyword": "BECAUSE",
+      "template": "The match was cancelled ___ the rain.",
+      "solutions": [
+        "because of"
+      ]
+    },
+    {
+      "id": "b1-tr-170",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Must not\" expresses a prohibition.",
+      "original": "It isn't allowed to park here.",
+      "keyword": "MUST",
+      "template": "You ___ here.",
+      "solutions": [
+        "must not park",
+        "mustn't park"
+      ]
+    },
+    {
+      "id": "b1-tr-171",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Suggest\" is followed by a gerund.",
+      "original": "\"Shall we go to the cinema?\" said Tom.",
+      "keyword": "SUGGESTED",
+      "template": "Tom ___ to the cinema.",
+      "solutions": [
+        "suggested going"
+      ]
+    },
+    {
+      "id": "b1-tr-172",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Passive structure: is known to + infinitive.",
+      "original": "Everyone knows that she is a great singer.",
+      "keyword": "KNOWN",
+      "template": "She ___ a great singer.",
+      "solutions": [
+        "is known to be"
+      ]
+    },
+    {
+      "id": "b1-tr-173",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Run into\" means to meet by chance.",
+      "original": "I met my old teacher by chance.",
+      "keyword": "RAN",
+      "template": "I ___ old teacher.",
+      "solutions": [
+        "ran into my"
+      ]
+    },
+    {
+      "id": "b1-tr-174",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The comparative with \"than\".",
+      "original": "My sister is eighteen and my brother is sixteen.",
+      "keyword": "OLDER",
+      "template": "My sister is ___ my brother.",
+      "solutions": [
+        "older than"
+      ]
+    },
+    {
+      "id": "b1-tr-175",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Don't have to\" means it is not necessary.",
+      "original": "It's not necessary for you to come early.",
+      "keyword": "HAVE",
+      "template": "You ___ early.",
+      "solutions": [
+        "don't have to come"
+      ]
+    },
+    {
+      "id": "b1-tr-176",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Them\" is an object pronoun.",
+      "original": "I haven't seen my friends for a long time.",
+      "keyword": "THEM",
+      "template": "I haven't seen ___ a long time.",
+      "solutions": [
+        "them for"
+      ]
+    },
+    {
+      "id": "b1-tr-177",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Needn't have\" + past participle means unnecessary action.",
+      "original": "They didn't need to take a taxi, but they did.",
+      "keyword": "NEEDN'T",
+      "template": "They ___ a taxi.",
+      "solutions": [
+        "needn't have taken"
+      ]
+    },
+    {
+      "id": "b1-tr-178",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A negative command becomes \"told someone not to + verb\".",
+      "original": "\"Don't be late,\" the teacher told us.",
+      "keyword": "NOT",
+      "template": "The teacher told us ___ late.",
+      "solutions": [
+        "not to be"
+      ]
+    },
+    {
+      "id": "b1-tr-179",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Third conditional: if + past perfect.",
+      "original": "She didn't study, so she failed the exam.",
+      "keyword": "HAD",
+      "template": "If she ___, she wouldn't have failed the exam.",
+      "solutions": [
+        "had studied"
+      ]
+    },
+    {
+      "id": "b1-tr-180",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Might\" expresses possibility.",
+      "original": "Perhaps they are on holiday.",
+      "keyword": "MIGHT",
+      "template": "They ___ on holiday.",
+      "solutions": [
+        "might be"
+      ]
+    },
+    {
+      "id": "b1-tr-181",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Not as ... as\" gives the same comparison.",
+      "original": "This house is smaller than ours.",
+      "keyword": "BIG",
+      "template": "This house is ___ ours.",
+      "solutions": [
+        "not as big as"
+      ]
+    },
+    {
+      "id": "b1-tr-182",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Fixed expression for locations.",
+      "original": "They live at the end of the street.",
+      "keyword": "BOTTOM",
+      "template": "They live ___ the street.",
+      "solutions": [
+        "at the bottom of"
+      ]
+    },
+    {
+      "id": "b1-tr-183",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The receiver of the information becomes the subject: I was not told.",
+      "original": "Nobody told me about the meeting.",
+      "keyword": "WAS",
+      "template": "I ___ about the meeting.",
+      "solutions": [
+        "was not told",
+        "wasn't told"
+      ]
+    },
+    {
+      "id": "b1-tr-184",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Might be\" expresses a possibility.",
+      "original": "It's possible that she is lost.",
+      "keyword": "MIGHT",
+      "template": "She ___ lost.",
+      "solutions": [
+        "might be"
+      ]
+    },
+    {
+      "id": "b1-tr-185",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Any\" is used after a negative verb.",
+      "original": "I have no money in my pocket.",
+      "keyword": "ANY",
+      "template": "I ___ in my pocket.",
+      "solutions": [
+        "haven't got any money",
+        "don't have any money"
+      ]
+    },
+    {
+      "id": "b1-tr-186",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Too\" expresses an excess.",
+      "original": "It is a very expensive car and I can't afford it.",
+      "keyword": "TOO",
+      "template": "The car is ___ for me to buy.",
+      "solutions": [
+        "too expensive"
+      ]
+    },
+    {
+      "id": "b1-tr-187",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Tell someone to + verb\".",
+      "original": "He gave me an order to leave.",
+      "keyword": "TOLD",
+      "template": "He ___ leave.",
+      "solutions": [
+        "told me to"
+      ]
+    },
+    {
+      "id": "b1-tr-188",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Reported speech moves the tense back.",
+      "original": "\"I'm hungry,\" she said.",
+      "keyword": "WAS",
+      "template": "She said that she ___.",
+      "solutions": [
+        "was hungry"
+      ]
+    },
+    {
+      "id": "b1-tr-189",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Borrow from\".",
+      "original": "My sister lent me her car.",
+      "keyword": "BORROWED",
+      "template": "I ___ my sister.",
+      "solutions": [
+        "borrowed her car from",
+        "borrowed a car from"
+      ]
+    },
+    {
+      "id": "b1-tr-190",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The indirect object can become the subject: He was given a medal.",
+      "original": "They gave him a medal for his courage.",
+      "keyword": "GIVEN",
+      "template": "He ___ a medal for his courage.",
+      "solutions": [
+        "was given"
+      ]
+    },
+    {
+      "id": "b1-tr-191",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Himself\" emphasises that he did it alone.",
+      "original": "He did all the work without any help.",
+      "keyword": "HIMSELF",
+      "template": "He did all the work ___.",
+      "solutions": [
+        "himself"
+      ]
+    },
+    {
+      "id": "b1-tr-192",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"May\" expresses a possibility.",
+      "original": "Perhaps they will arrive late.",
+      "keyword": "MAY",
+      "template": "They ___ late.",
+      "solutions": [
+        "may arrive"
+      ]
+    },
+    {
+      "id": "b1-tr-193",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The noun \"cook\" names the person.",
+      "original": "Maria is good at cooking.",
+      "keyword": "COOK",
+      "template": "Maria is a very ___.",
+      "solutions": [
+        "good cook"
+      ]
+    },
+    {
+      "id": "b1-tr-194",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Apologise for\" + gerund.",
+      "original": "He said sorry for breaking the window.",
+      "keyword": "APOLOGISED",
+      "template": "He ___ the window.",
+      "solutions": [
+        "apologised for breaking"
+      ]
+    },
+    {
+      "id": "b1-tr-195",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A reported yes/no question uses \"if\" or \"whether\" and normal word order.",
+      "original": "\"Are you hungry?\" she asked me.",
+      "keyword": "IF",
+      "template": "She asked me ___ hungry.",
+      "solutions": [
+        "if I was",
+        "if I were",
+        "whether I was",
+        "whether I were"
+      ]
+    },
+    {
+      "id": "b1-tr-196",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A defining relative clause with \"that\".",
+      "original": "This is the film. I told you about it.",
+      "keyword": "THAT",
+      "template": "This is the film ___ about.",
+      "solutions": [
+        "that I told you"
+      ]
+    },
+    {
+      "id": "b1-tr-197",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Since\" is followed by a point in time.",
+      "original": "I have known him for ten years.",
+      "keyword": "SINCE",
+      "template": "I have known him ___ ten years ago.",
+      "solutions": [
+        "since"
+      ]
+    },
+    {
+      "id": "b1-tr-198",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Good at\" + gerund.",
+      "original": "She is a very good swimmer.",
+      "keyword": "AT",
+      "template": "She ___ swimming.",
+      "solutions": [
+        "is very good at"
+      ]
+    },
+    {
+      "id": "b1-tr-199",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A relative clause adds information about a person.",
+      "original": "I met a woman. She lives in Paris.",
+      "keyword": "WHO",
+      "template": "I met a woman ___ in Paris.",
+      "solutions": [
+        "who lives"
+      ]
+    },
+    {
+      "id": "b1-tr-200",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A reported question uses \"if\" and normal word order.",
+      "original": "\"Are you coming?\" he asked me.",
+      "keyword": "IF",
+      "template": "He asked me ___.",
+      "solutions": [
+        "if I was coming",
+        "if I were coming"
+      ]
+    },
+    {
+      "id": "b1-tr-201",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Through\" shows movement via an opening.",
+      "original": "The thief entered through the window.",
+      "keyword": "CLIMBED",
+      "template": "The thief ___ the window.",
+      "solutions": [
+        "climbed through",
+        "climbed in through"
+      ]
+    },
+    {
+      "id": "b1-tr-202",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Afford\" means to have enough money.",
+      "original": "I don't have money to buy it.",
+      "keyword": "AFFORD",
+      "template": "I ___ it.",
+      "solutions": [
+        "can't afford"
+      ]
+    },
+    {
+      "id": "b1-tr-203",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Present perfect passive: been + past participle.",
+      "original": "Has anyone fixed the computer yet?",
+      "keyword": "BEEN",
+      "template": "Has the computer ___ yet?",
+      "solutions": [
+        "been fixed"
+      ]
+    },
+    {
+      "id": "b1-tr-204",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Present continuous passive: is being + past participle.",
+      "original": "They are building a new hospital in our town.",
+      "keyword": "BEING",
+      "template": "A new hospital ___ in our town.",
+      "solutions": [
+        "is being built"
+      ]
+    },
+    {
+      "id": "b1-tr-205",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Passive reporting structure: is said to + infinitive.",
+      "original": "People say that the company is in trouble.",
+      "keyword": "SAID",
+      "template": "The company ___ be in trouble.",
+      "solutions": [
+        "is said to"
+      ]
+    },
+    {
+      "id": "b1-tr-206",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Present continuous passive: is/are being + past participle.",
+      "original": "They are repairing the road.",
+      "keyword": "BEING",
+      "template": "The road ___ repaired.",
+      "solutions": [
+        "is being"
+      ]
+    },
+    {
+      "id": "b1-tr-207",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Promise\" is followed by \"to + verb\".",
+      "original": "She said she would help me.",
+      "keyword": "PROMISED",
+      "template": "She ___ me.",
+      "solutions": [
+        "promised to help"
+      ]
+    },
+    {
+      "id": "b1-tr-208",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Should have\" + past participle expresses regret.",
+      "original": "I regret that I didn't study more.",
+      "keyword": "SHOULD",
+      "template": "I ___ more.",
+      "solutions": [
+        "should have studied"
+      ]
+    },
+    {
+      "id": "b1-tr-209",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The second conditional describes an unreal situation.",
+      "original": "I don't have a car, so I can't drive you.",
+      "keyword": "IF",
+      "template": "I could drive you ___ a car.",
+      "solutions": [
+        "if I had"
+      ]
+    },
+    {
+      "id": "b1-tr-210",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Second conditional with \"were\".",
+      "original": "It's raining, so I won't go for a run.",
+      "keyword": "WERE",
+      "template": "If it ___ raining, I would go for a run.",
+      "solutions": [
+        "weren't"
+      ]
+    },
+    {
+      "id": "b1-tr-211",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A reported question uses normal word order and the past tense.",
+      "original": "\"Where is the station?\" he asked me.",
+      "keyword": "WAS",
+      "template": "He asked me where ___.",
+      "solutions": [
+        "the station was"
+      ]
+    },
+    {
+      "id": "b1-tr-212",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Give up\" + gerund.",
+      "original": "He has stopped going to the gym.",
+      "keyword": "GIVEN",
+      "template": "He ___ to the gym.",
+      "solutions": [
+        "has given up going"
+      ]
+    },
+    {
+      "id": "b1-tr-213",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Should\" gives advice.",
+      "original": "I advise you to see a doctor.",
+      "keyword": "SHOULD",
+      "template": "You ___ a doctor.",
+      "solutions": [
+        "should see"
+      ]
+    },
+    {
+      "id": "b1-tr-214",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A relative clause for people.",
+      "original": "I met a woman. She speaks five languages.",
+      "keyword": "WHO",
+      "template": "I met a woman ___ five languages.",
+      "solutions": [
+        "who speaks"
+      ]
+    },
+    {
+      "id": "b1-tr-215",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "First conditional: present simple.",
+      "original": "Perhaps he'll call. If he does, I'll tell him.",
+      "keyword": "CALLS",
+      "template": "If ___, I'll tell him.",
+      "solutions": [
+        "he calls"
+      ]
+    },
+    {
+      "id": "b1-tr-216",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Not all\" expresses a part.",
+      "original": "Some of the guests arrived late.",
+      "keyword": "NOT",
+      "template": "___ on time.",
+      "solutions": [
+        "Not all the guests arrived"
+      ]
+    },
+    {
+      "id": "b1-tr-217",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Second conditional with \"were\".",
+      "original": "I can't help you because I'm busy.",
+      "keyword": "WERE",
+      "template": "If I ___ busy, I could help you.",
+      "solutions": [
+        "weren't"
+      ]
+    },
+    {
+      "id": "b1-tr-218",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Unless\" means \"if ... not\": unless you take your keys.",
+      "original": "Don't forget your keys or you won't be able to get in.",
+      "keyword": "UNLESS",
+      "template": "You won't be able to get in ___ your keys.",
+      "solutions": [
+        "unless you take",
+        "unless you bring"
+      ]
+    },
+    {
+      "id": "b1-tr-219",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Apologise for\" + gerund.",
+      "original": "I'm sorry that I woke you up.",
+      "keyword": "FOR",
+      "template": "I apologise ___ you up.",
+      "solutions": [
+        "for waking"
+      ]
+    },
+    {
+      "id": "b1-tr-220",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Not as ... as\" expresses the opposite adjective.",
+      "original": "The exam was easier than I had expected.",
+      "keyword": "NOT",
+      "template": "The exam was ___ I had expected.",
+      "solutions": [
+        "not as difficult as"
+      ]
+    },
+    {
+      "id": "b1-tr-221",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Apologise for\" is followed by -ing.",
+      "original": "She said sorry for arriving late.",
+      "keyword": "APOLOGISED",
+      "template": "She ___ late.",
+      "solutions": [
+        "apologised for arriving"
+      ]
+    },
+    {
+      "id": "b1-tr-222",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Can't stand\" + gerund.",
+      "original": "He doesn't like swimming.",
+      "keyword": "STAND",
+      "template": "He ___ swimming.",
+      "solutions": [
+        "can't stand"
+      ]
+    },
+    {
+      "id": "b1-tr-223",
+      "type": "transform",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Be married\" is used with the present perfect and \"for\".",
+      "original": "They got married ten years ago.",
+      "keyword": "MARRIED",
+      "template": "They ___ ten years.",
+      "solutions": [
+        "have been married for"
+      ]
+    },
+    {
+      "id": "b1-tr-224",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"So\" + adjective.",
+      "original": "This is a very old photograph.",
+      "keyword": "SO",
+      "template": "This photograph ___.",
+      "solutions": [
+        "is so old"
+      ]
+    },
+    {
+      "id": "b1-tr-225",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Only child\" is a fixed phrase.",
+      "original": "I don't have any brothers or sisters.",
+      "keyword": "ONLY",
+      "template": "I am ___.",
+      "solutions": [
+        "an only child"
+      ]
+    },
+    {
+      "id": "b1-tr-226",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Could\" expresses past ability.",
+      "original": "It was possible for me to read when I was four.",
+      "keyword": "COULD",
+      "template": "I ___ when I was four.",
+      "solutions": [
+        "could read"
+      ]
+    },
+    {
+      "id": "b1-tr-227",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The present simple becomes the past simple; \"this\" becomes \"that\".",
+      "original": "\"I don't like this film,\" said Anna.",
+      "keyword": "DID",
+      "template": "Anna said she ___ that film.",
+      "solutions": [
+        "didn't like",
+        "did not like"
+      ]
+    },
+    {
+      "id": "b1-tr-228",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"May I\" asks for permission politely.",
+      "original": "Is it OK if I sit here?",
+      "keyword": "MAY",
+      "template": "___ here?",
+      "solutions": [
+        "May I sit"
+      ]
+    },
+    {
+      "id": "b1-tr-229",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Suggest\" + gerund.",
+      "original": "\"Why don't we go to the cinema?\" said Ann.",
+      "keyword": "SUGGESTED",
+      "template": "Ann ___ to the cinema.",
+      "solutions": [
+        "suggested going"
+      ]
+    },
+    {
+      "id": "b1-tr-230",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Unless\" replaces \"if ... not\".",
+      "original": "If you don't leave now, you'll miss the train.",
+      "keyword": "UNLESS",
+      "template": "You'll miss the train ___ now.",
+      "solutions": [
+        "unless you leave"
+      ]
+    },
+    {
+      "id": "b1-tr-231",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Turn down\" means to refuse.",
+      "original": "He refused the job offer.",
+      "keyword": "DOWN",
+      "template": "He ___ the job offer.",
+      "solutions": [
+        "turned down"
+      ]
+    },
+    {
+      "id": "b1-tr-232",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The comparative with \"than\".",
+      "original": "Tom isn't as old as his sister.",
+      "keyword": "OLDER",
+      "template": "His sister ___ Tom.",
+      "solutions": [
+        "is older than"
+      ]
+    },
+    {
+      "id": "b1-tr-233",
+      "type": "transform",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Never ... before\" uses the present perfect.",
+      "original": "This is the first time I have eaten sushi.",
+      "keyword": "NEVER",
+      "template": "I ___ before.",
+      "solutions": [
+        "have never eaten sushi"
+      ]
+    },
+    {
+      "id": "b1-tr-234",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Borrow\" means to take temporarily.",
+      "original": "He took my pen without asking me.",
+      "keyword": "BORROWED",
+      "template": "He ___ without asking.",
+      "solutions": [
+        "borrowed my pen"
+      ]
+    },
+    {
+      "id": "b1-tr-235",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Which\" introduces a clause with commas for things.",
+      "original": "She gave me a book, and it was interesting.",
+      "keyword": "WHICH",
+      "template": "She gave me a book, ___ interesting.",
+      "solutions": [
+        "which was"
+      ]
+    },
+    {
+      "id": "b1-tr-236",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The comparative with \"than\".",
+      "original": "She isn't as clever as her brother.",
+      "keyword": "CLEVERER",
+      "template": "Her brother ___ her.",
+      "solutions": [
+        "is cleverer than"
+      ]
+    },
+    {
+      "id": "b1-tr-237",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Scared of\" + noun.",
+      "original": "Tom is afraid of the dark.",
+      "keyword": "SCARED",
+      "template": "Tom ___ the dark.",
+      "solutions": [
+        "is scared of"
+      ]
+    },
+    {
+      "id": "b1-tr-238",
+      "type": "transform",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Will\" expresses a prediction.",
+      "original": "He is on his way, and it's not far now.",
+      "keyword": "WILL",
+      "template": "He ___ soon.",
+      "solutions": [
+        "will be here"
+      ]
+    },
+    {
+      "id": "b1-tr-239",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Where\" for places.",
+      "original": "That is the house. I was born in it.",
+      "keyword": "WHERE",
+      "template": "That is the house ___ born.",
+      "solutions": [
+        "where I was"
+      ]
+    },
+    {
+      "id": "b1-tr-240",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Can't be\" expresses a negative deduction.",
+      "original": "I'm certain that she isn't at home.",
+      "keyword": "CAN'T",
+      "template": "She ___ at home.",
+      "solutions": [
+        "can't be"
+      ]
+    },
+    {
+      "id": "b1-tr-241",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Set off\" means to start a journey.",
+      "original": "We started our journey at six.",
+      "keyword": "SET",
+      "template": "We ___ at six.",
+      "solutions": [
+        "set off"
+      ]
+    },
+    {
+      "id": "b1-tr-242",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Enough\" after the adverb.",
+      "original": "She didn't speak clearly, so I couldn't understand her.",
+      "keyword": "ENOUGH",
+      "template": "She didn't speak ___ understand her.",
+      "solutions": [
+        "clearly enough for me to"
+      ]
+    },
+    {
+      "id": "b1-tr-243",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Present perfect passive: have been + past participle.",
+      "original": "They have sold all the tickets.",
+      "keyword": "BEEN",
+      "template": "All the tickets ___ sold.",
+      "solutions": [
+        "have been"
+      ]
+    },
+    {
+      "id": "b1-tr-244",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A present regret uses \"wish + past simple\".",
+      "original": "It's a shame I'm so tired.",
+      "keyword": "WISH",
+      "template": "I ___ so tired.",
+      "solutions": [
+        "wish I weren't",
+        "wish I wasn't"
+      ]
+    },
+    {
+      "id": "b1-tr-245",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Every\" is followed by a singular noun.",
+      "original": "All the students passed the exam.",
+      "keyword": "EVERY",
+      "template": "___ the exam.",
+      "solutions": [
+        "Every student passed"
+      ]
+    },
+    {
+      "id": "b1-tr-246",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Whose\" shows possession.",
+      "original": "Ann has a brother. His wife is a singer.",
+      "keyword": "WHOSE",
+      "template": "Ann has a brother ___ a singer.",
+      "solutions": [
+        "whose wife is"
+      ]
+    },
+    {
+      "id": "b1-tr-247",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Despite\" is followed by a noun.",
+      "original": "It was raining, but we went out.",
+      "keyword": "DESPITE",
+      "template": "We went out ___ the rain.",
+      "solutions": [
+        "despite"
+      ]
+    },
+    {
+      "id": "b1-tr-248",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Neither\" expresses the negative for two people.",
+      "original": "Both of the girls are tall.",
+      "keyword": "NEITHER",
+      "template": "___ short.",
+      "solutions": [
+        "Neither of the girls is"
+      ]
+    },
+    {
+      "id": "b1-tr-249",
+      "type": "transform",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Negative present perfect with \"for\".",
+      "original": "The last time she called me was a month ago.",
+      "keyword": "NOT",
+      "template": "She ___ a month.",
+      "solutions": [
+        "hasn't called me for"
+      ]
+    },
+    {
+      "id": "b1-tr-250",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A regret about the past uses \"wish + past perfect\".",
+      "original": "I'm sorry I didn't call you.",
+      "keyword": "WISH",
+      "template": "I ___ called you.",
+      "solutions": [
+        "wish I had"
+      ]
+    },
+    {
+      "id": "b1-tr-251",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Used to\" describes a past state.",
+      "original": "We lived in a village when I was a child.",
+      "keyword": "USED",
+      "template": "We ___ in a village when I was a child.",
+      "solutions": [
+        "used to live"
+      ]
+    },
+    {
+      "id": "b1-tr-252",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Apologise for\" + gerund.",
+      "original": "She said sorry because she was late.",
+      "keyword": "APOLOGISED",
+      "template": "She ___ late.",
+      "solutions": [
+        "apologised for being"
+      ]
+    },
+    {
+      "id": "b1-tr-253",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Where\" refers to a place.",
+      "original": "The shop is in the street. I bought my shoes there.",
+      "keyword": "WHERE",
+      "template": "The shop is in the street ___ my shoes.",
+      "solutions": [
+        "where I bought"
+      ]
+    },
+    {
+      "id": "b1-tr-254",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Himself\" emphasises doing something alone.",
+      "original": "He made the cake without anyone's help.",
+      "keyword": "HIMSELF",
+      "template": "He made the cake ___.",
+      "solutions": [
+        "himself"
+      ]
+    },
+    {
+      "id": "b1-tr-255",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Worry about\" is followed by a noun.",
+      "original": "I'm very worried about my exam results.",
+      "keyword": "WORRYING",
+      "template": "I can't stop ___ my exam results.",
+      "solutions": [
+        "worrying about"
+      ]
+    },
+    {
+      "id": "b1-tr-256",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"No point in\" + gerund.",
+      "original": "It's a waste of time to argue with him.",
+      "keyword": "POINT",
+      "template": "There is ___ with him.",
+      "solutions": [
+        "no point in arguing"
+      ]
+    },
+    {
+      "id": "b1-tr-257",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The passive reporting structure.",
+      "original": "People say that he is very rich.",
+      "keyword": "SAID",
+      "template": "He ___ very rich.",
+      "solutions": [
+        "is said to be"
+      ]
+    },
+    {
+      "id": "b1-tr-258",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Prefer X to Y\" is the standard structure.",
+      "original": "Tom likes football a lot more than basketball.",
+      "keyword": "PREFERS",
+      "template": "Tom ___ basketball.",
+      "solutions": [
+        "prefers football to"
+      ]
+    },
+    {
+      "id": "b1-tr-259",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Would rather\" + base form.",
+      "original": "I'd prefer to stay at home tonight.",
+      "keyword": "RATHER",
+      "template": "I ___ at home tonight.",
+      "solutions": [
+        "would rather stay"
+      ]
+    },
+    {
+      "id": "b1-tr-260",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The superlative expresses the highest degree.",
+      "original": "I've never seen a more beautiful place.",
+      "keyword": "MOST",
+      "template": "It is ___ I've ever seen.",
+      "solutions": [
+        "the most beautiful place"
+      ]
+    },
+    {
+      "id": "b1-tr-261",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "First conditional: if + present simple.",
+      "original": "Perhaps it will rain, and then we'll stay at home.",
+      "keyword": "IF",
+      "template": "We'll stay at home ___.",
+      "solutions": [
+        "if it rains"
+      ]
+    },
+    {
+      "id": "b1-tr-262",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Along\" follows a line.",
+      "original": "I like walking on a path next to the river.",
+      "keyword": "ALONG",
+      "template": "I like walking ___ the river.",
+      "solutions": [
+        "along"
+      ]
+    },
+    {
+      "id": "b1-tr-263",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Modal passive: must be + past participle.",
+      "original": "We must finish the work today.",
+      "keyword": "BE",
+      "template": "The work ___ today.",
+      "solutions": [
+        "must be finished"
+      ]
+    },
+    {
+      "id": "b1-tr-264",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Passive reporting structure for a past event: is believed to have + past participle.",
+      "original": "People believe that the earthquake killed hundreds.",
+      "keyword": "BELIEVED",
+      "template": "The earthquake ___ killed hundreds.",
+      "solutions": [
+        "is believed to have"
+      ]
+    },
+    {
+      "id": "b1-tr-265",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Take after\" means to resemble.",
+      "original": "She looks like her mother.",
+      "keyword": "AFTER",
+      "template": "She ___ her mother.",
+      "solutions": [
+        "takes after"
+      ]
+    },
+    {
+      "id": "b1-tr-266",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Will\" becomes \"would\" in reported speech.",
+      "original": "\"I'll be home late,\" he told me.",
+      "keyword": "WOULD",
+      "template": "He told me he ___ home late.",
+      "solutions": [
+        "would be"
+      ]
+    },
+    {
+      "id": "b1-tr-267",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Provided\" means \"on condition that\".",
+      "original": "You can go out as long as you finish your homework first.",
+      "keyword": "PROVIDED",
+      "template": "You can go out ___ finish your homework first.",
+      "solutions": [
+        "provided you"
+      ]
+    },
+    {
+      "id": "b1-tr-268",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Think over\" means to consider carefully.",
+      "original": "Please think about my suggestion.",
+      "keyword": "OVER",
+      "template": "Please ___ suggestion.",
+      "solutions": [
+        "think over my",
+        "think my suggestion over"
+      ]
+    },
+    {
+      "id": "b1-tr-269",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The person who receives the action becomes the subject.",
+      "original": "They didn't invite me to the wedding.",
+      "keyword": "INVITED",
+      "template": "I ___ to the wedding.",
+      "solutions": [
+        "wasn't invited",
+        "was not invited"
+      ]
+    },
+    {
+      "id": "b1-tr-270",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Too\" expresses excess.",
+      "original": "There isn't enough room for all of us.",
+      "keyword": "TOO",
+      "template": "The room is ___ all of us.",
+      "solutions": [
+        "too small for"
+      ]
+    },
+    {
+      "id": "b1-tr-271",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Little\" is used with uncountable nouns.",
+      "original": "He does not have a lot of time.",
+      "keyword": "LITTLE",
+      "template": "He has ___ time.",
+      "solutions": [
+        "very little",
+        "little"
+      ]
+    },
+    {
+      "id": "b1-tr-272",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Past passive: was + past participle.",
+      "original": "Someone broke into our house last night.",
+      "keyword": "BROKEN",
+      "template": "Our house ___ into last night.",
+      "solutions": [
+        "was broken"
+      ]
+    },
+    {
+      "id": "b1-tr-273",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Because of\" is followed by a noun.",
+      "original": "The match was cancelled as it was raining heavily.",
+      "keyword": "BECAUSE",
+      "template": "The match was cancelled ___ the heavy rain.",
+      "solutions": [
+        "because of"
+      ]
+    },
+    {
+      "id": "b1-tr-274",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Look forward to\" expresses pleasure in anticipation.",
+      "original": "He is expecting the holidays with pleasure.",
+      "keyword": "FORWARD",
+      "template": "He ___ the holidays.",
+      "solutions": [
+        "is looking forward to"
+      ]
+    },
+    {
+      "id": "b1-tr-275",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The present perfect becomes the past perfect.",
+      "original": "\"I have never been to Japan,\" he said.",
+      "keyword": "HAD",
+      "template": "He said he ___ to Japan.",
+      "solutions": [
+        "had never been"
+      ]
+    },
+    {
+      "id": "b1-tr-276",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "An unreal present uses the second conditional: If + past simple.",
+      "original": "I don't have enough money, so I can't buy the jacket.",
+      "keyword": "IF",
+      "template": "___ enough money, I would buy the jacket.",
+      "solutions": [
+        "If I had"
+      ]
+    },
+    {
+      "id": "b1-tr-277",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The superlative expresses the highest degree.",
+      "original": "Nobody in the class is cleverer than Anna.",
+      "keyword": "CLEVEREST",
+      "template": "Anna is ___ in the class.",
+      "solutions": [
+        "the cleverest"
+      ]
+    },
+    {
+      "id": "b1-tr-278",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Third conditional: would have + past participle.",
+      "original": "He drove too fast and had an accident.",
+      "keyword": "WOULD",
+      "template": "If he hadn't driven so fast, he ___ an accident.",
+      "solutions": [
+        "wouldn't have had",
+        "would not have had"
+      ]
+    },
+    {
+      "id": "b1-tr-279",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The noun \"cook\" names the person.",
+      "original": "My mother cooks very well.",
+      "keyword": "COOK",
+      "template": "My mother is a ___.",
+      "solutions": [
+        "very good cook"
+      ]
+    },
+    {
+      "id": "b1-tr-280",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Must\" becomes \"had to\" in reported speech.",
+      "original": "The teacher said, \"You must finish your homework.\"",
+      "keyword": "HAD",
+      "template": "The teacher said we ___ our homework.",
+      "solutions": [
+        "had to finish"
+      ]
+    },
+    {
+      "id": "b1-tr-281",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Shouldn't have\" criticises a past action.",
+      "original": "It was wrong of you to shout at her.",
+      "keyword": "SHOULDN'T",
+      "template": "You ___ at her.",
+      "solutions": [
+        "shouldn't have shouted"
+      ]
+    },
+    {
+      "id": "b1-tr-282",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"No\" is used in a positive structure with a negative meaning.",
+      "original": "I didn't need any help.",
+      "keyword": "NO",
+      "template": "I ___ help.",
+      "solutions": [
+        "needed no",
+        "had no need of"
+      ]
+    },
+    {
+      "id": "b1-tr-283",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "In reported speech \"will\" becomes \"would\".",
+      "original": "\"I'll phone you later,\" she said.",
+      "keyword": "WOULD",
+      "template": "She said she ___ me later.",
+      "solutions": [
+        "would phone"
+      ]
+    },
+    {
+      "id": "b1-tr-284",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Lend\" means to give temporarily.",
+      "original": "My brother gave me his old bike.",
+      "keyword": "LENT",
+      "template": "My brother ___ his old bike.",
+      "solutions": [
+        "lent me"
+      ]
+    },
+    {
+      "id": "b1-tr-285",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Such a\" + adjective + noun.",
+      "original": "The book was so interesting that I read it in one day.",
+      "keyword": "SUCH",
+      "template": "It was ___ I read it in one day.",
+      "solutions": [
+        "such an interesting book that"
+      ]
+    },
+    {
+      "id": "b1-tr-286",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Be used to\" + gerund.",
+      "original": "I find it hard to get up early.",
+      "keyword": "USED",
+      "template": "I'm not ___ early.",
+      "solutions": [
+        "used to getting up"
+      ]
+    },
+    {
+      "id": "b1-tr-287",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A past regret uses \"wish + past perfect\".",
+      "original": "I regret not saying goodbye.",
+      "keyword": "WISH",
+      "template": "I ___ goodbye.",
+      "solutions": [
+        "wish I had said"
+      ]
+    },
+    {
+      "id": "b1-tr-288",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Must have\" expresses a strong deduction about the past.",
+      "original": "I'm sure she was angry.",
+      "keyword": "MUST",
+      "template": "She ___ angry.",
+      "solutions": [
+        "must have been"
+      ]
+    },
+    {
+      "id": "b1-tr-289",
+      "type": "transform",
+      "level": "B1",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Can't stand\" + gerund.",
+      "original": "I don't like walking in the rain.",
+      "keyword": "STAND",
+      "template": "I ___ in the rain.",
+      "solutions": [
+        "can't stand walking"
+      ]
+    },
+    {
+      "id": "b1-tr-290",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Past passive: were + past participle.",
+      "original": "The waiter brought us the menu.",
+      "keyword": "WERE",
+      "template": "We ___ the menu by the waiter.",
+      "solutions": [
+        "were brought"
+      ]
+    },
+    {
+      "id": "b1-tr-291",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Too ... to\" expresses excess.",
+      "original": "The soup was so hot that I couldn't eat it.",
+      "keyword": "TOO",
+      "template": "The soup was ___ eat.",
+      "solutions": [
+        "too hot to"
+      ]
+    },
+    {
+      "id": "b1-tr-292",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Call off\" means to cancel.",
+      "original": "They cancelled the concert.",
+      "keyword": "CALLED",
+      "template": "They ___ the concert.",
+      "solutions": [
+        "called off"
+      ]
+    },
+    {
+      "id": "b1-tr-293",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "First conditional: if + present simple.",
+      "original": "Perhaps it will rain tomorrow, and then we'll stay at home.",
+      "keyword": "IF",
+      "template": "We will stay at home ___ tomorrow.",
+      "solutions": [
+        "if it rains"
+      ]
+    },
+    {
+      "id": "b1-tr-294",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Whose\" shows possession.",
+      "original": "Paul has a sister. Her husband is a pilot.",
+      "keyword": "WHOSE",
+      "template": "Paul has a sister ___ a pilot.",
+      "solutions": [
+        "whose husband is"
+      ]
+    },
+    {
+      "id": "b1-tr-295",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Active becomes passive: object + was/were + past participle.",
+      "original": "They built this house in 1950.",
+      "keyword": "BUILT",
+      "template": "This house ___ in 1950.",
+      "solutions": [
+        "was built"
+      ]
+    },
+    {
+      "id": "b1-tr-296",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Otherwise\" means \"if not\".",
+      "original": "Take a coat, or you'll be cold.",
+      "keyword": "OTHERWISE",
+      "template": "Take a coat, ___ cold.",
+      "solutions": [
+        "otherwise you'll be"
+      ]
+    },
+    {
+      "id": "b1-tr-297",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Few\" is used with plural countable nouns.",
+      "original": "There are not many people in the cinema.",
+      "keyword": "FEW",
+      "template": "There are ___ people in the cinema.",
+      "solutions": [
+        "very few",
+        "only a few",
+        "few"
+      ]
+    },
+    {
+      "id": "b1-tr-298",
+      "type": "transform",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Present perfect negative with \"for\".",
+      "original": "It's a long time since I played tennis.",
+      "keyword": "PLAYED",
+      "template": "I ___ a long time.",
+      "solutions": [
+        "haven't played tennis for"
+      ]
+    },
+    {
+      "id": "b1-tr-299",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Neither\" is used with a negative meaning for two people.",
+      "original": "Mark is not at home and Tom is not at home either.",
+      "keyword": "NEITHER",
+      "template": "___ at home.",
+      "solutions": [
+        "Neither Mark nor Tom is",
+        "Neither of them is"
+      ]
+    },
+    {
+      "id": "b1-tr-300",
+      "type": "transform",
+      "level": "B1",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Everyone\" with a positive meaning.",
+      "original": "Nobody in the class spoke.",
+      "keyword": "EVERYONE",
+      "template": "___ silent.",
+      "solutions": [
+        "Everyone was"
+      ]
+    },
+    {
+      "id": "b1-tr-301",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Both\" is used for two people.",
+      "original": "Maria and Ana both like music.",
+      "keyword": "BOTH",
+      "template": "___ music.",
+      "solutions": [
+        "Both Maria and Ana like"
+      ]
+    },
+    {
+      "id": "b1-tr-302",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Set up\" means to establish.",
+      "original": "He started a new company last year.",
+      "keyword": "SET",
+      "template": "He ___ a new company last year.",
+      "solutions": [
+        "set up"
+      ]
+    },
+    {
+      "id": "b1-tr-303",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Begin\" is a synonym of \"start\".",
+      "original": "The meeting started at nine.",
+      "keyword": "BEGAN",
+      "template": "The meeting ___ o'clock.",
+      "solutions": [
+        "began at nine"
+      ]
+    },
+    {
+      "id": "b1-tr-304",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"By\" shows a deadline.",
+      "original": "I'll finish my homework before nine o'clock.",
+      "keyword": "BY",
+      "template": "I'll finish my homework ___ nine o'clock.",
+      "solutions": [
+        "by"
+      ]
+    },
+    {
+      "id": "b1-tr-305",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Such a\" + adjective + noun.",
+      "original": "It was a very cold day, so we stayed indoors.",
+      "keyword": "SUCH",
+      "template": "It was ___ we stayed indoors.",
+      "solutions": [
+        "such a cold day that"
+      ]
+    },
+    {
+      "id": "b1-tr-306",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The superlative expresses the highest degree.",
+      "original": "She has never met a kinder person.",
+      "keyword": "KINDEST",
+      "template": "She is the ___ she has ever met.",
+      "solutions": [
+        "kindest person"
+      ]
+    },
+    {
+      "id": "b1-tr-307",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Few\" is used with plural countable nouns.",
+      "original": "There aren't many people in the cinema.",
+      "keyword": "FEW",
+      "template": "There are ___ people in the cinema.",
+      "solutions": [
+        "very few",
+        "only a few",
+        "few"
+      ]
+    },
+    {
+      "id": "b1-tr-308",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Suggest\" is followed by a gerund.",
+      "original": "\"Let's go to the beach,\" said Mark.",
+      "keyword": "SUGGESTED",
+      "template": "Mark ___ to the beach.",
+      "solutions": [
+        "suggested going"
+      ]
+    },
+    {
+      "id": "b1-tr-309",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Because of\" + noun.",
+      "original": "We didn't go out because it was raining.",
+      "keyword": "OF",
+      "template": "We didn't go out ___ the rain.",
+      "solutions": [
+        "because of"
+      ]
+    },
+    {
+      "id": "b1-tr-310",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The noun for the person.",
+      "original": "She works in a school and teaches children.",
+      "keyword": "TEACHER",
+      "template": "She ___ in a school.",
+      "solutions": [
+        "is a teacher"
+      ]
+    },
+    {
+      "id": "b1-tr-311",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Third conditional: would have + past participle, if + past perfect.",
+      "original": "We didn't go to the beach because it was cold.",
+      "keyword": "IF",
+      "template": "We would have gone to the beach ___ cold.",
+      "solutions": [
+        "if it hadn't been"
+      ]
+    },
+    {
+      "id": "b1-tr-312",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The present continuous passive.",
+      "original": "They are building a new school.",
+      "keyword": "BEING",
+      "template": "A new school ___.",
+      "solutions": [
+        "is being built"
+      ]
+    },
+    {
+      "id": "b1-tr-313",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A present regret uses \"wish + past\".",
+      "original": "It's a pity she isn't here.",
+      "keyword": "WISH",
+      "template": "I ___ here.",
+      "solutions": [
+        "wish she were",
+        "wish she was"
+      ]
+    },
+    {
+      "id": "b1-tr-314",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A present regret uses \"wish + past simple\".",
+      "original": "It's a pity he doesn't live nearby.",
+      "keyword": "WISH",
+      "template": "I ___ nearby.",
+      "solutions": [
+        "wish he lived"
+      ]
+    },
+    {
+      "id": "b1-tr-315",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Scared of\" is followed by a gerund.",
+      "original": "I think she is afraid of flying.",
+      "keyword": "SCARED",
+      "template": "She is ___ flying.",
+      "solutions": [
+        "scared of"
+      ]
+    },
+    {
+      "id": "b1-tr-316",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Must not\" expresses a prohibition.",
+      "original": "Smoking is not allowed here.",
+      "keyword": "MUST",
+      "template": "You ___ here.",
+      "solutions": [
+        "must not smoke",
+        "mustn't smoke"
+      ]
+    },
+    {
+      "id": "b1-tr-317",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Both of the\" is followed by a plural noun.",
+      "original": "She likes both pictures.",
+      "keyword": "OF",
+      "template": "She likes ___ pictures.",
+      "solutions": [
+        "both of the"
+      ]
+    },
+    {
+      "id": "b1-tr-318",
+      "type": "transform",
+      "level": "B1",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The present perfect continuous links past and present.",
+      "original": "I began the book last week and I am still reading it.",
+      "keyword": "READING",
+      "template": "I ___ the book since last week.",
+      "solutions": [
+        "have been reading"
+      ]
+    },
+    {
+      "id": "b1-tr-319",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Such a\" + adjective + noun.",
+      "original": "The test was so easy that everyone passed.",
+      "keyword": "SUCH",
+      "template": "It was ___ everyone passed.",
+      "solutions": [
+        "such an easy test that"
+      ]
+    },
+    {
+      "id": "b1-tr-320",
+      "type": "transform",
+      "level": "B1",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The comparative adverb uses \"more\".",
+      "original": "He doesn't drive as carefully as his wife.",
+      "keyword": "MORE",
+      "template": "His wife drives ___ he does.",
+      "solutions": [
+        "more carefully than"
+      ]
+    },
+    {
+      "id": "b1-tr-321",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Future passive: will be + past participle.",
+      "original": "The police will question him tomorrow.",
+      "keyword": "BE",
+      "template": "He ___ questioned by the police tomorrow.",
+      "solutions": [
+        "will be"
+      ]
+    },
+    {
+      "id": "b1-tr-322",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Give\" with the person as the indirect object.",
+      "original": "I didn't get any advice from my teacher.",
+      "keyword": "GIVE",
+      "template": "My teacher ___ any advice.",
+      "solutions": [
+        "didn't give me"
+      ]
+    },
+    {
+      "id": "b1-tr-323",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Another\" means one more.",
+      "original": "I want one more cup of tea.",
+      "keyword": "ANOTHER",
+      "template": "I want ___ tea.",
+      "solutions": [
+        "another cup of"
+      ]
+    },
+    {
+      "id": "b1-tr-324",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Present passive: is + past participle.",
+      "original": "We use this room for meetings.",
+      "keyword": "USED",
+      "template": "This room ___ for meetings.",
+      "solutions": [
+        "is used"
+      ]
+    },
+    {
+      "id": "b1-tr-325",
+      "type": "transform",
+      "level": "B1",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Find out\" means to discover.",
+      "original": "I'm trying to find the answer.",
+      "keyword": "OUT",
+      "template": "I'm trying to ___ the answer.",
+      "solutions": [
+        "find out",
+        "work out"
+      ]
+    },
+    {
+      "id": "b1-tr-326",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Would rather ... than\".",
+      "original": "I prefer swimming to cycling.",
+      "keyword": "RATHER",
+      "template": "I would ___ cycling.",
+      "solutions": [
+        "rather swim than"
+      ]
+    },
+    {
+      "id": "b1-tr-327",
+      "type": "transform",
+      "level": "B1",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The adverb describes the verb.",
+      "original": "He is not a careful driver.",
+      "keyword": "CARELESSLY",
+      "template": "He ___.",
+      "solutions": [
+        "drives carelessly"
+      ]
+    },
+    {
+      "id": "b1-tr-328",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Shouldn't have\" criticises a past action.",
+      "original": "It was a mistake to leave so early.",
+      "keyword": "SHOULDN'T",
+      "template": "We ___ so early.",
+      "solutions": [
+        "shouldn't have left"
+      ]
+    },
+    {
+      "id": "b1-tr-329",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "Present perfect passive: has/have been + past participle.",
+      "original": "Someone has stolen my wallet.",
+      "keyword": "BEEN",
+      "template": "My wallet ___ stolen.",
+      "solutions": [
+        "has been"
+      ]
+    },
+    {
+      "id": "b1-tr-330",
+      "type": "transform",
+      "level": "B1",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"The only\" is a fixed combination.",
+      "original": "Tom has no brothers or sisters.",
+      "keyword": "ONLY",
+      "template": "Tom is ___ in his family.",
+      "solutions": [
+        "the only child"
+      ]
+    },
+    {
+      "id": "b1-tr-331",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "The past passive.",
+      "original": "Someone cleaned the room yesterday.",
+      "keyword": "CLEANED",
+      "template": "The room ___ yesterday.",
+      "solutions": [
+        "was cleaned"
+      ]
+    },
+    {
+      "id": "b1-tr-332",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Apologise for\" is followed by a gerund.",
+      "original": "\"I'm sorry I'm late,\" said Paula.",
+      "keyword": "APOLOGISED",
+      "template": "Paula ___ late.",
+      "solutions": [
+        "apologised for being"
+      ]
+    },
+    {
+      "id": "b1-tr-333",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A polite request becomes \"asked someone to + verb\".",
+      "original": "\"Please sit down,\" the nurse said to me.",
+      "keyword": "ASKED",
+      "template": "The nurse ___ down.",
+      "solutions": [
+        "asked me to sit"
+      ]
+    },
+    {
+      "id": "b1-tr-334",
+      "type": "transform",
+      "level": "B1",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Prefer X to Y\".",
+      "original": "I like football more than tennis.",
+      "keyword": "PREFER",
+      "template": "I ___ tennis.",
+      "solutions": [
+        "prefer football to"
+      ]
+    },
+    {
+      "id": "b1-tr-335",
+      "type": "transform",
+      "level": "B1",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"Can't be\" expresses a negative deduction.",
+      "original": "I'm sure he isn't at home.",
+      "keyword": "CAN'T",
+      "template": "He ___ at home.",
+      "solutions": [
+        "can't be"
+      ]
+    },
+    {
+      "id": "b1-tr-336",
+      "type": "transform",
+      "level": "B1",
+      "topic": "conditionals",
+      "topics": [
+        "conditionals-wishes"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "\"If it hadn't been for\" means \"without\".",
+      "original": "Without your help, I couldn't have finished.",
+      "keyword": "FOR",
+      "template": "If it ___ your help, I couldn't have finished.",
+      "solutions": [
+        "hadn't been for"
+      ]
+    },
+    {
+      "id": "b1-tr-337",
+      "type": "transform",
+      "level": "B1",
+      "topic": "passive",
+      "topics": [
+        "passive-reported-speech"
+      ],
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given.",
+      "explanation": "A reported question uses \"if\" and moves \"can\" to \"could\".",
+      "original": "\"Can you help me?\" she asked him.",
+      "keyword": "IF",
+      "template": "She asked him ___ help her.",
+      "solutions": [
+        "if he could"
+      ]
     }
   ]
 }
