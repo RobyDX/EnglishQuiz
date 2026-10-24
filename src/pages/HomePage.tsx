@@ -1,16 +1,33 @@
-import { useRef, useState, type KeyboardEvent } from 'react';
+import { useEffect, useRef, useState, type KeyboardEvent } from 'react';
 import { Button, Card, Col, Row } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
+import { loadLevel } from '../data';
+import { countByTopic, filterByTopics } from '../engine/topics';
 import { loadPlacement, loadPrefs, savePrefs } from '../hooks/store';
-import { LEVEL_INFO, QUESTION_COUNTS, type QuestionCount } from '../levels';
-import { LEVELS, type Level } from '../types';
+import { LEVEL_INFO, QUESTION_COUNTS, TOPIC_LABELS, type QuestionCount } from '../levels';
+import { LEVELS, TOPICS, type Level, type Question, type Topic } from '../types';
 
 export default function HomePage() {
   const navigate = useNavigate();
   const prefs = loadPrefs();
   const placement = loadPlacement();
   const [level, setLevel] = useState<Level | undefined>(prefs.lastLevel);
+  const [topics, setTopics] = useState<Topic[]>(prefs.topics ?? []);
+  // All questions of the chosen level, loaded once per level (undefined while loading).
+  const [pool, setPool] = useState<Question[]>();
   const cards = useRef<(HTMLDivElement | null)[]>([]);
+
+  useEffect(() => {
+    if (!level) return;
+    let cancelled = false;
+    setPool(undefined);
+    loadLevel(level)
+      .then((questions) => !cancelled && setPool(questions))
+      .catch(() => !cancelled && setPool([]));
+    return () => {
+      cancelled = true;
+    };
+  }, [level]);
 
   // Radio group keyboard pattern: arrows move and select, Home/End go to the first/last level.
   const onLevelKey = (e: KeyboardEvent, i: number) => {
@@ -35,10 +52,22 @@ export default function HomePage() {
   // Only one level is in the Tab order: the selected one, or the first if none is selected.
   const tabbable = level ?? LEVELS[0];
 
+  const counts = pool ? countByTopic(pool) : undefined;
+  // Topics with no questions at this level are ignored, even if they were saved earlier.
+  const activeTopics = topics.filter((t) => !counts || counts[t] > 0);
+  const matched = pool ? filterByTopics(pool, activeTopics).length : undefined;
+
+  const saveTopics = (next: Topic[]) => {
+    setTopics(next);
+    savePrefs({ ...loadPrefs(), topics: next });
+  };
+  const toggleTopic = (t: Topic) => saveTopics(topics.includes(t) ? topics.filter((x) => x !== t) : [...topics, t]);
+
   const start = (n: QuestionCount) => {
     if (!level) return;
-    savePrefs({ lastLevel: level, questionCount: n });
-    navigate(`/quiz/${level}?n=${n}`);
+    savePrefs({ lastLevel: level, questionCount: n, topics: activeTopics });
+    const topicParam = activeTopics.length ? `&topics=${activeTopics.join(',')}` : '';
+    navigate(`/quiz/${level}?n=${n}${topicParam}`);
   };
 
   return (
@@ -74,12 +103,50 @@ export default function HomePage() {
 
       {level && (
         <>
+          <div className="d-flex justify-content-between align-items-baseline">
+            <h2 className="h5">Topics</h2>
+            {topics.length > 0 && (
+              <Button variant="link" size="sm" className="p-0" onClick={() => saveTopics([])}>
+                All topics
+              </Button>
+            )}
+          </div>
+          <p className="text-secondary small">Pick one or more topics, or none to practise all of them.</p>
+          <div className="d-flex flex-wrap gap-2 mb-2" role="group" aria-label="Topics">
+            {TOPICS.map((t) => {
+              const selected = activeTopics.includes(t);
+              const count = counts?.[t];
+              return (
+                <Button
+                  key={t}
+                  size="sm"
+                  variant={selected ? 'primary' : 'outline-primary'}
+                  aria-pressed={selected}
+                  disabled={count === 0}
+                  onClick={() => toggleTopic(t)}
+                >
+                  {TOPIC_LABELS[t]}
+                  {count !== undefined && <span className="opacity-75"> ({count})</span>}
+                </Button>
+              );
+            })}
+          </div>
+          <p className="text-secondary small mb-4" aria-live="polite">
+            {matched === undefined ? 'Loading questions…' : `${matched} questions match your selection`}
+          </p>
+
           <h2 className="h5">Start a quiz</h2>
           <p className="text-secondary">Tap the number of questions to begin.</p>
           <Row xs={2} md={4} className="g-3 mb-4" role="group" aria-label="Number of questions">
             {QUESTION_COUNTS.map((n) => (
               <Col key={n}>
-                <Button variant="outline-primary" className="w-100 py-3" onClick={() => start(n)} aria-label={`Start with ${n} questions`}>
+                <Button
+                  variant="outline-primary"
+                  className="w-100 py-3"
+                  onClick={() => start(n)}
+                  disabled={matched === 0}
+                  aria-label={`Start with ${n} questions`}
+                >
                   <span className="d-block display-6 fw-bold lh-1">{n}</span>
                   <small>questions</small>
                 </Button>

@@ -6,7 +6,7 @@ import ScoreCard from '../components/ScoreCard';
 import { bandOf } from '../engine/score';
 import { useQuizSession } from '../hooks/useQuizSession';
 import { LEVEL_INFO, QUESTION_COUNTS } from '../levels';
-import { LEVELS, type Level } from '../types';
+import { LEVELS, TOPICS, type Level, type Topic } from '../types';
 
 export default function QuizPage() {
   const { level } = useParams();
@@ -18,7 +18,8 @@ function Quiz({ level }: { level: Level }) {
   const navigate = useNavigate();
   const [params] = useSearchParams();
   const count = (QUESTION_COUNTS as readonly number[]).includes(Number(params.get('n'))) ? Number(params.get('n')) : 10;
-  const { session, error, setAnswer, submit, toggleSolutions, retry, newQuiz, unanswered } = useQuizSession(level, count);
+  const topics = (params.get('topics') ?? '').split(',').filter((t): t is Topic => TOPICS.includes(t as Topic));
+  const { session, error, setAnswer, submit, toggleSolutions, retry, newQuiz, unanswered } = useQuizSession(level, count, topics);
   const [confirm, setConfirm] = useState(false);
   // Text read by screen readers: the page's only role="status" region, always mounted.
   const [announcement, setAnnouncement] = useState('');
