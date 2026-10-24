@@ -169,7 +169,7 @@ Una volta passata alla domanda dopo, **la risposta è definitiva**. Sull'ultima 
 
 **Argomenti deboli.** Gli argomenti (`topic`) con almeno 2 errori (saltate incluse), in ordine decrescente, al massimo 5.
 
-**Non fa parte della cronologia** dei quiz (`eq.history`): ha una chiave propria.
+**Non fa parte della cronologia** dei quiz (`eq.history`): ha chiavi proprie (`eq.placement` = ultimo risultato, `eq.placementHistory` = storico dei test, mostrato sotto la descrizione nella pagina `#/test`).
 
 ## 10. Fuori scope (per ora)
 Account utente, sincronizzazione cloud, audio/listening, generazione di domande via AI, classifiche.

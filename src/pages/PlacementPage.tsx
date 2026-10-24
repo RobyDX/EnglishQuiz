@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { Alert, Badge, Button, Card, ProgressBar, Spinner } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
+import PlacementHistorySection from '../components/PlacementHistorySection';
 import QuestionCard from '../components/QuestionCard';
 import { loadLevel } from '../data';
 import { gradeQuestion, isAnswered } from '../engine/rules';
@@ -43,6 +44,8 @@ const emptyTest = (): TestState => ({ asked: [], resolved: {}, draft: undefined 
 export default function PlacementPage() {
   const navigate = useNavigate();
   const [phase, setPhase] = useState<Phase>('intro');
+  // Bumped when the test history is cleared, to redraw the current level.
+  const [, setCleared] = useState(0);
   const [test, setTest] = useState<TestState>(emptyTest);
   // The question being looked at: the one in progress, or an earlier one (read-only).
   const [view, setView] = useState(0);
@@ -230,6 +233,7 @@ export default function PlacementPage() {
             Home
           </Button>
         </div>
+        <PlacementHistorySection onClear={() => setCleared((n) => n + 1)} />
       </>
     );
   } else if (phase === 'running' && test.asked.length > 0) {

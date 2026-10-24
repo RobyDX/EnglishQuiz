@@ -67,7 +67,27 @@ export function addSeen(level: Level, ids: string[]) {
 /** The last placement test, or undefined if there is none (or the saved data is not valid). */
 export function loadPlacement(): PlacementSaved | undefined {
   const p = read<Partial<PlacementSaved> | null>('eq.placement', null);
-  if (!p || !p.date || !p.level || !LEVELS.includes(p.level) || !p.perLevel) return undefined;
-  return p as PlacementSaved;
+  return validPlacement(p) ? p : undefined;
 }
-export const savePlacement = (p: PlacementSaved) => write('eq.placement', p);
+const validPlacement = (p: Partial<PlacementSaved> | null | undefined): p is PlacementSaved =>
+  !!p && !!p.date && !!p.level && LEVELS.includes(p.level) && !!p.perLevel;
+
+/** Saves the result as the current level and adds it to the history of the tests (most recent first). */
+export function savePlacement(p: PlacementSaved) {
+  write('eq.placement', p);
+  write('eq.placementHistory', [p, ...loadPlacementHistory().filter((e) => e.date !== p.date)].slice(0, HISTORY_MAX));
+}
+/** All the saved level tests, most recent first; the last result of older versions (no history yet) is included. */
+export function loadPlacementHistory(): PlacementSaved[] {
+  const list = read<Partial<PlacementSaved>[]>('eq.placementHistory', []).filter(validPlacement);
+  const last = loadPlacement();
+  return last && !list.some((e) => e.date === last.date) ? [last, ...list] : list;
+}
+export function clearPlacementHistory() {
+  write('eq.placementHistory', []);
+  try {
+    localStorage.removeItem('eq.placement');
+  } catch {
+    /* ignore */
+  }
+}
