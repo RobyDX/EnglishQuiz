@@ -3,8 +3,9 @@ import { loadLevel } from '../data';
 import { buildQuiz } from '../engine/buildQuiz';
 import { gradeQuiz } from '../engine/gradeQuiz';
 import { isAnswered } from '../engine/rules';
+import { filterByTopics } from '../engine/topics';
 import { addHistory, addSeen, loadSeen } from './store';
-import type { Answers, Level, Question, QuizResult } from '../types';
+import type { Answers, Level, Question, QuizResult, Topic } from '../types';
 
 interface Session {
   questions: Question[];
@@ -13,7 +14,7 @@ interface Session {
   showSolutions: boolean;
 }
 
-export function useQuizSession(level: Level, count: number) {
+export function useQuizSession(level: Level, count: number, topics: readonly Topic[] = []) {
   const [session, setSession] = useState<Session | null>(null);
   const [error, setError] = useState<string>();
   const [round, setRound] = useState(0);
@@ -22,6 +23,7 @@ export function useQuizSession(level: Level, count: number) {
   const sessionRef = useRef<Session | null>(null);
   sessionRef.current = session;
 
+  const topicKey = topics.join(',');
   useEffect(() => {
     let cancelled = false;
     setSession(null);
@@ -29,9 +31,9 @@ export function useQuizSession(level: Level, count: number) {
     loadLevel(level)
       .then((pool) => {
         if (cancelled) return;
-        const questions = buildQuiz(pool, count, loadSeen(level));
+        const questions = buildQuiz(filterByTopics(pool, topicKey ? (topicKey.split(',') as Topic[]) : undefined), count, loadSeen(level));
         if (questions.length === 0) {
-          setError('No questions are available for this level yet.');
+          setError('No questions are available for this selection.');
           return;
         }
         addSeen(level, questions.map((q) => q.id));
@@ -41,7 +43,7 @@ export function useQuizSession(level: Level, count: number) {
     return () => {
       cancelled = true;
     };
-  }, [level, count, round]);
+  }, [level, count, topicKey, round]);
 
   const setAnswer = useCallback((id: string, value: unknown) => {
     setSession((s) => (s && !s.result ? { ...s, answers: { ...s.answers, [id]: value } } : s));

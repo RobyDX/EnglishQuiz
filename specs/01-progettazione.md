@@ -21,6 +21,7 @@ Web app **SPA + PWA**, interamente **front-end** (nessun backend), per esercitar
 | F8 | Si può inviare anche con domande senza risposta: contano come errate (con avviso di conferma se ne mancano). |
 | F9 | Cronologia locale degli ultimi 50 risultati (livello, data, punteggio) e ultimo livello scelto, salvati **solo** in `localStorage` del browser (nessun server, nessuna sincronizzazione). Ogni quiz inviato viene registrato **una sola volta** (anche con doppio clic o in StrictMode). Il quiz in corso non viene salvato. |
 | F10 | Numero di domande selezionabile (5 / 10 / 20 / 40) nella schermata di avvio: la scelta è una tile che avvia subito il quiz. |
+| F15 | **Filtro per argomento** nella schermata di avvio: dopo il livello, una o più tile (le 15 categorie di `02`) limitano le domande del quiz; nessuna selezione = tutti gli argomenti. |
 | F11 | **Feedback sugli errori.** Per ogni risposta errata (o vuota) l'app mostra: la risposta data dall'utente, la risposta corretta, **perché è sbagliata** (*Why it's wrong*) e **la regola** (*Rule*), tutto in inglese. Il feedback compare subito dopo "Check answers", senza dover premere "Show correct answers". Ogni risposta sbagliata ha una spiegazione **propria** (non riusata tra opzioni diverse). Vedi `04-ui-ux.md` e `07-contenuti.md`. |
 | F12 | **Barra livello/progresso sempre visibile** durante il quiz (livello, "n / totale answered") sotto la navbar, con a destra un pulsante **"↓ End"** che scorre fino alla fine della pagina. |
 | F14 | **Test di livello adattivo** (`#/placement`): 40 domande **di ogni tipologia**, **una alla volta e in sequenza** (non si può saltare avanti). Si parte dalle domande facili (A1): **risposta giusta ⇒ la domanda dopo è più difficile; risposta sbagliata o domanda saltata ⇒ più facile**. Una domanda che non si sa si può **saltare** ("Skip"); le 40 tile numerate in cima permettono solo di **rivedere le domande già fatte** (sola lettura, le risposte non si cambiano) e quelle non ancora raggiunte sono disattivate. Nessun feedback durante il test. Alla fine l'app mostra il **livello stimato**, il punteggio per livello e gli argomenti più deboli, con il pulsante per esercitarsi su quel livello. Limite di **40 minuti** (timer visibile). Il risultato è salvato in `localStorage` (`eq.placement`). Vedi §11. |
@@ -83,7 +84,7 @@ Regole:
 ## 5. Architettura
 
 ```
-HomePage ──(livello, n° domande)──▶ QuizPage
+HomePage ──(livello, argomenti, n° domande)──▶ QuizPage
                                       │ useQuizSession
                                       ▼
                           engine/buildQuiz(level, n)

@@ -1,4 +1,4 @@
-import { LEVELS, type HistoryEntry, type Level, type PlacementSaved } from '../types';
+import { LEVELS, TOPICS, type HistoryEntry, type Level, type PlacementSaved, type Topic } from '../types';
 import type { QuestionCount } from '../levels';
 
 // localStorage access is always wrapped: it may be unavailable (private mode, blocked data).
@@ -22,12 +22,17 @@ function write(key: string, value: unknown) {
 export interface Prefs {
   lastLevel?: Level;
   questionCount: QuestionCount;
+  /** Selected topics; empty or missing = all topics. */
+  topics?: Topic[];
 }
 
 const HISTORY_MAX = 50;
 const SEEN_MAX = 100;
 
-export const loadPrefs = (): Prefs => ({ questionCount: 10, ...read<Partial<Prefs>>('eq.prefs', {}) });
+export const loadPrefs = (): Prefs => {
+  const saved = read<Partial<Prefs>>('eq.prefs', {});
+  return { questionCount: 10, ...saved, topics: (saved.topics ?? []).filter((t): t is Topic => TOPICS.includes(t)) };
+};
 export const savePrefs = (p: Prefs) => write('eq.prefs', p);
 
 /**
