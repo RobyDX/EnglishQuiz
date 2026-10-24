@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it } from 'vitest';
-import { cleanup, render, screen } from '@testing-library/react';
+import { act, cleanup, render, screen } from '@testing-library/react';
 import { MemoryRouter } from 'react-router-dom';
 import HomePage from './HomePage';
 
@@ -29,5 +29,27 @@ describe('HomePage', () => {
       expect(screen.getByRole('heading', { level: 2, name })).toBeInTheDocument();
     }
     expect(screen.getByText(/find out your CEFR level/)).toBeInTheDocument();
+  });
+});
+
+describe('HomePage install button', () => {
+  it('shows an Install app button only when the browser offers the installation', () => {
+    const { unmount } = render(
+      <MemoryRouter>
+        <HomePage />
+      </MemoryRouter>,
+    );
+    expect(screen.queryByRole('button', { name: 'Install app' })).not.toBeInTheDocument();
+    unmount();
+    const e = Object.assign(new Event('beforeinstallprompt', { cancelable: true }), { prompt: () => Promise.resolve() });
+    act(() => {
+      window.dispatchEvent(e);
+    });
+    render(
+      <MemoryRouter>
+        <HomePage />
+      </MemoryRouter>,
+    );
+    expect(screen.getByRole('button', { name: 'Install app' })).toBeInTheDocument();
   });
 });

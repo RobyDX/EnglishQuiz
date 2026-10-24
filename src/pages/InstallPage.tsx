@@ -5,8 +5,6 @@ import { useInstall } from '../hooks/useInstall';
 interface Platform {
   id: string;
   title: string;
-  image: string;
-  alt: string;
   steps: string[];
 }
 
@@ -14,46 +12,22 @@ const PLATFORMS: Platform[] = [
   {
     id: 'pc',
     title: 'Windows and Linux (Chrome, Edge)',
-    image: 'install/pc.svg',
-    alt: 'Illustration of a browser window with the install icon at the right end of the address bar and an Install confirmation box.',
-    steps: [
-      'Open English Quiz in Chrome or Edge.',
-      'Click the install icon at the right end of the address bar (a small screen with a down arrow). If you do not see it, open the browser menu (⋮ or …) and choose “Install English Quiz” or “Apps → Install this site as an app”.',
-      'Click Install. The app opens in its own window and appears in the Start menu or app list.',
-    ],
+    steps: ['Click the install icon at the right end of the address bar, or open the browser menu and choose “Install English Quiz”.', 'Click Install.'],
   },
   {
     id: 'mac',
     title: 'Mac (Chrome, Edge, Safari)',
-    image: 'install/mac.svg',
-    alt: 'Illustration of a browser window on a Mac, with the install icon in the address bar and the File menu with the Add to Dock option.',
-    steps: [
-      'In Chrome or Edge: click the install icon in the address bar, then click Install. The app is added to your Applications folder and Launchpad.',
-      'In Safari 17 or later: open the File menu and choose “Add to Dock…”, then click Add.',
-      'Open the app from the Dock, Launchpad or Spotlight like any other Mac app.',
-    ],
+    steps: ['Chrome or Edge: click the install icon in the address bar, then Install.', 'Safari: open the File menu, choose “Add to Dock…”, then Add.'],
   },
   {
     id: 'android',
     title: 'Android (Chrome)',
-    image: 'install/android.svg',
-    alt: 'Illustration of a phone with the browser menu open and the Install app option highlighted, then the Install confirmation.',
-    steps: [
-      'Open English Quiz in Chrome.',
-      'Tap the menu (⋮) at the top right and choose “Install app” (or “Add to Home screen”).',
-      'Tap Install. The English Quiz icon appears on your home screen and in the app drawer.',
-    ],
+    steps: ['Tap the menu (⋮) and choose “Install app”.', 'Tap Install.'],
   },
   {
     id: 'ios',
     title: 'iPhone and iPad (Safari)',
-    image: 'install/ios.svg',
-    alt: 'Illustration of a phone with the Share button at the bottom and the Add to Home Screen option highlighted.',
-    steps: [
-      'Open English Quiz in Safari. Other iOS browsers can also do it from their Share menu.',
-      'Tap the Share button (a square with an arrow pointing up).',
-      'Scroll down and tap “Add to Home Screen”, then tap Add. The icon appears on your home screen.',
-    ],
+    steps: ['Tap the Share button.', 'Tap “Add to Home Screen”, then Add.'],
   },
 ];
 
@@ -93,12 +67,11 @@ export default function InstallPage() {
       </ul>
 
       <h2 className="h5 mt-4">How to install it</h2>
-      <p className="text-secondary">Choose your device. The pictures are simplified illustrations: the exact look of the menus depends on your browser version.</p>
-      <Row xs={1} className="g-4 mb-4">
+      <p className="text-secondary">Choose your device. The exact wording of the menus depends on your browser version.</p>
+      <Row xs={1} md={2} className="g-3 mb-4">
         {PLATFORMS.map((p) => (
           <Col key={p.id}>
             <Card as="section" aria-labelledby={`install-${p.id}`}>
-              <Card.Img variant="top" src={p.image} alt={p.alt} loading="lazy" />
               <Card.Body>
                 <Card.Title as="h3" id={`install-${p.id}`} className="h6">
                   {p.title}

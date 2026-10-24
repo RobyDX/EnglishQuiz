@@ -40,12 +40,12 @@ describe('Layout', () => {
     expect(screen.getByRole('heading', { name: /What is a PWA installation/ })).toBeInTheDocument();
   });
 
-  it('the Install page has instructions and an image for PC, Mac, Android and iOS', () => {
+  it('the Install page has short instructions for PC, Mac, Android and iOS', () => {
     renderAt('/install');
     for (const name of [/Windows and Linux/, /^Mac/, /Android/, /iPhone and iPad/]) {
       const section = screen.getByRole('region', { name });
-      expect(within(section).getByRole('img')).toHaveAttribute('alt');
-      expect(within(section).getAllByRole('listitem').length).toBeGreaterThanOrEqual(3);
+      expect(within(section).queryByRole('img')).toBeNull();
+      expect(within(section).getAllByRole('listitem').length).toBeGreaterThanOrEqual(2);
     }
   });
 });
