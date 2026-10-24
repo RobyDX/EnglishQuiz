@@ -2834,6 +2834,4183 @@
       ],
       "wrongIndex": 3,
       "fix": "eat"
+    },
+    {
+      "id": "a2-es-136",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"take a shower\" or \"have a shower\".",
+      "tokens": [
+        "She",
+        "made",
+        "a",
+        "shower",
+        "before",
+        "breakfast"
+      ],
+      "wrongIndex": 1,
+      "fix": "took"
+    },
+    {
+      "id": "a2-es-137",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"tell someone the time\".",
+      "tokens": [
+        "Can",
+        "you",
+        "say",
+        "me",
+        "the",
+        "time,",
+        "please"
+      ],
+      "wrongIndex": 2,
+      "fix": "tell"
+    },
+    {
+      "id": "a2-es-138",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"He\" needs \"doesn't\".",
+      "tokens": [
+        "He",
+        "don't",
+        "like",
+        "fish"
+      ],
+      "wrongIndex": 1,
+      "fix": "doesn't"
+    },
+    {
+      "id": "a2-es-139",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Elephant\" begins with a vowel sound.",
+      "tokens": [
+        "I",
+        "saw",
+        "a",
+        "elephant"
+      ],
+      "wrongIndex": 2,
+      "fix": "an"
+    },
+    {
+      "id": "a2-es-140",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Since\" needs the present perfect.",
+      "tokens": [
+        "She",
+        "lives",
+        "here",
+        "since",
+        "2015"
+      ],
+      "wrongIndex": 1,
+      "fix": "has lived"
+    },
+    {
+      "id": "a2-es-141",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "He took the pen from me, so he \"borrowed\" it.",
+      "tokens": [
+        "He",
+        "lent",
+        "my",
+        "pen",
+        "yesterday"
+      ],
+      "wrongIndex": 1,
+      "fix": "borrowed"
+    },
+    {
+      "id": "a2-es-142",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"make a mistake\".",
+      "tokens": [
+        "He",
+        "did",
+        "a",
+        "lot",
+        "of",
+        "mistakes"
+      ],
+      "wrongIndex": 1,
+      "fix": "made"
+    },
+    {
+      "id": "a2-es-143",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"look at\".",
+      "tokens": [
+        "Please",
+        "look",
+        "up",
+        "the",
+        "stars"
+      ],
+      "wrongIndex": 2,
+      "fix": "at"
+    },
+    {
+      "id": "a2-es-144",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A subject pronoun is needed.",
+      "tokens": [
+        "Tom",
+        "and",
+        "me",
+        "are",
+        "friends"
+      ],
+      "wrongIndex": 2,
+      "fix": "I"
+    },
+    {
+      "id": "a2-es-145",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"To\" shows direction.",
+      "tokens": [
+        "We",
+        "went",
+        "at",
+        "the",
+        "cinema",
+        "yesterday"
+      ],
+      "wrongIndex": 2,
+      "fix": "to"
+    },
+    {
+      "id": "a2-es-146",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Bored\" describes how a person feels.",
+      "tokens": [
+        "I",
+        "am",
+        "very",
+        "boring",
+        "because",
+        "the",
+        "lesson",
+        "is",
+        "long"
+      ],
+      "wrongIndex": 3,
+      "fix": "bored"
+    },
+    {
+      "id": "a2-es-147",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"by\" with transport.",
+      "tokens": [
+        "We",
+        "go",
+        "to",
+        "school",
+        "with",
+        "bus"
+      ],
+      "wrongIndex": 4,
+      "fix": "by"
+    },
+    {
+      "id": "a2-es-148",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"He\" takes \"has\".",
+      "tokens": [
+        "He",
+        "have",
+        "a",
+        "new",
+        "bike"
+      ],
+      "wrongIndex": 1,
+      "fix": "has"
+    },
+    {
+      "id": "a2-es-149",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Tell\" needs a person as an object.",
+      "tokens": [
+        "I",
+        "said",
+        "him",
+        "that",
+        "I",
+        "was",
+        "tired"
+      ],
+      "wrongIndex": 1,
+      "fix": "told"
+    },
+    {
+      "id": "a2-es-150",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"tell a story\".",
+      "tokens": [
+        "He",
+        "said",
+        "me",
+        "a",
+        "funny",
+        "story"
+      ],
+      "wrongIndex": 1,
+      "fix": "told"
+    },
+    {
+      "id": "a2-es-151",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Could\" is followed by the base form without \"to\".",
+      "tokens": [
+        "Could",
+        "you",
+        "to",
+        "open",
+        "the",
+        "window"
+      ],
+      "wrongIndex": 2,
+      "fix": "delete \"to\""
+    },
+    {
+      "id": "a2-es-152",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Decide\" is followed by \"to + verb\".",
+      "tokens": [
+        "She",
+        "decided",
+        "staying",
+        "at",
+        "home"
+      ],
+      "wrongIndex": 2,
+      "fix": "to stay"
+    },
+    {
+      "id": "a2-es-153",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We wash our \"hands\" in the plural.",
+      "tokens": [
+        "She",
+        "is",
+        "washing",
+        "her",
+        "hand",
+        "after",
+        "dinner"
+      ],
+      "wrongIndex": 4,
+      "fix": "hands"
+    },
+    {
+      "id": "a2-es-154",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"come from\".",
+      "tokens": [
+        "She",
+        "comes",
+        "of",
+        "Spain"
+      ],
+      "wrongIndex": 2,
+      "fix": "from"
+    },
+    {
+      "id": "a2-es-155",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Information\" is uncountable.",
+      "tokens": [
+        "I",
+        "have",
+        "a",
+        "lot",
+        "of",
+        "informations"
+      ],
+      "wrongIndex": 5,
+      "fix": "information"
+    },
+    {
+      "id": "a2-es-156",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The sentence is in the past.",
+      "tokens": [
+        "I",
+        "can't",
+        "swim",
+        "when",
+        "I",
+        "was",
+        "young"
+      ],
+      "wrongIndex": 1,
+      "fix": "couldn't"
+    },
+    {
+      "id": "a2-es-157",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"University\" begins with the sound /j/.",
+      "tokens": [
+        "My",
+        "sister",
+        "is",
+        "an",
+        "university",
+        "student"
+      ],
+      "wrongIndex": 3,
+      "fix": "a"
+    },
+    {
+      "id": "a2-es-158",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Good\" has an irregular comparative.",
+      "tokens": [
+        "This",
+        "film",
+        "is",
+        "gooder",
+        "than",
+        "the",
+        "last",
+        "one"
+      ],
+      "wrongIndex": 3,
+      "fix": "better"
+    },
+    {
+      "id": "a2-es-159",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"by\" with transport.",
+      "tokens": [
+        "We",
+        "travelled",
+        "with",
+        "train"
+      ],
+      "wrongIndex": 2,
+      "fix": "by"
+    },
+    {
+      "id": "a2-es-160",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Must\" is followed by the base form without \"to\".",
+      "tokens": [
+        "You",
+        "must",
+        "to",
+        "wear",
+        "a",
+        "helmet",
+        "when",
+        "you",
+        "ride",
+        "a",
+        "bike"
+      ],
+      "wrongIndex": 2,
+      "fix": "delete \"to\""
+    },
+    {
+      "id": "a2-es-161",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"make a mistake\".",
+      "tokens": [
+        "He",
+        "did",
+        "a",
+        "mistake",
+        "in",
+        "the",
+        "test"
+      ],
+      "wrongIndex": 1,
+      "fix": "made"
+    },
+    {
+      "id": "a2-es-162",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Mine\" is a possessive pronoun that stands alone.",
+      "tokens": [
+        "These",
+        "books",
+        "are",
+        "my"
+      ],
+      "wrongIndex": 3,
+      "fix": "mine"
+    },
+    {
+      "id": "a2-es-163",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"afraid of\".",
+      "tokens": [
+        "He",
+        "is",
+        "afraid",
+        "from",
+        "dogs"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "a2-es-164",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Avoid\" is followed by the -ing form.",
+      "tokens": [
+        "She",
+        "avoids",
+        "eat",
+        "sweets"
+      ],
+      "wrongIndex": 2,
+      "fix": "eating"
+    },
+    {
+      "id": "a2-es-165",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The cat is below the table.",
+      "tokens": [
+        "The",
+        "cat",
+        "is",
+        "on",
+        "the",
+        "table,",
+        "hiding"
+      ],
+      "wrongIndex": 3,
+      "fix": "under"
+    },
+    {
+      "id": "a2-es-166",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Verbs ending in -ch add -es in the third person.",
+      "tokens": [
+        "He",
+        "watchs",
+        "TV",
+        "every",
+        "evening"
+      ],
+      "wrongIndex": 1,
+      "fix": "watches"
+    },
+    {
+      "id": "a2-es-167",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"on\" with a surface.",
+      "tokens": [
+        "He",
+        "sat",
+        "in",
+        "the",
+        "sofa"
+      ],
+      "wrongIndex": 2,
+      "fix": "on"
+    },
+    {
+      "id": "a2-es-168",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The word \"bored\" does not fit the meaning \"afraid something bad will happen\".",
+      "tokens": [
+        "I'm",
+        "bored",
+        "about",
+        "the",
+        "news"
+      ],
+      "wrongIndex": 1,
+      "fix": "worried"
+    },
+    {
+      "id": "a2-es-169",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Suggest\" is followed by the -ing form.",
+      "tokens": [
+        "He",
+        "suggested",
+        "to",
+        "go",
+        "to",
+        "the",
+        "beach"
+      ],
+      "wrongIndex": 1,
+      "fix": "suggested going"
+    },
+    {
+      "id": "a2-es-170",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The sentence is in the past, so we need \"couldn't\".",
+      "tokens": [
+        "Yesterday",
+        "I",
+        "can",
+        "not",
+        "find",
+        "my",
+        "keys"
+      ],
+      "wrongIndex": 2,
+      "fix": "couldn't"
+    },
+    {
+      "id": "a2-es-171",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Because of\" is followed by a noun; \"because\" is followed by a clause.",
+      "tokens": [
+        "She",
+        "was",
+        "late",
+        "because",
+        "the",
+        "traffic"
+      ],
+      "wrongIndex": 3,
+      "fix": "because of"
+    },
+    {
+      "id": "a2-es-172",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Modal verbs do not take -s.",
+      "tokens": [
+        "They",
+        "musts",
+        "leave",
+        "at",
+        "six"
+      ],
+      "wrongIndex": 1,
+      "fix": "must"
+    },
+    {
+      "id": "a2-es-173",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Who\" is used for people.",
+      "tokens": [
+        "The",
+        "man",
+        "which",
+        "lives",
+        "next",
+        "door",
+        "is",
+        "a",
+        "doctor"
+      ],
+      "wrongIndex": 2,
+      "fix": "who"
+    },
+    {
+      "id": "a2-es-174",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Anything\" is used in questions.",
+      "tokens": [
+        "Do",
+        "you",
+        "have",
+        "something",
+        "to",
+        "drink"
+      ],
+      "wrongIndex": 3,
+      "fix": "anything"
+    },
+    {
+      "id": "a2-es-175",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Any\" is used in negative sentences.",
+      "tokens": [
+        "I",
+        "haven't",
+        "got",
+        "some",
+        "money"
+      ],
+      "wrongIndex": 3,
+      "fix": "any"
+    },
+    {
+      "id": "a2-es-176",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Modal verbs do not take -s in the third person.",
+      "tokens": [
+        "She",
+        "cans",
+        "play",
+        "the",
+        "piano",
+        "very",
+        "well"
+      ],
+      "wrongIndex": 1,
+      "fix": "can"
+    },
+    {
+      "id": "a2-es-177",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After a preposition we use the -ing form.",
+      "tokens": [
+        "I'm",
+        "interested",
+        "in",
+        "learn",
+        "Chinese"
+      ],
+      "wrongIndex": 3,
+      "fix": "learning"
+    },
+    {
+      "id": "a2-es-178",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"on\" with days.",
+      "tokens": [
+        "I'll",
+        "see",
+        "you",
+        "in",
+        "Monday"
+      ],
+      "wrongIndex": 3,
+      "fix": "on"
+    },
+    {
+      "id": "a2-es-179",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"at\" with clock times.",
+      "tokens": [
+        "The",
+        "film",
+        "starts",
+        "in",
+        "eight",
+        "o'clock"
+      ],
+      "wrongIndex": 3,
+      "fix": "at"
+    },
+    {
+      "id": "a2-es-180",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In \"be used to\", \"to\" is a preposition, so a gerund follows.",
+      "tokens": [
+        "I'm",
+        "used",
+        "to",
+        "get",
+        "up",
+        "early"
+      ],
+      "wrongIndex": 3,
+      "fix": "getting"
+    },
+    {
+      "id": "a2-es-181",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"So\" introduces a result, \"because\" introduces a reason.",
+      "tokens": [
+        "She",
+        "didn't",
+        "go",
+        "out",
+        "so",
+        "she",
+        "had",
+        "homework"
+      ],
+      "wrongIndex": 4,
+      "fix": "because"
+    },
+    {
+      "id": "a2-es-182",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A possessive adjective comes before a noun.",
+      "tokens": [
+        "This",
+        "is",
+        "me",
+        "book"
+      ],
+      "wrongIndex": 2,
+      "fix": "my"
+    },
+    {
+      "id": "a2-es-183",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Enjoy\" is followed by the -ing form.",
+      "tokens": [
+        "I",
+        "enjoy",
+        "swim",
+        "in",
+        "the",
+        "sea"
+      ],
+      "wrongIndex": 2,
+      "fix": "swimming"
+    },
+    {
+      "id": "a2-es-184",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Most countries have no article.",
+      "tokens": [
+        "I",
+        "live",
+        "in",
+        "the",
+        "Italy"
+      ],
+      "wrongIndex": 3,
+      "fix": "–"
+    },
+    {
+      "id": "a2-es-185",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A negative verb is followed by \"anybody\", not \"nobody\".",
+      "tokens": [
+        "I",
+        "don't",
+        "know",
+        "nobody",
+        "here"
+      ],
+      "wrongIndex": 3,
+      "fix": "anybody"
+    },
+    {
+      "id": "a2-es-186",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Many\" is used with plural countable nouns.",
+      "tokens": [
+        "She",
+        "has",
+        "much",
+        "friends"
+      ],
+      "wrongIndex": 2,
+      "fix": "many"
+    },
+    {
+      "id": "a2-es-187",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"She\" needs -s in the present simple.",
+      "tokens": [
+        "She",
+        "work",
+        "in",
+        "a",
+        "bank"
+      ],
+      "wrongIndex": 1,
+      "fix": "works"
+    },
+    {
+      "id": "a2-es-188",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Modal verbs do not take -s.",
+      "tokens": [
+        "She",
+        "shoulds",
+        "see",
+        "a",
+        "doctor"
+      ],
+      "wrongIndex": 1,
+      "fix": "should"
+    },
+    {
+      "id": "a2-es-189",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"at\" with clock times.",
+      "tokens": [
+        "I'll",
+        "meet",
+        "you",
+        "in",
+        "six",
+        "o'clock"
+      ],
+      "wrongIndex": 3,
+      "fix": "at"
+    },
+    {
+      "id": "a2-es-190",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Interested\" describes a person's feeling.",
+      "tokens": [
+        "I'm",
+        "interesting",
+        "in",
+        "music"
+      ],
+      "wrongIndex": 1,
+      "fix": "interested"
+    },
+    {
+      "id": "a2-es-191",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A subject pronoun is needed at the start.",
+      "tokens": [
+        "Him",
+        "is",
+        "my",
+        "brother"
+      ],
+      "wrongIndex": 0,
+      "fix": "He"
+    },
+    {
+      "id": "a2-es-192",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"take a shower\".",
+      "tokens": [
+        "She",
+        "made",
+        "a",
+        "shower",
+        "after",
+        "the",
+        "match"
+      ],
+      "wrongIndex": 1,
+      "fix": "took"
+    },
+    {
+      "id": "a2-es-193",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The superlative of \"good\" is irregular: \"best\".",
+      "tokens": [
+        "He",
+        "is",
+        "the",
+        "goodest",
+        "player",
+        "in",
+        "the",
+        "team"
+      ],
+      "wrongIndex": 3,
+      "fix": "best"
+    },
+    {
+      "id": "a2-es-194",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"They\" takes \"are\".",
+      "tokens": [
+        "They",
+        "is",
+        "playing",
+        "football"
+      ],
+      "wrongIndex": 1,
+      "fix": "are"
+    },
+    {
+      "id": "a2-es-195",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "There is only one capital.",
+      "tokens": [
+        "London",
+        "is",
+        "a",
+        "capital",
+        "of",
+        "England"
+      ],
+      "wrongIndex": 2,
+      "fix": "the"
+    },
+    {
+      "id": "a2-es-196",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In exclamations we use \"what a\".",
+      "tokens": [
+        "What",
+        "the",
+        "nice",
+        "day"
+      ],
+      "wrongIndex": 1,
+      "fix": "a"
+    },
+    {
+      "id": "a2-es-197",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We do not use an article with sports.",
+      "tokens": [
+        "He",
+        "plays",
+        "the",
+        "football"
+      ],
+      "wrongIndex": 2,
+      "fix": "–"
+    },
+    {
+      "id": "a2-es-198",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Decide\" is followed by \"to + verb\".",
+      "tokens": [
+        "She",
+        "decided",
+        "going",
+        "to",
+        "the",
+        "party"
+      ],
+      "wrongIndex": 2,
+      "fix": "to go"
+    },
+    {
+      "id": "a2-es-199",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After \"a\" we need a singular noun.",
+      "tokens": [
+        "He",
+        "did",
+        "a",
+        "mistakes",
+        "in",
+        "the",
+        "test"
+      ],
+      "wrongIndex": 3,
+      "fix": "mistake"
+    },
+    {
+      "id": "a2-es-200",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"miss the train\".",
+      "tokens": [
+        "I",
+        "lost",
+        "the",
+        "train",
+        "and",
+        "was",
+        "late"
+      ],
+      "wrongIndex": 1,
+      "fix": "missed"
+    },
+    {
+      "id": "a2-es-201",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"on\" with days.",
+      "tokens": [
+        "I'll",
+        "see",
+        "you",
+        "at",
+        "Friday"
+      ],
+      "wrongIndex": 3,
+      "fix": "on"
+    },
+    {
+      "id": "a2-es-202",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We compare two people with the comparative \"taller\".",
+      "tokens": [
+        "Her",
+        "sister",
+        "is",
+        "tallest",
+        "than",
+        "her"
+      ],
+      "wrongIndex": 3,
+      "fix": "taller"
+    },
+    {
+      "id": "a2-es-203",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Arrive in\" is used with cities.",
+      "tokens": [
+        "We",
+        "arrived",
+        "to",
+        "London",
+        "at",
+        "midnight"
+      ],
+      "wrongIndex": 2,
+      "fix": "in"
+    },
+    {
+      "id": "a2-es-204",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"interested in\".",
+      "tokens": [
+        "She",
+        "is",
+        "interested",
+        "on",
+        "art"
+      ],
+      "wrongIndex": 3,
+      "fix": "in"
+    },
+    {
+      "id": "a2-es-205",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"She\" needs -s in the present simple.",
+      "tokens": [
+        "She",
+        "go",
+        "to",
+        "school",
+        "every",
+        "day"
+      ],
+      "wrongIndex": 1,
+      "fix": "goes"
+    },
+    {
+      "id": "a2-es-206",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Interested\" describes a person's feeling.",
+      "tokens": [
+        "I'm",
+        "interesting",
+        "in",
+        "football"
+      ],
+      "wrongIndex": 1,
+      "fix": "interested"
+    },
+    {
+      "id": "a2-es-207",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"catch a cold\".",
+      "tokens": [
+        "I",
+        "took",
+        "a",
+        "bad",
+        "cold",
+        "last",
+        "week"
+      ],
+      "wrongIndex": 1,
+      "fix": "caught"
+    },
+    {
+      "id": "a2-es-208",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Last night\" needs the past simple.",
+      "tokens": [
+        "He",
+        "study",
+        "for",
+        "the",
+        "exam",
+        "last",
+        "night"
+      ],
+      "wrongIndex": 1,
+      "fix": "studied"
+    },
+    {
+      "id": "a2-es-209",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A reflexive pronoun is needed when subject and object are the same.",
+      "tokens": [
+        "He",
+        "cut",
+        "him",
+        "with",
+        "the",
+        "knife"
+      ],
+      "wrongIndex": 2,
+      "fix": "himself"
+    },
+    {
+      "id": "a2-es-210",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"married to\".",
+      "tokens": [
+        "She",
+        "is",
+        "married",
+        "with",
+        "a",
+        "pilot"
+      ],
+      "wrongIndex": 3,
+      "fix": "to"
+    },
+    {
+      "id": "a2-es-211",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"They\" takes \"were\".",
+      "tokens": [
+        "They",
+        "was",
+        "at",
+        "home",
+        "yesterday"
+      ],
+      "wrongIndex": 1,
+      "fix": "were"
+    },
+    {
+      "id": "a2-es-212",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"look for\" to search.",
+      "tokens": [
+        "I'm",
+        "looking",
+        "after",
+        "my",
+        "keys"
+      ],
+      "wrongIndex": 2,
+      "fix": "for"
+    },
+    {
+      "id": "a2-es-213",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Enjoy\" is followed by the -ing form.",
+      "tokens": [
+        "She",
+        "enjoys",
+        "dance",
+        "in",
+        "her",
+        "free",
+        "time"
+      ],
+      "wrongIndex": 2,
+      "fix": "dancing"
+    },
+    {
+      "id": "a2-es-214",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"A little\" is used with uncountable nouns.",
+      "tokens": [
+        "I",
+        "have",
+        "a",
+        "few",
+        "milk"
+      ],
+      "wrongIndex": 3,
+      "fix": "little"
+    },
+    {
+      "id": "a2-es-215",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The third person singular of \"have to\" is \"has to\".",
+      "tokens": [
+        "My",
+        "brother",
+        "haves",
+        "to",
+        "wear",
+        "a",
+        "uniform",
+        "at",
+        "school"
+      ],
+      "wrongIndex": 2,
+      "fix": "has"
+    },
+    {
+      "id": "a2-es-216",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "In \"look forward to\", \"to\" is a preposition, so a gerund follows.",
+      "tokens": [
+        "I'm",
+        "looking",
+        "forward",
+        "to",
+        "see",
+        "you"
+      ],
+      "wrongIndex": 4,
+      "fix": "seeing"
+    },
+    {
+      "id": "a2-es-217",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Plays\" is a verb, so it needs an adverb, \"well\".",
+      "tokens": [
+        "He",
+        "is",
+        "good",
+        "at",
+        "playing",
+        "tennis,",
+        "but",
+        "he",
+        "plays",
+        "bad"
+      ],
+      "wrongIndex": 2,
+      "fix": "well"
+    },
+    {
+      "id": "a2-es-218",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"the\" with instruments.",
+      "tokens": [
+        "He",
+        "plays",
+        "a",
+        "guitar",
+        "very",
+        "well"
+      ],
+      "wrongIndex": 2,
+      "fix": "the"
+    },
+    {
+      "id": "a2-es-219",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"good at\".",
+      "tokens": [
+        "She",
+        "is",
+        "good",
+        "in",
+        "cooking"
+      ],
+      "wrongIndex": 3,
+      "fix": "at"
+    },
+    {
+      "id": "a2-es-220",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"in\" with villages.",
+      "tokens": [
+        "They",
+        "live",
+        "on",
+        "a",
+        "small",
+        "village"
+      ],
+      "wrongIndex": 2,
+      "fix": "in"
+    },
+    {
+      "id": "a2-es-221",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"We\" takes \"have\".",
+      "tokens": [
+        "We",
+        "has",
+        "finished",
+        "our",
+        "homework"
+      ],
+      "wrongIndex": 1,
+      "fix": "have"
+    },
+    {
+      "id": "a2-es-222",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Yours\" is a possessive pronoun that stands alone.",
+      "tokens": [
+        "Is",
+        "this",
+        "pen",
+        "your"
+      ],
+      "wrongIndex": 3,
+      "fix": "yours"
+    },
+    {
+      "id": "a2-es-223",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We do not use an article for a general idea.",
+      "tokens": [
+        "I",
+        "like",
+        "the",
+        "pizza"
+      ],
+      "wrongIndex": 2,
+      "fix": "delete \"the\""
+    },
+    {
+      "id": "a2-es-224",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"interested in\".",
+      "tokens": [
+        "I'm",
+        "interested",
+        "about",
+        "art"
+      ],
+      "wrongIndex": 2,
+      "fix": "in"
+    },
+    {
+      "id": "a2-es-225",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"married to\".",
+      "tokens": [
+        "She",
+        "is",
+        "married",
+        "with",
+        "a",
+        "doctor"
+      ],
+      "wrongIndex": 3,
+      "fix": "to"
+    },
+    {
+      "id": "a2-es-226",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"in\" with months.",
+      "tokens": [
+        "My",
+        "birthday",
+        "is",
+        "at",
+        "May"
+      ],
+      "wrongIndex": 3,
+      "fix": "in"
+    },
+    {
+      "id": "a2-es-227",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"in\" with cities.",
+      "tokens": [
+        "They",
+        "live",
+        "at",
+        "Madrid"
+      ],
+      "wrongIndex": 2,
+      "fix": "in"
+    },
+    {
+      "id": "a2-es-228",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Arrive at\" is used with a station.",
+      "tokens": [
+        "He",
+        "arrived",
+        "on",
+        "the",
+        "station",
+        "at",
+        "six"
+      ],
+      "wrongIndex": 2,
+      "fix": "at"
+    },
+    {
+      "id": "a2-es-229",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A verb needs an adverb.",
+      "tokens": [
+        "He",
+        "drives",
+        "very",
+        "slow"
+      ],
+      "wrongIndex": 3,
+      "fix": "slowly"
+    },
+    {
+      "id": "a2-es-230",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A reflexive pronoun is needed when subject and object are the same.",
+      "tokens": [
+        "She",
+        "hurt",
+        "her",
+        "when",
+        "she",
+        "fell"
+      ],
+      "wrongIndex": 2,
+      "fix": "herself"
+    },
+    {
+      "id": "a2-es-231",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"They\" needs \"have\".",
+      "tokens": [
+        "They",
+        "has",
+        "a",
+        "new",
+        "car"
+      ],
+      "wrongIndex": 1,
+      "fix": "have"
+    },
+    {
+      "id": "a2-es-232",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"We\" does not take -s.",
+      "tokens": [
+        "We",
+        "goes",
+        "to",
+        "school",
+        "by",
+        "bus"
+      ],
+      "wrongIndex": 1,
+      "fix": "go"
+    },
+    {
+      "id": "a2-es-233",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"They\" takes \"don't\".",
+      "tokens": [
+        "They",
+        "doesn't",
+        "live",
+        "here",
+        "any",
+        "more"
+      ],
+      "wrongIndex": 1,
+      "fix": "don't"
+    },
+    {
+      "id": "a2-es-234",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A superlative needs \"the\".",
+      "tokens": [
+        "He",
+        "is",
+        "a",
+        "best",
+        "player"
+      ],
+      "wrongIndex": 2,
+      "fix": "the"
+    },
+    {
+      "id": "a2-es-235",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Mustn't\" means forbidden; \"don't have to\" means not necessary.",
+      "tokens": [
+        "We",
+        "mustn't",
+        "to",
+        "pay",
+        "for",
+        "the",
+        "museum.",
+        "It",
+        "is",
+        "free",
+        "today"
+      ],
+      "wrongIndex": 1,
+      "fix": "don't have"
+    },
+    {
+      "id": "a2-es-236",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Last night\" needs the past simple.",
+      "tokens": [
+        "We",
+        "watches",
+        "TV",
+        "last",
+        "night"
+      ],
+      "wrongIndex": 1,
+      "fix": "watched"
+    },
+    {
+      "id": "a2-es-237",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A birth in the past needs \"was\".",
+      "tokens": [
+        "He",
+        "is",
+        "born",
+        "in",
+        "1990"
+      ],
+      "wrongIndex": 1,
+      "fix": "was"
+    },
+    {
+      "id": "a2-es-238",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"make the bed\".",
+      "tokens": [
+        "I",
+        "do",
+        "my",
+        "bed",
+        "every",
+        "morning"
+      ],
+      "wrongIndex": 1,
+      "fix": "make"
+    },
+    {
+      "id": "a2-es-239",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After a verb we use an object pronoun.",
+      "tokens": [
+        "I",
+        "gave",
+        "she",
+        "the",
+        "book"
+      ],
+      "wrongIndex": 2,
+      "fix": "her"
+    },
+    {
+      "id": "a2-es-240",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Turn down\" lowers the volume.",
+      "tokens": [
+        "Can",
+        "you",
+        "turn",
+        "on",
+        "the",
+        "music?",
+        "It's",
+        "too",
+        "loud"
+      ],
+      "wrongIndex": 3,
+      "fix": "down"
+    },
+    {
+      "id": "a2-es-241",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Bad\" has an irregular superlative.",
+      "tokens": [
+        "It",
+        "is",
+        "the",
+        "baddest",
+        "film",
+        "I've",
+        "seen"
+      ],
+      "wrongIndex": 3,
+      "fix": "worst"
+    },
+    {
+      "id": "a2-es-242",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"listen to\".",
+      "tokens": [
+        "He",
+        "listens",
+        "at",
+        "the",
+        "radio",
+        "every",
+        "morning"
+      ],
+      "wrongIndex": 2,
+      "fix": "to"
+    },
+    {
+      "id": "a2-es-243",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Must\" never takes -s.",
+      "tokens": [
+        "They",
+        "musts",
+        "leave",
+        "at",
+        "five"
+      ],
+      "wrongIndex": 1,
+      "fix": "must"
+    },
+    {
+      "id": "a2-es-244",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Enjoy\" is followed directly by a gerund.",
+      "tokens": [
+        "He",
+        "enjoys",
+        "to",
+        "playing",
+        "chess"
+      ],
+      "wrongIndex": 2,
+      "fix": "delete \"to\""
+    },
+    {
+      "id": "a2-es-245",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A possessive adjective comes before a noun.",
+      "tokens": [
+        "That",
+        "is",
+        "she",
+        "bag"
+      ],
+      "wrongIndex": 2,
+      "fix": "her"
+    },
+    {
+      "id": "a2-es-246",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Little\" is used with uncountable nouns.",
+      "tokens": [
+        "I",
+        "have",
+        "few",
+        "money"
+      ],
+      "wrongIndex": 2,
+      "fix": "little"
+    },
+    {
+      "id": "a2-es-247",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"It's important\" is followed by \"to + verb\".",
+      "tokens": [
+        "It's",
+        "important",
+        "exercising",
+        "every",
+        "day"
+      ],
+      "wrongIndex": 2,
+      "fix": "to exercise"
+    },
+    {
+      "id": "a2-es-248",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We do not use an article for a general idea.",
+      "tokens": [
+        "I",
+        "like",
+        "the",
+        "chocolate"
+      ],
+      "wrongIndex": 2,
+      "fix": "–"
+    },
+    {
+      "id": "a2-es-249",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"He\" takes \"doesn't\".",
+      "tokens": [
+        "He",
+        "don't",
+        "like",
+        "spicy",
+        "food"
+      ],
+      "wrongIndex": 1,
+      "fix": "doesn't"
+    },
+    {
+      "id": "a2-es-250",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"make the bed\".",
+      "tokens": [
+        "She",
+        "does",
+        "the",
+        "bed",
+        "every",
+        "morning"
+      ],
+      "wrongIndex": 1,
+      "fix": "makes"
+    },
+    {
+      "id": "a2-es-251",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Boring\" describes the thing.",
+      "tokens": [
+        "The",
+        "film",
+        "was",
+        "bored"
+      ],
+      "wrongIndex": 3,
+      "fix": "boring"
+    },
+    {
+      "id": "a2-es-252",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Orange\" begins with a vowel sound.",
+      "tokens": [
+        "He",
+        "has",
+        "a",
+        "orange",
+        "car"
+      ],
+      "wrongIndex": 2,
+      "fix": "an"
+    },
+    {
+      "id": "a2-es-253",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Will\" is followed by the base form without \"to\".",
+      "tokens": [
+        "I",
+        "will",
+        "to",
+        "help",
+        "you"
+      ],
+      "wrongIndex": 2,
+      "fix": "delete \"to\""
+    },
+    {
+      "id": "a2-es-254",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Hope\" is followed by \"to + verb\".",
+      "tokens": [
+        "We",
+        "hope",
+        "seeing",
+        "you",
+        "again"
+      ],
+      "wrongIndex": 2,
+      "fix": "to see"
+    },
+    {
+      "id": "a2-es-255",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Like\" is not used in the continuous form.",
+      "tokens": [
+        "I",
+        "am",
+        "liking",
+        "pizza"
+      ],
+      "wrongIndex": 2,
+      "fix": "like"
+    },
+    {
+      "id": "a2-es-256",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A verb needs an adverb, \"well\".",
+      "tokens": [
+        "She",
+        "sings",
+        "good"
+      ],
+      "wrongIndex": 2,
+      "fix": "well"
+    },
+    {
+      "id": "a2-es-257",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The correct preposition is \"interested in\".",
+      "tokens": [
+        "He",
+        "is",
+        "interested",
+        "of",
+        "sport"
+      ],
+      "wrongIndex": 3,
+      "fix": "in"
+    },
+    {
+      "id": "a2-es-258",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"University\" begins with the sound /j/.",
+      "tokens": [
+        "She",
+        "has",
+        "an",
+        "university",
+        "degree"
+      ],
+      "wrongIndex": 2,
+      "fix": "a"
+    },
+    {
+      "id": "a2-es-259",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Yesterday\" needs the past simple \"saw\".",
+      "tokens": [
+        "I",
+        "seen",
+        "him",
+        "yesterday"
+      ],
+      "wrongIndex": 1,
+      "fix": "saw"
+    },
+    {
+      "id": "a2-es-260",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We do not use an article with languages.",
+      "tokens": [
+        "I'm",
+        "learning",
+        "the",
+        "English"
+      ],
+      "wrongIndex": 2,
+      "fix": "–"
+    },
+    {
+      "id": "a2-es-261",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Go\" is irregular.",
+      "tokens": [
+        "She",
+        "goed",
+        "to",
+        "the",
+        "market",
+        "yesterday"
+      ],
+      "wrongIndex": 1,
+      "fix": "went"
+    },
+    {
+      "id": "a2-es-262",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"tired of\".",
+      "tokens": [
+        "I'm",
+        "tired",
+        "to",
+        "waiting"
+      ],
+      "wrongIndex": 2,
+      "fix": "of"
+    },
+    {
+      "id": "a2-es-263",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Tell\" takes a person directly.",
+      "tokens": [
+        "He",
+        "said",
+        "me",
+        "the",
+        "truth"
+      ],
+      "wrongIndex": 1,
+      "fix": "told"
+    },
+    {
+      "id": "a2-es-264",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"We\" takes \"were\".",
+      "tokens": [
+        "We",
+        "was",
+        "at",
+        "the",
+        "cinema",
+        "yesterday"
+      ],
+      "wrongIndex": 1,
+      "fix": "were"
+    },
+    {
+      "id": "a2-es-265",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The superlative of \"tall\" is \"tallest\".",
+      "tokens": [
+        "He",
+        "is",
+        "the",
+        "taller",
+        "boy",
+        "in",
+        "the",
+        "class"
+      ],
+      "wrongIndex": 3,
+      "fix": "tallest"
+    },
+    {
+      "id": "a2-es-266",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Stop talking\" means to finish talking.",
+      "tokens": [
+        "They",
+        "stopped",
+        "talk",
+        "when",
+        "the",
+        "teacher",
+        "came",
+        "in"
+      ],
+      "wrongIndex": 2,
+      "fix": "talking"
+    },
+    {
+      "id": "a2-es-267",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Now\" needs the present continuous.",
+      "tokens": [
+        "It",
+        "rains",
+        "now.",
+        "Take",
+        "an",
+        "umbrella"
+      ],
+      "wrongIndex": 1,
+      "fix": "is raining"
+    },
+    {
+      "id": "a2-es-268",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"They\" takes \"don't\".",
+      "tokens": [
+        "They",
+        "doesn't",
+        "like",
+        "pizza"
+      ],
+      "wrongIndex": 1,
+      "fix": "don't"
+    },
+    {
+      "id": "a2-es-269",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Honest\" begins with a vowel sound.",
+      "tokens": [
+        "She",
+        "is",
+        "a",
+        "honest",
+        "woman"
+      ],
+      "wrongIndex": 2,
+      "fix": "an"
+    },
+    {
+      "id": "a2-es-270",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After a preposition we use the -ing form.",
+      "tokens": [
+        "Thank",
+        "you",
+        "for",
+        "help",
+        "me"
+      ],
+      "wrongIndex": 3,
+      "fix": "helping"
+    },
+    {
+      "id": "a2-es-271",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"She\" takes \"doesn't\".",
+      "tokens": [
+        "She",
+        "don't",
+        "have",
+        "a",
+        "car"
+      ],
+      "wrongIndex": 1,
+      "fix": "doesn't"
+    },
+    {
+      "id": "a2-es-272",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Which\" is used for things.",
+      "tokens": [
+        "The",
+        "book",
+        "who",
+        "I",
+        "bought",
+        "is",
+        "great"
+      ],
+      "wrongIndex": 2,
+      "fix": "which"
+    },
+    {
+      "id": "a2-es-273",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Any\" is used in negative sentences.",
+      "tokens": [
+        "There",
+        "isn't",
+        "some",
+        "milk"
+      ],
+      "wrongIndex": 2,
+      "fix": "any"
+    },
+    {
+      "id": "a2-es-274",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"make a decision\".",
+      "tokens": [
+        "They",
+        "did",
+        "a",
+        "decision",
+        "yesterday"
+      ],
+      "wrongIndex": 1,
+      "fix": "made"
+    },
+    {
+      "id": "a2-es-275",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Hear\" is to perceive a sound without trying.",
+      "tokens": [
+        "I",
+        "listen",
+        "a",
+        "strange",
+        "noise"
+      ],
+      "wrongIndex": 1,
+      "fix": "heard"
+    },
+    {
+      "id": "a2-es-276",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Questions with \"can\" invert the subject and the modal.",
+      "tokens": [
+        "Do",
+        "you",
+        "can",
+        "help",
+        "me,",
+        "please"
+      ],
+      "wrongIndex": 2,
+      "fix": "Can you"
+    },
+    {
+      "id": "a2-es-277",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Enjoy\" is followed directly by a gerund.",
+      "tokens": [
+        "He",
+        "enjoys",
+        "to",
+        "swimming"
+      ],
+      "wrongIndex": 2,
+      "fix": "delete \"to\""
+    },
+    {
+      "id": "a2-es-278",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"They\" needs \"were\".",
+      "tokens": [
+        "They",
+        "was",
+        "playing",
+        "football"
+      ],
+      "wrongIndex": 1,
+      "fix": "were"
+    },
+    {
+      "id": "a2-es-279",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Yesterday\" needs the past simple.",
+      "tokens": [
+        "Yesterday",
+        "I",
+        "go",
+        "to",
+        "the",
+        "cinema"
+      ],
+      "wrongIndex": 2,
+      "fix": "went"
+    },
+    {
+      "id": "a2-es-280",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Questions need an auxiliary before the subject.",
+      "tokens": [
+        "What",
+        "you",
+        "do",
+        "at",
+        "the",
+        "weekend"
+      ],
+      "wrongIndex": 1,
+      "fix": "do you"
+    },
+    {
+      "id": "a2-es-281",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"do homework\".",
+      "tokens": [
+        "She",
+        "made",
+        "her",
+        "homework",
+        "before",
+        "dinner"
+      ],
+      "wrongIndex": 1,
+      "fix": "did"
+    },
+    {
+      "id": "a2-es-282",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"wait for\".",
+      "tokens": [
+        "I'm",
+        "waiting",
+        "to",
+        "the",
+        "bus"
+      ],
+      "wrongIndex": 2,
+      "fix": "for"
+    },
+    {
+      "id": "a2-es-283",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"take a photo\".",
+      "tokens": [
+        "I",
+        "did",
+        "a",
+        "photo",
+        "of",
+        "the",
+        "castle"
+      ],
+      "wrongIndex": 1,
+      "fix": "took"
+    },
+    {
+      "id": "a2-es-284",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Suggest\" is followed by the -ing form.",
+      "tokens": [
+        "He",
+        "suggested",
+        "take",
+        "a",
+        "taxi"
+      ],
+      "wrongIndex": 2,
+      "fix": "taking"
+    },
+    {
+      "id": "a2-es-285",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Idea\" begins with a vowel sound.",
+      "tokens": [
+        "I",
+        "have",
+        "a",
+        "idea"
+      ],
+      "wrongIndex": 2,
+      "fix": "an"
+    },
+    {
+      "id": "a2-es-286",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After \"did\" we use the base form.",
+      "tokens": [
+        "Did",
+        "you",
+        "saw",
+        "the",
+        "film",
+        "last",
+        "night"
+      ],
+      "wrongIndex": 2,
+      "fix": "see"
+    },
+    {
+      "id": "a2-es-287",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Might\" never takes -s.",
+      "tokens": [
+        "He",
+        "mights",
+        "be",
+        "late"
+      ],
+      "wrongIndex": 1,
+      "fix": "might"
+    },
+    {
+      "id": "a2-es-288",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"To\" is a preposition here, so a gerund follows.",
+      "tokens": [
+        "I'm",
+        "looking",
+        "forward",
+        "to",
+        "meet",
+        "you"
+      ],
+      "wrongIndex": 4,
+      "fix": "meeting"
+    },
+    {
+      "id": "a2-es-289",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We compare two people with the comparative.",
+      "tokens": [
+        "She",
+        "is",
+        "tallest",
+        "than",
+        "me"
+      ],
+      "wrongIndex": 2,
+      "fix": "taller"
+    },
+    {
+      "id": "a2-es-290",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"do homework\".",
+      "tokens": [
+        "I",
+        "make",
+        "my",
+        "homework",
+        "after",
+        "school"
+      ],
+      "wrongIndex": 1,
+      "fix": "do"
+    },
+    {
+      "id": "a2-es-291",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Look!\" suggests the present continuous.",
+      "tokens": [
+        "Look!",
+        "The",
+        "sun",
+        "shine"
+      ],
+      "wrongIndex": 3,
+      "fix": "is shining"
+    },
+    {
+      "id": "a2-es-292",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A subject needs a noun or a gerund.",
+      "tokens": [
+        "Swim",
+        "is",
+        "good",
+        "for",
+        "your",
+        "health"
+      ],
+      "wrongIndex": 0,
+      "fix": "Swimming"
+    },
+    {
+      "id": "a2-es-293",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"in\" with months.",
+      "tokens": [
+        "My",
+        "birthday",
+        "is",
+        "on",
+        "July"
+      ],
+      "wrongIndex": 3,
+      "fix": "in"
+    },
+    {
+      "id": "a2-es-294",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"How much\" is used with uncountable nouns.",
+      "tokens": [
+        "How",
+        "many",
+        "water",
+        "do",
+        "you",
+        "drink"
+      ],
+      "wrongIndex": 1,
+      "fix": "much"
+    },
+    {
+      "id": "a2-es-295",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We do not use an article with meals.",
+      "tokens": [
+        "We",
+        "had",
+        "the",
+        "lunch",
+        "at",
+        "one"
+      ],
+      "wrongIndex": 2,
+      "fix": "–"
+    },
+    {
+      "id": "a2-es-296",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The student takes an exam.",
+      "tokens": [
+        "He",
+        "gave",
+        "an",
+        "exam",
+        "last",
+        "week"
+      ],
+      "wrongIndex": 1,
+      "fix": "took"
+    },
+    {
+      "id": "a2-es-297",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"afraid of\".",
+      "tokens": [
+        "He",
+        "is",
+        "afraid",
+        "from",
+        "snakes"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "a2-es-298",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After a verb we use an object pronoun.",
+      "tokens": [
+        "I",
+        "like",
+        "she",
+        "very",
+        "much"
+      ],
+      "wrongIndex": 2,
+      "fix": "her"
+    },
+    {
+      "id": "a2-es-299",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"take a photo\".",
+      "tokens": [
+        "He",
+        "did",
+        "a",
+        "photo",
+        "of",
+        "the",
+        "castle"
+      ],
+      "wrongIndex": 1,
+      "fix": "took"
+    },
+    {
+      "id": "a2-es-300",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"in\" with cities.",
+      "tokens": [
+        "They",
+        "live",
+        "on",
+        "London"
+      ],
+      "wrongIndex": 2,
+      "fix": "in"
+    },
+    {
+      "id": "a2-es-301",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The person who gives uses \"lend\".",
+      "tokens": [
+        "Can",
+        "you",
+        "borrow",
+        "me",
+        "some",
+        "money"
+      ],
+      "wrongIndex": 2,
+      "fix": "lend"
+    },
+    {
+      "id": "a2-es-302",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"take off a jacket\".",
+      "tokens": [
+        "He",
+        "put",
+        "off",
+        "his",
+        "jacket",
+        "and",
+        "sat",
+        "down"
+      ],
+      "wrongIndex": 1,
+      "fix": "took"
+    },
+    {
+      "id": "a2-es-303",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Advice\" is uncountable.",
+      "tokens": [
+        "She",
+        "gave",
+        "me",
+        "some",
+        "advices"
+      ],
+      "wrongIndex": 4,
+      "fix": "advice"
+    },
+    {
+      "id": "a2-es-304",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Exciting\" describes the match.",
+      "tokens": [
+        "The",
+        "match",
+        "was",
+        "excited"
+      ],
+      "wrongIndex": 3,
+      "fix": "exciting"
+    },
+    {
+      "id": "a2-es-305",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Stop smoking\" means to give up a habit.",
+      "tokens": [
+        "I",
+        "stopped",
+        "smoke",
+        "last",
+        "year"
+      ],
+      "wrongIndex": 2,
+      "fix": "smoking"
+    },
+    {
+      "id": "a2-es-306",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"She\" takes \"doesn't\" in the negative of \"have to\".",
+      "tokens": [
+        "She",
+        "don't",
+        "have",
+        "to",
+        "work",
+        "on",
+        "Sundays"
+      ],
+      "wrongIndex": 1,
+      "fix": "doesn't"
+    },
+    {
+      "id": "a2-es-307",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"do homework\".",
+      "tokens": [
+        "She",
+        "made",
+        "her",
+        "homework",
+        "quickly"
+      ],
+      "wrongIndex": 1,
+      "fix": "did"
+    },
+    {
+      "id": "a2-es-308",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Mustn't\" is followed by the base form.",
+      "tokens": [
+        "You",
+        "mustn't",
+        "to",
+        "be",
+        "late"
+      ],
+      "wrongIndex": 2,
+      "fix": "delete \"to\""
+    },
+    {
+      "id": "a2-es-309",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Arrive\" is followed by \"at\" or \"in\", not \"to\".",
+      "tokens": [
+        "We",
+        "arrived",
+        "to",
+        "the",
+        "station",
+        "at",
+        "six"
+      ],
+      "wrongIndex": 2,
+      "fix": "at"
+    },
+    {
+      "id": "a2-es-310",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After \"did\" we use the base form.",
+      "tokens": [
+        "Did",
+        "you",
+        "went",
+        "to",
+        "the",
+        "cinema"
+      ],
+      "wrongIndex": 2,
+      "fix": "go"
+    },
+    {
+      "id": "a2-es-311",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We compare two people with the comparative.",
+      "tokens": [
+        "I'm",
+        "oldest",
+        "than",
+        "my",
+        "sister"
+      ],
+      "wrongIndex": 1,
+      "fix": "older"
+    },
+    {
+      "id": "a2-es-312",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"wait for\".",
+      "tokens": [
+        "I'm",
+        "waiting",
+        "to",
+        "my",
+        "friend"
+      ],
+      "wrongIndex": 2,
+      "fix": "for"
+    },
+    {
+      "id": "a2-es-313",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"at\" with house numbers.",
+      "tokens": [
+        "I",
+        "live",
+        "in",
+        "12",
+        "Green",
+        "Road"
+      ],
+      "wrongIndex": 2,
+      "fix": "at"
+    },
+    {
+      "id": "a2-es-314",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"miss the bus\".",
+      "tokens": [
+        "I",
+        "lost",
+        "the",
+        "bus",
+        "this",
+        "morning"
+      ],
+      "wrongIndex": 1,
+      "fix": "missed"
+    },
+    {
+      "id": "a2-es-315",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Whose\" asks about possession.",
+      "tokens": [
+        "Who",
+        "bike",
+        "is",
+        "this"
+      ],
+      "wrongIndex": 0,
+      "fix": "Whose"
+    },
+    {
+      "id": "a2-es-316",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Who\" is used for people.",
+      "tokens": [
+        "The",
+        "women",
+        "which",
+        "work",
+        "here",
+        "are",
+        "nurses"
+      ],
+      "wrongIndex": 2,
+      "fix": "who"
+    },
+    {
+      "id": "a2-es-317",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After a verb we use an object pronoun.",
+      "tokens": [
+        "Give",
+        "I",
+        "the",
+        "book,",
+        "please"
+      ],
+      "wrongIndex": 1,
+      "fix": "me"
+    },
+    {
+      "id": "a2-es-318",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Last year\" needs the past simple.",
+      "tokens": [
+        "He",
+        "study",
+        "hard",
+        "last",
+        "year"
+      ],
+      "wrongIndex": 1,
+      "fix": "studied"
+    },
+    {
+      "id": "a2-es-319",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We use \"at\" with clock times.",
+      "tokens": [
+        "The",
+        "film",
+        "starts",
+        "in",
+        "seven",
+        "o'clock"
+      ],
+      "wrongIndex": 3,
+      "fix": "at"
+    },
+    {
+      "id": "a2-es-320",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"look forward to\".",
+      "tokens": [
+        "I",
+        "look",
+        "forward",
+        "for",
+        "seeing",
+        "you"
+      ],
+      "wrongIndex": 3,
+      "fix": "to"
+    },
+    {
+      "id": "a2-es-321",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"She\" takes \"doesn't\".",
+      "tokens": [
+        "She",
+        "don't",
+        "speak",
+        "French"
+      ],
+      "wrongIndex": 1,
+      "fix": "doesn't"
+    },
+    {
+      "id": "a2-es-322",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"miss a train\".",
+      "tokens": [
+        "I",
+        "lost",
+        "my",
+        "train",
+        "this",
+        "morning"
+      ],
+      "wrongIndex": 1,
+      "fix": "missed"
+    },
+    {
+      "id": "a2-es-323",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"tell a story\".",
+      "tokens": [
+        "He",
+        "spoke",
+        "me",
+        "a",
+        "story"
+      ],
+      "wrongIndex": 1,
+      "fix": "told"
+    },
+    {
+      "id": "a2-es-324",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"have a party\".",
+      "tokens": [
+        "I'm",
+        "going",
+        "to",
+        "do",
+        "a",
+        "party",
+        "on",
+        "Saturday"
+      ],
+      "wrongIndex": 3,
+      "fix": "have"
+    },
+    {
+      "id": "a2-es-325",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"How many\" is used with plural nouns.",
+      "tokens": [
+        "How",
+        "much",
+        "books",
+        "do",
+        "you",
+        "have"
+      ],
+      "wrongIndex": 1,
+      "fix": "many"
+    },
+    {
+      "id": "a2-es-326",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Modal verbs do not take -s.",
+      "tokens": [
+        "He",
+        "cans",
+        "swim",
+        "very",
+        "well"
+      ],
+      "wrongIndex": 1,
+      "fix": "can"
+    },
+    {
+      "id": "a2-es-327",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Which\" is used for things.",
+      "tokens": [
+        "This",
+        "is",
+        "the",
+        "film",
+        "who",
+        "I",
+        "saw",
+        "yesterday"
+      ],
+      "wrongIndex": 4,
+      "fix": "which"
+    },
+    {
+      "id": "a2-es-328",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"do homework\".",
+      "tokens": [
+        "He",
+        "makes",
+        "his",
+        "homework",
+        "every",
+        "evening"
+      ],
+      "wrongIndex": 1,
+      "fix": "does"
+    },
+    {
+      "id": "a2-es-329",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"have a party\".",
+      "tokens": [
+        "They",
+        "made",
+        "a",
+        "party",
+        "last",
+        "night"
+      ],
+      "wrongIndex": 1,
+      "fix": "had"
+    },
+    {
+      "id": "a2-es-330",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Decide\" is followed by \"to + verb\".",
+      "tokens": [
+        "We",
+        "decided",
+        "go",
+        "by",
+        "train"
+      ],
+      "wrongIndex": 2,
+      "fix": "to go"
+    },
+    {
+      "id": "a2-es-331",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After \"didn't\" we use the base form.",
+      "tokens": [
+        "I",
+        "didn't",
+        "saw",
+        "him",
+        "yesterday"
+      ],
+      "wrongIndex": 2,
+      "fix": "see"
+    },
+    {
+      "id": "a2-es-332",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "Modal verbs do not take -s.",
+      "tokens": [
+        "He",
+        "musts",
+        "leave",
+        "now"
+      ],
+      "wrongIndex": 1,
+      "fix": "must"
+    },
+    {
+      "id": "a2-es-333",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "\"Want\" is followed by \"to + verb\".",
+      "tokens": [
+        "I",
+        "want",
+        "going",
+        "home",
+        "now"
+      ],
+      "wrongIndex": 2,
+      "fix": "to go"
+    },
+    {
+      "id": "a2-es-334",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After \"didn't\" we use the base form.",
+      "tokens": [
+        "We",
+        "didn't",
+        "went",
+        "to",
+        "the",
+        "party"
+      ],
+      "wrongIndex": 2,
+      "fix": "go"
+    },
+    {
+      "id": "a2-es-335",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "After the adjective \"afraid\" we use \"of\" and a gerund.",
+      "tokens": [
+        "He's",
+        "afraid",
+        "fly"
+      ],
+      "wrongIndex": 2,
+      "fix": "of flying"
+    },
+    {
+      "id": "a2-es-336",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "We say \"afraid of flying\".",
+      "tokens": [
+        "She",
+        "is",
+        "afraid",
+        "to",
+        "flying"
+      ],
+      "wrongIndex": 3,
+      "fix": "of"
+    },
+    {
+      "id": "a2-es-337",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "The person who gives lessons \"teaches\".",
+      "tokens": [
+        "She",
+        "learned",
+        "me",
+        "to",
+        "swim"
+      ],
+      "wrongIndex": 1,
+      "fix": "taught"
+    },
+    {
+      "id": "a2-es-338",
+      "type": "error-spot",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Tap the word that is wrong.",
+      "explanation": "A job uses \"a\" when we first mention it.",
+      "tokens": [
+        "She",
+        "is",
+        "the",
+        "teacher"
+      ],
+      "wrongIndex": 2,
+      "fix": "a"
     }
   ]
 }

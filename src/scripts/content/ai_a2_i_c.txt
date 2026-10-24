@@ -1,0 +1,167 @@
+# A2 last fill (2): vc, vf, wo, mc, wb, pw, es, tf, mp, rm, fb, sc, oo
+tf | E | Every Saturday morning my family goes to the market. My father buys fruit and vegetables, my mother chooses the fish, and I carry the bags. We usually stop at a café for a hot chocolate before we go home. It takes about three hours, but I really enjoy it. | The family goes to the market on Saturdays. => T ;; The writer's mother buys the fruit. => F ;; They have a hot drink at a café. => T | The text says: "Every Saturday", "My father buys fruit", "a hot chocolate".
+tf | E | I share a flat with two friends. We have a small kitchen, and we take turns to cook. On Mondays Ben cooks pasta, on Tuesdays Lisa makes soup, and I cook on Wednesdays. At the weekend we eat out. It is cheap and fun, and we never argue about the cleaning. | The three friends cook in turns. => T ;; They cook every day of the week. => F ;; They never argue about the cleaning. => T | The text says: "take turns to cook", "At the weekend we eat out", "we never argue".
+tf | E | Susan has a busy morning routine. She wakes up at six, makes coffee and feeds her two cats. Then she showers, gets dressed and checks her emails. At seven thirty she leaves for work. She says that a calm morning makes the whole day better. | Susan has two cats. => T ;; She leaves for work at six. => F ;; She checks her emails after getting dressed. => T | The text says: "her two cats", "At seven thirty she leaves", "gets dressed and checks her emails".
+tf | E | On rainy days my brother and I stay at home. We play board games, read comics or build things with plastic bricks. Our mother often makes pancakes in the afternoon. In the evening we watch a film together. It is not exciting, but it is cosy. | The brothers go out on rainy days. => F ;; Their mother sometimes makes pancakes. => T ;; They watch a film in the evening. => T | The text says: "stay at home", "Our mother often makes pancakes", "watch a film together".
+tf | E | My grandparents live in an old house with a big kitchen. In the winter, the whole family meets there for Sunday lunch. Grandma cooks soup and roast meat, and Grandpa tells stories about his life. After lunch we play cards and drink tea. | The family meets at the grandparents' house in winter. => T ;; Grandpa cooks the lunch. => F ;; The family plays cards after lunch. => T | The text says: "In the winter, the whole family meets there", "Grandma cooks", "we play cards".
+tf | E | Paul does his laundry once a week. He puts the dirty clothes in the washing machine, adds powder and chooses a programme. After an hour, he hangs the clothes on a line on the balcony. If it rains, he uses a dryer. Ironing is the thing he hates most. | Paul washes his clothes every day. => F ;; He hangs the clothes on the balcony if it does not rain. => T ;; He enjoys ironing. => F | The text says: "once a week", "hangs the clothes on a line on the balcony", "Ironing is the thing he hates most".
+tf | E | We moved to a new neighbourhood last month. There is a park with a playground, two cafés and a small library. Our neighbours are friendly, and they brought us a cake on the first day. My little sister has already made two friends. | The family moved last month. => T ;; The neighbourhood has no park. => F ;; The neighbours brought a cake. => T | The text says: "moved ... last month", "a park with a playground", "brought us a cake".
+tf | E | I get home from school at four. First I have a snack, usually a sandwich and some fruit. Then I do my homework until six. After that I can play on the computer for an hour. My parents say that homework comes first, and I agree. | The writer gets home at four. => T ;; The writer plays on the computer before the homework. => F ;; The writer does homework until six. => T | The text says: "I get home from school at four", "After that I can play on the computer", "until six".
+tf | E | Marta keeps a small garden on her balcony. She grows herbs, tomatoes and a few flowers. Every morning she gives them water and talks to them. She says plants grow better when you speak to them. Her neighbours think this is funny, but the tomatoes are delicious. | Marta has a garden on her balcony. => T ;; She waters the plants in the evening. => F ;; The tomatoes taste good. => T | The text says: "on her balcony", "Every morning she gives them water", "the tomatoes are delicious".
+tf | E | Tom and his sister are cleaning the house for their parents' anniversary. Tom is washing the windows, and his sister is vacuuming the carpet. Later they will decorate the living room with flowers. Their parents are at the cinema and know nothing about the surprise. | Tom is washing the windows. => T ;; The parents are helping with the cleaning. => F ;; The children plan a surprise. => T | The text says: "Tom is washing the windows", "Their parents are at the cinema", "the surprise".
+tf | E | In my family we have a rule: no phones at the dinner table. Everyone puts their phone in a basket by the door. We talk about our day, and my dad often makes jokes. After dinner, we take our phones back, but sometimes we forget them for a while. | Phones are not allowed at the table. => T ;; The family eats in front of the TV. => F ;; The father makes jokes. => T | The text says: "no phones at the dinner table", "We talk about our day", "my dad often makes jokes".
+tf | E | Mrs Green lives alone in a small flat. Every day a young neighbour brings her fresh bread. In return, Mrs Green teaches him to knit. They sit together in her kitchen and talk for an hour. She says that this is the best part of her day. | A neighbour brings Mrs Green bread. => T ;; Mrs Green lives with her family. => F ;; The neighbour learns to knit. => T | The text says: "brings her fresh bread", "lives alone", "teaches him to knit".
+tf | E | A typical Sunday in our house is quiet. We get up late, and my father reads the newspaper with a cup of tea. My mother does yoga in the living room. In the afternoon we visit my aunt, who lives five minutes away, and eat her famous cake. | Sundays in the house are quiet. => T ;; The mother reads the newspaper. => F ;; The aunt lives close by. => T | The text says: "quiet", "my father reads the newspaper", "five minutes away".
+tf | E | Last weekend, Claire cleaned her wardrobe. She found many clothes she never wears and put them in a bag. On Monday she took the bag to a charity shop. The shop assistant thanked her, and Claire felt happy because someone else would wear her old clothes. | Claire cleaned her wardrobe at the weekend. => T ;; She threw the clothes away. => F ;; She gave the clothes to a charity shop. => T | The text says: "Last weekend, Claire cleaned her wardrobe", "took the bag to a charity shop".
+tf | E | When I go to bed, I always follow the same routine. I brush my teeth, put on my pyjamas and read a book for fifteen minutes. Then I turn off the light and listen to some quiet music. I usually fall asleep within ten minutes. | The writer reads before sleeping. => T ;; The writer goes to sleep immediately without any routine. => F ;; The writer listens to music in bed. => T | The text says: "read a book for fifteen minutes", "always follow the same routine", "listen to some quiet music".
+tf | E | Our dog Max wakes us up every morning at six. He wants to go for a walk in the park. My father takes him first, and then I walk him again after school. Max loves running after balls, and everyone in the park knows him. | Max wakes the family up at six. => T ;; Only the writer's father walks Max. => F ;; Max likes balls. => T | The text says: "every morning at six", "I walk him again after school", "loves running after balls".
+tf | E | A birthday dinner at our house is special. My mother cooks my favourite lasagne, and my father bakes the cake. My grandparents bring presents, and my cousins sing. Last year I got a bicycle, and this year I hope to get a guitar. | The mother cooks lasagne for the birthday. => T ;; The writer got a guitar last year. => F ;; The cousins sing. => T | The text says: "my mother cooks ... lasagne", "Last year I got a bicycle", "my cousins sing".
+mp | E | Match each daily activity with the time of day. | brush your teeth > morning and night ;; have lunch > midday ;; watch the sunset > evening ;; sleep > night | Activities belong to times of day.
+mp | E | Match each household task with the tool. | sweep the floor > a broom ;; wash clothes > a washing machine ;; iron a shirt > an iron ;; dry your hair > a hairdryer | Tools help with tasks.
+mp | E | Match each food with its meal. | cereal > breakfast ;; sandwich > lunch ;; spaghetti > dinner ;; biscuit > snack | Foods go with meals.
+mp | E | Match each room with a piece of furniture. | bedroom > wardrobe ;; kitchen > cooker ;; living room > sofa ;; bathroom > bath | Furniture belongs in rooms.
+mp | E | Match each clothing item with the weather. | umbrella > rainy ;; scarf > cold ;; sunglasses > sunny ;; boots > snowy | Clothes depend on the weather.
+mp | E | Match each person in a family with the description. | grandmother > your parent's mother ;; uncle > your parent's brother ;; cousin > your uncle's child ;; nephew > your sister's son | These are family words.
+mp | E | Match each verb with the thing you do. | brush > your teeth ;; wash > your hands ;; comb > your hair ;; shave > your face | Verbs go with parts of the body.
+mp | E | Match each shop with what you buy there. | baker's > bread ;; butcher's > meat ;; greengrocer's > vegetables ;; newsagent's > newspapers | Shops sell different things.
+mp | E | Match each object with its colour. | grass > green ;; snow > white ;; coal > black ;; banana > yellow | Things have typical colours.
+mp | E | Match each month with its season in the northern hemisphere. | January > winter ;; April > spring ;; July > summer ;; October > autumn | Months belong to seasons.
+rm | E | The Rossi family has dinner together every night at half past seven. Mrs Rossi cooks on weekdays, and Mr Rossi cooks at the weekend. The two children lay the table and wash up. Mr Rossi says that dinner is the only time when everybody talks. | Who cooks at the weekend? => Mrs Rossi / Mr Rossi* / The children ;; What do the children do? => Lay the table and wash up* / Cook the dinner / Watch TV | Mr Rossi cooks at the weekend; the children lay the table and wash up.
+rm | E | Ana keeps a diary. Every evening she writes about her day, and she sometimes draws a small picture. Yesterday she wrote about a football match, and she drew a ball. She says that when she is old she will read all the diaries and remember everything. | When does Ana write her diary? => In the morning / In the evening* / At lunchtime ;; What did she draw yesterday? => A ball* / A cat / A house | Ana writes every evening; yesterday she drew a ball.
+rm | E | We are decorating our flat for Christmas. My sister is hanging coloured lights on the window, and I am putting a star on the tree. Our mother is baking biscuits in the shape of stars. The smell makes the whole flat feel warm. | What is the writer doing? => Hanging lights / Putting a star on the tree* / Baking biscuits ;; Who is baking biscuits? => The mother* / The sister / The father | The writer puts a star on the tree; the mother bakes biscuits.
+rm | E | Every Friday, Dave helps his grandfather in his small shop. They sell old books and postcards. Dave puts prices on the books while his grandfather talks to the customers. In return, his grandfather gives him pocket money and tells him stories. | Where does Dave work on Fridays? => In a bookshop* / In a café / In a school ;; What does Dave get in return? => Pocket money and stories* / A new bike / A book | Dave helps in a small shop selling books and gets pocket money and stories.
+rm | E | When Laura moved to a new town, she did not know anyone. She joined a cooking class and met three girls there. Now they meet every Thursday and cook a different dish from a different country. Last week they made Japanese sushi, and it was delicious. | How did Laura make friends? => By joining a cooking class* / By going to school / By visiting neighbours ;; What did they cook last week? => Sushi* / Pizza / Tacos | Laura met friends in a cooking class; last week they made sushi.
+oo | E | Seasons | winter, summer, spring | Monday | Monday is a day, not a season.
+oo | E | Members of the family | uncle, cousin, niece | pencil | A pencil is an object, not a family member.
+vc | VT | He ___ (not / watch) TV at the moment. He is reading. | isn't watching | doesn't watch :: "At the moment" needs the present continuous. | didn't watch :: "At the moment" is present. | not watching :: "Not watching" is missing "is". | "Isn't watching" is the present continuous negative.
+vc | VT | My parents ___ (live) in Madrid for five years. | have lived | lived :: "For five years" up to now needs the present perfect. | live :: "For five years" needs the present perfect. | are living :: "are living" does not work here, because "For five years" needs the present perfect. | "Have lived" shows duration.
+vc | VT | I ___ (buy) a new bag yesterday. It was cheap. | bought | buy :: "Yesterday" needs the past. | buyed :: "Buy" is irregular. | have bought :: "Yesterday" needs the past simple. | "Bought" is the past simple.
+vc | VT | She ___ (arrive) at the station ten minutes ago. | arrived | arrives :: "Ago" needs the past. | has arrived :: "Ago" needs the past simple. | arriving :: "Arriving" needs "is". | "Arrived" is the past simple.
+vc | VT | They ___ (be) happy when they heard the news. | were | was :: "They" needs "were". | are :: The sentence is in the past. | been :: "Been" needs "have". | "Were" is the past of "be" for "they".
+vc | VT | He ___ (ride) his bike to school every day. | rides | ride :: "He" needs -s. | rode :: "Every day" shows a habit. | riding :: "Riding" needs "is". | "Rides" is the present simple.
+vc | VT | We ___ (leave) the house at eight o'clock tomorrow. | are leaving | left :: "Tomorrow" is future. | leave :: An arrangement uses the present continuous. | have left :: "have left" does not work here, because "Tomorrow" is future. | "Are leaving" expresses an arrangement.
+vc | VT | The teacher ___ (explain) the rule again yesterday. | explained | explain :: "Yesterday" needs the past. | explains :: "explains" does not work here, because "Yesterday" needs the past. | explaining :: "Explaining" is not a finite verb. | "Explained" is the past simple.
+vc | VT | I ___ (try) to call you three times, but you didn't answer. | tried | try :: The sentence is in the past. | tryed :: Verbs ending in consonant + y change to -ied. | tries :: "tries" does not work here, because the sentence is in the past. | "Tried" is the past of "try".
+vc | VT | He ___ (stop) the car and got out. | stopped | stop :: The sentence is in the past. | stoped :: The final consonant is doubled. | stops :: "stops" does not work here, because the sentence is in the past. | "Stopped" doubles the final consonant.
+vc | VT | The plane ___ (land) safely an hour ago. | landed | land :: "Ago" needs the past. | lands :: "lands" does not work here, because "Ago" needs the past. | landing :: "Landing" is not a finite verb. | "Landed" is the past simple.
+vc | VT | She ___ (open) the window because the room was hot. | opened | open :: The sentence is in the past. | opens :: "opens" does not work here, because the sentence is in the past. | opening :: "Opening" is not a finite verb. | "Opened" is the past simple.
+vc | MOD | ___ I (borrow) your bike, please? | Can I borrow | Do I can borrow :: "Can" never takes "do". | Can I to borrow :: "Can" is not followed by "to". | I can borrow :: A question needs the modal first. | "Can I borrow" asks for permission.
+vc | MOD | He ___ (can / not) come tonight. He is working. | can't | doesn't can :: "Can" never takes "doesn't". | cannot to :: "Cannot" is not followed by "to". | no can :: "No can" is not standard. | "Can't" shows that it is not possible.
+vc | MOD | We ___ (should / go) to bed earlier tonight. | should go | should to go :: "Should" is not followed by "to". | shoulds go :: Modal verbs do not take -s. | should going :: "Should" is followed by the base form. | "Should go" gives advice.
+vc | MOD | You ___ (mustn't / forget) your passport. | mustn't forget | don't must forget :: "Must" never takes "don't". | mustn't to forget :: "Mustn't" is not followed by "to". | musts not forget :: "Must" never takes -s. | "Mustn't forget" is a strong warning.
+vc | GER | I enjoy ___ (listen) to jazz music. | listening | to listen :: "Enjoy" is followed by a gerund. | listen :: The base form cannot follow "enjoy". | listened :: The past form does not follow "enjoy". | "Enjoy + gerund".
+vc | GER | We decided ___ (stay) at home last night. | to stay | staying :: "Decide" is followed by "to + verb". | stay :: "Decide" needs "to". | stayed :: The past form does not follow "decide". | "Decide to + verb".
+vc | GER | Do you mind ___ (wait) a moment? | waiting | to wait :: "Mind" is followed by a gerund. | wait :: The base form cannot follow "mind". | waited :: The past form does not follow "mind". | "Mind + gerund".
+vc | GER | She learned ___ (drive) when she was eighteen. | to drive | driving :: "Learn" is followed by "to + verb". | drive :: "Learn" needs "to". | drove :: The past form does not follow "learn". | "Learn to + verb".
+vc | PHR | She ___ (turn) down the offer because the salary was low. | turned | turn :: The sentence is in the past. | turns :: "turns" does not work here, because the sentence is in the past. | turning :: "Turning" is not a finite verb. | "Turned down" means refused.
+vc | PHR | They ___ (set) up a new company last year. | set | sets :: "Last year" needs the past. | setted :: "Set" is irregular. | setting :: "Setting" is not a finite verb. | "Set up" is the past of "set up".
+vc | PREP | She ___ (wait) for the bus for twenty minutes yesterday. | waited | wait :: The sentence is in the past. | waits :: "waits" does not work here, because the sentence is in the past. | waiting :: "Waiting" needs "was". | "Waited" is the past simple.
+vc | CONF | I ___ (lose) my phone at the cinema last night. | lost | lose :: "Last night" needs the past. | loosed :: "Loosed" means released. | losed :: "Lose" is irregular. | "Lost" is the past of "lose".
+vf | VT | He is a good cook. He ___ dinner for us every Friday. | makes | make :: "He" needs -s. | made :: "Every Friday" shows a habit. | making :: "Making" needs "is". | "Makes" is the present simple.
+vf | VT | They ___ a new house in the country. | have bought | buy :: The present perfect connects the action with now. | buyed :: "Buy" is irregular. | are buy :: "Are buy" is not grammatical. | "Have bought" is the present perfect.
+vf | VT | I usually ___ the bus to school, but today I'm walking. | take | takes :: "I" does not take -s. | took :: "Usually" shows a habit. | am taking :: "am taking" does not work here, because "Usually" shows a habit. | "Take" is the present simple.
+vf | VT | She ___ for her keys when she found the old photo. | was looking | looked :: The longer action needs the past continuous. | is looking :: The sentence is in the past. | looks :: "looks" does not work here, because the sentence is in the past. | "Was looking" is the past continuous.
+vf | VT | The baby ___ now. Please be quiet. | is sleeping | sleeps :: "Now" needs the present continuous. | slept :: "Now" is present. | sleep :: "The baby" needs "is". | "Is sleeping" is the present continuous.
+vf | VT | We ___ to the beach every summer when we were children. | went | go :: "When we were children" is past. | have gone :: "When we were children" is a finished time. | are going :: "are going" does not work here, because "When we were children" is past. | "Went" is the past simple.
+vf | VT | I'm sorry, I ___ your name. What is it again? | forgot | forget :: "Forget" is the base form. | forgetting :: "Forgetting" is not a finite verb. | forgotten :: "Forgotten" is a past participle. | "Forgot" is the past simple.
+vf | VT | He ___ the match on TV last night. | watched | watch :: "Last night" needs the past. | watches :: "watches" does not work here, because "Last night" needs the past. | watching :: "Watching" is not a finite verb. | "Watched" is the past simple.
+vf | VT | Be quiet! I ___ for an exam. | am studying | study :: "Be quiet" suggests the present continuous. | studied :: "Be quiet" is present. | studies :: "I" does not take -s. | "Am studying" is the present continuous.
+vf | VT | They ___ in the garden when it started to rain. | were working | worked :: The longer action needs the past continuous. | are working :: The sentence is in the past. | was working :: "They" needs "were". | "Were working" is the past continuous.
+vf | VT | We ___ each other since we were children. | have known | knew :: "Since we were children" needs the present perfect. | know :: "Since" needs the present perfect. | are knowing :: "Know" is not used in the continuous. | "Have known" shows duration.
+vf | MOD | You ___ do your homework before you play. | should | can't :: "Can't" would mean it is impossible. | needn't :: "Needn't" removes the advice. | might :: "Might" shows possibility. | "Should" gives advice.
+vf | MOD | ___ I ask you a question? | May | Must :: "Must I ask" asks about obligation. | Do :: "Do I ask" asks about a habit. | Would :: "Would I ask" does not request permission. | "May I ask" is a polite request.
+vf | MOD | She ___ be at home. The lights are off. | can't | must :: "Must be" would conclude the opposite. | should :: "Should be" is an expectation. | needn't :: "Needn't" means it is not necessary. | "Can't be" means it is impossible.
+vf | MOD | You ___ wear a seat belt. It's the law. | have to | might :: "Might" shows possibility. | could :: "Could" shows possibility. | would :: "Would" does not show a rule. | "Have to" shows a rule.
+vf | GER | He's afraid of ___ in the sea. | swimming | to swim :: After a preposition we use the -ing form. | swim :: After a preposition we need the -ing form. | swam :: The past form does not follow a preposition. | "Afraid of + gerund".
+vf | GER | I want ___ you something. | to show | showing :: "Want" is followed by "to + verb". | show :: "Want" needs "to". | showed :: The past form does not follow "want". | "Want to + verb".
+vf | GER | They finished ___ at nine. | working | to work :: "Finish" is followed by a gerund. | work :: The base form cannot follow "finish". | worked :: The past form does not follow "finish". | "Finish + gerund".
+vf | PHR | I ___ my homework before dinner, then I played. | did | made :: "Make homework" is not standard. | took :: "Take homework" has a different meaning. | had :: "Have homework" means you own it. | "Do homework" is standard.
+wb | E | We usually ___ dinner at seven o'clock. | have | do :: "Do dinner" is not standard. | make :: "Make dinner" means to prepare it. | take :: "Take dinner" is not usual. | "Have dinner" means to eat it.
+wb | E | He's in the bathroom. He's ___ a shower. | taking | making :: "Make a shower" is not standard. | doing :: "Do a shower" is not standard. | putting :: "Put a shower" is not standard. | "Taking a shower" is standard.
+wb | E | Please ___ the bed before you leave. | make | do :: "Do the bed" is not standard. | put :: "Put the bed" is not standard. | take :: "Take the bed" is not standard. | "Make the bed" is the standard collocation.
+wb | E | My mother always ___ the washing-up after dinner. | does | makes :: "Make the washing-up" is not standard. | takes :: "Take the washing-up" is not standard. | has :: "Have the washing-up" is not standard. | "Do the washing-up" is the standard collocation.
+wb | E | Can you ___ the rubbish out, please? | take | give :: "Give the rubbish out" has a different meaning. | make :: "Make the rubbish out" is not standard. | do :: "Do the rubbish out" is not standard. | "Take out the rubbish".
+wb | E | I'm hungry. Let's ___ lunch. | have | do :: "Do lunch" is not standard. | make :: "Make lunch" means to prepare it. | take :: "Take lunch" is not usual. | "Have lunch" means to eat it.
+wb | MOD | ___ you pass me that book, please? | Could | Must :: "Must you" is not a request. | Should :: "Should you" is not a request. | Might :: "Might you" is too formal. | "Could you" is a polite request.
+wb | MOD | You ___ run in the school corridors. | mustn't | needn't :: "Needn't" means it is not necessary. | might :: "Might" shows possibility. | could :: "Could" shows possibility. | "Mustn't" shows a prohibition.
+wb | GER | He's very good ___ solving puzzles. | at | in :: "Good in" is not usual. | on :: "Good on" has a different meaning. | for :: "Good for" means beneficial. | The adjective "good" is followed by "at" for a skill.
+wb | GER | I'm thinking ___ moving to the city. | of | at :: "Think at" is not correct. | in :: "Think in" is not correct. | to :: "Think to" is not correct. | "Think of + gerund".
+wb | PREP | The shop opens ___ nine o'clock. | at | on :: "On" is used with days. | in :: "In" is used with months. | by :: "By" shows a deadline. | "At" is used with clock times.
+wb | PREP | I got a present ___ my aunt. | from | of :: "Of" does not show the giver. | by :: "By" shows the author. | to :: "To" shows the receiver. | "From" shows the giver.
+wb | PREP | We usually travel ___ plane. | by | with :: "With" is not used for transport. | in :: "In plane" is not the fixed expression. | on :: "On plane" is not the fixed expression. | "By" is used before the means of transport.
+wb | ART | He always carries ___ umbrella in his bag. | an | a :: "Umbrella" begins with a vowel sound. | the :: We do not mean a specific one. | – :: A singular noun needs an article. | "An" is used before a vowel sound.
+wb | ART | We live near ___ sea. | the | a :: There is only one sea nearby. | an :: "an" does not work here, because there is only one sea nearby. | – :: "Sea" needs "the". | "The sea" is the usual expression.
+wb | ADJ | He drives very ___. Be careful with him! | fast | fastly :: "Fast" is an adverb without -ly. | faster :: "Faster" compares. | fastest :: "Fastest" is a superlative. | "Fast" is both an adjective and an adverb.
+wb | CONF | I can't ___ the answer to this question. | find | search :: "Search" needs "for". | look :: "Look" needs "for". | seek :: "Seek" is formal. | "Find" means to discover.
+pw | E | the | Please wash dishes after dinner | 2 | "The" is used for specific dishes.
+pw | E | a | I take shower every morning | 2 | "A" goes before the noun.
+pw | E | the | We watch news every evening | 2 | "The" is used with "news".
+pw | E | up | My alarm clock wakes me at seven | 4 | "Wake up" means to stop sleeping.
+pw | E | out | We sometimes eat on Fridays | 3 | "Eat out" means to eat at a restaurant.
+pw | E | to | I go bed at ten | 2 | "Go to bed" is the fixed expression.
+pw | E | in | I always stay bed on Sundays | 3 | "Stay in bed" is the fixed expression.
+pw | E | for | We go a walk every evening | 2 | "Go for a walk" is the fixed expression.
+pw | MOD | not | You should eat too much | 2 | "Not" follows the modal.
+pw | MOD | can | I help you | 1 | A modal comes before the main verb.
+pw | MOD | should | We leave now | 1 | "Should" gives advice.
+pw | GER | to | She wants go home | 2 | "Want" is followed by "to + verb".
+pw | GER | for | Thanks inviting me | 1 | "Thanks for + gerund".
+pw | PREP | on | We go to the beach Sundays | 5 | "On" is used with days.
+pw | PREP | in | I was born a small town | 3 | "In" is used with towns.
+pw | PREP | at | They are the cinema now | 2 | "At" is used for places like the cinema.
+es | E | I [make] my homework after school. | do | We say "do homework".
+es | E | She [does] the bed every morning. | makes | We say "make the bed".
+es | VT | We [watches] TV last night. | watched | "Last night" needs the past simple.
+es | VT | She [goed] to the market yesterday. | went | "Go" is irregular.
+es | VT | They [doesn't] like pizza. | don't | "They" takes "don't".
+es | ART | I like [the] pizza. | delete "the" | We do not use an article for a general idea.
+es | ART | He is [a] best player. | the | A superlative needs "the".
+es | PREP | They live [on] London. | in | We use "in" with cities.
+es | PREP | We go to school [with] bus. | by | We use "by" with transport.
+es | GER | I'm tired [to] waiting. | of | We say "tired of".
+wo | VT | She was reading a book when I called her.
+wo | VT | They have lived in this town for ten years.
+wo | VT | I didn't see him at the party last night.
+wo | VT | He goes to the gym three times a week.
+wo | VT | We are going to have a picnic on Sunday.
+wo | MOD | You mustn't use your phone during the exam.
+wo | MOD | Could you tell me how to get to the library?
+wo | MOD | We don't have to wear a uniform on Fridays.
+wo | MOD | She might be late because of the traffic.
+wo | GER | He is afraid of speaking in front of people.
+wo | GER | I'd like to travel around the world one day.
+wo | GER | My brother is good at fixing old bicycles.
+wo | PREP | The shop is opposite the bank on the corner.
+wo | PREP | We go to the beach by bus every summer.
+wo | PREP | I'm waiting for my friend outside the cinema.
+wo | PREP | The film starts at half past eight tonight.
+wo | ART | I need an umbrella because it's raining outside.
+wo | ART | She plays the piano and the guitar very well.
+wo | ART | What a beautiful day for a walk in the park!
+wo | PRON | I don't know anyone in this town yet.
+wo | PRON | Would you like some more tea or coffee?
+wo | PRON | This is the girl whose bag was stolen.
+wo | PRON | They enjoyed themselves at the school party.
+wo | ADJ | This exercise is easier than the last one.
+wo | ADJ | Winter is the coldest season of the year.
+wo | ADJ | He is not old enough to drive a car.
+wo | PHR | Don't forget to turn off the lights.
+wo | PHR | I'm looking forward to the summer holidays.
+wo | PHR | She picked up the phone and said hello.
+wo | CONF | My sister told me a funny story yesterday.
+wo | CONF | I can't hear you. Could you speak louder?
+wo | CONF | He lent me his bike for the weekend.
+wo | E | We usually have breakfast together on Sundays.
+wo | E | My father makes the bed every morning.
+fb | PREP | I'm afraid ___ spiders. | of | from :: "Afraid from" is not correct. | at :: "Afraid at" is not correct. | with :: "Afraid with" is not correct. | The adjective "afraid" is followed by the preposition "of".
+fb | PREP | She is good ___ maths. | at | in :: "Good in" is not usual. | on :: "Good on" has a different meaning. | for :: "Good for" means beneficial. | The adjective "good" is followed by "at" for a skill.
+fb | ART | He plays ___ guitar in a band. | the | a :: With instruments we use "the". | an :: "an" does not work here, because with instruments we use "the". | – :: "–" does not work here, because with instruments we use "the". | "The" is used with instruments.
+fb | ADJ | This is the ___ pizza in town. | best | better :: "Better" compares two. | goodest :: "Good" is irregular. | most good :: "most good" does not work here, because "Good" is irregular. | "Best" is the superlative of "good".
+fb | MOD | You ___ to be 18 to vote. | have | must :: "Must to" is not correct. | should :: "Should to" is not correct. | can :: "Can to" is not correct. | "Have to" shows a rule.
+sc | PRON | I don't know anybody here. | I don't know nobody here. :: A double negative is incorrect. | I don't know somebody here. :: "Somebody" is used in positive sentences. | "Anybody" is used after a negative verb.
+sc | ADJ | This book is better than that one. | This book is more good than that one. :: "Good" has an irregular comparative. | This book is gooder than that one. :: "Gooder" does not exist. | "Better" is the comparative of "good".
+sc | ART | She is an honest girl. | She is a honest girl. :: "Honest" begins with a vowel sound. | She is honest girl. :: A singular noun needs an article. | "An" is used before a vowel sound.
+sc | VT | He has lived here since 2010. | He lives here since 2010. :: "Since 2010" needs the present perfect, not the present simple. | He is living here since 2010. :: "Since 2010" needs the present perfect, not the continuous. | "Has lived" shows duration.
+sc | GER | They enjoy playing football. | They enjoy to play football. :: "Enjoy" is followed by a gerund. | They enjoy play football. :: The base form cannot follow "enjoy". | "Enjoy + gerund".
+sc | E | She makes the bed every morning. | She does the bed every morning. :: The collocation is "make the bed". | She puts the bed every morning. :: "Put the bed" is not standard. | "Make the bed".
+sc | PHR | We ran out of milk. | We ran out milk. :: "Of" is missing. | We ran off of milk. :: "Run off" means to leave quickly. | "Run out of" means to have none left.

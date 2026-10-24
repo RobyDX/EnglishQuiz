@@ -49,7 +49,8 @@ Dettagli e quote in `07-contenuti.md`. Per ogni livello: scrivere i lotti per ti
 ### Fase 4b – Espansione a 5000 domande per livello (decisione 39)
 Per ogni livello: rimuovere i duplicati esistenti, aggiungere ~3000 domande bilanciate per tipologia (quote di `07`) e argomento, senza duplicati; `EXPANDED_LEVELS` in `data.test.ts` include il livello quando ha 5000 domande e nessuna frase ripetuta.
 - [x] A1 – 5000 domande (104 duplicati rimossi, 3104 nuove). Argomenti: verb-tenses 21,1% (poco sopra il 20%: `verb-form` e `verb-conjugate` sono quasi solo tempi verbali), everyday-life 13,0%, travel 8,3%, articles 7,9%, pronouns 7,8%, society 7,5%, work 7,2%, adjectives 6,7%, prepositions 6,1%, modal-verbs 5,1%, phrasal 3,3%, confusing-words 3,1%, gerunds 3,0% (queste ultime tre sono argomenti stretti a A1). *conditionals* e *passive* non compaiono a A1 per scelta.
-- [ ] A2
+  - [x] Revisione A1 con scrittura a mano: 615 domande di vocabolario generate in modo meccanico (completamenti, scelte multiple, scelta frase, banca di parole, intrusi) sostituite con domande scritte a mano, con alternative sbagliate dello stesso campo semantico e un motivo specifico per ogni errore. Restano meccaniche solo 8 domande di scelta frase (carenza di righe valide).
+- [x] A2 – 5000 domande (106 duplicati rimossi, 3106 nuove **scritte a mano**, con alternative sbagliate dello stesso campo semantico e un motivo specifico per ogni errore; quote di `07-contenuti.md` rispettate per ogni tipologia). Argomenti: verb-tenses 22,8% (le domande originali di `verb-form`/`verb-conjugate` sono quasi solo tempi verbali), adjectives 9,0%, everyday 8,6%, prepositions 7,4%, travel 7,2%, society 6,9%, work 6,7%, articles 6,0%, modal 5,8%, gerunds 5,4%, confusing-words 5,3%, phrasal 5,2%, pronouns 5,1%. *conditionals* e *passive* non compaiono ancora a A2: da aggiungere in una revisione successiva.
 - [ ] B1
 - [ ] B2
 - [ ] C1

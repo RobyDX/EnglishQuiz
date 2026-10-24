@@ -1242,27 +1242,6 @@
       }
     },
     {
-      "id": "a2-sc-060",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "much-many",
-      "topics": [
-        "articles-determiners"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"a little\" for a small amount of an uncountable noun: a little rain.",
-      "options": [
-        "We have only many rain.",
-        "We have only much rain.",
-        "We have only a little rain."
-      ],
-      "correct": 2,
-      "wrongReasons": {
-        "0": "\"many\" is used with countable nouns. \"rain\" is uncountable.",
-        "1": "\"much\" does not go after \"only\". For a small amount we say \"a little\"."
-      }
-    },
-    {
       "id": "a2-sc-061",
       "type": "sentence-choice",
       "level": "A2",
@@ -1302,132 +1281,6 @@
       "wrongReasons": {
         "0": "\"many\" is used with countable nouns. \"traffic\" is uncountable.",
         "1": "\"a few\" is used with plural countable nouns, not with \"traffic\"."
-      }
-    },
-    {
-      "id": "a2-sc-063",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "much-many",
-      "topics": [
-        "articles-determiners"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"too much\" with uncountable nouns: too much snow.",
-      "options": [
-        "There is too much snow in the soup.",
-        "There is too a snow in the soup.",
-        "There is too many snow in the soup."
-      ],
-      "correct": 0,
-      "wrongReasons": {
-        "1": "\"a\" cannot be used with an uncountable noun like \"snow\".",
-        "2": "\"many\" is used with countable nouns. \"snow\" is uncountable."
-      }
-    },
-    {
-      "id": "a2-sc-064",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "much-many",
-      "topics": [
-        "articles-determiners"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"a little\" for a small amount of an uncountable noun: a little snow.",
-      "options": [
-        "We have only a little snow.",
-        "We have only much snow.",
-        "We have only many snow."
-      ],
-      "correct": 0,
-      "wrongReasons": {
-        "1": "\"much\" does not go after \"only\". For a small amount we say \"a little\".",
-        "2": "\"many\" is used with countable nouns. \"snow\" is uncountable."
-      }
-    },
-    {
-      "id": "a2-sc-065",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "much-many",
-      "topics": [
-        "articles-determiners"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"many\" with plural countable nouns in questions: How many students?",
-      "options": [
-        "How a little students do you need?",
-        "How many students do you need?",
-        "How a students do you need?"
-      ],
-      "correct": 1,
-      "wrongReasons": {
-        "0": "\"a little\" is used with uncountable nouns. \"students\" is countable.",
-        "2": "\"a\" is used with one thing. \"students\" is plural."
-      }
-    },
-    {
-      "id": "a2-sc-066",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "much-many",
-      "topics": [
-        "articles-determiners"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"much\" with uncountable nouns in questions: How much music?",
-      "options": [
-        "How much music do you need?",
-        "How a few music do you need?",
-        "How many music do you need?"
-      ],
-      "correct": 0,
-      "wrongReasons": {
-        "1": "\"a few\" is used with plural countable nouns, not with \"music\".",
-        "2": "\"many\" is used with countable nouns. \"music\" is uncountable."
-      }
-    },
-    {
-      "id": "a2-sc-067",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "much-many",
-      "topics": [
-        "articles-determiners"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"too much\" with uncountable nouns: too much pasta.",
-      "options": [
-        "There is too a pasta in the soup.",
-        "There is too many pasta in the soup.",
-        "There is too much pasta in the soup."
-      ],
-      "correct": 2,
-      "wrongReasons": {
-        "0": "\"a\" cannot be used with an uncountable noun like \"pasta\".",
-        "1": "\"many\" is used with countable nouns. \"pasta\" is uncountable."
-      }
-    },
-    {
-      "id": "a2-sc-068",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "much-many",
-      "topics": [
-        "articles-determiners"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"much\" with uncountable nouns in questions: How much salt?",
-      "options": [
-        "How many salt do you need?",
-        "How much salt do you need?",
-        "How a salt do you need?"
-      ],
-      "correct": 1,
-      "wrongReasons": {
-        "0": "\"many\" is used with countable nouns. \"salt\" is uncountable.",
-        "2": "\"a\" is used with one countable thing. \"salt\" is uncountable."
       }
     },
     {
@@ -1662,174 +1515,6 @@
       }
     },
     {
-      "id": "a2-sc-080",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "modals",
-      "topics": [
-        "modal-verbs"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"don't have to\" for something that is not necessary: Tom don't have to pay for the ticket. It is free for children.",
-      "options": [
-        "Tom can pay for the ticket. It is free for children.",
-        "Tom don't have to pay for the ticket. It is free for children.",
-        "Tom mustn't pay for the ticket. It is free for children."
-      ],
-      "correct": 1,
-      "wrongReasons": {
-        "0": "\"can\" is used for ability or permission, but this sentence is about something not necessary.",
-        "2": "\"mustn't\" is used for something that is forbidden, but this sentence is about something not necessary."
-      }
-    },
-    {
-      "id": "a2-sc-081",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "modals",
-      "topics": [
-        "modal-verbs"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"can\" for ability or permission: Anna can speak three languages. She is very clever.",
-      "options": [
-        "Anna should speak three languages. She is very clever.",
-        "Anna can speak three languages. She is very clever.",
-        "Anna must speak three languages. She is very clever."
-      ],
-      "correct": 1,
-      "wrongReasons": {
-        "0": "\"should\" is used for advice, but this sentence is about ability.",
-        "2": "\"must\" is used for a strong rule or need, but this sentence is about ability."
-      }
-    },
-    {
-      "id": "a2-sc-082",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "modals",
-      "topics": [
-        "modal-verbs"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"shouldn't\" for advice against something: He shouldn't drive so fast. It is not a good idea.",
-      "options": [
-        "He should drive so fast. It is not a good idea.",
-        "He have to drive so fast. It is not a good idea.",
-        "He shouldn't drive so fast. It is not a good idea."
-      ],
-      "correct": 2,
-      "wrongReasons": {
-        "0": "\"should\" is used for advice, but this sentence is about advice against something.",
-        "1": "\"have to\" is used for something that is necessary, but this sentence is about advice against something."
-      }
-    },
-    {
-      "id": "a2-sc-083",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "modals",
-      "topics": [
-        "modal-verbs"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"don't have to\" for something that is not necessary: You don't have to bring a pen. We have lots of pens here.",
-      "options": [
-        "You can't bring a pen. We have lots of pens here.",
-        "You have to bring a pen. We have lots of pens here.",
-        "You don't have to bring a pen. We have lots of pens here."
-      ],
-      "correct": 2,
-      "wrongReasons": {
-        "0": "\"can't\" is used for inability or something that is not allowed, but this sentence is about something not necessary.",
-        "1": "\"have to\" is used for something that is necessary, but this sentence is about something not necessary."
-      }
-    },
-    {
-      "id": "a2-sc-084",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "modals",
-      "topics": [
-        "modal-verbs"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"mustn't\" for something that is forbidden: Children mustn't play near the river. It is dangerous and forbidden.",
-      "options": [
-        "Children must play near the river. It is dangerous and forbidden.",
-        "Children don't have to play near the river. It is dangerous and forbidden.",
-        "Children mustn't play near the river. It is dangerous and forbidden."
-      ],
-      "correct": 2,
-      "wrongReasons": {
-        "0": "\"must\" is used for a strong rule or need, but this sentence is about something forbidden.",
-        "1": "\"don't have to\" is used for something that is not necessary, but this sentence is about something forbidden."
-      }
-    },
-    {
-      "id": "a2-sc-085",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "modals",
-      "topics": [
-        "modal-verbs"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"must\" (or \"have to\") for a strong rule or need: Students must wear a uniform at our school. It is the rule.",
-      "options": [
-        "Students must wear a uniform at our school. It is the rule.",
-        "Students should wear a uniform at our school. It is the rule.",
-        "Students mustn't wear a uniform at our school. It is the rule."
-      ],
-      "correct": 0,
-      "wrongReasons": {
-        "1": "\"should\" is used for advice, but this sentence is about a rule or something necessary.",
-        "2": "\"mustn't\" is used for something that is forbidden, but this sentence is about a rule or something necessary."
-      }
-    },
-    {
-      "id": "a2-sc-086",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "modals",
-      "topics": [
-        "modal-verbs"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"mustn't\" for something that is forbidden: You mustn't smoke in the hospital. It is against the rules.",
-      "options": [
-        "You mustn't smoke in the hospital. It is against the rules.",
-        "You can't smoke in the hospital. It is against the rules.",
-        "You can smoke in the hospital. It is against the rules."
-      ],
-      "correct": 0,
-      "wrongReasons": {
-        "1": "\"can't\" is used for inability or something that is not allowed, but this sentence is about something forbidden.",
-        "2": "\"can\" is used for ability or permission, but this sentence is about something forbidden."
-      }
-    },
-    {
-      "id": "a2-sc-087",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "modals",
-      "topics": [
-        "modal-verbs"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"must\" (or \"have to\") for a strong rule or need: I must finish my homework tonight. It is compulsory.",
-      "options": [
-        "I should finish my homework tonight. It is compulsory.",
-        "I can't finish my homework tonight. It is compulsory.",
-        "I must finish my homework tonight. It is compulsory."
-      ],
-      "correct": 2,
-      "wrongReasons": {
-        "0": "\"should\" is used for advice, but this sentence is about a rule or something necessary.",
-        "1": "\"can't\" is used for inability or something that is not allowed, but this sentence is about a rule or something necessary."
-      }
-    },
-    {
       "id": "a2-sc-088",
       "type": "sentence-choice",
       "level": "A2",
@@ -1848,27 +1533,6 @@
       "wrongReasons": {
         "0": "\"ago\" is used for a time back from now (two days ago). Here we need \"during\" (something that is happening (during the film)).",
         "1": "\"for\" is used for a length of time (for two hours). Here we need \"during\" (something that is happening (during the film))."
-      }
-    },
-    {
-      "id": "a2-sc-089",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "prepositions",
-      "topics": [
-        "prepositions"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"during\" for something that is happening (during the film): He talked during the holidays.",
-      "options": [
-        "He talked for the holidays.",
-        "He talked during the holidays.",
-        "He talked since the holidays."
-      ],
-      "correct": 1,
-      "wrongReasons": {
-        "0": "\"for\" is used for a length of time (for two hours). Here we need \"during\" (something that is happening (during the film)).",
-        "2": "\"since\" is used for a starting point in time (since Monday). Here we need \"during\" (something that is happening (during the film))."
       }
     },
     {
@@ -1911,27 +1575,6 @@
       "wrongReasons": {
         "0": "\"down\" means to a lower place on something, not \"to a higher place on\".",
         "2": "\"through\" means in one side and out of the other side of something, not \"to a higher place on\"."
-      }
-    },
-    {
-      "id": "a2-sc-092",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "prepositions",
-      "topics": [
-        "prepositions"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"ago\" for a time back from now (two days ago): She called me a week ago.",
-      "options": [
-        "She called me a week for.",
-        "She called me a week during.",
-        "She called me a week ago."
-      ],
-      "correct": 2,
-      "wrongReasons": {
-        "0": "\"for\" is used for a length of time (for two hours). Here we need \"ago\" (a time back from now (two days ago)).",
-        "1": "\"during\" is used for something that is happening (during the film). Here we need \"ago\" (a time back from now (two days ago))."
       }
     },
     {
@@ -2016,48 +1659,6 @@
       "wrongReasons": {
         "0": "\"through\" means in one side and out of the other side of something, not \"to a lower place on\".",
         "1": "\"along\" means in the same direction as something, not \"to a lower place on\"."
-      }
-    },
-    {
-      "id": "a2-sc-097",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "prepositions",
-      "topics": [
-        "prepositions"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "Use \"ago\" for a time back from now (two days ago): a monthhey moved here T ago.",
-      "options": [
-        "a monthhey moved here T ago.",
-        "a monthhey moved here T for.",
-        "a monthhey moved here T since."
-      ],
-      "correct": 0,
-      "wrongReasons": {
-        "1": "\"for\" is used for a length of time (for two hours). Here we need \"ago\" (a time back from now (two days ago)).",
-        "2": "\"since\" is used for a starting point in time (since Monday). Here we need \"ago\" (a time back from now (two days ago))."
-      }
-    },
-    {
-      "id": "a2-sc-098",
-      "type": "sentence-choice",
-      "level": "A2",
-      "topic": "prepositions",
-      "topics": [
-        "prepositions"
-      ],
-      "prompt": "Which sentence is correct?",
-      "explanation": "\"along\" means in the same direction as something: The dog ran along the river.",
-      "options": [
-        "The dog ran along the river.",
-        "The dog ran through the river.",
-        "The dog ran up the river."
-      ],
-      "correct": 0,
-      "wrongReasons": {
-        "1": "\"through\" means in one side and out of the other side of something, not \"in the same direction as\".",
-        "2": "\"up\" means to a higher place on something, not \"in the same direction as\"."
       }
     },
     {
@@ -2835,6 +2436,4724 @@
       "wrongReasons": {
         "0": "\"do\" is the present and does not agree with \"Rosa\". For the past we use \"did\".",
         "1": "\"does\" is the present. This question is about the past, so we use \"did\"."
+      }
+    },
+    {
+      "id": "a2-sc-136",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"didn't\" use the base form.",
+      "options": [
+        "She didn't went to work because she was ill.",
+        "She didn't go to work because she was ill.",
+        "She not went to work because she was ill."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "After \"didn't\" we use the base form: go.",
+        "2": "The negative needs \"didn't + base form\"."
+      }
+    },
+    {
+      "id": "a2-sc-137",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Enjoy is followed by -ing.",
+      "options": [
+        "I enjoy travel by train.",
+        "I enjoy to travel by train.",
+        "I enjoy travelling by train."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "After \"enjoy\" we use the -ing form.",
+        "0": "After \"enjoy\" we need the -ing form: travelling."
+      }
+    },
+    {
+      "id": "a2-sc-138",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"What a\" is used in exclamations.",
+      "options": [
+        "What the lovely garden!",
+        "What a lovely garden!",
+        "What lovely garden!"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "In exclamations with a singular noun we use \"a\".",
+        "0": "\"The\" is not used in exclamations."
+      }
+    },
+    {
+      "id": "a2-sc-139",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Someone\" is used in positive sentences.",
+      "options": [
+        "Nobody is knocking at the door.",
+        "Anyone is knocking at the door.",
+        "Someone is knocking at the door."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Anyone\" is used in questions and negatives.",
+        "0": "\"Nobody\" has a negative meaning."
+      }
+    },
+    {
+      "id": "a2-sc-140",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Make a mistake\" is the standard collocation.",
+      "options": [
+        "He took a mistake.",
+        "He made a mistake.",
+        "He did a mistake."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The collocation is \"make a mistake\".",
+        "0": "\"Take a mistake\" is not standard."
+      }
+    },
+    {
+      "id": "a2-sc-141",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Give up\" means to stop.",
+      "options": [
+        "They gave out the idea.",
+        "They gave in the idea.",
+        "They gave up the idea."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Give out\" means to distribute.",
+        "1": "\"Give in\" means to surrender."
+      }
+    },
+    {
+      "id": "a2-sc-142",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"can\" we use the base form without -s and without \"to\".",
+      "options": [
+        "She can swim very well.",
+        "She cans swim very well.",
+        "She can to swim very well."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "Modal verbs never take -s in the third person.",
+        "2": "A modal is followed by the base form without \"to\"."
+      }
+    },
+    {
+      "id": "a2-sc-143",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Tell\" takes a person.",
+      "options": [
+        "He spoke me the truth.",
+        "He said me the truth.",
+        "He told me the truth."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Say\" cannot take a person directly.",
+        "0": "\"Speak\" does not take \"the truth\"."
+      }
+    },
+    {
+      "id": "a2-sc-144",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Her\" is an object pronoun.",
+      "options": [
+        "I like her very much.",
+        "I like she very much.",
+        "I like hers very much."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "After a verb we use an object pronoun.",
+        "2": "\"Hers\" is a possessive pronoun."
+      }
+    },
+    {
+      "id": "a2-sc-145",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Borrow\" means to take something for a time.",
+      "options": [
+        "I need to borrow a pen from you.",
+        "I need to rent a pen from you.",
+        "I need to lend a pen from you."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Lend\" means to give; \"borrow\" means to take for a time.",
+        "1": "You rent things like cars or flats, not a pen."
+      }
+    },
+    {
+      "id": "a2-sc-146",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"On\" is used with days.",
+      "options": [
+        "I'll see you on Monday.",
+        "I'll see you at Monday.",
+        "I'll see you in Monday."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"In\" is used with months.",
+        "1": "\"At\" is used with clock times."
+      }
+    },
+    {
+      "id": "a2-sc-147",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Who\" is used for people.",
+      "options": [
+        "The girl which sits next to me is Anna.",
+        "The girl whose sits next to me is Anna.",
+        "The girl who sits next to me is Anna."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Which\" is used for things.",
+        "1": "\"Whose\" shows possession."
+      }
+    },
+    {
+      "id": "a2-sc-148",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"told us to + verb\".",
+      "options": [
+        "The teacher spoke us to open our books.",
+        "The teacher said us to open our books.",
+        "The teacher told us to open our books."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "After \"tell\" we have a person: told us. \"Say\" does not take a person like this.",
+        "0": "\"speak\" does not take \"us to + verb\"."
+      }
+    },
+    {
+      "id": "a2-sc-149",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Decide\" is followed by \"to + verb\".",
+      "options": [
+        "We decided go to Greece.",
+        "We decided to go to Greece.",
+        "We decided going to Greece."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "After \"decide\" we use \"to + verb\".",
+        "0": "After \"decide\" we need \"to\": decided to go."
+      }
+    },
+    {
+      "id": "a2-sc-150",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "He gave it to me for a time, so we say \"lent\".",
+      "options": [
+        "My friend lent me his guidebook.",
+        "My friend lend me his guidebook.",
+        "My friend borrowed me his guidebook."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"borrow\" means to take something from someone; \"lend\" means to give it for a time.",
+        "1": "The past simple of \"lend\" is \"lent\"."
+      }
+    },
+    {
+      "id": "a2-sc-151",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Plural subjects take a plural verb.",
+      "options": [
+        "My eyes hurts when I read for a long time.",
+        "My eyes hurt when I read for a long time.",
+        "My eye hurt when I read for a long time."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"eyes\" is plural, so the verb has no -s.",
+        "2": "We have two eyes, so the plural is \"eyes\"."
+      }
+    },
+    {
+      "id": "a2-sc-152",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Better\" is the comparative of \"good\".",
+      "options": [
+        "He were ill last week, but now he is better.",
+        "He was ill last week, but now he is gooder.",
+        "He was ill last week, but now he is better."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The comparative of \"good\" is \"better\".",
+        "0": "With \"he\" we use \"was\", not \"were\"."
+      }
+    },
+    {
+      "id": "a2-sc-153",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Questions with \"can\" invert the subject and the modal.",
+      "options": [
+        "Can you help me, please?",
+        "Do you can help me, please?",
+        "You can help me, please?"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Can\" is a modal and never uses \"do\".",
+        "2": "A question needs the modal before the subject."
+      }
+    },
+    {
+      "id": "a2-sc-154",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "We say \"wait for the bus\".",
+      "options": [
+        "We have to wait at the bus.",
+        "We have to wait the bus.",
+        "We have to wait for the bus."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "We say \"wait for\" something or someone.",
+        "0": "\"wait at the bus\" means a different thing; we say \"wait for the bus\"."
+      }
+    },
+    {
+      "id": "a2-sc-155",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"enjoy\" use -ing.",
+      "options": [
+        "She enjoys to work with children.",
+        "She enjoys work with children.",
+        "She enjoys working with children."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "After \"enjoy\" we use the -ing form.",
+        "1": "After \"enjoy\" we need -ing: working."
+      }
+    },
+    {
+      "id": "a2-sc-156",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "In negatives use \"any\".",
+      "options": [
+        "There aren't some seats left on the train.",
+        "There aren't any seats left on the train.",
+        "There isn't any seats left on the train."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "In negative sentences we use \"any\", not \"some\".",
+        "2": "\"seats\" is plural, so we use \"aren't\"."
+      }
+    },
+    {
+      "id": "a2-sc-157",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The correct phrase is \"wait for\".",
+      "options": [
+        "I'm waiting an important email.",
+        "I'm waiting to an important email.",
+        "I'm waiting for an important email."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "We say \"wait for\" something.",
+        "1": "We say \"wait for\", not \"wait to\"."
+      }
+    },
+    {
+      "id": "a2-sc-158",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use am/is/are + -ing for now.",
+      "options": [
+        "I'm work on a big project at the moment.",
+        "I'm working on a big project at the moment.",
+        "I work on a big project at the moment."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"At the moment\" asks for the present continuous: am working.",
+        "0": "After \"am\" we need -ing: working."
+      }
+    },
+    {
+      "id": "a2-sc-159",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The correct phrase is \"afraid of\".",
+      "options": [
+        "I am afraid from spiders.",
+        "I am afraid with spiders.",
+        "I am afraid of spiders."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "We say \"afraid of\", not \"afraid from\".",
+        "1": "We say \"afraid of\", not \"afraid with\"."
+      }
+    },
+    {
+      "id": "a2-sc-160",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The comparative of \"easy\" is \"easier\".",
+      "options": [
+        "This exam was more easy than the last one.",
+        "This exam was easyer than the last one.",
+        "This exam was easier than the last one."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"easy\" has two syllables ending in -y: easier.",
+        "1": "-y changes to -ier: easier."
+      }
+    },
+    {
+      "id": "a2-sc-161",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Look forward to\" is followed by a gerund.",
+      "options": [
+        "I'm looking forward see you.",
+        "I'm looking forward to seeing you.",
+        "I'm looking forward to see you."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "In \"look forward to\", \"to\" is a preposition, so we need -ing.",
+        "0": "\"To\" is missing."
+      }
+    },
+    {
+      "id": "a2-sc-162",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"How much\" is used with uncountable nouns.",
+      "options": [
+        "How much water do you drink?",
+        "How many water do you drink?",
+        "How much waters do you drink?"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Water\" is uncountable.",
+        "2": "\"Water\" has no plural form here."
+      }
+    },
+    {
+      "id": "a2-sc-163",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"May I + base form\" asks for permission.",
+      "options": [
+        "May I to come in?",
+        "May I come in?",
+        "Do I may come in?"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"May\" is not followed by \"to\".",
+        "2": "\"May\" never takes \"do\"."
+      }
+    },
+    {
+      "id": "a2-sc-164",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Pick up\" means to collect.",
+      "options": [
+        "I'll pick you up at six.",
+        "I'll pick you in at six.",
+        "I'll pick you out at six."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Pick out\" means to choose.",
+        "1": "\"Pick in\" is not a phrasal verb."
+      }
+    },
+    {
+      "id": "a2-sc-165",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Want\" is followed by an infinitive with \"to\".",
+      "options": [
+        "She wants go home.",
+        "She wants to go home.",
+        "She wants going home."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Want\" is followed by \"to + verb\".",
+        "0": "\"Want\" needs \"to\" before the verb."
+      }
+    },
+    {
+      "id": "a2-sc-166",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Look after\" means to take care of.",
+      "options": [
+        "Look at your little brother.",
+        "Look after your little brother.",
+        "Look for your little brother."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Look at\" is about seeing, not caring.",
+        "2": "\"Look for\" means to search."
+      }
+    },
+    {
+      "id": "a2-sc-167",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Don't have to\" means it is not necessary.",
+      "options": [
+        "You haven't to come.",
+        "You don't have to come.",
+        "You don't must come."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Must\" never takes \"don't\".",
+        "0": "\"Haven't to\" is not standard."
+      }
+    },
+    {
+      "id": "a2-sc-168",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Should\" is followed by the base form.",
+      "options": [
+        "We shoulds leave now.",
+        "We should leave now.",
+        "We should to leave now."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Should\" is not followed by \"to\".",
+        "0": "Modal verbs never take -s."
+      }
+    },
+    {
+      "id": "a2-sc-169",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Take off\" means to remove clothes.",
+      "options": [
+        "She took up her coat.",
+        "She took out her coat.",
+        "She took off her coat."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Take out\" means to remove from a place.",
+        "0": "\"Take up\" means to start a hobby."
+      }
+    },
+    {
+      "id": "a2-sc-170",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The negative of \"must\" in rules is \"mustn't\" or \"must not\".",
+      "options": [
+        "You mustn't talk during the film.",
+        "You don't must talk during the film.",
+        "You must not to talk during the film."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Must\" is a modal verb and never takes \"don't\".",
+        "2": "\"Must\" is not followed by \"to\"."
+      }
+    },
+    {
+      "id": "a2-sc-171",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"The\" is used with instruments.",
+      "options": [
+        "She plays guitar.",
+        "She plays a guitar.",
+        "She plays the guitar."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "With instruments we use \"the\".",
+        "1": "\"A\" does not mean the instrument in general."
+      }
+    },
+    {
+      "id": "a2-sc-172",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Decide to + verb\".",
+      "options": [
+        "We decided leave early.",
+        "We decided to leave early.",
+        "We decided leaving early."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Decide\" is followed by \"to + verb\".",
+        "0": "\"Decide\" needs \"to\" before the verb."
+      }
+    },
+    {
+      "id": "a2-sc-173",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"should\" use the base verb.",
+      "options": [
+        "You should to drink more water.",
+        "You should drink more water.",
+        "You should drinking more water."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "After \"should\" we use the base form without \"to\".",
+        "2": "After \"should\" we use the base form, not -ing."
+      }
+    },
+    {
+      "id": "a2-sc-174",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"saw\" for a finished past event.",
+      "options": [
+        "I never seen a dolphin before this holiday.",
+        "I never saw a dolphin before this holiday.",
+        "I never see a dolphin before this holiday."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"before this holiday\" talks about the past, so we need the past simple: saw.",
+        "0": "\"seen\" needs \"have\". The simple past of \"see\" is \"saw\"."
+      }
+    },
+    {
+      "id": "a2-sc-175",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Turn off\" means to switch off.",
+      "options": [
+        "Please turn the TV down off.",
+        "Please turn the TV out.",
+        "Please turn the TV off."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Turn out\" has a different meaning.",
+        "0": "Only one particle is needed."
+      }
+    },
+    {
+      "id": "a2-sc-176",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The correct phrase is \"make a mistake\".",
+      "options": [
+        "He took a mistake in the report.",
+        "He made a mistake in the report.",
+        "He did a mistake in the report."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"do\" is for tasks (do homework); a mistake is something you \"make\".",
+        "0": "\"take\" is for things like photos or a bus; we \"make\" a mistake."
+      }
+    },
+    {
+      "id": "a2-sc-177",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Listen\" is followed by \"to\" before the thing you hear.",
+      "options": [
+        "We heard to the radio.",
+        "We listened to the radio.",
+        "We listened the radio."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Listen\" needs \"to\".",
+        "0": "\"Hear\" does not take \"to\"."
+      }
+    },
+    {
+      "id": "a2-sc-178",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"feel\" we use an adjective: ill.",
+      "options": [
+        "I feel illness, so I am staying in bed.",
+        "I feel sickness, so I am staying in bed.",
+        "I feel ill, so I am staying in bed."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"illness\" is a noun. After \"feel\" we need an adjective: ill.",
+        "1": "\"sickness\" is a noun. After \"feel\" we need an adjective: sick or ill."
+      }
+    },
+    {
+      "id": "a2-sc-179",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Mine\" shows ownership without a noun.",
+      "options": [
+        "Is that your laptop? No, it's my.",
+        "Is that your laptop? No, it's me.",
+        "Is that your laptop? No, it's mine."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"my\" needs a noun after it; alone we say \"mine\".",
+        "1": "\"me\" is an object pronoun, not a possessive."
+      }
+    },
+    {
+      "id": "a2-sc-180",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Boring\" describes the film.",
+      "options": [
+        "The film was bored, so we left the cinema early.",
+        "The film was boring, so we left the cinema early.",
+        "The film was bore, so we left the cinema early."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "We use \"boring\" for the thing, and \"bored\" for the person.",
+        "2": "\"bore\" is a verb; the adjective is \"boring\"."
+      }
+    },
+    {
+      "id": "a2-sc-181",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Herself\" is reflexive.",
+      "options": [
+        "She taught herself Spanish.",
+        "She taught hers Spanish.",
+        "She taught her Spanish."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Her\" refers to another person.",
+        "1": "\"Hers\" is a possessive pronoun."
+      }
+    },
+    {
+      "id": "a2-sc-182",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The adjective \"afraid\" is followed by the preposition \"of\".",
+      "options": [
+        "She is afraid from spiders.",
+        "She is afraid with spiders.",
+        "She is afraid of spiders."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "We say \"afraid of\".",
+        "1": "\"With\" is not used here."
+      }
+    },
+    {
+      "id": "a2-sc-183",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Enough\" follows the adjective.",
+      "options": [
+        "I'm not enough tall.",
+        "I'm not too tall.",
+        "I'm not tall enough."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Enough\" goes after an adjective.",
+        "1": "\"Too\" has a different meaning."
+      }
+    },
+    {
+      "id": "a2-sc-184",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Taller\" is the comparative.",
+      "options": [
+        "She is tallest than her brother.",
+        "She is taller than her brother.",
+        "She is more tall than her brother."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "Short adjectives add -er.",
+        "0": "\"Tallest\" is a superlative."
+      }
+    },
+    {
+      "id": "a2-sc-185",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Uncountable nouns take a singular verb.",
+      "options": [
+        "There is a lot of traffics in the city.",
+        "There is a lot of traffic in the city.",
+        "There are a lot of traffic in the city."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"traffic\" is uncountable, so we use \"is\".",
+        "0": "\"traffic\" has no plural form."
+      }
+    },
+    {
+      "id": "a2-sc-186",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Anybody\" is used after a negative verb.",
+      "options": [
+        "There isn't anybody here.",
+        "There isn't nobody here.",
+        "There isn't somebody here."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "A double negative is incorrect.",
+        "2": "\"Somebody\" is used in positive sentences."
+      }
+    },
+    {
+      "id": "a2-sc-187",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Have a great time\" is the standard collocation.",
+      "options": [
+        "We had a great time.",
+        "We made a great time.",
+        "We did a great time."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Make a time\" is not standard.",
+        "2": "\"Do a time\" is not standard."
+      }
+    },
+    {
+      "id": "a2-sc-188",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"to\" use \"her\".",
+      "options": [
+        "My teacher gave us some homework. We have to give it to she on Monday.",
+        "My teacher gave us some homework. We have to give it to hers on Monday.",
+        "My teacher gave us some homework. We have to give it to her on Monday."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "After \"to\" we use the object pronoun: her.",
+        "1": "\"hers\" is a possessive pronoun, not an object."
+      }
+    },
+    {
+      "id": "a2-sc-189",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The correct phrase is \"good at\".",
+      "options": [
+        "I'm good at maths, but I'm not good at history.",
+        "I'm good in maths, but I'm not good in history.",
+        "I'm good on maths, but I'm not good on history."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "We say \"good at\" a subject, not \"good in\".",
+        "2": "\"on\" is for surfaces and days; for skills we say \"good at\"."
+      }
+    },
+    {
+      "id": "a2-sc-190",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Look forward to + gerund\".",
+      "options": [
+        "I look forward to hear from you.",
+        "I look forward hearing from you.",
+        "I look forward to hearing from you."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"To\" is a preposition here, so a gerund follows.",
+        "1": "\"To\" is missing."
+      }
+    },
+    {
+      "id": "a2-sc-191",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Have lived\" shows duration.",
+      "options": [
+        "They has lived here for years.",
+        "They have lived here for years.",
+        "They are living here for years."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"They\" takes \"have\".",
+        "2": "\"For years\" up to now needs the present perfect."
+      }
+    },
+    {
+      "id": "a2-sc-192",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Wait\" is followed by \"for\" before the person or thing you expect.",
+      "options": [
+        "I'm waiting for my bus.",
+        "I'm waiting at my bus.",
+        "I'm waiting to my bus."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "We say \"wait for\".",
+        "1": "\"Wait at\" means to wait in a place."
+      }
+    },
+    {
+      "id": "a2-sc-193",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Teach\" means to give lessons.",
+      "options": [
+        "She teaches us English.",
+        "She studies us English.",
+        "She learns us English."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Learn\" is what students do.",
+        "1": "\"Study\" is what students do."
+      }
+    },
+    {
+      "id": "a2-sc-194",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Let's + base form\".",
+      "options": [
+        "Let's going to the beach.",
+        "Let's go to the beach.",
+        "Let's to go to the beach."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Let's\" is followed by the base form.",
+        "0": "The -ing form cannot follow \"let's\"."
+      }
+    },
+    {
+      "id": "a2-sc-195",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Well\" is the adverb.",
+      "options": [
+        "He speaks English well.",
+        "He speaks English good.",
+        "He speaks English goodly."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "A verb needs an adverb.",
+        "2": "\"Goodly\" is not used."
+      }
+    },
+    {
+      "id": "a2-sc-196",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Questions with \"must\" invert the subject and the modal.",
+      "options": [
+        "Do I must wear a tie?",
+        "Must I wear a tie?",
+        "I must wear a tie?"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Must\" never takes \"do\".",
+        "2": "A question needs the modal first."
+      }
+    },
+    {
+      "id": "a2-sc-197",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Left\" or \"forgot\" is used.",
+      "options": [
+        "I lost my umbrella at home.",
+        "I forgot my umbrella at home.",
+        "I missed my umbrella at home."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Lost\" means you do not know where it is.",
+        "2": "\"Miss\" does not fit."
+      }
+    },
+    {
+      "id": "a2-sc-198",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Best\" is the superlative of \"good\".",
+      "options": [
+        "It is the best film of the year.",
+        "It is the most good film of the year.",
+        "It is the goodest film of the year."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The superlative of \"good\" is \"best\".",
+        "2": "\"Goodest\" does not exist."
+      }
+    },
+    {
+      "id": "a2-sc-199",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Tell\" takes a person.",
+      "options": [
+        "He talked me a story.",
+        "He said me a story.",
+        "He told me a story."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Say\" cannot take a person directly.",
+        "0": "\"Talk\" needs \"to\"."
+      }
+    },
+    {
+      "id": "a2-sc-200",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Can + base form\".",
+      "options": [
+        "She can speak three languages.",
+        "She cans speak three languages.",
+        "She can speaks three languages."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "After \"can\" we use the base form.",
+        "1": "Modal verbs do not take -s."
+      }
+    },
+    {
+      "id": "a2-sc-201",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Couldn't\" is the negative of \"could\".",
+      "options": [
+        "They didn't could find the way.",
+        "They couldn't to find the way.",
+        "They couldn't find the way."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Couldn't\" is not followed by \"to\".",
+        "0": "\"Could\" does not use \"didn't\"."
+      }
+    },
+    {
+      "id": "a2-sc-202",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Was sleeping\" is the past continuous.",
+      "options": [
+        "He is sleeping when I called.",
+        "He was sleeping when I called.",
+        "He slept when I called."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The continuous shows an action in progress.",
+        "0": "The sentence is in the past."
+      }
+    },
+    {
+      "id": "a2-sc-203",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "We protect something from danger.",
+      "options": [
+        "We must protect the environment from pollution.",
+        "We must protect the environment for pollution.",
+        "We must protect the environment of pollution."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "We say \"protect from\" something bad, not \"protect for\".",
+        "2": "\"protect of\" is wrong: we say \"protect from\"."
+      }
+    },
+    {
+      "id": "a2-sc-204",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Has never been\" is the present perfect.",
+      "options": [
+        "She has never been to London.",
+        "She never has been to London.",
+        "She has never be to London."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "The adverb goes after \"has\".",
+        "2": "\"Be\" is not a past participle."
+      }
+    },
+    {
+      "id": "a2-sc-205",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Might\" is followed by the base form.",
+      "options": [
+        "It might rain tomorrow.",
+        "It might to rain tomorrow.",
+        "It mights rain tomorrow."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Might\" is not followed by \"to\".",
+        "2": "Modal verbs never take -s."
+      }
+    },
+    {
+      "id": "a2-sc-206",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Short adjectives add -er.",
+      "options": [
+        "The train is more fast than the bus.",
+        "The train is fastest than the bus.",
+        "The train is faster than the bus."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"fast\" is short, so the comparative is \"faster\".",
+        "1": "\"-est\" is a superlative; for two things we use the comparative."
+      }
+    },
+    {
+      "id": "a2-sc-207",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Interested in\".",
+      "options": [
+        "I'm interested on art.",
+        "I'm interested in art.",
+        "I'm interested at art."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "We say \"interested in\".",
+        "2": "\"At\" is not used."
+      }
+    },
+    {
+      "id": "a2-sc-208",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Mine\" is a possessive pronoun.",
+      "options": [
+        "This book is my.",
+        "This book is me.",
+        "This book is mine."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Me\" is an object pronoun.",
+        "0": "\"My\" needs a noun after it."
+      }
+    },
+    {
+      "id": "a2-sc-209",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"must\" use the base form.",
+      "options": [
+        "You must wear a uniform at this school.",
+        "You must to wear a uniform at this school.",
+        "You must wearing a uniform at this school."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "After \"must\" we use the base form without \"to\".",
+        "2": "After \"must\" we use the base form."
+      }
+    },
+    {
+      "id": "a2-sc-210",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After a preposition use -ing.",
+      "options": [
+        "I'm thinking to change my job.",
+        "I'm thinking of changing my job.",
+        "I'm thinking of change my job."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "After the preposition \"of\" we use the -ing form.",
+        "2": "After \"of\" we use -ing: changing."
+      }
+    },
+    {
+      "id": "a2-sc-211",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"An\" is used before a vowel sound.",
+      "options": [
+        "He is an honest man.",
+        "He is honest man.",
+        "He is a honest man."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Honest\" begins with a vowel sound.",
+        "1": "A singular noun needs an article."
+      }
+    },
+    {
+      "id": "a2-sc-212",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Married\" is followed by \"to\", not \"with\".",
+      "options": [
+        "He is married with a doctor.",
+        "He is married to a doctor.",
+        "He is married by a doctor."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Married with\" is not usual.",
+        "2": "\"Married by\" is not correct."
+      }
+    },
+    {
+      "id": "a2-sc-213",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"can\" use the base form.",
+      "options": [
+        "You can paying by card or in cash.",
+        "You can pay by card or in cash.",
+        "You can to pay by card or in cash."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "After \"can\" we use the base form without \"to\".",
+        "0": "After \"can\" we use the base form: pay."
+      }
+    },
+    {
+      "id": "a2-sc-214",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Do homework\" is the standard collocation.",
+      "options": [
+        "She did her homework.",
+        "She took her homework.",
+        "She made her homework."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The collocation is \"do homework\".",
+        "1": "\"Take homework\" has a different meaning."
+      }
+    },
+    {
+      "id": "a2-sc-215",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"On\" is used with days.",
+      "options": [
+        "The meeting is in Friday.",
+        "The meeting is on Friday.",
+        "The meeting is at Friday."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"In\" is used with months.",
+        "2": "\"At\" is used with clock times."
+      }
+    },
+    {
+      "id": "a2-sc-216",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The comparative of \"warm\" is \"warmer\".",
+      "options": [
+        "The Earth is getting warmer.",
+        "The Earth is getting more warm.",
+        "The Earth is getting warming."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "With short adjectives we add -er: warmer.",
+        "2": "After \"getting\" we use an adjective: warmer."
+      }
+    },
+    {
+      "id": "a2-sc-217",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"By\" is used before the means of transport.",
+      "options": [
+        "We went there in train.",
+        "We went there by train.",
+        "We went there with train."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"With\" is not used for transport.",
+        "0": "\"In train\" is not the fixed expression."
+      }
+    },
+    {
+      "id": "a2-sc-218",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The negative of \"must\" is \"mustn't\".",
+      "options": [
+        "You don't must use your phone on the plane.",
+        "You mustn't use your phone on the plane.",
+        "You mustn't to use your phone on the plane."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"must\" does not use \"don't\"; the negative is \"mustn't\".",
+        "2": "After \"mustn't\" we use the base form without \"to\"."
+      }
+    },
+    {
+      "id": "a2-sc-219",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use the past simple with \"yesterday\".",
+      "options": [
+        "Yesterday I went to the library and borrowed three books.",
+        "Yesterday I went to the library and borrow three books.",
+        "Yesterday I go to the library and borrowed three books."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Yesterday\" needs the past simple: went.",
+        "1": "Both verbs must be in the past simple: borrowed."
+      }
+    },
+    {
+      "id": "a2-sc-220",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use the past simple with \"last Sunday\".",
+      "options": [
+        "The volunteers cleaned the beach last Sunday.",
+        "The volunteers cleaned the beach next Sunday.",
+        "The volunteers clean the beach last Sunday."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"cleaned\" is the past, so it needs \"last\", not \"next\".",
+        "2": "\"last Sunday\" is in the past, so we need the past simple: cleaned."
+      }
+    },
+    {
+      "id": "a2-sc-221",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"three years ago\" with the past simple.",
+      "options": [
+        "I started working here since three years.",
+        "I started working here for three years ago.",
+        "I started working here three years ago."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"since\" needs a point in time; for a period before now we use \"ago\" with the past simple.",
+        "1": "\"for\" and \"ago\" do not go together."
+      }
+    },
+    {
+      "id": "a2-sc-222",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Couldn't + base form\".",
+      "options": [
+        "I didn't could open the door.",
+        "I couldn't open the door.",
+        "I couldn't to open the door."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Couldn't\" is not followed by \"to\".",
+        "0": "\"Could\" does not use \"didn't\"."
+      }
+    },
+    {
+      "id": "a2-sc-223",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"In\" is used with countries.",
+      "options": [
+        "She lives on Italy.",
+        "She lives in Italy.",
+        "She lives at Italy."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"At\" is used for small places.",
+        "0": "\"On\" is used for surfaces."
+      }
+    },
+    {
+      "id": "a2-sc-224",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Better\" is the comparative of \"good\".",
+      "options": [
+        "This book is more good than that one.",
+        "This book is gooder than that one.",
+        "This book is better than that one."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Good\" has an irregular comparative.",
+        "1": "\"Gooder\" does not exist."
+      }
+    },
+    {
+      "id": "a2-sc-225",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Are watching\" is the present continuous.",
+      "options": [
+        "They are watching TV now.",
+        "They watch TV now.",
+        "They watching TV now."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Now\" needs the present continuous.",
+        "2": "\"Are\" is missing."
+      }
+    },
+    {
+      "id": "a2-sc-226",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Whose\" asks about possession.",
+      "options": [
+        "Who's umbrella is this?",
+        "Who umbrella is this?",
+        "Whose umbrella is this?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Who\" does not show possession.",
+        "0": "\"Who's\" means \"who is\"."
+      }
+    },
+    {
+      "id": "a2-sc-227",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Am going to\" expresses a plan.",
+      "options": [
+        "I going to buy a new phone.",
+        "I'm going buy a new phone.",
+        "I'm going to buy a new phone."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"To\" is missing.",
+        "0": "\"Am\" is missing."
+      }
+    },
+    {
+      "id": "a2-sc-228",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"some advice\".",
+      "options": [
+        "Can you give me some advices about my CV?",
+        "Can you give me an advice about my CV?",
+        "Can you give me some advice about my CV?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"advice\" is uncountable, so we cannot use \"an\".",
+        "0": "\"advice\" has no plural."
+      }
+    },
+    {
+      "id": "a2-sc-229",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Don't have to\" means it is not necessary.",
+      "options": [
+        "You doesn't have to pay. It's free.",
+        "You don't have to pay. It's free.",
+        "You mustn't pay. It's free."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Mustn't\" means it is forbidden, not unnecessary.",
+        "0": "\"You\" takes \"don't\"."
+      }
+    },
+    {
+      "id": "a2-sc-230",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"some information\" or \"a piece of information\".",
+      "options": [
+        "We need some informations about the trains.",
+        "We need an information about the trains.",
+        "We need some information about the trains."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"information\" is uncountable, so we cannot use \"an\".",
+        "0": "\"information\" has no plural."
+      }
+    },
+    {
+      "id": "a2-sc-231",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Doesn't know\" is the present simple negative.",
+      "options": [
+        "She don't know the answer.",
+        "She doesn't know the answer.",
+        "She not knows the answer."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "This word order is incorrect.",
+        "0": "\"She\" takes \"doesn't\"."
+      }
+    },
+    {
+      "id": "a2-sc-232",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Himself\" is reflexive.",
+      "options": [
+        "He hurt his.",
+        "He hurt himself.",
+        "He hurt him."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Him\" refers to another person.",
+        "0": "\"His\" needs a noun."
+      }
+    },
+    {
+      "id": "a2-sc-233",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Give someone a lift\" is the standard collocation.",
+      "options": [
+        "Can you do me a lift?",
+        "Can you make me a lift?",
+        "Can you give me a lift?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "The collocation is \"give a lift\".",
+        "0": "\"Do a lift\" is not standard."
+      }
+    },
+    {
+      "id": "a2-sc-234",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "We say a headache and a sore throat.",
+      "options": [
+        "I have a head pain and a sore throat.",
+        "I have headache and a sore throat.",
+        "I have a headache and a sore throat."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "We say \"headache\", not \"head pain\".",
+        "1": "\"Headache\" is countable here, so we need \"a\": a headache."
+      }
+    },
+    {
+      "id": "a2-sc-235",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Haven't seen\" is the present perfect.",
+      "options": [
+        "I haven't seen him today.",
+        "I didn't saw him today.",
+        "I haven't saw him today."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "After \"didn't\" use the base form.",
+        "2": "\"Saw\" is not a past participle."
+      }
+    },
+    {
+      "id": "a2-sc-236",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Arrive in\" is used for cities.",
+      "options": [
+        "He arrived to London yesterday.",
+        "He arrived in London yesterday.",
+        "He arrived on London yesterday."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Arrive\" does not take \"to\".",
+        "2": "\"On\" is used for surfaces."
+      }
+    },
+    {
+      "id": "a2-sc-237",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Excited\" describes the person.",
+      "options": [
+        "I'm excited about the trip.",
+        "I'm excitement about the trip.",
+        "I'm exciting about the trip."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Exciting\" describes the thing.",
+        "1": "\"Excitement\" is a noun."
+      }
+    },
+    {
+      "id": "a2-sc-238",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Lend\" means to give temporarily.",
+      "options": [
+        "I lent her my pen.",
+        "I borrowed her my pen.",
+        "I leaned her my pen."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Borrow\" means to take.",
+        "2": "\"Lean\" is a different verb."
+      }
+    },
+    {
+      "id": "a2-sc-239",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Look after\" means to take care of.",
+      "options": [
+        "She looks for her cat.",
+        "She looks after her cat.",
+        "She looks at her cat."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Look at\" means to direct your eyes.",
+        "0": "\"Look for\" means to search."
+      }
+    },
+    {
+      "id": "a2-sc-240",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Best\" is the superlative of \"good\".",
+      "options": [
+        "This is the best film.",
+        "This is the goodest film.",
+        "This is the most good film."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Good\" is irregular.",
+        "1": "\"Goodest\" does not exist."
+      }
+    },
+    {
+      "id": "a2-sc-241",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After a verb we use \"us\".",
+      "options": [
+        "Let's take a taxi. It will take us there faster.",
+        "Let's take a taxi. It will take our there faster.",
+        "Let's take a taxi. It will take we there faster."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "After a verb we use the object pronoun \"us\".",
+        "1": "\"our\" is a possessive adjective and needs a noun."
+      }
+    },
+    {
+      "id": "a2-sc-242",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use past simple forms with \"yesterday\".",
+      "options": [
+        "We went to the beach yesterday and swum in the sea.",
+        "We go to the beach yesterday and swam in the sea.",
+        "We went to the beach yesterday and swam in the sea."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"yesterday\" needs the past simple: went.",
+        "0": "The past simple of \"swim\" is \"swam\", not \"swum\"."
+      }
+    },
+    {
+      "id": "a2-sc-243",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Luggage\" is uncountable.",
+      "options": [
+        "Our luggage is heavy.",
+        "Our luggage are heavy.",
+        "Our luggages are heavy."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"luggage\" is uncountable and has no plural.",
+        "1": "\"luggage\" is singular, so we use \"is\"."
+      }
+    },
+    {
+      "id": "a2-sc-244",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "No article is used with meals.",
+      "options": [
+        "We have the lunch at one.",
+        "We have lunch at one.",
+        "We have a lunch at one."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "We do not use an article with meals.",
+        "2": "\"Lunch\" as a meal does not take \"a\" here."
+      }
+    },
+    {
+      "id": "a2-sc-245",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"forget to\" for a task you must do.",
+      "options": [
+        "Don't forget wash your hands.",
+        "Don't forget washing your hands.",
+        "Don't forget to wash your hands."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"forget to + verb\" means you must do it. \"forget washing\" means you do not remember a past action.",
+        "0": "After \"forget\" we need \"to + verb\"."
+      }
+    },
+    {
+      "id": "a2-sc-246",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Although\" is followed by a clause.",
+      "options": [
+        "Despite it was cold, we went out.",
+        "Although it was cold, but we went out.",
+        "Although it was cold, we went out."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Although\" and \"but\" cannot be used together.",
+        "0": "\"Despite\" is followed by a noun or gerund."
+      }
+    },
+    {
+      "id": "a2-sc-247",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"An\" is used before a vowel sound.",
+      "options": [
+        "She is an engineer.",
+        "She is a engineer.",
+        "She is engineer."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Engineer\" begins with a vowel sound.",
+        "2": "A job needs an article."
+      }
+    },
+    {
+      "id": "a2-sc-248",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The correct phrase is \"arrive in a city\".",
+      "options": [
+        "We arrived in London at six o'clock in the evening.",
+        "We arrived to London at six o'clock in the evening.",
+        "We arrived at London at six o'clock in the evening."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "We say \"arrive in\" a city, not \"arrive to\".",
+        "2": "For a big city we say \"arrive in\", not \"arrive at\"."
+      }
+    },
+    {
+      "id": "a2-sc-249",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"As old as\" is correct.",
+      "options": [
+        "She is as older as me.",
+        "She is as oldest as me.",
+        "She is as old as me."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"As ... as\" needs the base form.",
+        "1": "\"Oldest\" is a superlative and cannot follow \"as\"."
+      }
+    },
+    {
+      "id": "a2-sc-250",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Would you mind\" + gerund.",
+      "options": [
+        "Would you mind to open the window?",
+        "Would you mind open the window?",
+        "Would you mind opening the window?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Mind\" is followed by the -ing form.",
+        "1": "\"Mind\" needs the -ing form."
+      }
+    },
+    {
+      "id": "a2-sc-251",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"People\" takes a plural verb.",
+      "options": [
+        "Many people recycles glass and paper.",
+        "Many peoples recycle glass and paper.",
+        "Many people recycle glass and paper."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"people\" is already plural.",
+        "0": "\"people\" is plural, so the verb is \"recycle\"."
+      }
+    },
+    {
+      "id": "a2-sc-252",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Have lived\" shows duration.",
+      "options": [
+        "I am living here for five years.",
+        "I have lived here for five years.",
+        "I live here for five years."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"For five years\" up to now needs the present perfect.",
+        "0": "\"For five years\" needs the present perfect."
+      }
+    },
+    {
+      "id": "a2-sc-253",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"must\" use the base verb.",
+      "options": [
+        "The patient must to stay in bed for three days.",
+        "The patient must stay in bed for three days.",
+        "The patient must stays in bed for three days."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "After \"must\" we use the base form without \"to\".",
+        "2": "After \"must\" we never add -s."
+      }
+    },
+    {
+      "id": "a2-sc-254",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Boring\" describes the thing.",
+      "options": [
+        "The film was bored.",
+        "The film was boring.",
+        "The film was bore."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Bored\" describes a person's feeling.",
+        "2": "\"Bore\" is a verb."
+      }
+    },
+    {
+      "id": "a2-sc-255",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Tallest\" is the superlative.",
+      "options": [
+        "She is the tallest of her class.",
+        "She is the most tall in her class.",
+        "She is the tallest in her class."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "Short adjectives add -est.",
+        "0": "\"Of her class\" is not used."
+      }
+    },
+    {
+      "id": "a2-sc-256",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Shall we + base verb\" makes a suggestion.",
+      "options": [
+        "Shall we to dance?",
+        "Shall we dance?",
+        "Do shall we dance?"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Shall\" is not followed by \"to\".",
+        "2": "\"Shall\" does not use \"do\"."
+      }
+    },
+    {
+      "id": "a2-sc-257",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Carefully\" is an adverb.",
+      "options": [
+        "He drives carefulness.",
+        "He drives careful.",
+        "He drives carefully."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "A verb needs an adverb.",
+        "0": "\"Carefulness\" is a noun."
+      }
+    },
+    {
+      "id": "a2-sc-258",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Look for\" means to search.",
+      "options": [
+        "I'm looking after my phone.",
+        "I'm looking at my phone.",
+        "I'm looking for my phone."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Look at\" means to direct your eyes.",
+        "0": "\"Look after\" means to take care of."
+      }
+    },
+    {
+      "id": "a2-sc-259",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The correct phrase is \"full of\".",
+      "options": [
+        "The forest is full of animals.",
+        "The forest is full from animals.",
+        "The forest is full with animals."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "We say \"full of\", not \"full from\".",
+        "2": "We say \"full of\", not \"full with\"."
+      }
+    },
+    {
+      "id": "a2-sc-260",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "We say \"work for a company\".",
+      "options": [
+        "She works for a big computer company.",
+        "She works at for a big computer company.",
+        "She works to a big computer company."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "We say \"work for\" a company.",
+        "1": "\"at for\" is not correct; we say \"work for\"."
+      }
+    },
+    {
+      "id": "a2-sc-261",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "No article is used for general ideas.",
+      "options": [
+        "I love a music.",
+        "I love the music.",
+        "I love music."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "For a general idea we do not use \"the\".",
+        "0": "\"Music\" is uncountable."
+      }
+    },
+    {
+      "id": "a2-sc-262",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Did you finish\" is the past simple question.",
+      "options": [
+        "Do you finished your homework?",
+        "Did you finished your homework?",
+        "Did you finish your homework?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "After \"do\" the verb is in the base form.",
+        "1": "After \"did\" the verb is in the base form."
+      }
+    },
+    {
+      "id": "a2-sc-263",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Has to\" is the third person form of \"have to\".",
+      "options": [
+        "He have to work on Saturdays.",
+        "He has work on Saturdays.",
+        "He has to work on Saturdays."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"He\" takes \"has to\".",
+        "1": "\"Has\" alone does not express obligation."
+      }
+    },
+    {
+      "id": "a2-sc-264",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "In past questions use \"Did + base form\".",
+      "options": [
+        "Did you finish your homework last night?",
+        "Did you finished your homework last night?",
+        "Do you finished your homework last night?"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "A question in the past uses \"Did + base verb\".",
+        "1": "After \"Did\" we use the base form: finish."
+      }
+    },
+    {
+      "id": "a2-sc-265",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Any\" is used in negative sentences.",
+      "options": [
+        "There isn't any apples.",
+        "There aren't any apples.",
+        "There aren't some apples."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Some\" is used in positive sentences.",
+        "0": "\"Apples\" is plural."
+      }
+    },
+    {
+      "id": "a2-sc-266",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Information\" is uncountable.",
+      "options": [
+        "I need some information.",
+        "I need some informations.",
+        "I need an information."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Information\" is uncountable.",
+        "2": "This version is wrong in another way: \"Information\" is uncountable."
+      }
+    },
+    {
+      "id": "a2-sc-267",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"A few\" is used with plural countable nouns.",
+      "options": [
+        "She has a little friends.",
+        "She has a few friends.",
+        "She has much friends."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"A little\" is used with uncountable nouns.",
+        "2": "\"Much\" is used with uncountable nouns."
+      }
+    },
+    {
+      "id": "a2-sc-268",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Anybody\" is used after a negative verb.",
+      "options": [
+        "I don't know anybody here.",
+        "I don't know somebody here.",
+        "I don't know nobody here."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "A double negative is incorrect.",
+        "1": "\"Somebody\" is used in positive sentences."
+      }
+    },
+    {
+      "id": "a2-sc-269",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Enjoy + gerund\".",
+      "options": [
+        "I enjoy cook for my family.",
+        "I enjoy to cook for my family.",
+        "I enjoy cooking for my family."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Enjoy\" is followed by the -ing form.",
+        "0": "\"Enjoy\" cannot be followed by the base form."
+      }
+    },
+    {
+      "id": "a2-sc-270",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"didn't\" use the base form.",
+      "options": [
+        "I didn't saw the museum because it was closed.",
+        "I didn't see the museum because it was closed.",
+        "I don't saw the museum because it was closed."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "After \"didn't\" we use the base form: see.",
+        "2": "The past negative is \"didn't + base form\"."
+      }
+    },
+    {
+      "id": "a2-sc-271",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Plural nouns take \"are\".",
+      "options": [
+        "There is a lot of mountains in my country.",
+        "There are a lot of mountains in my country.",
+        "There are a lot of mountain in my country."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"mountains\" is plural, so we use \"are\".",
+        "2": "After \"a lot of\" a plural noun needs -s: mountains."
+      }
+    },
+    {
+      "id": "a2-sc-272",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Would you like...?\" is a polite offer.",
+      "options": [
+        "Do you would like some tea?",
+        "Would you like some tea?",
+        "Would you liking some tea?"
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Would\" does not take \"do\".",
+        "2": "After \"would you like\" we use a noun or \"to + verb\"."
+      }
+    },
+    {
+      "id": "a2-sc-273",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"At\" is used with clock times.",
+      "options": [
+        "We meet on six o'clock.",
+        "We meet in six o'clock.",
+        "We meet at six o'clock."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"In\" is used with months.",
+        "0": "\"On\" is used with days."
+      }
+    },
+    {
+      "id": "a2-sc-274",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Give up\" means to stop.",
+      "options": [
+        "He gave in smoking.",
+        "He gave up smoking.",
+        "He gave out smoking."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Give out\" means to distribute.",
+        "0": "\"Give in\" means to surrender."
+      }
+    },
+    {
+      "id": "a2-sc-275",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Because\" is followed by a clause.",
+      "options": [
+        "We stayed at home because it was raining.",
+        "We stayed at home because of it was raining.",
+        "We stayed at home so it was raining."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Because of\" is followed by a noun, not a clause.",
+        "2": "\"So\" introduces a result, not a reason."
+      }
+    },
+    {
+      "id": "a2-sc-276",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The correct phrase is \"do homework\".",
+      "options": [
+        "I take my homework every evening.",
+        "I make my homework every evening.",
+        "I do my homework every evening."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "We say \"do homework\", not \"make homework\".",
+        "0": "We say \"do homework\"."
+      }
+    },
+    {
+      "id": "a2-sc-277",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "A preposition is followed by a gerund.",
+      "options": [
+        "He is good at to sing.",
+        "He is good at sing.",
+        "He is good at singing."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "After a preposition we use the -ing form.",
+        "1": "After a preposition we need the -ing form."
+      }
+    },
+    {
+      "id": "a2-sc-278",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Any\" is used in negative sentences.",
+      "options": [
+        "I haven't got any money.",
+        "I haven't got some money.",
+        "I haven't got no money."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Some\" is used in positive sentences.",
+        "2": "A double negative is incorrect."
+      }
+    },
+    {
+      "id": "a2-sc-279",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Take a photo\" is the standard collocation.",
+      "options": [
+        "She took a photo of the cat.",
+        "She did a photo of the cat.",
+        "She made a photo of the cat."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The collocation is \"take a photo\".",
+        "1": "\"Do a photo\" is not standard."
+      }
+    },
+    {
+      "id": "a2-sc-280",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Me\" is an object pronoun.",
+      "options": [
+        "He gave my a present.",
+        "He gave me a present.",
+        "He gave I a present."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "After a verb we use an object pronoun.",
+        "0": "\"My\" is possessive."
+      }
+    },
+    {
+      "id": "a2-sc-281",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After a number above one use a plural noun.",
+      "options": [
+        "Take two tablets after a meals.",
+        "Take two tablet after meals.",
+        "Take two tablets after meals."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "After \"two\" we need a plural noun: tablets.",
+        "0": "\"meals\" is plural and cannot take \"a\"."
+      }
+    },
+    {
+      "id": "a2-sc-282",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"the most + long adjective\".",
+      "options": [
+        "It is the most beautiful city in Italy.",
+        "It is the more beautiful city in Italy.",
+        "It is the most beautifulest city in Italy."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "For three or more things we use the superlative: the most beautiful.",
+        "2": "We do not use \"most\" and \"-est\" together."
+      }
+    },
+    {
+      "id": "a2-sc-283",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"should\" use the base form.",
+      "options": [
+        "You should study more if you want to pass the exam.",
+        "You should studying more if you want to pass the exam.",
+        "You should to study more if you want to pass the exam."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "After \"should\" we use the base form without \"to\".",
+        "1": "After \"should\" we use the base form."
+      }
+    },
+    {
+      "id": "a2-sc-284",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a lot of\" with uncountable nouns in positive sentences.",
+      "options": [
+        "He has much of energy.",
+        "He has a lot of energies.",
+        "He has a lot of energy."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "In this meaning \"energy\" is uncountable and has no plural.",
+        "0": "We say \"a lot of energy\" or \"much energy\", not \"much of energy\"."
+      }
+    },
+    {
+      "id": "a2-sc-285",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Exciting\" describes the thing.",
+      "options": [
+        "The film was excited.",
+        "The film was exciting.",
+        "The film was excite."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Excited\" describes a person's feeling.",
+        "2": "\"Excite\" is a verb."
+      }
+    },
+    {
+      "id": "a2-sc-286",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"How much\" for uncountable nouns.",
+      "options": [
+        "How many money do you earn?",
+        "How much moneys do you earn?",
+        "How much money do you earn?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"money\" is uncountable, so we use \"much\".",
+        "1": "\"money\" has no plural here."
+      }
+    },
+    {
+      "id": "a2-sc-287",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"is going to + base verb\" for plans.",
+      "options": [
+        "He is going to start a new job next month.",
+        "He is going to starts a new job next month.",
+        "He going to start a new job next month."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "After \"going to\" we use the base form.",
+        "2": "We need \"is\" before \"going to\"."
+      }
+    },
+    {
+      "id": "a2-sc-288",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Were playing\" is the past continuous.",
+      "options": [
+        "They were playing when I arrived.",
+        "They were play when I arrived.",
+        "They was playing when I arrived."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"They\" needs \"were\".",
+        "1": "After \"were\" use the -ing form."
+      }
+    },
+    {
+      "id": "a2-sc-289",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Went\" is the past simple.",
+      "options": [
+        "We have gone to Spain last summer.",
+        "We went to Spain last summer.",
+        "We goed to Spain last summer."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Last summer\" needs the past simple.",
+        "2": "\"Go\" is irregular."
+      }
+    },
+    {
+      "id": "a2-sc-290",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "We use \"to + verb\" for purpose.",
+      "options": [
+        "Wear sun cream to avoid sunburn.",
+        "Wear sun cream for avoid sunburn.",
+        "Wear sun cream to avoiding sunburn."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "To say why we do something we use \"to + base verb\", not \"for + verb\".",
+        "2": "After \"to\" we use the base form: avoid."
+      }
+    },
+    {
+      "id": "a2-sc-291",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "After \"want\" use \"to + verb\".",
+      "options": [
+        "He wants become a pilot.",
+        "He wants becoming a pilot.",
+        "He wants to become a pilot."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "After \"want\" we use \"to + base verb\".",
+        "0": "After \"want\" we need \"to\": wants to become."
+      }
+    },
+    {
+      "id": "a2-sc-292",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The doctor writes a prescription for medicine.",
+      "options": [
+        "The doctor gave me a recipe for the medicine.",
+        "The doctor gave me a prescription for the medicine.",
+        "The doctor gave me a receipt for the medicine."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "A recipe tells you how to cook a dish. A paper for medicine is a prescription.",
+        "2": "A receipt shows what you paid for something."
+      }
+    },
+    {
+      "id": "a2-sc-293",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Are going to\" expresses a plan.",
+      "options": [
+        "We are going to visit Rome.",
+        "We going to visit Rome.",
+        "We are go to visit Rome."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Going\" is needed after \"are\".",
+        "1": "\"Are\" is missing."
+      }
+    },
+    {
+      "id": "a2-sc-294",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"The\" is used with instruments.",
+      "options": [
+        "He plays violin.",
+        "He plays a violin.",
+        "He plays the violin."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "With instruments we use \"the\".",
+        "1": "\"A violin\" suggests any violin, not the instrument."
+      }
+    },
+    {
+      "id": "a2-sc-295",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"cheaper than\".",
+      "options": [
+        "This hotel is more cheap than the other one.",
+        "This hotel is cheaper that the other one.",
+        "This hotel is cheaper than the other one."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "With short adjectives we add -er: cheaper.",
+        "1": "After a comparative we use \"than\"."
+      }
+    },
+    {
+      "id": "a2-sc-296",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "No article is used with meals.",
+      "options": [
+        "I had a lunch at one o'clock.",
+        "I had the lunch at one o'clock.",
+        "I had lunch at one o'clock."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "We do not use \"the\" with meals.",
+        "0": "We do not use \"a\" with meals."
+      }
+    },
+    {
+      "id": "a2-sc-297",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"some information\" or \"a piece of information\".",
+      "options": [
+        "We need some informations about the weather.",
+        "We need some information about the weather.",
+        "We need an information about the weather."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"information\" is uncountable and has no plural.",
+        "2": "We cannot use \"an\" with an uncountable noun."
+      }
+    },
+    {
+      "id": "a2-sc-298",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"At\" is used with clock times.",
+      "options": [
+        "The class starts at nine o'clock.",
+        "The class starts on nine o'clock.",
+        "The class starts in nine o'clock."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"In\" is used with months and periods.",
+        "1": "\"On\" is used with days."
+      }
+    },
+    {
+      "id": "a2-sc-299",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "We say \"near the sea\".",
+      "options": [
+        "We stayed at a small hotel near the sea.",
+        "We stayed at a small hotel near of the sea.",
+        "We stayed in a small hotel near to sea."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"near the sea\" needs \"the\".",
+        "1": "We say \"near the sea\", without \"of\"."
+      }
+    },
+    {
+      "id": "a2-sc-300",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Take the bus\" is the standard collocation.",
+      "options": [
+        "We took the bus to school.",
+        "We drove the bus to school.",
+        "We rode the bus to school."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Ride\" is typical for bikes or horses.",
+        "1": "\"Drive\" means to operate it."
+      }
+    },
+    {
+      "id": "a2-sc-301",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "We say \"interested in\".",
+      "options": [
+        "I'm interested to learning about the history of the city.",
+        "I'm interested in learning about the history of the city.",
+        "I'm interested on learning about the history of the city."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "We say \"interested in\", not \"interested on\".",
+        "0": "We say \"interested in\" + -ing."
+      }
+    },
+    {
+      "id": "a2-sc-302",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "modals",
+      "topics": [
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Should + base form\".",
+      "options": [
+        "You should to wear a coat.",
+        "You should wear a coat.",
+        "You shoulds wear a coat."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Should\" is not followed by \"to\".",
+        "2": "Modal verbs do not take -s."
+      }
+    },
+    {
+      "id": "a2-sc-303",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Take out the rubbish\" is the usual expression.",
+      "options": [
+        "I take the rubbish out every evening.",
+        "I do the rubbish out every evening.",
+        "I make the rubbish out every evening."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Make out\" has a different meaning.",
+        "1": "\"Do out\" is not a phrasal verb."
+      }
+    },
+    {
+      "id": "a2-sc-304",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Forget to + verb\".",
+      "options": [
+        "I forgot to bring my book.",
+        "I forgot bring my book.",
+        "I forgot bringing my book."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Forgot bringing\" refers to the past.",
+        "1": "\"Forgot\" needs \"to\" here."
+      }
+    },
+    {
+      "id": "a2-sc-305",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Tired\" describes how you feel.",
+      "options": [
+        "I'm very tiring after the long walk.",
+        "I'm very tired after the long walk.",
+        "I'm very tire after the long walk."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"tiring\" describes something that makes you tired.",
+        "2": "The adjective is \"tired\"."
+      }
+    },
+    {
+      "id": "a2-sc-306",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The adjective \"good\" is followed by \"at\" for a skill.",
+      "options": [
+        "He is good in maths.",
+        "He is good on maths.",
+        "He is good at maths."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Good at\" is used for skills.",
+        "1": "\"On\" is not used."
+      }
+    },
+    {
+      "id": "a2-sc-307",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"a lot of homework\".",
+      "options": [
+        "We have many homework today.",
+        "We have a lot of homeworks today.",
+        "We have a lot of homework today."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"homework\" is uncountable.",
+        "0": "With uncountable nouns we use \"much\" or \"a lot of\", not \"many\"."
+      }
+    },
+    {
+      "id": "a2-sc-308",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The correct phrase is \"interested in\".",
+      "options": [
+        "He is interested on science and technology.",
+        "He is interested in science and technology.",
+        "He is interested at science and technology."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"on\" is not used after \"interested\"; we say \"interested in\".",
+        "2": "\"at\" is used with \"good at\", but with \"interested\" we say \"in\"."
+      }
+    },
+    {
+      "id": "a2-sc-309",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "A city is called \"it\".",
+      "options": [
+        "I love this city. I want to visit it again.",
+        "I love this city. I want to visit he again.",
+        "I love this city. I want to visit its again."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "A city is \"it\", not \"he\".",
+        "2": "\"its\" is a possessive and needs a noun."
+      }
+    },
+    {
+      "id": "a2-sc-310",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Get up\" means to leave your bed.",
+      "options": [
+        "I get on at seven.",
+        "I get off at seven.",
+        "I get up at seven."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Get on\" is about buses or relationships.",
+        "1": "\"Get off\" is about leaving a bus."
+      }
+    },
+    {
+      "id": "a2-sc-311",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Have a nice time\".",
+      "options": [
+        "We made a nice time.",
+        "We had a nice time.",
+        "We did a nice time."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Make a time\" is not standard.",
+        "2": "\"Do a time\" is not standard."
+      }
+    },
+    {
+      "id": "a2-sc-312",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Do homework\" is the standard collocation.",
+      "options": [
+        "I made my homework yesterday.",
+        "I did my homework yesterday.",
+        "I took my homework yesterday."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "The collocation is \"do homework\".",
+        "2": "\"Take homework\" has a different meaning."
+      }
+    },
+    {
+      "id": "a2-sc-313",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Make someone + base form\".",
+      "options": [
+        "She made me laughing.",
+        "She made me to laugh.",
+        "She made me laugh."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Make someone\" is followed by the base form without \"to\".",
+        "0": "\"Make someone\" is followed by the base form."
+      }
+    },
+    {
+      "id": "a2-sc-314",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Advice\" is uncountable.",
+      "options": [
+        "She gave me an advice.",
+        "She gave me some advice.",
+        "She gave me some advices."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Advice\" is uncountable.",
+        "0": "This version is wrong in another way: \"Advice\" is uncountable."
+      }
+    },
+    {
+      "id": "a2-sc-315",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Tell\" takes a person.",
+      "options": [
+        "He said me the answer.",
+        "He spoke me the answer.",
+        "He told me the answer."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Say\" cannot take a person directly.",
+        "1": "\"Speak\" does not take an answer."
+      }
+    },
+    {
+      "id": "a2-sc-316",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use \"to + verb\" for purpose.",
+      "options": [
+        "She went to the office early for preparing the meeting.",
+        "She went to the office early for prepare the meeting.",
+        "She went to the office early to prepare the meeting."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "To say why, we use \"to + base verb\".",
+        "1": "We use \"to + base verb\" for purpose."
+      }
+    },
+    {
+      "id": "a2-sc-317",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Wait for\" is the correct expression.",
+      "options": [
+        "I'm waiting for the bus.",
+        "I'm waiting at the bus.",
+        "I'm waiting to the bus."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "We say \"wait for\".",
+        "1": "\"Wait at\" means to wait in a place."
+      }
+    },
+    {
+      "id": "a2-sc-318",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Tell\" is used with jokes and stories.",
+      "options": [
+        "He spoke me a joke.",
+        "He said me a joke.",
+        "He told me a joke."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Say\" cannot take a person directly.",
+        "0": "\"Speak\" is not used with jokes."
+      }
+    },
+    {
+      "id": "a2-sc-319",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Did you go\" is the past simple question.",
+      "options": [
+        "Where did you went last night?",
+        "Where you went last night?",
+        "Where did you go last night?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "A question needs an auxiliary.",
+        "0": "After \"did\" use the base form."
+      }
+    },
+    {
+      "id": "a2-sc-320",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Most expensive\" is the superlative.",
+      "options": [
+        "It is the most expensive hotel.",
+        "It is the more expensive hotel.",
+        "It is the expensivest hotel."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"More\" compares two.",
+        "2": "Long adjectives use \"most\"."
+      }
+    },
+    {
+      "id": "a2-sc-321",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Best\" is the superlative of \"good\".",
+      "options": [
+        "It is the best job in the world.",
+        "It is the most good job in the world.",
+        "It is the goodest job in the world."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The superlative of \"good\" is \"best\".",
+        "1": "\"good\" has an irregular superlative: best."
+      }
+    },
+    {
+      "id": "a2-sc-322",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Good health is the noun for being well.",
+      "options": [
+        "She is in good healthy.",
+        "She is in good illness.",
+        "She is in good health."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"healthy\" is an adjective. After \"good\" we need the noun \"health\".",
+        "1": "\"illness\" means being ill, the opposite idea."
+      }
+    },
+    {
+      "id": "a2-sc-323",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "modal-verbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Have to + base form\" shows obligation.",
+      "options": [
+        "I have get up at six every morning.",
+        "I must to get up at six every morning.",
+        "I have to get up at six every morning."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "After \"must\" we use the base form without \"to\".",
+        "0": "\"have to\" needs \"to\" before the verb."
+      }
+    },
+    {
+      "id": "a2-sc-324",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Hope to + verb\".",
+      "options": [
+        "She hopes to win the prize.",
+        "She hopes winning the prize.",
+        "She hopes win the prize."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Hope\" is followed by \"to + verb\".",
+        "2": "\"Hope\" needs \"to\" before the verb."
+      }
+    },
+    {
+      "id": "a2-sc-325",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Has lived\" shows duration.",
+      "options": [
+        "He is living here since 2010.",
+        "He lives here since 2010.",
+        "He has lived here since 2010."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Since 2010\" needs the present perfect, not the present simple.",
+        "0": "\"Since 2010\" needs the present perfect, not the continuous."
+      }
+    },
+    {
+      "id": "a2-sc-326",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Good at + gerund\".",
+      "options": [
+        "He is good at swim.",
+        "He is good at to swim.",
+        "He is good at swimming."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "After a preposition we need the -ing form.",
+        "1": "After a preposition we cannot use \"to + verb\"."
+      }
+    },
+    {
+      "id": "a2-sc-327",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Make the bed\".",
+      "options": [
+        "She makes the bed every morning.",
+        "She puts the bed every morning.",
+        "She does the bed every morning."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The collocation is \"make the bed\".",
+        "1": "\"Put the bed\" is not standard."
+      }
+    },
+    {
+      "id": "a2-sc-328",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Look for\" means to search.",
+      "options": [
+        "I'm looking after my keys.",
+        "I'm looking at my keys.",
+        "I'm looking for my keys."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Look at\" means to direct your eyes.",
+        "0": "\"Look after\" means to take care of."
+      }
+    },
+    {
+      "id": "a2-sc-329",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Doesn't like\" is the present simple negative.",
+      "options": [
+        "She doesn't likes coffee.",
+        "She doesn't like coffee.",
+        "She don't like coffee."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"She\" needs \"doesn't\".",
+        "0": "After \"doesn't\" the verb has no -s."
+      }
+    },
+    {
+      "id": "a2-sc-330",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Miss the bus\" is the standard collocation.",
+      "options": [
+        "I passed the bus.",
+        "I missed the bus.",
+        "I lost the bus."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "The collocation is \"miss the bus\".",
+        "0": "\"Pass the bus\" means to go past it."
+      }
+    },
+    {
+      "id": "a2-sc-331",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Would like to + verb\".",
+      "options": [
+        "I'd like learning French.",
+        "I'd like learn French.",
+        "I'd like to learn French."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Would like\" is followed by \"to + verb\".",
+        "1": "\"Would like\" needs \"to\" before the verb."
+      }
+    },
+    {
+      "id": "a2-sc-332",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "tenses",
+      "topics": [
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Rained\" is the past simple.",
+      "options": [
+        "It rains all day yesterday.",
+        "It rained all day yesterday.",
+        "It was rain all day yesterday."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Yesterday\" needs the past.",
+        "2": "\"Was\" needs the -ing form."
+      }
+    },
+    {
+      "id": "a2-sc-333",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Myself\" emphasises that I did it alone.",
+      "options": [
+        "I made it mine.",
+        "I made it me.",
+        "I made it myself."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Me\" is not used for emphasis.",
+        "0": "\"Mine\" is a possessive pronoun."
+      }
+    },
+    {
+      "id": "a2-sc-334",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The adjective \"afraid\" is followed by the preposition \"of\".",
+      "options": [
+        "I'm afraid from snakes.",
+        "I'm afraid for snakes.",
+        "I'm afraid of snakes."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Afraid from\" is not correct.",
+        "1": "\"Afraid for\" means worried about someone."
+      }
+    },
+    {
+      "id": "a2-sc-335",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Enjoy\" is followed by a gerund.",
+      "options": [
+        "I enjoy read.",
+        "I enjoy reading.",
+        "I enjoy to read."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"Enjoy\" is followed by the -ing form, not \"to + verb\".",
+        "0": "\"Enjoy\" is followed by the -ing form."
+      }
+    },
+    {
+      "id": "a2-sc-336",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Turn off\" means to stop a machine or light.",
+      "options": [
+        "Please turn off the light.",
+        "Please turn out off the light.",
+        "Please turn of the light."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "The particle is \"off\", not \"of\".",
+        "1": "Only one particle is needed."
+      }
+    },
+    {
+      "id": "a2-sc-337",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "pronouns",
+      "topics": [
+        "pronouns-relative-clauses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Hers\" is a possessive pronoun.",
+      "options": [
+        "These shoes are hers.",
+        "These shoes are she.",
+        "These shoes are her."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"Her\" cannot stand alone.",
+        "1": "\"She\" is a subject pronoun."
+      }
+    },
+    {
+      "id": "a2-sc-338",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "We say \"study for an exam\".",
+      "options": [
+        "My sister is studying about her final exams.",
+        "My sister is studying to her final exams.",
+        "My sister is studying for her final exams."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "To say why she studies, we use \"for\".",
+        "0": "\"study about\" does not fit with exams; we say \"study for an exam\"."
+      }
+    },
+    {
+      "id": "a2-sc-339",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Turn off\" means to switch off.",
+      "options": [
+        "Please turn out the TV.",
+        "Please turn off the TV.",
+        "Please turn up the TV."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Turn out\" has a different meaning.",
+        "2": "\"Turn up\" increases the volume."
+      }
+    },
+    {
+      "id": "a2-sc-340",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Exercise is something we do.",
+      "options": [
+        "How often do you make exercise?",
+        "How often do you play exercise?",
+        "How often do you do exercise?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "We say \"do exercise\", not \"make exercise\".",
+        "1": "We say \"do exercise\". We play games and sports."
+      }
+    },
+    {
+      "id": "a2-sc-341",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The correct phrase is \"allergic to\".",
+      "options": [
+        "She is allergic with nuts.",
+        "She is allergic of nuts.",
+        "She is allergic to nuts."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "We say \"allergic to\", not \"allergic of\".",
+        "0": "We say \"allergic to\", not \"allergic with\"."
+      }
+    },
+    {
+      "id": "a2-sc-342",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Look after\" means to take care of.",
+      "options": [
+        "He looked for the children.",
+        "He looked at the children.",
+        "He looked after the children."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Look at\" means to direct your eyes.",
+        "0": "\"Look for\" means to search."
+      }
+    },
+    {
+      "id": "a2-sc-343",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Enjoy + gerund\".",
+      "options": [
+        "They enjoy to play football.",
+        "They enjoy playing football.",
+        "They enjoy play football."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Enjoy\" is followed by a gerund.",
+        "2": "The base form cannot follow \"enjoy\"."
+      }
+    },
+    {
+      "id": "a2-sc-344",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "prepositions",
+      "topics": [
+        "prepositions"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Arrive at\" is used with places.",
+      "options": [
+        "We arrived to the airport.",
+        "We arrived at the airport.",
+        "We arrived on the airport."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "\"Arrive\" does not take \"to\".",
+        "2": "\"On\" is used for surfaces."
+      }
+    },
+    {
+      "id": "a2-sc-345",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "We use is/are + -ing for what is happening now.",
+      "options": [
+        "It is raining now, so take an umbrella.",
+        "It rains now, so take an umbrella.",
+        "It is rain now, so take an umbrella."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "For an action happening now we use the present continuous: is raining.",
+        "2": "\"rain\" is a noun. The verb form is \"is raining\"."
+      }
+    },
+    {
+      "id": "a2-sc-346",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Run out of\" means to have none left.",
+      "options": [
+        "We ran out of milk.",
+        "We ran out milk.",
+        "We ran off of milk."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Of\" is missing.",
+        "2": "\"Run off\" means to leave quickly."
+      }
+    },
+    {
+      "id": "a2-sc-347",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "work-education-technology",
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"More friendly\" and \"friendlier\" are both correct.",
+      "options": [
+        "The new boss is friendlyer than the old one.",
+        "The new boss is more friendlier than the old one.",
+        "The new boss is more friendly than the old one."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The comparative of \"friendly\" is \"friendlier\" or \"more friendly\".",
+        "1": "Do not use \"more\" and \"-er\" together."
+      }
+    },
+    {
+      "id": "a2-sc-348",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "everyday-life"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Habits use the present simple.",
+      "options": [
+        "I get up at seven every morning.",
+        "I getting up at seven every morning.",
+        "I am getting up at seven every morning."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "For a regular habit we use the present simple, not the continuous.",
+        "1": "A verb after \"I\" needs an auxiliary with -ing or must be in the simple form."
+      }
+    },
+    {
+      "id": "a2-sc-349",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "verb-tenses"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Use the past simple with \"last weekend\".",
+      "options": [
+        "Last weekend we visited a beautiful castle.",
+        "Last weekend we visit a beautiful castle.",
+        "Last weekend we were visit a beautiful castle."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "1": "\"Last weekend\" is past, so we need the past simple: visited.",
+        "2": "\"were visit\" is not a correct form."
+      }
+    },
+    {
+      "id": "a2-sc-350",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "society-health-environment"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "Weather is uncountable and singular.",
+      "options": [
+        "The weather is bad today.",
+        "The time is bad today.",
+        "The weather are bad today."
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"weather\" is singular, so we use \"is\".",
+        "1": "We talk about rain, sun and wind as \"weather\", not \"time\"."
+      }
+    },
+    {
+      "id": "a2-sc-351",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "confusing-words",
+      "topics": [
+        "confusing-words-word-formation"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Borrow\" means to take temporarily.",
+      "options": [
+        "Can I lend your bike?",
+        "Can I loan your bike?",
+        "Can I borrow your bike?"
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "\"Lend\" means to give temporarily.",
+        "1": "\"Loan\" is usually a noun."
+      }
+    },
+    {
+      "id": "a2-sc-352",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "articles",
+      "topics": [
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"The\" is used with unique things.",
+      "options": [
+        "Moon is beautiful tonight.",
+        "The moon is beautiful tonight.",
+        "A moon is beautiful tonight."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "0": "Unique things need \"the\".",
+        "2": "There is only one moon."
+      }
+    },
+    {
+      "id": "a2-sc-353",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "adjectives",
+      "topics": [
+        "adjectives-adverbs"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Too ... to + verb\".",
+      "options": [
+        "It's too cold swim.",
+        "It's too cold to swim.",
+        "It's too cold for swim."
+      ],
+      "correct": 1,
+      "wrongReasons": {
+        "2": "\"For\" is followed by a noun.",
+        "0": "\"To\" is missing."
+      }
+    },
+    {
+      "id": "a2-sc-354",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "vocabulary",
+      "topics": [
+        "travel-places-leisure",
+        "articles-determiners"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "The question is \"How much does ... cost?\".",
+      "options": [
+        "How much does the ticket cost?",
+        "How much costs the ticket?",
+        "How many does the ticket cost?"
+      ],
+      "correct": 0,
+      "wrongReasons": {
+        "2": "\"many\" is used with countable nouns; here we ask about the price.",
+        "1": "In questions with \"do/does\" the word order is: How much does the ticket cost?"
+      }
+    },
+    {
+      "id": "a2-sc-355",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "phrasal-verbs",
+      "topics": [
+        "phrasal-collocations-idioms"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Take a photo\" is the standard collocation.",
+      "options": [
+        "They did a lot of photos.",
+        "They made a lot of photos.",
+        "They took a lot of photos."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "0": "The collocation is \"take photos\".",
+        "1": "\"Make\" is used for creating, not for photographing."
+      }
+    },
+    {
+      "id": "a2-sc-356",
+      "type": "sentence-choice",
+      "level": "A2",
+      "topic": "gerund",
+      "topics": [
+        "gerunds-infinitives-linking"
+      ],
+      "prompt": "Which sentence is correct?",
+      "explanation": "\"Stop + gerund\" means she finished talking.",
+      "options": [
+        "She stopped talk when I came in.",
+        "She stopped to talk when I came in.",
+        "She stopped talking when I came in."
+      ],
+      "correct": 2,
+      "wrongReasons": {
+        "1": "\"Stop to talk\" means she stopped in order to talk.",
+        "0": "\"Stop\" is followed by a gerund or \"to\"."
       }
     }
   ]
