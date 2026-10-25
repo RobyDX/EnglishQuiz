@@ -22,7 +22,7 @@ describe('Layout', () => {
   it('shows all the navigation buttons at once (no collapsing menu) and an Install button when not installed', () => {
     renderAt('/');
     const nav = screen.getByRole('navigation', { name: 'Main' });
-    for (const name of ['Home', 'Quiz', 'Test', 'About', 'Install']) expect(within(nav).getByRole('link', { name })).toBeInTheDocument();
+    for (const name of ['Home', 'Quiz', 'Test', 'Grammar', 'About', 'Install']) expect(within(nav).getByRole('link', { name })).toBeInTheDocument();
     expect(nav).not.toHaveTextContent('Home'); // icons only, no visible text
     expect(screen.getByRole('link', { name: 'Home' }).querySelector('svg')).not.toBeNull();
     expect(document.querySelector('.navbar-toggler')).toBeNull();

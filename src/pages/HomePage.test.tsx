@@ -17,13 +17,13 @@ describe('HomePage', () => {
     expect(screen.getByRole('link', { name: 'Learn how to install it' })).toHaveAttribute('href', '/install');
   });
 
-  it('has a descriptive navigation tile for Quiz, Level test, About and Installation', () => {
+  it('has a descriptive navigation tile for Quiz, Level test, Grammar, About and Installation', () => {
     render(
       <MemoryRouter>
         <HomePage />
       </MemoryRouter>,
     );
-    const targets: Record<string, string> = { Quiz: '/quiz', 'Level test': '/test', About: '/about', Installation: '/install' };
+    const targets: Record<string, string> = { Quiz: '/quiz', 'Level test': '/test', Grammar: '/grammar', About: '/about', Installation: '/install' };
     for (const [name, href] of Object.entries(targets)) {
       expect(screen.getByRole('link', { name })).toHaveAttribute('href', href);
       expect(screen.getByRole('heading', { level: 2, name })).toBeInTheDocument();

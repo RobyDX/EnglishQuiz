@@ -32,6 +32,8 @@ Icone in `public/`: **bandiera britannica con sotto la scritta "English Quiz"** 
 - `registerType: 'prompt'`: quando c'è una nuova versione compare un toast "New version available – Update". L'aggiornamento non interrompe un quiz in corso finché l'utente non conferma.
 - Navigazione SPA: con HashRouter non servono fallback di rewrite.
 
+- **Pagine di teoria** (`src/grammar/topics/*.tsx`, vedi `01` §12): sono chunk JS normali caricati in lazy, **dentro il precache** (non sono dati di domande): la sezione Grammar funziona offline fin dal primo caricamento, senza aprirla prima. Il peso resta piccolo (testo e JSX).
+
 ## Offline
 - Il primo caricamento richiede rete; poi l'app si avvia offline.
 - Offline si possono usare **solo i livelli già aperti almeno una volta** online. Un livello mai aperto mostra "Could not load this level. Connect to the internet to download it; it will then work offline." (Home) e nessuna tile di numero di domande attiva. Il test di livello richiede tutti i livelli: offline mostra un messaggio analogo.

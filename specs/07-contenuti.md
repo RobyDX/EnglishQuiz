@@ -83,3 +83,22 @@ Lavoro a lotti, un livello alla volta (A1 → C2). Le 3000 domande in più per l
 - Il caricamento lazy è **per livello**; se il livello scelto supera ~250 KB gzip si carica solo il file delle tipologie necessarie (`import.meta.glob` per file, non per cartella).
 - Caricamento lazy per livello: si scarica solo il livello scelto. Il service worker non li precachea: li mette in cache al primo uso (`specs/05-pwa.md`), quindi offline funzionano solo i livelli già aperti.
 - Per ridurre ripetizioni tra sessioni consecutive: in `localStorage` (`eq.seen.<livello>`) si tengono gli ultimi ~100 `id` visti, e `buildQuiz` li evita finché restano domande non viste.
+
+## Teoria (Grammar)
+Le pagine di `#/grammar` (vedi `01` §12) sono contenuti **a parte** dalle domande: non hanno quote, `topics` o legami con i quiz.
+
+**Regole di scrittura**
+- Originali, in **inglese semplice e chiaro**, con frasi brevi ed esempi di uso comune, senza riferimento a livelli CEFR. Nessun testo copiato.
+- Una pagina = un argomento, leggibile in 1–2 minuti: *Rule in brief* (2–3 righe), forma (tabella), uso, 3–5 esempi, *Common mistakes* (coppie ✗ / ✓), eccezioni.
+- Esempi corretti e verificati; gli errori mostrati sono quelli tipici di chi parla italiano, ma descritti in inglese.
+
+**Argomenti previsti** (si scrivono a lotti, area per area, partendo dagli argomenti più usati; il registro è la fonte di verità)
+- *Nouns & determiners*: countable/uncountable, plurals, articles, quantifiers, possessive 's.
+- *Pronouns & adjectives*: personal and possessive pronouns, reflexives, comparatives and superlatives, *as … as*, *too/enough*, adjective order, *-ed* vs *-ing*.
+- *Tenses*: to be/have got, present simple/continuous, past simple/continuous, present perfect, past perfect, future forms, *used to / would*, stative verbs.
+- *Verb forms & patterns*: modals, perfect modals, passive, gerund vs infinitive, phrasal verbs, irregular verbs, causative.
+- *Sentences & clauses*: word order and questions, question tags, conditionals, *wish / if only*, reported speech, relative clauses, linkers, inversion, cleft sentences, subjunctive.
+- *Prepositions & word use*: *in/on/at*, prepositions after verbs/adjectives, *make/do*, *say/tell*, word formation, look-alike words (false friends, spiegati solo in inglese: nessuna parola italiana).
+- *Spelling & usage*: capitals and punctuation, British vs American spelling, commonly confused words.
+
+**Validazione** (test sul registro): vedi `01` §12. Non esistono quote da verificare.

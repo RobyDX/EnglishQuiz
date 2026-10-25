@@ -49,6 +49,9 @@ Decisioni prese durante la progettazione e l'implementazione. Se una decisione c
 | 42 | **Nessun argomento selezionato di default**: la selezione non è più salvata in `eq.prefs`, a ogni apertura di `#/quiz` si parte da "tutti" | Richiesta esplicita | 03, 04 |
 | 43 | **Versione 1.0.0** (`package.json`, mostrata in About) | Richiesta esplicita: prima versione stabile | 04 |
 | 44 | **Pulsante "Share on WhatsApp"** (icona, ultimo a destra nella navbar; prima era nella home): link `wa.me` con messaggio e URL dell'app (senza hash), nessuna API o rete a runtime | Richiesta esplicita | 04 |
+| 45 | **Sezione Grammar** (`#/grammar`, `#/grammar/:topicId`): teoria in sola lettura, **indipendente dai quiz** (nessun legame con domande, errori o punteggio, nessuna persistenza); voce nella navbar e tile in home | Richiesta esplicita: pagine brevi per ripassare le regole come in altri siti di test d'inglese | 01 F16/§12, 04, 07 |
+| 46 | **Pagine di teoria statiche in TSX**, una per argomento, con un **registro** di metadati (id, titolo, area, summary, keywords) e pochi helper di stile; caricamento lazy e **dentro il precache**. Non JSON strutturato | Richiesta esplicita (più semplice). Si perde la validazione dello schema dei blocchi, ma il registro serve comunque a indice, ricerca e prev/next e si testa (id univoci, campi, `related`). Gli helper tengono lo stile uniforme | 01 §12, 05 |
+| 47 | **La teoria non è associata ai livelli CEFR**: niente campo `level` nel registro, niente filtro né badge nell'indice e nelle pagine; ordinata solo per area | Richiesta esplicita: la guida si consulta per argomento, non per livello | 01 §12, 04, 07 |
 
 ## Ancora aperte
 Vedi `06-piano-implementazione.md`, sezione "Decisioni": hosting, export/import cronologia, ESLint/Prettier.

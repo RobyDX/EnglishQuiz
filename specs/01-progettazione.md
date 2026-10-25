@@ -25,6 +25,7 @@ Web app **SPA + PWA**, interamente **front-end** (nessun backend), per esercitar
 | F11 | **Feedback sugli errori.** Per ogni risposta errata (o vuota) l'app mostra: la risposta data dall'utente, la risposta corretta, **perché è sbagliata** (*Why it's wrong*) e **la regola** (*Rule*), tutto in inglese. Il feedback compare subito dopo "Check answers", senza dover premere "Show correct answers". Ogni risposta sbagliata ha una spiegazione **propria** (non riusata tra opzioni diverse). Vedi `04-ui-ux.md` e `07-contenuti.md`. |
 | F12 | **Barra livello/progresso sempre visibile** durante il quiz (livello, "n / totale answered") sotto la navbar, con a destra un pulsante **"↓ End"** che scorre fino alla fine della pagina. |
 | F14 | **Test di livello adattivo** (`#/test`): 40 domande **di ogni tipologia**, **una alla volta e in sequenza** (non si può saltare avanti). Si parte dalle domande facili (A1): **risposta giusta ⇒ la domanda dopo è più difficile; risposta sbagliata o domanda saltata ⇒ più facile**. Una domanda che non si sa si può **saltare** ("Skip"); le 40 tile numerate in cima permettono solo di **rivedere le domande già fatte** (sola lettura, le risposte non si cambiano) e quelle non ancora raggiunte sono disattivate. Nessun feedback durante il test. Alla fine l'app mostra il **livello stimato**, il punteggio per livello e gli argomenti più deboli, con il pulsante per esercitarsi su quel livello. Limite di **40 minuti** (timer visibile). Il risultato è salvato in `localStorage` (`eq.placement`). Vedi §11. |
+| F16 | **Sezione Grammar** (`#/grammar`): pagine di teoria grammaticale brevi, **indipendenti dai quiz** (nessun legame con domande, punteggio o cronologia), per ripassare le regole. Indice con ricerca, una pagina per argomento, **nessun legame con i livelli CEFR**. Vedi §12. |
 | F13 | Nome dell'app: **"English Quiz"** (con lo spazio). La pagina About dice che l'app è stata fatta da Roberto Nacchia tramite Generative AI, per aiutare le persone a esercitarsi in inglese (senza soprannome). |
 
 ### 2.2 Non funzionali
@@ -66,8 +67,9 @@ EnglishQuiz/
    ├─ main.tsx             # entry point
    ├─ App.tsx              # HashRouter + route
    ├─ levels.ts            # nomi/descrizioni dei livelli, opzioni numero domande
-   ├─ pages/               # HomePage, QuizSetupPage, QuizPage, PlacementPage, InstallPage, AboutPage
+   ├─ pages/               # HomePage, QuizSetupPage, QuizPage, PlacementPage, InstallPage, AboutPage, GrammarIndexPage, GrammarTopicPage
    ├─ components/          # Layout, QuestionCard, ScoreCard, UpdatePrompt
+   ├─ grammar/             # teoria: registry.ts (metadati) + topics/<id>.tsx (una pagina statica per argomento) + helper (Rule, FormTable, Examples, Mistakes)
    ├─ questions/           # un componente UI per tipologia + registry.tsx
    ├─ engine/              # logica pura: normalize, rules (correzione), buildQuiz, gradeQuiz, score
    ├─ data/                # contenuti: <livello>/<tipo>.json + index.ts (vedi 07-contenuti.md)
@@ -170,6 +172,17 @@ Una volta passata alla domanda dopo, **la risposta è definitiva**. Sull'ultima 
 **Argomenti deboli.** Gli argomenti (`topic`) con almeno 2 errori (saltate incluse), in ordine decrescente, al massimo 5.
 
 **Non fa parte della cronologia** dei quiz (`eq.history`): ha chiavi proprie (`eq.placement` = ultimo risultato, `eq.placementHistory` = storico dei test, mostrato sotto la descrizione nella pagina `#/test`).
+
+## 12. Sezione Grammar (teoria)
+**Obiettivo**: ripasso rapido delle regole dell'inglese, consultabile senza fare esercizi. È una sezione **a sé**: nessun campo nelle domande, nessun collegamento dalle risposte errate, nessun punteggio, nessuna persistenza (nessuna chiave `eq.*`).
+
+**Contenuti statici.** Ogni argomento è **una pagina scritta a mano** come componente TSX (`src/grammar/topics/<id>.tsx`), senza schema di blocchi né JSON: libertà di impaginazione, con pochi helper condivisi (`Rule`, `FormTable`, `Examples`, `Mistakes`) per mantenere lo stesso stile. Un **registro** (`src/grammar/registry.ts`) elenca per ogni argomento `id`, `title`, `area`, `summary` (una riga), `keywords` e il componente, caricato in lazy (`React.lazy`, un chunk per pagina). Il registro alimenta indice, ricerca e "Previous / Next".
+
+**Logica pura** (ricerca per titolo/summary/keywords, raggruppamento per area, argomento precedente/successivo) in `src/engine/grammar.ts`, senza React, con test. Test sul registro: `id` univoci e in kebab-case, campi presenti, `related` esistenti, area valida.
+
+**Aree**: Nouns & determiners · Pronouns & adjectives · Tenses · Verb forms & patterns · Sentences & clauses · Prepositions & word use · Spelling & usage. Gli argomenti **non sono associati a un livello CEFR** (né nel registro né nella UI). Il contenuto è sempre **originale e in inglese** (regola generale di CLAUDE.md), con un inglese semplice e chiaro. Elenco degli argomenti previsti in `07-contenuti.md` §Teoria.
+
+Schermate e navigazione in `04-ui-ux.md`.
 
 ## 10. Fuori scope (per ora)
 Account utente, sincronizzazione cloud, audio/listening, generazione di domande via AI, classifiche.
