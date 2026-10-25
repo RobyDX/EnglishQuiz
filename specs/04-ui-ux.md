@@ -9,16 +9,18 @@ Grafica con **Bootstrap 5**, approccio **mobile-first**. **Colore del tema: il b
 | `#/quiz` | QuizSetupPage | Scelta livello e argomenti, tile del numero di domande (avviano il quiz) e **History** dei quiz |
 | `#/quiz/:level` | QuizPage | Domande, pulsante "Check answers", risultato |
 | `#/test` | PlacementPage | Descrizione del test di livello, **livello attuale** (se il test è già stato fatto), **storico dei test** con "Clear history" (in fondo all'intro), test adattivo di 40 domande, risultato con livello stimato |
+| `#/grammar` | GrammarIndexPage | Indice della teoria: ricerca, argomenti raggruppati per area (vedi sotto) |
+| `#/grammar/:topicId` | GrammarTopicPage | Una pagina di teoria; id sconosciuto ⇒ "Topic not found" con link all'indice |
 | `#/install` | InstallPage | Cos'è l'installazione di una PWA e come si fa su PC, Mac, Android, iOS in una guida breve (solo testo, 2-3 passi per piattaforma, nessuna immagine); pulsante **"Install app" sempre visibile** (se non già installata): attivo quando il browser permette l'installazione diretta, altrimenti disabilitato con una nota che rimanda alla guida sotto. Se già installata lo dice |
 | `#/about` | AboutPage | Autore, come è stata realizzata (Generative AI, spec driven), licenza d'uso libero, versione |
 
 Le vecchie rotte `#/history` e `#/placement` non esistono più: reindirizzano a `#/quiz` e `#/test`.
 
-Navbar sticky con l'icona dell'app (`pwa-192.png`, 32 px) davanti al titolo "English Quiz" (scritto con lo spazio; l'icona e il titolo portano alla home) e una **pulsantiera sempre visibile, solo icone** (nome in `aria-label` e tooltip) (niente hamburger/accordion, va a capo su mobile): **Home** (icona casa), **Quiz** (icona "?"), **Test** (icona bersaglio), **About** (info), **Install** (freccia di download; solo se l'app non è già installata, cioè non in `display-mode: standalone`) e, ultimo a destra, **Share on WhatsApp** (icona WhatsApp, sempre visibile): apre `https://wa.me/?text=…` in una nuova scheda con un breve messaggio e l'indirizzo dell'app (URL corrente senza `#`).
+Navbar sticky con l'icona dell'app (`pwa-192.png`, 32 px) davanti al titolo "English Quiz" (scritto con lo spazio; l'icona e il titolo portano alla home) e una **pulsantiera sempre visibile, solo icone** (nome in `aria-label` e tooltip) (niente hamburger/accordion, va a capo su mobile): **Home** (icona casa), **Quiz** (icona "?"), **Test** (icona bersaglio), **Grammar** (icona libro), **About** (info), **Install** (freccia di download; solo se l'app non è già installata, cioè non in `display-mode: standalone`) e, ultimo a destra, **Share on WhatsApp** (icona WhatsApp, sempre visibile): apre `https://wa.me/?text=…` in una nuova scheda con un breve messaggio e l'indirizzo dell'app (URL corrente senza `#`).
 
 ## HomePage (`#/`)
 - Titolo "English Quiz", un paragrafo di introduzione (esercizi di inglese dal livello A1 al C2, correzione con spiegazione, funziona anche offline) e un secondo paragrafo che dice che **l'app può essere installata** su computer e smartphone, con il pulsante **"Install app"** (visibile solo quando il browser permette l'installazione diretta, `beforeinstallprompt`) e il link "Learn how to install it" verso `#/install`. Entrambi nascosti se l'app è già installata.
-- Sotto, **4 tile di navigazione** (card cliccabili in griglia `row-cols-1 row-cols-md-2`, ognuna un unico link con titolo e descrizione ben descrittiva): **Quiz** (scegli livello e argomenti, rispondi e controlla; spiega gli errori; cronologia dei risultati), **Level test** (40 domande adattive, scopri il tuo livello CEFR), **About** (chi l'ha fatta e come), **Installation** (come installare l'app su PC, Mac, Android e iPhone). Se l'app è già installata la tile Installation resta, ma dice che è già installata.
+- Sotto, **5 tile di navigazione** (card cliccabili in griglia `row-cols-1 row-cols-md-2`, ognuna un unico link con titolo e descrizione ben descrittiva): **Quiz** (scegli livello e argomenti, rispondi e controlla; spiega gli errori; cronologia dei risultati), **Level test** (40 domande adattive, scopri il tuo livello CEFR), **Grammar** (pagine brevi di teoria per ripassare le regole, senza esercizi), **About** (chi l'ha fatta e come), **Installation** (come installare l'app su PC, Mac, Android e iPhone). Se l'app è già installata la tile Installation resta, ma dice che è già installata.
 
 ## QuizSetupPage (`#/quiz`)
 - 6 card/pulsanti livello in griglia: `row-cols-2 row-cols-md-3`, ognuna con codice (A1), nome ("Beginner") e breve descrizione.
@@ -54,6 +56,20 @@ Navbar sticky con l'icona dell'app (`pwa-192.png`, 32 px) davanti al titolo "Eng
 3. **Risultato**: titolo "Your level", il livello stimato in grande (es. **B1** + nome), una barra `progress` per ogni livello con "giuste / fatte" (i livelli non toccati sono grigi: il test adattivo non tocca tutti i livelli), l'elenco degli **argomenti più deboli** (se ce ne sono) poi la sezione **"Review your answers"**: tutte le domande con le `QuestionCard` in stato corretto/errato come nei quiz (con *Your answer*, *Correct answer*, *Why it's wrong*, *Rule*; quelle senza risposta mostrano "No answer" e non contano nel punteggio) e il pulsante **"Show correct answers"** (toggle) che mostra la soluzione anche per le giuste; in fondo i pulsanti **"Practise B1"** (apre un quiz normale di quel livello, 10 domande), **"Retake the test"** e **"Home"**.
 
 **Accessibilità.** Una sola regione `role="status"` sempre montata annuncia "Question n of 40" a ogni nuova domanda e il livello stimato alla fine; a ogni nuova domanda (o rivista dalle tile) il focus va al titolo della card (`tabIndex=-1`); a fine test il focus va al titolo del risultato. Le opzioni sono i normali radio / pulsanti delle domande a scelta, usabili da tastiera.
+
+## Grammar (`#/grammar`, `#/grammar/:topicId`)
+**Layout**: `col-12 col-lg-8 mx-auto`. Sezione di sola lettura, senza pulsanti di azione e senza stato salvato.
+
+**Indice (GrammarIndexPage)**
+- Titolo "Grammar" e una riga di introduzione ("Short pages to review the rules of English. No exercises, no score.").
+- Campo di **ricerca** (`type="search"`, label visibile "Search topics") su titolo, summary e keywords. Nessun filtro né badge di livello: la teoria non dipende dai livelli. Nessuno stato salvato: a ogni apertura la ricerca è vuota.
+- Sotto, gli argomenti **raggruppati per area** (titolo `h2` per area, nell'ordine di `01` §12); ogni argomento è una card-link (griglia `row-cols-1 row-cols-md-2`) con titolo e summary. Aree senza risultati nascoste; nessun risultato ⇒ "No topics match your search." in una regione `role="status"`.
+
+**Pagina argomento (GrammarTopicPage)**
+- Intestazione: link "← All topics", titolo `h1` (riceve il focus all'apertura, `tabIndex=-1`, e la pagina torna in cima) e area.
+- Corpo scritto a mano nello stile degli helper: **riquadro "Rule in brief"** (regola in 2-3 righe), sezioni `h2` (Form, Use, …) con `FormTable` (tabelle Bootstrap responsive con `caption`), `Examples` (frasi con la parte chiave in evidenza), **"Common mistakes"** (coppie ✗ / ✓ con il testo, mai solo il colore) e note sulle eccezioni.
+- In fondo: **Previous / Next topic** (nell'ordine del registro) e, se presenti, "Related topics" (link ad altre pagine).
+- Caricamento lazy con segnaposto "Loading…". Nessun legame con le domande dei quiz.
 
 ### Stati visivi di una domanda
 | Stato | Aspetto |

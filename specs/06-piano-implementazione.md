@@ -86,6 +86,14 @@ Strumenti di produzione in `src/scripts/content/` (Python, senza dipendenze): le
 - [x] Specifiche: `04` (mappa, HomePage, QuizSetupPage, PlacementPage), `05`, `08` (decisione 40)
 - [x] HomePage con tile, QuizSetupPage con History, pagina Test con livello attuale, About e Install riscritte, navbar aggiornata, test
 
+## Fase 8 – Sezione Grammar (decisioni 45–46)
+- [x] Specifiche: `01` F16 e §12, `04` (mappa, navbar, home, Grammar), `05`, `07` (Teoria), `08` (45–46)
+- [x] `engine/grammar.ts` (ricerca, filtro, raggruppamento, prev/next) + test
+- [x] `src/grammar/`: registro, helper (`Rule`, `FormTable`, `Examples`, `Mistakes`), test sul registro
+- [x] `GrammarIndexPage`, `GrammarTopicPage`, rotte, icona e tile in home, test
+- [x] Pagina di esempio *Present perfect* (approvata) e tutte le altre: 49 pagine in 7 aree (vedi `src/grammar/registry.ts`), con test di struttura per ogni pagina (`src/grammar/topics.test.tsx`)
+- [x] Build in `docs/`
+
 ## Definizione di "fatto"
 Soddisfatti i criteri di accettazione in `01-progettazione.md` §9 e la checklist PWA in `05-pwa.md`.
 

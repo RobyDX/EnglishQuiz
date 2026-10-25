@@ -1,6 +1,8 @@
 import { HashRouter, Navigate, Route, Routes } from 'react-router-dom';
 import Layout from './components/Layout';
 import AboutPage from './pages/AboutPage';
+import GrammarIndexPage from './pages/GrammarIndexPage';
+import GrammarTopicPage from './pages/GrammarTopicPage';
 import HomePage from './pages/HomePage';
 import InstallPage from './pages/InstallPage';
 import PlacementPage from './pages/PlacementPage';
@@ -16,6 +18,8 @@ export default function App() {
           <Route path="quiz" element={<QuizSetupPage />} />
           <Route path="quiz/:level" element={<QuizPage />} />
           <Route path="test" element={<PlacementPage />} />
+          <Route path="grammar" element={<GrammarIndexPage />} />
+          <Route path="grammar/:topicId" element={<GrammarTopicPage />} />
           <Route path="history" element={<Navigate to="/quiz" replace />} />
           <Route path="placement" element={<Navigate to="/test" replace />} />
           <Route path="install" element={<InstallPage />} />

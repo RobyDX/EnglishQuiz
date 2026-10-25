@@ -22,6 +22,11 @@ export default function HomePage() {
       text: 'Not sure where to start? Answer 40 adaptive questions in 40 minutes and find out your CEFR level. The test gets harder or easier as you go.',
     },
     {
+      to: '/grammar',
+      title: 'Grammar',
+      text: 'Short pages of grammar theory to review the rules of English quickly. No exercises and no score: just read and check the rule.',
+    },
+    {
       to: '/about',
       title: 'About',
       text: 'Who made English Quiz, how it was built with generative AI and written specifications, and why you are free to use it.',
